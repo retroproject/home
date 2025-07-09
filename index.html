@@ -1,0 +1,916 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Devil May Cry - Subscription Tiers</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Orbitron:wght@400;700;900&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: #0d0d0d url('https://i.imgur.com/Dc7CikC.jpeg') center/cover no-repeat fixed;
+            min-height: 100vh;
+            font-family: 'Orbitron', monospace;
+            color: #e0e0e0;
+            overflow-x: hidden;
+            position: relative;
+        }
+        
+        /* Fire ember particles */
+        .particles {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 1;
+            overflow: hidden;
+        }
+        
+        .ember {
+            position: absolute;
+            border-radius: 50%;
+            pointer-events: none;
+            animation: rise infinite linear;
+        }
+        
+        .ember.small {
+            width: 3px;
+            height: 3px;
+            background: radial-gradient(circle, #ff6b35 0%, #ff4757 50%, transparent 70%);
+            box-shadow: 0 0 6px #ff6b35;
+        }
+        
+        .ember.medium {
+            width: 4px;
+            height: 4px;
+            background: radial-gradient(circle, #ffd700 0%, #ff6b35 40%, #ff4757 70%, transparent 90%);
+            box-shadow: 0 0 8px #ff6b35, 0 0 12px rgba(255, 107, 53, 0.5);
+        }
+        
+        .ember.large {
+            width: 6px;
+            height: 6px;
+            background: radial-gradient(circle, #fff 0%, #ffd700 20%, #ff6b35 50%, #dc143c 80%, transparent 100%);
+            box-shadow: 0 0 10px #ff6b35, 0 0 20px rgba(255, 107, 53, 0.8), 0 0 30px rgba(255, 107, 53, 0.4);
+        }
+        
+        @keyframes rise {
+            0% {
+                transform: translateY(100vh) translateX(0px) scale(0);
+                opacity: 0;
+            }
+            10% {
+                opacity: 1;
+                transform: translateY(90vh) translateX(0px) scale(1);
+            }
+            90% {
+                opacity: 1;
+                transform: translateY(-10vh) translateX(var(--drift)) scale(1);
+            }
+            100% {
+                transform: translateY(-20vh) translateX(var(--drift)) scale(0);
+                opacity: 0;
+            }
+        }
+        
+        /* Floating ash particles */
+        .ash {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            background: rgba(128, 128, 128, 0.4);
+            border-radius: 50%;
+            animation: ashFloat 8s infinite ease-in-out;
+        }
+        
+        @keyframes ashFloat {
+            0%, 100% { 
+                transform: translateY(100vh) translateX(0px) rotate(0deg); 
+                opacity: 0; 
+            }
+            10% {
+                opacity: 0.6;
+            }
+            90% {
+                opacity: 0.3;
+                transform: translateY(-10vh) translateX(var(--ash-drift)) rotate(360deg);
+            }
+            100% {
+                transform: translateY(-20vh) translateX(var(--ash-drift)) rotate(360deg);
+                opacity: 0;
+            }
+        }
+        
+        .container {
+            max-width: 950px;
+            margin: 0;
+            padding-left: 200px;
+            padding-right: 2rem;
+            padding-top: 280px;
+            padding-bottom: 2rem;
+            display: flex;
+            gap: 3rem;
+            align-items: flex-start;
+            justify-content: flex-start;
+            position: relative;
+            z-index: 2;
+        }
+        
+        .left-section {
+            flex: 0 0 450px;
+            max-width: 450px;
+            animation: slideInLeft 1s ease-out;
+        }
+        
+        .right-section {
+            flex: 0 0 450px;
+            max-width: 450px;
+            animation: slideInRight 1s ease-out 0.3s both;
+        }
+        
+        @keyframes slideInLeft {
+            0% { transform: translateX(-100px); opacity: 0; }
+            100% { transform: translateX(0); opacity: 1; }
+        }
+        
+        @keyframes slideInRight {
+            0% { transform: translateX(100px); opacity: 0; }
+            100% { transform: translateX(0); opacity: 1; }
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 3rem;
+            position: absolute;
+            left: 200px;
+            top: 100px;
+            width: 950px;
+            z-index: 3;
+            animation: fadeInDown 1.5s ease-out;
+        }
+        
+        @keyframes fadeInDown {
+            0% { transform: translateY(-50px); opacity: 0; }
+            100% { transform: translateY(0); opacity: 1; }
+        }
+        
+        .main-title {
+            font-family: 'Orbitron', monospace;
+            font-size: 4.5rem;
+            font-weight: 700;
+            color: #ff6b35;
+            text-shadow: 0 0 30px rgba(255, 107, 53, 0.8), 0 0 60px rgba(255, 107, 53, 0.4);
+            margin-bottom: 0.5rem;
+            letter-spacing: 2px;
+            animation: titleGlow 3s ease-in-out infinite alternate;
+        }
+        
+        @keyframes titleGlow {
+            0% { text-shadow: 0 0 30px rgba(255, 107, 53, 0.8), 0 0 60px rgba(255, 107, 53, 0.4); }
+            100% { text-shadow: 0 0 40px rgba(255, 107, 53, 1), 0 0 80px rgba(255, 107, 53, 0.6); }
+        }
+        
+        .subtitle {
+            font-size: 2rem;
+            color: #b8860b;
+            font-weight: 400;
+            letter-spacing: 1px;
+            text-shadow: 0 0 10px rgba(184, 134, 11, 0.5);
+            font-family: 'Orbitron', monospace;
+            animation: subtitlePulse 2s ease-in-out infinite alternate;
+        }
+        
+        @keyframes subtitlePulse {
+            0% { opacity: 0.8; }
+            100% { opacity: 1; }
+        }
+        
+        .section-title {
+            font-family: 'Orbitron', monospace;
+            font-size: 2.8rem;
+            font-weight: 600;
+            color: #dc143c;
+            text-shadow: 0 0 15px rgba(220, 20, 60, 0.6);
+            margin-bottom: 1.5rem;
+            text-align: center;
+            letter-spacing: 1px;
+            animation: sectionTitleBounce 0.8s ease-out;
+        }
+        
+        @keyframes sectionTitleBounce {
+            0% { transform: scale(0.8); opacity: 0; }
+            60% { transform: scale(1.1); }
+            100% { transform: scale(1); opacity: 1; }
+        }
+        
+        .monthly-tiers {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+        
+        .multi-month-tiers {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+        
+        .tier-card {
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.3), rgba(30, 30, 30, 0.3));
+            border: 2px solid rgba(220, 20, 60, 0.4);
+            border-radius: 15px;
+            padding: 1.8rem;
+            position: relative;
+            overflow: visible;
+            transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            backdrop-filter: blur(15px);
+            height: 180px;
+            width: 100%;
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            opacity: 1;
+            transform: translateY(0);
+            cursor: pointer;
+        }
+        
+        /* Animation class that gets added via JavaScript */
+        .tier-card.animate-in {
+            opacity: 0;
+            transform: translateY(30px);
+            animation: cardSlideUp 1s cubic-bezier(0.23, 1, 0.32, 1) forwards;
+        }
+        
+        .monthly-tiers .tier-card.animate-in:nth-child(1) { animation-delay: 0s; }
+        .monthly-tiers .tier-card.animate-in:nth-child(2) { animation-delay: 0s; }
+        .monthly-tiers .tier-card.animate-in:nth-child(3) { animation-delay: 0s; }
+        
+        .multi-month-tiers .tier-card.animate-in:nth-child(1) { animation-delay: 0s; }
+        .multi-month-tiers .tier-card.animate-in:nth-child(2) { animation-delay: 0s; }
+        .multi-month-tiers .tier-card.animate-in:nth-child(3) { animation-delay: 0s; }
+        
+        @keyframes cardSlideUp {
+            0% { 
+                transform: translateY(30px) scale(0.95); 
+                opacity: 0; 
+            }
+            60% {
+                transform: translateY(-5px) scale(1.02);
+                opacity: 0.8;
+            }
+            100% { 
+                transform: translateY(0) scale(1); 
+                opacity: 1; 
+            }
+        }
+        
+        .tier-card:hover {
+            transform: translateX(6px) translateY(-3px) scale(1.01);
+            border-color: rgba(220, 20, 60, 0.9);
+            box-shadow: -6px 6px 25px rgba(220, 20, 60, 0.4);
+        }
+        
+        .tier-card::before {
+            content: '';
+            position: absolute;
+            top: -2px;
+            left: -2px;
+            right: -2px;
+            bottom: -2px;
+            background: linear-gradient(45deg, transparent, rgba(220, 20, 60, 0.3), transparent);
+            border-radius: 15px;
+            z-index: -1;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+        
+        .tier-card:hover::before {
+            opacity: 1;
+            animation: borderGlow 2s ease-in-out infinite;
+        }
+        
+        .tier-name {
+            font-family: 'Orbitron', monospace;
+            font-size: 1.4rem;
+            font-weight: 600;
+            color: #dc143c;
+            margin-bottom: 0.8rem;
+            margin-top: 1.2rem;
+            text-align: center;
+            text-shadow: 0 0 10px rgba(220, 20, 60, 0.4);
+            transition: all 0.3s ease;
+        }
+        
+        .tier-card:hover .tier-name {
+            transform: scale(1.05);
+            text-shadow: 0 0 20px rgba(220, 20, 60, 0.8);
+        }
+        
+        .tier-details {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 1rem;
+            text-align: center;
+        }
+        
+        .price {
+            font-size: 2.8rem;
+            font-weight: 900;
+            color: #b8860b;
+            text-shadow: 0 0 15px rgba(184, 134, 11, 0.5);
+            font-family: 'Orbitron', monospace;
+            margin-bottom: 0.5rem;
+            transition: all 0.3s ease;
+        }
+        
+        .tier-card:hover .price {
+            transform: scale(1.1);
+            text-shadow: 0 0 25px rgba(184, 134, 11, 0.8);
+            animation: priceGlow 1.5s ease-in-out infinite alternate;
+        }
+        
+        @keyframes priceGlow {
+            0% { color: #b8860b; }
+            100% { color: #ffd700; }
+        }
+        
+        .specs {
+            font-family: 'Orbitron', monospace;
+            display: flex;
+            gap: 1.5rem;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .spec-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0.3rem;
+        }
+        
+        .spec-label {
+            font-size: 0.8rem;
+            color: #888;
+            font-weight: 400;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .spec-value {
+            font-size: 1.2rem;
+            color: #e0e0e0;
+            font-weight: 700;
+        }
+        
+        .duration-label {
+            font-size: 0.9rem;
+            color: #ff6b35;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-top: 0.5rem;
+            text-shadow: 0 0 8px rgba(255, 107, 53, 0.5);
+            transition: all 0.3s ease;
+        }
+        
+        .tier-card:hover .duration-label {
+            transform: translateY(-2px);
+            text-shadow: 0 0 15px rgba(255, 107, 53, 0.8);
+        }
+        
+        /* Special tier animations */
+        .featured {
+            border-color: #b8860b;
+            background: linear-gradient(145deg, rgba(184, 134, 11, 0.15), rgba(30, 30, 30, 0.95));
+            animation: featuredPulse 3s ease-in-out infinite;
+        }
+        
+        @keyframes featuredPulse {
+            0%, 100% { box-shadow: 0 0 20px rgba(184, 134, 11, 0.3); }
+            50% { box-shadow: 0 0 30px rgba(184, 134, 11, 0.5); }
+        }
+        
+        .featured .duration-label {
+            color: #b8860b;
+            text-shadow: 0 0 8px rgba(184, 134, 11, 0.5);
+        }
+        
+        .dante {
+            border-color: #dc143c;
+            background: linear-gradient(145deg, rgba(220, 20, 60, 0.15), rgba(30, 30, 30, 0.95));
+            animation: dantePulse 2.5s ease-in-out infinite;
+        }
+        
+        @keyframes dantePulse {
+            0%, 100% { box-shadow: 0 0 20px rgba(220, 20, 60, 0.3); }
+            50% { box-shadow: 0 0 35px rgba(220, 20, 60, 0.6); }
+        }
+
+        .dante .duration-label {
+            color: #ff4757;
+            text-shadow: 0 0 8px rgba(255, 71, 87, 0.5);
+        }
+
+        .dante .tier-name {
+            color: #ff4757;
+            text-shadow: 0 0 10px rgba(255, 71, 87, 0.4);
+            font-size: 1.4rem;
+            font-family: 'Orbitron', monospace;
+        }
+
+        .dante::after {
+            content: 'DANTE';
+            position: absolute;
+            top: -16px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: linear-gradient(45deg, #dc143c, #ff4757);
+            color: #fff;
+            padding: 0.5rem 1.2rem;
+            font-size: 0.8rem;
+            font-weight: 700;
+            border-radius: 20px;
+            letter-spacing: 1px;
+            z-index: 10;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Orbitron', monospace;
+            box-shadow: 0 4px 15px rgba(220, 20, 60, 0.3);
+            animation: badgeBounce 2s ease-in-out infinite;
+        }
+        
+        @keyframes badgeBounce {
+            0%, 100% { transform: translateX(-50%) translateY(0); }
+            50% { transform: translateX(-50%) translateY(-3px); }
+        }
+
+        .nero {
+            border-color: #8a2be2;
+            background: linear-gradient(145deg, rgba(138, 43, 226, 0.15), rgba(30, 30, 30, 0.95));
+            animation: neroPulse 4s ease-in-out infinite;
+        }
+        
+        @keyframes neroPulse {
+            0%, 100% { box-shadow: 0 0 20px rgba(138, 43, 226, 0.3); }
+            50% { box-shadow: 0 0 30px rgba(138, 43, 226, 0.5); }
+        }
+
+        .nero .duration-label {
+            color: #9370db;
+            text-shadow: 0 0 8px rgba(147, 112, 219, 0.5);
+        }
+
+        .nero .tier-name {
+            color: #9370db;
+            text-shadow: 0 0 10px rgba(147, 112, 219, 0.4);
+            font-size: 1.4rem;
+            font-family: 'Orbitron', monospace;
+        }
+
+        .premium {
+            border-color: #1e4a72;
+            background: linear-gradient(145deg, rgba(30, 74, 114, 0.15), rgba(30, 30, 30, 0.95));
+            animation: premiumPulse 3.5s ease-in-out infinite;
+        }
+        
+        @keyframes premiumPulse {
+            0%, 100% { box-shadow: 0 0 20px rgba(30, 74, 114, 0.3); }
+            50% { box-shadow: 0 0 35px rgba(30, 74, 114, 0.5); }
+        }
+        
+        .premium .duration-label {
+            color: #4682b4;
+            text-shadow: 0 0 8px rgba(70, 130, 180, 0.5);
+        }
+        
+        .premium .tier-name {
+            color: #4682b4;
+            text-shadow: 0 0 10px rgba(70, 130, 180, 0.4);
+            font-size: 1.4rem;
+            font-family: 'Orbitron', monospace;
+        }
+        
+        .nero::after {
+            content: 'NERO';
+            position: absolute;
+            top: -16px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: linear-gradient(45deg, #8a2be2, #9370db);
+            color: #fff;
+            padding: 0.5rem 1.2rem;
+            font-size: 0.8rem;
+            font-weight: 700;
+            border-radius: 20px;
+            letter-spacing: 1px;
+            z-index: 10;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Orbitron', monospace;
+            box-shadow: 0 4px 15px rgba(138, 43, 226, 0.3);
+            animation: badgeBounce 2s ease-in-out infinite 0.5s;
+        }
+
+        .featured::after {
+            content: 'BEST VALUE';
+            position: absolute;
+            top: -16px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: linear-gradient(45deg, #b8860b, #ffd700);
+            color: #000;
+            padding: 0.5rem 1.2rem;
+            font-size: 0.8rem;
+            font-weight: 700;
+            border-radius: 20px;
+            letter-spacing: 1px;
+            z-index: 10;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Orbitron', monospace;
+            box-shadow: 0 4px 15px rgba(184, 134, 11, 0.3);
+            animation: badgeBounce 2s ease-in-out infinite 0.2s;
+        }
+        
+        .premium::after {
+            content: 'VERGIL';
+            position: absolute;
+            top: -16px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: linear-gradient(45deg, #1e4a72, #4682b4);
+            color: #fff;
+            padding: 0.5rem 1.2rem;
+            font-size: 0.8rem;
+            font-weight: 700;
+            border-radius: 20px;
+            letter-spacing: 1px;
+            z-index: 10;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Orbitron', monospace;
+            box-shadow: 0 4px 15px rgba(70, 130, 180, 0.3);
+            animation: badgeBounce 2s ease-in-out infinite 0.8s;
+        }
+        
+        @media (max-width: 1024px) {
+            .container {
+                flex-direction: column;
+                gap: 2rem;
+                padding-left: 2rem;
+            }
+            
+            .header {
+                left: 2rem;
+                width: calc(100% - 4rem);
+            }
+            
+            .left-section,
+            .right-section {
+                max-width: 100%;
+                flex: 1;
+            }
+            
+            .left-section {
+                animation: slideInTop 1s ease-out;
+            }
+            
+            .right-section {
+                animation: slideInBottom 1s ease-out 0.3s both;
+            }
+            
+            @keyframes slideInTop {
+                0% { transform: translateY(-50px); opacity: 0; }
+                100% { transform: translateY(0); opacity: 1; }
+            }
+            
+            @keyframes slideInBottom {
+                0% { transform: translateY(50px); opacity: 0; }
+                100% { transform: translateY(0); opacity: 1; }
+            }
+        }
+        
+        @media (max-width: 768px) {
+            .main-title {
+                font-size: 2.5rem;
+            }
+            
+            .subtitle {
+                font-size: 1.5rem;
+            }
+            
+            .section-title {
+                font-size: 2rem;
+            }
+            
+            .tier-card {
+                padding: 1.5rem;
+                height: auto;
+                min-height: 160px;
+            }
+            
+            .price {
+                font-size: 2.2rem;
+            }
+            
+            .container {
+                padding-top: 240px;
+            }
+            
+            .header {
+                top: 60px;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .main-title {
+                font-size: 2rem;
+            }
+            
+            .subtitle {
+                font-size: 1.2rem;
+            }
+            
+            .section-title {
+                font-size: 1.6rem;
+            }
+            
+            .tier-card {
+                padding: 1.2rem;
+            }
+            
+            .price {
+                font-size: 1.8rem;
+            }
+            
+            .specs {
+                gap: 1rem;
+            }
+            
+            .spec-value {
+                font-size: 1rem;
+            }
+            
+            .duration-label {
+                font-size: 0.8rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="particles" id="particles"></div>
+    
+    <div class="header">
+        <h1 class="main-title">RETRO PROJECT</h1>
+        <p class="subtitle">Subscription Tiers</p>
+    </div>
+    
+    <div class="container">
+        <div class="left-section">
+            <h2 class="section-title">Monthly Plans</h2>
+            <div class="monthly-tiers">
+                <div class="tier-card grey monthly-plan">
+                    <h3 class="tier-name">Single PC</h3>
+                    <div class="tier-details">
+                        <div class="price">45 SAR</div>
+                        <div class="duration-label">1 PC • 1 Month</div>
+                    </div>
+                </div>
+                
+                <div class="tier-card grey monthly-plan">
+                    <h3 class="tier-name">Dual PC</h3>
+                    <div class="tier-details">
+                        <div class="price">65 SAR</div>
+                        <div class="duration-label">2 PCs • 1 Month</div>
+                    </div>
+                </div>
+                
+                <div class="tier-card grey monthly-plan">
+                    <h3 class="tier-name">Triple PC</h3>
+                    <div class="tier-details">
+                        <div class="price">85 SAR</div>
+                        <div class="duration-label">3 PCs • 1 Month</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="right-section">
+            <h2 class="section-title">Extended Plans</h2>
+            <div class="multi-month-tiers">
+                <div class="tier-card nero extended-plan">
+                    <h3 class="tier-name">Devil Hunter</h3>
+                    <div class="tier-details">
+                        <div class="price">100 SAR</div>
+                        <div class="duration-label">1 PC • 3 Months</div>
+                    </div>
+                </div>
+                
+                <div class="tier-card dante extended-plan">
+                    <h3 class="tier-name">Dark Knight</h3>
+                    <div class="tier-details">
+                        <div class="price">200 SAR</div>
+                        <div class="duration-label">1 PC • 6 Months</div>
+                    </div>
+                </div>
+                
+                <div class="tier-card premium extended-plan">
+                    <h3 class="tier-name">Dark Slayer</h3>
+                    <div class="tier-details">
+                        <div class="price">300 SAR</div>
+                        <div class="duration-label">1 PC • 12 Months</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <audio id="backgroundMusic" loop>
+        <source src="https://archive.org/download/gmusicfame/Demon%20World.mp3" type="audio/mpeg">
+    </audio>
+
+    <script>
+        // Simple auto-play music for Demon World
+        function initializeMusic() {
+            const audio = document.getElementById('backgroundMusic');
+            audio.volume = 0.3; // Set volume to 30%
+            
+            // Multiple attempts to auto-play
+            function attemptAutoPlay() {
+                const playPromise = audio.play();
+                if (playPromise !== undefined) {
+                    playPromise.then(() => {
+                        console.log('Demon World is now playing!');
+                    }).catch((error) => {
+                        console.log('Auto-play blocked, will try on user interaction');
+                        setupUserInteractionFallback();
+                    });
+                }
+            }
+            
+            // Fallback for browsers that block auto-play
+            function setupUserInteractionFallback() {
+                const startMusic = () => {
+                    audio.play().then(() => {
+                        console.log('Music started after user interaction');
+                        // Remove event listeners after successful play
+                        document.removeEventListener('click', startMusic);
+                        document.removeEventListener('keydown', startMusic);
+                        document.removeEventListener('touchstart', startMusic);
+                    }).catch(() => {
+                        // Silent fail
+                    });
+                };
+                
+                // Listen for any user interaction
+                document.addEventListener('click', startMusic);
+                document.addEventListener('keydown', startMusic);
+                document.addEventListener('touchstart', startMusic);
+            }
+            
+            // Try to start music immediately
+            attemptAutoPlay();
+            
+            // Try again after a short delay
+            setTimeout(attemptAutoPlay, 500);
+            
+            // And one more time after page fully loads
+            setTimeout(attemptAutoPlay, 1500);
+        }
+        
+        // Create fire embers and ash particles
+        function createFireEffect() {
+            const particlesContainer = document.getElementById('particles');
+            
+            // Create fire embers
+            function createEmber() {
+                const ember = document.createElement('div');
+                const sizes = ['small', 'medium', 'large'];
+                const size = sizes[Math.floor(Math.random() * sizes.length)];
+                
+                ember.className = `ember ${size}`;
+                ember.style.left = Math.random() * 100 + '%';
+                ember.style.setProperty('--drift', (Math.random() - 0.5) * 200 + 'px');
+                ember.style.animationDuration = (Math.random() * 4 + 6) + 's';
+                ember.style.animationDelay = Math.random() * 2 + 's';
+                
+                particlesContainer.appendChild(ember);
+                
+                // Remove ember after animation
+                setTimeout(() => {
+                    if (ember.parentNode) {
+                        ember.parentNode.removeChild(ember);
+                    }
+                }, 10000);
+            }
+            
+            // Create ash particles
+            function createAsh() {
+                const ash = document.createElement('div');
+                ash.className = 'ash';
+                ash.style.left = Math.random() * 100 + '%';
+                ash.style.setProperty('--ash-drift', (Math.random() - 0.5) * 100 + 'px');
+                ash.style.animationDuration = (Math.random() * 3 + 8) + 's';
+                ash.style.animationDelay = Math.random() * 3 + 's';
+                
+                particlesContainer.appendChild(ash);
+                
+                // Remove ash after animation
+                setTimeout(() => {
+                    if (ash.parentNode) {
+                        ash.parentNode.removeChild(ash);
+                    }
+                }, 12000);
+            }
+            
+            // Continuously create embers and ash
+            setInterval(createEmber, 200); // New ember every 200ms
+            setInterval(createAsh, 800);   // New ash every 800ms
+            
+            // Create initial batch
+            for (let i = 0; i < 15; i++) {
+                setTimeout(createEmber, i * 100);
+            }
+            for (let i = 0; i < 8; i++) {
+                setTimeout(createAsh, i * 300);
+            }
+        }
+        
+        // Add click effects and navigation to tier cards
+        function setupTierCards() {
+            // Monthly plans - redirect to tab 2
+            document.querySelectorAll('.monthly-plan').forEach(card => {
+                card.addEventListener('click', function() {
+                    // Click animation
+                    this.style.transform = 'scale(0.95)';
+                    setTimeout(() => {
+                        this.style.transform = '';
+                        // Redirect to monthly plans tab
+                        window.open('https://gahweni.com/Dark1Vergil?tab=2', '_blank');
+                    }, 150);
+                });
+            });
+            
+            // Extended plans - redirect to main page
+            document.querySelectorAll('.extended-plan').forEach(card => {
+                card.addEventListener('click', function() {
+                    // Click animation
+                    this.style.transform = 'scale(0.95)';
+                    setTimeout(() => {
+                        this.style.transform = '';
+                        // Redirect to extended plans
+                        window.open('https://gahweni.com/Dark1Vergil', '_blank');
+                    }, 150);
+                });
+            });
+        }
+        
+        // Animate cards in sequence
+        function animateCards() {
+            const monthlyCards = document.querySelectorAll('.monthly-tiers .tier-card');
+            const extendedCards = document.querySelectorAll('.multi-month-tiers .tier-card');
+            
+            // Animate monthly cards
+            monthlyCards.forEach((card, index) => {
+                setTimeout(() => {
+                    card.classList.add('animate-in');
+                }, 300 + (index * 200));
+            });
+            
+            // Animate extended cards
+            extendedCards.forEach((card, index) => {
+                setTimeout(() => {
+                    card.classList.add('animate-in');
+                }, 900 + (index * 200));
+            });
+        }
+        
+        // Initialize everything
+        document.addEventListener('DOMContentLoaded', function() {
+            createFireEffect();
+            animateCards();
+            setupTierCards();
+            initializeMusic();
+        });
+    </script>
+</body>
+</html>
