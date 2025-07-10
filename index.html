@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Devil May Cry - Subscription Tiers</title>
+    <title>RETRO PROJECT</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Orbitron:wght@400;700;900&display=swap');
         
@@ -109,7 +109,61 @@
             }
         }
         
-        .container {
+        /* Navigation */
+        .nav {
+            position: fixed;
+            top: 2rem;
+            left: 2rem;
+            display: flex;
+            gap: 1rem;
+            z-index: 100;
+            animation: fadeInLeft 1s ease-out;
+        }
+        
+        @keyframes fadeInLeft {
+            0% { transform: translateX(-50px); opacity: 0; }
+            100% { transform: translateX(0); opacity: 1; }
+        }
+        
+        .nav-btn {
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.9), rgba(30, 30, 30, 0.9));
+            border: 2px solid rgba(220, 20, 60, 0.4);
+            border-radius: 10px;
+            padding: 0.8rem 1.5rem;
+            color: #e0e0e0;
+            font-family: 'Orbitron', monospace;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(15px);
+            text-decoration: none;
+            display: inline-block;
+        }
+        
+        .nav-btn:hover {
+            border-color: rgba(220, 20, 60, 0.8);
+            box-shadow: 0 0 20px rgba(220, 20, 60, 0.3);
+            transform: translateY(-2px);
+        }
+        
+        .nav-btn.active {
+            background: linear-gradient(145deg, rgba(220, 20, 60, 0.2), rgba(30, 30, 30, 0.9));
+            border-color: #dc143c;
+        }
+        
+        /* Content sections */
+        .content-section {
+            display: none;
+            position: relative;
+            z-index: 2;
+        }
+        
+        .content-section.active {
+            display: block;
+        }
+        
+        /* Main content (original subscription page) */
+        .main-content {
             max-width: 950px;
             margin: 0;
             padding-left: 200px;
@@ -120,8 +174,6 @@
             gap: 3rem;
             align-items: flex-start;
             justify-content: flex-start;
-            position: relative;
-            z-index: 2;
         }
         
         .left-section {
@@ -243,20 +295,11 @@
             cursor: pointer;
         }
         
-        /* Animation class that gets added via JavaScript */
         .tier-card.animate-in {
             opacity: 0;
             transform: translateY(30px);
             animation: cardSlideUp 1s cubic-bezier(0.23, 1, 0.32, 1) forwards;
         }
-        
-        .monthly-tiers .tier-card.animate-in:nth-child(1) { animation-delay: 0s; }
-        .monthly-tiers .tier-card.animate-in:nth-child(2) { animation-delay: 0s; }
-        .monthly-tiers .tier-card.animate-in:nth-child(3) { animation-delay: 0s; }
-        
-        .multi-month-tiers .tier-card.animate-in:nth-child(1) { animation-delay: 0s; }
-        .multi-month-tiers .tier-card.animate-in:nth-child(2) { animation-delay: 0s; }
-        .multi-month-tiers .tier-card.animate-in:nth-child(3) { animation-delay: 0s; }
         
         @keyframes cardSlideUp {
             0% { 
@@ -296,6 +339,11 @@
         .tier-card:hover::before {
             opacity: 1;
             animation: borderGlow 2s ease-in-out infinite;
+        }
+        
+        @keyframes borderGlow {
+            0%, 100% { background: linear-gradient(45deg, transparent, rgba(220, 20, 60, 0.3), transparent); }
+            50% { background: linear-gradient(45deg, transparent, rgba(220, 20, 60, 0.3), transparent); }
         }
         
         .tier-name {
@@ -342,35 +390,6 @@
         @keyframes priceGlow {
             0% { color: #b8860b; }
             100% { color: #ffd700; }
-        }
-        
-        .specs {
-            font-family: 'Orbitron', monospace;
-            display: flex;
-            gap: 1.5rem;
-            justify-content: center;
-            align-items: center;
-        }
-        
-        .spec-item {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            gap: 0.3rem;
-        }
-        
-        .spec-label {
-            font-size: 0.8rem;
-            color: #888;
-            font-weight: 400;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-        }
-        
-        .spec-value {
-            font-size: 1.2rem;
-            color: #e0e0e0;
-            font-weight: 700;
         }
         
         .duration-label {
@@ -571,9 +590,573 @@
             box-shadow: 0 4px 15px rgba(70, 130, 180, 0.3);
             animation: badgeBounce 2s ease-in-out infinite 0.8s;
         }
+
+        .games-content {
+            max-width: 1400px;
+            margin: 0;
+            padding: 100px 0 2rem 50px;
+            position: relative;
+            z-index: 2;
+            overflow-y: auto;
+            overflow-x: hidden;
+        }
         
+        .games-content::-webkit-scrollbar {
+            display: none;
+        }
+        
+        .games-content {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+        
+        .search-container {
+            max-width: 425px;
+            margin: 0 0 3rem 0;
+            position: relative;
+            animation: fadeInUp 1s ease-out 0.5s both;
+        }
+        
+        @keyframes fadeInUp {
+            0% { transform: translateY(50px); opacity: 0; }
+            100% { transform: translateY(0); opacity: 1; }
+        }
+        
+        .search-box {
+            width: 100%;
+            padding: 1.2rem 1.5rem;
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.4), rgba(30, 30, 30, 0.4));
+            border: 2px solid rgba(220, 20, 60, 0.4);
+            border-radius: 15px;
+            color: #e0e0e0;
+            font-family: 'Orbitron', monospace;
+            font-size: 1rem;
+            font-weight: 600;
+            backdrop-filter: blur(15px);
+            transition: all 0.3s ease;
+            outline: none;
+        }
+        
+        .search-box::placeholder {
+            color: rgba(224, 224, 224, 0.6);
+            font-weight: 400;
+        }
+        
+        .search-box:focus {
+            border-color: rgba(220, 20, 60, 0.8);
+            box-shadow: 0 0 20px rgba(220, 20, 60, 0.3);
+            transform: translateY(-2px);
+        }
+        
+        .search-icon {
+            position: absolute;
+            right: 1.5rem;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #ff6b35;
+            font-size: 1.2rem;
+            pointer-events: none;
+        }
+        
+        .games-grid {
+            display: grid;
+            grid-template-columns: repeat(5, 200px);
+            gap: 1.5rem;
+            animation: fadeInUp 1s ease-out 1s both;
+            justify-content: start;
+        }
+        
+        .game-card {
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.3), rgba(30, 30, 30, 0.3));
+            border: 2px solid rgba(220, 20, 60, 0.4);
+            border-radius: 10px;
+            overflow: hidden;
+            position: relative;
+            transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            backdrop-filter: blur(15px);
+            cursor: pointer;
+            opacity: 1;
+            transform: translateY(0);
+        }
+        
+        .game-card.animate-in {
+            opacity: 0;
+            transform: translateY(30px);
+            animation: cardSlideUp 1s cubic-bezier(0.23, 1, 0.32, 1) forwards;
+        }
+        
+        .game-card:hover {
+            transform: translateX(6px) translateY(-3px) scale(1.01);
+            border-color: rgba(220, 20, 60, 0.9);
+            box-shadow: -6px 6px 25px rgba(220, 20, 60, 0.4);
+        }
+        
+        .game-card::before {
+            content: '';
+            position: absolute;
+            top: -2px;
+            left: -2px;
+            right: -2px;
+            bottom: -2px;
+            background: linear-gradient(45deg, transparent, rgba(220, 20, 60, 0.3), transparent);
+            border-radius: 10px;
+            z-index: -1;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+        
+        .game-card:hover::before {
+            opacity: 1;
+        }
+        
+        .game-cover {
+            width: 100%;
+            aspect-ratio: 1;
+            object-fit: cover;
+            transition: transform 0.3s ease;
+            border-radius: 8px 8px 0 0;
+        }
+        
+        .game-card:hover .game-cover {
+            transform: scale(1.05);
+        }
+        
+        .game-info {
+            padding: 1rem;
+            text-align: center;
+        }
+        
+        .game-title {
+            font-family: 'Orbitron', monospace;
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: #e0e0e0;
+            text-shadow: 0 0 8px rgba(224, 224, 224, 0.3);
+            transition: all 0.3s ease;
+            line-height: 1.3;
+            height: 2.6em;
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+        }
+        
+        .game-card:hover .game-title {
+            color: #ff6b35;
+            text-shadow: 0 0 15px rgba(255, 107, 53, 0.8);
+            transform: scale(1.05);
+        }
+        
+        .loading-skeleton {
+            background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.1) 75%);
+            background-size: 200% 100%;
+            animation: loading 2s infinite;
+            border-radius: 10px;
+        }
+        
+        @keyframes loading {
+            0% { background-position: 200% 0; }
+            100% { background-position: -200% 0; }
+        }
+        
+        .no-results {
+            text-align: center;
+            padding: 4rem 2rem;
+            color: #ccc;
+            font-family: 'Orbitron', monospace;
+            font-size: 1.2rem;
+            animation: fadeInUp 0.5s ease-out;
+        }
+        
+        .no-results-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            color: #ff6b35;
+        }
+        
+        /* Game card ember particles */
+        .game-card-ember {
+            position: absolute;
+            width: 2px;
+            height: 2px;
+            background: radial-gradient(circle, #ff6b35 0%, #ff4757 50%, transparent 70%);
+            border-radius: 50%;
+            pointer-events: none;
+            animation: emberFloat 3s linear infinite;
+            opacity: 0;
+        }
+        
+        @keyframes emberFloat {
+            0% {
+                opacity: 0;
+                transform: translateY(0) translateX(0) scale(0);
+            }
+            10% {
+                opacity: 1;
+                transform: translateY(-5px) translateX(0) scale(1);
+            }
+            90% {
+                opacity: 0.7;
+                transform: translateY(-20px) translateX(var(--drift, 0)) scale(1);
+            }
+            100% {
+                opacity: 0;
+                transform: translateY(-30px) translateX(var(--drift, 0)) scale(0);
+            }
+        }
+        
+        /* FAQ Styles */
+        .faq-content {
+            max-width: 1200px;
+            margin: 0;
+            padding: 100px 2rem 2rem 2rem;
+            position: relative;
+            z-index: 2;
+        }
+        
+        .faq-sections {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(550px, 1fr));
+            gap: 2rem;
+            animation: fadeInUp 1s ease-out 0.5s both;
+        }
+        
+        .faq-section {
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.4), rgba(30, 30, 30, 0.4));
+            border-radius: 20px;
+            padding: 2rem;
+            backdrop-filter: blur(15px);
+            border: 2px solid;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: visible;
+        }
+        
+        .faq-section:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        }
+        
+        /* Character theme colors */
+        .faq-section.vergil {
+            border-color: rgba(70, 130, 180, 0.5);
+            background: linear-gradient(145deg, rgba(30, 74, 114, 0.1), rgba(30, 30, 30, 0.4));
+        }
+        
+        .faq-section.vergil:hover {
+            border-color: rgba(70, 130, 180, 0.8);
+            box-shadow: 0 10px 30px rgba(70, 130, 180, 0.2);
+        }
+        
+        .faq-section.dante {
+            border-color: rgba(220, 20, 60, 0.5);
+            background: linear-gradient(145deg, rgba(220, 20, 60, 0.1), rgba(30, 30, 30, 0.4));
+        }
+        
+        .faq-section.dante:hover {
+            border-color: rgba(220, 20, 60, 0.8);
+            box-shadow: 0 10px 30px rgba(220, 20, 60, 0.2);
+        }
+        
+        .faq-section.nero {
+            border-color: rgba(138, 43, 226, 0.5);
+            background: linear-gradient(145deg, rgba(138, 43, 226, 0.1), rgba(30, 30, 30, 0.4));
+        }
+        
+        .faq-section.nero:hover {
+            border-color: rgba(138, 43, 226, 0.8);
+            box-shadow: 0 10px 30px rgba(138, 43, 226, 0.2);
+        }
+        
+        /* FAQ Section Badges */
+        .faq-section.vergil::after {
+            content: 'VERGIL';
+            position: absolute;
+            top: -16px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: linear-gradient(45deg, #1e4a72, #4682b4);
+            color: #fff;
+            padding: 0.5rem 1.2rem;
+            font-size: 0.8rem;
+            font-weight: 700;
+            border-radius: 20px;
+            letter-spacing: 1px;
+            z-index: 10;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Orbitron', monospace;
+            box-shadow: 0 4px 15px rgba(70, 130, 180, 0.3);
+            animation: badgeBounce 2s ease-in-out infinite;
+        }
+        
+        .faq-section.dante::after {
+            content: 'DANTE';
+            position: absolute;
+            top: -16px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: linear-gradient(45deg, #dc143c, #ff4757);
+            color: #fff;
+            padding: 0.5rem 1.2rem;
+            font-size: 0.8rem;
+            font-weight: 700;
+            border-radius: 20px;
+            letter-spacing: 1px;
+            z-index: 10;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Orbitron', monospace;
+            box-shadow: 0 4px 15px rgba(220, 20, 60, 0.3);
+            animation: badgeBounce 2s ease-in-out infinite;
+        }
+        
+        /* Preview Styles */
+        .preview-content {
+            max-width: 1200px;
+            margin: 0;
+            padding: 100px 2rem 2rem 2rem;
+            position: relative;
+            z-index: 2;
+        }
+        
+        .video-container {
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.4), rgba(30, 30, 30, 0.4));
+            border: 2px solid rgba(220, 20, 60, 0.5);
+            border-radius: 20px;
+            padding: 2rem;
+            backdrop-filter: blur(15px);
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: visible;
+            margin-top: 2rem;
+            animation: fadeInUp 1s ease-out 0.5s both;
+        }
+        
+        .video-container:hover {
+            border-color: rgba(220, 20, 60, 0.8);
+            box-shadow: 0 10px 30px rgba(220, 20, 60, 0.2);
+            transform: translateY(-5px);
+        }
+        
+        .video-container::after {
+            content: 'TRAILER';
+            position: absolute;
+            top: -16px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: linear-gradient(45deg, #dc143c, #ff4757);
+            color: #fff;
+            padding: 0.5rem 1.2rem;
+            font-size: 0.8rem;
+            font-weight: 700;
+            border-radius: 20px;
+            letter-spacing: 1px;
+            z-index: 10;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Orbitron', monospace;
+            box-shadow: 0 4px 15px rgba(220, 20, 60, 0.3);
+            animation: badgeBounce 2s ease-in-out infinite;
+        }
+        
+        .video-wrapper {
+            position: relative;
+            width: 100%;
+            height: 0;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+        }
+        
+        .video-wrapper img,
+        .video-wrapper iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+            border-radius: 15px;
+            object-fit: cover;
+        }
+        
+        .video-info {
+            margin-top: 2rem;
+            text-align: center;
+        }
+        
+        .video-title {
+            font-family: 'Orbitron', monospace;
+            font-size: 1.8rem;
+            font-weight: 600;
+            color: #dc143c;
+            text-shadow: 0 0 15px rgba(220, 20, 60, 0.6);
+            margin-bottom: 1rem;
+            letter-spacing: 1px;
+        }
+        
+        .video-description {
+            font-size: 1rem;
+            color: #ccc;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        .video-features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+        
+        .feature-card {
+            background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5));
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            padding: 1.5rem;
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+        
+        .feature-card:hover {
+            border-color: rgba(255, 107, 53, 0.5);
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(255, 107, 53, 0.1);
+        }
+        
+        .feature-icon {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+        }
+        
+        .feature-title {
+            font-family: 'Orbitron', monospace;
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: #ff6b35;
+            margin-bottom: 0.5rem;
+        }
+        
+        .feature-text {
+            font-size: 0.9rem;
+            color: #ccc;
+            line-height: 1.5;
+        }
+        
+        .faq-section-title {
+            font-family: 'Orbitron', monospace;
+            font-size: 2rem;
+            font-weight: 600;
+            margin-bottom: 1.5rem;
+            text-align: center;
+            letter-spacing: 1px;
+            text-shadow: 0 0 15px;
+        }
+        
+        .faq-section.vergil .faq-section-title {
+            color: #4682b4;
+            text-shadow: 0 0 15px rgba(70, 130, 180, 0.6);
+        }
+        
+        .faq-section.dante .faq-section-title {
+            color: #dc143c;
+            text-shadow: 0 0 15px rgba(220, 20, 60, 0.6);
+        }
+        
+        .faq-section.nero .faq-section-title {
+            color: #9370db;
+            text-shadow: 0 0 15px rgba(147, 112, 219, 0.6);
+        }
+        
+        .faq-item {
+            margin-bottom: 1.5rem;
+            background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5));
+            border-radius: 12px;
+            overflow: hidden;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            transition: all 0.3s ease;
+        }
+        
+        .faq-item:hover {
+            border-color: rgba(255, 255, 255, 0.2);
+            transform: translateY(-2px);
+        }
+        
+        .faq-question {
+            padding: 1.2rem;
+            cursor: pointer;
+            font-family: 'Orbitron', monospace;
+            font-weight: 600;
+            font-size: 1rem;
+            color: #e0e0e0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: all 0.3s ease;
+            border: none;
+            background: none;
+            width: 100%;
+            text-align: left;
+        }
+        
+        .faq-question:hover {
+            color: #fff;
+            background: rgba(255, 255, 255, 0.05);
+        }
+        
+        .faq-question::after {
+            content: '+';
+            font-size: 1.5rem;
+            font-weight: 700;
+            transition: transform 0.3s ease;
+        }
+        
+        .faq-question.active::after {
+            content: '−';
+            transform: rotate(180deg);
+        }
+        
+        .faq-answer {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.3s ease;
+            background: rgba(0, 0, 0, 0.3);
+        }
+        
+        .faq-answer.active {
+            max-height: 200px;
+        }
+        
+        .faq-answer-content {
+            padding: 1.2rem;
+            font-size: 0.95rem;
+            line-height: 1.6;
+            color: #ccc;
+        }
+        
+        .faq-answer a {
+            color: #ff6b35;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+        
+        .faq-answer a:hover {
+            color: #ffd700;
+            text-shadow: 0 0 8px rgba(255, 215, 0, 0.5);
+        }
+        
+        /* Responsive design */
         @media (max-width: 1024px) {
-            .container {
+            .main-content {
                 flex-direction: column;
                 gap: 2rem;
                 padding-left: 2rem;
@@ -590,22 +1173,17 @@
                 flex: 1;
             }
             
-            .left-section {
-                animation: slideInTop 1s ease-out;
+            .faq-sections {
+                grid-template-columns: 1fr;
             }
             
-            .right-section {
-                animation: slideInBottom 1s ease-out 0.3s both;
+            .games-grid {
+                grid-template-columns: repeat(3, 180px);
+                gap: 1rem;
             }
             
-            @keyframes slideInTop {
-                0% { transform: translateY(-50px); opacity: 0; }
-                100% { transform: translateY(0); opacity: 1; }
-            }
-            
-            @keyframes slideInBottom {
-                0% { transform: translateY(50px); opacity: 0; }
-                100% { transform: translateY(0); opacity: 1; }
+            .games-title {
+                font-size: 2.5rem;
             }
         }
         
@@ -618,7 +1196,7 @@
                 font-size: 1.5rem;
             }
             
-            .section-title {
+            .section-title, .faq-section-title {
                 font-size: 2rem;
             }
             
@@ -632,12 +1210,75 @@
                 font-size: 2.2rem;
             }
             
-            .container {
+            .main-content {
                 padding-top: 240px;
             }
             
             .header {
                 top: 60px;
+            }
+            
+            .faq-content {
+                padding-top: 80px;
+            }
+            
+            .preview-content {
+                padding-top: 80px;
+            }
+            
+            .video-container {
+                padding: 1.5rem;
+                margin-top: 1rem;
+            }
+            
+            .video-info {
+                margin-top: 1.5rem;
+            }
+            
+            .video-title {
+                font-size: 1.4rem;
+            }
+            
+            .nav {
+                flex-direction: column;
+                gap: 0.5rem;
+            }
+            
+            .nav-btn {
+                padding: 0.6rem 1rem;
+                font-size: 0.9rem;
+            }
+            
+            .games-grid {
+                grid-template-columns: repeat(2, 150px);
+                gap: 0.8rem;
+            }
+            
+            .games-title {
+                font-size: 2rem;
+            }
+            
+            .games-subtitle {
+                font-size: 1.2rem;
+            }
+            
+            .search-box {
+                padding: 1rem;
+                font-size: 0.9rem;
+            }
+            
+            .games-content {
+                padding-left: 2rem;
+                padding-right: 2rem;
+                padding-top: 80px;
+            }
+            
+            .faq-content {
+                padding-top: 80px;
+            }
+            
+            .preview-content {
+                padding-top: 80px;
             }
         }
         
@@ -650,7 +1291,7 @@
                 font-size: 1.2rem;
             }
             
-            .section-title {
+            .section-title, .faq-section-title {
                 font-size: 1.6rem;
             }
             
@@ -662,15 +1303,20 @@
                 font-size: 1.8rem;
             }
             
-            .specs {
-                gap: 1rem;
+            .faq-sections {
+                grid-template-columns: 1fr;
             }
             
-            .spec-value {
-                font-size: 1rem;
+            .faq-section {
+                padding: 1.5rem;
             }
             
-            .duration-label {
+            .games-grid {
+                grid-template-columns: repeat(2, 120px);
+                gap: 0.5rem;
+            }
+            
+            .game-title {
                 font-size: 0.8rem;
             }
         }
@@ -679,65 +1325,327 @@
 <body>
     <div class="particles" id="particles"></div>
     
-    <div class="header">
-        <h1 class="main-title">RETRO PROJECT</h1>
-        <p class="subtitle">Subscription Tiers</p>
+    <!-- Navigation -->
+    <div class="nav">
+        <button class="nav-btn active" onclick="showSection('main')">Home</button>
+        <button class="nav-btn" onclick="showSection('games')">Games</button>
+        <button class="nav-btn" onclick="showSection('faq')">FAQ</button>
+        <button class="nav-btn" onclick="showSection('trailer')">Trailer</button>
     </div>
     
-    <div class="container">
-        <div class="left-section">
-            <h2 class="section-title">Monthly Plans</h2>
-            <div class="monthly-tiers">
-                <div class="tier-card grey monthly-plan">
-                    <h3 class="tier-name">Single PC</h3>
-                    <div class="tier-details">
-                        <div class="price">45 SAR</div>
-                        <div class="duration-label">1 PC • 1 Month</div>
+    <!-- Main Content (Original Subscription Page) -->
+    <div id="main-section" class="content-section active">
+        <div class="header">
+            <h1 class="main-title">RETRO PROJECT</h1>
+            <p class="subtitle">Subscription Tiers</p>
+        </div>
+        
+        <div class="main-content">
+            <div class="left-section">
+                <h2 class="section-title">Monthly Plans</h2>
+                <div class="monthly-tiers">
+                    <div class="tier-card grey monthly-plan">
+                        <h3 class="tier-name">Single PC</h3>
+                        <div class="tier-details">
+                            <div class="price">45 SAR</div>
+                            <div class="duration-label">1 PC • 1 Month</div>
+                        </div>
+                    </div>
+                    
+                    <div class="tier-card grey monthly-plan">
+                        <h3 class="tier-name">Dual PC</h3>
+                        <div class="tier-details">
+                            <div class="price">65 SAR</div>
+                            <div class="duration-label">2 PCs • 1 Month</div>
+                        </div>
+                    </div>
+                    
+                    <div class="tier-card grey monthly-plan">
+                        <h3 class="tier-name">Triple PC</h3>
+                        <div class="tier-details">
+                            <div class="price">85 SAR</div>
+                            <div class="duration-label">3 PCs • 1 Month</div>
+                        </div>
                     </div>
                 </div>
-                
-                <div class="tier-card grey monthly-plan">
-                    <h3 class="tier-name">Dual PC</h3>
-                    <div class="tier-details">
-                        <div class="price">65 SAR</div>
-                        <div class="duration-label">2 PCs • 1 Month</div>
+            </div>
+            
+            <div class="right-section">
+                <h2 class="section-title">Extended Plans</h2>
+                <div class="multi-month-tiers">
+                    <div class="tier-card nero extended-plan">
+                        <h3 class="tier-name">Devil Hunter</h3>
+                        <div class="tier-details">
+                            <div class="price">100 SAR</div>
+                            <div class="duration-label">1 PC • 3 Months</div>
+                        </div>
                     </div>
-                </div>
-                
-                <div class="tier-card grey monthly-plan">
-                    <h3 class="tier-name">Triple PC</h3>
-                    <div class="tier-details">
-                        <div class="price">85 SAR</div>
-                        <div class="duration-label">3 PCs • 1 Month</div>
+                    
+                    <div class="tier-card dante extended-plan">
+                        <h3 class="tier-name">Dark Knight</h3>
+                        <div class="tier-details">
+                            <div class="price">200 SAR</div>
+                            <div class="duration-label">1 PC • 6 Months</div>
+                        </div>
+                    </div>
+                    
+                    <div class="tier-card premium extended-plan">
+                        <h3 class="tier-name">Dark Slayer</h3>
+                        <div class="tier-details">
+                            <div class="price">300 SAR</div>
+                            <div class="duration-label">1 PC • 12 Months</div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-        
-        <div class="right-section">
-            <h2 class="section-title">Extended Plans</h2>
-            <div class="multi-month-tiers">
-                <div class="tier-card nero extended-plan">
-                    <h3 class="tier-name">Devil Hunter</h3>
-                    <div class="tier-details">
-                        <div class="price">100 SAR</div>
-                        <div class="duration-label">1 PC • 3 Months</div>
-                    </div>
+    </div>
+
+    <!-- Games Content -->
+    <div id="games-section" class="content-section">
+        <div class="games-content">
+            <div class="search-container">
+                <input type="text" class="search-box" placeholder="Search games..." id="gameSearch" oninput="searchGames()">
+                <div class="search-icon">🔍</div>
+            </div>
+            
+            <div class="games-grid" id="gamesGrid">
+                <!-- Games will be loaded here -->
+            </div>
+            
+            <div class="no-results" id="noResults" style="display: none;">
+                <div class="no-results-icon">🎮</div>
+                <div>No games found matching your search.</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Trailer Content -->
+    <div id="trailer-section" class="content-section">
+        <div class="preview-content">
+            <div class="video-container">
+                <div class="video-wrapper">
+                    <img 
+                        src="https://i.imgur.com/XgNYMvT.jpeg"
+                        alt="RETRO PROJECT Trailer"
+                        onerror="console.log('Image failed to load')"
+                        onload="console.log('Image loaded successfully')"
+                    />
                 </div>
                 
-                <div class="tier-card dante extended-plan">
-                    <h3 class="tier-name">Dark Knight</h3>
-                    <div class="tier-details">
-                        <div class="price">200 SAR</div>
-                        <div class="duration-label">1 PC • 6 Months</div>
-                    </div>
+                <div class="video-info">
+                    <h2 class="video-title">Experience Gaming Like Never Before</h2>
+                    <p class="video-description">
+                        Discover the power of RETRO PROJECT - where retro meets modern. Watch as we showcase 
+                        enhanced graphics, seamless gameplay, and the ultimate gaming platform that brings 
+                        together thousands of games from multiple consoles in one unified experience.
+                    </p>
+                </div>
+            </div>
+            
+            <div class="video-features">
+                <div class="feature-card">
+                    <div class="feature-icon">🎮</div>
+                    <div class="feature-title">40+ Platforms</div>
+                    <div class="feature-text">PlayStation, Xbox, Nintendo, Sega, and more all in one place</div>
                 </div>
                 
-                <div class="tier-card premium extended-plan">
-                    <h3 class="tier-name">Dark Slayer</h3>
-                    <div class="tier-details">
-                        <div class="price">300 SAR</div>
-                        <div class="duration-label">1 PC • 12 Months</div>
+                <div class="feature-card">
+                    <div class="feature-icon">✨</div>
+                    <div class="feature-title">Enhanced Graphics</div>
+                    <div class="feature-text">HD textures and visual improvements for the ultimate experience</div>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-icon">🚀</div>
+                    <div class="feature-title">3000+ Games</div>
+                    <div class="feature-text">Massive library with 100+ new games added monthly</div>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-icon">⚡</div>
+                    <div class="feature-title">Seamless Management</div>
+                    <div class="feature-text">Save sync, cheat codes, and social features built-in</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- FAQ Content -->
+    <div id="faq-section" class="content-section">
+        <div class="faq-content">
+            <div class="faq-sections">
+                <!-- General Questions (Vergil Theme - Blue) -->
+                <div class="faq-section vergil">
+                    <h2 class="faq-section-title">🎮 General Questions</h2>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" onclick="toggleFAQ(this)">
+                            What is RETRO PROJECT?
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                A gaming platform to download and manage retro and modern PC games with enhanced graphics, mods, and fast download speeds.
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" onclick="toggleFAQ(this)">
+                            Which platforms are supported?
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                40+ platforms: PlayStation (1–5), Xbox Series, Nintendo, Sega, PC, and retro handhelds.
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" onclick="toggleFAQ(this)">
+                            What makes this different?
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                HD textures, mods, sleek UI, save management, built-in cheats, and social features in one platform.
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" onclick="toggleFAQ(this)">
+                            Can I try before subscribing?
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Download our free demo from <a href="https://discord.gg/keGpTJqBT7" target="_blank">📥𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Games & Content (Vergil Theme - Blue) -->
+                <div class="faq-section vergil">
+                    <h2 class="faq-section-title">💾 Games & Content</h2>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" onclick="toggleFAQ(this)">
+                            How many games available?
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Over 3,000 games with 100+ new additions monthly, including the latest game releases.
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" onclick="toggleFAQ(this)">
+                            Do you offer game enhancements and mods?
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                We offer games enhanced with HD mods, textures, and visual upgrades for the ultimate classic and modern experience.
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" onclick="toggleFAQ(this)">
+                            Can I request games?
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                You can Request Games Here <a href="https://discord.gg/qn8GB7XXYJ" target="_blank">🎮𝐑𝐞𝐪𝐮𝐞𝐬𝐭</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Features (Dante Theme - Red) -->
+                <div class="faq-section dante">
+                    <h2 class="faq-section-title">🎨 Features</h2>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" onclick="toggleFAQ(this)">
+                            Wallpapers and themes?
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                High-quality animated wallpapers and theme songs for every game.
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" onclick="toggleFAQ(this)">
+                            📸𝐌𝐞𝐦𝐨𝐫𝐢𝐞𝐬 room?
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Quickly share screenshots with the community using the left touchpad (PS4/PS5) or Ctrl+F12, and clips with the right touchpad or Ctrl+F11. Clips last 40 seconds.
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" onclick="toggleFAQ(this)">
+                            Cheat codes included?
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Built-in cheat database with easy access.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Support (Dante Theme - Red) -->
+                <div class="faq-section dante">
+                    <h2 class="faq-section-title">⚙️ Support</h2>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" onclick="toggleFAQ(this)">
+                            System requirements?
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Optimized for various hardware - games come pre-configured for best performance.
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" onclick="toggleFAQ(this)">
+                            Save management?
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Scans your PC for all your saves and manages them automatically with sync between PC and emulator saves plus cloud backup.
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" onclick="toggleFAQ(this)">
+                            Installation help?
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Video guide in <a href="https://discord.gg/keGpTJqBT7" target="_blank">📥𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝</a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <button class="faq-question" onclick="toggleFAQ(this)">
+                            Technical issues?
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Our Team Will Help You here <a href="https://discord.gg/ZsmVfPBz2r" target="_blank">🛠️𝐒𝐮𝐩𝐩𝐨𝐫𝐭 Discord</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -749,6 +1657,329 @@
     </audio>
 
     <script>
+        // Game covers data - will be loaded from external file
+        let gameCovers = [];
+        let allGames = [];
+        let filteredGames = [];
+
+        // Load game covers from external txt file
+        async function loadGameCovers() {
+            try {
+                const response = await fetch('https://archive.org/download/gmusicfame/archive%20gamecovers.txt');
+                const text = await response.text();
+                
+                // Split by lines and filter out empty lines
+                gameCovers = text.split('\n')
+                    .map(line => line.trim())
+                    .filter(line => line.length > 0 && line.startsWith('https://'));
+                
+                console.log(`Loaded ${gameCovers.length} game covers`);
+                
+                // Process the games after loading
+                allGames = gameCovers.map(createGameObject).sort((a, b) => a.name.localeCompare(b.name));
+                filteredGames = [...allGames];
+                displayGames();
+                
+            } catch (error) {
+                console.error('Error loading game covers:', error);
+                // Fallback to original hardcoded list if loading fails
+                gameCovers = [
+                    "https://archive.org/download/gamecovers/Hades%20II.png",
+                    "https://archive.org/download/gamecovers/Hades.jpg",
+                    "https://archive.org/download/gamecovers/Hajime%20no%20Ippo%20The%20Fighting%21.jpg",
+                    "https://archive.org/download/gamecovers/Half-Life%202.png",
+                    "https://archive.org/download/gamecovers/Half-Life%20Alyx.jpg",
+                    "https://archive.org/download/gamecovers/Half-Life.png",
+                    "https://archive.org/download/gamecovers/Halo%20The%20Master%20Chief%20Collection.png",
+                    "https://archive.org/download/gamecovers/Halo%20Wars.png",
+                    "https://archive.org/download/gamecovers/Hannah%20Montana%20Spotlight%20World%20Tour.jpg",
+                    "https://archive.org/download/gamecovers/Hard%20Corps%20Uprising.jpg",
+                    "https://archive.org/download/gamecovers/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets.png",
+                    "https://archive.org/download/gamecovers/Harry%20Potter%20and%20the%20Deathly%20Hallows%20Part%201.jpg",
+                    "https://archive.org/download/gamecovers/Harry%20Potter%20and%20the%20Deathly%20Hallows%20Part%202.jpg",
+                    "https://archive.org/download/gamecovers/Harry%20Potter%20and%20the%20Goblet%20of%20Fire.jpg",
+                    "https://archive.org/download/gamecovers/Harry%20Potter%20and%20the%20Half-Blood%20Prince.jpg",
+                    "https://archive.org/download/gamecovers/Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix.jpg",
+                    "https://archive.org/download/gamecovers/Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban.jpg",
+                    "https://archive.org/download/gamecovers/Harry%20Potter%20and%20the%20Sorcerer%27s%20Stone.png",
+                    "https://archive.org/download/gamecovers/Harvest%20Moon%2064.jpg",
+                    "https://archive.org/download/gamecovers/Harvest%20Moon%20A%20New%20Beginning.jpg",
+                    "https://archive.org/download/gamecovers/Harvest%20Moon%20Animal%20Parade.jpg",
+                    "https://archive.org/download/gamecovers/Harvest%20Moon%20Back%20to%20Nature.jpg",
+                    "https://archive.org/download/gamecovers/Harvest%20Moon%20DS%20Grand%20Bazaar.jpg",
+                    "https://archive.org/download/gamecovers/Harvest%20Moon%20DS%20Island%20of%20Happiness.jpg",
+                    "https://archive.org/download/gamecovers/Harvest%20Moon%20DS%20Sunshine%20Islands.jpg"
+                ];
+                allGames = gameCovers.map(createGameObject).sort((a, b) => a.name.localeCompare(b.name));
+                filteredGames = [...allGames];
+                displayGames();
+            }
+        }
+
+        // Extract game name from URL
+        function extractGameName(url) {
+            const filename = url.split('/').pop();
+            const nameWithoutExtension = filename.replace(/\.(jpg|jpeg|png|gif)$/i, '');
+            return decodeURIComponent(nameWithoutExtension);
+        }
+
+        // Create game object from URL
+        function createGameObject(url) {
+            return {
+                name: extractGameName(url),
+                cover: url,
+                searchName: extractGameName(url).toLowerCase()
+            };
+        }
+
+        // Create ember particle effect for game cards
+        function createGameCardEmber(card) {
+            const ember = document.createElement('div');
+            ember.className = 'game-card-ember';
+            
+            // Random position along the edges
+            const side = Math.random() * 4;
+            if (side < 1) { // Top edge
+                ember.style.left = Math.random() * 100 + '%';
+                ember.style.top = '0%';
+            } else if (side < 2) { // Right edge
+                ember.style.left = '100%';
+                ember.style.top = Math.random() * 100 + '%';
+            } else if (side < 3) { // Bottom edge
+                ember.style.left = Math.random() * 100 + '%';
+                ember.style.top = '100%';
+            } else { // Left edge
+                ember.style.left = '0%';
+                ember.style.top = Math.random() * 100 + '%';
+            }
+            
+            ember.style.setProperty('--drift', (Math.random() - 0.5) * 20 + 'px');
+            
+            card.appendChild(ember);
+            
+            // Remove ember after animation
+            setTimeout(() => {
+                if (ember.parentNode) {
+                    ember.parentNode.removeChild(ember);
+                }
+            }, 3000);
+        }
+
+        // Load and display games
+        function loadGames() {
+            // This function is now called by loadGameCovers() after fetching the data
+            // Games are already processed in loadGameCovers()
+        }
+
+        // Display games in grid with prioritized loading
+        function displayGames() {
+            const gamesGrid = document.getElementById('gamesGrid');
+            const noResults = document.getElementById('noResults');
+            
+            if (filteredGames.length === 0) {
+                gamesGrid.innerHTML = '';
+                noResults.style.display = 'block';
+                return;
+            }
+            
+            noResults.style.display = 'none';
+            
+            gamesGrid.innerHTML = filteredGames.map((game, index) => `
+                <div class="game-card animate-in" style="animation-delay: ${Math.min(index * 0.05, 1)}s;" onmouseenter="startEmberEffect(this)" onmouseleave="stopEmberEffect(this)">
+                    <img class="game-cover" 
+                         src="${game.cover}" 
+                         alt="${game.name}" 
+                         onerror="handleImageError(this)" 
+                         loading="${index < 12 ? 'eager' : 'lazy'}"
+                         style="priority: ${index < 6 ? 'high' : 'low'}">
+                    <div class="game-info">
+                        <h3 class="game-title">${game.name}</h3>
+                    </div>
+                </div>
+            `).join('');
+            
+            // Apply prioritized loading after DOM update
+            setTimeout(() => {
+                prioritizeImageLoading();
+            }, 100);
+        }
+
+        // Handle image loading errors
+        function handleImageError(img) {
+            img.style.display = 'none';
+            const card = img.closest('.game-card');
+            const placeholder = document.createElement('div');
+            placeholder.className = 'game-cover loading-skeleton';
+            placeholder.style.display = 'flex';
+            placeholder.style.alignItems = 'center';
+            placeholder.style.justifyContent = 'center';
+            placeholder.style.color = '#ff6b35';
+            placeholder.style.fontSize = '2rem';
+            placeholder.innerHTML = '🎮';
+            img.parentNode.insertBefore(placeholder, img);
+        }
+
+        // Fuzzy search function
+        function fuzzyMatch(pattern, str) {
+            pattern = pattern.toLowerCase();
+            str = str.toLowerCase();
+            
+            let patternIdx = 0;
+            let strIdx = 0;
+            let score = 0;
+            let matches = [];
+            
+            while (patternIdx < pattern.length && strIdx < str.length) {
+                if (pattern[patternIdx] === str[strIdx]) {
+                    matches.push(strIdx);
+                    score += 1;
+                    patternIdx++;
+                }
+                strIdx++;
+            }
+            
+            if (patternIdx === pattern.length) {
+                // All pattern characters matched
+                // Bonus for exact substring match
+                if (str.includes(pattern)) {
+                    score += pattern.length * 2;
+                }
+                // Bonus for word boundary matches
+                const words = str.split(/\s+/);
+                for (const word of words) {
+                    if (word.startsWith(pattern.substring(0, Math.min(3, pattern.length)))) {
+                        score += 5;
+                    }
+                }
+                return score;
+            }
+            
+            return 0; // No match
+        }
+
+        // Search functionality with fuzzy search and prioritized loading
+        function searchGames() {
+            const searchTerm = document.getElementById('gameSearch').value.toLowerCase().trim();
+            
+            if (searchTerm === '') {
+                filteredGames = [...allGames];
+            } else {
+                // Fuzzy search with scoring
+                const searchResults = allGames.map(game => {
+                    const score = fuzzyMatch(searchTerm, game.searchName);
+                    return { game, score };
+                }).filter(result => result.score > 0);
+                
+                // Sort by score (highest first)
+                searchResults.sort((a, b) => b.score - a.score);
+                
+                filteredGames = searchResults.map(result => result.game);
+            }
+            
+            displayGames();
+        }
+
+        // Prioritized image loading
+        function prioritizeImageLoading() {
+            const gameCards = document.querySelectorAll('.game-card');
+            const images = document.querySelectorAll('.game-cover');
+            
+            // Set loading="eager" for first 12 images (visible on screen)
+            images.forEach((img, index) => {
+                if (index < 12) {
+                    img.loading = 'eager';
+                    img.style.priority = 'high';
+                } else {
+                    img.loading = 'lazy';
+                    img.style.priority = 'low';
+                }
+            });
+            
+            // Force load first 6 images immediately
+            for (let i = 0; i < Math.min(6, images.length); i++) {
+                const img = images[i];
+                if (img.dataset.src) {
+                    img.src = img.dataset.src;
+                    img.removeAttribute('data-src');
+                }
+            }
+        }
+
+        // Ember effect management
+        const emberIntervals = new Map();
+
+        function startEmberEffect(card) {
+            if (emberIntervals.has(card)) return;
+            
+            const interval = setInterval(() => {
+                createGameCardEmber(card);
+            }, 300);
+            
+            emberIntervals.set(card, interval);
+        }
+
+        function stopEmberEffect(card) {
+            const interval = emberIntervals.get(card);
+            if (interval) {
+                clearInterval(interval);
+                emberIntervals.delete(card);
+            }
+        }
+
+        // Navigation functionality
+        function showSection(sectionName) {
+            // Hide all sections
+            document.querySelectorAll('.content-section').forEach(section => {
+                section.classList.remove('active');
+            });
+            
+            // Remove active class from all nav buttons
+            document.querySelectorAll('.nav-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            
+            // Show selected section
+            document.getElementById(sectionName + '-section').classList.add('active');
+            
+            // Add active class to clicked button
+            event.target.classList.add('active');
+            
+            // Handle background music based on section
+            const audio = document.getElementById('backgroundMusic');
+            // Always play background music for all sections now
+            audio.play().catch(() => {});
+            
+            // Restart animations for sections
+            if (sectionName === 'main') {
+                setTimeout(() => {
+                    animateCards();
+                }, 100);
+            } else if (sectionName === 'games') {
+                setTimeout(() => {
+                    loadGameCovers(); // Load from external file
+                }, 100);
+            }
+        }
+
+        // FAQ functionality
+        function toggleFAQ(element) {
+            const answer = element.nextElementSibling;
+            const isActive = element.classList.contains('active');
+            
+            // Close all other FAQ items in the same section
+            const section = element.closest('.faq-section');
+            section.querySelectorAll('.faq-question').forEach(question => {
+                question.classList.remove('active');
+                question.nextElementSibling.classList.remove('active');
+            });
+            
+            // Toggle current item
+            if (!isActive) {
+                element.classList.add('active');
+                answer.classList.add('active');
+            }
+        }
+
         // Simple auto-play music for Demon World
         function initializeMusic() {
             const audio = document.getElementById('backgroundMusic');
@@ -889,6 +2120,11 @@
             const monthlyCards = document.querySelectorAll('.monthly-tiers .tier-card');
             const extendedCards = document.querySelectorAll('.multi-month-tiers .tier-card');
             
+            // Reset animations
+            [...monthlyCards, ...extendedCards].forEach(card => {
+                card.classList.remove('animate-in');
+            });
+            
             // Animate monthly cards
             monthlyCards.forEach((card, index) => {
                 setTimeout(() => {
@@ -910,6 +2146,7 @@
             animateCards();
             setupTierCards();
             initializeMusic();
+            loadGameCovers(); // Load games from external file instead of loadGames()
         });
     </script>
 </body>
