@@ -611,8 +611,8 @@
         }
         
         .search-container {
-            max-width: 425px;
-            margin: 0 0 3rem 0;
+            max-width: 475px;
+            margin: 0 0 3rem 312px;
             position: relative;
             animation: fadeInUp 1s ease-out 0.5s both;
         }
@@ -1665,7 +1665,7 @@
         // Load game covers from external txt file
         async function loadGameCovers() {
             try {
-                const response = await fetch('https://archive.org/download/gmusicfame/archive%20gamecovers.txt');
+                const response = await fetch('https://archive.org/download/gamecovers/archive%20gamecovers.txt');
                 const text = await response.text();
                 
                 // Split by lines and filter out empty lines
@@ -1681,38 +1681,7 @@
                 displayGames();
                 
             } catch (error) {
-                console.error('Error loading game covers:', error);
-                // Fallback to original hardcoded list if loading fails
-                gameCovers = [
-                    "https://archive.org/download/gamecovers/Hades%20II.png",
-                    "https://archive.org/download/gamecovers/Hades.jpg",
-                    "https://archive.org/download/gamecovers/Hajime%20no%20Ippo%20The%20Fighting%21.jpg",
-                    "https://archive.org/download/gamecovers/Half-Life%202.png",
-                    "https://archive.org/download/gamecovers/Half-Life%20Alyx.jpg",
-                    "https://archive.org/download/gamecovers/Half-Life.png",
-                    "https://archive.org/download/gamecovers/Halo%20The%20Master%20Chief%20Collection.png",
-                    "https://archive.org/download/gamecovers/Halo%20Wars.png",
-                    "https://archive.org/download/gamecovers/Hannah%20Montana%20Spotlight%20World%20Tour.jpg",
-                    "https://archive.org/download/gamecovers/Hard%20Corps%20Uprising.jpg",
-                    "https://archive.org/download/gamecovers/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets.png",
-                    "https://archive.org/download/gamecovers/Harry%20Potter%20and%20the%20Deathly%20Hallows%20Part%201.jpg",
-                    "https://archive.org/download/gamecovers/Harry%20Potter%20and%20the%20Deathly%20Hallows%20Part%202.jpg",
-                    "https://archive.org/download/gamecovers/Harry%20Potter%20and%20the%20Goblet%20of%20Fire.jpg",
-                    "https://archive.org/download/gamecovers/Harry%20Potter%20and%20the%20Half-Blood%20Prince.jpg",
-                    "https://archive.org/download/gamecovers/Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix.jpg",
-                    "https://archive.org/download/gamecovers/Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban.jpg",
-                    "https://archive.org/download/gamecovers/Harry%20Potter%20and%20the%20Sorcerer%27s%20Stone.png",
-                    "https://archive.org/download/gamecovers/Harvest%20Moon%2064.jpg",
-                    "https://archive.org/download/gamecovers/Harvest%20Moon%20A%20New%20Beginning.jpg",
-                    "https://archive.org/download/gamecovers/Harvest%20Moon%20Animal%20Parade.jpg",
-                    "https://archive.org/download/gamecovers/Harvest%20Moon%20Back%20to%20Nature.jpg",
-                    "https://archive.org/download/gamecovers/Harvest%20Moon%20DS%20Grand%20Bazaar.jpg",
-                    "https://archive.org/download/gamecovers/Harvest%20Moon%20DS%20Island%20of%20Happiness.jpg",
-                    "https://archive.org/download/gamecovers/Harvest%20Moon%20DS%20Sunshine%20Islands.jpg"
-                ];
-                allGames = gameCovers.map(createGameObject).sort((a, b) => a.name.localeCompare(b.name));
-                filteredGames = [...allGames];
-                displayGames();
+
             }
         }
 
