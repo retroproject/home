@@ -591,6 +591,7 @@
             animation: badgeBounce 2s ease-in-out infinite 0.8s;
         }
 
+        /* Games Content */
         .games-content {
             max-width: 1400px;
             margin: 0;
@@ -612,7 +613,7 @@
         
         .search-container {
             max-width: 475px;
-            margin: 0 0 3rem 312px;
+            margin: 0 0 3rem 300px;
             position: relative;
             animation: fadeInUp 1s ease-out 0.5s both;
         }
@@ -658,12 +659,16 @@
             pointer-events: none;
         }
         
+        /* Games Grid - Updated for 5x3 layout */
         .games-grid {
             display: grid;
             grid-template-columns: repeat(5, 200px);
+            grid-template-rows: repeat(3, auto);
             gap: 1.5rem;
             animation: fadeInUp 1s ease-out 1s both;
             justify-content: start;
+            margin-left: 0px;
+            margin-bottom: 2rem;
         }
         
         .game-card {
@@ -747,6 +752,95 @@
             transform: scale(1.05);
         }
         
+        /* Pagination Styles */
+        .pagination-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 1rem;
+            margin: 2rem 0 2rem 20px;
+            width: calc(5 * 200px + 4 * 1.5rem);
+            position: relative;
+            z-index: 10;
+        }
+        
+        .pagination-btn {
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.9), rgba(30, 30, 30, 0.9));
+            border: 2px solid rgba(220, 20, 60, 0.4);
+            border-radius: 10px;
+            padding: 0.8rem 1.2rem;
+            color: #e0e0e0;
+            font-family: 'Orbitron', monospace;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(15px);
+            text-decoration: none;
+            display: inline-block;
+            min-width: 80px;
+            text-align: center;
+        }
+        
+        .pagination-btn:hover {
+            border-color: rgba(220, 20, 60, 0.8);
+            box-shadow: 0 0 20px rgba(220, 20, 60, 0.3);
+            transform: translateY(-2px);
+        }
+        
+        .pagination-btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            transform: none;
+        }
+        
+        .pagination-btn:disabled:hover {
+            border-color: rgba(220, 20, 60, 0.4);
+            box-shadow: none;
+            transform: none;
+        }
+        
+        .pagination-info {
+            color: #ff6b35;
+            font-family: 'Orbitron', monospace;
+            font-weight: 600;
+            text-shadow: 0 0 10px rgba(255, 107, 53, 0.5);
+            margin: 0 1rem;
+        }
+        
+        .page-jump {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            margin-left: 1rem;
+        }
+        
+        .page-jump input {
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.9), rgba(30, 30, 30, 0.9));
+            border: 2px solid rgba(220, 20, 60, 0.4);
+            border-radius: 8px;
+            padding: 0.5rem;
+            color: #e0e0e0;
+            font-family: 'Orbitron', monospace;
+            font-weight: 600;
+            backdrop-filter: blur(15px);
+            width: 60px;
+            text-align: center;
+            outline: none;
+            -webkit-appearance: none;
+            -moz-appearance: textfield;
+        }
+
+        .page-jump input::-webkit-outer-spin-button,
+        .page-jump input::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+        
+        .page-jump input:focus {
+            border-color: rgba(220, 20, 60, 0.8);
+            box-shadow: 0 0 10px rgba(220, 20, 60, 0.3);
+        }
+        
         .loading-skeleton {
             background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.1) 75%);
             background-size: 200% 100%;
@@ -766,6 +860,7 @@
             font-family: 'Orbitron', monospace;
             font-size: 1.2rem;
             animation: fadeInUp 0.5s ease-out;
+            grid-column: 1 / -1;
         }
         
         .no-results-icon {
@@ -774,35 +869,826 @@
             color: #ff6b35;
         }
         
-        /* Game card ember particles */
-        .game-card-ember {
+        /* Guide Content - Match original trailer style */
+        .guide-content {
+            max-width: 1200px;
+            margin: 0;
+            padding: 100px 2rem 2rem 2rem;
+            position: relative;
+            z-index: 2;
+        }
+        
+        .video-container {
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.4), rgba(30, 30, 30, 0.4));
+            border: 2px solid rgba(220, 20, 60, 0.5);
+            border-radius: 20px;
+            padding: 2rem;
+            backdrop-filter: blur(15px);
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: visible;
+            margin-top: 2rem;
+            animation: fadeInUp 1s ease-out 0.5s both;
+        }
+        
+        .video-container:hover {
+            border-color: rgba(220, 20, 60, 0.8);
+            box-shadow: 0 10px 30px rgba(220, 20, 60, 0.2);
+            transform: translateY(-5px);
+        }
+        
+        .video-container::after {
+            content: 'GUIDE VIDEO';
             position: absolute;
-            width: 2px;
-            height: 2px;
-            background: radial-gradient(circle, #ff6b35 0%, #ff4757 50%, transparent 70%);
+            top: -16px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: linear-gradient(45deg, #dc143c, #ff4757);
+            color: #fff;
+            padding: 0.5rem 1.2rem;
+            font-size: 0.8rem;
+            font-weight: 700;
+            border-radius: 20px;
+            letter-spacing: 1px;
+            z-index: 10;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Orbitron', monospace;
+            box-shadow: 0 4px 15px rgba(220, 20, 60, 0.3);
+            animation: badgeBounce 2s ease-in-out infinite;
+        }
+        
+        .video-wrapper {
+            position: relative;
+            width: 100%;
+            height: 0;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+        }
+        
+        .video-wrapper img,
+        .video-wrapper iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+            border-radius: 15px;
+            object-fit: cover;
+        }
+        
+        .video-info {
+            margin-top: 2rem;
+            text-align: center;
+        }
+        
+        .video-title {
+            font-family: 'Orbitron', monospace;
+            font-size: 1.8rem;
+            font-weight: 600;
+            color: #dc143c;
+            text-shadow: 0 0 15px rgba(220, 20, 60, 0.6);
+            margin-bottom: 1rem;
+            letter-spacing: 1px;
+        }
+        
+        .video-description {
+            font-size: 1rem;
+            color: #ccc;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        .video-features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+        
+        .feature-card {
+            background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5));
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            padding: 1.5rem;
+            text-align: center;
+            transition: all 0.3s ease;
+            opacity: 0;
+            transform: translateY(30px);
+            animation: featureCardSlideUp 0.8s cubic-bezier(0.23, 1, 0.32, 1) forwards;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .feature-card:nth-child(1) {
+            animation-delay: 0.1s;
+        }
+        
+        .feature-card:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+        
+        .feature-card:nth-child(3) {
+            animation-delay: 0.3s;
+        }
+        
+        @keyframes featureCardSlideUp {
+            0% { 
+                transform: translateY(30px) scale(0.95); 
+                opacity: 0; 
+            }
+            60% {
+                transform: translateY(-5px) scale(1.02);
+                opacity: 0.8;
+            }
+            100% { 
+                transform: translateY(0) scale(1); 
+                opacity: 1; 
+            }
+        }
+        
+        .feature-card:hover {
+            border-color: rgba(255, 107, 53, 0.5);
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(255, 107, 53, 0.1);
+        }
+        
+        .feature-card::before {
+            content: '';
+            position: absolute;
+            top: -2px;
+            left: -2px;
+            right: -2px;
+            bottom: -2px;
+            background: linear-gradient(45deg, rgba(255, 107, 53, 0.3), rgba(220, 20, 60, 0.3), rgba(255, 107, 53, 0.3));
+            border-radius: 12px;
+            z-index: -1;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+        
+        .feature-card:hover::before {
+            opacity: 1;
+            animation: borderGlow 2s ease-in-out infinite;
+        }
+        
+        .feature-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            filter: drop-shadow(0 0 10px rgba(255, 107, 53, 0.5));
+            animation: iconFloat 3s ease-in-out infinite;
+        }
+        
+        @keyframes iconFloat {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-10px); }
+        }
+        
+        .feature-title {
+            font-family: 'Orbitron', monospace;
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: #ff6b35;
+            margin-bottom: 0.5rem;
+            transition: all 0.3s ease;
+        }
+        
+        .feature-card:hover .feature-title {
+            color: #ffd700;
+            text-shadow: 0 0 15px rgba(255, 215, 0, 0.8);
+            transform: scale(1.05);
+        }
+        
+        .feature-text {
+            font-size: 0.9rem;
+            color: #ccc;
+            line-height: 1.5;
+            transition: color 0.3s ease;
+        }
+        
+        .feature-card:hover .feature-text {
+            color: #e0e0e0;
+        }
+        
+        /* Screenshots Content - Updated to single section with badge navigation */
+        .screenshots-content {
+            max-width: 1200px;
+            margin: 0;
+            padding: 100px 2rem 2rem 2rem;
+            position: relative;
+            z-index: 2;
+        }
+        
+        .screenshot-section {
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.4), rgba(30, 30, 30, 0.4));
+            border-radius: 15px;
+            padding: 1.5rem;
+            padding-top: 3rem;
+            backdrop-filter: blur(15px);
+            border: 2px solid rgba(70, 130, 180, 0.5);
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: visible;
+            animation: fadeInUp 1s ease-out 0.5s both;
+            margin-top: 2rem;
+        }
+        
+        .screenshot-section:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 25px rgba(70, 130, 180, 0.2);
+            border-color: rgba(70, 130, 180, 0.8);
+        }
+        
+        /* Badge Navigation - Fixed positioning */
+        .screenshot-badges {
+            position: absolute;
+            top: -18px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            gap: 1.5rem;
+            z-index: 50;
+            width: 300px;
+            height: auto;
+            justify-content: space-between;
+        }
+        
+        .screenshot-badge {
+            background: linear-gradient(45deg, #1e4a72, #4682b4);
+            color: #fff;
+            padding: 0.6rem 1.2rem;
+            font-size: 0.8rem;
+            font-weight: 700;
+            border-radius: 25px;
+            letter-spacing: 1px;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Orbitron', monospace;
+            box-shadow: 0 4px 15px rgba(70, 130, 180, 0.4);
+            cursor: pointer;
+            transition: opacity 0.3s ease, box-shadow 0.3s ease, background 0.3s ease;
+            border: 2px solid rgba(255, 255, 255, 0.1);
+            width: 140px;
+            height: 36px;
+            position: relative;
+            white-space: nowrap;
+            flex-shrink: 0;
+            /* Remove all transforms that could cause shifting */
+        }
+        
+        .screenshot-badge.active {
+            border-color: rgba(255, 255, 255, 0.4);
+            box-shadow: 0 6px 20px rgba(70, 130, 180, 0.6);
+            opacity: 1;
+        }
+        
+        .screenshot-badge:not(.active) {
+            opacity: 0.6;
+            background: linear-gradient(45deg, rgba(30, 74, 114, 0.5), rgba(70, 130, 180, 0.5));
+            box-shadow: 0 2px 8px rgba(70, 130, 180, 0.2);
+        }
+        
+        .screenshot-badge:not(.active):hover {
+            opacity: 0.9;
+            box-shadow: 0 4px 12px rgba(70, 130, 180, 0.3);
+        }
+        
+        .screenshot-badge.after-badge {
+            background: linear-gradient(45deg, #8a2be2, #9370db);
+            box-shadow: 0 4px 15px rgba(138, 43, 226, 0.4);
+        }
+        
+        .screenshot-badge.after-badge:not(.active) {
+            background: linear-gradient(45deg, rgba(138, 43, 226, 0.5), rgba(147, 112, 219, 0.5));
+            box-shadow: 0 2px 8px rgba(138, 43, 226, 0.2);
+        }
+        
+        .screenshot-badge.after-badge:not(.active):hover {
+            box-shadow: 0 4px 12px rgba(138, 43, 226, 0.3);
+        }
+        
+        .screenshot-badge.after-badge.active {
+            background: linear-gradient(45deg, #8a2be2, #9370db);
+            box-shadow: 0 6px 20px rgba(138, 43, 226, 0.6);
+        }
+        
+        .section-title-screenshots {
+            font-family: 'Orbitron', monospace;
+            font-size: 1.8rem;
+            font-weight: 600;
+            margin-bottom: 1.5rem;
+            text-align: center;
+            letter-spacing: 1px;
+            color: #4682b4;
+            text-shadow: 0 0 15px rgba(70, 130, 180, 0.6);
+            transition: all 0.3s ease;
+        }
+        
+        /* Content switching animation */
+        .screenshot-content {
+            opacity: 1;
+            transform: translateY(0);
+            transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+        }
+        
+        .screenshot-content.switching {
+            opacity: 0;
+            transform: translateY(20px);
+        }
+        
+        .screenshots-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+        
+        .screenshot-card {
+            background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5));
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 8px;
+            overflow: hidden;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        
+        .screenshot-card:hover {
+            border-color: rgba(255, 255, 255, 0.3);
+            transform: translateY(-3px);
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
+        }
+        
+        .screenshot-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.3s ease;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+        
+        .screenshot-card:hover .screenshot-image {
+            transform: scale(1.05);
+        }
+        
+        /* Lightbox Modal Styles */
+        .lightbox-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.9);
+            backdrop-filter: blur(10px);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 1000;
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            padding: 40px;
+            box-sizing: border-box;
+        }
+        
+        .lightbox-overlay.active {
+            opacity: 1;
+            visibility: visible;
+        }
+        
+        .lightbox-container {
+            position: relative;
+            border-radius: 15px;
+            transform: scale(0.8);
+            transition: transform 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            border: 3px solid;
+            border-image: linear-gradient(45deg, #ff6b35, #dc143c, #ff6b35) 1;
+            animation: glowingBorder 2s ease-in-out infinite alternate;
+            background: #111;
+            /* Let the image determine the container size */
+        }
+        
+        .lightbox-overlay.active .lightbox-container {
+            transform: scale(1);
+        }
+        
+        @keyframes glowingBorder {
+            0% {
+                box-shadow: 0 0 20px rgba(255, 107, 53, 0.5), 0 0 40px rgba(220, 20, 60, 0.3);
+                filter: brightness(1);
+            }
+            100% {
+                box-shadow: 0 0 30px rgba(255, 107, 53, 0.8), 0 0 60px rgba(220, 20, 60, 0.5);
+                filter: brightness(1.1);
+            }
+        }
+        
+        .lightbox-image {
+            max-width: calc(100vw - 120px);
+            max-height: calc(100vh - 120px);
+            width: auto;
+            height: auto;
+            object-fit: contain;
+            display: block;
+            transition: opacity 0.3s ease;
+            border-radius: 12px;
+        }
+        
+        .lightbox-close {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            width: 40px;
+            height: 40px;
+            background: linear-gradient(145deg, #dc143c, #ff4757);
+            border: none;
             border-radius: 50%;
-            pointer-events: none;
-            animation: emberFloat 3s linear infinite;
+            color: white;
+            font-size: 1.5rem;
+            font-weight: bold;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(220, 20, 60, 0.4);
+            z-index: 10;
+        }
+        
+        .lightbox-close:hover {
+            transform: scale(1.1) rotate(90deg);
+            box-shadow: 0 6px 20px rgba(220, 20, 60, 0.6);
+        }
+        
+        .lightbox-nav {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 50px;
+            height: 50px;
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.9), rgba(30, 30, 30, 0.9));
+            border: 2px solid rgba(255, 107, 53, 0.4);
+            border-radius: 50%;
+            color: #ff6b35;
+            font-size: 1.2rem;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(15px);
+            z-index: 10;
+        }
+        
+        .lightbox-nav:hover {
+            border-color: rgba(255, 107, 53, 0.8);
+            box-shadow: 0 0 20px rgba(255, 107, 53, 0.3);
+            transform: translateY(-50%) scale(1.1);
+            color: #fff;
+            background: linear-gradient(145deg, rgba(255, 107, 53, 0.2), rgba(30, 30, 30, 0.9));
+        }
+        
+        .lightbox-nav.prev {
+            left: 15px;
+        }
+        
+        .lightbox-nav.next {
+            right: 15px;
+        }
+        
+        .lightbox-nav:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+            transform: translateY(-50%);
+        }
+        
+        .lightbox-nav:disabled:hover {
+            border-color: rgba(255, 107, 53, 0.4);
+            box-shadow: none;
+            transform: translateY(-50%);
+            color: #ff6b35;
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.9), rgba(30, 30, 30, 0.9));
+        }
+        
+        .lightbox-counter {
+            position: absolute;
+            bottom: 15px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-family: 'Orbitron', monospace;
+            font-weight: 600;
+            color: #ff6b35;
+            font-size: 1rem;
+            text-shadow: 0 0 10px rgba(255, 107, 53, 0.5);
+            letter-spacing: 1px;
+            background: rgba(15, 15, 15, 0.8);
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            border: 2px solid rgba(255, 107, 53, 0.4);
+            backdrop-filter: blur(10px);
+        }
+        
+        /* Screenshot Feature Cards - Identical to Guide cards */
+        .screenshot-features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+        
+        .screenshot-feature-card {
+            background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5));
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            padding: 1.5rem;
+            text-align: center;
+            transition: all 0.3s ease;
+            opacity: 0;
+            transform: translateY(30px);
+            animation: featureCardSlideUp 0.8s cubic-bezier(0.23, 1, 0.32, 1) forwards;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .screenshot-feature-card:nth-child(1) {
+            animation-delay: 0.1s;
+        }
+        
+        .screenshot-feature-card:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+        
+        .screenshot-feature-card:nth-child(3) {
+            animation-delay: 0.3s;
+        }
+        
+        .screenshot-feature-card:hover {
+            border-color: rgba(255, 107, 53, 0.5);
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(255, 107, 53, 0.1);
+        }
+        
+        .screenshot-feature-card::before {
+            content: '';
+            position: absolute;
+            top: -2px;
+            left: -2px;
+            right: -2px;
+            bottom: -2px;
+            background: linear-gradient(45deg, rgba(255, 107, 53, 0.3), rgba(220, 20, 60, 0.3), rgba(255, 107, 53, 0.3));
+            border-radius: 12px;
+            z-index: -1;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+        
+        .screenshot-feature-card:hover::before {
+            opacity: 1;
+            animation: borderGlow 2s ease-in-out infinite;
+        }
+        
+        .screenshot-feature-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            filter: drop-shadow(0 0 10px rgba(255, 107, 53, 0.5));
+            animation: iconFloat 3s ease-in-out infinite;
+        }
+        
+        .screenshot-feature-title {
+            font-family: 'Orbitron', monospace;
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: #ff6b35;
+            margin-bottom: 0.5rem;
+            transition: all 0.3s ease;
+        }
+        
+        .screenshot-feature-card:hover .screenshot-feature-title {
+            color: #ffd700;
+            text-shadow: 0 0 15px rgba(255, 215, 0, 0.8);
+            transform: scale(1.05);
+        }
+        
+        .screenshot-feature-text {
+            font-size: 0.9rem;
+            color: #ccc;
+            line-height: 1.5;
+            transition: color 0.3s ease;
+        }
+        
+        .screenshot-feature-card:hover .screenshot-feature-text {
+            color: #e0e0e0;
+        }
+        
+        .screenshot-info {
+            display: none;
+        }
+        
+        .screenshot-title {
+            display: none;
+        }
+        
+        .screenshot-description {
+            display: none;
+        }
+        
+        /* Image Comparison Slider Styles */
+        .image-comparison-container {
+            width: 100%;
+            max-width: 1200px;
+            margin: 0 auto;
+            background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5));
+            border-radius: 20px;
+            overflow: hidden;
+            border: 2px solid rgba(138, 43, 226, 0.3);
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.6);
+        }
+        
+        /* Fade transition for images */
+        .image-comparison-slider {
+            position: relative;
+            width: 100%;
+            height: 600px;
+            overflow: hidden;
+            cursor: grab;
+            user-select: none;
+            transition: opacity 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+        }
+        
+        .image-comparison-slider.fading {
             opacity: 0;
         }
         
-        @keyframes emberFloat {
-            0% {
-                opacity: 0;
-                transform: translateY(0) translateX(0) scale(0);
-            }
-            10% {
-                opacity: 1;
-                transform: translateY(-5px) translateX(0) scale(1);
-            }
-            90% {
-                opacity: 0.7;
-                transform: translateY(-20px) translateX(var(--drift, 0)) scale(1);
-            }
-            100% {
-                opacity: 0;
-                transform: translateY(-30px) translateX(var(--drift, 0)) scale(0);
-            }
+        .image-comparison-slider:active {
+            cursor: grabbing;
+        }
+        
+        .comparison-image {
+            position: absolute;
+            top: 0;
+            width: 100%;
+            height: 100%;
+        }
+        
+        .comparison-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
+            pointer-events: none;
+        }
+        
+        .original-image {
+            left: 0;
+            clip-path: polygon(0 0, 50% 0, 50% 100%, 0 100%);
+        }
+        
+        .enhanced-image {
+            right: 0;
+            clip-path: polygon(50% 0, 100% 0, 100% 100%, 50% 100%);
+        }
+        
+        .slider-handle {
+            position: absolute;
+            top: 0;
+            left: 50%;
+            width: 4px;
+            height: 100%;
+            background: linear-gradient(to bottom, #ff6b35, #dc143c);
+            cursor: ew-resize;
+            transform: translateX(-50%);
+            z-index: 10;
+        }
+        
+        .slider-line {
+            width: 100%;
+            height: 100%;
+            background: inherit;
+            box-shadow: 0 0 10px rgba(255, 107, 53, 0.8);
+        }
+        
+        .slider-button {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 40px;
+            height: 40px;
+            background: linear-gradient(145deg, #ff6b35, #dc143c);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            box-shadow: 0 4px 15px rgba(255, 107, 53, 0.5);
+            transition: all 0.3s ease;
+        }
+        
+        .slider-button:hover {
+            transform: translate(-50%, -50%) scale(1.1);
+            box-shadow: 0 6px 20px rgba(255, 107, 53, 0.7);
+        }
+        
+        .image-label {
+            position: absolute;
+            top: 20px;
+            padding: 0.5rem 1rem;
+            background: rgba(0, 0, 0, 0.7);
+            backdrop-filter: blur(10px);
+            color: white;
+            font-family: 'Orbitron', monospace;
+            font-weight: 700;
+            font-size: 0.9rem;
+            letter-spacing: 1px;
+            border-radius: 20px;
+            border: 2px solid;
+            z-index: 5;
+        }
+        
+        .original-label {
+            left: 20px;
+            border-color: #ff4757;
+            color: #ff4757;
+            text-shadow: 0 0 8px rgba(255, 71, 87, 0.5);
+        }
+        
+        .enhanced-label {
+            right: 20px;
+            border-color: #2ed573;
+            color: #2ed573;
+            text-shadow: 0 0 8px rgba(46, 213, 115, 0.5);
+        }
+        
+        /* Navigation Controls */
+        .comparison-navigation {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 1.5rem;
+            padding: 0 1rem;
+        }
+        
+        .nav-arrow {
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.9), rgba(30, 30, 30, 0.9));
+            border: 2px solid rgba(138, 43, 226, 0.4);
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #9370db;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(15px);
+        }
+        
+        .nav-arrow:hover {
+            border-color: rgba(138, 43, 226, 0.8);
+            box-shadow: 0 0 20px rgba(138, 43, 226, 0.3);
+            transform: scale(1.1);
+            color: #fff;
+            background: linear-gradient(145deg, rgba(138, 43, 226, 0.2), rgba(30, 30, 30, 0.9));
+        }
+        
+        .nav-arrow:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+            transform: none;
+        }
+        
+        .nav-arrow:disabled:hover {
+            border-color: rgba(138, 43, 226, 0.4);
+            box-shadow: none;
+            transform: none;
+            color: #9370db;
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.9), rgba(30, 30, 30, 0.9));
+        }
+        
+        .example-info {
+            text-align: center;
+        }
+        
+        .example-counter {
+            font-family: 'Orbitron', monospace;
+            font-weight: 600;
+            color: #9370db;
+            font-size: 1rem;
+            text-shadow: 0 0 10px rgba(147, 112, 219, 0.5);
+            letter-spacing: 1px;
+        }
+        
+        /* Fade transition for images */
+        .comparison-image img {
+            transition: none;
         }
         
         /* FAQ Styles */
@@ -913,143 +1799,6 @@
             font-family: 'Orbitron', monospace;
             box-shadow: 0 4px 15px rgba(220, 20, 60, 0.3);
             animation: badgeBounce 2s ease-in-out infinite;
-        }
-        
-        /* Preview Styles */
-        .preview-content {
-            max-width: 1200px;
-            margin: 0;
-            padding: 100px 2rem 2rem 2rem;
-            position: relative;
-            z-index: 2;
-        }
-        
-        .video-container {
-            background: linear-gradient(145deg, rgba(15, 15, 15, 0.4), rgba(30, 30, 30, 0.4));
-            border: 2px solid rgba(220, 20, 60, 0.5);
-            border-radius: 20px;
-            padding: 2rem;
-            backdrop-filter: blur(15px);
-            transition: all 0.3s ease;
-            position: relative;
-            overflow: visible;
-            margin-top: 2rem;
-            animation: fadeInUp 1s ease-out 0.5s both;
-        }
-        
-        .video-container:hover {
-            border-color: rgba(220, 20, 60, 0.8);
-            box-shadow: 0 10px 30px rgba(220, 20, 60, 0.2);
-            transform: translateY(-5px);
-        }
-        
-        .video-container::after {
-            content: 'TRAILER';
-            position: absolute;
-            top: -16px;
-            left: 50%;
-            transform: translateX(-50%);
-            background: linear-gradient(45deg, #dc143c, #ff4757);
-            color: #fff;
-            padding: 0.5rem 1.2rem;
-            font-size: 0.8rem;
-            font-weight: 700;
-            border-radius: 20px;
-            letter-spacing: 1px;
-            z-index: 10;
-            text-align: center;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-family: 'Orbitron', monospace;
-            box-shadow: 0 4px 15px rgba(220, 20, 60, 0.3);
-            animation: badgeBounce 2s ease-in-out infinite;
-        }
-        
-        .video-wrapper {
-            position: relative;
-            width: 100%;
-            height: 0;
-            padding-bottom: 56.25%; /* 16:9 aspect ratio */
-            border-radius: 15px;
-            overflow: hidden;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-        }
-        
-        .video-wrapper img,
-        .video-wrapper iframe {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            border: none;
-            border-radius: 15px;
-            object-fit: cover;
-        }
-        
-        .video-info {
-            margin-top: 2rem;
-            text-align: center;
-        }
-        
-        .video-title {
-            font-family: 'Orbitron', monospace;
-            font-size: 1.8rem;
-            font-weight: 600;
-            color: #dc143c;
-            text-shadow: 0 0 15px rgba(220, 20, 60, 0.6);
-            margin-bottom: 1rem;
-            letter-spacing: 1px;
-        }
-        
-        .video-description {
-            font-size: 1rem;
-            color: #ccc;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-        }
-        
-        .video-features {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 1.5rem;
-            margin-top: 2rem;
-        }
-        
-        .feature-card {
-            background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5));
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            border-radius: 12px;
-            padding: 1.5rem;
-            text-align: center;
-            transition: all 0.3s ease;
-        }
-        
-        .feature-card:hover {
-            border-color: rgba(255, 107, 53, 0.5);
-            transform: translateY(-5px);
-            box-shadow: 0 10px 20px rgba(255, 107, 53, 0.1);
-        }
-        
-        .feature-icon {
-            font-size: 2rem;
-            margin-bottom: 1rem;
-        }
-        
-        .feature-title {
-            font-family: 'Orbitron', monospace;
-            font-size: 1.1rem;
-            font-weight: 600;
-            color: #ff6b35;
-            margin-bottom: 0.5rem;
-        }
-        
-        .feature-text {
-            font-size: 0.9rem;
-            color: #ccc;
-            line-height: 1.5;
         }
         
         .faq-section-title {
@@ -1179,11 +1928,12 @@
             
             .games-grid {
                 grid-template-columns: repeat(3, 180px);
-                gap: 1rem;
+                margin-left: 2rem;
             }
             
-            .games-title {
-                font-size: 2.5rem;
+            .search-container {
+                margin-left: 2rem;
+                max-width: 400px;
             }
         }
         
@@ -1196,7 +1946,7 @@
                 font-size: 1.5rem;
             }
             
-            .section-title, .faq-section-title {
+            .section-title, .faq-section-title, .section-title-screenshots {
                 font-size: 2rem;
             }
             
@@ -1218,27 +1968,6 @@
                 top: 60px;
             }
             
-            .faq-content {
-                padding-top: 80px;
-            }
-            
-            .preview-content {
-                padding-top: 80px;
-            }
-            
-            .video-container {
-                padding: 1.5rem;
-                margin-top: 1rem;
-            }
-            
-            .video-info {
-                margin-top: 1.5rem;
-            }
-            
-            .video-title {
-                font-size: 1.4rem;
-            }
-            
             .nav {
                 flex-direction: column;
                 gap: 0.5rem;
@@ -1251,34 +1980,37 @@
             
             .games-grid {
                 grid-template-columns: repeat(2, 150px);
-                gap: 0.8rem;
+                margin-left: 1rem;
             }
             
-            .games-title {
-                font-size: 2rem;
-            }
-            
-            .games-subtitle {
-                font-size: 1.2rem;
-            }
-            
-            .search-box {
-                padding: 1rem;
-                font-size: 0.9rem;
+            .search-container {
+                margin-left: 1rem;
+                max-width: 300px;
             }
             
             .games-content {
-                padding-left: 2rem;
-                padding-right: 2rem;
+                padding-left: 1rem;
+                padding-right: 1rem;
                 padding-top: 80px;
             }
             
-            .faq-content {
+            .faq-content, .guide-content, .screenshots-content {
                 padding-top: 80px;
             }
             
-            .preview-content {
-                padding-top: 80px;
+            .pagination-container {
+                flex-wrap: wrap;
+                gap: 0.5rem;
+            }
+            
+            .page-jump {
+                margin-left: 0;
+                margin-top: 0.5rem;
+            }
+            
+            .screenshot-badges {
+                flex-direction: column;
+                gap: 0.5rem;
             }
         }
         
@@ -1291,7 +2023,7 @@
                 font-size: 1.2rem;
             }
             
-            .section-title, .faq-section-title {
+            .section-title, .faq-section-title, .section-title-screenshots {
                 font-size: 1.6rem;
             }
             
@@ -1313,11 +2045,15 @@
             
             .games-grid {
                 grid-template-columns: repeat(2, 120px);
-                gap: 0.5rem;
+                margin-left: 0.5rem;
             }
             
-            .game-title {
-                font-size: 0.8rem;
+            .screenshots-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .guide-steps {
+                grid-template-columns: 1fr;
             }
         }
     </style>
@@ -1329,8 +2065,9 @@
     <div class="nav">
         <button class="nav-btn active" onclick="showSection('main')">Home</button>
         <button class="nav-btn" onclick="showSection('games')">Games</button>
+        <button class="nav-btn" onclick="showSection('guide')">Guide</button>
+        <button class="nav-btn" onclick="showSection('screenshots')">Screenshots</button>
         <button class="nav-btn" onclick="showSection('faq')">FAQ</button>
-        <button class="nav-btn" onclick="showSection('trailer')">Trailer</button>
     </div>
     
     <!-- Main Content (Original Subscription Page) -->
@@ -1413,6 +2150,15 @@
                 <!-- Games will be loaded here -->
             </div>
             
+            <div class="pagination-container" id="paginationContainer">
+                <button class="pagination-btn" id="prevBtn" onclick="changePage(-1)">← Previous</button>
+                <div class="pagination-info" id="pageInfo">Page 1 of 1</div>
+                <button class="pagination-btn" id="nextBtn" onclick="changePage(1)">Next →</button>
+                <div class="page-jump">
+                    Jump to: <input type="number" id="pageJump" min="1" placeholder="1" onkeypress="jumpToPage(event)">
+                </div>
+            </div>
+            
             <div class="no-results" id="noResults" style="display: none;">
                 <div class="no-results-icon">🎮</div>
                 <div>No games found matching your search.</div>
@@ -1420,52 +2166,145 @@
         </div>
     </div>
 
-    <!-- Trailer Content -->
-    <div id="trailer-section" class="content-section">
-        <div class="preview-content">
+    <!-- Guide Content -->
+    <div id="guide-section" class="content-section">
+        <div class="guide-content">
             <div class="video-container">
                 <div class="video-wrapper">
                     <img 
                         src="https://i.imgur.com/XgNYMvT.jpeg"
-                        alt="RETRO PROJECT Trailer"
-                        onerror="console.log('Image failed to load')"
-                        onload="console.log('Image loaded successfully')"
+                        alt="RETRO PROJECT Installation Guide"
+                        onerror="console.log('Guide image failed to load')"
+                        onload="console.log('Guide image loaded successfully')"
                     />
                 </div>
                 
                 <div class="video-info">
-                    <h2 class="video-title">Experience Gaming Like Never Before</h2>
+                    <h2 class="video-title">Complete Installation & Usage Guide</h2>
                     <p class="video-description">
-                        Discover the power of RETRO PROJECT - where retro meets modern. Watch as we showcase 
-                        enhanced graphics, seamless gameplay, and the ultimate gaming platform that brings 
-                        together thousands of games from multiple consoles in one unified experience.
+                        Follow our comprehensive video guide to install and set up RETRO PROJECT. 
+                        Learn how to download, install, configure, and optimize your gaming experience 
+                        with our step-by-step walkthrough.
                     </p>
                 </div>
             </div>
             
             <div class="video-features">
                 <div class="feature-card">
+                    <div class="feature-icon">🔧</div>
+                    <div class="feature-title">Installation</div>
+                    <div class="feature-text">Download and install RETRO PROJECT with our easy setup wizard and configuration guide</div>
+                </div>
+                
+                <div class="feature-card">
                     <div class="feature-icon">🎮</div>
-                    <div class="feature-title">40+ Platforms</div>
-                    <div class="feature-text">PlayStation, Xbox, Nintendo, Sega, and more all in one place</div>
+                    <div class="feature-title">Activation & UI</div>
+                    <div class="feature-text">Activate your subscription and learn to navigate the sleek interface and features</div>
                 </div>
                 
                 <div class="feature-card">
-                    <div class="feature-icon">✨</div>
-                    <div class="feature-title">Enhanced Graphics</div>
-                    <div class="feature-text">HD textures and visual improvements for the ultimate experience</div>
+                    <div class="feature-icon">📦</div>
+                    <div class="feature-title">Installing Games</div>
+                    <div class="feature-text">Browse, download, and install games with enhanced graphics and performance optimization</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Screenshots Content -->
+    <div id="screenshots-section" class="content-section">
+        <div class="screenshots-content">
+            <div class="screenshot-section">
+                <!-- Badge Navigation -->
+                <div class="screenshot-badges">
+                    <div class="screenshot-badge active" onclick="switchScreenshotMode('program')">PROGRAM UI</div>
+                    <div class="screenshot-badge after-badge" onclick="switchScreenshotMode('enhancements')">BEFORE/AFTER</div>
                 </div>
                 
-                <div class="feature-card">
-                    <div class="feature-icon">🚀</div>
-                    <div class="feature-title">3000+ Games</div>
-                    <div class="feature-text">Massive library with 100+ new games added monthly</div>
+                <h2 class="section-title-screenshots" id="screenshotTitle">💻 Program Interface</h2>
+                
+                <div class="screenshot-content" id="screenshotContent">
+                    <!-- Program UI Content (Default) -->
+                    <div class="screenshots-grid" id="programContent">
+                        <div class="screenshot-card" onclick="openLightbox(0)">
+                            <img class="screenshot-image" src="https://imgur.com/L3FTCSl.jpg" alt="Program Screenshot 1">
+                        </div>
+                        
+                        <div class="screenshot-card" onclick="openLightbox(1)">
+                            <img class="screenshot-image" src="https://imgur.com/bhnwcv7.jpg" alt="Program Screenshot 2">
+                        </div>
+                        
+                        <div class="screenshot-card" onclick="openLightbox(2)">
+                            <img class="screenshot-image" src="https://imgur.com/Cr9rtqC.jpg" alt="Program Screenshot 3">
+                        </div>
+                        
+                        <div class="screenshot-card" onclick="openLightbox(3)">
+                            <img class="screenshot-image" src="https://imgur.com/ZJpfAaR.jpg" alt="Program Screenshot 4">
+                        </div>
+                    </div>
+
+                    <!-- Before/After Content (Hidden by default) -->
+                    <div class="image-comparison-container" id="enhancementsContent" style="display: none;">
+                        <div class="image-comparison-slider" id="comparisonSlider">
+                            <div class="comparison-image original-image">
+                                <img id="originalImg" src="https://imgur.com/zt35DB9.jpg" alt="Original" draggable="false">
+                                <div class="image-label original-label">ORIGINAL</div>
+                            </div>
+                            <div class="comparison-image enhanced-image">
+                                <img id="enhancedImg" src="https://imgur.com/XSOBrWv.jpg" alt="Enhanced" draggable="false">
+                                <div class="image-label enhanced-label">ENHANCED</div>
+                            </div>
+                            <div class="slider-handle" id="sliderHandle">
+                                <div class="slider-line"></div>
+                                <div class="slider-button">
+                                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M15 18L9 12L15 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                        <path d="M9 18L15 12L9 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                    </svg>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- Navigation Controls -->
+                        <div class="comparison-navigation">
+                            <button class="nav-arrow prev-arrow" id="prevExample" onclick="changeExample(-1)">
+                                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M15 18L9 12L15 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                </svg>
+                            </button>
+                            
+                            <div class="example-info">
+                                <span class="example-counter" id="exampleCounter">Example 1 of 4</span>
+                            </div>
+                            
+                            <button class="nav-arrow next-arrow" id="nextExample" onclick="changeExample(1)">
+                                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M9 18L15 12L9 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
                 </div>
                 
-                <div class="feature-card">
-                    <div class="feature-icon">⚡</div>
-                    <div class="feature-title">Seamless Management</div>
-                    <div class="feature-text">Save sync, cheat codes, and social features built-in</div>
+                <!-- Feature Cards Section -->
+                <div class="screenshot-features">
+                    <div class="screenshot-feature-card">
+                        <div class="screenshot-feature-icon">✨</div>
+                        <div class="screenshot-feature-title">Enhanced Gaming Experience</div>
+                        <div class="screenshot-feature-text">Experience games with HD textures, visual upgrades, modded content, and enhanced graphics for the ultimate retro gaming experience</div>
+                    </div>
+                    
+                    <div class="screenshot-feature-card">
+                        <div class="screenshot-feature-icon">⚡</div>
+                        <div class="screenshot-feature-title">Smart Features</div>
+                        <div class="screenshot-feature-text">Lightning-fast downloads, automatic save management, and built-in cheats database for enhanced gameplay experience</div>
+                    </div>
+                    
+                    <div class="screenshot-feature-card">
+                        <div class="screenshot-feature-icon">🌐</div>
+                        <div class="screenshot-feature-title">Global Gaming</div>
+                        <div class="screenshot-feature-text">Play online multiplayer with RETRO PROJECT users worldwide, plus full Arabic translation and localized gaming experience</div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -1652,6 +2491,25 @@
         </div>
     </div>
 
+    <!-- Lightbox Modal -->
+    <div class="lightbox-overlay" id="lightboxOverlay" onclick="closeLightbox(event)">
+        <div class="lightbox-container">
+            <button class="lightbox-close" onclick="closeLightbox()">×</button>
+            <button class="lightbox-nav prev" id="lightboxPrev" onclick="navigateLightbox(-1)">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M15 18L9 12L15 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </button>
+            <button class="lightbox-nav next" id="lightboxNext" onclick="navigateLightbox(1)">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M9 18L15 12L9 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </button>
+            <img class="lightbox-image" id="lightboxImage" src="" alt="Program Screenshot">
+            <div class="lightbox-counter" id="lightboxCounter">1 of 4</div>
+        </div>
+    </div>
+
     <audio id="backgroundMusic" loop>
         <source src="https://archive.org/download/gmusicfame/Demon%20World.mp3" type="audio/mpeg">
     </audio>
@@ -1661,6 +2519,317 @@
         let gameCovers = [];
         let allGames = [];
         let filteredGames = [];
+        let currentPage = 1;
+        let gamesPerPage = 15; // 5 columns × 3 rows
+        let totalPages = 1;
+        let isSearching = false;
+
+        // Screenshot mode tracking
+        let currentScreenshotMode = 'program';
+        let currentExample = 0;
+        let currentLightboxIndex = 0;
+        
+        // Program UI screenshots data
+        const programScreenshots = [
+            'https://imgur.com/L3FTCSl.jpg',
+            'https://imgur.com/bhnwcv7.jpg',
+            'https://imgur.com/Cr9rtqC.jpg',
+            'https://imgur.com/ZJpfAaR.jpg'
+        ];
+        
+        // Lightbox functions
+        function openLightbox(index) {
+            currentLightboxIndex = index;
+            const overlay = document.getElementById('lightboxOverlay');
+            const image = document.getElementById('lightboxImage');
+            const counter = document.getElementById('lightboxCounter');
+            
+            image.src = programScreenshots[index];
+            counter.textContent = `${index + 1} of ${programScreenshots.length}`;
+            
+            overlay.classList.add('active');
+            document.body.style.overflow = 'hidden'; // Prevent background scrolling
+            
+            updateLightboxNavigation();
+        }
+        
+        function closeLightbox(event) {
+            // Close only if clicking on overlay or close button
+            if (event && event.target !== event.currentTarget && !event.target.classList.contains('lightbox-close')) {
+                return;
+            }
+            
+            const overlay = document.getElementById('lightboxOverlay');
+            overlay.classList.remove('active');
+            document.body.style.overflow = ''; // Restore scrolling
+        }
+        
+        function navigateLightbox(direction) {
+            currentLightboxIndex += direction;
+            
+            // Loop around if at boundaries
+            if (currentLightboxIndex < 0) currentLightboxIndex = programScreenshots.length - 1;
+            if (currentLightboxIndex >= programScreenshots.length) currentLightboxIndex = 0;
+            
+            const image = document.getElementById('lightboxImage');
+            const counter = document.getElementById('lightboxCounter');
+            
+            // Add fade effect during navigation
+            image.style.opacity = '0';
+            setTimeout(() => {
+                image.src = programScreenshots[currentLightboxIndex];
+                counter.textContent = `${currentLightboxIndex + 1} of ${programScreenshots.length}`;
+                image.style.opacity = '1';
+            }, 150);
+            
+            updateLightboxNavigation();
+        }
+        
+        function updateLightboxNavigation() {
+            const prevBtn = document.getElementById('lightboxPrev');
+            const nextBtn = document.getElementById('lightboxNext');
+            
+            // Enable all navigation (we're using loop-around)
+            prevBtn.disabled = false;
+            nextBtn.disabled = false;
+        }
+        
+        // ESC key to close lightbox
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') {
+                closeLightbox();
+            }
+            if (e.key === 'ArrowLeft') {
+                navigateLightbox(-1);
+            }
+            if (e.key === 'ArrowRight') {
+                navigateLightbox(1);
+            }
+        });
+        
+        // Example data - add your additional images for examples 3 and 4 later
+        const comparisonExamples = [
+            {
+                original: 'https://imgur.com/zt35DB9.jpg',
+                enhanced: 'https://imgur.com/XSOBrWv.jpg'
+            },
+            {
+                original: 'https://imgur.com/tbgcbCL.jpg',
+                enhanced: 'https://imgur.com/NlGhtKi.jpg'
+            },
+            {
+                // Placeholder for example 3 - replace with your images later
+                original: 'https://i.imgur.com/jcTDMAx.jpeg',
+                enhanced: 'https://i.imgur.com/u5GcKFQ.jpeg'
+            },
+            {
+                // Placeholder for example 4 - replace with your images later
+                original: 'https://i.imgur.com/rqwJYb0.png',
+                enhanced: 'https://i.imgur.com/5kSNI74.png'
+            }
+        ];
+        
+        // Change example function
+        function changeExample(direction) {
+            const newExample = currentExample + direction;
+            
+            // Check boundaries
+            if (newExample < 0 || newExample >= comparisonExamples.length) return;
+            
+            currentExample = newExample;
+            
+            // Update images with fade effect
+            updateComparisonImages();
+            
+            // Update navigation state
+            updateNavigationState();
+        }
+        
+        // Update comparison images
+        function updateComparisonImages() {
+            const slider = document.getElementById('comparisonSlider');
+            const originalImg = document.getElementById('originalImg');
+            const enhancedImg = document.getElementById('enhancedImg');
+            const originalContainer = document.querySelector('.original-image');
+            const enhancedContainer = document.querySelector('.enhanced-image');
+            
+            if (!originalImg || !enhancedImg || !slider) return;
+            
+            // Add fading class to entire slider
+            slider.classList.add('fading');
+            
+            setTimeout(() => {
+                // Update image sources
+                originalImg.src = comparisonExamples[currentExample].original;
+                enhancedImg.src = comparisonExamples[currentExample].enhanced;
+                
+                // Wait for images to load, then fade back in
+                let imagesLoaded = 0;
+                const checkLoaded = () => {
+                    imagesLoaded++;
+                    if (imagesLoaded === 2) {
+                        // Remove fading class
+                        slider.classList.remove('fading');
+                        
+                        // Reset slider to 50%
+                        const handle = document.getElementById('sliderHandle');
+                        if (handle) {
+                            const percentage = 50;
+                            handle.style.left = percentage + '%';
+                            originalContainer.style.clipPath = `polygon(0 0, ${percentage}% 0, ${percentage}% 100%, 0 100%)`;
+                            enhancedContainer.style.clipPath = `polygon(${percentage}% 0, 100% 0, 100% 100%, ${percentage}% 100%)`;
+                        }
+                    }
+                };
+                
+                originalImg.onload = checkLoaded;
+                enhancedImg.onload = checkLoaded;
+                
+                // Fallback in case images are already cached
+                if (originalImg.complete) checkLoaded();
+                if (enhancedImg.complete) checkLoaded();
+                
+            }, 300);
+        }
+        
+        // Update navigation state
+        function updateNavigationState() {
+            const prevBtn = document.getElementById('prevExample');
+            const nextBtn = document.getElementById('nextExample');
+            const counter = document.getElementById('exampleCounter');
+            
+            if (prevBtn) prevBtn.disabled = currentExample === 0;
+            if (nextBtn) nextBtn.disabled = currentExample === comparisonExamples.length - 1;
+            if (counter) counter.textContent = `Example ${currentExample + 1} of ${comparisonExamples.length}`;
+        }
+
+        // Switch screenshot mode function
+        function switchScreenshotMode(mode) {
+            if (currentScreenshotMode === mode) return;
+            
+            const content = document.getElementById('screenshotContent');
+            const title = document.getElementById('screenshotTitle');
+            const programBadge = document.querySelector('.screenshot-badge:not(.after-badge)');
+            const afterBadge = document.querySelector('.screenshot-badge.after-badge');
+            const programContent = document.getElementById('programContent');
+            const enhancementsContent = document.getElementById('enhancementsContent');
+            
+            // Add switching animation
+            content.classList.add('switching');
+            
+            setTimeout(() => {
+                if (mode === 'program') {
+                    // Switch to Program UI
+                    title.textContent = '💻 Program Interface';
+                    title.style.color = '#4682b4';
+                    title.style.textShadow = '0 0 15px rgba(70, 130, 180, 0.6)';
+                    
+                    programContent.style.display = 'grid';
+                    enhancementsContent.style.display = 'none';
+                    
+                    programBadge.classList.add('active');
+                    afterBadge.classList.remove('active');
+                    
+                } else if (mode === 'enhancements') {
+                    // Switch to Visual Enhancements
+                    title.textContent = '✨ Visual Enhancements';
+                    title.style.color = '#9370db';
+                    title.style.textShadow = '0 0 15px rgba(147, 112, 219, 0.6)';
+                    
+                    programContent.style.display = 'none';
+                    enhancementsContent.style.display = 'block';
+                    
+                    programBadge.classList.remove('active');
+                    afterBadge.classList.add('active');
+                    
+                    // Initialize comparison slider
+                    setTimeout(() => {
+                        initializeComparisonSlider();
+                        updateNavigationState();
+                    }, 100);
+                }
+                
+                currentScreenshotMode = mode;
+                
+                // Remove switching animation
+                content.classList.remove('switching');
+            }, 200);
+        }
+
+        // Initialize comparison slider functionality
+        function initializeComparisonSlider() {
+            const slider = document.querySelector('.image-comparison-slider');
+            const handle = document.getElementById('sliderHandle');
+            const originalImage = document.querySelector('.original-image');
+            const enhancedImage = document.querySelector('.enhanced-image');
+            
+            if (!slider || !handle) return;
+            
+            let isDragging = false;
+            
+            function updateSlider(clientX) {
+                const sliderRect = slider.getBoundingClientRect();
+                const percentage = Math.max(0, Math.min(100, ((clientX - sliderRect.left) / sliderRect.width) * 100));
+                
+                // Update handle position
+                handle.style.left = percentage + '%';
+                
+                // Update clip paths
+                originalImage.style.clipPath = `polygon(0 0, ${percentage}% 0, ${percentage}% 100%, 0 100%)`;
+                enhancedImage.style.clipPath = `polygon(${percentage}% 0, 100% 0, 100% 100%, ${percentage}% 100%)`;
+            }
+            
+            // Mouse events
+            function onMouseDown(e) {
+                isDragging = true;
+                updateSlider(e.clientX);
+                e.preventDefault();
+            }
+            
+            function onMouseMove(e) {
+                if (!isDragging) return;
+                updateSlider(e.clientX);
+                e.preventDefault();
+            }
+            
+            function onMouseUp() {
+                isDragging = false;
+            }
+            
+            // Touch events
+            function onTouchStart(e) {
+                isDragging = true;
+                updateSlider(e.touches[0].clientX);
+                e.preventDefault();
+            }
+            
+            function onTouchMove(e) {
+                if (!isDragging) return;
+                updateSlider(e.touches[0].clientX);
+                e.preventDefault();
+            }
+            
+            function onTouchEnd() {
+                isDragging = false;
+            }
+            
+            // Add event listeners
+            slider.addEventListener('mousedown', onMouseDown);
+            document.addEventListener('mousemove', onMouseMove);
+            document.addEventListener('mouseup', onMouseUp);
+            
+            slider.addEventListener('touchstart', onTouchStart, { passive: false });
+            document.addEventListener('touchmove', onTouchMove, { passive: false });
+            document.addEventListener('touchend', onTouchEnd);
+            
+            // Prevent image dragging
+            slider.querySelectorAll('img').forEach(img => {
+                img.addEventListener('dragstart', e => e.preventDefault());
+            });
+            
+            // Initialize at 50%
+            updateSlider(slider.getBoundingClientRect().left + slider.getBoundingClientRect().width / 2);
+        }
 
         // Load game covers from external txt file
         async function loadGameCovers() {
@@ -1678,11 +2847,44 @@
                 // Process the games after loading
                 allGames = gameCovers.map(createGameObject).sort((a, b) => a.name.localeCompare(b.name));
                 filteredGames = [...allGames];
-                displayGames();
+                updatePagination();
+                displayCurrentPage();
                 
             } catch (error) {
-
+                console.log('Could not load game covers, using placeholder games');
+                // Fallback to placeholder games for demo
+                createPlaceholderGames();
             }
+        }
+
+        // Create placeholder games for demo
+        function createPlaceholderGames() {
+            const placeholderGames = [];
+            const gameNames = [
+                'Devil May Cry 5', 'Resident Evil 4', 'Metal Gear Solid 3', 'Final Fantasy VII',
+                'God of War', 'The Last of Us', 'Grand Theft Auto V', 'Red Dead Redemption 2',
+                'Cyberpunk 2077', 'The Witcher 3', 'Assassin\'s Creed Odyssey', 'Spider-Man',
+                'Horizon Zero Dawn', 'Ghost of Tsushima', 'Bloodborne', 'Dark Souls III',
+                'Sekiro', 'Elden Ring', 'Monster Hunter World', 'Persona 5',
+                'Yakuza 0', 'Tekken 7', 'Street Fighter 6', 'Mortal Kombat 11',
+                'Call of Duty Modern Warfare', 'Battlefield 2042', 'Apex Legends', 'Fortnite',
+                'Minecraft', 'Terraria', 'Stardew Valley', 'Among Us',
+                'Fall Guys', 'Rocket League', 'Overwatch 2', 'Valorant',
+                'Counter-Strike 2', 'Dota 2', 'League of Legends', 'World of Warcraft'
+            ];
+            
+            for (let i = 0; i < gameNames.length; i++) {
+                placeholderGames.push({
+                    name: gameNames[i],
+                    cover: `data:image/svg+xml;base64,${btoa(`<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg"><rect width="100%" height="100%" fill="#222"/><text x="50%" y="50%" font-family="Arial" font-size="14" fill="#ff6b35" text-anchor="middle" dy=".3em">${gameNames[i]}</text></svg>`)}`,
+                    searchName: gameNames[i].toLowerCase()
+                });
+            }
+            
+            allGames = placeholderGames;
+            filteredGames = [...allGames];
+            updatePagination();
+            displayCurrentPage();
         }
 
         // Extract game name from URL
@@ -1701,76 +2903,92 @@
             };
         }
 
-        // Create ember particle effect for game cards
-        function createGameCardEmber(card) {
-            const ember = document.createElement('div');
-            ember.className = 'game-card-ember';
+        // Update pagination info
+        function updatePagination() {
+            totalPages = Math.ceil(filteredGames.length / gamesPerPage);
+            if (totalPages === 0) totalPages = 1;
+            if (currentPage > totalPages) currentPage = totalPages;
+            if (currentPage < 1) currentPage = 1;
             
-            // Random position along the edges
-            const side = Math.random() * 4;
-            if (side < 1) { // Top edge
-                ember.style.left = Math.random() * 100 + '%';
-                ember.style.top = '0%';
-            } else if (side < 2) { // Right edge
-                ember.style.left = '100%';
-                ember.style.top = Math.random() * 100 + '%';
-            } else if (side < 3) { // Bottom edge
-                ember.style.left = Math.random() * 100 + '%';
-                ember.style.top = '100%';
-            } else { // Left edge
-                ember.style.left = '0%';
-                ember.style.top = Math.random() * 100 + '%';
-            }
+            // Update pagination display
+            const pageInfo = document.getElementById('pageInfo');
+            const prevBtn = document.getElementById('prevBtn');
+            const nextBtn = document.getElementById('nextBtn');
+            const pageJump = document.getElementById('pageJump');
             
-            ember.style.setProperty('--drift', (Math.random() - 0.5) * 20 + 'px');
-            
-            card.appendChild(ember);
-            
-            // Remove ember after animation
-            setTimeout(() => {
-                if (ember.parentNode) {
-                    ember.parentNode.removeChild(ember);
-                }
-            }, 3000);
+            pageInfo.textContent = `Page ${currentPage} of ${totalPages}`;
+            prevBtn.disabled = currentPage === 1;
+            nextBtn.disabled = currentPage === totalPages;
+            pageJump.max = totalPages;
+            pageJump.placeholder = currentPage.toString();
         }
 
-        // Load and display games
-        function loadGames() {
-            // This function is now called by loadGameCovers() after fetching the data
-            // Games are already processed in loadGameCovers()
-        }
-
-        // Display games in grid with prioritized loading
-        function displayGames() {
+        // Display current page of games
+        function displayCurrentPage() {
             const gamesGrid = document.getElementById('gamesGrid');
             const noResults = document.getElementById('noResults');
             
             if (filteredGames.length === 0) {
                 gamesGrid.innerHTML = '';
                 noResults.style.display = 'block';
+                updatePagination();
                 return;
             }
             
             noResults.style.display = 'none';
             
-            gamesGrid.innerHTML = filteredGames.map((game, index) => `
-                <div class="game-card animate-in" style="animation-delay: ${Math.min(index * 0.05, 1)}s;" onmouseenter="startEmberEffect(this)" onmouseleave="stopEmberEffect(this)">
+            // Calculate start and end indices for current page
+            const startIndex = (currentPage - 1) * gamesPerPage;
+            const endIndex = Math.min(startIndex + gamesPerPage, filteredGames.length);
+            const currentPageGames = filteredGames.slice(startIndex, endIndex);
+            
+            gamesGrid.innerHTML = currentPageGames.map((game, index) => `
+                <div class="game-card animate-in" style="animation-delay: ${index * 0.05}s;">
                     <img class="game-cover" 
                          src="${game.cover}" 
                          alt="${game.name}" 
                          onerror="handleImageError(this)" 
-                         loading="${index < 12 ? 'eager' : 'lazy'}"
-                         style="priority: ${index < 6 ? 'high' : 'low'}">
+                         loading="eager">
                     <div class="game-info">
                         <h3 class="game-title">${game.name}</h3>
                     </div>
                 </div>
             `).join('');
             
-            // Apply prioritized loading after DOM update
-            setTimeout(() => {
-                prioritizeImageLoading();
-            }, 100);
+            updatePagination();
+        }
+
+        // Change page
+        function changePage(direction) {
+            const newPage = currentPage + direction;
+            if (newPage >= 1 && newPage <= totalPages) {
+                currentPage = newPage;
+                displayCurrentPage();
+                
+                // Smooth scroll to top of games grid
+                document.getElementById('gamesGrid').scrollIntoView({ 
+                    behavior: 'smooth', 
+                    block: 'start' 
+                });
+            }
+        }
+
+        // Jump to specific page
+        function jumpToPage(event) {
+            if (event.key === 'Enter') {
+                const pageNumber = parseInt(event.target.value);
+                if (pageNumber >= 1 && pageNumber <= totalPages) {
+                    currentPage = pageNumber;
+                    displayCurrentPage();
+                    event.target.value = '';
+                    
+                    // Smooth scroll to top of games grid
+                    document.getElementById('gamesGrid').scrollIntoView({ 
+                        behavior: 'smooth', 
+                        block: 'start' 
+                    });
+                }
+            }
         }
 
         // Handle image loading errors
@@ -1826,13 +3044,15 @@
             return 0; // No match
         }
 
-        // Search functionality with fuzzy search and prioritized loading
+        // Search functionality with fuzzy search
         function searchGames() {
             const searchTerm = document.getElementById('gameSearch').value.toLowerCase().trim();
             
             if (searchTerm === '') {
                 filteredGames = [...allGames];
+                isSearching = false;
             } else {
+                isSearching = true;
                 // Fuzzy search with scoring
                 const searchResults = allGames.map(game => {
                     const score = fuzzyMatch(searchTerm, game.searchName);
@@ -1845,54 +3065,9 @@
                 filteredGames = searchResults.map(result => result.game);
             }
             
-            displayGames();
-        }
-
-        // Prioritized image loading
-        function prioritizeImageLoading() {
-            const gameCards = document.querySelectorAll('.game-card');
-            const images = document.querySelectorAll('.game-cover');
-            
-            // Set loading="eager" for first 12 images (visible on screen)
-            images.forEach((img, index) => {
-                if (index < 12) {
-                    img.loading = 'eager';
-                    img.style.priority = 'high';
-                } else {
-                    img.loading = 'lazy';
-                    img.style.priority = 'low';
-                }
-            });
-            
-            // Force load first 6 images immediately
-            for (let i = 0; i < Math.min(6, images.length); i++) {
-                const img = images[i];
-                if (img.dataset.src) {
-                    img.src = img.dataset.src;
-                    img.removeAttribute('data-src');
-                }
-            }
-        }
-
-        // Ember effect management
-        const emberIntervals = new Map();
-
-        function startEmberEffect(card) {
-            if (emberIntervals.has(card)) return;
-            
-            const interval = setInterval(() => {
-                createGameCardEmber(card);
-            }, 300);
-            
-            emberIntervals.set(card, interval);
-        }
-
-        function stopEmberEffect(card) {
-            const interval = emberIntervals.get(card);
-            if (interval) {
-                clearInterval(interval);
-                emberIntervals.delete(card);
-            }
+            // Reset to first page when searching
+            currentPage = 1;
+            displayCurrentPage();
         }
 
         // Navigation functionality
@@ -1913,9 +3088,8 @@
             // Add active class to clicked button
             event.target.classList.add('active');
             
-            // Handle background music based on section
+            // Handle background music
             const audio = document.getElementById('backgroundMusic');
-            // Always play background music for all sections now
             audio.play().catch(() => {});
             
             // Restart animations for sections
@@ -1925,7 +3099,9 @@
                 }, 100);
             } else if (sectionName === 'games') {
                 setTimeout(() => {
-                    loadGameCovers(); // Load from external file
+                    if (allGames.length === 0) {
+                        loadGameCovers();
+                    }
                 }, 100);
             }
         }
@@ -1949,12 +3125,11 @@
             }
         }
 
-        // Simple auto-play music for Demon World
+        // Initialize music
         function initializeMusic() {
             const audio = document.getElementById('backgroundMusic');
-            audio.volume = 0.3; // Set volume to 30%
+            audio.volume = 0.3;
             
-            // Multiple attempts to auto-play
             function attemptAutoPlay() {
                 const playPromise = audio.play();
                 if (playPromise !== undefined) {
@@ -1967,33 +3142,23 @@
                 }
             }
             
-            // Fallback for browsers that block auto-play
             function setupUserInteractionFallback() {
                 const startMusic = () => {
                     audio.play().then(() => {
                         console.log('Music started after user interaction');
-                        // Remove event listeners after successful play
                         document.removeEventListener('click', startMusic);
                         document.removeEventListener('keydown', startMusic);
                         document.removeEventListener('touchstart', startMusic);
-                    }).catch(() => {
-                        // Silent fail
-                    });
+                    }).catch(() => {});
                 };
                 
-                // Listen for any user interaction
                 document.addEventListener('click', startMusic);
                 document.addEventListener('keydown', startMusic);
                 document.addEventListener('touchstart', startMusic);
             }
             
-            // Try to start music immediately
             attemptAutoPlay();
-            
-            // Try again after a short delay
             setTimeout(attemptAutoPlay, 500);
-            
-            // And one more time after page fully loads
             setTimeout(attemptAutoPlay, 1500);
         }
         
@@ -2001,7 +3166,6 @@
         function createFireEffect() {
             const particlesContainer = document.getElementById('particles');
             
-            // Create fire embers
             function createEmber() {
                 const ember = document.createElement('div');
                 const sizes = ['small', 'medium', 'large'];
@@ -2015,7 +3179,6 @@
                 
                 particlesContainer.appendChild(ember);
                 
-                // Remove ember after animation
                 setTimeout(() => {
                     if (ember.parentNode) {
                         ember.parentNode.removeChild(ember);
@@ -2023,7 +3186,6 @@
                 }, 10000);
             }
             
-            // Create ash particles
             function createAsh() {
                 const ash = document.createElement('div');
                 ash.className = 'ash';
@@ -2034,7 +3196,6 @@
                 
                 particlesContainer.appendChild(ash);
                 
-                // Remove ash after animation
                 setTimeout(() => {
                     if (ash.parentNode) {
                         ash.parentNode.removeChild(ash);
@@ -2042,11 +3203,9 @@
                 }, 12000);
             }
             
-            // Continuously create embers and ash
-            setInterval(createEmber, 200); // New ember every 200ms
-            setInterval(createAsh, 800);   // New ash every 800ms
+            setInterval(createEmber, 200);
+            setInterval(createAsh, 800);
             
-            // Create initial batch
             for (let i = 0; i < 15; i++) {
                 setTimeout(createEmber, i * 100);
             }
@@ -2055,29 +3214,23 @@
             }
         }
         
-        // Add click effects and navigation to tier cards
+        // Add click effects to tier cards
         function setupTierCards() {
-            // Monthly plans - redirect to tab 2
             document.querySelectorAll('.monthly-plan').forEach(card => {
                 card.addEventListener('click', function() {
-                    // Click animation
                     this.style.transform = 'scale(0.95)';
                     setTimeout(() => {
                         this.style.transform = '';
-                        // Redirect to monthly plans tab
                         window.open('https://gahweni.com/Dark1Vergil?tab=2', '_blank');
                     }, 150);
                 });
             });
             
-            // Extended plans - redirect to main page
             document.querySelectorAll('.extended-plan').forEach(card => {
                 card.addEventListener('click', function() {
-                    // Click animation
                     this.style.transform = 'scale(0.95)';
                     setTimeout(() => {
                         this.style.transform = '';
-                        // Redirect to extended plans
                         window.open('https://gahweni.com/Dark1Vergil', '_blank');
                     }, 150);
                 });
@@ -2089,19 +3242,16 @@
             const monthlyCards = document.querySelectorAll('.monthly-tiers .tier-card');
             const extendedCards = document.querySelectorAll('.multi-month-tiers .tier-card');
             
-            // Reset animations
             [...monthlyCards, ...extendedCards].forEach(card => {
                 card.classList.remove('animate-in');
             });
             
-            // Animate monthly cards
             monthlyCards.forEach((card, index) => {
                 setTimeout(() => {
                     card.classList.add('animate-in');
                 }, 300 + (index * 200));
             });
             
-            // Animate extended cards
             extendedCards.forEach((card, index) => {
                 setTimeout(() => {
                     card.classList.add('animate-in');
@@ -2115,7 +3265,7 @@
             animateCards();
             setupTierCards();
             initializeMusic();
-            loadGameCovers(); // Load games from external file instead of loadGames()
+            loadGameCovers();
         });
     </script>
 </body>
