@@ -2723,56 +2723,13 @@
             }
         }
 
-@media (max-width: 768px) {
+        @media (max-width: 768px) {
     .nav {
         display: none;
     }
     
     .mobile-menu-btn {
         display: flex;
-    }
-
-    /* Disable all animations on mobile */
-    * {
-        animation: none !important;
-        transition: none !important;
-        transform: none !important;
-    }
-
-    /* Keep essential transitions for mobile menu only */
-    .mobile-menu {
-        transition: opacity 0.2s ease !important;
-    }
-
-    .mobile-menu-btn {
-        transition: border-color 0.2s ease !important;
-    }
-
-    .mobile-menu-btn span {
-        transition: transform 0.2s ease !important;
-    }
-
-    .mobile-nav-btn {
-        transition: background-color 0.2s ease !important;
-    }
-
-    /* Remove particle effects on mobile */
-    .particles {
-        display: none !important;
-    }
-
-    /* Remove fire effects */
-    .ember, .ash {
-        display: none !important;
-    }
-
-    /* Disable hover effects on mobile */
-    .tier-card:hover,
-    .game-card:hover,
-    .nav-btn:hover,
-    .faq-question:hover {
-        transform: none !important;
-        box-shadow: none !important;
     }
 
             .subtitle {
