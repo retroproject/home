@@ -312,6 +312,27 @@ body.arabic-mode .nav-btn.social-toggle {
     font-family: 'Cairo', sans-serif;
 }
 
+.mute-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.8rem;
+    transition: all 0.3s ease;
+    animation: iconFloat 3s ease-in-out infinite;
+    filter: drop-shadow(0 0 15px rgba(70, 130, 180, 0.8)) drop-shadow(0 0 30px rgba(70, 130, 180, 0.4));
+}
+
+.mute-btn:hover {
+    transform: scale(1.1);
+}
+
+.mute-btn img {
+    display: block;
+    transition: all 0.3s ease;
+    width: 48px;
+    height: 48px;
+}
+
 /* Gold Shine Animation */
 .nav-btn.arabic-toggle::before {
     content: '';
@@ -1832,15 +1853,15 @@ body.arabic-mode .nav-btn.arabic-toggle.active {
         }
 
         .lightbox-image {
-            max-width: calc(100vw - 120px);
-            max-height: calc(100vh - 120px);
-            width: auto;
-            height: auto;
-            object-fit: contain;
-            display: block;
-            transition: opacity 0.3s ease;
-            border-radius: 12px;
-        }
+    max-width: calc(100vw - 120px);
+    max-height: calc(100vh - 120px);
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    display: block;
+    transition: opacity 0.3s ease-in-out;
+    border-radius: 12px;
+}
 
         .lightbox-close {
             position: absolute;
@@ -2680,265 +2701,7 @@ body.arabic-mode .lightbox-nav.next {
             }
         }
 
-/* 4K Resolution (3840x2160) - Scale up to match 2K appearance */
-        @media (min-width: 3840px) {
-            html {
-                zoom: 1.4;
-            }
-            
-            .main-title {
-                font-size: 6.3rem;
-            }
-            
-            .subtitle {
-                font-size: 2.8rem;
-            }
-            
-            .section-title,
-            .faq-section-title,
-            .section-title-screenshots {
-                font-size: 3.9rem;
-            }
-            
-            .tier-card {
-                padding: 2.5rem;
-                height: 252px;
-            }
-            
-            .price {
-                font-size: 3.9rem;
-            }
-            
-            .nav-btn {
-                padding: 1.1rem 2.1rem;
-                font-size: 1.4rem;
-            }
-            
-            .games-grid {
-                grid-template-columns: repeat(5, 280px);
-                gap: 2.1rem;
-            }
-            
-            .game-card {
-                transform: scale(1.4);
-            }
-        }
-
-        /* 1440p/2K Resolution (Your reference resolution) - Base scaling */
-        @media (min-width: 2560px) and (max-width: 3839px) {
-            /* This is your reference - keep current values */
-        }
-
-        /* 1080p Resolution (1920x1080) - Scale down to match 2K appearance */
-        @media (min-width: 1920px) and (max-width: 2559px) {
-            html {
-                zoom: 0.75;
-            }
-            
-            .main-title {
-                font-size: 3.4rem;
-            }
-            
-            .subtitle {
-                font-size: 1.5rem;
-            }
-            
-            .section-title,
-            .faq-section-title,
-            .section-title-screenshots {
-                font-size: 2.1rem;
-            }
-            
-            .tier-card {
-                padding: 1.35rem;
-                height: 135px;
-            }
-            
-            .price {
-                font-size: 2.1rem;
-            }
-            
-            .nav-btn {
-                padding: 0.6rem 1.1rem;
-                font-size: 0.8rem;
-            }
-            
-            .games-grid {
-                grid-template-columns: repeat(5, 150px);
-                gap: 1.1rem;
-            }
-            
-            .social-cards {
-                gap: 1.5rem;
-            }
-        }
-
-        /* Tablet Resolution */
-        @media (max-width: 1024px) {
-            .main-content {
-                flex-direction: column;
-                gap: 2rem;
-                padding-left: 2rem;
-            }
-
-            body.arabic-mode .main-content {
-                padding-right: 2rem;
-                padding-left: 2rem;
-            }
-
-            .header {
-                left: 2rem;
-                width: calc(100% - 4rem);
-            }
-
-            body.arabic-mode .header {
-                right: 2rem;
-                left: auto;
-            }
-
-            .left-section,
-            .right-section {
-                max-width: 100%;
-                flex: 1;
-            }
-
-            .faq-sections {
-                grid-template-columns: 1fr;
-            }
-
-            .games-grid {
-                grid-template-columns: repeat(3, 180px);
-                margin-left: 2rem;
-            }
-
-            body.arabic-mode .games-grid {
-                margin-right: 2rem;
-                margin-left: 0;
-            }
-
-            .search-container {
-                margin-left: 2rem;
-                max-width: 400px;
-            }
-
-            body.arabic-mode .search-container {
-                margin-right: 2rem;
-                margin-left: 0;
-            }
-        }
-
-        /* Mobile Landscape */
-        @media (max-width: 768px) {
-            .main-title {
-                font-size: 2.5rem;
-            }
-
-            .subtitle {
-                font-size: 1.5rem;
-            }
-
-            .section-title,
-            .faq-section-title,
-            .section-title-screenshots {
-                font-size: 2rem;
-            }
-
-            .tier-card {
-                padding: 1.5rem;
-                height: auto;
-                min-height: 160px;
-            }
-
-            .price {
-                font-size: 2.2rem;
-            }
-
-            .main-content {
-                padding-top: 240px;
-            }
-
-            .header {
-                top: 60px;
-            }
-
-            .nav {
-                flex-direction: column;
-                gap: 0.5rem;
-            }
-
-            body.arabic-mode .nav {
-                flex-direction: column;
-            }
-
-            .nav-btn {
-                padding: 0.6rem 1rem;
-                font-size: 0.9rem;
-            }
-
-            .games-grid {
-                grid-template-columns: repeat(2, 150px);
-                margin-left: 1rem;
-            }
-
-            body.arabic-mode .games-grid {
-                margin-right: 1rem;
-                margin-left: 0;
-            }
-
-            .search-container {
-                margin-left: 1rem;
-                max-width: 300px;
-            }
-
-            body.arabic-mode .search-container {
-                margin-right: 1rem;
-                margin-left: 0;
-            }
-
-            .games-content {
-                padding-left: 1rem;
-                padding-right: 1rem;
-                padding-top: 80px;
-            }
-
-            body.arabic-mode .games-content {
-                padding-left: 1rem;
-                padding-right: 1rem;
-            }
-
-            .faq-content,
-            .guide-content,
-            .screenshots-content {
-                padding-top: 80px;
-            }
-
-            .pagination-container {
-                flex-wrap: wrap;
-                gap: 0.5rem;
-            }
-
-            body.arabic-mode .pagination-container {
-                flex-wrap: wrap;
-            }
-
-            .page-jump {
-                margin-left: 0;
-                margin-top: 0.5rem;
-            }
-
-            body.arabic-mode .page-jump {
-                margin-right: 0;
-            }
-
-            .screenshot-badges {
-                flex-direction: column;
-                gap: 0.5rem;
-                width: auto;
-            }
-        }
-
-        /* Mobile Portrait */
-        @media (max-width: 480px) {
+@media (max-width: 480px) {
             .main-title {
                 font-size: 2rem;
             }
@@ -3070,6 +2833,9 @@ body.arabic-mode .lightbox-nav.next {
     <button class="nav-btn" onclick="showSection('faq')" data-en="FAQ" data-ar="الأسئلة الشائعة">FAQ</button>
     <button class="nav-btn social-toggle" onclick="showSection('social')" data-en="Follow Us" data-ar="تابعنا">Follow Us</button>
     <button class="nav-btn arabic-toggle" onclick="toggleLanguage()" data-en="Arabic" data-ar="الإنجليزيه">العربية</button>
+    <button class="mute-btn" onclick="toggleMute()" id="muteButton">
+    <img src="https://i.imgur.com/ieAgxPg.png" alt="Mute" style="width: 32px; height: 32px;">
+</button>
 </div>
 
     <!-- Main Content (Original Subscription Page) -->
@@ -3499,7 +3265,7 @@ body.arabic-mode .lightbox-nav.next {
                             Technical issues?
                         </button>
                         <div class="faq-answer">
-                            <div class="faq-answer-content" data-en='Our Team Will Help You here <a href="https://discord.gg/ZsmVfPBz2r" target="_blank">🛠️Support Discord</a>' data-ar='فريقنا سيساعدك هنا <a href="https://discord.gg/ZsmVfPBz2r" target="_blank">🛠️ديسكورد الدعم</a>'>
+                            <div class="faq-answer-content" data-en='Our Team Will Help You here <a href="https://discord.gg/ZsmVfPBz2r" target="_blank">🛠️Support</a>' data-ar='فريقنا سيساعدك هنا <a href="https://discord.gg/ZsmVfPBz2r" target="_blank">🛠️الدعم</a>'>
                                 Our Team Will Help You here <a href="https://discord.gg/ZsmVfPBz2r"
                                     target="_blank">🛠️𝐒𝐮𝐩𝐩𝐨𝐫𝐭 Discord</a>
                             </div>
@@ -3584,6 +3350,24 @@ body.arabic-mode .lightbox-nav.next {
     <script>
         // Language state
         let currentLanguage = 'en';
+let isMuted = false;
+
+function toggleMute() {
+    const audio = document.getElementById('backgroundMusic');
+    const muteButton = document.getElementById('muteButton');
+    const img = muteButton.querySelector('img');
+    
+    if (isMuted) {
+        audio.muted = false;
+        img.src = 'https://i.imgur.com/ieAgxPg.png';
+        isMuted = false;
+    } else {
+        audio.muted = true;
+        img.src = 'https://i.imgur.com/OC7AHp4.png';
+        isMuted = true;
+    }
+}
+        
 
         // Toggle language with background crossfade transition
 function toggleLanguage() {
@@ -3757,14 +3541,16 @@ function downloadSetup() {
             if (currentLightboxIndex >= programScreenshots.length) currentLightboxIndex = 0;
 
             const image = document.getElementById('lightboxImage');
+image.style.transition = 'opacity 0.3s ease-in-out';
+image.style.opacity = '0';
 
-            // Add fade effect during navigation
-            image.style.opacity = '0';
-            setTimeout(() => {
-                image.src = programScreenshots[currentLightboxIndex];
-                updateFormattedContent();
-                image.style.opacity = '1';
-            }, 150);
+setTimeout(() => {
+    image.src = programScreenshots[currentLightboxIndex];
+    updateFormattedContent();
+    setTimeout(() => {
+        image.style.opacity = '1';
+    }, 100);
+}, 300);
 
             updateLightboxNavigation();
         }
@@ -4668,21 +4454,21 @@ function showSection(sectionName) {
 const guideImages = {
     en: [
         'https://i.imgur.com/XgNYMvT.jpeg', // First image (same for both)
-        'https://i.imgur.com/Mh6tihI.png',
-        'https://i.imgur.com/KALJxyD.png',
-        'https://i.imgur.com/VN95haA.png',
-        'https://i.imgur.com/1c0fh4V.png',
-        'https://i.imgur.com/cC07S6D.png',
-        'https://i.imgur.com/DkYL0B5.png'
+        'https://i.imgur.com/rbd0CKW.png',
+        'https://i.imgur.com/FOicUjx.png',
+        'https://i.imgur.com/dYRmh0m.png',
+        'https://i.imgur.com/x4tcSv2.png',
+        'https://i.imgur.com/QWt80E1.png',
+        'https://i.imgur.com/CeZJ6fZ.png'
     ],
     ar: [
         'https://i.imgur.com/XgNYMvT.jpeg', // First image (same for both)
-        'https://i.imgur.com/IMgAadD.png',
-        'https://i.imgur.com/XwOWOtK.png',
-        'https://i.imgur.com/ihAkyAT.png',
-        'https://i.imgur.com/RKoYtbA.png',
-        'https://i.imgur.com/vpRTrDy.png',
-        'https://i.imgur.com/txOg3EV.png'
+        'https://i.imgur.com/dtpcZHD.png',
+        'https://i.imgur.com/ZTRUBxT.png',
+        'https://i.imgur.com/8sjzi64.png',
+        'https://i.imgur.com/3BVpHPH.png',
+        'https://i.imgur.com/yiZXSZs.png',
+        'https://i.imgur.com/46DESS3.png'
     ]
 };
 let currentGuideIndex = 0;
