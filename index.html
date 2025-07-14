@@ -2723,13 +2723,56 @@
             }
         }
 
-        @media (max-width: 768px) {
+@media (max-width: 768px) {
     .nav {
         display: none;
     }
     
     .mobile-menu-btn {
         display: flex;
+    }
+
+    /* Disable all animations on mobile */
+    * {
+        animation: none !important;
+        transition: none !important;
+        transform: none !important;
+    }
+
+    /* Keep essential transitions for mobile menu only */
+    .mobile-menu {
+        transition: opacity 0.2s ease !important;
+    }
+
+    .mobile-menu-btn {
+        transition: border-color 0.2s ease !important;
+    }
+
+    .mobile-menu-btn span {
+        transition: transform 0.2s ease !important;
+    }
+
+    .mobile-nav-btn {
+        transition: background-color 0.2s ease !important;
+    }
+
+    /* Remove particle effects on mobile */
+    .particles {
+        display: none !important;
+    }
+
+    /* Remove fire effects */
+    .ember, .ash {
+        display: none !important;
+    }
+
+    /* Disable hover effects on mobile */
+    .tier-card:hover,
+    .game-card:hover,
+    .nav-btn:hover,
+    .faq-question:hover {
+        transform: none !important;
+        box-shadow: none !important;
     }
 
             .subtitle {
@@ -3363,8 +3406,8 @@
                         </button>
                         <div class="faq-answer">
                             <div class="faq-answer-content"
-                                data-en='Download our free demo from <a href="https://github.com/retroproject/home/releases/download/emulators/Setup.exe" target="_blank">📥Download</a>'
-                                data-ar='حمل النسخة التجريبية المجانية من <a href="https://github.com/retroproject/home/releases/download/emulators/Setup.exe" target="_blank">📥التحميل</a>'>
+                                data-en='Download our free demo from <a href="https://archive.org/download/retroproject/Setup.exe" target="_blank">📥Download</a>'
+                                data-ar='حمل النسخة التجريبية المجانية من <a href="https://archive.org/download/retroproject/Setup.exe" target="_blank">📥التحميل</a>'>
                                 Download our free demo from <a href="https://discord.gg/keGpTJqBT7"
                                     target="_blank">📥𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝</a>
                             </div>
@@ -3809,7 +3852,7 @@ function closeMobileMenu() {
 
         // Download setup function
         function downloadSetup() {
-            window.open('https://github.com/retroproject/home/releases/download/emulators/Setup.exe', '_blank');
+            window.open('https://archive.org/download/retroproject/setup.exe', '_blank');
         }
 
         function closeLightbox(event) {
