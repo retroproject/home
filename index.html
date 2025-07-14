@@ -2856,15 +2856,17 @@
             }
 
             .games-content {
-                padding-left: 1rem;
-                padding-right: 1rem;
-                padding-top: 80px;
-            }
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 80px;
+    text-align: center;
+}
 
-            body.arabic-mode .games-content {
-                padding-left: 1rem;
-                padding-right: 1rem;
-            }
+body.arabic-mode .games-content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    text-align: center;
+}
 
             .faq-content,
 .guide-content,
@@ -2881,13 +2883,20 @@
 }
 
             .pagination-container {
-                flex-wrap: wrap;
-                gap: 0.5rem;
-            }
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    width: 100%;
+    margin: 2rem auto 2rem auto;
+    justify-content: center;
+    padding: 0 1rem;
+    box-sizing: border-box;
+}
 
-            body.arabic-mode .pagination-container {
-                flex-wrap: wrap;
-            }
+body.arabic-mode .pagination-container {
+    flex-wrap: wrap;
+    margin: 2rem auto 2rem auto;
+    justify-content: center;
+}
 
             .page-jump {
                 margin-left: 0;
@@ -3725,6 +3734,78 @@ function closeMobileMenu() {
     
     menu.classList.remove('active');
     btn.classList.remove('active');
+}
+
+// Touch swipe functionality for mobile
+let touchStartX = 0;
+let touchEndX = 0;
+
+function handleSwipe() {
+    const swipeThreshold = 50; // Minimum distance for a swipe
+    const swipeDistance = touchEndX - touchStartX;
+    
+    if (Math.abs(swipeDistance) > swipeThreshold) {
+        // Check if we're in lightbox mode
+        const lightboxOverlay = document.getElementById('lightboxOverlay');
+        if (lightboxOverlay && lightboxOverlay.classList.contains('active')) {
+            if (swipeDistance > 0) {
+                // Swipe right - go to previous image
+                if (currentLanguage === 'ar') {
+                    navigateLightbox(1);
+                } else {
+                    navigateLightbox(-1);
+                }
+            } else {
+                // Swipe left - go to next image
+                if (currentLanguage === 'ar') {
+                    navigateLightbox(-1);
+                } else {
+                    navigateLightbox(1);
+                }
+            }
+        }
+        // Check if we're in guide section
+        else if (document.getElementById('guide-section').classList.contains('active')) {
+            if (swipeDistance > 0) {
+                // Swipe right - go to previous guide image
+                if (currentLanguage === 'ar') {
+                    changeGuideImage(1);
+                } else {
+                    changeGuideImage(-1);
+                }
+            } else {
+                // Swipe left - go to next guide image
+                if (currentLanguage === 'ar') {
+                    changeGuideImage(-1);
+                } else {
+                    changeGuideImage(1);
+                }
+            }
+        }
+        // Check if we're in screenshots section with before/after mode
+        else if (document.getElementById('screenshots-section').classList.contains('active') && 
+                 currentScreenshotMode === 'enhancements') {
+            if (swipeDistance > 0) {
+                // Swipe right - go to previous comparison
+                changeExample(-1);
+            } else {
+                // Swipe left - go to next comparison
+                changeExample(1);
+            }
+        }
+    }
+}
+
+// Add touch event listeners for mobile devices
+if (window.innerWidth <= 768) {
+    document.addEventListener('touchstart', function(e) {
+        touchStartX = e.changedTouches[0].screenX;
+    }, { passive: true });
+
+    document.addEventListener('touchend', function(e) {
+        touchEndX = e.changedTouches[0].screenX;
+        handleSwipe();
+    }, { passive: true });
 }
 
 
