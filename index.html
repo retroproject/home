@@ -2740,32 +2740,64 @@
         display: flex;
     }
 
-            .subtitle {
-                font-size: 1.5rem;
-            }
+    .main-title {
+        font-size: 2.5rem;
+    }
 
-            .section-title,
-            .faq-section-title,
-            .section-title-screenshots {
-                font-size: 2rem;
-            }
+    .subtitle {
+        font-size: 1.5rem;
+    }
 
-            .tier-card {
-                padding: 1.5rem;
-                height: auto;
-                min-height: 160px;
-            }
+    .section-title,
+    .faq-section-title,
+    .section-title-screenshots {
+        font-size: 2rem;
+    }
 
-            .price {
-                font-size: 2.2rem;
-            }
+    .tier-card {
+        padding: 1.5rem;
+        height: auto;
+        min-height: 160px;
+    }
 
-            .main-content {
+    .price {
+        font-size: 2.2rem;
+    }
+
+    .main-content {
         padding-top: 310px;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    body.arabic-mode .main-content {
+        padding-left: 1rem;
+        padding-right: 1rem;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
     }
 
     .header {
         top: 130px;
+        left: 1rem;
+        right: 1rem;
+        width: calc(100% - 2rem);
+    }
+
+    body.arabic-mode .header {
+        left: 1rem;
+        right: 1rem;
+        width: calc(100% - 2rem);
+    }
+
+    .left-section,
+    .right-section {
+        max-width: 100%;
+        text-align: center;
     }
 
             .nav {
