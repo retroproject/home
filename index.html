@@ -36,25 +36,25 @@
 
         /* Language transition overlay */
         /* Language transition overlay */
-.language-transition-overlay {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    z-index: 9999;
-    opacity: 0;
-    pointer-events: none;
-    transition: opacity 0.6s ease-in-out;
-}
+        .language-transition-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            z-index: 9999;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.6s ease-in-out;
+        }
 
-.language-transition-overlay.active {
-    opacity: 1;
-    pointer-events: all;
-}
+        .language-transition-overlay.active {
+            opacity: 1;
+            pointer-events: all;
+        }
 
         /* Fire ember particles */
         .particles {
@@ -68,27 +68,27 @@
             overflow: hidden;
         }
 
-body.arabic-mode .ember.small {
-    background: radial-gradient(circle, #ff6b35 0%, #ff4757 50%, transparent 70%);
-    box-shadow: 0 0 6px #ff6b35;
-}
+        body.arabic-mode .ember.small {
+            background: radial-gradient(circle, #ff6b35 0%, #ff4757 50%, transparent 70%);
+            box-shadow: 0 0 6px #ff6b35;
+        }
 
-body.arabic-mode .ember.medium {
-    background: radial-gradient(circle, #ffd700 0%, #ff6b35 40%, #ff4757 70%, transparent 90%);
-    box-shadow: 0 0 8px #ff6b35, 0 0 12px rgba(255, 107, 53, 0.5);
-}
+        body.arabic-mode .ember.medium {
+            background: radial-gradient(circle, #ffd700 0%, #ff6b35 40%, #ff4757 70%, transparent 90%);
+            box-shadow: 0 0 8px #ff6b35, 0 0 12px rgba(255, 107, 53, 0.5);
+        }
 
-body.arabic-mode .ember.large {
-    background: radial-gradient(circle, #fff 0%, #ffd700 20%, #ff6b35 50%, #dc143c 80%, transparent 100%);
-    box-shadow: 0 0 10px #ff6b35, 0 0 20px rgba(255, 107, 53, 0.8), 0 0 30px rgba(255, 107, 53, 0.4);
-}
+        body.arabic-mode .ember.large {
+            background: radial-gradient(circle, #fff 0%, #ffd700 20%, #ff6b35 50%, #dc143c 80%, transparent 100%);
+            box-shadow: 0 0 10px #ff6b35, 0 0 20px rgba(255, 107, 53, 0.8), 0 0 30px rgba(255, 107, 53, 0.4);
+        }
 
-.ember {
-    position: absolute;
-    border-radius: 50%;
-    pointer-events: none;
-    animation: rise infinite linear;
-}
+        .ember {
+            position: absolute;
+            border-radius: 50%;
+            pointer-events: none;
+            animation: rise infinite linear;
+        }
 
 
         .ember.small {
@@ -173,22 +173,22 @@ body.arabic-mode .ember.large {
 
         /* Navigation */
         .nav {
-    position: fixed;
-    top: 2rem;
-    left: 2rem;
-    display: flex;
-    gap: 1rem;
-    z-index: 100;
-    animation: fadeInLeft 1s ease-out;
-    transition: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-}
+            position: fixed;
+            top: 2rem;
+            left: 2rem;
+            display: flex;
+            gap: 1rem;
+            z-index: 100;
+            animation: fadeInLeft 1s ease-out;
+            transition: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+        }
 
-body.arabic-mode .nav {
-    left: auto;
-    right: 2rem;
-    /* Remove flex-direction: row-reverse */
-    animation: fadeInRight 1s ease-out;
-}
+        body.arabic-mode .nav {
+            left: auto;
+            right: 2rem;
+            /* Remove flex-direction: row-reverse */
+            animation: fadeInRight 1s ease-out;
+        }
 
         @keyframes fadeInLeft {
             0% {
@@ -250,123 +250,126 @@ body.arabic-mode .nav {
 
         /* Arabic toggle button - Gold theme */
         .nav-btn.arabic-toggle {
-    background: linear-gradient(145deg, rgba(15, 15, 15, 0.9), rgba(30, 30, 30, 0.9));
-    border: 2px solid rgba(184, 134, 11, 0.6); /* Gold border */
-    border-radius: 10px;
-    padding: 0.8rem 1.5rem;
-    color: #e0e0e0;
-    font-family: 'Orbitron', monospace;
-    font-weight: 600;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    backdrop-filter: blur(15px);
-    text-decoration: none;
-    display: inline-block;
-    position: relative;
-    overflow: hidden;
-}
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.9), rgba(30, 30, 30, 0.9));
+            border: 2px solid rgba(184, 134, 11, 0.6);
+            /* Gold border */
+            border-radius: 10px;
+            padding: 0.8rem 1.5rem;
+            color: #e0e0e0;
+            font-family: 'Orbitron', monospace;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(15px);
+            text-decoration: none;
+            display: inline-block;
+            position: relative;
+            overflow: hidden;
+        }
 
-/* Hover State - Gold Glow */
-.nav-btn.arabic-toggle:hover {
-    border-color: #FFD700;
-    box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
-    transform: translateY(-2px);
-}
+        /* Hover State - Gold Glow */
+        .nav-btn.arabic-toggle:hover {
+            border-color: #FFD700;
+            box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
+            transform: translateY(-2px);
+        }
 
-/* Active State - Gold Accent */
-.nav-btn.arabic-toggle.active {
-    background: linear-gradient(145deg, rgba(184, 134, 11, 0.2), rgba(30, 30, 30, 0.9));
-    border-color: #FFD700;
-}
+        /* Active State - Gold Accent */
+        .nav-btn.arabic-toggle.active {
+            background: linear-gradient(145deg, rgba(184, 134, 11, 0.2), rgba(30, 30, 30, 0.9));
+            border-color: #FFD700;
+        }
 
-/* Social toggle button - Vergil blue theme */
-.nav-btn.social-toggle {
-    background: linear-gradient(145deg, rgba(15, 15, 15, 0.9), rgba(30, 30, 30, 0.9));
-    border: 2px solid rgba(70, 130, 180, 0.6);
-    border-radius: 10px;
-    padding: 0.8rem 1.5rem;
-    color: #e0e0e0;
-    font-family: 'Orbitron', monospace;
-    font-weight: 600;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    backdrop-filter: blur(15px);
-    text-decoration: none;
-    display: inline-block;
-    position: relative;
-    overflow: hidden;
-}
+        /* Social toggle button - Vergil blue theme */
+        .nav-btn.social-toggle {
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.9), rgba(30, 30, 30, 0.9));
+            border: 2px solid rgba(70, 130, 180, 0.6);
+            border-radius: 10px;
+            padding: 0.8rem 1.5rem;
+            color: #e0e0e0;
+            font-family: 'Orbitron', monospace;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(15px);
+            text-decoration: none;
+            display: inline-block;
+            position: relative;
+            overflow: hidden;
+        }
 
-.nav-btn.social-toggle:hover {
-    border-color: #4682b4;
-    box-shadow: 0 0 20px rgba(70, 130, 180, 0.3);
-    transform: translateY(-2px);
-}
+        .nav-btn.social-toggle:hover {
+            border-color: #4682b4;
+            box-shadow: 0 0 20px rgba(70, 130, 180, 0.3);
+            transform: translateY(-2px);
+        }
 
-.nav-btn.social-toggle.active {
-    background: linear-gradient(145deg, rgba(70, 130, 180, 0.2), rgba(30, 30, 30, 0.9));
-    border-color: #4682b4;
-}
+        .nav-btn.social-toggle.active {
+            background: linear-gradient(145deg, rgba(70, 130, 180, 0.2), rgba(30, 30, 30, 0.9));
+            border-color: #4682b4;
+        }
 
-body.arabic-mode .nav-btn.social-toggle {
-    font-family: 'Cairo', sans-serif;
-}
+        body.arabic-mode .nav-btn.social-toggle {
+            font-family: 'Cairo', sans-serif;
+        }
 
-.mute-btn {
-    background: none;
-    border: none;
-    cursor: pointer;
-    padding: 0.8rem;
-    transition: all 0.3s ease;
-    animation: iconFloat 3s ease-in-out infinite;
-    filter: drop-shadow(0 0 15px rgba(70, 130, 180, 0.8)) drop-shadow(0 0 30px rgba(70, 130, 180, 0.4));
-}
+        .mute-btn {
+            background: none;
+            border: none;
+            cursor: pointer;
+            padding: 0.8rem;
+            transition: all 0.3s ease;
+            animation: iconFloat 3s ease-in-out infinite;
+            filter: drop-shadow(0 0 15px rgba(70, 130, 180, 0.8)) drop-shadow(0 0 30px rgba(70, 130, 180, 0.4));
+        }
 
-.mute-btn:hover {
-    transform: scale(1.1);
-}
+        .mute-btn:hover {
+            transform: scale(1.1);
+        }
 
-.mute-btn img {
-    display: block;
-    transition: all 0.3s ease;
-    width: 48px;
-    height: 48px;
-}
+        .mute-btn img {
+            display: block;
+            transition: all 0.3s ease;
+            width: 48px;
+            height: 48px;
+        }
 
-/* Gold Shine Animation */
-.nav-btn.arabic-toggle::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: -100%;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(90deg, transparent, rgba(255, 215, 0, 0.2), transparent);
-    transition: left 0.5s;
-}
+        /* Gold Shine Animation */
+        .nav-btn.arabic-toggle::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 215, 0, 0.2), transparent);
+            transition: left 0.5s;
+        }
 
-.nav-btn.arabic-toggle:hover::before {
-    left: 100%;
-}
+        .nav-btn.arabic-toggle:hover::before {
+            left: 100%;
+        }
 
-/* Arabic Mode - Keep Gold Borders but Match Arabic Style */
-body.arabic-mode .nav-btn.arabic-toggle {
-    font-family: 'Cairo', sans-serif;
-    background: linear-gradient(145deg, rgba(15, 15, 15, 0.9), rgba(30, 30, 30, 0.9));
-    border: 2px solid rgba(184, 134, 11, 0.6); /* Maintain gold border */
-    color: #e0e0e0;
-}
+        /* Arabic Mode - Keep Gold Borders but Match Arabic Style */
+        body.arabic-mode .nav-btn.arabic-toggle {
+            font-family: 'Cairo', sans-serif;
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.9), rgba(30, 30, 30, 0.9));
+            border: 2px solid rgba(184, 134, 11, 0.6);
+            /* Maintain gold border */
+            color: #e0e0e0;
+        }
 
-body.arabic-mode .nav-btn.arabic-toggle:hover {
-    border-color: #FFD700; /* Keep gold on hover */
-    box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
-    transform: translateY(-2px);
-}
+        body.arabic-mode .nav-btn.arabic-toggle:hover {
+            border-color: #FFD700;
+            /* Keep gold on hover */
+            box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
+            transform: translateY(-2px);
+        }
 
-body.arabic-mode .nav-btn.arabic-toggle.active {
-    background: linear-gradient(145deg, rgba(184, 134, 11, 0.2), rgba(30, 30, 30, 0.9));
-    border-color: #FFD700;
-}
+        body.arabic-mode .nav-btn.arabic-toggle.active {
+            background: linear-gradient(145deg, rgba(184, 134, 11, 0.2), rgba(30, 30, 30, 0.9));
+            border-color: #FFD700;
+        }
 
         /* Content sections */
         .content-section {
@@ -484,12 +487,14 @@ body.arabic-mode .nav-btn.arabic-toggle.active {
         }
 
         body.arabic-mode .main-title {
-    font-family: 'Cairo', sans-serif;
-    color: #ff6b35; /* Same red-orange color */
-    text-shadow: 0 0 30px rgba(255, 107, 53, 0.8), 0 0 60px rgba(255, 107, 53, 0.4);
-    /* Remove any existing gold text-shadow */
-    animation: titleGlow 3s ease-in-out infinite alternate; /* Same glow animation */
-}
+            font-family: 'Cairo', sans-serif;
+            color: #ff6b35;
+            /* Same red-orange color */
+            text-shadow: 0 0 30px rgba(255, 107, 53, 0.8), 0 0 60px rgba(255, 107, 53, 0.4);
+            /* Remove any existing gold text-shadow */
+            animation: titleGlow 3s ease-in-out infinite alternate;
+            /* Same glow animation */
+        }
 
         @keyframes titleGlow {
             0% {
@@ -606,9 +611,9 @@ body.arabic-mode .nav-btn.arabic-toggle.active {
         }
 
         body.arabic-mode .tier-card {
-    text-align: center;
-    padding: 7.0rem;
-}
+            text-align: center;
+            padding: 7.0rem;
+        }
 
 
         .tier-card.animate-in {
@@ -1119,21 +1124,21 @@ body.arabic-mode .nav-btn.arabic-toggle.active {
         }
 
         body.arabic-mode .games-grid {
-    justify-content: end;
-    margin-left: auto;
-    margin-right: 50px;
-    width: fit-content;
-    position: relative;
-    right: 0;
-}
+            justify-content: end;
+            margin-left: auto;
+            margin-right: 50px;
+            width: fit-content;
+            position: relative;
+            right: 0;
+        }
 
         body.arabic-mode .games-grid {
-    margin-left: 0;
-    margin-right: 0px;
-    justify-content: end;
-    margin-left: auto;
-    margin-right: 50px;
-}
+            margin-left: 0;
+            margin-right: 0px;
+            justify-content: end;
+            margin-left: auto;
+            margin-right: 50px;
+        }
 
 
         .game-card {
@@ -1240,10 +1245,10 @@ body.arabic-mode .nav-btn.arabic-toggle.active {
         }
 
         .pagination-container.animate-in {
-    opacity: 0;
-    transform: translateY(30px);
-    animation: fadeInUp 1s ease-out 1.5s both;
-}
+            opacity: 0;
+            transform: translateY(30px);
+            animation: fadeInUp 1s ease-out 1.5s both;
+        }
 
         body.arabic-mode .pagination-container {
             margin: 2rem 20px 2rem 0;
@@ -1853,15 +1858,15 @@ body.arabic-mode .nav-btn.arabic-toggle.active {
         }
 
         .lightbox-image {
-    max-width: calc(100vw - 120px);
-    max-height: calc(100vh - 120px);
-    width: auto;
-    height: auto;
-    object-fit: contain;
-    display: block;
-    transition: opacity 0.3s ease-in-out;
-    border-radius: 12px;
-}
+            max-width: calc(100vw - 120px);
+            max-height: calc(100vh - 120px);
+            width: auto;
+            height: auto;
+            object-fit: contain;
+            display: block;
+            transition: opacity 0.3s ease-in-out;
+            border-radius: 12px;
+        }
 
         .lightbox-close {
             position: absolute;
@@ -1930,15 +1935,15 @@ body.arabic-mode .nav-btn.arabic-toggle.active {
             right: 15px;
         }
 
-body.arabic-mode .lightbox-nav.prev {
-    left: 15px;
-    right: auto;
-}
+        body.arabic-mode .lightbox-nav.prev {
+            left: 15px;
+            right: auto;
+        }
 
-body.arabic-mode .lightbox-nav.next {
-    right: 15px;
-    left: auto;
-}
+        body.arabic-mode .lightbox-nav.next {
+            right: 15px;
+            left: auto;
+        }
 
 
         .lightbox-nav:disabled {
@@ -2302,10 +2307,14 @@ body.arabic-mode .lightbox-nav.next {
         .faq-content {
             max-width: 1200px;
             margin: 0;
-            padding: 100px 2rem 2rem 2rem;
+            padding: 2rem;
             position: relative;
             z-index: 2;
             transition: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            min-height: 100vh;
         }
 
         body.arabic-mode .faq-content {
@@ -2701,7 +2710,7 @@ body.arabic-mode .lightbox-nav.next {
             }
         }
 
-@media (max-width: 480px) {
+        @media (max-width: 480px) {
             .main-title {
                 font-size: 2rem;
             }
@@ -2760,30 +2769,30 @@ body.arabic-mode .lightbox-nav.next {
             font-family: 'Cairo', sans-serif;
         }
 
-       .discord-card .social-icon {
-    animation: iconFloat 3s ease-in-out infinite;
-    filter: drop-shadow(0 0 20px rgba(88, 101, 242, 0.8)) drop-shadow(0 0 40px rgba(88, 101, 242, 0.4));
-}
+        .discord-card .social-icon {
+            animation: iconFloat 3s ease-in-out infinite;
+            filter: drop-shadow(0 0 20px rgba(88, 101, 242, 0.8)) drop-shadow(0 0 40px rgba(88, 101, 242, 0.4));
+        }
 
-.twitch-card .social-icon {
-    animation: iconFloat 3.5s ease-in-out infinite 0.5s;
-    filter: drop-shadow(0 0 20px rgba(145, 70, 255, 0.8)) drop-shadow(0 0 40px rgba(145, 70, 255, 0.4));
-}
+        .twitch-card .social-icon {
+            animation: iconFloat 3.5s ease-in-out infinite 0.5s;
+            filter: drop-shadow(0 0 20px rgba(145, 70, 255, 0.8)) drop-shadow(0 0 40px rgba(145, 70, 255, 0.4));
+        }
 
-.youtube-card .social-icon {
-    animation: iconFloat 3.2s ease-in-out infinite 1s;
-    filter: drop-shadow(0 0 20px rgba(255, 0, 0, 0.8)) drop-shadow(0 0 40px rgba(255, 0, 0, 0.4));
-}
+        .youtube-card .social-icon {
+            animation: iconFloat 3.2s ease-in-out infinite 1s;
+            filter: drop-shadow(0 0 20px rgba(255, 0, 0, 0.8)) drop-shadow(0 0 40px rgba(255, 0, 0, 0.4));
+        }
 
-.tiktok-card .social-icon {
-    animation: iconFloat 2.8s ease-in-out infinite 1.5s;
-    filter: drop-shadow(0 0 20px rgba(254, 44, 85, 0.8)) drop-shadow(0 0 40px rgba(254, 44, 85, 0.4));
-}
+        .tiktok-card .social-icon {
+            animation: iconFloat 2.8s ease-in-out infinite 1.5s;
+            filter: drop-shadow(0 0 20px rgba(254, 44, 85, 0.8)) drop-shadow(0 0 40px rgba(254, 44, 85, 0.4));
+        }
 
-.backloggd-card .social-icon {
-    animation: iconFloat 3.7s ease-in-out infinite 2s;
-    filter: drop-shadow(0 0 20px rgba(255, 107, 53, 0.8)) drop-shadow(0 0 40px rgba(255, 107, 53, 0.4));
-}
+        .backloggd-card .social-icon {
+            animation: iconFloat 3.7s ease-in-out infinite 2s;
+            filter: drop-shadow(0 0 20px rgba(255, 107, 53, 0.8)) drop-shadow(0 0 40px rgba(255, 107, 53, 0.4));
+        }
 
         .social-card:hover {
             transform: translateY(-5px);
@@ -2819,24 +2828,27 @@ body.arabic-mode .lightbox-nav.next {
 
 <body>
     <div class="particles" id="particles"></div>
-    
+
     <!-- Language transition overlay -->
     <div class="language-transition-overlay" id="languageOverlay"></div>
 
     <!-- Navigation -->
     <div class="nav">
-    <!-- Keep same order in HTML -->
-    <button class="nav-btn active" onclick="showSection('main')" data-en="Home" data-ar="الرئيسية">Home</button>
-    <button class="nav-btn" onclick="showSection('games')" data-en="Games" data-ar="الألعاب">Games</button>
-    <button class="nav-btn" onclick="showSection('guide')" data-en="Guide" data-ar="الدليل">Guide</button>
-    <button class="nav-btn" onclick="showSection('screenshots')" data-en="Screenshots" data-ar="لقطات الشاشة">Screenshots</button>
-    <button class="nav-btn" onclick="showSection('faq')" data-en="FAQ" data-ar="الأسئلة الشائعة">FAQ</button>
-    <button class="nav-btn social-toggle" onclick="showSection('social')" data-en="Follow Us" data-ar="تابعنا">Follow Us</button>
-    <button class="nav-btn arabic-toggle" onclick="toggleLanguage()" data-en="Arabic" data-ar="الإنجليزيه">العربية</button>
-    <button class="mute-btn" onclick="toggleMute()" id="muteButton">
-    <img src="https://i.imgur.com/ieAgxPg.png" alt="Mute" style="width: 32px; height: 32px;">
-</button>
-</div>
+        <!-- Keep same order in HTML -->
+        <button class="nav-btn active" onclick="showSection('main')" data-en="Home" data-ar="الرئيسية">Home</button>
+        <button class="nav-btn" onclick="showSection('games')" data-en="Games" data-ar="الألعاب">Games</button>
+        <button class="nav-btn" onclick="showSection('guide')" data-en="Guide" data-ar="الدليل">Guide</button>
+        <button class="nav-btn" onclick="showSection('screenshots')" data-en="Screenshots"
+            data-ar="صور البرنامج">Screenshots</button>
+        <button class="nav-btn" onclick="showSection('faq')" data-en="FAQ" data-ar="الأسئلة الشائعة">FAQ</button>
+        <button class="nav-btn social-toggle" onclick="showSection('social')" data-en="Follow Us"
+            data-ar="تابعنا">Follow Us</button>
+        <button class="nav-btn arabic-toggle" onclick="toggleLanguage()" data-en="Arabic"
+            data-ar="الإنجليزيه">العربية</button>
+        <button class="mute-btn" onclick="toggleMute()" id="muteButton">
+            <img src="https://i.imgur.com/ieAgxPg.png" alt="Mute" style="width: 32px; height: 32px;">
+        </button>
+    </div>
 
     <!-- Main Content (Original Subscription Page) -->
     <div id="main-section" class="content-section active">
@@ -2853,7 +2865,8 @@ body.arabic-mode .lightbox-nav.next {
                         <h3 class="tier-name" data-en="Single PC" data-ar="جهاز واحد">Single PC</h3>
                         <div class="tier-details">
                             <div class="price" data-en="45 SAR" data-ar="٤٥ ريال">45 SAR</div>
-                            <div class="duration-label" data-en="1 PC • 1 Month" data-ar="جهاز واحد • شهر واحد">1 PC • 1 Month</div>
+                            <div class="duration-label" data-en="1 PC • 1 Month" data-ar="جهاز واحد • شهر واحد">1 PC • 1
+                                Month</div>
                         </div>
                     </div>
 
@@ -2861,7 +2874,8 @@ body.arabic-mode .lightbox-nav.next {
                         <h3 class="tier-name" data-en="Dual PC" data-ar="جهازين">Dual PC</h3>
                         <div class="tier-details">
                             <div class="price" data-en="65 SAR" data-ar="٦٥ ريال">65 SAR</div>
-                            <div class="duration-label" data-en="2 PCs • 1 Month" data-ar="جهازين • شهر واحد">2 PCs • 1 Month</div>
+                            <div class="duration-label" data-en="2 PCs • 1 Month" data-ar="جهازين • شهر واحد">2 PCs • 1
+                                Month</div>
                         </div>
                     </div>
 
@@ -2869,7 +2883,8 @@ body.arabic-mode .lightbox-nav.next {
                         <h3 class="tier-name" data-en="Triple PC" data-ar="ثلاثة أجهزة">Triple PC</h3>
                         <div class="tier-details">
                             <div class="price" data-en="85 SAR" data-ar="٨٥ ريال">85 SAR</div>
-                            <div class="duration-label" data-en="3 PCs • 1 Month" data-ar="ثلاثة أجهزة • شهر واحد">3 PCs • 1 Month</div>
+                            <div class="duration-label" data-en="3 PCs • 1 Month" data-ar="ثلاثة أجهزة • شهر واحد">3 PCs
+                                • 1 Month</div>
                         </div>
                     </div>
                 </div>
@@ -2882,7 +2897,8 @@ body.arabic-mode .lightbox-nav.next {
                         <h3 class="tier-name" data-en="Devil Hunter" data-ar="صائد الشياطين">Devil Hunter</h3>
                         <div class="tier-details">
                             <div class="price" data-en="100 SAR" data-ar="١٠٠ ريال">100 SAR</div>
-                            <div class="duration-label" data-en="1 PC • 3 Months" data-ar="جهاز واحد • ٣ أشهر">1 PC • 3 Months</div>
+                            <div class="duration-label" data-en="1 PC • 3 Months" data-ar="جهاز واحد • ٣ أشهر">1 PC • 3
+                                Months</div>
                         </div>
                     </div>
 
@@ -2890,7 +2906,8 @@ body.arabic-mode .lightbox-nav.next {
                         <h3 class="tier-name" data-en="Dark Knight" data-ar="الفارس المظلم">Dark Knight</h3>
                         <div class="tier-details">
                             <div class="price" data-en="200 SAR" data-ar="٢٠٠ ريال">200 SAR</div>
-                            <div class="duration-label" data-en="1 PC • 6 Months" data-ar="جهاز واحد • ٦ أشهر">1 PC • 6 Months</div>
+                            <div class="duration-label" data-en="1 PC • 6 Months" data-ar="جهاز واحد • ٦ أشهر">1 PC • 6
+                                Months</div>
                         </div>
                     </div>
 
@@ -2898,7 +2915,8 @@ body.arabic-mode .lightbox-nav.next {
                         <h3 class="tier-name" data-en="Dark Slayer" data-ar="قاتل الظلام">Dark Slayer</h3>
                         <div class="tier-details">
                             <div class="price" data-en="300 SAR" data-ar="٣٠٠ ريال">300 SAR</div>
-                            <div class="duration-label" data-en="1 PC • 12 Months" data-ar="جهاز واحد • ١٢ شهر">1 PC • 12 Months</div>
+                            <div class="duration-label" data-en="1 PC • 12 Months" data-ar="جهاز واحد • ١٢ شهر">1 PC •
+                                12 Months</div>
                         </div>
                     </div>
                 </div>
@@ -2911,7 +2929,8 @@ body.arabic-mode .lightbox-nav.next {
         <div class="games-content">
             <div class="search-container">
                 <input type="text" class="search-box" placeholder="Search games..." id="gameSearch"
-                    oninput="searchGames()" data-placeholder-en="Search games..." data-placeholder-ar="ابحث عن الألعاب...">
+                    oninput="searchGames()" data-placeholder-en="Search games..."
+                    data-placeholder-ar="ابحث عن الألعاب...">
                 <div class="search-icon">🔍</div>
             </div>
 
@@ -2920,17 +2939,22 @@ body.arabic-mode .lightbox-nav.next {
             </div>
 
             <div class="pagination-container" id="paginationContainer">
-                <button class="pagination-btn" id="prevBtn" onclick="changePage(-1)" data-en="← Previous" data-ar="السابق →">← Previous</button>
-                <div class="pagination-info" id="pageInfo" data-format-en="Page {current} of {total}" data-format-ar="صفحة {current} من {total}">Page 1 of 1</div>
-                <button class="pagination-btn" id="nextBtn" onclick="changePage(1)" data-en="Next →" data-ar="← التالي">Next →</button>
+                <button class="pagination-btn" id="prevBtn" onclick="changePage(-1)" data-en="← Previous"
+                    data-ar="السابق →">← Previous</button>
+                <div class="pagination-info" id="pageInfo" data-format-en="Page {current} of {total}"
+                    data-format-ar="صفحة {current} من {total}">Page 1 of 1</div>
+                <button class="pagination-btn" id="nextBtn" onclick="changePage(1)" data-en="Next →"
+                    data-ar="← التالي">Next →</button>
                 <div class="page-jump">
-                    <span data-en="Jump to:" data-ar="انتقل إلى:">Jump to:</span> <input type="number" id="pageJump" min="1" placeholder="1" onkeypress="jumpToPage(event)">
+                    <span data-en="Jump to:" data-ar="انتقل إلى:">Jump to:</span> <input type="number" id="pageJump"
+                        min="1" placeholder="1" onkeypress="jumpToPage(event)">
                 </div>
             </div>
 
             <div class="no-results" id="noResults" style="display: none;">
                 <div class="no-results-icon">🎮</div>
-                <div data-en="No games found matching your search." data-ar="لم يتم العثور على ألعاب مطابقة لبحثك.">No games found matching your search.</div>
+                <div data-en="No games found matching your search." data-ar="لم يتم العثور على ألعاب مطابقة لبحثك.">No
+                    games found matching your search.</div>
             </div>
         </div>
     </div>
@@ -2940,29 +2964,38 @@ body.arabic-mode .lightbox-nav.next {
         <div class="guide-content">
             <div class="video-container">
                 <div class="video-wrapper" style="position: relative;">
-    <img id="guideImage" src="https://i.imgur.com/XgNYMvT.jpeg" alt="RETRO PROJECT Installation Guide"
-        onclick="openGuideLightbox()" style="cursor: pointer;" />
-    
-    <!-- Navigation Controls overlaid on image -->
-    <button class="nav-arrow guide-nav" id="guidePrev" onclick="changeGuideImage(-1)" style="position: absolute; left: 15px; top: 50%; transform: translateY(-50%); background: linear-gradient(145deg, rgba(15, 15, 15, 0.9), rgba(30, 30, 30, 0.9)); border: 2px solid rgba(255, 107, 53, 0.4); border-radius: 50%; width: 50px; height: 50px; display: flex; align-items: center; justify-content: center; color: #ff6b35; cursor: pointer; transition: all 0.3s ease; backdrop-filter: blur(15px); z-index: 10;">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M15 18L9 12L15 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-        </svg>
-    </button>
+                    <img id="guideImage" src="https://i.imgur.com/XgNYMvT.jpeg" alt="RETRO PROJECT Installation Guide"
+                        onclick="openGuideLightbox()" style="cursor: pointer;" />
 
-    <button class="nav-arrow guide-nav" id="guideNext" onclick="changeGuideImage(1)" style="position: absolute; right: 15px; top: 50%; transform: translateY(-50%); background: linear-gradient(145deg, rgba(15, 15, 15, 0.9), rgba(30, 30, 30, 0.9)); border: 2px solid rgba(255, 107, 53, 0.4); border-radius: 50%; width: 50px; height: 50px; display: flex; align-items: center; justify-content: center; color: #ff6b35; cursor: pointer; transition: all 0.3s ease; backdrop-filter: blur(15px); z-index: 10;">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M9 18L15 12L9 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-        </svg>
-    </button>
+                    <!-- Navigation Controls overlaid on image -->
+                    <button class="nav-arrow guide-nav" id="guidePrev" onclick="changeGuideImage(-1)"
+                        style="position: absolute; left: 15px; top: 50%; transform: translateY(-50%); background: linear-gradient(145deg, rgba(15, 15, 15, 0.9), rgba(30, 30, 30, 0.9)); border: 2px solid rgba(255, 107, 53, 0.4); border-radius: 50%; width: 50px; height: 50px; display: flex; align-items: center; justify-content: center; color: #ff6b35; cursor: pointer; transition: all 0.3s ease; backdrop-filter: blur(15px); z-index: 10;">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M15 18L9 12L15 6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
 
-    <!-- Counter at bottom like lightbox -->
-    <div class="guide-counter" id="guideCounter" style="position: absolute; bottom: 15px; left: 50%; transform: translateX(-50%); font-family: 'Orbitron', monospace; font-weight: 600; color: #ff6b35; font-size: 1rem; text-shadow: 0 0 10px rgba(255, 107, 53, 0.5); letter-spacing: 1px; background: rgba(15, 15, 15, 0.8); padding: 0.5rem 1rem; border-radius: 20px; border: 2px solid rgba(255, 107, 53, 0.4); backdrop-filter: blur(10px); z-index: 10;" data-format-en="{current} of {total}" data-format-ar="{current} من {total}">1 of 7</div>
-</div>
+                    <button class="nav-arrow guide-nav" id="guideNext" onclick="changeGuideImage(1)"
+                        style="position: absolute; right: 15px; top: 50%; transform: translateY(-50%); background: linear-gradient(145deg, rgba(15, 15, 15, 0.9), rgba(30, 30, 30, 0.9)); border: 2px solid rgba(255, 107, 53, 0.4); border-radius: 50%; width: 50px; height: 50px; display: flex; align-items: center; justify-content: center; color: #ff6b35; cursor: pointer; transition: all 0.3s ease; backdrop-filter: blur(15px); z-index: 10;">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M9 18L15 12L9 6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+
+                    <!-- Counter at bottom like lightbox -->
+                    <div class="guide-counter" id="guideCounter"
+                        style="position: absolute; bottom: 15px; left: 50%; transform: translateX(-50%); font-family: 'Orbitron', monospace; font-weight: 600; color: #ff6b35; font-size: 1rem; text-shadow: 0 0 10px rgba(255, 107, 53, 0.5); letter-spacing: 1px; background: rgba(15, 15, 15, 0.8); padding: 0.5rem 1rem; border-radius: 20px; border: 2px solid rgba(255, 107, 53, 0.4); backdrop-filter: blur(10px); z-index: 10;"
+                        data-format-en="{current} of {total}" data-format-ar="{current} من {total}">1 of 7</div>
+                </div>
 
                 <div class="video-info">
-                    <h2 class="video-title" data-en="Complete Installation & Usage Guide" data-ar="دليل التثبيت والاستخدام الكامل">Complete Installation & Usage Guide</h2>
-                    <p class="video-description" data-en="Follow our comprehensive guide to install and set up RETRO PROJECT. Learn how to download, install, configure, and optimize your gaming experience with our step-by-step walkthrough." data-ar="اتبع دليل الشرح الشامل لتثبيت وإعداد مشروع ريترو. تعلم كيفية التحميل والتثبيت وتحسين تجربة اللعب مع شرحنا خطوة بخطوة.">
+                    <h2 class="video-title" data-en="Complete Installation & Usage Guide"
+                        data-ar="دليل التثبيت والاستخدام الكامل">Complete Installation & Usage Guide</h2>
+                    <p class="video-description"
+                        data-en="Follow our comprehensive guide to install and set up RETRO PROJECT. Learn how to download, install, configure, and optimize your gaming experience with our step-by-step walkthrough."
+                        data-ar="اتبع دليل الشرح الشامل لتثبيت وإعداد مشروع ريترو. تعلم كيفية التحميل والتثبيت وتحسين تجربة اللعب مع شرحنا خطوة بخطوة.">
                         Follow our comprehensive video guide to install and set up RETRO PROJECT.
                         Learn how to download, install, configure, and optimize your gaming experience
                         with our step-by-step walkthrough.
@@ -2972,23 +3005,32 @@ body.arabic-mode .lightbox-nav.next {
 
             <div class="video-features">
                 <div class="feature-card" onclick="downloadSetup()" style="cursor: pointer;">
-    <div class="feature-icon">🔧</div>
-    <div class="feature-title" data-en="Installation" data-ar="التثبيت">Installation</div>
-    <div class="feature-text" data-en="Download and install Retro Project easily by clicking here" data-ar="حمل وثبّت مشروع ريترو بسهولة بالضغط هنا">Download and install RETRO PROJECT with our easy setup wizard and
-        configuration guide</div>
-</div>
+                    <div class="feature-icon">🔧</div>
+                    <div class="feature-title" data-en="Installation" data-ar="التثبيت">Installation</div>
+                    <div class="feature-text" data-en="Download and install Retro Project easily by clicking here"
+                        data-ar="حمل وثبّت مشروع ريترو بسهولة بالضغط هنا">Download and install RETRO PROJECT with our
+                        easy setup wizard and
+                        configuration guide</div>
+                </div>
 
                 <div class="feature-card">
                     <div class="feature-icon">🎮</div>
-                    <div class="feature-title" data-en="Activation & UI" data-ar="التفعيل والواجهة">Activation & UI</div>
-                    <div class="feature-text" data-en="Activate your subscription and learn to navigate the sleek interface and features" data-ar="قم بتفعيل اشتراكك وتعلم التنقل في الواجهة الأنيقة والميزات">Activate your subscription and learn to navigate the sleek interface and
+                    <div class="feature-title" data-en="Activation & UI" data-ar="التفعيل والواجهة">Activation & UI
+                    </div>
+                    <div class="feature-text"
+                        data-en="Activate your subscription and learn to navigate the sleek interface and features"
+                        data-ar="قم بتفعيل اشتراكك وتعلم التنقل في الواجهة الأنيقة والميزات">Activate your subscription
+                        and learn to navigate the sleek interface and
                         features</div>
                 </div>
 
                 <div class="feature-card">
                     <div class="feature-icon">📦</div>
                     <div class="feature-title" data-en="Installing Games" data-ar="تثبيت الألعاب">Installing Games</div>
-                    <div class="feature-text" data-en="Browse, download, and install games with enhanced graphics and performance optimization" data-ar="تصفح وحمل وثبت الألعاب مع رسومات محسنة وتحسين الأداء">Browse, download, and install games with enhanced graphics and performance
+                    <div class="feature-text"
+                        data-en="Browse, download, and install games with enhanced graphics and performance optimization"
+                        data-ar="تصفح وحمل وثبت الألعاب مع رسومات محسنة وتحسين الأداء">Browse, download, and install
+                        games with enhanced graphics and performance
                         optimization</div>
                 </div>
             </div>
@@ -3001,12 +3043,15 @@ body.arabic-mode .lightbox-nav.next {
             <div class="screenshot-section">
                 <!-- Badge Navigation -->
                 <div class="screenshot-badges">
-                    <div class="screenshot-badge active" onclick="switchScreenshotMode('program')" data-en="PROGRAM UI" data-ar="واجهة البرنامج">PROGRAM UI</div>
-                    <div class="screenshot-badge after-badge" onclick="switchScreenshotMode('enhancements')" data-en="BEFORE/AFTER" data-ar="قبل/بعد">
+                    <div class="screenshot-badge active" onclick="switchScreenshotMode('program')" data-en="PROGRAM UI"
+                        data-ar="واجهة البرنامج">PROGRAM UI</div>
+                    <div class="screenshot-badge after-badge" onclick="switchScreenshotMode('enhancements')"
+                        data-en="BEFORE/AFTER" data-ar="قبل/بعد">
                         BEFORE/AFTER</div>
                 </div>
 
-                <h2 class="section-title-screenshots" id="screenshotTitle" data-en="💻 Program Interface" data-ar="💻 واجهة البرنامج">💻 Program Interface</h2>
+                <h2 class="section-title-screenshots" id="screenshotTitle" data-en="💻 Program Interface"
+                    data-ar="💻 واجهة البرنامج">💻 Program Interface</h2>
 
                 <div class="screenshot-content" id="screenshotContent">
                     <!-- Program UI Content (Default) -->
@@ -3038,12 +3083,14 @@ body.arabic-mode .lightbox-nav.next {
                             <div class="comparison-image original-image">
                                 <img id="originalImg" src="https://imgur.com/zt35DB9.jpg" alt="Original"
                                     draggable="false">
-                                <div class="image-label original-label" data-en="ORIGINAL" data-ar="الأصلية">ORIGINAL</div>
+                                <div class="image-label original-label" data-en="ORIGINAL" data-ar="الأصلية">ORIGINAL
+                                </div>
                             </div>
                             <div class="comparison-image enhanced-image">
                                 <img id="enhancedImg" src="https://imgur.com/XSOBrWv.jpg" alt="Enhanced"
                                     draggable="false">
-                                <div class="image-label enhanced-label" data-en="ENHANCED" data-ar="المحسنة">ENHANCED</div>
+                                <div class="image-label enhanced-label" data-en="ENHANCED" data-ar="المحسنة">ENHANCED
+                                </div>
                             </div>
                             <div class="slider-handle" id="sliderHandle">
                                 <div class="slider-line"></div>
@@ -3070,7 +3117,9 @@ body.arabic-mode .lightbox-nav.next {
                             </button>
 
                             <div class="example-info">
-                                <span class="example-counter" id="exampleCounter" data-format-en="Example {current} of {total}" data-format-ar="مثال {current} من {total}">Example 1 of 4</span>
+                                <span class="example-counter" id="exampleCounter"
+                                    data-format-en="Example {current} of {total}"
+                                    data-format-ar="مثال {current} من {total}">Example 1 of 4</span>
                             </div>
 
                             <button class="nav-arrow next-arrow" id="nextExample" onclick="changeExample(1)">
@@ -3088,22 +3137,34 @@ body.arabic-mode .lightbox-nav.next {
                 <div class="screenshot-features">
                     <div class="screenshot-feature-card">
                         <div class="screenshot-feature-icon">✨</div>
-                        <div class="screenshot-feature-title" data-en="Enhanced Gaming Experience" data-ar="تجربة لعب محسنة">Enhanced Gaming Experience</div>
-                        <div class="screenshot-feature-text" data-en="Enjoy modded games featuring enhanced graphics, rare mods, and customized content for a fully immersive classic and modern gaming experience" data-ar="استمتع بالألعاب المعدّلة التي تحتوي على رسومات محسّنة، تعديلات نادره، ومحتوى معدل لتجربة لعب كلاسيكية وحديثه متكامله">Experience games with HD textures, visual upgrades, modded
+                        <div class="screenshot-feature-title" data-en="Enhanced Gaming Experience"
+                            data-ar="تجربة لعب محسنة">Enhanced Gaming Experience</div>
+                        <div class="screenshot-feature-text"
+                            data-en="Enjoy modded games featuring enhanced graphics, rare mods, and customized content for a fully immersive classic and modern gaming experience"
+                            data-ar="استمتع بالألعاب المعدّلة التي تحتوي على رسومات محسّنة، تعديلات نادره، ومحتوى معدل لتجربة لعب كلاسيكية وحديثه متكامله">
+                            Experience games with HD textures, visual upgrades, modded
                             content, and enhanced graphics for the ultimate retro gaming experience</div>
                     </div>
 
                     <div class="screenshot-feature-card">
                         <div class="screenshot-feature-icon">⚡</div>
-                        <div class="screenshot-feature-title" data-en="Smart Features" data-ar="ميزات ذكية">Smart Features</div>
-                        <div class="screenshot-feature-text" data-en="Experience console-like ease with lightning-fast downloads, automatic save management, and a built-in cheats database for enhanced gameplay" data-ar="تجربة مشابهة لأجهزة الألعاب المنزلية مع تنزيلات فائقة السرعة، إدارة تلقائية للحفظ، وقاعدة غش مدمجة لتحسين تجربة اللعب">Lightning-fast downloads, automatic save management, and
+                        <div class="screenshot-feature-title" data-en="Smart Features" data-ar="ميزات ذكية">Smart
+                            Features</div>
+                        <div class="screenshot-feature-text"
+                            data-en="Experience console-like ease with lightning-fast downloads, automatic save management, and a built-in cheats database for enhanced gameplay"
+                            data-ar="تجربة مشابهة لأجهزة الألعاب المنزلية مع تنزيلات فائقة السرعة، إدارة تلقائية للحفظ، وقاعدة غش مدمجة لتحسين تجربة اللعب">
+                            Lightning-fast downloads, automatic save management, and
                             built-in cheats database for enhanced gameplay experience</div>
                     </div>
 
                     <div class="screenshot-feature-card">
                         <div class="screenshot-feature-icon">🌐</div>
-                        <div class="screenshot-feature-title" data-en="Online Multiplayer and Localization" data-ar="اللعب الجماعي والتعريب">Global Gaming</div>
-                        <div class="screenshot-feature-text" data-en="Play online multiplayer with RETRO PROJECT users worldwide, plus full Arabic translation and localized gaming experience" data-ar="العب مع مستخدمي مشروع ريتر من جميع أنحاء العالم عبر الإنترنت، مع تعريبات للألعاب للغه العربيه">Play online multiplayer with RETRO PROJECT users worldwide,
+                        <div class="screenshot-feature-title" data-en="Online Multiplayer and Localization"
+                            data-ar="اللعب الجماعي والتعريب">Global Gaming</div>
+                        <div class="screenshot-feature-text"
+                            data-en="Play online multiplayer with RETRO PROJECT users worldwide, plus full Arabic translation and localized gaming experience"
+                            data-ar="العب مع مستخدمي مشروع ريتر من جميع أنحاء العالم عبر الإنترنت، مع تعريبات للألعاب للغه العربيه">
+                            Play online multiplayer with RETRO PROJECT users worldwide,
                             plus full Arabic translation and localized gaming experience</div>
                     </div>
                 </div>
@@ -3117,14 +3178,18 @@ body.arabic-mode .lightbox-nav.next {
             <div class="faq-sections">
                 <!-- General Questions (Vergil Theme - Blue) -->
                 <div class="faq-section vergil">
-                    <h2 class="faq-section-title" data-en="🎮 General Questions" data-ar="🎮 أسئلة عامة">🎮 General Questions</h2>
+                    <h2 class="faq-section-title" data-en="🎮 General Questions" data-ar="🎮 أسئلة عامة">🎮 General
+                        Questions</h2>
 
                     <div class="faq-item">
-                        <button class="faq-question" onclick="toggleFAQ(this)" data-en="What is RETRO PROJECT?" data-ar="ما هو مشروع ريترو؟">
+                        <button class="faq-question" onclick="toggleFAQ(this)" data-en="What is RETRO PROJECT?"
+                            data-ar="ما هو مشروع ريترو؟">
                             What is RETRO PROJECT?
                         </button>
                         <div class="faq-answer">
-                            <div class="faq-answer-content" data-en="A sleek platform for downloading and managing both retro and modern PC games — featuring enhanced graphics, mod support, lightning-fast downloads, and the simplicity of a game console." data-ar="منصة لتحميل وإدارة الألعاب القديمة والحديثة، تتضمن نسخ محسّنة ومعدّلة من الألعاب، مع سهولة استخدام تشبه أجهزة الألعاب المنزلية. ">
+                            <div class="faq-answer-content"
+                                data-en="A sleek platform for downloading and managing both retro and modern PC games — featuring enhanced graphics, mod support, lightning-fast downloads, and the simplicity of a game console."
+                                data-ar="منصة لتحميل وإدارة الألعاب القديمة والحديثة، تتضمن نسخ محسّنة ومعدّلة من الألعاب، مع سهولة استخدام تشبه أجهزة الألعاب المنزلية. ">
                                 A gaming platform to download and manage retro and modern PC games with enhanced
                                 graphics, mods, and fast download speeds.
                             </div>
@@ -3132,22 +3197,28 @@ body.arabic-mode .lightbox-nav.next {
                     </div>
 
                     <div class="faq-item">
-                        <button class="faq-question" onclick="toggleFAQ(this)" data-en="Which platforms are supported?" data-ar="ما هي المنصات المدعومة؟">
+                        <button class="faq-question" onclick="toggleFAQ(this)" data-en="Which platforms are supported?"
+                            data-ar="ما هي المنصات المدعومة؟">
                             Which platforms are supported?
                         </button>
                         <div class="faq-answer">
-                            <div class="faq-answer-content" data-en="40+ platforms: PlayStation (1–5), Xbox Series, Nintendo, Sega, PC, and retro handhelds." data-ar="أكثر من 40 منصة: بلايستيشن (1-5)، إكس بوكس، نينتندو، سيجا، الكمبيوتر، والأجهزة المحمولة الكلاسيكية.">
+                            <div class="faq-answer-content"
+                                data-en="40+ platforms: PlayStation (1–5), Xbox Series, Nintendo, Sega, PC, and retro handhelds."
+                                data-ar="أكثر من 40 منصة: بلايستيشن (1-5)، إكس بوكس، نينتندو، سيجا، الكمبيوتر، والأجهزة المحمولة الكلاسيكية.">
                                 40+ platforms: PlayStation (1–5), Xbox Series, Nintendo, Sega, PC, and retro handhelds.
                             </div>
                         </div>
                     </div>
 
                     <div class="faq-item">
-                        <button class="faq-question" onclick="toggleFAQ(this)" data-en="Can I try before subscribing?" data-ar="هل يمكنني التجربة قبل الاشتراك؟">
+                        <button class="faq-question" onclick="toggleFAQ(this)" data-en="Can I try before subscribing?"
+                            data-ar="هل يمكنني التجربة قبل الاشتراك؟">
                             Can I try before subscribing?
                         </button>
                         <div class="faq-answer">
-                            <div class="faq-answer-content" data-en='Download our free demo from <a href="https://archive.org/download/retroproject/Setup.exe" target="_blank">📥Download</a>' data-ar='حمل النسخة التجريبية المجانية من <a href="https://archive.org/download/retroproject/Setup.exe" target="_blank">📥التحميل</a>'>
+                            <div class="faq-answer-content"
+                                data-en='Download our free demo from <a href="https://archive.org/download/retroproject/Setup.exe" target="_blank">📥Download</a>'
+                                data-ar='حمل النسخة التجريبية المجانية من <a href="https://archive.org/download/retroproject/Setup.exe" target="_blank">📥التحميل</a>'>
                                 Download our free demo from <a href="https://discord.gg/keGpTJqBT7"
                                     target="_blank">📥𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝</a>
                             </div>
@@ -3157,25 +3228,32 @@ body.arabic-mode .lightbox-nav.next {
 
                 <!-- Games & Content (Vergil Theme - Blue) -->
                 <div class="faq-section vergil">
-                    <h2 class="faq-section-title" data-en="💾 Games & Content" data-ar="💾 الألعاب والمحتوى">💾 Games & Content</h2>
+                    <h2 class="faq-section-title" data-en="💾 Games & Content" data-ar="💾 الألعاب والمحتوى">💾 Games &
+                        Content</h2>
 
                     <div class="faq-item">
-                        <button class="faq-question" onclick="toggleFAQ(this)" data-en="How many games available?" data-ar="كم عدد الألعاب المتاحة؟">
+                        <button class="faq-question" onclick="toggleFAQ(this)" data-en="How many games available?"
+                            data-ar="كم عدد الألعاب المتاحة؟">
                             How many games available?
                         </button>
                         <div class="faq-answer">
-                            <div class="faq-answer-content" data-en="Over 3,000 games with 100+ new additions monthly, including the latest game releases." data-ar="أكثر من 3000 لعبة مع أكثر من 100 إضافة جديدة شهرياً، بما في ذلك أحدث إصدارات الألعاب.">
+                            <div class="faq-answer-content"
+                                data-en="Over 3,000 games with 100+ new additions monthly, including the latest game releases."
+                                data-ar="أكثر من 3000 لعبة مع أكثر من 100 إضافة جديدة شهرياً، بما في ذلك أحدث إصدارات الألعاب.">
                                 Over 3,000 games with 100+ new additions monthly, including the latest game releases.
                             </div>
                         </div>
                     </div>
 
                     <div class="faq-item">
-                        <button class="faq-question" onclick="toggleFAQ(this)" data-en="What makes this different?" data-ar="ما الذي يجعل هذا مختلفاً؟">
+                        <button class="faq-question" onclick="toggleFAQ(this)" data-en="What makes this different?"
+                            data-ar="ما الذي يجعل هذا مختلفاً؟">
                             What makes this different?
                         </button>
                         <div class="faq-answer">
-                            <div class="faq-answer-content" data-en="Enhanced visuals, gameplay improvements, sleek UI, built-in cheats, save management, and social features, all in one powerful platform." data-ar="تحسينات في الرسومات وأسلوب اللعب، واجهة أنيقة، أدوات غش مدمجة، إدارة ملفات الحفظ، وميزات اجتماعية, كل ذلك في منصة واحدة متكاملة">
+                            <div class="faq-answer-content"
+                                data-en="Enhanced visuals, gameplay improvements, sleek UI, built-in cheats, save management, and social features, all in one powerful platform."
+                                data-ar="تحسينات في الرسومات وأسلوب اللعب، واجهة أنيقة، أدوات غش مدمجة، إدارة ملفات الحفظ، وميزات اجتماعية, كل ذلك في منصة واحدة متكاملة">
                                 HD textures, mods, sleek UI, save management, built-in cheats, and social features in
                                 one platform.
                             </div>
@@ -3183,13 +3261,18 @@ body.arabic-mode .lightbox-nav.next {
                     </div>
 
                     <div class="faq-item">
-                        <button class="faq-question" onclick="toggleFAQ(this)" data-en="Can I request games?" data-ar="هل يمكنني طلب ألعاب؟">
+                        <button class="faq-question" onclick="toggleFAQ(this)" data-en="Can I request games?"
+                            data-ar="هل يمكنني طلب ألعاب؟">
                             Can I request games?
                         </button>
                         <div class="faq-answer">
-                            <div class="faq-answer-content" data-en='You can Request Games Here <a href="https://discord.gg/qn8GB7XXYJ" target="_blank">🎮Request</a>' data-ar='يمكنك طلب الألعاب هنا <a href="https://discord.gg/qn8GB7XXYJ" target="_blank">🎮طلب</a>'>
-    <span data-en="You can Request Games Here " data-ar="يمكنك طلب الألعاب هنا "></span><a href="https://discord.gg/qn8GB7XXYJ" target="_blank" data-en="🎮Request" data-ar="🎮طلب">🎮Request</a>
-</div>
+                            <div class="faq-answer-content"
+                                data-en='You can Request Games Here <a href="https://discord.gg/qn8GB7XXYJ" target="_blank">🎮Request</a>'
+                                data-ar='يمكنك طلب الألعاب هنا <a href="https://discord.gg/qn8GB7XXYJ" target="_blank">🎮طلب</a>'>
+                                <span data-en="You can Request Games Here " data-ar="يمكنك طلب الألعاب هنا "></span><a
+                                    href="https://discord.gg/qn8GB7XXYJ" target="_blank" data-en="🎮Request"
+                                    data-ar="🎮طلب">🎮Request</a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -3199,22 +3282,28 @@ body.arabic-mode .lightbox-nav.next {
                     <h2 class="faq-section-title" data-en="🎨 Features" data-ar="🎨 الميزات">🎨 Features</h2>
 
                     <div class="faq-item">
-                        <button class="faq-question" onclick="toggleFAQ(this)" data-en="Wallpapers and themes?" data-ar="خلفيات وثيمات؟">
+                        <button class="faq-question" onclick="toggleFAQ(this)" data-en="Wallpapers and themes?"
+                            data-ar="خلفيات وثيمات؟">
                             Wallpapers and themes?
                         </button>
                         <div class="faq-answer">
-                            <div class="faq-answer-content" data-en="High-quality wallpapers and theme songs for every game." data-ar="خلفيات عالية الجودة وأغاني لكل لعبة في القوائم">
+                            <div class="faq-answer-content"
+                                data-en="High-quality wallpapers and theme songs for every game."
+                                data-ar="خلفيات عالية الجودة وأغاني لكل لعبة في القوائم">
                                 High-quality animated wallpapers and theme songs for every game.
                             </div>
                         </div>
                     </div>
 
                     <div class="faq-item">
-                        <button class="faq-question" onclick="toggleFAQ(this)" data-en="📸Memories room?" data-ar="غرفة الذكريات 📸؟">
+                        <button class="faq-question" onclick="toggleFAQ(this)" data-en="📸Memories room?"
+                            data-ar="غرفة الذكريات 📸؟">
                             📸𝐌𝐞𝐦𝐨𝐫𝐢𝐞𝐬 room?
                         </button>
                         <div class="faq-answer">
-                            <div class="faq-answer-content" data-en="Share screenshots instantly with Ctrl+F12, and clips with Ctrl+F11." data-ar="شارك لقطات الشاشة فوراً باستخدام Ctrl+F12، ومقاطع الفيديو باستخدام Ctrl+F11.">
+                            <div class="faq-answer-content"
+                                data-en="Share screenshots instantly with Ctrl+F12, and clips with Ctrl+F11."
+                                data-ar="شارك لقطات الشاشة فوراً باستخدام Ctrl+F12، ومقاطع الفيديو باستخدام Ctrl+F11.">
                                 Quickly share screenshots with the community using the left touchpad (PS4/PS5) or
                                 Ctrl+F12, and clips with the right touchpad or Ctrl+F11. Clips last 40 seconds.
                             </div>
@@ -3222,11 +3311,13 @@ body.arabic-mode .lightbox-nav.next {
                     </div>
 
                     <div class="faq-item">
-                        <button class="faq-question" onclick="toggleFAQ(this)" data-en="Cheat codes included?" data-ar="أكواد الغش مضمنة؟">
+                        <button class="faq-question" onclick="toggleFAQ(this)" data-en="Cheat codes included?"
+                            data-ar="أكواد الغش مضمنة؟">
                             Cheat codes included?
                         </button>
                         <div class="faq-answer">
-                            <div class="faq-answer-content" data-en="Built-in cheat database with easy access." data-ar="قاعدة بيانات غش مدمجة مع وصول سهل.">
+                            <div class="faq-answer-content" data-en="Built-in cheat database with easy access."
+                                data-ar="قاعدة بيانات غش مدمجة مع وصول سهل.">
                                 Built-in cheat database with easy access.
                             </div>
                         </div>
@@ -3238,22 +3329,28 @@ body.arabic-mode .lightbox-nav.next {
                     <h2 class="faq-section-title" data-en="⚙️ Support" data-ar="⚙️ الدعم">⚙️ Support</h2>
 
                     <div class="faq-item">
-                        <button class="faq-question" onclick="toggleFAQ(this)" data-en="System requirements?" data-ar="متطلبات النظام؟">
+                        <button class="faq-question" onclick="toggleFAQ(this)" data-en="System requirements?"
+                            data-ar="متطلبات النظام؟">
                             System requirements?
                         </button>
                         <div class="faq-answer">
-                            <div class="faq-answer-content" data-en="Optimized for various hardware - games come pre-configured for best performance." data-ar="محسّن لأجهزة مختلفة - الألعاب تأتي مُعدة مسبقاً لأفضل أداء.">
+                            <div class="faq-answer-content"
+                                data-en="Optimized for various hardware - games come pre-configured for best performance."
+                                data-ar="محسّن لأجهزة مختلفة - الألعاب تأتي مُعدة مسبقاً لأفضل أداء.">
                                 Optimized for various hardware - games come pre-configured for best performance.
                             </div>
                         </div>
                     </div>
 
                     <div class="faq-item">
-                        <button class="faq-question" onclick="toggleFAQ(this)" data-en="Save management?" data-ar="إدارة الحفظ؟">
+                        <button class="faq-question" onclick="toggleFAQ(this)" data-en="Save management?"
+                            data-ar="إدارة الحفظ؟">
                             Save management?
                         </button>
                         <div class="faq-answer">
-                            <div class="faq-answer-content" data-en="Scans your PC for all your saves and manages them automatically." data-ar=".يفحص جهازك لجميع ملفات الحفظ ويديرها تلقائياً">
+                            <div class="faq-answer-content"
+                                data-en="Scans your PC for all your saves and manages them automatically."
+                                data-ar=".يفحص جهازك لجميع ملفات الحفظ ويديرها تلقائياً">
                                 Scans your PC for all your saves and manages them automatically with sync between PC and
                                 emulator saves plus cloud backup.
                             </div>
@@ -3261,11 +3358,14 @@ body.arabic-mode .lightbox-nav.next {
                     </div>
 
                     <div class="faq-item">
-                        <button class="faq-question" onclick="toggleFAQ(this)" data-en="Technical issues?" data-ar="مشاكل تقنية؟">
+                        <button class="faq-question" onclick="toggleFAQ(this)" data-en="Technical issues?"
+                            data-ar="مشاكل تقنية؟">
                             Technical issues?
                         </button>
                         <div class="faq-answer">
-                            <div class="faq-answer-content" data-en='Our Team Will Help You here <a href="https://discord.gg/ZsmVfPBz2r" target="_blank">🛠️Support</a>' data-ar='فريقنا سيساعدك هنا <a href="https://discord.gg/ZsmVfPBz2r" target="_blank">🛠️الدعم</a>'>
+                            <div class="faq-answer-content"
+                                data-en='Our Team Will Help You here <a href="https://discord.gg/ZsmVfPBz2r" target="_blank">🛠️Support</a>'
+                                data-ar='فريقنا سيساعدك هنا <a href="https://discord.gg/ZsmVfPBz2r" target="_blank">🛠️الدعم</a>'>
                                 Our Team Will Help You here <a href="https://discord.gg/ZsmVfPBz2r"
                                     target="_blank">🛠️𝐒𝐮𝐩𝐩𝐨𝐫𝐭 Discord</a>
                             </div>
@@ -3277,51 +3377,78 @@ body.arabic-mode .lightbox-nav.next {
     </div>
 
     <!-- Social Content -->
-<div id="social-section" class="content-section">
-    <div class="social-content" style="max-width: 1200px; margin: 0; padding: 100px 2rem 2rem 2rem; position: relative; z-index: 2; transition: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);">
-        
-        <h2 class="section-title" style="font-family: 'Orbitron', monospace; font-size: 2.8rem; font-weight: 600; color: #4682b4; text-shadow: 0 0 15px rgba(70, 130, 180, 0.6); margin-bottom: 3rem; text-align: center; letter-spacing: 1px; animation: sectionTitleBounce 0.8s ease-out;" data-en="🌐 Follow Us" data-ar="🌐 تابعنا">🌐 Follow Us</h2>
+    <div id="social-section" class="content-section">
+        <div class="social-content"
+            style="max-width: 1200px; margin: 0; padding: 2rem; position: relative; z-index: 2; transition: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55); display: flex; flex-direction: column; justify-content: center; min-height: 100vh;">
 
-        <div class="social-cards" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; animation: fadeInUp 1s ease-out 0.5s both;">
-            
-            <!-- Discord Card -->
-            <div class="social-card discord-card" onclick="window.open('https://discord.gg/fbTagp4fQV', '_blank')" style="background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5)); border: 2px solid rgba(70, 130, 180, 0.4); border-radius: 15px; padding: 2rem; text-align: center; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;">
-                <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #5865F2;">💬</div>
-                <div class="social-title" style="font-family: 'Orbitron', monospace; font-size: 1.4rem; font-weight: 600; color: #e0e0e0; margin-bottom: 0.5rem;" data-en="Discord" data-ar="ديسكورد">Discord</div>
-                <div class="social-description" style="font-size: 0.9rem; color: #ccc; line-height: 1.5;" data-en="" data-ar="">Join our community for support & updates</div>
+            <h2 class="section-title"
+                style="font-family: 'Orbitron', monospace; font-size: 2.8rem; font-weight: 600; color: #4682b4; text-shadow: 0 0 15px rgba(70, 130, 180, 0.6); margin-bottom: 3rem; text-align: center; letter-spacing: 1px; animation: sectionTitleBounce 0.8s ease-out;"
+                data-en="🌐 Follow Us" data-ar="🌐 تابعنا">🌐 Follow Us</h2>
+
+            <div class="social-cards"
+                style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; animation: fadeInUp 1s ease-out 0.5s both;">
+
+                <!-- Discord Card -->
+                <div class="social-card discord-card" onclick="window.open('https://discord.gg/fbTagp4fQV', '_blank')"
+                    style="background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5)); border: 2px solid rgba(70, 130, 180, 0.4); border-radius: 15px; padding: 2rem; text-align: center; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;">
+                    <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #5865F2;">💬</div>
+                    <div class="social-title"
+                        style="font-family: 'Orbitron', monospace; font-size: 1.4rem; font-weight: 600; color: #e0e0e0; margin-bottom: 0.5rem;"
+                        data-en="Discord" data-ar="ديسكورد">Discord</div>
+                    <div class="social-description" style="font-size: 0.9rem; color: #ccc; line-height: 1.5;" data-en=""
+                        data-ar="">Join our community for support & updates</div>
+                </div>
+
+                <!-- Twitch Card -->
+                <div class="social-card twitch-card" onclick="window.open('https://www.twitch.tv/d1vergil', '_blank')"
+                    style="background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5)); border: 2px solid rgba(70, 130, 180, 0.4); border-radius: 15px; padding: 2rem; text-align: center; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;">
+                    <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #9146FF;">📺</div>
+                    <div class="social-title"
+                        style="font-family: 'Orbitron', monospace; font-size: 1.4rem; font-weight: 600; color: #e0e0e0; margin-bottom: 0.5rem;"
+                        data-en="Twitch" data-ar="تويتش">Twitch</div>
+                    <div class="social-description" style="font-size: 0.9rem; color: #ccc; line-height: 1.5;" data-en=""
+                        data-ar="">Watch live gaming sessions</div>
+                </div>
+
+                <!-- YouTube Card -->
+                <div class="social-card youtube-card"
+                    onclick="window.open('https://www.youtube.com/@D1Vergil', '_blank')"
+                    style="background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5)); border: 2px solid rgba(70, 130, 180, 0.4); border-radius: 15px; padding: 2rem; text-align: center; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;">
+                    <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #FF0000;">🎬</div>
+                    <div class="social-title"
+                        style="font-family: 'Orbitron', monospace; font-size: 1.4rem; font-weight: 600; color: #e0e0e0; margin-bottom: 0.5rem;"
+                        data-en="YouTube" data-ar="يوتيوب">YouTube</div>
+                    <div class="social-description" style="font-size: 0.9rem; color: #ccc; line-height: 1.5;" data-en=""
+                        data-ar="">Tutorials and gameplay videos</div>
+                </div>
+
+                <!-- TikTok Card -->
+                <div class="social-card tiktok-card"
+                    onclick="window.open('https://www.tiktok.com/@dark1vergil', '_blank')"
+                    style="background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5)); border: 2px solid rgba(70, 130, 180, 0.4); border-radius: 15px; padding: 2rem; text-align: center; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;">
+                    <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #FE2C55;">🎵</div>
+                    <div class="social-title"
+                        style="font-family: 'Orbitron', monospace; font-size: 1.4rem; font-weight: 600; color: #e0e0e0; margin-bottom: 0.5rem;"
+                        data-en="TikTok" data-ar="تيك توك">TikTok</div>
+                    <div class="social-description" style="font-size: 0.9rem; color: #ccc; line-height: 1.5;" data-en=""
+                        data-ar="">Quick gaming clips and highlights</div>
+                </div>
+
+                <!-- Backloggd Card -->
+                <div class="social-card backloggd-card"
+                    onclick="window.open('https://backloggd.com/u/Dark1Vergil/', '_blank')"
+                    style="background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5)); border: 2px solid rgba(70, 130, 180, 0.4); border-radius: 15px; padding: 2rem; text-align: center; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;">
+                    <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #FF6B35;">📚</div>
+                    <div class="social-title"
+                        style="font-family: 'Orbitron', monospace; font-size: 1.4rem; font-weight: 600; color: #e0e0e0; margin-bottom: 0.5rem;"
+                        data-en="Backloggd" data-ar="مسيرتي المتواضعة في عالم الألعاب">Backloggd</div>
+                    <div class="social-description" style="font-size: 0.9rem; color: #ccc; line-height: 1.5;"
+                        data-en="My Humble Gaming Career" data-ar="">Track my gaming progress</div>
+                </div>
+
             </div>
-
-            <!-- Twitch Card -->
-            <div class="social-card twitch-card" onclick="window.open('https://www.twitch.tv/d1vergil', '_blank')" style="background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5)); border: 2px solid rgba(70, 130, 180, 0.4); border-radius: 15px; padding: 2rem; text-align: center; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;">
-                <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #9146FF;">📺</div>
-                <div class="social-title" style="font-family: 'Orbitron', monospace; font-size: 1.4rem; font-weight: 600; color: #e0e0e0; margin-bottom: 0.5rem;" data-en="Twitch" data-ar="تويتش">Twitch</div>
-                <div class="social-description" style="font-size: 0.9rem; color: #ccc; line-height: 1.5;" data-en="" data-ar="">Watch live gaming sessions</div>
-            </div>
-
-            <!-- YouTube Card -->
-            <div class="social-card youtube-card" onclick="window.open('https://www.youtube.com/@D1Vergil', '_blank')" style="background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5)); border: 2px solid rgba(70, 130, 180, 0.4); border-radius: 15px; padding: 2rem; text-align: center; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;">
-                <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #FF0000;">🎬</div>
-                <div class="social-title" style="font-family: 'Orbitron', monospace; font-size: 1.4rem; font-weight: 600; color: #e0e0e0; margin-bottom: 0.5rem;" data-en="YouTube" data-ar="يوتيوب">YouTube</div>
-                <div class="social-description" style="font-size: 0.9rem; color: #ccc; line-height: 1.5;" data-en="" data-ar="">Tutorials and gameplay videos</div>
-            </div>
-
-            <!-- TikTok Card -->
-            <div class="social-card tiktok-card" onclick="window.open('https://www.tiktok.com/@dark1vergil', '_blank')" style="background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5)); border: 2px solid rgba(70, 130, 180, 0.4); border-radius: 15px; padding: 2rem; text-align: center; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;">
-                <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #FE2C55;">🎵</div>
-                <div class="social-title" style="font-family: 'Orbitron', monospace; font-size: 1.4rem; font-weight: 600; color: #e0e0e0; margin-bottom: 0.5rem;" data-en="TikTok" data-ar="تيك توك">TikTok</div>
-                <div class="social-description" style="font-size: 0.9rem; color: #ccc; line-height: 1.5;" data-en="" data-ar="">Quick gaming clips and highlights</div>
-            </div>
-
-            <!-- Backloggd Card -->
-            <div class="social-card backloggd-card" onclick="window.open('https://backloggd.com/u/Dark1Vergil/', '_blank')" style="background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5)); border: 2px solid rgba(70, 130, 180, 0.4); border-radius: 15px; padding: 2rem; text-align: center; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;">
-                <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #FF6B35;">📚</div>
-                <div class="social-title" style="font-family: 'Orbitron', monospace; font-size: 1.4rem; font-weight: 600; color: #e0e0e0; margin-bottom: 0.5rem;" data-en="Backloggd" data-ar="مسيرتي المتواضعة في عالم الألعاب">Backloggd</div>
-                <div class="social-description" style="font-size: 0.9rem; color: #ccc; line-height: 1.5;" data-en="My Humble Gaming Career" data-ar="">Track my gaming progress</div>
-            </div>
-
         </div>
     </div>
-</div>
 
     <!-- Lightbox Modal -->
     <div class="lightbox-overlay" id="lightboxOverlay" onclick="closeLightbox(event)">
@@ -3339,7 +3466,8 @@ body.arabic-mode .lightbox-nav.next {
                 </svg>
             </button>
             <img class="lightbox-image" id="lightboxImage" src="" alt="Program Screenshot">
-            <div class="lightbox-counter" id="lightboxCounter" data-format-en="{current} of {total}" data-format-ar="{current} من {total}">1 of 4</div>
+            <div class="lightbox-counter" id="lightboxCounter" data-format-en="{current} of {total}"
+                data-format-ar="{current} من {total}">1 of 4</div>
         </div>
     </div>
 
@@ -3350,107 +3478,107 @@ body.arabic-mode .lightbox-nav.next {
     <script>
         // Language state
         let currentLanguage = 'en';
-let isMuted = false;
+        let isMuted = false;
 
-function toggleMute() {
-    const audio = document.getElementById('backgroundMusic');
-    const muteButton = document.getElementById('muteButton');
-    const img = muteButton.querySelector('img');
-    
-    if (isMuted) {
-        audio.muted = false;
-        img.src = 'https://i.imgur.com/ieAgxPg.png';
-        isMuted = false;
-    } else {
-        audio.muted = true;
-        img.src = 'https://i.imgur.com/OC7AHp4.png';
-        isMuted = true;
-    }
-}
-        
+        function toggleMute() {
+            const audio = document.getElementById('backgroundMusic');
+            const muteButton = document.getElementById('muteButton');
+            const img = muteButton.querySelector('img');
 
-        // Toggle language with background crossfade transition
-function toggleLanguage() {
-    const overlay = document.getElementById('languageOverlay');
-    
-    // Set the overlay to show the target background
-    if (currentLanguage === 'en') {
-        // Switching to Arabic, show Arabic background
-        overlay.style.backgroundImage = "url('https://i.imgur.com/Rw6Jial.jpeg')";
-    } else {
-        // Switching to English, show English background
-        overlay.style.backgroundImage = "url('https://i.imgur.com/Dc7CikC.jpeg')";
-    }
-    
-    overlay.classList.add('active');
-
-    setTimeout(() => {
-        if (currentLanguage === 'en') {
-            currentLanguage = 'ar';
-            document.body.classList.add('arabic-mode');
-            document.documentElement.dir = 'rtl';
-        } else {
-            currentLanguage = 'en';
-            document.body.classList.remove('arabic-mode');
-            document.documentElement.dir = 'ltr';
+            if (isMuted) {
+                audio.muted = false;
+                img.src = 'https://i.imgur.com/ieAgxPg.png';
+                isMuted = false;
+            } else {
+                audio.muted = true;
+                img.src = 'https://i.imgur.com/OC7AHp4.png';
+                isMuted = true;
+            }
         }
 
-        // Update all text content
-        updateLanguageContent();
 
-        // Remove overlay after content updates
-        setTimeout(() => {
-            overlay.classList.remove('active');
-        }, 300);
-    }, 300);
+        // Toggle language with background crossfade transition
+        function toggleLanguage() {
+            const overlay = document.getElementById('languageOverlay');
 
-    // Save language preference
-    localStorage.setItem('preferredLanguage', currentLanguage);
-}
+            // Set the overlay to show the target background
+            if (currentLanguage === 'en') {
+                // Switching to Arabic, show Arabic background
+                overlay.style.backgroundImage = "url('https://i.imgur.com/Rw6Jial.jpeg')";
+            } else {
+                // Switching to English, show English background
+                overlay.style.backgroundImage = "url('https://i.imgur.com/Dc7CikC.jpeg')";
+            }
 
-// Update all text content based on current language
-function updateLanguageContent() {
-   // Update elements with data attributes
-   document.querySelectorAll('[data-en]').forEach(element => {
-       const key = currentLanguage === 'en' ? 'data-en' : 'data-ar';
-       if (element.innerHTML.includes('<a ')) {
-           // For elements with HTML links, use innerHTML
-           element.innerHTML = element.getAttribute(key);
-       } else {
-           // For regular text elements, use textContent
-           element.textContent = element.getAttribute(key);
-       }
-   });
+            overlay.classList.add('active');
 
-   // Update placeholders
-   document.querySelectorAll('[data-placeholder-en]').forEach(element => {
-       const key = currentLanguage === 'en' ? 'data-placeholder-en' : 'data-placeholder-ar';
-       element.placeholder = element.getAttribute(key);
-   });
+            setTimeout(() => {
+                if (currentLanguage === 'en') {
+                    currentLanguage = 'ar';
+                    document.body.classList.add('arabic-mode');
+                    document.documentElement.dir = 'rtl';
+                } else {
+                    currentLanguage = 'en';
+                    document.body.classList.remove('arabic-mode');
+                    document.documentElement.dir = 'ltr';
+                }
 
-   // Update formatted content (pagination, counters)
-   updateFormattedContent();
+                // Update all text content
+                updateLanguageContent();
 
-   // Update page info
-   updatePagination();
+                // Remove overlay after content updates
+                setTimeout(() => {
+                    overlay.classList.remove('active');
+                }, 300);
+            }, 300);
 
-   // Update guide images when language changes
-   if (document.getElementById('guideImage')) {
-       const images = guideImages[currentLanguage];
-       document.getElementById('guideImage').src = images[currentGuideIndex];
-       updateGuideNavigation();
-   }
-}
+            // Save language preference
+            localStorage.setItem('preferredLanguage', currentLanguage);
+        }
 
-        
+        // Update all text content based on current language
+        function updateLanguageContent() {
+            // Update elements with data attributes
+            document.querySelectorAll('[data-en]').forEach(element => {
+                const key = currentLanguage === 'en' ? 'data-en' : 'data-ar';
+                if (element.innerHTML.includes('<a ')) {
+                    // For elements with HTML links, use innerHTML
+                    element.innerHTML = element.getAttribute(key);
+                } else {
+                    // For regular text elements, use textContent
+                    element.textContent = element.getAttribute(key);
+                }
+            });
+
+            // Update placeholders
+            document.querySelectorAll('[data-placeholder-en]').forEach(element => {
+                const key = currentLanguage === 'en' ? 'data-placeholder-en' : 'data-placeholder-ar';
+                element.placeholder = element.getAttribute(key);
+            });
+
+            // Update formatted content (pagination, counters)
+            updateFormattedContent();
+
+            // Update page info
+            updatePagination();
+
+            // Update guide images when language changes
+            if (document.getElementById('guideImage')) {
+                const images = guideImages[currentLanguage];
+                document.getElementById('guideImage').src = images[currentGuideIndex];
+                updateGuideNavigation();
+            }
+        }
+
+
 
         // Update formatted content like counters
         function updateFormattedContent() {
             // Update pagination info
             const pageInfo = document.getElementById('pageInfo');
             if (pageInfo) {
-                const format = currentLanguage === 'en' ? 
-                    pageInfo.getAttribute('data-format-en') : 
+                const format = currentLanguage === 'en' ?
+                    pageInfo.getAttribute('data-format-en') :
                     pageInfo.getAttribute('data-format-ar');
                 pageInfo.textContent = format
                     .replace('{current}', currentPage)
@@ -3460,8 +3588,8 @@ function updateLanguageContent() {
             // Update example counter
             const exampleCounter = document.getElementById('exampleCounter');
             if (exampleCounter) {
-                const format = currentLanguage === 'en' ? 
-                    exampleCounter.getAttribute('data-format-en') : 
+                const format = currentLanguage === 'en' ?
+                    exampleCounter.getAttribute('data-format-en') :
                     exampleCounter.getAttribute('data-format-ar');
                 exampleCounter.textContent = format
                     .replace('{current}', currentExample + 1)
@@ -3471,8 +3599,8 @@ function updateLanguageContent() {
             // Update lightbox counter
             const lightboxCounter = document.getElementById('lightboxCounter');
             if (lightboxCounter) {
-                const format = currentLanguage === 'en' ? 
-                    lightboxCounter.getAttribute('data-format-en') : 
+                const format = currentLanguage === 'en' ?
+                    lightboxCounter.getAttribute('data-format-en') :
                     lightboxCounter.getAttribute('data-format-ar');
                 lightboxCounter.textContent = format
                     .replace('{current}', currentLightboxIndex + 1)
@@ -3518,9 +3646,9 @@ function updateLanguageContent() {
         }
 
         // Download setup function
-function downloadSetup() {
-    window.open('https://archive.org/download/retroproject/setup.exe', '_blank');
-}
+        function downloadSetup() {
+            window.open('https://archive.org/download/retroproject/setup.exe', '_blank');
+        }
 
         function closeLightbox(event) {
             // Close only if clicking on overlay or close button
@@ -3541,16 +3669,16 @@ function downloadSetup() {
             if (currentLightboxIndex >= programScreenshots.length) currentLightboxIndex = 0;
 
             const image = document.getElementById('lightboxImage');
-image.style.transition = 'opacity 0.3s ease-in-out';
-image.style.opacity = '0';
+            image.style.transition = 'opacity 0.3s ease-in-out';
+            image.style.opacity = '0';
 
-setTimeout(() => {
-    image.src = programScreenshots[currentLightboxIndex];
-    updateFormattedContent();
-    setTimeout(() => {
-        image.style.opacity = '1';
-    }, 100);
-}, 300);
+            setTimeout(() => {
+                image.src = programScreenshots[currentLightboxIndex];
+                updateFormattedContent();
+                setTimeout(() => {
+                    image.style.opacity = '1';
+                }, 100);
+            }, 300);
 
             updateLightboxNavigation();
         }
@@ -3679,183 +3807,183 @@ setTimeout(() => {
 
             if (prevBtn) prevBtn.disabled = currentExample === 0;
             if (nextBtn) nextBtn.disabled = currentExample === comparisonExamples.length - 1;
-            
+
             updateFormattedContent();
         }
 
-function changeGuideImage(direction) {
-    const images = guideImages[currentLanguage];
-    const newIndex = currentGuideIndex + direction;
+        function changeGuideImage(direction) {
+            const images = guideImages[currentLanguage];
+            const newIndex = currentGuideIndex + direction;
 
-    if (newIndex < 0 || newIndex >= images.length) return;
+            if (newIndex < 0 || newIndex >= images.length) return;
 
-    currentGuideIndex = newIndex;
-    
-    const guideImage = document.getElementById('guideImage');
-    guideImage.style.transition = 'opacity 0.8s ease-in-out';
-    guideImage.style.opacity = '0';
-    
-    setTimeout(() => {
-        guideImage.src = images[currentGuideIndex];
-        updateGuideNavigation();
-        setTimeout(() => {
-            guideImage.style.opacity = '1';
-        }, 100);
-    }, 800);
-}
+            currentGuideIndex = newIndex;
 
+            const guideImage = document.getElementById('guideImage');
+            guideImage.style.transition = 'opacity 0.8s ease-in-out';
+            guideImage.style.opacity = '0';
 
-// Update guide navigation state
-function updateGuideNavigation() {
-    const images = guideImages[currentLanguage];
-    const prevBtn = document.getElementById('guidePrev');
-    const nextBtn = document.getElementById('guideNext');
-    const counter = document.getElementById('guideCounter');
-
-    if (prevBtn) prevBtn.disabled = currentGuideIndex === 0;
-    if (nextBtn) nextBtn.disabled = currentGuideIndex === images.length - 1;
-    
-    if (counter) {
-        const format = currentLanguage === 'en' ? 
-            counter.getAttribute('data-format-en') : 
-            counter.getAttribute('data-format-ar');
-        counter.textContent = format
-            .replace('{current}', currentGuideIndex + 1)
-            .replace('{total}', images.length);
-        counter.style.opacity = '1';
-        counter.style.visibility = 'visible';
-    }
-
-    // Update button styles
-    if (prevBtn) {
-        if (currentGuideIndex === 0) {
-            prevBtn.style.opacity = '0.3';
-            prevBtn.style.cursor = 'not-allowed';
-        } else {
-            prevBtn.style.opacity = '1';
-            prevBtn.style.cursor = 'pointer';
+            setTimeout(() => {
+                guideImage.src = images[currentGuideIndex];
+                updateGuideNavigation();
+                setTimeout(() => {
+                    guideImage.style.opacity = '1';
+                }, 100);
+            }, 800);
         }
-    }
-    
-    if (nextBtn) {
-        if (currentGuideIndex === images.length - 1) {
-            nextBtn.style.opacity = '0.3';
-            nextBtn.style.cursor = 'not-allowed';
-        } else {
-            nextBtn.style.opacity = '1';
-            nextBtn.style.cursor = 'pointer';
+
+
+        // Update guide navigation state
+        function updateGuideNavigation() {
+            const images = guideImages[currentLanguage];
+            const prevBtn = document.getElementById('guidePrev');
+            const nextBtn = document.getElementById('guideNext');
+            const counter = document.getElementById('guideCounter');
+
+            if (prevBtn) prevBtn.disabled = currentGuideIndex === 0;
+            if (nextBtn) nextBtn.disabled = currentGuideIndex === images.length - 1;
+
+            if (counter) {
+                const format = currentLanguage === 'en' ?
+                    counter.getAttribute('data-format-en') :
+                    counter.getAttribute('data-format-ar');
+                counter.textContent = format
+                    .replace('{current}', currentGuideIndex + 1)
+                    .replace('{total}', images.length);
+                counter.style.opacity = '1';
+                counter.style.visibility = 'visible';
+            }
+
+            // Update button styles
+            if (prevBtn) {
+                if (currentGuideIndex === 0) {
+                    prevBtn.style.opacity = '0.3';
+                    prevBtn.style.cursor = 'not-allowed';
+                } else {
+                    prevBtn.style.opacity = '1';
+                    prevBtn.style.cursor = 'pointer';
+                }
+            }
+
+            if (nextBtn) {
+                if (currentGuideIndex === images.length - 1) {
+                    nextBtn.style.opacity = '0.3';
+                    nextBtn.style.cursor = 'not-allowed';
+                } else {
+                    nextBtn.style.opacity = '1';
+                    nextBtn.style.cursor = 'pointer';
+                }
+            }
         }
-    }
-}
 
-// Open guide lightbox
-function openGuideLightbox() {
-    currentGuideLightboxIndex = currentGuideIndex;
-    const overlay = document.getElementById('lightboxOverlay');
-    const image = document.getElementById('lightboxImage');
-    const images = guideImages[currentLanguage];
+        // Open guide lightbox
+        function openGuideLightbox() {
+            currentGuideLightboxIndex = currentGuideIndex;
+            const overlay = document.getElementById('lightboxOverlay');
+            const image = document.getElementById('lightboxImage');
+            const images = guideImages[currentLanguage];
 
-    image.src = images[currentGuideLightboxIndex];
-    updateGuideLightboxCounter();
+            image.src = images[currentGuideLightboxIndex];
+            updateGuideLightboxCounter();
 
-    overlay.classList.add('active');
-    document.body.style.overflow = 'hidden';
+            overlay.classList.add('active');
+            document.body.style.overflow = 'hidden';
 
-    updateGuideLightboxNavigation();
-}
+            updateGuideLightboxNavigation();
+        }
 
-// Navigate guide lightbox
-function navigateGuideLightbox(direction) {
-    const images = guideImages[currentLanguage];
-    currentGuideLightboxIndex += direction;
+        // Navigate guide lightbox
+        function navigateGuideLightbox(direction) {
+            const images = guideImages[currentLanguage];
+            currentGuideLightboxIndex += direction;
 
-    if (currentGuideLightboxIndex < 0) currentGuideLightboxIndex = images.length - 1;
-    if (currentGuideLightboxIndex >= images.length) currentGuideLightboxIndex = 0;
+            if (currentGuideLightboxIndex < 0) currentGuideLightboxIndex = images.length - 1;
+            if (currentGuideLightboxIndex >= images.length) currentGuideLightboxIndex = 0;
 
-    const image = document.getElementById('lightboxImage');
-    image.style.transition = 'opacity 0.8s ease-in-out';
-    image.style.opacity = '0';
-    
-    setTimeout(() => {
-        image.src = images[currentGuideLightboxIndex];
-        updateGuideLightboxCounter();
-        setTimeout(() => {
-            image.style.opacity = '1';
-        }, 100);
-    }, 800);
+            const image = document.getElementById('lightboxImage');
+            image.style.transition = 'opacity 0.8s ease-in-out';
+            image.style.opacity = '0';
 
-    updateGuideLightboxNavigation();
-}
+            setTimeout(() => {
+                image.src = images[currentGuideLightboxIndex];
+                updateGuideLightboxCounter();
+                setTimeout(() => {
+                    image.style.opacity = '1';
+                }, 100);
+            }, 800);
+
+            updateGuideLightboxNavigation();
+        }
 
 
-// Update guide lightbox counter
-function updateGuideLightboxCounter() {
-    const lightboxCounter = document.getElementById('lightboxCounter');
-    const images = guideImages[currentLanguage];
-    
-    if (lightboxCounter) {
-        const format = currentLanguage === 'en' ? 
-            lightboxCounter.getAttribute('data-format-en') : 
-            lightboxCounter.getAttribute('data-format-ar');
-        lightboxCounter.textContent = format
-            .replace('{current}', currentGuideLightboxIndex + 1)
-            .replace('{total}', images.length);
-    }
-}
+        // Update guide lightbox counter
+        function updateGuideLightboxCounter() {
+            const lightboxCounter = document.getElementById('lightboxCounter');
+            const images = guideImages[currentLanguage];
 
-// Update guide lightbox navigation
-function updateGuideLightboxNavigation() {
-    const prevBtn = document.getElementById('lightboxPrev');
-    const nextBtn = document.getElementById('lightboxNext');
+            if (lightboxCounter) {
+                const format = currentLanguage === 'en' ?
+                    lightboxCounter.getAttribute('data-format-en') :
+                    lightboxCounter.getAttribute('data-format-ar');
+                lightboxCounter.textContent = format
+                    .replace('{current}', currentGuideLightboxIndex + 1)
+                    .replace('{total}', images.length);
+            }
+        }
 
-    if (prevBtn) prevBtn.disabled = false;
-    if (nextBtn) nextBtn.disabled = false;
-}
+        // Update guide lightbox navigation
+        function updateGuideLightboxNavigation() {
+            const prevBtn = document.getElementById('lightboxPrev');
+            const nextBtn = document.getElementById('lightboxNext');
 
-// Update existing openLightbox function to detect if it's from guide
-function openLightbox(index) {
-    // Check if this is called from program screenshots
-    currentLightboxIndex = index;
-    const overlay = document.getElementById('lightboxOverlay');
-    const image = document.getElementById('lightboxImage');
+            if (prevBtn) prevBtn.disabled = false;
+            if (nextBtn) nextBtn.disabled = false;
+        }
 
-    image.src = programScreenshots[index];
-    updateFormattedContent();
+        // Update existing openLightbox function to detect if it's from guide
+        function openLightbox(index) {
+            // Check if this is called from program screenshots
+            currentLightboxIndex = index;
+            const overlay = document.getElementById('lightboxOverlay');
+            const image = document.getElementById('lightboxImage');
 
-    overlay.classList.add('active');
-    document.body.style.overflow = 'hidden';
-
-    updateLightboxNavigation();
-}
-
-// Update existing navigateLightbox to handle both program and guide
-function navigateLightbox(direction) {
-    // Check if we're in guide mode by checking current image source
-    const currentSrc = document.getElementById('lightboxImage').src;
-    const isGuideMode = guideImages.en.some(img => currentSrc.includes(img.split('/').pop())) || 
-                       guideImages.ar.some(img => currentSrc.includes(img.split('/').pop()));
-    
-    if (isGuideMode) {
-        navigateGuideLightbox(direction);
-    } else {
-        // Original program screenshots navigation
-        currentLightboxIndex += direction;
-
-        if (currentLightboxIndex < 0) currentLightboxIndex = programScreenshots.length - 1;
-        if (currentLightboxIndex >= programScreenshots.length) currentLightboxIndex = 0;
-
-        const image = document.getElementById('lightboxImage');
-        image.style.opacity = '0';
-        
-        setTimeout(() => {
-            image.src = programScreenshots[currentLightboxIndex];
+            image.src = programScreenshots[index];
             updateFormattedContent();
-            image.style.opacity = '1';
-        }, 200);
 
-        updateLightboxNavigation();
-    }
-}
+            overlay.classList.add('active');
+            document.body.style.overflow = 'hidden';
+
+            updateLightboxNavigation();
+        }
+
+        // Update existing navigateLightbox to handle both program and guide
+        function navigateLightbox(direction) {
+            // Check if we're in guide mode by checking current image source
+            const currentSrc = document.getElementById('lightboxImage').src;
+            const isGuideMode = guideImages.en.some(img => currentSrc.includes(img.split('/').pop())) ||
+                guideImages.ar.some(img => currentSrc.includes(img.split('/').pop()));
+
+            if (isGuideMode) {
+                navigateGuideLightbox(direction);
+            } else {
+                // Original program screenshots navigation
+                currentLightboxIndex += direction;
+
+                if (currentLightboxIndex < 0) currentLightboxIndex = programScreenshots.length - 1;
+                if (currentLightboxIndex >= programScreenshots.length) currentLightboxIndex = 0;
+
+                const image = document.getElementById('lightboxImage');
+                image.style.opacity = '0';
+
+                setTimeout(() => {
+                    image.src = programScreenshots[currentLightboxIndex];
+                    updateFormattedContent();
+                    image.style.opacity = '1';
+                }, 200);
+
+                updateLightboxNavigation();
+            }
+        }
 
 
         // Switch screenshot mode function
@@ -4230,45 +4358,45 @@ function navigateLightbox(direction) {
 
         // Navigation functionality
         // Navigation functionality
-function showSection(sectionName) {
-    // Hide all sections
-    document.querySelectorAll('.content-section').forEach(section => {
-        section.classList.remove('active');
-    });
+        function showSection(sectionName) {
+            // Hide all sections
+            document.querySelectorAll('.content-section').forEach(section => {
+                section.classList.remove('active');
+            });
 
-    // Remove active class from all nav buttons
-    document.querySelectorAll('.nav-btn').forEach(btn => {
-        btn.classList.remove('active');
-    });
+            // Remove active class from all nav buttons
+            document.querySelectorAll('.nav-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
 
-    // Show selected section
-    document.getElementById(sectionName + '-section').classList.add('active');
+            // Show selected section
+            document.getElementById(sectionName + '-section').classList.add('active');
 
-    // Add active class to clicked button
-    event.target.classList.add('active');
+            // Add active class to clicked button
+            event.target.classList.add('active');
 
-    // Handle background music
-    const audio = document.getElementById('backgroundMusic');
-    audio.play().catch(() => { });
+            // Handle background music
+            const audio = document.getElementById('backgroundMusic');
+            audio.play().catch(() => { });
 
-    // Restart animations for sections
-    if (sectionName === 'main') {
-        setTimeout(() => {
-            animateCards();
-        }, 100);
-    } else if (sectionName === 'games') {
-    setTimeout(() => {
-        if (allGames.length === 0) {
-            loadGameCovers();
+            // Restart animations for sections
+            if (sectionName === 'main') {
+                setTimeout(() => {
+                    animateCards();
+                }, 100);
+            } else if (sectionName === 'games') {
+                setTimeout(() => {
+                    if (allGames.length === 0) {
+                        loadGameCovers();
+                    }
+                    // Animate pagination controls
+                    const paginationContainer = document.getElementById('paginationContainer');
+                    if (paginationContainer) {
+                        paginationContainer.classList.add('animate-in');
+                    }
+                }, 100);
+            }
         }
-        // Animate pagination controls
-        const paginationContainer = document.getElementById('paginationContainer');
-        if (paginationContainer) {
-            paginationContainer.classList.add('animate-in');
-        }
-    }, 100);
-}
-}
 
         // FAQ functionality
         function toggleFAQ(element) {
@@ -4451,28 +4579,29 @@ function showSection(sectionName) {
             updateLanguageContent();
         });
         // Guide images data
-const guideImages = {
-    en: [
-        'https://i.imgur.com/XgNYMvT.jpeg', // First image (same for both)
-        'https://i.imgur.com/rbd0CKW.png',
-        'https://i.imgur.com/FOicUjx.png',
-        'https://i.imgur.com/dYRmh0m.png',
-        'https://i.imgur.com/x4tcSv2.png',
-        'https://i.imgur.com/QWt80E1.png',
-        'https://i.imgur.com/CeZJ6fZ.png'
-    ],
-    ar: [
-        'https://i.imgur.com/XgNYMvT.jpeg', // First image (same for both)
-        'https://i.imgur.com/dtpcZHD.png',
-        'https://i.imgur.com/ZTRUBxT.png',
-        'https://i.imgur.com/8sjzi64.png',
-        'https://i.imgur.com/3BVpHPH.png',
-        'https://i.imgur.com/yiZXSZs.png',
-        'https://i.imgur.com/46DESS3.png'
-    ]
-};
-let currentGuideIndex = 0;
-let currentGuideLightboxIndex = 0;
+        const guideImages = {
+            en: [
+                'https://i.imgur.com/XgNYMvT.jpeg', // First image (same for both)
+                'https://i.imgur.com/rbd0CKW.png',
+                'https://i.imgur.com/FOicUjx.png',
+                'https://i.imgur.com/dYRmh0m.png',
+                'https://i.imgur.com/x4tcSv2.png',
+                'https://i.imgur.com/QWt80E1.png',
+                'https://i.imgur.com/CeZJ6fZ.png'
+            ],
+            ar: [
+                'https://i.imgur.com/XgNYMvT.jpeg', // First image (same for both)
+                'https://i.imgur.com/dtpcZHD.png',
+                'https://i.imgur.com/ZTRUBxT.png',
+                'https://i.imgur.com/8sjzi64.png',
+                'https://i.imgur.com/3BVpHPH.png',
+                'https://i.imgur.com/yiZXSZs.png',
+                'https://i.imgur.com/46DESS3.png'
+            ]
+        };
+        let currentGuideIndex = 0;
+        let currentGuideLightboxIndex = 0;
     </script>
 </body>
+
 </html>
