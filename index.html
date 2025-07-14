@@ -2726,13 +2726,25 @@
 
         @media (max-width: 768px) {
     body {
-        background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat fixed !important;
-        background-attachment: fixed !important;
+        background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat !important;
+        background-attachment: scroll !important;
+        background-size: cover !important;
     }
     
     body.arabic-mode {
-        background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat fixed !important;
-        background-attachment: fixed !important;
+        background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat !important;
+        background-attachment: scroll !important;
+        background-size: cover !important;
+    }
+    
+    html {
+        background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat fixed;
+        min-height: 100%;
+    }
+    
+    body {
+        background: transparent !important;
+        min-height: 100vh;
     }
     
     .nav {
