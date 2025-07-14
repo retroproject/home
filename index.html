@@ -384,18 +384,18 @@
 
         /* Main content (original subscription page) */
         .main-content {
-            max-width: 950px;
-            margin: 0;
-            padding-left: 200px;
-            padding-right: 2rem;
-            padding-top: 280px;
-            padding-bottom: 2rem;
-            display: flex;
-            gap: 3rem;
-            align-items: flex-start;
-            justify-content: flex-start;
-            transition: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-        }
+    max-width: 950px;
+    margin: 0;
+    padding-left: 200px;
+    padding-right: 2rem;
+    padding-top: 350px;
+    padding-bottom: 2rem;
+    display: flex;
+    gap: 3rem;
+    align-items: flex-start;
+    justify-content: flex-start;
+    transition: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
 
         body.arabic-mode .main-content {
             padding-left: 2rem;
@@ -447,16 +447,16 @@
         }
 
         .header {
-            text-align: center;
-            margin-bottom: 3rem;
-            position: absolute;
-            left: 200px;
-            top: 100px;
-            width: 950px;
-            z-index: 3;
-            animation: fadeInDown 1.5s ease-out;
-            transition: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-        }
+    text-align: center;
+    margin-bottom: 3rem;
+    position: absolute;
+    left: 200px;
+    top: 170px;
+    width: 950px;
+    z-index: 3;
+    animation: fadeInDown 1.5s ease-out;
+    transition: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
 
         body.arabic-mode .header {
             left: auto;
@@ -2549,26 +2549,28 @@
 
         /* Responsive design */
         @media (max-width: 1024px) {
-            .main-content {
-                flex-direction: column;
-                gap: 2rem;
-                padding-left: 2rem;
-            }
+    .main-content {
+        flex-direction: column;
+        gap: 2rem;
+        padding-left: 2rem;
+        padding-top: 350px;
+    }
 
-            body.arabic-mode .main-content {
-                padding-right: 2rem;
-                padding-left: 2rem;
-            }
+    body.arabic-mode .main-content {
+        padding-right: 2rem;
+        padding-left: 2rem;
+    }
 
-            .header {
-                left: 2rem;
-                width: calc(100% - 4rem);
-            }
+    .header {
+        left: 2rem;
+        width: calc(100% - 4rem);
+        top: 170px;
+    }
 
-            body.arabic-mode .header {
-                right: 2rem;
-                left: auto;
-            }
+    body.arabic-mode .header {
+        right: 2rem;
+        left: auto;
+    }
 
             .left-section,
             .right-section {
@@ -2627,12 +2629,12 @@
             }
 
             .main-content {
-                padding-top: 240px;
-            }
+        padding-top: 310px;
+    }
 
-            .header {
-                top: 60px;
-            }
+    .header {
+        top: 130px;
+    }
 
             .nav {
                 flex-direction: column;
@@ -3163,7 +3165,7 @@
                             data-ar="اللعب الجماعي والتعريب">Global Gaming</div>
                         <div class="screenshot-feature-text"
                             data-en="Play online multiplayer with RETRO PROJECT users worldwide, plus full Arabic translation and localized gaming experience"
-                            data-ar="العب مع مستخدمي مشروع ريتر من جميع أنحاء العالم عبر الإنترنت، مع تعريبات للألعاب للغه العربيه">
+                            data-ar="العب مع مستخدمي مشروع ريترو من جميع أنحاء العالم عبر الإنترنت، مع تعريبات للألعاب للغه العربيه">
                             Play online multiplayer with RETRO PROJECT users worldwide,
                             plus full Arabic translation and localized gaming experience</div>
                     </div>
