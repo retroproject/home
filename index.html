@@ -2758,10 +2758,11 @@
     }
 
     .tier-card {
-        padding: 1.5rem;
-        height: auto;
-        min-height: 160px;
-    }
+    padding: 1.5rem;
+    height: auto;
+    min-height: 160px;
+    backdrop-filter: none !important;
+}
 
     .price {
         font-size: 2.2rem;
@@ -2849,10 +2850,18 @@
             }
 
             .faq-content,
-            .guide-content,
-            .screenshots-content {
-                padding-top: 80px;
-            }
+.guide-content,
+.screenshots-content {
+    padding-top: 80px;
+}
+
+.video-container {
+    backdrop-filter: none !important;
+}
+
+.screenshot-section {
+    backdrop-filter: none !important;
+}
 
             .pagination-container {
                 flex-wrap: wrap;
