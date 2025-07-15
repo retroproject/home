@@ -3411,22 +3411,22 @@ body.arabic-mode .enhanced-label {
                 <div class="screenshot-content" id="screenshotContent">
                     <!-- Program UI Content (Default) -->
                     <div class="screenshots-grid" id="programContent">
-                        <div class="screenshot-card" onclick="openLightbox(0)">
+                        <div class="screenshot-card" onclick="openLightboxMobile(0)">
                             <img class="screenshot-image" src="https://imgur.com/L3FTCSl.jpg"
                                 alt="Program Screenshot 1">
                         </div>
 
-                        <div class="screenshot-card" onclick="openLightbox(1)">
+                        <div class="screenshot-card" onclick="openLightboxMobile(1)">
                             <img class="screenshot-image" src="https://imgur.com/bhnwcv7.jpg"
                                 alt="Program Screenshot 2">
                         </div>
 
-                        <div class="screenshot-card" onclick="openLightbox(2)">
+                        <div class="screenshot-card" onclick="openLightboxMobile(2)">
                             <img class="screenshot-image" src="https://imgur.com/Cr9rtqC.jpg"
                                 alt="Program Screenshot 3">
                         </div>
 
-                        <div class="screenshot-card" onclick="openLightbox(3)">
+                        <div class="screenshot-card" onclick="openLightboxMobile(3)">
                             <img class="screenshot-image" src="https://imgur.com/ZJpfAaR.jpg"
                                 alt="Program Screenshot 4">
                         </div>
@@ -4188,18 +4188,33 @@ function updateLanguageContent() {
 
         // Lightbox functions
         function openLightbox(index) {
-            currentLightboxIndex = index;
-            const overlay = document.getElementById('lightboxOverlay');
-            const image = document.getElementById('lightboxImage');
+    // Don't open lightbox on mobile
+    if (window.innerWidth <= 768) {
+        return;
+    }
 
-            image.src = programScreenshots[index];
-            updateFormattedContent();
+    currentLightboxIndex = index;
+    const overlay = document.getElementById('lightboxOverlay');
+    const image = document.getElementById('lightboxImage');
 
-            overlay.classList.add('active');
-            document.body.style.overflow = 'hidden'; // Prevent background scrolling
+    image.src = programScreenshots[index];
+    updateFormattedContent();
 
-            updateLightboxNavigation();
-        }
+    overlay.classList.add('active');
+    document.body.style.overflow = 'hidden'; // Prevent background scrolling
+
+    updateLightboxNavigation();
+}
+
+// Mobile-aware lightbox function
+function openLightboxMobile(index) {
+    // Don't open lightbox on mobile
+    if (window.innerWidth <= 768) {
+        return;
+    }
+
+    openLightbox(index);
+}
 
         // Download setup function
         function downloadSetup() {
@@ -4444,19 +4459,24 @@ function updateLanguageContent() {
 
         // Open guide lightbox
         function openGuideLightbox() {
-            currentGuideLightboxIndex = currentGuideIndex;
-            const overlay = document.getElementById('lightboxOverlay');
-            const image = document.getElementById('lightboxImage');
-            const images = guideImages[currentLanguage];
+    // Don't open lightbox on mobile
+    if (window.innerWidth <= 768) {
+        return;
+    }
 
-            image.src = images[currentGuideLightboxIndex];
-            updateGuideLightboxCounter();
+    currentGuideLightboxIndex = currentGuideIndex;
+    const overlay = document.getElementById('lightboxOverlay');
+    const image = document.getElementById('lightboxImage');
+    const images = guideImages[currentLanguage];
 
-            overlay.classList.add('active');
-            document.body.style.overflow = 'hidden';
+    image.src = images[currentGuideLightboxIndex];
+    updateGuideLightboxCounter();
 
-            updateGuideLightboxNavigation();
-        }
+    overlay.classList.add('active');
+    document.body.style.overflow = 'hidden';
+
+    updateGuideLightboxNavigation();
+}
 
         // Navigate guide lightbox
         function navigateGuideLightbox(direction) {
