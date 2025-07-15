@@ -1107,11 +1107,10 @@ body.loaded {
     transform: translateY(0);
 }
 
-        .game-card.animate-in {
-            opacity: 0;
-            transform: translateY(30px);
-            animation: cardSlideUp 1s cubic-bezier(0.23, 1, 0.32, 1) forwards;
-        }
+        .game-card.animate-in .game-cover {
+    opacity: 0;
+    animation: gameImageFadeIn 1.5s ease-out forwards;
+}
 
         .game-card:hover {
             transform: translateX(6px) translateY(-3px) scale(1.01);
@@ -1530,6 +1529,22 @@ body.loaded {
                 transform: translateY(-10px);
             }
         }
+
+        @keyframes featureCardSlideUp {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes gameImageFadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
 
         .feature-title {
             font-family: 'Orbitron', monospace;
@@ -4682,7 +4697,7 @@ function updateLanguageContent() {
             const currentPageGames = filteredGames.slice(startIndex, endIndex);
 
             gamesGrid.innerHTML = currentPageGames.map((game, index) => `
-                <div class="game-card animate-in" style="animation-delay: ${index * 0.05}s;">
+                <div class="game-card">
                     <img class="game-cover" 
                          src="${game.cover}" 
                          alt="${game.name}" 
@@ -4695,6 +4710,12 @@ function updateLanguageContent() {
             `).join('');
 
             updatePagination();
+            
+            // Wait for images to load then animate
+            animateGameCards();
+            
+            // Preload next page images
+            preloadNextPage();
         }
 
         // Change page
@@ -4732,6 +4753,49 @@ function updateLanguageContent() {
             }
         }
     }
+}
+
+// Preload next page images
+function preloadNextPage() {
+    const nextPage = currentPage + 1;
+    if (nextPage <= totalPages) {
+        const startIndex = (nextPage - 1) * gamesPerPage;
+        const endIndex = Math.min(startIndex + gamesPerPage, filteredGames.length);
+        const nextPageGames = filteredGames.slice(startIndex, endIndex);
+        
+        nextPageGames.forEach(game => {
+            const img = new Image();
+            img.src = game.cover;
+        });
+    }
+}
+
+// Animate game cards after images load
+function animateGameCards() {
+    const gameCards = document.querySelectorAll('.game-card');
+    
+    gameCards.forEach((card, index) => {
+        const img = card.querySelector('.game-cover');
+        
+        // Start with image hidden
+        img.style.opacity = '0';
+        
+        const onImageLoad = () => {
+            // Start animation for this card after a delay
+            setTimeout(() => {
+                card.classList.add('animate-in');
+            }, index * 50);
+        };
+        
+        if (img.complete) {
+            // Image already loaded
+            onImageLoad();
+        } else {
+            // Wait for image to load
+            img.addEventListener('load', onImageLoad);
+            img.addEventListener('error', onImageLoad); // Also animate on error
+        }
+    });
 }
 
         // Handle image loading errors
