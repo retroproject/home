@@ -179,7 +179,6 @@
             display: flex;
             gap: 1rem;
             z-index: 100;
-            animation: fadeInLeft 1s ease-out;
             transition: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
         }
 
@@ -190,33 +189,13 @@
             animation: fadeInRight 1s ease-out;
         }
 
-        @keyframes fadeInLeft {
-            0% {
-                transform: translateX(-50px);
-                opacity: 0;
-            }
 
-            100% {
-                transform: translateX(0);
-                opacity: 1;
-            }
-        }
 
         body.arabic-mode .nav {
             animation: fadeInRight 1s ease-out;
         }
 
-        @keyframes fadeInRight {
-            0% {
-                transform: translateX(50px);
-                opacity: 0;
-            }
 
-            100% {
-                transform: translateX(0);
-                opacity: 1;
-            }
-        }
 
         .nav-btn {
             background: linear-gradient(145deg, rgba(15, 15, 15, 0.9), rgba(30, 30, 30, 0.9));
@@ -371,16 +350,74 @@
             border-color: #FFD700;
         }
 
-        /* Content sections */
-        .content-section {
-            display: none;
-            position: relative;
-            z-index: 2;
-        }
+/* Content sections */
+.content-section {
+    display: none;
+    position: relative;
+    z-index: 2;
+    transition: opacity 0.8s ease-in-out;
+}
 
-        .content-section.active {
-            display: block;
-        }
+.content-section.active {
+    display: block;
+}
+
+.tier-card.animate-in,
+.game-card.animate-in,
+.feature-card,
+.screenshot-feature-card,
+.faq-item,
+.pagination-container.animate-in {
+    animation: none !important;
+    opacity: 1 !important;
+    transform: none !important;
+}
+
+/* Initial page load fade in */
+body {
+    opacity: 1;
+    transition: opacity 1s ease-in-out;
+}
+
+body.loaded {
+    opacity: 1;
+}
+
+/* Black overlay for fade in effect */
+.page-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #000000;
+    z-index: 9999;
+    opacity: 1;
+    transition: opacity 2s ease-in-out;
+    pointer-events: none;
+}
+
+.page-overlay.fade-out {
+    opacity: 0;
+}
+
+/* Black overlay for fade in effect */
+.page-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #000000;
+    z-index: 9999;
+    opacity: 1;
+    transition: opacity 2s ease-in-out;
+    pointer-events: none;
+}
+
+.page-overlay.fade-out {
+    opacity: 0;
+}
 
         /* Main content (original subscription page) */
         .main-content {
@@ -414,37 +451,7 @@
             animation: slideInRight 1s ease-out 0.3s both;
         }
 
-        body.arabic-mode .left-section {
-            animation: slideInRight 1s ease-out;
-        }
 
-        body.arabic-mode .right-section {
-            animation: slideInLeft 1s ease-out 0.3s both;
-        }
-
-        @keyframes slideInLeft {
-            0% {
-                transform: translateX(-100px);
-                opacity: 0;
-            }
-
-            100% {
-                transform: translateX(0);
-                opacity: 1;
-            }
-        }
-
-        @keyframes slideInRight {
-            0% {
-                transform: translateX(100px);
-                opacity: 0;
-            }
-
-            100% {
-                transform: translateX(0);
-                opacity: 1;
-            }
-        }
 
         .header {
     text-align: center;
@@ -454,7 +461,6 @@
     top: 170px;
     width: 950px;
     z-index: 3;
-    animation: fadeInDown 1.5s ease-out;
     transition: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 
@@ -463,17 +469,7 @@
             right: 200px;
         }
 
-        @keyframes fadeInDown {
-            0% {
-                transform: translateY(-50px);
-                opacity: 0;
-            }
 
-            100% {
-                transform: translateY(0);
-                opacity: 1;
-            }
-        }
 
         .main-title {
             font-family: 'Orbitron', monospace;
@@ -562,21 +558,7 @@
             text-shadow: 0 0 15px rgba(255, 215, 0, 0.6);
         }
 
-        @keyframes sectionTitleBounce {
-            0% {
-                transform: scale(0.8);
-                opacity: 0;
-            }
 
-            60% {
-                transform: scale(1.1);
-            }
-
-            100% {
-                transform: scale(1);
-                opacity: 1;
-            }
-        }
 
         .monthly-tiers {
             display: flex;
@@ -623,22 +605,7 @@
             animation: cardSlideUp 1s cubic-bezier(0.23, 1, 0.32, 1) forwards;
         }
 
-        @keyframes cardSlideUp {
-            0% {
-                transform: translateY(30px) scale(0.95);
-                opacity: 0;
-            }
 
-            60% {
-                transform: translateY(-5px) scale(1.02);
-                opacity: 0.8;
-            }
-
-            100% {
-                transform: translateY(0) scale(1);
-                opacity: 1;
-            }
-        }
 
         .tier-card:hover {
             transform: translateX(6px) translateY(-3px) scale(1.01);
@@ -1050,33 +1017,23 @@
             margin: 0 300px 3rem 0;
         }
 
-        @keyframes fadeInUp {
-            0% {
-                transform: translateY(50px);
-                opacity: 0;
-            }
 
-            100% {
-                transform: translateY(0);
-                opacity: 1;
-            }
-        }
 
         .search-box {
-            width: 100%;
-            padding: 1.2rem 1.5rem;
-            padding-right: 3.5rem;
-            background: linear-gradient(145deg, rgba(15, 15, 15, 0.4), rgba(30, 30, 30, 0.4));
-            border: 2px solid rgba(220, 20, 60, 0.4);
-            border-radius: 15px;
-            color: #e0e0e0;
-            font-family: 'Orbitron', monospace;
-            font-size: 1rem;
-            font-weight: 600;
-            backdrop-filter: blur(15px);
-            transition: all 0.3s ease;
-            outline: none;
-        }
+    width: 100%;
+    padding: 1.2rem 1.5rem;
+    padding-right: 3.5rem;
+    background: linear-gradient(145deg, rgba(15, 15, 15, 0.4), rgba(30, 30, 30, 0.4));
+    border: 2px solid rgba(220, 20, 60, 0.4);
+    border-radius: 15px;
+    color: #e0e0e0;
+    font-family: 'Orbitron', monospace;
+    font-size: 1rem;
+    font-weight: 600;
+    backdrop-filter: none;
+    transition: all 0.3s ease;
+    outline: none;
+}
 
         body.arabic-mode .search-box {
             font-family: 'Cairo', sans-serif;
@@ -1143,17 +1100,17 @@
 
 
         .game-card {
-            background: linear-gradient(145deg, rgba(15, 15, 15, 0.3), rgba(30, 30, 30, 0.3));
-            border: 2px solid rgba(220, 20, 60, 0.4);
-            border-radius: 10px;
-            overflow: hidden;
-            position: relative;
-            transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-            backdrop-filter: blur(15px);
-            cursor: pointer;
-            opacity: 1;
-            transform: translateY(0);
-        }
+    background: linear-gradient(145deg, rgba(15, 15, 15, 0.3), rgba(30, 30, 30, 0.3));
+    border: 2px solid rgba(220, 20, 60, 0.4);
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+    transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    backdrop-filter: none;
+    cursor: pointer;
+    opacity: 1;
+    transform: translateY(0);
+}
 
         .game-card.animate-in {
             opacity: 0;
@@ -1534,22 +1491,7 @@
             animation-delay: 0.3s;
         }
 
-        @keyframes featureCardSlideUp {
-            0% {
-                transform: translateY(30px) scale(0.95);
-                opacity: 0;
-            }
 
-            60% {
-                transform: translateY(-5px) scale(1.02);
-                opacity: 0.8;
-            }
-
-            100% {
-                transform: translateY(0) scale(1);
-                opacity: 1;
-            }
-        }
 
         .feature-card:hover {
             border-color: rgba(255, 107, 53, 0.5);
@@ -2329,16 +2271,16 @@
             animation: fadeInUp 1s ease-out 0.5s both;
         }
 
-        .faq-section {
-            background: linear-gradient(145deg, rgba(15, 15, 15, 0.4), rgba(30, 30, 30, 0.4));
-            border-radius: 20px;
-            padding: 2rem;
-            backdrop-filter: blur(15px);
-            border: 2px solid;
-            transition: all 0.3s ease;
-            position: relative;
-            overflow: visible;
-        }
+.faq-section {
+    background: linear-gradient(145deg, rgba(15, 15, 15, 0.4), rgba(30, 30, 30, 0.4));
+    border-radius: 20px;
+    padding: 2rem;
+    backdrop-filter: none;
+    border: 2px solid;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: visible;
+}
 
         .faq-section:hover {
             transform: translateY(-5px);
@@ -3143,6 +3085,7 @@ body.arabic-mode .enhanced-label {
 </head>
 
 <body>
+    <div class="page-overlay" id="pageOverlay"></div>
     <div class="particles" id="particles"></div>
 
     <!-- Language transition overlay -->
@@ -3885,11 +3828,13 @@ function closeMobileMenu() {
     
     setTimeout(() => {
         menu.style.display = 'none';
-        // Fade page content back in
-        pageContent.forEach(element => {
-            element.style.transition = 'opacity 0.3s ease';
-            element.style.opacity = '1';
-        });
+        // Fade page content back in after section transition completes
+        setTimeout(() => {
+            pageContent.forEach(element => {
+                element.style.transition = 'opacity 0.3s ease';
+                element.style.opacity = '1';
+            });
+        }, 900); // Wait for section fade transition to complete
     }, 300);
 }
 
@@ -4002,11 +3947,12 @@ if (window.innerWidth <= 768) {
 
     // Force remove any backdrop-filter that might be applied during transition
     if (window.innerWidth <= 768) {
-    document.querySelectorAll('.game-card, .game-info, .search-box, .search-container').forEach(element => {
+    document.querySelectorAll('.game-card, .game-info, .search-box, .search-container, .faq-section, .faq-item').forEach(element => {
         element.style.backdropFilter = 'none';
         element.style.webkitBackdropFilter = 'none';
     });
 }
+
 
 
     // Remove overlay after content updates
@@ -4096,7 +4042,7 @@ if (window.innerWidth <= 768) {
         let allGames = [];
         let filteredGames = [];
         let currentPage = 1;
-        let gamesPerPage = 15; // 5 columns × 3 rows
+        let gamesPerPage = window.innerWidth <= 768 ? 14 : 15; // 14 for mobile, 15 for desktop
         let totalPages = 1;
         let isSearching = false;
 
@@ -4844,46 +4790,60 @@ if (window.innerWidth <= 768) {
         }
 
         // Navigation functionality
-        // Navigation functionality
-        function showSection(sectionName) {
-            // Hide all sections
-            document.querySelectorAll('.content-section').forEach(section => {
-                section.classList.remove('active');
-            });
+function showSection(sectionName) {
+    const allSections = document.querySelectorAll('.content-section');
+    const currentActiveSection = document.querySelector('.content-section.active');
+    
+    // Check if mobile
+    const isMobile = window.innerWidth <= 768;
+    const fadeOutTime = isMobile ? 500 : 800;
+    const fadeInTime = isMobile ? 500 : 800;
+    const delayTime = isMobile ? 100 : 100;
+    
+    // Remove active class from all nav buttons
+    document.querySelectorAll('.nav-btn, .mobile-nav-btn').forEach(btn => {
+        btn.classList.remove('active');
+    });
 
-            // Remove active class from all nav buttons
-            document.querySelectorAll('.nav-btn').forEach(btn => {
-                btn.classList.remove('active');
-            });
+    // Add active class to clicked button
+    if (event && event.target) {
+        event.target.classList.add('active');
+    }
 
-            // Show selected section
-            document.getElementById(sectionName + '-section').classList.add('active');
+    // Fade out current section
+    if (currentActiveSection) {
+    currentActiveSection.style.transition = `opacity ${fadeOutTime}ms ease-in-out`;
+    currentActiveSection.style.opacity = '0';
+    
+    setTimeout(() => {
+        // Hide all sections
+        allSections.forEach(section => {
+            section.classList.remove('active');
+            section.style.opacity = '0';
+        });
+        
+        // Show and fade in new section
+        const newSection = document.getElementById(sectionName + '-section');
+        newSection.classList.add('active');
+        
+        setTimeout(() => {
+            newSection.style.transition = `opacity ${fadeInTime}ms ease-in-out`;
+            newSection.style.opacity = '1';
+        }, delayTime);
+        
+    }, fadeOutTime);
+}
+ else {
+        // No current section, just show new one
+        const newSection = document.getElementById(sectionName + '-section');
+        newSection.classList.add('active');
+        newSection.style.opacity = '1';
+    }
 
-            // Add active class to clicked button
-            event.target.classList.add('active');
-
-            // Handle background music
-            const audio = document.getElementById('backgroundMusic');
-            audio.play().catch(() => { });
-
-            // Restart animations for sections
-            if (sectionName === 'main') {
-                setTimeout(() => {
-                    animateCards();
-                }, 100);
-            } else if (sectionName === 'games') {
-                setTimeout(() => {
-                    if (allGames.length === 0) {
-                        loadGameCovers();
-                    }
-                    // Animate pagination controls
-                    const paginationContainer = document.getElementById('paginationContainer');
-                    if (paginationContainer) {
-                        paginationContainer.classList.add('animate-in');
-                    }
-                }, 100);
-            }
-        }
+    // Handle background music
+    const audio = document.getElementById('backgroundMusic');
+    audio.play().catch(() => { });
+}
 
         // FAQ functionality
         function toggleFAQ(element) {
@@ -5055,16 +5015,40 @@ if (window.innerWidth <= 768) {
             }
         }
 
+        // Update games per page when window resizes
+window.addEventListener('resize', function() {
+    const newGamesPerPage = window.innerWidth <= 768 ? 14 : 15;
+    if (newGamesPerPage !== gamesPerPage) {
+        gamesPerPage = newGamesPerPage;
+        updatePagination();
+        displayCurrentPage();
+    }
+});
+
         // Initialize everything
-        document.addEventListener('DOMContentLoaded', function () {
-            loadLanguagePreference();
-            createFireEffect();
-            animateCards();
-            setupTierCards();
-            initializeMusic();
-            loadGameCovers();
-            updateLanguageContent();
-        });
+document.addEventListener('DOMContentLoaded', function () {
+    loadLanguagePreference();
+    createFireEffect();
+    animateCards();
+    setupTierCards();
+    initializeMusic();
+    loadGameCovers();
+    updateLanguageContent();
+    
+    // Fade in page after everything is loaded
+    setTimeout(() => {
+        document.body.classList.add('loaded');
+        const overlay = document.getElementById('pageOverlay');
+        overlay.classList.add('fade-out');
+        
+        // Remove overlay after fade completes
+        setTimeout(() => {
+            if (overlay.parentNode) {
+                overlay.parentNode.removeChild(overlay);
+            }
+        }, 2000);
+    }, 1000);
+});
         // Guide images data
         const guideImages = {
             en: [
