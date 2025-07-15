@@ -3976,8 +3976,7 @@ if (window.innerWidth <= 768) {
     }, { passive: true });
 }
 
-
-        // Toggle language with background crossfade transition
+// Toggle language with background crossfade transition
         function toggleLanguage() {
     const overlay = document.getElementById('languageOverlay');
     const activeSection = document.querySelector('.content-section.active');
@@ -4007,15 +4006,37 @@ if (window.innerWidth <= 768) {
                 document.documentElement.dir = 'ltr';
             }
 
-            // Update all text content
-            updateLanguageContent();
+           // Update all text content
+updateLanguageContent();
 
-            // Force remove any backdrop-filter that might be applied during transition
+// FIX: Reinitialize comparison slider if we're in enhancements mode
+if (currentScreenshotMode === 'enhancements') {
+    setTimeout(() => {
+        initializeComparisonSlider();
+    }, 100);
+}
+
+// Force remove any backdrop-filter that might be applied during transition
             if (window.innerWidth <= 768) {
                 document.querySelectorAll('.game-card, .game-info, .search-box, .search-container, .faq-section, .faq-item').forEach(element => {
                     element.style.backdropFilter = 'none';
                     element.style.webkitBackdropFilter = 'none';
                 });
+            }
+
+            // Fix image labels if in enhancements mode
+            if (currentScreenshotMode === 'enhancements') {
+                setTimeout(() => {
+                    const originalLabel = document.querySelector('.original-label');
+                    const enhancedLabel = document.querySelector('.enhanced-label');
+                    
+                    if (originalLabel && enhancedLabel) {
+                        originalLabel.style.visibility = 'visible';
+                        originalLabel.style.opacity = '1';
+                        enhancedLabel.style.visibility = 'visible';
+                        enhancedLabel.style.opacity = '1';
+                    }
+                }, 100);
             }
 
             // Remove overlay and fade content back in
@@ -4584,31 +4605,41 @@ function preloadGuideImages() {
 
         // Initialize comparison slider functionality
         function initializeComparisonSlider() {
-            const slider = document.querySelector('.image-comparison-slider');
-            const handle = document.getElementById('sliderHandle');
-            const originalImage = document.querySelector('.original-image');
-            const enhancedImage = document.querySelector('.enhanced-image');
+    const slider = document.querySelector('.image-comparison-slider');
+    const handle = document.getElementById('sliderHandle');
+    const originalImage = document.querySelector('.original-image');
+    const enhancedImage = document.querySelector('.enhanced-image');
 
-            if (!slider || !handle) return;
+    if (!slider || !handle) return;
 
-            let isDragging = false;
+    // Clear any existing event listeners by cloning the slider
+    const newSlider = slider.cloneNode(true);
+    slider.parentNode.replaceChild(newSlider, slider);
+    
+    // Get references to the new elements
+    const newHandle = newSlider.querySelector('#sliderHandle');
+
+    let isDragging = false;
+
 
             function updateSlider(clientX) {
-                const sliderRect = slider.getBoundingClientRect();
-                const percentage = Math.max(0, Math.min(100, ((clientX - sliderRect.left) / sliderRect.width) * 100));
+    const sliderRect = newSlider.getBoundingClientRect();
+    const percentage = Math.max(0, Math.min(100, ((clientX - sliderRect.left) / sliderRect.width) * 100));
+    const newOriginalImage = newSlider.querySelector('.original-image');
+    const newEnhancedImage = newSlider.querySelector('.enhanced-image');
 
-                // Update handle position
-                handle.style.left = percentage + '%';
+    // Update handle position
+    newHandle.style.left = percentage + '%';
 
-                // Update clip paths
-                if (document.body.classList.contains('arabic-mode')) {
-                    originalImage.style.clipPath = `polygon(${percentage}% 0, 100% 0, 100% 100%, ${percentage}% 100%)`;
-                    enhancedImage.style.clipPath = `polygon(0 0, ${percentage}% 0, ${percentage}% 100%, 0 100%)`;
-                } else {
-                    originalImage.style.clipPath = `polygon(0 0, ${percentage}% 0, ${percentage}% 100%, 0 100%)`;
-                    enhancedImage.style.clipPath = `polygon(${percentage}% 0, 100% 0, 100% 100%, ${percentage}% 100%)`;
-                }
-            }
+    // Update clip paths
+    if (document.body.classList.contains('arabic-mode')) {
+        newOriginalImage.style.clipPath = `polygon(${percentage}% 0, 100% 0, 100% 100%, ${percentage}% 100%)`;
+        newEnhancedImage.style.clipPath = `polygon(0 0, ${percentage}% 0, ${percentage}% 100%, 0 100%)`;
+    } else {
+        newOriginalImage.style.clipPath = `polygon(0 0, ${percentage}% 0, ${percentage}% 100%, 0 100%)`;
+        newEnhancedImage.style.clipPath = `polygon(${percentage}% 0, 100% 0, 100% 100%, ${percentage}% 100%)`;
+    }
+}
 
             // Handle tap navigation for mobile
 // Handle tap navigation for mobile
@@ -4677,28 +4708,29 @@ function handleTapNavigation(e) {
             }
 
             // Add event listeners
-            slider.addEventListener('mousedown', onMouseDown);
+            newSlider.addEventListener('mousedown', onMouseDown);
             document.addEventListener('mousemove', onMouseMove);
             document.addEventListener('mouseup', onMouseUp);
 
             if (window.innerWidth > 768) {
-                // Desktop: normal slider functionality
-                slider.addEventListener('touchstart', onTouchStart, { passive: false });
+    // Desktop: normal slider functionality
+    newSlider.addEventListener('touchstart', onTouchStart, { passive: false });
+
                 document.addEventListener('touchmove', onTouchMove, { passive: false });
                 document.addEventListener('touchend', onTouchEnd);
             } else {
-                // Mobile: tap zones for navigation
-                slider.addEventListener('touchstart', handleTapStart);
-                slider.addEventListener('click', handleTapNavigation);
-            }
+    // Mobile: tap zones for navigation
+    newSlider.addEventListener('touchstart', handleTapStart);
+    newSlider.addEventListener('click', handleTapNavigation);
+}
 
             // Prevent image dragging
-            slider.querySelectorAll('img').forEach(img => {
-                img.addEventListener('dragstart', e => e.preventDefault());
-            });
+newSlider.querySelectorAll('img').forEach(img => {
+    img.addEventListener('dragstart', e => e.preventDefault());
+});
 
-            // Initialize at 50%
-            updateSlider(slider.getBoundingClientRect().left + slider.getBoundingClientRect().width / 2);
+// Initialize at 50%
+updateSlider(newSlider.getBoundingClientRect().left + newSlider.getBoundingClientRect().width / 2);
         }
 
         // Load game covers from external txt file
