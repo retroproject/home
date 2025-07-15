@@ -423,7 +423,7 @@ body.loaded {
         .main-content {
     max-width: 950px;
     margin: 0;
-    padding-left: 200px;
+    padding-left: 50px;
     padding-right: 2rem;
     padding-top: 350px;
     padding-bottom: 2rem;
@@ -435,7 +435,7 @@ body.loaded {
 
         body.arabic-mode .main-content {
             padding-left: 2rem;
-            padding-right: 200px;
+            padding-right: 50px;
         }
 
         .left-section {
@@ -456,7 +456,7 @@ body.loaded {
     text-align: center;
     margin-bottom: 3rem;
     position: absolute;
-    left: 200px;
+    left: 50px;
     top: 170px;
     width: 950px;
     z-index: 3;
@@ -464,7 +464,7 @@ body.loaded {
 
         body.arabic-mode .header {
             left: auto;
-            right: 200px;
+            right: 50px;
         }
 
 
@@ -1897,6 +1897,14 @@ body.loaded {
             left: auto;
         }
 
+        body.arabic-mode .nav-arrow.prev-arrow svg {
+            transform: rotate(180deg);
+        }
+
+        body.arabic-mode .nav-arrow.next-arrow svg {
+            transform: rotate(180deg);
+        }
+
 
         .lightbox-nav:disabled {
             opacity: 0.3;
@@ -2187,6 +2195,18 @@ body.loaded {
             left: 20px;
         }
 
+        body.arabic-mode .original-image {
+            left: auto;
+            right: 0;
+            clip-path: polygon(50% 0, 100% 0, 100% 100%, 50% 100%);
+        }
+
+        body.arabic-mode .enhanced-image {
+            right: auto;
+            left: 0;
+            clip-path: polygon(0 0, 50% 0, 50% 100%, 0 100%);
+        }
+
         /* Navigation Controls */
         .comparison-navigation {
             display: flex;
@@ -2195,6 +2215,14 @@ body.loaded {
             margin-top: 1.5rem;
             padding: 0 1rem;
         }
+
+        @media (max-width: 768px) {
+    .comparison-navigation {
+        display: none !important;
+        margin-top: 0 !important;
+        padding: 0 !important;
+    }
+}
 
         .nav-arrow {
             background: linear-gradient(145deg, rgba(15, 15, 15, 0.9), rgba(30, 30, 30, 0.9));
@@ -2934,13 +2962,32 @@ body.arabic-mode .page-jump {
 }
 
 .image-comparison-slider {
-    height: 180px !important;
+    height: calc((100vw - 2rem) * 9 / 16) !important;
+    max-height: 180px !important;
 }
 
 .image-comparison-container {
-    margin: 1rem auto !important;
-    max-width: 100% !important;
-}
+            margin: 1rem auto 0 auto !important;
+            max-width: 100% !important;
+            overflow: hidden !important;
+            padding-bottom: 0 !important;
+        }
+
+        .image-comparison-slider {
+            display: block !important;
+            overflow: hidden !important;
+        }
+
+        .comparison-image {
+            height: 100% !important;
+        }
+
+        .comparison-image img {
+            width: 100% !important;
+            height: 100% !important;
+            object-fit: cover !important;
+            display: block !important;
+        }
 
 .comparison-image img {
     object-fit: cover !important;
@@ -4031,11 +4078,14 @@ function updateLanguageContent() {
     updatePagination();
 
     // Update guide images when language changes
-    if (document.getElementById('guideImage')) {
-        const images = guideImages[currentLanguage];
-        document.getElementById('guideImage').src = images[currentGuideIndex];
-        updateGuideNavigation();
-    }
+            if (document.getElementById('guideImage')) {
+                // Reset to first image and preload all images for new language
+                currentGuideIndex = 0;
+                const images = guideImages[currentLanguage];
+                document.getElementById('guideImage').src = images[currentGuideIndex];
+                updateGuideNavigation();
+                preloadGuideImages();
+            }
 }
 
 
@@ -4231,19 +4281,22 @@ function updateLanguageContent() {
 
             if (!originalImg || !enhancedImg || !slider) return;
 
-            // Add fading class to entire slider
-            slider.classList.add('fading');
+            // Preload new images first
+            const newOriginalImg = new Image();
+            const newEnhancedImg = new Image();
+            let imagesLoaded = 0;
 
-            setTimeout(() => {
-                // Update image sources
-                originalImg.src = comparisonExamples[currentExample].original;
-                enhancedImg.src = comparisonExamples[currentExample].enhanced;
+            const checkLoaded = () => {
+                imagesLoaded++;
+                if (imagesLoaded === 2) {
+                    // Both images loaded, now start fade animation
+                    slider.classList.add('fading');
 
-                // Wait for images to load, then fade back in
-                let imagesLoaded = 0;
-                const checkLoaded = () => {
-                    imagesLoaded++;
-                    if (imagesLoaded === 2) {
+                    setTimeout(() => {
+                        // Update image sources
+                        originalImg.src = comparisonExamples[currentExample].original;
+                        enhancedImg.src = comparisonExamples[currentExample].enhanced;
+
                         // Remove fading class
                         slider.classList.remove('fading');
 
@@ -4252,20 +4305,27 @@ function updateLanguageContent() {
                         if (handle) {
                             const percentage = 50;
                             handle.style.left = percentage + '%';
-                            originalContainer.style.clipPath = `polygon(0 0, ${percentage}% 0, ${percentage}% 100%, 0 100%)`;
-                            enhancedContainer.style.clipPath = `polygon(${percentage}% 0, 100% 0, 100% 100%, ${percentage}% 100%)`;
+                            
+                            if (document.body.classList.contains('arabic-mode')) {
+                                originalContainer.style.clipPath = `polygon(${percentage}% 0, 100% 0, 100% 100%, ${percentage}% 100%)`;
+                                enhancedContainer.style.clipPath = `polygon(0 0, ${percentage}% 0, ${percentage}% 100%, 0 100%)`;
+                            } else {
+                                originalContainer.style.clipPath = `polygon(0 0, ${percentage}% 0, ${percentage}% 100%, 0 100%)`;
+                                enhancedContainer.style.clipPath = `polygon(${percentage}% 0, 100% 0, 100% 100%, ${percentage}% 100%)`;
+                            }
                         }
-                    }
-                };
+                    }, 300);
+                }
+            };
 
-                originalImg.onload = checkLoaded;
-                enhancedImg.onload = checkLoaded;
+            // Preload the images
+            newOriginalImg.onload = checkLoaded;
+            newEnhancedImg.onload = checkLoaded;
+            newOriginalImg.onerror = checkLoaded;
+            newEnhancedImg.onerror = checkLoaded;
 
-                // Fallback in case images are already cached
-                if (originalImg.complete) checkLoaded();
-                if (enhancedImg.complete) checkLoaded();
-
-            }, 300);
+            newOriginalImg.src = comparisonExamples[currentExample].original;
+            newEnhancedImg.src = comparisonExamples[currentExample].enhanced;
         }
 
         // Update navigation state
@@ -4424,6 +4484,19 @@ function updateLanguageContent() {
             updateLightboxNavigation();
         }
 
+        // Preload all guide images
+function preloadGuideImages() {
+    const images = guideImages[currentLanguage];
+    
+    images.forEach((imageSrc, index) => {
+        const img = new Image();
+        img.src = imageSrc;
+        console.log(`Preloading guide image ${index + 1}: ${imageSrc}`);
+    });
+    
+    console.log(`Started preloading ${images.length} guide images for ${currentLanguage} language`);
+}
+
         // Update existing navigateLightbox to handle both program and guide
         function navigateLightbox(direction) {
             // Check if we're in guide mode by checking current image source
@@ -4528,9 +4601,46 @@ function updateLanguageContent() {
                 handle.style.left = percentage + '%';
 
                 // Update clip paths
-                originalImage.style.clipPath = `polygon(0 0, ${percentage}% 0, ${percentage}% 100%, 0 100%)`;
-                enhancedImage.style.clipPath = `polygon(${percentage}% 0, 100% 0, 100% 100%, ${percentage}% 100%)`;
+                if (document.body.classList.contains('arabic-mode')) {
+                    originalImage.style.clipPath = `polygon(${percentage}% 0, 100% 0, 100% 100%, ${percentage}% 100%)`;
+                    enhancedImage.style.clipPath = `polygon(0 0, ${percentage}% 0, ${percentage}% 100%, 0 100%)`;
+                } else {
+                    originalImage.style.clipPath = `polygon(0 0, ${percentage}% 0, ${percentage}% 100%, 0 100%)`;
+                    enhancedImage.style.clipPath = `polygon(${percentage}% 0, 100% 0, 100% 100%, ${percentage}% 100%)`;
+                }
             }
+
+            // Handle tap navigation for mobile
+// Handle tap navigation for mobile
+let tapStartTime = 0;
+
+function handleTapStart(e) {
+    tapStartTime = Date.now();
+}
+
+function handleTapNavigation(e) {
+    if (window.innerWidth > 768) return; // Only for mobile
+    
+    const tapDuration = Date.now() - tapStartTime;
+    
+    // Only navigate if it was a quick tap (less than 200ms)
+    if (tapDuration > 200) return;
+    
+    const slider = e.currentTarget;
+    const rect = slider.getBoundingClientRect();
+    const tapX = e.clientX - rect.left;
+    const sliderWidth = rect.width;
+    
+    // Left third of image = previous, right third = next, middle third = no action
+    if (tapX < sliderWidth * 0.33) {
+        // Left tap zone - previous image
+        changeExample(-1);
+    } else if (tapX > sliderWidth * 0.67) {
+        // Right tap zone - next image
+        changeExample(1);
+    }
+    // Middle zone does nothing (allows normal slider interaction if needed)
+}
 
             // Mouse events
             function onMouseDown(e) {
@@ -4571,9 +4681,16 @@ function updateLanguageContent() {
             document.addEventListener('mousemove', onMouseMove);
             document.addEventListener('mouseup', onMouseUp);
 
-            slider.addEventListener('touchstart', onTouchStart, { passive: false });
-            document.addEventListener('touchmove', onTouchMove, { passive: false });
-            document.addEventListener('touchend', onTouchEnd);
+            if (window.innerWidth > 768) {
+                // Desktop: normal slider functionality
+                slider.addEventListener('touchstart', onTouchStart, { passive: false });
+                document.addEventListener('touchmove', onTouchMove, { passive: false });
+                document.addEventListener('touchend', onTouchEnd);
+            } else {
+                // Mobile: tap zones for navigation
+                slider.addEventListener('touchstart', handleTapStart);
+                slider.addEventListener('click', handleTapNavigation);
+            }
 
             // Prevent image dragging
             slider.querySelectorAll('img').forEach(img => {
@@ -4928,9 +5045,15 @@ function showSection(sectionName) {
         newSection.style.opacity = '1';
     }
 
+    // Preload guide images when entering guide section
+    if (sectionName === 'guide') {
+        preloadGuideImages();
+    }
+
     // Handle background music
     const audio = document.getElementById('backgroundMusic');
     audio.play().catch(() => { });
+    
 }
 
         // FAQ functionality
@@ -4955,7 +5078,7 @@ function showSection(sectionName) {
         // Initialize music
         function initializeMusic() {
             const audio = document.getElementById('backgroundMusic');
-            audio.volume = 0.3;
+            audio.volume = 0.2;
 
             function attemptAutoPlay() {
                 const playPromise = audio.play();
