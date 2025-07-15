@@ -3464,7 +3464,7 @@ body.arabic-mode .enhanced-label {
                         </button>
                         <div class="faq-answer">
                             <div class="faq-answer-content"
-                                data-en="A sleek platform for downloading and managing both retro and modern PC games — featuring enhanced graphics, mod support, lightning-fast downloads, and the simplicity of a game console."
+                                data-en="A sleek platform for downloading retro and modern PC games with enhanced graphics, mod support, lightning-fast downloads, and the simplicity of console gaming."
                                 data-ar="منصة لتحميل وإدارة الألعاب القديمة والحديثة، تتضمن نسخ محسّنة ومعدّلة من الألعاب، مع سهولة استخدام تشبه أجهزة الألعاب المنزلية. ">
                                 A gaming platform to download and manage retro and modern PC games with enhanced
                                 graphics, mods, and fast download speeds.
@@ -3794,10 +3794,12 @@ body.arabic-mode .enhanced-label {
         }, 300);
     } else {
         // Open menu
-        // Fade page content out
+        // Fade page content out but keep particles
         pageContent.forEach(element => {
-            element.style.transition = 'opacity 0.3s ease';
-            element.style.opacity = '0';
+            if (element.id !== 'particles') {
+                element.style.transition = 'opacity 0.3s ease';
+                element.style.opacity = '0';
+            }
         });
         
         setTimeout(() => {
@@ -3808,6 +3810,8 @@ body.arabic-mode .enhanced-label {
             setTimeout(() => {
                 menu.style.opacity = '1';
                 menu.style.visibility = 'visible';
+                // Keep particles visible
+                document.getElementById('particles').style.opacity = '1';
             }, 50);
         }, 300);
     }
@@ -3832,6 +3836,8 @@ function closeMobileMenu() {
                 element.style.transition = 'opacity 0.3s ease';
                 element.style.opacity = '1';
             });
+            // Ensure particles stay visible
+            document.getElementById('particles').style.opacity = '1';
         }, 900); // Wait for section fade transition to complete
     }, 300);
 }
