@@ -431,7 +431,6 @@ body.loaded {
     gap: 3rem;
     align-items: flex-start;
     justify-content: flex-start;
-    transition: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 
         body.arabic-mode .main-content {
@@ -461,7 +460,6 @@ body.loaded {
     top: 170px;
     width: 950px;
     z-index: 3;
-    transition: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 
         body.arabic-mode .header {
@@ -975,21 +973,20 @@ body.loaded {
         }
 
         body.arabic-mode .premium::after {
-            content: 'فيرجيل';
+            content: 'فيرجل';
             font-family: 'Cairo', sans-serif;
         }
 
         /* Games Content */
         .games-content {
-            max-width: 1400px;
-            margin: 0;
-            padding: 100px 0 2rem 50px;
-            position: relative;
-            z-index: 2;
-            overflow-y: auto;
-            overflow-x: hidden;
-            transition: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-        }
+    max-width: 1400px;
+    margin: 0;
+    padding: 100px 0 2rem 50px;
+    position: relative;
+    z-index: 2;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
 
         body.arabic-mode .games-content {
             padding: 100px 50px 2rem 0;
@@ -1005,13 +1002,12 @@ body.loaded {
             scrollbar-width: none;
         }
 
-        .search-container {
-            max-width: 475px;
-            margin: 0 0 3rem 300px;
-            position: relative;
-            animation: fadeInUp 1s ease-out 0.5s both;
-            transition: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-        }
+.search-container {
+    max-width: 475px;
+    margin: 0 0 3rem 300px;
+    position: relative;
+    animation: fadeInUp 1s ease-out 0.5s both;
+}
 
         body.arabic-mode .search-container {
             margin: 0 300px 3rem 0;
@@ -1069,17 +1065,16 @@ body.loaded {
         }
 
         /* Games Grid - Updated for 5x3 layout */
-        .games-grid {
-            display: grid;
-            grid-template-columns: repeat(5, 200px);
-            grid-template-rows: repeat(3, auto);
-            gap: 1.5rem;
-            animation: fadeInUp 1s ease-out 1s both;
-            justify-content: start;
-            margin-left: 0px;
-            margin-bottom: 2rem;
-            transition: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-        }
+.games-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 200px);
+    grid-template-rows: repeat(3, auto);
+    gap: 1.5rem;
+    animation: fadeInUp 1s ease-out 1s both;
+    justify-content: start;
+    margin-left: 0px;
+    margin-bottom: 2rem;
+}
 
         body.arabic-mode .games-grid {
             justify-content: end;
@@ -1190,17 +1185,16 @@ body.loaded {
         }
 
         /* Pagination Styles */
-        .pagination-container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            gap: 1rem;
-            margin: 2rem 0 2rem 20px;
-            width: calc(5 * 200px + 4 * 1.5rem);
-            position: relative;
-            z-index: 10;
-            transition: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-        }
+.pagination-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin: 2rem 0 2rem 20px;
+    width: calc(5 * 200px + 4 * 1.5rem);
+    position: relative;
+    z-index: 10;
+}
 
         .pagination-container.animate-in {
             opacity: 0;
@@ -2343,7 +2337,7 @@ body.loaded {
         }
 
         body.arabic-mode .faq-section.vergil::after {
-            content: 'فيرجيل';
+            content: 'فيرجل';
             font-family: 'Cairo', sans-serif;
         }
 
@@ -3328,7 +3322,7 @@ body.arabic-mode .enhanced-label {
                 <div class="screenshot-badges">
                     <div class="screenshot-badge active" onclick="switchScreenshotMode('program')" data-en="PROGRAM UI"
                         data-ar="واجهة البرنامج">PROGRAM UI</div>
-                    <div class="screenshot-badge after-badge" onclick="switchScreenshotMode('enhancements')" data-en="ENHANCEMENTS" data-ar="التحسينات">
+                    <div class="screenshot-badge after-badge" onclick="switchScreenshotMode('enhancements')" data-en="Enhancement" data-ar="التحسينات">
                         ENHANCEMENTS</div>
                 </div>
 
@@ -3918,90 +3912,110 @@ if (window.innerWidth <= 768) {
         // Toggle language with background crossfade transition
         function toggleLanguage() {
     const overlay = document.getElementById('languageOverlay');
+    const activeSection = document.querySelector('.content-section.active');
     
-    // On mobile, don't show desktop backgrounds during transition
-    if (window.innerWidth <= 768) {
-        overlay.style.backgroundImage = "url('https://i.imgur.com/DdYKWbi.png')";
-    } else {
-        // Set the overlay to show the target background
-        if (currentLanguage === 'en') {
-            // Switching to Arabic, show Arabic background
-            overlay.style.backgroundImage = "url('https://i.imgur.com/Rw6Jial.jpeg')";
-        } else {
-            // Switching to English, show English background
-            overlay.style.backgroundImage = "url('https://i.imgur.com/Dc7CikC.jpeg')";
-        }
+    // Set black background for transition
+    overlay.style.backgroundImage = "none";
+    overlay.style.background = "#000000";
+    
+    // First fade out the active content section
+    if (activeSection) {
+        activeSection.style.transition = 'opacity 0.3s ease-out';
+        activeSection.style.opacity = '0';
     }
     
-    overlay.classList.add('active');
+    // Show overlay after content starts fading
+    setTimeout(() => {
+        overlay.classList.add('active');
+        
+        setTimeout(() => {
+            if (currentLanguage === 'en') {
+                currentLanguage = 'ar';
+                document.body.classList.add('arabic-mode');
+                document.documentElement.dir = 'rtl';
+            } else {
+                currentLanguage = 'en';
+                document.body.classList.remove('arabic-mode');
+                document.documentElement.dir = 'ltr';
+            }
 
+            // Update all text content
+            updateLanguageContent();
+
+            // Force remove any backdrop-filter that might be applied during transition
+            if (window.innerWidth <= 768) {
+                document.querySelectorAll('.game-card, .game-info, .search-box, .search-container, .faq-section, .faq-item').forEach(element => {
+                    element.style.backdropFilter = 'none';
+                    element.style.webkitBackdropFilter = 'none';
+                });
+            }
+
+            // Remove overlay and fade content back in
             setTimeout(() => {
-    if (currentLanguage === 'en') {
-        currentLanguage = 'ar';
-        document.body.classList.add('arabic-mode');
-        document.documentElement.dir = 'rtl';
-    } else {
-        currentLanguage = 'en';
-        document.body.classList.remove('arabic-mode');
-        document.documentElement.dir = 'ltr';
-    }
+                overlay.classList.remove('active');
+                if (activeSection) {
+                    activeSection.style.transition = 'opacity 0.3s ease-in';
+                    activeSection.style.opacity = '1';
+                }
+            }, 200);
+        }, 300);
+    }, 150);
 
-    // Update all text content
-    updateLanguageContent();
-
-    // Force remove any backdrop-filter that might be applied during transition
-    if (window.innerWidth <= 768) {
-    document.querySelectorAll('.game-card, .game-info, .search-box, .search-container, .faq-section, .faq-item').forEach(element => {
-        element.style.backdropFilter = 'none';
-        element.style.webkitBackdropFilter = 'none';
-    });
+    // Save language preference
+    localStorage.setItem('preferredLanguage', currentLanguage);
 }
 
-
-
-    // Remove overlay after content updates
-    setTimeout(() => {
-        overlay.classList.remove('active');
-    }, 300);
-}, 300);
-
-            // Save language preference
-            localStorage.setItem('preferredLanguage', currentLanguage);
-        }
-
         // Update all text content based on current language
-        function updateLanguageContent() {
-            // Update elements with data attributes
-            document.querySelectorAll('[data-en]').forEach(element => {
-                const key = currentLanguage === 'en' ? 'data-en' : 'data-ar';
-                if (element.innerHTML.includes('<a ')) {
-                    // For elements with HTML links, use innerHTML
-                    element.innerHTML = element.getAttribute(key);
-                } else {
-                    // For regular text elements, use textContent
-                    element.textContent = element.getAttribute(key);
-                }
-            });
-
-            // Update placeholders
-            document.querySelectorAll('[data-placeholder-en]').forEach(element => {
-                const key = currentLanguage === 'en' ? 'data-placeholder-en' : 'data-placeholder-ar';
-                element.placeholder = element.getAttribute(key);
-            });
-
-            // Update formatted content (pagination, counters)
-            updateFormattedContent();
-
-            // Update page info
-            updatePagination();
-
-            // Update guide images when language changes
-            if (document.getElementById('guideImage')) {
-                const images = guideImages[currentLanguage];
-                document.getElementById('guideImage').src = images[currentGuideIndex];
-                updateGuideNavigation();
-            }
+        // Update all text content based on current language
+function updateLanguageContent() {
+    // Update elements with data attributes
+    document.querySelectorAll('[data-en]').forEach(element => {
+        // Skip screenshot title as it needs special handling
+        if (element.id === 'screenshotTitle') {
+            return;
         }
+        
+        const key = currentLanguage === 'en' ? 'data-en' : 'data-ar';
+        if (element.innerHTML.includes('<a ')) {
+            // For elements with HTML links, use innerHTML
+            element.innerHTML = element.getAttribute(key);
+        } else {
+            // For regular text elements, use textContent
+            element.textContent = element.getAttribute(key);
+        }
+    });
+
+    // Update placeholders
+    document.querySelectorAll('[data-placeholder-en]').forEach(element => {
+        const key = currentLanguage === 'en' ? 'data-placeholder-en' : 'data-placeholder-ar';
+        element.placeholder = element.getAttribute(key);
+    });
+
+    // Update screenshot title based on current mode
+    const screenshotTitle = document.getElementById('screenshotTitle');
+    if (screenshotTitle) {
+        if (currentScreenshotMode === 'program') {
+            const titleText = currentLanguage === 'en' ? '🎨 Interface' : '🎨 الواجهة';
+            screenshotTitle.textContent = titleText;
+        } else if (currentScreenshotMode === 'enhancements') {
+            const titleText = currentLanguage === 'en' ? '✨ Visual Enhancements' : '✨ التحسينات المرئية';
+            screenshotTitle.textContent = titleText;
+        }
+    }
+
+    // Update formatted content (pagination, counters)
+    updateFormattedContent();
+
+    // Update page info
+    updatePagination();
+
+    // Update guide images when language changes
+    if (document.getElementById('guideImage')) {
+        const images = guideImages[currentLanguage];
+        document.getElementById('guideImage').src = images[currentGuideIndex];
+        updateGuideNavigation();
+    }
+}
 
 
 
