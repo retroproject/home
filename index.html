@@ -2553,7 +2553,7 @@
 /* Mobile Menu Styles */
         .mobile-menu-btn {
     display: none;
-    position: fixed;
+    position: absolute;
     top: 2rem;
     right: 2rem;
     z-index: 200;
@@ -2596,24 +2596,24 @@
         }
 
         .mobile-menu {
-            display: none;
-            position: fixed;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background: rgba(0, 0, 0, 0.95);
-            backdrop-filter: blur(20px);
-            z-index: 150;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            gap: 1.5rem;
-            padding: 2rem;
-            opacity: 0;
-            visibility: hidden;
-            transition: all 0.3s ease;
-        }
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: transparent;
+    backdrop-filter: none;
+    z-index: 150;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 2rem;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+}
 
         .mobile-menu.active {
             display: flex;
@@ -2622,22 +2622,40 @@
         }
 
         .mobile-nav-btn {
-            background: linear-gradient(145deg, rgba(15, 15, 15, 0.9), rgba(30, 30, 30, 0.9));
-            border: 2px solid rgba(220, 20, 60, 0.4);
-            border-radius: 10px;
-            padding: 1rem 2rem;
-            color: #e0e0e0;
-            font-family: 'Orbitron', monospace;
-            font-weight: 600;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            backdrop-filter: blur(15px);
-            text-decoration: none;
-            display: inline-block;
-            min-width: 200px;
-            text-align: center;
-            font-size: 1.1rem;
-        }
+    background: linear-gradient(145deg, rgba(15, 15, 15, 0.15), rgba(30, 30, 30, 0.15));
+    border: 2px solid rgba(220, 20, 60, 0.4);
+    border-radius: 10px;
+    padding: 1rem 2rem;
+    color: #e0e0e0;
+    font-family: 'Orbitron', monospace;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    backdrop-filter: none;
+    text-decoration: none;
+    display: inline-block;
+    min-width: 200px;
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+.mobile-nav-btn.arabic-toggle {
+    border: 2px solid rgba(184, 134, 11, 0.6);
+}
+
+.mobile-nav-btn.arabic-toggle:hover {
+    border-color: #FFD700;
+    box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
+}
+
+.mobile-nav-btn.social-toggle {
+    border: 2px solid rgba(70, 130, 180, 0.6);
+}
+
+.mobile-nav-btn.social-toggle:hover {
+    border-color: #4682b4;
+    box-shadow: 0 0 20px rgba(70, 130, 180, 0.3);
+}
 
         .mobile-nav-btn:hover {
             border-color: rgba(220, 20, 60, 0.8);
@@ -2664,9 +2682,9 @@
         }
 
         body.arabic-mode .mobile-menu-btn {
-            right: auto;
-            left: 2rem;
-        }
+    right: auto;
+    left: 2rem;
+}
 
         /* Responsive design */
         @media (max-width: 1024px) {
@@ -2775,11 +2793,11 @@
     }
 
     .tier-card {
-    padding: 1.5rem;
-    height: auto;
-    min-height: 160px;
-    backdrop-filter: none !important;
-}
+        padding: 1.5rem;
+        height: auto;
+        min-height: 160px;
+        backdrop-filter: none !important;
+    }
 
     .price {
         font-size: 2.2rem;
@@ -2821,98 +2839,93 @@
         text-align: center;
     }
 
-            .nav {
-                flex-direction: column;
-                gap: 0.5rem;
-            }
+    .nav-btn {
+        padding: 0.6rem 1rem;
+        font-size: 0.9rem;
+    }
 
-            body.arabic-mode .nav {
-                flex-direction: column;
-            }
+    .games-grid {
+        grid-template-columns: repeat(2, 150px);
+        margin: 0 auto;
+        justify-content: center;
+    }
 
-            .nav-btn {
-                padding: 0.6rem 1rem;
-                font-size: 0.9rem;
-            }
+    body.arabic-mode .games-grid {
+        margin: 0 auto;
+        justify-content: center;
+    }
 
-            .games-grid {
-                grid-template-columns: repeat(2, 150px);
-                margin-left: 1rem;
-            }
+    .search-container {
+        margin: 0 auto 3rem auto;
+        max-width: 300px;
+    }
 
-            body.arabic-mode .games-grid {
-                margin-right: 1rem;
-                margin-left: 0;
-            }
+    body.arabic-mode .search-container {
+        margin: 0 auto 3rem auto;
+    }
 
-            .search-container {
-                margin-left: 1rem;
-                max-width: 300px;
-            }
+    .games-content {
+        padding-left: 1rem;
+        padding-right: 1rem;
+        padding-top: 80px;
+        text-align: center;
+    }
 
-            body.arabic-mode .search-container {
-                margin-right: 1rem;
-                margin-left: 0;
-            }
+    body.arabic-mode .games-content {
+        padding-left: 1rem;
+        padding-right: 1rem;
+        text-align: center;
+    }
 
-            .games-content {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    padding-top: 80px;
-    text-align: center;
+    .faq-content,
+    .guide-content,
+    .screenshots-content {
+        padding-top: 80px;
+    }
+
+    .video-container {
+        backdrop-filter: none !important;
+    }
+
+    .screenshot-section {
+        backdrop-filter: none !important;
+    }
+
+    .guide-nav,
+    .lightbox-nav,
+    .nav-arrow {
+        display: none !important;
+    }
+
+    .guide-counter,
+    .lightbox-counter,
+    .example-counter {
+        display: none !important;
+    }
+
+    .pagination-container {
+        display: none;
+    }
+
+    body.arabic-mode .pagination-container {
+        display: none;
+    }
+
+    .page-jump {
+        margin-left: 0;
+        margin-top: 0.5rem;
+    }
+
+    body.arabic-mode .page-jump {
+        margin-right: 0;
+    }
+
+    .screenshot-badges {
+        flex-direction: column;
+        gap: 0.5rem;
+        width: auto;
+    }
 }
-
-body.arabic-mode .games-content {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    text-align: center;
-}
-
-            .faq-content,
-.guide-content,
-.screenshots-content {
-    padding-top: 80px;
-}
-
-.video-container {
-    backdrop-filter: none !important;
-}
-
-.screenshot-section {
-    backdrop-filter: none !important;
-}
-
-            .pagination-container {
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    width: 100%;
-    margin: 2rem auto 2rem auto;
-    justify-content: center;
-    padding: 0 1rem;
-    box-sizing: border-box;
-}
-
-body.arabic-mode .pagination-container {
-    flex-wrap: wrap;
-    margin: 2rem auto 2rem auto;
-    justify-content: center;
-}
-
-            .page-jump {
-                margin-left: 0;
-                margin-top: 0.5rem;
-            }
-
-            body.arabic-mode .page-jump {
-                margin-right: 0;
-            }
-
-            .screenshot-badges {
-                flex-direction: column;
-                gap: 0.5rem;
-                width: auto;
-            }
-        }
 
         @media (max-width: 480px) {
             .main-title {
@@ -3068,7 +3081,7 @@ body.arabic-mode .pagination-container {
     <button class="mobile-nav-btn" onclick="showSection('screenshots'); closeMobileMenu()" data-en="Screenshots" data-ar="لقطات الشاشة">Screenshots</button>
     <button class="mobile-nav-btn" onclick="showSection('faq'); closeMobileMenu()" data-en="FAQ" data-ar="الأسئلة الشائعة">FAQ</button>
     <button class="mobile-nav-btn" onclick="showSection('social'); closeMobileMenu()" data-en="Follow Us" data-ar="تابعنا">Follow Us</button>
-    <button class="mobile-nav-btn arabic-toggle" onclick="toggleLanguage()" data-en="Arabic" data-ar="الإنجليزيه">العربية</button>
+    <button class="mobile-nav-btn arabic-toggle" onclick="toggleLanguage(); closeMobileMenu()" data-en="Arabic" data-ar="الإنجليزيه">العربية</button>
     <button class="mobile-mute-btn" onclick="toggleMute()" id="mobileMuteButton">
     <img src="https://i.imgur.com/ieAgxPg.png" alt="Mute" style="width: 32px; height: 32px;">
 </button>
@@ -3723,17 +3736,63 @@ body.arabic-mode .pagination-container {
         function toggleMobileMenu() {
     const menu = document.getElementById('mobileMenu');
     const btn = document.querySelector('.mobile-menu-btn');
+    const pageContent = document.querySelectorAll('.content-section, .header, .particles');
     
-    menu.classList.toggle('active');
-    btn.classList.toggle('active');
+    if (menu.classList.contains('active')) {
+        // Close menu with fade out
+        menu.style.opacity = '0';
+        menu.style.visibility = 'hidden';
+        menu.classList.remove('active');
+        btn.classList.remove('active');
+        
+        setTimeout(() => {
+            menu.style.display = 'none';
+            // Fade page content back in
+            pageContent.forEach(element => {
+                element.style.transition = 'opacity 0.3s ease';
+                element.style.opacity = '1';
+            });
+        }, 300);
+    } else {
+        // Open menu
+        // Fade page content out
+        pageContent.forEach(element => {
+            element.style.transition = 'opacity 0.3s ease';
+            element.style.opacity = '0';
+        });
+        
+        setTimeout(() => {
+            menu.style.display = 'flex';
+            menu.classList.add('active');
+            btn.classList.add('active');
+            // Fade menu in
+            setTimeout(() => {
+                menu.style.opacity = '1';
+                menu.style.visibility = 'visible';
+            }, 50);
+        }, 300);
+    }
 }
 
 function closeMobileMenu() {
     const menu = document.getElementById('mobileMenu');
     const btn = document.querySelector('.mobile-menu-btn');
+    const pageContent = document.querySelectorAll('.content-section, .header, .particles');
     
+    // Close menu with fade out
+    menu.style.opacity = '0';
+    menu.style.visibility = 'hidden';
     menu.classList.remove('active');
     btn.classList.remove('active');
+    
+    setTimeout(() => {
+        menu.style.display = 'none';
+        // Fade page content back in
+        pageContent.forEach(element => {
+            element.style.transition = 'opacity 0.3s ease';
+            element.style.opacity = '1';
+        });
+    }, 300);
 }
 
 // Touch swipe functionality for mobile
@@ -3811,18 +3870,23 @@ if (window.innerWidth <= 768) {
 
         // Toggle language with background crossfade transition
         function toggleLanguage() {
-            const overlay = document.getElementById('languageOverlay');
-
-            // Set the overlay to show the target background
-            if (currentLanguage === 'en') {
-                // Switching to Arabic, show Arabic background
-                overlay.style.backgroundImage = "url('https://i.imgur.com/Rw6Jial.jpeg')";
-            } else {
-                // Switching to English, show English background
-                overlay.style.backgroundImage = "url('https://i.imgur.com/Dc7CikC.jpeg')";
-            }
-
-            overlay.classList.add('active');
+    const overlay = document.getElementById('languageOverlay');
+    
+    // On mobile, don't show desktop backgrounds during transition
+    if (window.innerWidth <= 768) {
+        overlay.style.backgroundImage = "url('https://i.imgur.com/DdYKWbi.png')";
+    } else {
+        // Set the overlay to show the target background
+        if (currentLanguage === 'en') {
+            // Switching to Arabic, show Arabic background
+            overlay.style.backgroundImage = "url('https://i.imgur.com/Rw6Jial.jpeg')";
+        } else {
+            // Switching to English, show English background
+            overlay.style.backgroundImage = "url('https://i.imgur.com/Dc7CikC.jpeg')";
+        }
+    }
+    
+    overlay.classList.add('active');
 
             setTimeout(() => {
                 if (currentLanguage === 'en') {
@@ -3956,6 +4020,143 @@ if (window.innerWidth <= 768) {
 
             updateLightboxNavigation();
         }
+
+        // Infinite scroll for mobile
+let isLoadingMore = false;
+let currentlyDisplayed = 0;
+const itemsPerLoad = 10;
+
+function initializeInfiniteScroll() {
+    if (window.innerWidth <= 768) {
+        // Reset for mobile
+        currentlyDisplayed = Math.min(itemsPerLoad, filteredGames.length);
+        displayGamesInfinite();
+        
+        // Add scroll listener
+        const gamesContent = document.querySelector('.games-content');
+        gamesContent.addEventListener('scroll', handleInfiniteScroll);
+    }
+}
+
+function displayGamesInfinite() {
+    const gamesGrid = document.getElementById('gamesGrid');
+    const noResults = document.getElementById('noResults');
+    
+    if (filteredGames.length === 0) {
+        gamesGrid.innerHTML = '';
+        noResults.style.display = 'block';
+        return;
+    }
+    
+    noResults.style.display = 'none';
+    
+    const gamesToShow = filteredGames.slice(0, currentlyDisplayed);
+    
+    gamesGrid.innerHTML = gamesToShow.map((game, index) => `
+        <div class="game-card animate-in" style="animation-delay: ${(index % itemsPerLoad) * 0.05}s;">
+            <img class="game-cover" 
+                 src="${game.cover}" 
+                 alt="${game.name}" 
+                 onerror="handleImageError(this)" 
+                 loading="lazy">
+            <div class="game-info">
+                <h3 class="game-title">${game.name}</h3>
+            </div>
+        </div>
+    `).join('');
+}
+
+function loadMoreGames() {
+    if (isLoadingMore || currentlyDisplayed >= filteredGames.length) return;
+    
+    isLoadingMore = true;
+    
+    // Show loading indicator
+    const gamesGrid = document.getElementById('gamesGrid');
+    const loadingDiv = document.createElement('div');
+    loadingDiv.className = 'loading-more';
+    loadingDiv.style.gridColumn = '1 / -1';
+    loadingDiv.style.textAlign = 'center';
+    loadingDiv.style.padding = '2rem';
+    loadingDiv.style.color = '#ff6b35';
+    loadingDiv.style.fontFamily = currentLanguage === 'ar' ? 'Cairo, sans-serif' : 'Orbitron, monospace';
+    loadingDiv.textContent = currentLanguage === 'ar' ? 'جاري التحميل...' : 'Loading...';
+    gamesGrid.appendChild(loadingDiv);
+    
+    // Simulate loading delay for better UX
+    setTimeout(() => {
+        const previousCount = currentlyDisplayed;
+        currentlyDisplayed = Math.min(currentlyDisplayed + itemsPerLoad, filteredGames.length);
+        
+        // Remove loading indicator
+        gamesGrid.removeChild(loadingDiv);
+        
+        // Add new games
+        const newGames = filteredGames.slice(previousCount, currentlyDisplayed);
+        newGames.forEach((game, index) => {
+            const gameCard = document.createElement('div');
+            gameCard.className = 'game-card animate-in';
+            gameCard.style.animationDelay = `${index * 0.05}s`;
+            gameCard.innerHTML = `
+                <img class="game-cover" 
+                     src="${game.cover}" 
+                     alt="${game.name}" 
+                     onerror="handleImageError(this)" 
+                     loading="lazy">
+                <div class="game-info">
+                    <h3 class="game-title">${game.name}</h3>
+                </div>
+            `;
+            gamesGrid.appendChild(gameCard);
+        });
+        
+        isLoadingMore = false;
+    }, 500);
+}
+
+function handleInfiniteScroll() {
+    if (window.innerWidth > 768) return; // Only on mobile
+    
+    const scrollTop = this.scrollTop;
+    const scrollHeight = this.scrollHeight;
+    const clientHeight = this.clientHeight;
+    
+    // Load more when 200px from bottom
+    if (scrollTop + clientHeight >= scrollHeight - 200) {
+        loadMoreGames();
+    }
+}
+
+// Update existing functions to use infinite scroll on mobile
+const originalDisplayCurrentPage = displayCurrentPage;
+displayCurrentPage = function() {
+    if (window.innerWidth <= 768) {
+        // Reset for new search/filter
+        currentlyDisplayed = Math.min(itemsPerLoad, filteredGames.length);
+        displayGamesInfinite();
+    } else {
+        originalDisplayCurrentPage();
+    }
+};
+
+// Initialize on window resize
+window.addEventListener('resize', function() {
+    if (window.innerWidth <= 768) {
+        initializeInfiniteScroll();
+    }
+});
+
+// Update the showSection function to initialize infinite scroll for games
+const originalShowSection = showSection;
+showSection = function(sectionName) {
+    originalShowSection.call(this, sectionName);
+    
+    if (sectionName === 'games' && window.innerWidth <= 768) {
+        setTimeout(() => {
+            initializeInfiniteScroll();
+        }, 100);
+    }
+};
 
         // Download setup function
         function downloadSetup() {
