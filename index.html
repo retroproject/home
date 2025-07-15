@@ -2209,19 +2209,11 @@ body.loaded {
 
         /* Navigation Controls */
         .comparison-navigation {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-top: 1.5rem;
-            padding: 0 1rem;
-        }
-
-        @media (max-width: 768px) {
-    .comparison-navigation {
-        display: none !important;
-        margin-top: 0 !important;
-        padding: 0 !important;
-    }
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1.5rem;
+    padding: 0 1rem;
 }
 
         .nav-arrow {
@@ -2877,10 +2869,10 @@ body.loaded {
     }
 
     .guide-nav,
-    .lightbox-nav,
-    .nav-arrow {
-        display: none !important;
-    }
+.lightbox-nav,
+.nav-arrow.guide-nav {
+    display: none !important;
+}
 
     .guide-counter,
     .lightbox-counter,
