@@ -4654,8 +4654,8 @@ function handleTapNavigation(e) {
     
     const tapDuration = Date.now() - tapStartTime;
     
-    // Only navigate if it was a quick tap (less than 200ms)
-    if (tapDuration > 200) return;
+    // Only navigate if it was a quick tap (less than 200ms) and no dragging occurred
+    if (tapDuration > 200 || isDragging) return;
     
     const slider = e.currentTarget;
     const rect = slider.getBoundingClientRect();
@@ -4719,7 +4719,12 @@ function handleTapNavigation(e) {
                 document.addEventListener('touchmove', onTouchMove, { passive: false });
                 document.addEventListener('touchend', onTouchEnd);
             } else {
-    // Mobile: tap zones for navigation
+    // Mobile: both drag and tap functionality
+    newSlider.addEventListener('touchstart', onTouchStart, { passive: false });
+    document.addEventListener('touchmove', onTouchMove, { passive: false });
+    document.addEventListener('touchend', onTouchEnd);
+    
+    // Also add tap zones for navigation
     newSlider.addEventListener('touchstart', handleTapStart);
     newSlider.addEventListener('click', handleTapNavigation);
 }
