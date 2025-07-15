@@ -350,88 +350,88 @@
             border-color: #FFD700;
         }
 
-/* Content sections */
-.content-section {
-    display: none;
-    position: relative;
-    z-index: 2;
-    transition: opacity 0.8s ease-in-out;
-}
+        /* Content sections */
+        .content-section {
+            display: none;
+            position: relative;
+            z-index: 2;
+            transition: opacity 0.8s ease-in-out;
+        }
 
-.content-section.active {
-    display: block;
-}
+        .content-section.active {
+            display: block;
+        }
 
-.tier-card.animate-in,
-.game-card.animate-in,
-.feature-card,
-.screenshot-feature-card,
-.faq-item,
-.pagination-container.animate-in {
-    animation: none !important;
-    opacity: 1 !important;
-    transform: none !important;
-}
+        .tier-card.animate-in,
+        .game-card.animate-in,
+        .feature-card,
+        .screenshot-feature-card,
+        .faq-item,
+        .pagination-container.animate-in {
+            animation: none !important;
+            opacity: 1 !important;
+            transform: none !important;
+        }
 
-/* Initial page load fade in */
-body {
-    opacity: 1;
-    transition: opacity 1s ease-in-out;
-}
+        /* Initial page load fade in */
+        body {
+            opacity: 1;
+            transition: opacity 1s ease-in-out;
+        }
 
-body.loaded {
-    opacity: 1;
-}
+        body.loaded {
+            opacity: 1;
+        }
 
-/* Black overlay for fade in effect */
-.page-overlay {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: #000000;
-    z-index: 9999;
-    opacity: 1;
-    transition: opacity 2s ease-in-out;
-    pointer-events: none;
-}
+        /* Black overlay for fade in effect */
+        .page-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: #000000;
+            z-index: 9999;
+            opacity: 1;
+            transition: opacity 2s ease-in-out;
+            pointer-events: none;
+        }
 
-.page-overlay.fade-out {
-    opacity: 0;
-}
+        .page-overlay.fade-out {
+            opacity: 0;
+        }
 
-/* Black overlay for fade in effect */
-.page-overlay {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: #000000;
-    z-index: 9999;
-    opacity: 1;
-    transition: opacity 2s ease-in-out;
-    pointer-events: none;
-}
+        /* Black overlay for fade in effect */
+        .page-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: #000000;
+            z-index: 9999;
+            opacity: 1;
+            transition: opacity 2s ease-in-out;
+            pointer-events: none;
+        }
 
-.page-overlay.fade-out {
-    opacity: 0;
-}
+        .page-overlay.fade-out {
+            opacity: 0;
+        }
 
         /* Main content (original subscription page) */
         .main-content {
-    max-width: 950px;
-    margin: 0;
-    padding-left: 50px;
-    padding-right: 2rem;
-    padding-top: 350px;
-    padding-bottom: 2rem;
-    display: flex;
-    gap: 3rem;
-    align-items: flex-start;
-    justify-content: flex-start;
-}
+            max-width: 950px;
+            margin: 0;
+            padding-left: 50px;
+            padding-right: 2rem;
+            padding-top: 350px;
+            padding-bottom: 2rem;
+            display: flex;
+            gap: 3rem;
+            align-items: flex-start;
+            justify-content: flex-start;
+        }
 
         body.arabic-mode .main-content {
             padding-left: 2rem;
@@ -453,14 +453,14 @@ body.loaded {
 
 
         .header {
-    text-align: center;
-    margin-bottom: 3rem;
-    position: absolute;
-    left: 50px;
-    top: 170px;
-    width: 950px;
-    z-index: 3;
-}
+            text-align: center;
+            margin-bottom: 3rem;
+            position: absolute;
+            left: 50px;
+            top: 170px;
+            width: 950px;
+            z-index: 3;
+        }
 
         body.arabic-mode .header {
             left: auto;
@@ -570,26 +570,26 @@ body.loaded {
             gap: 1.5rem;
         }
 
-.tier-card {
-    background: linear-gradient(145deg, rgba(15, 15, 15, 0.15), rgba(30, 30, 30, 0.15));
-    border: 2px solid rgba(220, 20, 60, 0.4);
-    border-radius: 15px;
-    padding: 1.8rem;
-    position: relative;
-    overflow: visible;
-    transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-    backdrop-filter: none;
-    height: 180px;
-    width: 100%;
-    box-sizing: border-box;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    opacity: 1;
-    transform: translateY(0);
-    cursor: pointer;
-}
-        
+        .tier-card {
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.15), rgba(30, 30, 30, 0.15));
+            border: 2px solid rgba(220, 20, 60, 0.4);
+            border-radius: 15px;
+            padding: 1.8rem;
+            position: relative;
+            overflow: visible;
+            transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            backdrop-filter: none;
+            height: 180px;
+            width: 100%;
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            opacity: 1;
+            transform: translateY(0);
+            cursor: pointer;
+        }
+
 
         body.arabic-mode .tier-card {
             text-align: center;
@@ -979,14 +979,14 @@ body.loaded {
 
         /* Games Content */
         .games-content {
-    max-width: 1400px;
-    margin: 0;
-    padding: 100px 0 2rem 50px;
-    position: relative;
-    z-index: 2;
-    overflow-y: auto;
-    overflow-x: hidden;
-}
+            max-width: 1400px;
+            margin: 0;
+            padding: 100px 0 2rem 50px;
+            position: relative;
+            z-index: 2;
+            overflow-y: auto;
+            overflow-x: hidden;
+        }
 
         body.arabic-mode .games-content {
             padding: 100px 50px 2rem 0;
@@ -1002,12 +1002,12 @@ body.loaded {
             scrollbar-width: none;
         }
 
-.search-container {
-    max-width: 475px;
-    margin: 0 0 3rem 300px;
-    position: relative;
-    animation: fadeInUp 1s ease-out 0.5s both;
-}
+        .search-container {
+            max-width: 475px;
+            margin: 0 0 3rem 300px;
+            position: relative;
+            animation: fadeInUp 1s ease-out 0.5s both;
+        }
 
         body.arabic-mode .search-container {
             margin: 0 300px 3rem 0;
@@ -1016,20 +1016,20 @@ body.loaded {
 
 
         .search-box {
-    width: 100%;
-    padding: 1.2rem 1.5rem;
-    padding-right: 3.5rem;
-    background: linear-gradient(145deg, rgba(15, 15, 15, 0.4), rgba(30, 30, 30, 0.4));
-    border: 2px solid rgba(220, 20, 60, 0.4);
-    border-radius: 15px;
-    color: #e0e0e0;
-    font-family: 'Orbitron', monospace;
-    font-size: 1rem;
-    font-weight: 600;
-    backdrop-filter: none;
-    transition: all 0.3s ease;
-    outline: none;
-}
+            width: 100%;
+            padding: 1.2rem 1.5rem;
+            padding-right: 3.5rem;
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.4), rgba(30, 30, 30, 0.4));
+            border: 2px solid rgba(220, 20, 60, 0.4);
+            border-radius: 15px;
+            color: #e0e0e0;
+            font-family: 'Orbitron', monospace;
+            font-size: 1rem;
+            font-weight: 600;
+            backdrop-filter: none;
+            transition: all 0.3s ease;
+            outline: none;
+        }
 
         body.arabic-mode .search-box {
             font-family: 'Cairo', sans-serif;
@@ -1065,16 +1065,16 @@ body.loaded {
         }
 
         /* Games Grid - Updated for 5x3 layout */
-.games-grid {
-    display: grid;
-    grid-template-columns: repeat(5, 200px);
-    grid-template-rows: repeat(3, auto);
-    gap: 1.5rem;
-    animation: fadeInUp 1s ease-out 1s both;
-    justify-content: start;
-    margin-left: 0px;
-    margin-bottom: 2rem;
-}
+        .games-grid {
+            display: grid;
+            grid-template-columns: repeat(5, 200px);
+            grid-template-rows: repeat(3, auto);
+            gap: 1.5rem;
+            animation: fadeInUp 1s ease-out 1s both;
+            justify-content: start;
+            margin-left: 0px;
+            margin-bottom: 2rem;
+        }
 
         body.arabic-mode .games-grid {
             justify-content: end;
@@ -1095,22 +1095,22 @@ body.loaded {
 
 
         .game-card {
-    background: linear-gradient(145deg, rgba(15, 15, 15, 0.3), rgba(30, 30, 30, 0.3));
-    border: 2px solid rgba(220, 20, 60, 0.4);
-    border-radius: 10px;
-    overflow: hidden;
-    position: relative;
-    transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-    backdrop-filter: none;
-    cursor: pointer;
-    opacity: 1;
-    transform: translateY(0);
-}
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.3), rgba(30, 30, 30, 0.3));
+            border: 2px solid rgba(220, 20, 60, 0.4);
+            border-radius: 10px;
+            overflow: hidden;
+            position: relative;
+            transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            backdrop-filter: none;
+            cursor: pointer;
+            opacity: 1;
+            transform: translateY(0);
+        }
 
         .game-card.animate-in .game-cover {
-    opacity: 0;
-    animation: gameImageFadeIn 1.5s ease-out forwards;
-}
+            opacity: 0;
+            animation: gameImageFadeIn 1.5s ease-out forwards;
+        }
 
         .game-card:hover {
             transform: translateX(6px) translateY(-3px) scale(1.01);
@@ -1153,6 +1153,12 @@ body.loaded {
             transform: scale(1.05);
         }
 
+        @media (max-width: 768px) {
+            .game-card:hover .game-cover {
+                transform: none;
+            }
+        }
+
         .game-info {
             padding: 1rem;
             text-align: center;
@@ -1184,16 +1190,16 @@ body.loaded {
         }
 
         /* Pagination Styles */
-.pagination-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 1rem;
-    margin: 2rem 0 2rem 20px;
-    width: calc(5 * 200px + 4 * 1.5rem);
-    position: relative;
-    z-index: 10;
-}
+        .pagination-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 1rem;
+            margin: 2rem 0 2rem 20px;
+            width: calc(5 * 200px + 4 * 1.5rem);
+            position: relative;
+            z-index: 10;
+        }
 
         .pagination-container.animate-in {
             opacity: 0;
@@ -1351,17 +1357,17 @@ body.loaded {
         }
 
         .video-container {
-    background: linear-gradient(145deg, rgba(15, 15, 15, 0.4), rgba(30, 30, 30, 0.4));
-    border: 2px solid rgba(220, 20, 60, 0.5);
-    border-radius: 20px;
-    padding: 2rem;
-    backdrop-filter: none;
-    transition: all 0.3s ease;
-    position: relative;
-    overflow: visible;
-    margin-top: 2rem;
-    animation: fadeInUp 1s ease-out 0.5s both;
-}
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.4), rgba(30, 30, 30, 0.4));
+            border: 2px solid rgba(220, 20, 60, 0.5);
+            border-radius: 20px;
+            padding: 2rem;
+            backdrop-filter: none;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: visible;
+            margin-top: 2rem;
+            animation: fadeInUp 1s ease-out 0.5s both;
+        }
 
         .video-container:hover {
             border-color: rgba(220, 20, 60, 0.8);
@@ -1531,20 +1537,21 @@ body.loaded {
         }
 
         @keyframes featureCardSlideUp {
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
-}
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
 
-@keyframes gameImageFadeIn {
-    0% {
-        opacity: 0;
-    }
-    100% {
-        opacity: 1;
-    }
-}
+        @keyframes gameImageFadeIn {
+            0% {
+                opacity: 0;
+            }
+
+            100% {
+                opacity: 1;
+            }
+        }
 
         .feature-title {
             font-family: 'Orbitron', monospace;
@@ -1595,18 +1602,18 @@ body.loaded {
         }
 
         .screenshot-section {
-    background: linear-gradient(145deg, rgba(15, 15, 15, 0.4), rgba(30, 30, 30, 0.4));
-    border-radius: 15px;
-    padding: 1.5rem;
-    padding-top: 3rem;
-    backdrop-filter: none;
-    border: 2px solid rgba(70, 130, 180, 0.5);
-    transition: all 0.3s ease;
-    position: relative;
-    overflow: visible;
-    animation: fadeInUp 1s ease-out 0.5s both;
-    margin-top: 2rem;
-}
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.4), rgba(30, 30, 30, 0.4));
+            border-radius: 15px;
+            padding: 1.5rem;
+            padding-top: 3rem;
+            backdrop-filter: none;
+            border: 2px solid rgba(70, 130, 180, 0.5);
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: visible;
+            animation: fadeInUp 1s ease-out 0.5s both;
+            margin-top: 2rem;
+        }
 
         .screenshot-section:hover {
             transform: translateY(-3px);
@@ -1754,6 +1761,12 @@ body.loaded {
 
         .screenshot-card:hover .screenshot-image {
             transform: scale(1.05);
+        }
+
+        @media (max-width: 768px) {
+            .screenshot-card:hover .screenshot-image {
+                transform: none;
+            }
         }
 
         /* Lightbox Modal Styles */
@@ -2209,12 +2222,20 @@ body.loaded {
 
         /* Navigation Controls */
         .comparison-navigation {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-top: 1.5rem;
-    padding: 0 1rem;
-}
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 1.5rem;
+            padding: 0 1rem;
+        }
+
+        @media (max-width: 768px) {
+            .comparison-navigation {
+                display: none !important;
+                margin-top: 0 !important;
+                padding: 0 !important;
+            }
+        }
 
         .nav-arrow {
             background: linear-gradient(145deg, rgba(15, 15, 15, 0.9), rgba(30, 30, 30, 0.9));
@@ -2300,16 +2321,16 @@ body.loaded {
             animation: fadeInUp 1s ease-out 0.5s both;
         }
 
-.faq-section {
-    background: linear-gradient(145deg, rgba(15, 15, 15, 0.4), rgba(30, 30, 30, 0.4));
-    border-radius: 20px;
-    padding: 2rem;
-    backdrop-filter: none;
-    border: 2px solid;
-    transition: all 0.3s ease;
-    position: relative;
-    overflow: visible;
-}
+        .faq-section {
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.4), rgba(30, 30, 30, 0.4));
+            border-radius: 20px;
+            padding: 2rem;
+            backdrop-filter: none;
+            border: 2px solid;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: visible;
+        }
 
         .faq-section:hover {
             transform: translateY(-5px);
@@ -2519,28 +2540,28 @@ body.loaded {
             text-shadow: 0 0 8px rgba(255, 215, 0, 0.5);
         }
 
-        
 
-/* Mobile Menu Styles */
+
+        /* Mobile Menu Styles */
         .mobile-menu-btn {
-    display: none;
-    position: absolute;
-    top: 1rem;
-    right: 1rem;
-    z-index: 200;
-    width: 50px;
-    height: 50px;
-    background: linear-gradient(145deg, rgba(15, 15, 15, 0.15), rgba(30, 30, 30, 0.15));
-    border: 2px solid rgba(220, 20, 60, 0.4);
-    border-radius: 10px;
-    cursor: pointer;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 4px;
-    backdrop-filter: none;
-    transition: all 0.3s ease;
-}
+            display: none;
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            z-index: 200;
+            width: 50px;
+            height: 50px;
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.15), rgba(30, 30, 30, 0.15));
+            border: 2px solid rgba(220, 20, 60, 0.4);
+            border-radius: 10px;
+            cursor: pointer;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: 4px;
+            backdrop-filter: none;
+            transition: all 0.3s ease;
+        }
 
         .mobile-menu-btn:hover {
             border-color: rgba(220, 20, 60, 0.8);
@@ -2567,24 +2588,24 @@ body.loaded {
         }
 
         .mobile-menu {
-    display: none;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: transparent;
-    backdrop-filter: none;
-    z-index: 150;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 1.5rem;
-    padding: 2rem;
-    opacity: 0;
-    visibility: hidden;
-    transition: opacity 0.3s ease, visibility 0.3s ease;
-}
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: transparent;
+            backdrop-filter: none;
+            z-index: 150;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: 1.5rem;
+            padding: 2rem;
+            opacity: 0;
+            visibility: hidden;
+            transition: opacity 0.3s ease, visibility 0.3s ease;
+        }
 
         .mobile-menu.active {
             display: flex;
@@ -2593,40 +2614,40 @@ body.loaded {
         }
 
         .mobile-nav-btn {
-    background: linear-gradient(145deg, rgba(15, 15, 15, 0.15), rgba(30, 30, 30, 0.15));
-    border: 2px solid rgba(220, 20, 60, 0.4);
-    border-radius: 10px;
-    padding: 1rem 2rem;
-    color: #e0e0e0;
-    font-family: 'Orbitron', monospace;
-    font-weight: 600;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    backdrop-filter: none;
-    text-decoration: none;
-    display: inline-block;
-    min-width: 200px;
-    text-align: center;
-    font-size: 1.1rem;
-}
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.15), rgba(30, 30, 30, 0.15));
+            border: 2px solid rgba(220, 20, 60, 0.4);
+            border-radius: 10px;
+            padding: 1rem 2rem;
+            color: #e0e0e0;
+            font-family: 'Orbitron', monospace;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            backdrop-filter: none;
+            text-decoration: none;
+            display: inline-block;
+            min-width: 200px;
+            text-align: center;
+            font-size: 1.1rem;
+        }
 
-.mobile-nav-btn.arabic-toggle {
-    border: 2px solid rgba(184, 134, 11, 0.6);
-}
+        .mobile-nav-btn.arabic-toggle {
+            border: 2px solid rgba(184, 134, 11, 0.6);
+        }
 
-.mobile-nav-btn.arabic-toggle:hover {
-    border-color: #FFD700;
-    box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
-}
+        .mobile-nav-btn.arabic-toggle:hover {
+            border-color: #FFD700;
+            box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
+        }
 
-.mobile-nav-btn.social-toggle {
-    border: 2px solid rgba(70, 130, 180, 0.6);
-}
+        .mobile-nav-btn.social-toggle {
+            border: 2px solid rgba(70, 130, 180, 0.6);
+        }
 
-.mobile-nav-btn.social-toggle:hover {
-    border-color: #4682b4;
-    box-shadow: 0 0 20px rgba(70, 130, 180, 0.3);
-}
+        .mobile-nav-btn.social-toggle:hover {
+            border-color: #4682b4;
+            box-shadow: 0 0 20px rgba(70, 130, 180, 0.3);
+        }
 
         .mobile-nav-btn:hover {
             border-color: rgba(220, 20, 60, 0.8);
@@ -2653,34 +2674,34 @@ body.loaded {
         }
 
         body.arabic-mode .mobile-menu-btn {
-    right: auto;
-    left: 1rem;
-}
+            right: auto;
+            left: 1rem;
+        }
 
         /* Responsive design */
         @media (max-width: 1024px) {
-    .main-content {
-        flex-direction: column;
-        gap: 2rem;
-        padding-left: 2rem;
-        padding-top: 350px;
-    }
+            .main-content {
+                flex-direction: column;
+                gap: 2rem;
+                padding-left: 2rem;
+                padding-top: 350px;
+            }
 
-    body.arabic-mode .main-content {
-        padding-right: 2rem;
-        padding-left: 2rem;
-    }
+            body.arabic-mode .main-content {
+                padding-right: 2rem;
+                padding-left: 2rem;
+            }
 
-    .header {
-        left: 2rem;
-        width: calc(100% - 4rem);
-        top: 170px;
-    }
+            .header {
+                left: 2rem;
+                width: calc(100% - 4rem);
+                top: 170px;
+            }
 
-    body.arabic-mode .header {
-        right: 2rem;
-        left: auto;
-    }
+            body.arabic-mode .header {
+                right: 2rem;
+                left: auto;
+            }
 
             .left-section,
             .right-section {
@@ -2714,313 +2735,313 @@ body.loaded {
         }
 
         @media (max-width: 768px) {
-    body::before {
-        content: '';
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: calc(100vh + 30px);
-        background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat;
-        background-size: cover;
-        z-index: -1;
-    }
-    
-    body {
-        background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat fixed !important;
-        background-size: cover !important;
-        min-height: calc(100vh + 30px);
-        position: relative;
-    }
-    
-    body.arabic-mode {
-        background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat fixed !important;
-        background-size: cover !important;
-    }
-    
-    body.arabic-mode::before {
-        background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat;
-        background-size: cover;
-    }
+            body::before {
+                content: '';
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: calc(100vh + 30px);
+                background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat;
+                background-size: cover;
+                z-index: -1;
+            }
 
-    
-    
-    .nav {
-        display: none;
-    }
-    
-    .mobile-menu-btn {
-        display: flex;
-    }
+            body {
+                background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat fixed !important;
+                background-size: cover !important;
+                min-height: calc(100vh + 30px);
+                position: relative;
+            }
 
-    .main-title {
-        font-size: 2.5rem;
-    }
+            body.arabic-mode {
+                background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat fixed !important;
+                background-size: cover !important;
+            }
 
-    .subtitle {
-        font-size: 1.5rem;
-    }
+            body.arabic-mode::before {
+                background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat;
+                background-size: cover;
+            }
 
-    .section-title,
-    .faq-section-title,
-    .section-title-screenshots {
-        font-size: 2rem;
-    }
 
-    .tier-card {
-        padding: 1.5rem;
-        height: auto;
-        min-height: 160px;
-        backdrop-filter: none !important;
-    }
 
-    .price {
-        font-size: 2.2rem;
-    }
+            .nav {
+                display: none;
+            }
 
-    .main-content {
-        padding-top: 310px;
-        padding-left: 1rem;
-        padding-right: 1rem;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-    }
+            .mobile-menu-btn {
+                display: flex;
+            }
 
-    body.arabic-mode .main-content {
-        padding-left: 1rem;
-        padding-right: 1rem;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-    }
+            .main-title {
+                font-size: 2.5rem;
+            }
 
-    .header {
-        top: 130px;
-        left: 1rem;
-        right: 1rem;
-        width: calc(100% - 2rem);
-    }
+            .subtitle {
+                font-size: 1.5rem;
+            }
 
-    body.arabic-mode .header {
-        left: 1rem;
-        right: 1rem;
-        width: calc(100% - 2rem);
-    }
+            .section-title,
+            .faq-section-title,
+            .section-title-screenshots {
+                font-size: 2rem;
+            }
 
-    .left-section,
-    .right-section {
-        max-width: 100%;
-        text-align: center;
-    }
+            .tier-card {
+                padding: 1.5rem;
+                height: auto;
+                min-height: 160px;
+                backdrop-filter: none !important;
+            }
 
-    .nav-btn {
-        padding: 0.6rem 1rem;
-        font-size: 0.9rem;
-    }
+            .price {
+                font-size: 2.2rem;
+            }
 
-    .games-grid {
-        grid-template-columns: repeat(2, 150px);
-        margin: 0 auto;
-        justify-content: center;
-    }
+            .main-content {
+                padding-top: 310px;
+                padding-left: 1rem;
+                padding-right: 1rem;
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+            }
 
-    body.arabic-mode .games-grid {
-        margin: 0 auto !important;
-        justify-content: center !important;
-        margin-left: auto !important;
-        margin-right: auto !important;
-    }
+            body.arabic-mode .main-content {
+                padding-left: 1rem;
+                padding-right: 1rem;
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+            }
 
-    .search-container {
-        margin: 0 auto 3rem auto;
-        max-width: 300px;
-    }
+            .header {
+                top: 130px;
+                left: 1rem;
+                right: 1rem;
+                width: calc(100% - 2rem);
+            }
 
-    body.arabic-mode .search-container {
-        margin: 0 auto 3rem auto;
-    }
+            body.arabic-mode .header {
+                left: 1rem;
+                right: 1rem;
+                width: calc(100% - 2rem);
+            }
 
-    .games-content {
-        padding-left: 1rem;
-        padding-right: 1rem;
-        padding-top: 80px;
-        text-align: center;
-    }
+            .left-section,
+            .right-section {
+                max-width: 100%;
+                text-align: center;
+            }
 
-    body.arabic-mode .games-content {
-        padding-left: 1rem;
-        padding-right: 1rem;
-        text-align: center;
-    }
+            .nav-btn {
+                padding: 0.6rem 1rem;
+                font-size: 0.9rem;
+            }
 
-    .faq-content,
-    .guide-content,
-    .screenshots-content {
-        padding-top: 80px;
-    }
+            .games-grid {
+                grid-template-columns: repeat(2, 150px);
+                margin: 0 auto;
+                justify-content: center;
+            }
 
-    .video-container {
-        backdrop-filter: none !important;
-    }
+            body.arabic-mode .games-grid {
+                margin: 0 auto !important;
+                justify-content: center !important;
+                margin-left: auto !important;
+                margin-right: auto !important;
+            }
 
-    .screenshot-section {
-        backdrop-filter: none !important;
-    }
+            .search-container {
+                margin: 0 auto 3rem auto;
+                max-width: 300px;
+            }
 
-    .guide-nav,
-.lightbox-nav,
-.nav-arrow.guide-nav {
-    display: none !important;
-}
+            body.arabic-mode .search-container {
+                margin: 0 auto 3rem auto;
+            }
 
-    .guide-counter,
-    .lightbox-counter,
-    .example-counter {
-        display: none !important;
-    }
+            .games-content {
+                padding-left: 1rem;
+                padding-right: 1rem;
+                padding-top: 80px;
+                text-align: center;
+            }
 
-    .pagination-container {
-    position: static;
-    width: calc(100% - 2rem);
-    margin: 1rem auto;
-    justify-content: center;
-    padding: 0.2rem 0.3rem;
-    background: linear-gradient(145deg, rgba(15, 15, 15, 0.15), rgba(30, 30, 30, 0.15));
-    border: 2px solid rgba(220, 20, 60, 0.4);
-    border-radius: 8px;
-    backdrop-filter: none;
-    gap: 0.1rem;
-    flex-wrap: wrap;
-}
+            body.arabic-mode .games-content {
+                padding-left: 1rem;
+                padding-right: 1rem;
+                text-align: center;
+            }
 
-body.arabic-mode .pagination-container {
-    position: static;
-    width: calc(100% - 2rem);
-    margin: 1rem auto;
-    justify-content: center;
-    padding: 0.2rem 0.3rem;
-    background: linear-gradient(145deg, rgba(15, 15, 15, 0.15), rgba(30, 30, 30, 0.15));
-    border: 2px solid rgba(220, 20, 60, 0.4);
-    border-radius: 8px;
-    backdrop-filter: none;
-    gap: 0.1rem;
-    flex-wrap: wrap;
-}
+            .faq-content,
+            .guide-content,
+            .screenshots-content {
+                padding-top: 80px;
+            }
 
-.pagination-btn {
-    padding: 0.2rem 0.4rem;
-    font-size: 0.6rem;
-    min-width: 40px;
-}
+            .video-container {
+                backdrop-filter: none !important;
+            }
 
-.pagination-info {
-    font-size: 0.6rem;
-    margin: 0 0.2rem;
-}
+            .screenshot-section {
+                backdrop-filter: none !important;
+            }
 
-.page-jump {
-    margin-left: 0.2rem;
-    margin-top: 0;
-}
+            .guide-nav,
+            .lightbox-nav,
+            .nav-arrow.guide-nav {
+                display: none !important;
+            }
 
-.page-jump input {
-    width: 30px;
-    padding: 0.1rem;
-    font-size: 0.6rem;
-}
+            .guide-counter,
+            .lightbox-counter,
+            .example-counter {
+                display: none !important;
+            }
 
-.page-jump span {
-    font-size: 0.6rem;
-}
+            .pagination-container {
+                position: static;
+                width: calc(100% - 2rem);
+                margin: 1rem auto;
+                justify-content: center;
+                padding: 0.2rem 0.3rem;
+                background: linear-gradient(145deg, rgba(15, 15, 15, 0.15), rgba(30, 30, 30, 0.15));
+                border: 2px solid rgba(220, 20, 60, 0.4);
+                border-radius: 8px;
+                backdrop-filter: none;
+                gap: 0.1rem;
+                flex-wrap: wrap;
+            }
 
-body.arabic-mode .page-jump {
-    margin-right: 0.2rem;
-    margin-left: 0;
-}
+            body.arabic-mode .pagination-container {
+                position: static;
+                width: calc(100% - 2rem);
+                margin: 1rem auto;
+                justify-content: center;
+                padding: 0.2rem 0.3rem;
+                background: linear-gradient(145deg, rgba(15, 15, 15, 0.15), rgba(30, 30, 30, 0.15));
+                border: 2px solid rgba(220, 20, 60, 0.4);
+                border-radius: 8px;
+                backdrop-filter: none;
+                gap: 0.1rem;
+                flex-wrap: wrap;
+            }
 
-    .page-jump {
-        margin-left: 0;
-        margin-top: 0.5rem;
-    }
+            .pagination-btn {
+                padding: 0.2rem 0.4rem;
+                font-size: 0.6rem;
+                min-width: 40px;
+            }
 
-    body.arabic-mode .page-jump {
-        margin-right: 0;
-    }
+            .pagination-info {
+                font-size: 0.6rem;
+                margin: 0 0.2rem;
+            }
 
-.screenshot-badges {
-    flex-direction: row;
-    gap: 1rem;
-    width: 300px;
-    justify-content: space-between;
-}
+            .page-jump {
+                margin-left: 0.2rem;
+                margin-top: 0;
+            }
 
-.image-comparison-slider {
-    height: calc((100vw - 2rem) * 9 / 16) !important;
-    max-height: 180px !important;
-}
+            .page-jump input {
+                width: 30px;
+                padding: 0.1rem;
+                font-size: 0.6rem;
+            }
 
-.image-comparison-container {
-            margin: 1rem auto 0 auto !important;
-            max-width: 100% !important;
-            overflow: hidden !important;
-            padding-bottom: 0 !important;
+            .page-jump span {
+                font-size: 0.6rem;
+            }
+
+            body.arabic-mode .page-jump {
+                margin-right: 0.2rem;
+                margin-left: 0;
+            }
+
+            .page-jump {
+                margin-left: 0;
+                margin-top: 0.5rem;
+            }
+
+            body.arabic-mode .page-jump {
+                margin-right: 0;
+            }
+
+            .screenshot-badges {
+                flex-direction: row;
+                gap: 1rem;
+                width: 300px;
+                justify-content: space-between;
+            }
+
+            .image-comparison-slider {
+                height: calc((100vw - 2rem) * 9 / 16) !important;
+                max-height: 180px !important;
+            }
+
+            .image-comparison-container {
+                margin: 1rem auto 0 auto !important;
+                max-width: 100% !important;
+                overflow: hidden !important;
+                padding-bottom: 0 !important;
+            }
+
+            .image-comparison-slider {
+                display: block !important;
+                overflow: hidden !important;
+            }
+
+            .comparison-image {
+                height: 100% !important;
+            }
+
+            .comparison-image img {
+                width: 100% !important;
+                height: 100% !important;
+                object-fit: cover !important;
+                display: block !important;
+            }
+
+            .comparison-image img {
+                object-fit: cover !important;
+                object-position: center !important;
+            }
+
+            .image-label {
+                padding: 0.2rem 0.3rem;
+                font-size: 0.6rem;
+                top: 5px;
+            }
+
+            .original-label {
+                left: 5px;
+            }
+
+            .enhanced-label {
+                right: 5px;
+            }
+
+            body.arabic-mode .original-label {
+                left: auto;
+                right: 5px;
+            }
+
+            body.arabic-mode .enhanced-label {
+                right: auto;
+                left: 5px;
+            }
+
+            .slider-handle {
+                width: 2px;
+            }
+
+            .slider-button {
+                width: 25px;
+                height: 25px;
+            }
         }
-
-        .image-comparison-slider {
-            display: block !important;
-            overflow: hidden !important;
-        }
-
-        .comparison-image {
-            height: 100% !important;
-        }
-
-        .comparison-image img {
-            width: 100% !important;
-            height: 100% !important;
-            object-fit: cover !important;
-            display: block !important;
-        }
-
-.comparison-image img {
-    object-fit: cover !important;
-    object-position: center !important;
-}
-
-.image-label {
-    padding: 0.2rem 0.3rem;
-    font-size: 0.6rem;
-    top: 5px;
-}
-
-.original-label {
-    left: 5px;
-}
-
-.enhanced-label {
-    right: 5px;
-}
-
-body.arabic-mode .original-label {
-    left: auto;
-    right: 5px;
-}
-
-body.arabic-mode .enhanced-label {
-    right: auto;
-    left: 5px;
-}
-
-.slider-handle {
-    width: 2px;
-}
-
-.slider-button {
-    width: 25px;
-    height: 25px;
-}
-}
 
         @media (max-width: 480px) {
             .main-title {
@@ -3164,24 +3185,31 @@ body.arabic-mode .enhanced-label {
     </div>
 
     <!-- Mobile Menu -->
-<div class="mobile-menu-btn" onclick="toggleMobileMenu()">
-    <span></span>
-    <span></span>
-    <span></span>
-</div>
+    <div class="mobile-menu-btn" onclick="toggleMobileMenu()">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
 
-<div class="mobile-menu" id="mobileMenu">
-    <button class="mobile-nav-btn active" onclick="showSection('main'); closeMobileMenu()" data-en="Home" data-ar="الرئيسية">Home</button>
-    <button class="mobile-nav-btn" onclick="showSection('games'); closeMobileMenu()" data-en="Games" data-ar="الألعاب">Games</button>
-    <button class="mobile-nav-btn" onclick="showSection('guide'); closeMobileMenu()" data-en="Guide" data-ar="الدليل">Guide</button>
-    <button class="mobile-nav-btn" onclick="showSection('screenshots'); closeMobileMenu()" data-en="Screenshots" data-ar="لقطات الشاشة">Screenshots</button>
-    <button class="mobile-nav-btn" onclick="showSection('faq'); closeMobileMenu()" data-en="FAQ" data-ar="الأسئلة الشائعة">FAQ</button>
-    <button class="mobile-nav-btn social-toggle" onclick="showSection('social'); closeMobileMenu()" data-en="Follow Us" data-ar="تابعنا">Follow Us</button>
-    <button class="mobile-nav-btn arabic-toggle" onclick="toggleLanguage(); closeMobileMenu()" data-en="Arabic" data-ar="الإنجليزيه">العربية</button>
-    <button class="mobile-mute-btn" onclick="toggleMute()" id="mobileMuteButton">
-    <img src="https://i.imgur.com/ieAgxPg.png" alt="Mute" style="width: 32px; height: 32px;">
-</button>
-</div>
+    <div class="mobile-menu" id="mobileMenu">
+        <button class="mobile-nav-btn active" onclick="showSection('main'); closeMobileMenu()" data-en="Home"
+            data-ar="الرئيسية">Home</button>
+        <button class="mobile-nav-btn" onclick="showSection('games'); closeMobileMenu()" data-en="Games"
+            data-ar="الألعاب">Games</button>
+        <button class="mobile-nav-btn" onclick="showSection('guide'); closeMobileMenu()" data-en="Guide"
+            data-ar="الدليل">Guide</button>
+        <button class="mobile-nav-btn" onclick="showSection('screenshots'); closeMobileMenu()" data-en="Screenshots"
+            data-ar="لقطات الشاشة">Screenshots</button>
+        <button class="mobile-nav-btn" onclick="showSection('faq'); closeMobileMenu()" data-en="FAQ"
+            data-ar="الأسئلة الشائعة">FAQ</button>
+        <button class="mobile-nav-btn social-toggle" onclick="showSection('social'); closeMobileMenu()"
+            data-en="Follow Us" data-ar="تابعنا">Follow Us</button>
+        <button class="mobile-nav-btn arabic-toggle" onclick="toggleLanguage(); closeMobileMenu()" data-en="Arabic"
+            data-ar="الإنجليزيه">العربية</button>
+        <button class="mobile-mute-btn" onclick="toggleMute()" id="mobileMuteButton">
+            <img src="https://i.imgur.com/ieAgxPg.png" alt="Mute" style="width: 32px; height: 32px;">
+        </button>
+    </div>
 
     <!-- Main Content (Original Subscription Page) -->
     <div id="main-section" class="content-section active">
@@ -3378,32 +3406,33 @@ body.arabic-mode .enhanced-label {
                 <div class="screenshot-badges">
                     <div class="screenshot-badge active" onclick="switchScreenshotMode('program')" data-en="PROGRAM UI"
                         data-ar="واجهة البرنامج">PROGRAM UI</div>
-                    <div class="screenshot-badge after-badge" onclick="switchScreenshotMode('enhancements')" data-en="Enhancement" data-ar="التحسينات">
+                    <div class="screenshot-badge after-badge" onclick="switchScreenshotMode('enhancements')"
+                        data-en="Enhancement" data-ar="التحسينات">
                         ENHANCEMENTS</div>
                 </div>
 
-                <h2 class="section-title-screenshots" id="screenshotTitle" data-en="🎨 Interface"
-                    data-ar="🎨 الواجهة">🎨 Interface</h2>
+                <h2 class="section-title-screenshots" id="screenshotTitle" data-en="🎨 Interface" data-ar="🎨 الواجهة">
+                    🎨 Interface</h2>
 
                 <div class="screenshot-content" id="screenshotContent">
                     <!-- Program UI Content (Default) -->
                     <div class="screenshots-grid" id="programContent">
-                        <div class="screenshot-card" onclick="openLightbox(0)">
+                        <div class="screenshot-card" onclick="openLightboxMobile(0)">
                             <img class="screenshot-image" src="https://imgur.com/L3FTCSl.jpg"
                                 alt="Program Screenshot 1">
                         </div>
 
-                        <div class="screenshot-card" onclick="openLightbox(1)">
+                        <div class="screenshot-card" onclick="openLightboxMobile(1)">
                             <img class="screenshot-image" src="https://imgur.com/bhnwcv7.jpg"
                                 alt="Program Screenshot 2">
                         </div>
 
-                        <div class="screenshot-card" onclick="openLightbox(2)">
+                        <div class="screenshot-card" onclick="openLightboxMobile(2)">
                             <img class="screenshot-image" src="https://imgur.com/Cr9rtqC.jpg"
                                 alt="Program Screenshot 3">
                         </div>
 
-                        <div class="screenshot-card" onclick="openLightbox(3)">
+                        <div class="screenshot-card" onclick="openLightboxMobile(3)">
                             <img class="screenshot-image" src="https://imgur.com/ZJpfAaR.jpg"
                                 alt="Program Screenshot 4">
                         </div>
@@ -3829,270 +3858,270 @@ body.arabic-mode .enhanced-label {
         }
 
         function toggleMobileMenu() {
-    const menu = document.getElementById('mobileMenu');
-    const btn = document.querySelector('.mobile-menu-btn');
-    const pageContent = document.querySelectorAll('.content-section, .header, .particles');
-    
-    if (menu.classList.contains('active')) {
-        // Close menu with fade out
-        menu.style.opacity = '0';
-        menu.style.visibility = 'hidden';
-        menu.classList.remove('active');
-        btn.classList.remove('active');
-        
-        setTimeout(() => {
-            menu.style.display = 'none';
-            // Fade page content back in
-            pageContent.forEach(element => {
-                element.style.transition = 'opacity 0.3s ease';
-                element.style.opacity = '1';
-            });
-        }, 300);
-    } else {
-        // Open menu
-        // Fade page content out but keep particles
-        pageContent.forEach(element => {
-            if (element.id !== 'particles') {
-                element.style.transition = 'opacity 0.3s ease';
-                element.style.opacity = '0';
-            }
-        });
-        
-        setTimeout(() => {
-            menu.style.display = 'flex';
-            menu.classList.add('active');
-            btn.classList.add('active');
-            // Fade menu in
-            setTimeout(() => {
-                menu.style.opacity = '1';
-                menu.style.visibility = 'visible';
-                // Keep particles visible
-                document.getElementById('particles').style.opacity = '1';
-            }, 50);
-        }, 300);
-    }
-}
+            const menu = document.getElementById('mobileMenu');
+            const btn = document.querySelector('.mobile-menu-btn');
+            const pageContent = document.querySelectorAll('.content-section, .header, .particles');
 
-function closeMobileMenu() {
-    const menu = document.getElementById('mobileMenu');
-    const btn = document.querySelector('.mobile-menu-btn');
-    const pageContent = document.querySelectorAll('.content-section, .header, .particles');
-    
-    // Close menu with fade out
-    menu.style.opacity = '0';
-    menu.style.visibility = 'hidden';
-    menu.classList.remove('active');
-    btn.classList.remove('active');
-    
-    setTimeout(() => {
-        menu.style.display = 'none';
-        // Fade page content back in after section transition completes
-        setTimeout(() => {
-            pageContent.forEach(element => {
-                element.style.transition = 'opacity 0.3s ease';
-                element.style.opacity = '1';
-            });
-            // Ensure particles stay visible
-            document.getElementById('particles').style.opacity = '1';
-        }, 900); // Wait for section fade transition to complete
-    }, 300);
-}
+            if (menu.classList.contains('active')) {
+                // Close menu with fade out
+                menu.style.opacity = '0';
+                menu.style.visibility = 'hidden';
+                menu.classList.remove('active');
+                btn.classList.remove('active');
 
-// Touch swipe functionality for mobile
-let touchStartX = 0;
-let touchEndX = 0;
-
-function handleSwipe() {
-    const swipeThreshold = 50; // Minimum distance for a swipe
-    const swipeDistance = touchEndX - touchStartX;
-    
-    if (Math.abs(swipeDistance) > swipeThreshold) {
-        // Check if we're in lightbox mode
-        const lightboxOverlay = document.getElementById('lightboxOverlay');
-        if (lightboxOverlay && lightboxOverlay.classList.contains('active')) {
-            if (swipeDistance > 0) {
-                // Swipe right - go to previous image
-                if (currentLanguage === 'ar') {
-                    navigateLightbox(1);
-                } else {
-                    navigateLightbox(-1);
-                }
-            } else {
-                // Swipe left - go to next image
-                if (currentLanguage === 'ar') {
-                    navigateLightbox(-1);
-                } else {
-                    navigateLightbox(1);
-                }
-            }
-        }
-        // Check if we're in guide section
-        else if (document.getElementById('guide-section').classList.contains('active')) {
-            if (swipeDistance > 0) {
-                // Swipe right - go to previous guide image
-                if (currentLanguage === 'ar') {
-                    changeGuideImage(1);
-                } else {
-                    changeGuideImage(-1);
-                }
-            } else {
-                // Swipe left - go to next guide image
-                if (currentLanguage === 'ar') {
-                    changeGuideImage(-1);
-                } else {
-                    changeGuideImage(1);
-                }
-            }
-        }
-        // Check if we're in screenshots section with before/after mode
-        else if (document.getElementById('screenshots-section').classList.contains('active') && 
-                 currentScreenshotMode === 'enhancements') {
-            if (swipeDistance > 0) {
-                // Swipe right - go to previous comparison
-                changeExample(-1);
-            } else {
-                // Swipe left - go to next comparison
-                changeExample(1);
-            }
-        }
-    }
-}
-
-// Add touch event listeners for mobile devices
-if (window.innerWidth <= 768) {
-    document.addEventListener('touchstart', function(e) {
-        touchStartX = e.changedTouches[0].screenX;
-    }, { passive: true });
-
-    document.addEventListener('touchend', function(e) {
-        touchEndX = e.changedTouches[0].screenX;
-        handleSwipe();
-    }, { passive: true });
-}
-
-// Toggle language with background crossfade transition
-        function toggleLanguage() {
-    const overlay = document.getElementById('languageOverlay');
-    const activeSection = document.querySelector('.content-section.active');
-    
-    // Set black background for transition
-    overlay.style.backgroundImage = "none";
-    overlay.style.background = "#000000";
-    
-    // First fade out the active content section
-    if (activeSection) {
-        activeSection.style.transition = 'opacity 0.3s ease-out';
-        activeSection.style.opacity = '0';
-    }
-    
-    // Show overlay after content starts fading
-    setTimeout(() => {
-        overlay.classList.add('active');
-        
-        setTimeout(() => {
-            if (currentLanguage === 'en') {
-                currentLanguage = 'ar';
-                document.body.classList.add('arabic-mode');
-                document.documentElement.dir = 'rtl';
-            } else {
-                currentLanguage = 'en';
-                document.body.classList.remove('arabic-mode');
-                document.documentElement.dir = 'ltr';
-            }
-
-           // Update all text content
-updateLanguageContent();
-
-// FIX: Reinitialize comparison slider if we're in enhancements mode
-if (currentScreenshotMode === 'enhancements') {
-    setTimeout(() => {
-        initializeComparisonSlider();
-    }, 100);
-}
-
-// Force remove any backdrop-filter that might be applied during transition
-            if (window.innerWidth <= 768) {
-                document.querySelectorAll('.game-card, .game-info, .search-box, .search-container, .faq-section, .faq-item').forEach(element => {
-                    element.style.backdropFilter = 'none';
-                    element.style.webkitBackdropFilter = 'none';
-                });
-            }
-
-            // Fix image labels if in enhancements mode
-            if (currentScreenshotMode === 'enhancements') {
                 setTimeout(() => {
-                    const originalLabel = document.querySelector('.original-label');
-                    const enhancedLabel = document.querySelector('.enhanced-label');
-                    
-                    if (originalLabel && enhancedLabel) {
-                        originalLabel.style.visibility = 'visible';
-                        originalLabel.style.opacity = '1';
-                        enhancedLabel.style.visibility = 'visible';
-                        enhancedLabel.style.opacity = '1';
+                    menu.style.display = 'none';
+                    // Fade page content back in
+                    pageContent.forEach(element => {
+                        element.style.transition = 'opacity 0.3s ease';
+                        element.style.opacity = '1';
+                    });
+                }, 300);
+            } else {
+                // Open menu
+                // Fade page content out but keep particles
+                pageContent.forEach(element => {
+                    if (element.id !== 'particles') {
+                        element.style.transition = 'opacity 0.3s ease';
+                        element.style.opacity = '0';
                     }
-                }, 100);
+                });
+
+                setTimeout(() => {
+                    menu.style.display = 'flex';
+                    menu.classList.add('active');
+                    btn.classList.add('active');
+                    // Fade menu in
+                    setTimeout(() => {
+                        menu.style.opacity = '1';
+                        menu.style.visibility = 'visible';
+                        // Keep particles visible
+                        document.getElementById('particles').style.opacity = '1';
+                    }, 50);
+                }, 300);
+            }
+        }
+
+        function closeMobileMenu() {
+            const menu = document.getElementById('mobileMenu');
+            const btn = document.querySelector('.mobile-menu-btn');
+            const pageContent = document.querySelectorAll('.content-section, .header, .particles');
+
+            // Close menu with fade out
+            menu.style.opacity = '0';
+            menu.style.visibility = 'hidden';
+            menu.classList.remove('active');
+            btn.classList.remove('active');
+
+            setTimeout(() => {
+                menu.style.display = 'none';
+                // Fade page content back in after section transition completes
+                setTimeout(() => {
+                    pageContent.forEach(element => {
+                        element.style.transition = 'opacity 0.3s ease';
+                        element.style.opacity = '1';
+                    });
+                    // Ensure particles stay visible
+                    document.getElementById('particles').style.opacity = '1';
+                }, 900); // Wait for section fade transition to complete
+            }, 300);
+        }
+
+        // Touch swipe functionality for mobile
+        let touchStartX = 0;
+        let touchEndX = 0;
+
+        function handleSwipe() {
+            const swipeThreshold = 50; // Minimum distance for a swipe
+            const swipeDistance = touchEndX - touchStartX;
+
+            if (Math.abs(swipeDistance) > swipeThreshold) {
+                // Check if we're in lightbox mode
+                const lightboxOverlay = document.getElementById('lightboxOverlay');
+                if (lightboxOverlay && lightboxOverlay.classList.contains('active')) {
+                    if (swipeDistance > 0) {
+                        // Swipe right - go to previous image
+                        if (currentLanguage === 'ar') {
+                            navigateLightbox(1);
+                        } else {
+                            navigateLightbox(-1);
+                        }
+                    } else {
+                        // Swipe left - go to next image
+                        if (currentLanguage === 'ar') {
+                            navigateLightbox(-1);
+                        } else {
+                            navigateLightbox(1);
+                        }
+                    }
+                }
+                // Check if we're in guide section
+                else if (document.getElementById('guide-section').classList.contains('active')) {
+                    if (swipeDistance > 0) {
+                        // Swipe right - go to previous guide image
+                        if (currentLanguage === 'ar') {
+                            changeGuideImage(1);
+                        } else {
+                            changeGuideImage(-1);
+                        }
+                    } else {
+                        // Swipe left - go to next guide image
+                        if (currentLanguage === 'ar') {
+                            changeGuideImage(-1);
+                        } else {
+                            changeGuideImage(1);
+                        }
+                    }
+                }
+                // Check if we're in screenshots section with before/after mode
+                else if (document.getElementById('screenshots-section').classList.contains('active') &&
+                    currentScreenshotMode === 'enhancements') {
+                    if (swipeDistance > 0) {
+                        // Swipe right - go to previous comparison
+                        changeExample(-1);
+                    } else {
+                        // Swipe left - go to next comparison
+                        changeExample(1);
+                    }
+                }
+            }
+        }
+
+        // Add touch event listeners for mobile devices
+        if (window.innerWidth <= 768) {
+            document.addEventListener('touchstart', function (e) {
+                touchStartX = e.changedTouches[0].screenX;
+            }, { passive: true });
+
+            document.addEventListener('touchend', function (e) {
+                touchEndX = e.changedTouches[0].screenX;
+                handleSwipe();
+            }, { passive: true });
+        }
+
+        // Toggle language with background crossfade transition
+        function toggleLanguage() {
+            const overlay = document.getElementById('languageOverlay');
+            const activeSection = document.querySelector('.content-section.active');
+
+            // Set black background for transition
+            overlay.style.backgroundImage = "none";
+            overlay.style.background = "#000000";
+
+            // First fade out the active content section
+            if (activeSection) {
+                activeSection.style.transition = 'opacity 0.3s ease-out';
+                activeSection.style.opacity = '0';
             }
 
-            // Remove overlay and fade content back in
+            // Show overlay after content starts fading
             setTimeout(() => {
-                overlay.classList.remove('active');
-                if (activeSection) {
-                    activeSection.style.transition = 'opacity 0.3s ease-in';
-                    activeSection.style.opacity = '1';
+                overlay.classList.add('active');
+
+                setTimeout(() => {
+                    if (currentLanguage === 'en') {
+                        currentLanguage = 'ar';
+                        document.body.classList.add('arabic-mode');
+                        document.documentElement.dir = 'rtl';
+                    } else {
+                        currentLanguage = 'en';
+                        document.body.classList.remove('arabic-mode');
+                        document.documentElement.dir = 'ltr';
+                    }
+
+                    // Update all text content
+                    updateLanguageContent();
+
+                    // FIX: Reinitialize comparison slider if we're in enhancements mode
+                    if (currentScreenshotMode === 'enhancements') {
+                        setTimeout(() => {
+                            initializeComparisonSlider();
+                        }, 100);
+                    }
+
+                    // Force remove any backdrop-filter that might be applied during transition
+                    if (window.innerWidth <= 768) {
+                        document.querySelectorAll('.game-card, .game-info, .search-box, .search-container, .faq-section, .faq-item').forEach(element => {
+                            element.style.backdropFilter = 'none';
+                            element.style.webkitBackdropFilter = 'none';
+                        });
+                    }
+
+                    // Fix image labels if in enhancements mode
+                    if (currentScreenshotMode === 'enhancements') {
+                        setTimeout(() => {
+                            const originalLabel = document.querySelector('.original-label');
+                            const enhancedLabel = document.querySelector('.enhanced-label');
+
+                            if (originalLabel && enhancedLabel) {
+                                originalLabel.style.visibility = 'visible';
+                                originalLabel.style.opacity = '1';
+                                enhancedLabel.style.visibility = 'visible';
+                                enhancedLabel.style.opacity = '1';
+                            }
+                        }, 100);
+                    }
+
+                    // Remove overlay and fade content back in
+                    setTimeout(() => {
+                        overlay.classList.remove('active');
+                        if (activeSection) {
+                            activeSection.style.transition = 'opacity 0.3s ease-in';
+                            activeSection.style.opacity = '1';
+                        }
+                    }, 200);
+                }, 300);
+            }, 150);
+
+            // Save language preference
+            localStorage.setItem('preferredLanguage', currentLanguage);
+        }
+
+        // Update all text content based on current language
+        // Update all text content based on current language
+        function updateLanguageContent() {
+            // Update elements with data attributes
+            document.querySelectorAll('[data-en]').forEach(element => {
+                // Skip screenshot title as it needs special handling
+                if (element.id === 'screenshotTitle') {
+                    return;
                 }
-            }, 200);
-        }, 300);
-    }, 150);
 
-    // Save language preference
-    localStorage.setItem('preferredLanguage', currentLanguage);
-}
+                const key = currentLanguage === 'en' ? 'data-en' : 'data-ar';
+                if (element.innerHTML.includes('<a ')) {
+                    // For elements with HTML links, use innerHTML
+                    element.innerHTML = element.getAttribute(key);
+                } else {
+                    // For regular text elements, use textContent
+                    element.textContent = element.getAttribute(key);
+                }
+            });
 
-        // Update all text content based on current language
-        // Update all text content based on current language
-function updateLanguageContent() {
-    // Update elements with data attributes
-    document.querySelectorAll('[data-en]').forEach(element => {
-        // Skip screenshot title as it needs special handling
-        if (element.id === 'screenshotTitle') {
-            return;
-        }
-        
-        const key = currentLanguage === 'en' ? 'data-en' : 'data-ar';
-        if (element.innerHTML.includes('<a ')) {
-            // For elements with HTML links, use innerHTML
-            element.innerHTML = element.getAttribute(key);
-        } else {
-            // For regular text elements, use textContent
-            element.textContent = element.getAttribute(key);
-        }
-    });
+            // Update placeholders
+            document.querySelectorAll('[data-placeholder-en]').forEach(element => {
+                const key = currentLanguage === 'en' ? 'data-placeholder-en' : 'data-placeholder-ar';
+                element.placeholder = element.getAttribute(key);
+            });
 
-    // Update placeholders
-    document.querySelectorAll('[data-placeholder-en]').forEach(element => {
-        const key = currentLanguage === 'en' ? 'data-placeholder-en' : 'data-placeholder-ar';
-        element.placeholder = element.getAttribute(key);
-    });
+            // Update screenshot title based on current mode
+            const screenshotTitle = document.getElementById('screenshotTitle');
+            if (screenshotTitle) {
+                if (currentScreenshotMode === 'program') {
+                    const titleText = currentLanguage === 'en' ? '🎨 Interface' : '🎨 الواجهة';
+                    screenshotTitle.textContent = titleText;
+                } else if (currentScreenshotMode === 'enhancements') {
+                    const titleText = currentLanguage === 'en' ? '✨ Visual Enhancements' : '✨ التحسينات المرئية';
+                    screenshotTitle.textContent = titleText;
+                }
+            }
 
-    // Update screenshot title based on current mode
-    const screenshotTitle = document.getElementById('screenshotTitle');
-    if (screenshotTitle) {
-        if (currentScreenshotMode === 'program') {
-            const titleText = currentLanguage === 'en' ? '🎨 Interface' : '🎨 الواجهة';
-            screenshotTitle.textContent = titleText;
-        } else if (currentScreenshotMode === 'enhancements') {
-            const titleText = currentLanguage === 'en' ? '✨ Visual Enhancements' : '✨ التحسينات المرئية';
-            screenshotTitle.textContent = titleText;
-        }
-    }
+            // Update formatted content (pagination, counters)
+            updateFormattedContent();
 
-    // Update formatted content (pagination, counters)
-    updateFormattedContent();
+            // Update page info
+            updatePagination();
 
-    // Update page info
-    updatePagination();
-
-    // Update guide images when language changes
+            // Update guide images when language changes
             if (document.getElementById('guideImage')) {
                 // Reset to first image and preload all images for new language
                 currentGuideIndex = 0;
@@ -4101,7 +4130,7 @@ function updateLanguageContent() {
                 updateGuideNavigation();
                 preloadGuideImages();
             }
-}
+        }
 
 
 
@@ -4165,6 +4194,11 @@ function updateLanguageContent() {
 
         // Lightbox functions
         function openLightbox(index) {
+            // Don't open lightbox on mobile
+            if (window.innerWidth <= 768) {
+                return;
+            }
+
             currentLightboxIndex = index;
             const overlay = document.getElementById('lightboxOverlay');
             const image = document.getElementById('lightboxImage');
@@ -4176,6 +4210,16 @@ function updateLanguageContent() {
             document.body.style.overflow = 'hidden'; // Prevent background scrolling
 
             updateLightboxNavigation();
+        }
+
+        // Mobile-aware lightbox function
+        function openLightboxMobile(index) {
+            // Don't open lightbox on mobile
+            if (window.innerWidth <= 768) {
+                return;
+            }
+
+            openLightbox(index);
         }
 
         // Download setup function
@@ -4320,7 +4364,7 @@ function updateLanguageContent() {
                         if (handle) {
                             const percentage = 50;
                             handle.style.left = percentage + '%';
-                            
+
                             if (document.body.classList.contains('arabic-mode')) {
                                 originalContainer.style.clipPath = `polygon(${percentage}% 0, 100% 0, 100% 100%, ${percentage}% 100%)`;
                                 enhancedContainer.style.clipPath = `polygon(0 0, ${percentage}% 0, ${percentage}% 100%, 0 100%)`;
@@ -4421,6 +4465,11 @@ function updateLanguageContent() {
 
         // Open guide lightbox
         function openGuideLightbox() {
+            // Don't open lightbox on mobile
+            if (window.innerWidth <= 768) {
+                return;
+            }
+
             currentGuideLightboxIndex = currentGuideIndex;
             const overlay = document.getElementById('lightboxOverlay');
             const image = document.getElementById('lightboxImage');
@@ -4500,17 +4549,17 @@ function updateLanguageContent() {
         }
 
         // Preload all guide images
-function preloadGuideImages() {
-    const images = guideImages[currentLanguage];
-    
-    images.forEach((imageSrc, index) => {
-        const img = new Image();
-        img.src = imageSrc;
-        console.log(`Preloading guide image ${index + 1}: ${imageSrc}`);
-    });
-    
-    console.log(`Started preloading ${images.length} guide images for ${currentLanguage} language`);
-}
+        function preloadGuideImages() {
+            const images = guideImages[currentLanguage];
+
+            images.forEach((imageSrc, index) => {
+                const img = new Image();
+                img.src = imageSrc;
+                console.log(`Preloading guide image ${index + 1}: ${imageSrc}`);
+            });
+
+            console.log(`Started preloading ${images.length} guide images for ${currentLanguage} language`);
+        }
 
         // Update existing navigateLightbox to handle both program and guide
         function navigateLightbox(direction) {
@@ -4558,9 +4607,9 @@ function preloadGuideImages() {
 
             setTimeout(() => {
                 if (mode === 'program') {
-    // Switch to Program UI
-    const titleText = currentLanguage === 'en' ? '🎨 Interface' : '🎨 الواجهة';
-    title.textContent = titleText;
+                    // Switch to Program UI
+                    const titleText = currentLanguage === 'en' ? '🎨 Interface' : '🎨 الواجهة';
+                    title.textContent = titleText;
                     title.style.color = '#4682b4';
                     title.style.textShadow = '0 0 15px rgba(70, 130, 180, 0.6)';
 
@@ -4599,73 +4648,73 @@ function preloadGuideImages() {
 
         // Initialize comparison slider functionality
         function initializeComparisonSlider() {
-    const slider = document.querySelector('.image-comparison-slider');
-    const handle = document.getElementById('sliderHandle');
-    const originalImage = document.querySelector('.original-image');
-    const enhancedImage = document.querySelector('.enhanced-image');
+            const slider = document.querySelector('.image-comparison-slider');
+            const handle = document.getElementById('sliderHandle');
+            const originalImage = document.querySelector('.original-image');
+            const enhancedImage = document.querySelector('.enhanced-image');
 
-    if (!slider || !handle) return;
+            if (!slider || !handle) return;
 
-    // Clear any existing event listeners by cloning the slider
-    const newSlider = slider.cloneNode(true);
-    slider.parentNode.replaceChild(newSlider, slider);
-    
-    // Get references to the new elements
-    const newHandle = newSlider.querySelector('#sliderHandle');
+            // Clear any existing event listeners by cloning the slider
+            const newSlider = slider.cloneNode(true);
+            slider.parentNode.replaceChild(newSlider, slider);
 
-    let isDragging = false;
+            // Get references to the new elements
+            const newHandle = newSlider.querySelector('#sliderHandle');
+
+            let isDragging = false;
 
 
             function updateSlider(clientX) {
-    const sliderRect = newSlider.getBoundingClientRect();
-    const percentage = Math.max(0, Math.min(100, ((clientX - sliderRect.left) / sliderRect.width) * 100));
-    const newOriginalImage = newSlider.querySelector('.original-image');
-    const newEnhancedImage = newSlider.querySelector('.enhanced-image');
+                const sliderRect = newSlider.getBoundingClientRect();
+                const percentage = Math.max(0, Math.min(100, ((clientX - sliderRect.left) / sliderRect.width) * 100));
+                const newOriginalImage = newSlider.querySelector('.original-image');
+                const newEnhancedImage = newSlider.querySelector('.enhanced-image');
 
-    // Update handle position
-    newHandle.style.left = percentage + '%';
+                // Update handle position
+                newHandle.style.left = percentage + '%';
 
-    // Update clip paths
-    if (document.body.classList.contains('arabic-mode')) {
-        newOriginalImage.style.clipPath = `polygon(${percentage}% 0, 100% 0, 100% 100%, ${percentage}% 100%)`;
-        newEnhancedImage.style.clipPath = `polygon(0 0, ${percentage}% 0, ${percentage}% 100%, 0 100%)`;
-    } else {
-        newOriginalImage.style.clipPath = `polygon(0 0, ${percentage}% 0, ${percentage}% 100%, 0 100%)`;
-        newEnhancedImage.style.clipPath = `polygon(${percentage}% 0, 100% 0, 100% 100%, ${percentage}% 100%)`;
-    }
-}
+                // Update clip paths
+                if (document.body.classList.contains('arabic-mode')) {
+                    newOriginalImage.style.clipPath = `polygon(${percentage}% 0, 100% 0, 100% 100%, ${percentage}% 100%)`;
+                    newEnhancedImage.style.clipPath = `polygon(0 0, ${percentage}% 0, ${percentage}% 100%, 0 100%)`;
+                } else {
+                    newOriginalImage.style.clipPath = `polygon(0 0, ${percentage}% 0, ${percentage}% 100%, 0 100%)`;
+                    newEnhancedImage.style.clipPath = `polygon(${percentage}% 0, 100% 0, 100% 100%, ${percentage}% 100%)`;
+                }
+            }
 
             // Handle tap navigation for mobile
-// Handle tap navigation for mobile
-let tapStartTime = 0;
+            // Handle tap navigation for mobile
+            let tapStartTime = 0;
 
-function handleTapStart(e) {
-    tapStartTime = Date.now();
-}
+            function handleTapStart(e) {
+                tapStartTime = Date.now();
+            }
 
-function handleTapNavigation(e) {
-    if (window.innerWidth > 768) return; // Only for mobile
-    
-    const tapDuration = Date.now() - tapStartTime;
-    
-    // Only navigate if it was a quick tap (less than 200ms) and no dragging occurred
-    if (tapDuration > 200 || isDragging) return;
-    
-    const slider = e.currentTarget;
-    const rect = slider.getBoundingClientRect();
-    const tapX = e.clientX - rect.left;
-    const sliderWidth = rect.width;
-    
-    // Left third of image = previous, right third = next, middle third = no action
-    if (tapX < sliderWidth * 0.33) {
-        // Left tap zone - previous image
-        changeExample(-1);
-    } else if (tapX > sliderWidth * 0.67) {
-        // Right tap zone - next image
-        changeExample(1);
-    }
-    // Middle zone does nothing (allows normal slider interaction if needed)
-}
+            function handleTapNavigation(e) {
+                if (window.innerWidth > 768) return; // Only for mobile
+
+                const tapDuration = Date.now() - tapStartTime;
+
+                // Only navigate if it was a quick tap (less than 200ms) and no dragging occurred
+                if (tapDuration > 200 || isDragging) return;
+
+                const slider = e.currentTarget;
+                const rect = slider.getBoundingClientRect();
+                const tapX = e.clientX - rect.left;
+                const sliderWidth = rect.width;
+
+                // Left third of image = previous, right third = next, middle third = no action
+                if (tapX < sliderWidth * 0.33) {
+                    // Left tap zone - previous image
+                    changeExample(-1);
+                } else if (tapX > sliderWidth * 0.67) {
+                    // Right tap zone - next image
+                    changeExample(1);
+                }
+                // Middle zone does nothing (allows normal slider interaction if needed)
+            }
 
             // Mouse events
             function onMouseDown(e) {
@@ -4707,29 +4756,29 @@ function handleTapNavigation(e) {
             document.addEventListener('mouseup', onMouseUp);
 
             if (window.innerWidth > 768) {
-    // Desktop: normal slider functionality
-    newSlider.addEventListener('touchstart', onTouchStart, { passive: false });
+                // Desktop: normal slider functionality
+                newSlider.addEventListener('touchstart', onTouchStart, { passive: false });
 
                 document.addEventListener('touchmove', onTouchMove, { passive: false });
                 document.addEventListener('touchend', onTouchEnd);
             } else {
-    // Mobile: both drag and tap functionality
-    newSlider.addEventListener('touchstart', onTouchStart, { passive: false });
-    document.addEventListener('touchmove', onTouchMove, { passive: false });
-    document.addEventListener('touchend', onTouchEnd);
-    
-    // Also add tap zones for navigation
-    newSlider.addEventListener('touchstart', handleTapStart);
-    newSlider.addEventListener('click', handleTapNavigation);
-}
+                // Mobile: both drag and tap functionality
+                newSlider.addEventListener('touchstart', onTouchStart, { passive: false });
+                document.addEventListener('touchmove', onTouchMove, { passive: false });
+                document.addEventListener('touchend', onTouchEnd);
+
+                // Also add tap zones for navigation
+                newSlider.addEventListener('touchstart', handleTapStart);
+                newSlider.addEventListener('click', handleTapNavigation);
+            }
 
             // Prevent image dragging
-newSlider.querySelectorAll('img').forEach(img => {
-    img.addEventListener('dragstart', e => e.preventDefault());
-});
+            newSlider.querySelectorAll('img').forEach(img => {
+                img.addEventListener('dragstart', e => e.preventDefault());
+            });
 
-// Initialize at 50%
-updateSlider(newSlider.getBoundingClientRect().left + newSlider.getBoundingClientRect().width / 2);
+            // Initialize at 50%
+            updateSlider(newSlider.getBoundingClientRect().left + newSlider.getBoundingClientRect().width / 2);
         }
 
         // Load game covers from external txt file
@@ -4858,93 +4907,93 @@ updateSlider(newSlider.getBoundingClientRect().left + newSlider.getBoundingClien
             `).join('');
 
             updatePagination();
-            
+
             // Wait for images to load then animate
             animateGameCards();
-            
+
             // Preload next page images
             preloadNextPage();
         }
 
         // Change page
         function changePage(direction) {
-    const newPage = currentPage + direction;
-    if (newPage >= 1 && newPage <= totalPages) {
-        currentPage = newPage;
-        displayCurrentPage();
+            const newPage = currentPage + direction;
+            if (newPage >= 1 && newPage <= totalPages) {
+                currentPage = newPage;
+                displayCurrentPage();
 
-        // Only scroll on desktop, not mobile
-        if (window.innerWidth > 768) {
-            document.getElementById('gamesGrid').scrollIntoView({
-                behavior: 'smooth',
-                block: 'start'
-            });
+                // Only scroll on desktop, not mobile
+                if (window.innerWidth > 768) {
+                    document.getElementById('gamesGrid').scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            }
         }
-    }
-}
 
         // Jump to specific page
         function jumpToPage(event) {
-    if (event.key === 'Enter') {
-        const pageNumber = parseInt(event.target.value);
-        if (pageNumber >= 1 && pageNumber <= totalPages) {
-            currentPage = pageNumber;
-            displayCurrentPage();
-            event.target.value = '';
+            if (event.key === 'Enter') {
+                const pageNumber = parseInt(event.target.value);
+                if (pageNumber >= 1 && pageNumber <= totalPages) {
+                    currentPage = pageNumber;
+                    displayCurrentPage();
+                    event.target.value = '';
 
-            // Only scroll on desktop, not mobile
-            if (window.innerWidth > 768) {
-                document.getElementById('gamesGrid').scrollIntoView({
-                    behavior: 'smooth',
-                    block: 'start'
+                    // Only scroll on desktop, not mobile
+                    if (window.innerWidth > 768) {
+                        document.getElementById('gamesGrid').scrollIntoView({
+                            behavior: 'smooth',
+                            block: 'start'
+                        });
+                    }
+                }
+            }
+        }
+
+        // Preload next page images
+        function preloadNextPage() {
+            const nextPage = currentPage + 1;
+            if (nextPage <= totalPages) {
+                const startIndex = (nextPage - 1) * gamesPerPage;
+                const endIndex = Math.min(startIndex + gamesPerPage, filteredGames.length);
+                const nextPageGames = filteredGames.slice(startIndex, endIndex);
+
+                nextPageGames.forEach(game => {
+                    const img = new Image();
+                    img.src = game.cover;
                 });
             }
         }
-    }
-}
 
-// Preload next page images
-function preloadNextPage() {
-    const nextPage = currentPage + 1;
-    if (nextPage <= totalPages) {
-        const startIndex = (nextPage - 1) * gamesPerPage;
-        const endIndex = Math.min(startIndex + gamesPerPage, filteredGames.length);
-        const nextPageGames = filteredGames.slice(startIndex, endIndex);
-        
-        nextPageGames.forEach(game => {
-            const img = new Image();
-            img.src = game.cover;
-        });
-    }
-}
+        // Animate game cards after images load
+        function animateGameCards() {
+            const gameCards = document.querySelectorAll('.game-card');
 
-// Animate game cards after images load
-function animateGameCards() {
-    const gameCards = document.querySelectorAll('.game-card');
-    
-    gameCards.forEach((card, index) => {
-        const img = card.querySelector('.game-cover');
-        
-        // Start with image hidden
-        img.style.opacity = '0';
-        
-        const onImageLoad = () => {
-            // Start animation for this card after a delay
-            setTimeout(() => {
-                card.classList.add('animate-in');
-            }, index * 50);
-        };
-        
-        if (img.complete) {
-            // Image already loaded
-            onImageLoad();
-        } else {
-            // Wait for image to load
-            img.addEventListener('load', onImageLoad);
-            img.addEventListener('error', onImageLoad); // Also animate on error
+            gameCards.forEach((card, index) => {
+                const img = card.querySelector('.game-cover');
+
+                // Start with image hidden
+                img.style.opacity = '0';
+
+                const onImageLoad = () => {
+                    // Start animation for this card after a delay
+                    setTimeout(() => {
+                        card.classList.add('animate-in');
+                    }, index * 50);
+                };
+
+                if (img.complete) {
+                    // Image already loaded
+                    onImageLoad();
+                } else {
+                    // Wait for image to load
+                    img.addEventListener('load', onImageLoad);
+                    img.addEventListener('error', onImageLoad); // Also animate on error
+                }
+            });
         }
-    });
-}
 
         // Handle image loading errors
         function handleImageError(img) {
@@ -5026,66 +5075,66 @@ function animateGameCards() {
         }
 
         // Navigation functionality
-function showSection(sectionName) {
-    const allSections = document.querySelectorAll('.content-section');
-    const currentActiveSection = document.querySelector('.content-section.active');
-    
-    // Check if mobile
-    const isMobile = window.innerWidth <= 768;
-    const fadeOutTime = isMobile ? 500 : 800;
-    const fadeInTime = isMobile ? 500 : 800;
-    const delayTime = isMobile ? 100 : 100;
-    
-    // Remove active class from all nav buttons
-    document.querySelectorAll('.nav-btn, .mobile-nav-btn').forEach(btn => {
-        btn.classList.remove('active');
-    });
+        function showSection(sectionName) {
+            const allSections = document.querySelectorAll('.content-section');
+            const currentActiveSection = document.querySelector('.content-section.active');
 
-    // Add active class to clicked button
-    if (event && event.target) {
-        event.target.classList.add('active');
-    }
+            // Check if mobile
+            const isMobile = window.innerWidth <= 768;
+            const fadeOutTime = isMobile ? 500 : 800;
+            const fadeInTime = isMobile ? 500 : 800;
+            const delayTime = isMobile ? 100 : 100;
 
-    // Fade out current section
-    if (currentActiveSection) {
-    currentActiveSection.style.transition = `opacity ${fadeOutTime}ms ease-in-out`;
-    currentActiveSection.style.opacity = '0';
-    
-    setTimeout(() => {
-        // Hide all sections
-        allSections.forEach(section => {
-            section.classList.remove('active');
-            section.style.opacity = '0';
-        });
-        
-        // Show and fade in new section
-        const newSection = document.getElementById(sectionName + '-section');
-        newSection.classList.add('active');
-        
-        setTimeout(() => {
-            newSection.style.transition = `opacity ${fadeInTime}ms ease-in-out`;
-            newSection.style.opacity = '1';
-        }, delayTime);
-        
-    }, fadeOutTime);
-}
- else {
-        // No current section, just show new one
-        const newSection = document.getElementById(sectionName + '-section');
-        newSection.classList.add('active');
-        newSection.style.opacity = '1';
-    }
+            // Remove active class from all nav buttons
+            document.querySelectorAll('.nav-btn, .mobile-nav-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
 
-    // Preload guide images when entering guide section
-    if (sectionName === 'guide') {
-        preloadGuideImages();
-    }
+            // Add active class to clicked button
+            if (event && event.target) {
+                event.target.classList.add('active');
+            }
 
-    // Handle background music
-    const audio = document.getElementById('backgroundMusic');
-    audio.play().catch(() => { });
-    
-}
+            // Fade out current section
+            if (currentActiveSection) {
+                currentActiveSection.style.transition = `opacity ${fadeOutTime}ms ease-in-out`;
+                currentActiveSection.style.opacity = '0';
+
+                setTimeout(() => {
+                    // Hide all sections
+                    allSections.forEach(section => {
+                        section.classList.remove('active');
+                        section.style.opacity = '0';
+                    });
+
+                    // Show and fade in new section
+                    const newSection = document.getElementById(sectionName + '-section');
+                    newSection.classList.add('active');
+
+                    setTimeout(() => {
+                        newSection.style.transition = `opacity ${fadeInTime}ms ease-in-out`;
+                        newSection.style.opacity = '1';
+                    }, delayTime);
+
+                }, fadeOutTime);
+            }
+            else {
+                // No current section, just show new one
+                const newSection = document.getElementById(sectionName + '-section');
+                newSection.classList.add('active');
+                newSection.style.opacity = '1';
+            }
+
+            // Preload guide images when entering guide section
+            if (sectionName === 'guide') {
+                preloadGuideImages();
+            }
+
+            // Handle background music
+            const audio = document.getElementById('backgroundMusic');
+            audio.play().catch(() => { });
+
+        }
 
         // FAQ functionality
         function toggleFAQ(element) {
@@ -5258,39 +5307,39 @@ function showSection(sectionName) {
         }
 
         // Update games per page when window resizes
-window.addEventListener('resize', function() {
-    const newGamesPerPage = window.innerWidth <= 768 ? 14 : 15;
-    if (newGamesPerPage !== gamesPerPage) {
-        gamesPerPage = newGamesPerPage;
-        updatePagination();
-        displayCurrentPage();
-    }
-});
+        window.addEventListener('resize', function () {
+            const newGamesPerPage = window.innerWidth <= 768 ? 14 : 15;
+            if (newGamesPerPage !== gamesPerPage) {
+                gamesPerPage = newGamesPerPage;
+                updatePagination();
+                displayCurrentPage();
+            }
+        });
 
         // Initialize everything
-document.addEventListener('DOMContentLoaded', function () {
-    loadLanguagePreference();
-    createFireEffect();
-    animateCards();
-    setupTierCards();
-    initializeMusic();
-    loadGameCovers();
-    updateLanguageContent();
-    
-    // Fade in page after everything is loaded
-    setTimeout(() => {
-        document.body.classList.add('loaded');
-        const overlay = document.getElementById('pageOverlay');
-        overlay.classList.add('fade-out');
-        
-        // Remove overlay after fade completes
-        setTimeout(() => {
-            if (overlay.parentNode) {
-                overlay.parentNode.removeChild(overlay);
-            }
-        }, 2000);
-    }, 1000);
-});
+        document.addEventListener('DOMContentLoaded', function () {
+            loadLanguagePreference();
+            createFireEffect();
+            animateCards();
+            setupTierCards();
+            initializeMusic();
+            loadGameCovers();
+            updateLanguageContent();
+
+            // Fade in page after everything is loaded
+            setTimeout(() => {
+                document.body.classList.add('loaded');
+                const overlay = document.getElementById('pageOverlay');
+                overlay.classList.add('fade-out');
+
+                // Remove overlay after fade completes
+                setTimeout(() => {
+                    if (overlay.parentNode) {
+                        overlay.parentNode.removeChild(overlay);
+                    }
+                }, 2000);
+            }, 1000);
+        });
         // Guide images data
         const guideImages = {
             en: [
