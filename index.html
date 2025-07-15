@@ -2744,19 +2744,34 @@
 
         @media (max-width: 768px) {
     html {
-    height: 100%;
-    background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat fixed;
-    background-size: cover;
+    background: #0d0d0d;
 }
 
 body {
-    background: transparent !important;
-    min-height: 100%;
+    background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat !important;
+    background-attachment: scroll !important;
+    background-size: cover !important;
+    min-height: 100vh;
     position: relative;
 }
 
 body.arabic-mode {
-    background: transparent !important;
+    background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat !important;
+    background-attachment: scroll !important;
+    background-size: cover !important;
+}
+
+/* Prevent background repositioning during scroll */
+@supports (-webkit-touch-callout: none) {
+    body {
+        background-attachment: scroll !important;
+        background-size: 100% 100% !important;
+    }
+    
+    body.arabic-mode {
+        background-attachment: scroll !important;
+        background-size: 100% 100% !important;
+    }
 }
     
     body.arabic-mode::before {
