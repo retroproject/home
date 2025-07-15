@@ -2721,26 +2721,6 @@ body.loaded {
             }
         }
 
-        /* Prevent image enlargement on mobile */
-@media (max-width: 768px) {
-    .image-comparison-slider {
-        touch-action: none;
-        user-select: none;
-        -webkit-user-select: none;
-    }
-    
-    .comparison-image img {
-        touch-action: none;
-        user-select: none;
-        -webkit-user-select: none;
-        pointer-events: none;
-    }
-    
-    .slider-handle {
-        display: none;
-    }
-}
-
         @media (max-width: 768px) {
     body::before {
         content: '';
@@ -2770,6 +2750,8 @@ body.loaded {
         background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat;
         background-size: cover;
     }
+
+    
     
     .nav {
         display: none;
@@ -4674,24 +4656,23 @@ function handleTapNavigation(e) {
     
     const tapDuration = Date.now() - tapStartTime;
     
-    // Only navigate if it was a quick tap (less than 300ms)
-    if (tapDuration > 300) return;
-    
-    e.preventDefault(); // Prevent any default behavior
+    // Only navigate if it was a quick tap (less than 200ms) and no dragging occurred
+    if (tapDuration > 200 || isDragging) return;
     
     const slider = e.currentTarget;
     const rect = slider.getBoundingClientRect();
-    const tapX = e.touches ? e.touches[0].clientX - rect.left : e.clientX - rect.left;
+    const tapX = e.clientX - rect.left;
     const sliderWidth = rect.width;
     
-    // Left half = previous, right half = next
-    if (tapX < sliderWidth * 0.5) {
+    // Left third of image = previous, right third = next, middle third = no action
+    if (tapX < sliderWidth * 0.33) {
         // Left tap zone - previous image
         changeExample(-1);
-    } else {
+    } else if (tapX > sliderWidth * 0.67) {
         // Right tap zone - next image
         changeExample(1);
     }
+    // Middle zone does nothing (allows normal slider interaction if needed)
 }
 
             // Mouse events
@@ -4739,8 +4720,13 @@ function handleTapNavigation(e) {
 
                 document.addEventListener('touchmove', onTouchMove, { passive: false });
                 document.addEventListener('touchend', onTouchEnd);
-           } else {
-    // Mobile: only tap zones for navigation, no dragging
+            } else {
+    // Mobile: both drag and tap functionality
+    newSlider.addEventListener('touchstart', onTouchStart, { passive: false });
+    document.addEventListener('touchmove', onTouchMove, { passive: false });
+    document.addEventListener('touchend', onTouchEnd);
+    
+    // Also add tap zones for navigation
     newSlider.addEventListener('touchstart', handleTapStart);
     newSlider.addEventListener('click', handleTapNavigation);
 }
