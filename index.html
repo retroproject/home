@@ -2554,8 +2554,8 @@
         .mobile-menu-btn {
     display: none;
     position: absolute;
-    top: 2rem;
-    right: 2rem;
+    top: 1rem;
+    right: 1rem;
     z-index: 200;
     width: 50px;
     height: 50px;
@@ -2683,7 +2683,7 @@
 
         body.arabic-mode .mobile-menu-btn {
     right: auto;
-    left: 2rem;
+    left: 1rem;
 }
 
         /* Responsive design */
@@ -2743,36 +2743,27 @@
         }
 
         @media (max-width: 768px) {
-    html {
-    background: #0d0d0d;
-}
-
-body {
-    background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat !important;
-    background-attachment: scroll !important;
-    background-size: cover !important;
-    min-height: 100vh;
-    position: relative;
-}
-
-body.arabic-mode {
-    background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat !important;
-    background-attachment: scroll !important;
-    background-size: cover !important;
-}
-
-/* Prevent background repositioning during scroll */
-@supports (-webkit-touch-callout: none) {
+    body::before {
+        content: '';
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100vh;
+        height: 100dvh;
+        background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat;
+        background-size: cover;
+        z-index: -1;
+    }
+    
     body {
-        background-attachment: scroll !important;
-        background-size: 100% 100% !important;
+        background: transparent !important;
+        position: relative;
     }
     
     body.arabic-mode {
-        background-attachment: scroll !important;
-        background-size: 100% 100% !important;
+        background: transparent !important;
     }
-}
     
     body.arabic-mode::before {
         background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat;
@@ -2980,11 +2971,59 @@ body.arabic-mode .page-jump {
         margin-right: 0;
     }
 
-    .screenshot-badges {
-        flex-direction: column;
-        gap: 0.5rem;
-        width: auto;
-    }
+.screenshot-badges {
+    flex-direction: row;
+    gap: 1rem;
+    width: 300px;
+    justify-content: space-between;
+}
+
+.image-comparison-slider {
+    height: 180px !important;
+}
+
+.image-comparison-container {
+    margin: 1rem auto !important;
+    max-width: 100% !important;
+}
+
+.comparison-image img {
+    object-fit: cover !important;
+    object-position: center !important;
+}
+
+.image-label {
+    padding: 0.2rem 0.3rem;
+    font-size: 0.6rem;
+    top: 5px;
+}
+
+.original-label {
+    left: 5px;
+}
+
+.enhanced-label {
+    right: 5px;
+}
+
+body.arabic-mode .original-label {
+    left: auto;
+    right: 5px;
+}
+
+body.arabic-mode .enhanced-label {
+    right: auto;
+    left: 5px;
+}
+
+.slider-handle {
+    width: 2px;
+}
+
+.slider-button {
+    width: 25px;
+    height: 25px;
+}
 }
 
         @media (max-width: 480px) {
@@ -3140,7 +3179,7 @@ body.arabic-mode .page-jump {
     <button class="mobile-nav-btn" onclick="showSection('guide'); closeMobileMenu()" data-en="Guide" data-ar="الدليل">Guide</button>
     <button class="mobile-nav-btn" onclick="showSection('screenshots'); closeMobileMenu()" data-en="Screenshots" data-ar="لقطات الشاشة">Screenshots</button>
     <button class="mobile-nav-btn" onclick="showSection('faq'); closeMobileMenu()" data-en="FAQ" data-ar="الأسئلة الشائعة">FAQ</button>
-    <button class="mobile-nav-btn" onclick="showSection('social'); closeMobileMenu()" data-en="Follow Us" data-ar="تابعنا">Follow Us</button>
+    <button class="mobile-nav-btn social-toggle" onclick="showSection('social'); closeMobileMenu()" data-en="Follow Us" data-ar="تابعنا">Follow Us</button>
     <button class="mobile-nav-btn arabic-toggle" onclick="toggleLanguage(); closeMobileMenu()" data-en="Arabic" data-ar="الإنجليزيه">العربية</button>
     <button class="mobile-mute-btn" onclick="toggleMute()" id="mobileMuteButton">
     <img src="https://i.imgur.com/ieAgxPg.png" alt="Mute" style="width: 32px; height: 32px;">
@@ -3342,13 +3381,12 @@ body.arabic-mode .page-jump {
                 <div class="screenshot-badges">
                     <div class="screenshot-badge active" onclick="switchScreenshotMode('program')" data-en="PROGRAM UI"
                         data-ar="واجهة البرنامج">PROGRAM UI</div>
-                    <div class="screenshot-badge after-badge" onclick="switchScreenshotMode('enhancements')"
-                        data-en="BEFORE/AFTER" data-ar="قبل/بعد">
-                        BEFORE/AFTER</div>
+                    <div class="screenshot-badge after-badge" onclick="switchScreenshotMode('enhancements')" data-en="ENHANCEMENTS" data-ar="التحسينات">
+                        ENHANCEMENTS</div>
                 </div>
 
-                <h2 class="section-title-screenshots" id="screenshotTitle" data-en="💻 Program Interface"
-                    data-ar="💻 واجهة البرنامج">💻 Program Interface</h2>
+                <h2 class="section-title-screenshots" id="screenshotTitle" data-en="🎨 Interface"
+                    data-ar="🎨 الواجهة">🎨 Interface</h2>
 
                 <div class="screenshot-content" id="screenshotContent">
                     <!-- Program UI Content (Default) -->
@@ -3949,24 +3987,33 @@ if (window.innerWidth <= 768) {
     overlay.classList.add('active');
 
             setTimeout(() => {
-                if (currentLanguage === 'en') {
-                    currentLanguage = 'ar';
-                    document.body.classList.add('arabic-mode');
-                    document.documentElement.dir = 'rtl';
-                } else {
-                    currentLanguage = 'en';
-                    document.body.classList.remove('arabic-mode');
-                    document.documentElement.dir = 'ltr';
-                }
+    if (currentLanguage === 'en') {
+        currentLanguage = 'ar';
+        document.body.classList.add('arabic-mode');
+        document.documentElement.dir = 'rtl';
+    } else {
+        currentLanguage = 'en';
+        document.body.classList.remove('arabic-mode');
+        document.documentElement.dir = 'ltr';
+    }
 
-                // Update all text content
-                updateLanguageContent();
+    // Update all text content
+    updateLanguageContent();
 
-                // Remove overlay after content updates
-                setTimeout(() => {
-                    overlay.classList.remove('active');
-                }, 300);
-            }, 300);
+    // Force remove any backdrop-filter that might be applied during transition
+    if (window.innerWidth <= 768) {
+    document.querySelectorAll('.game-card, .game-info, .search-box, .search-container').forEach(element => {
+        element.style.backdropFilter = 'none';
+        element.style.webkitBackdropFilter = 'none';
+    });
+}
+
+
+    // Remove overlay after content updates
+    setTimeout(() => {
+        overlay.classList.remove('active');
+    }, 300);
+}, 300);
 
             // Save language preference
             localStorage.setItem('preferredLanguage', currentLanguage);
@@ -4438,9 +4485,9 @@ if (window.innerWidth <= 768) {
 
             setTimeout(() => {
                 if (mode === 'program') {
-                    // Switch to Program UI
-                    const titleText = currentLanguage === 'en' ? '💻 Program Interface' : '💻 واجهة البرنامج';
-                    title.textContent = titleText;
+    // Switch to Program UI
+    const titleText = currentLanguage === 'en' ? '🎨 Interface' : '🎨 الواجهة';
+    title.textContent = titleText;
                     title.style.color = '#4682b4';
                     title.style.textShadow = '0 0 15px rgba(70, 130, 180, 0.6)';
 
