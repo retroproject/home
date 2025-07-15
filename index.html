@@ -2743,27 +2743,21 @@
         }
 
         @media (max-width: 768px) {
-    body::before {
-        content: '';
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100vh;
-        height: 100dvh;
-        background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat;
-        background-size: cover;
-        z-index: -1;
-    }
-    
-    body {
-        background: transparent !important;
-        position: relative;
-    }
-    
-    body.arabic-mode {
-        background: transparent !important;
-    }
+    html {
+    height: 100%;
+    background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat fixed;
+    background-size: cover;
+}
+
+body {
+    background: transparent !important;
+    min-height: 100%;
+    position: relative;
+}
+
+body.arabic-mode {
+    background: transparent !important;
+}
     
     body.arabic-mode::before {
         background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat;
@@ -2904,12 +2898,63 @@
     }
 
     .pagination-container {
-        display: none;
-    }
+    position: static;
+    width: calc(100% - 2rem);
+    margin: 1rem auto;
+    justify-content: center;
+    padding: 0.2rem 0.3rem;
+    background: linear-gradient(145deg, rgba(15, 15, 15, 0.15), rgba(30, 30, 30, 0.15));
+    border: 2px solid rgba(220, 20, 60, 0.4);
+    border-radius: 8px;
+    backdrop-filter: none;
+    gap: 0.1rem;
+    flex-wrap: wrap;
+}
 
-    body.arabic-mode .pagination-container {
-        display: none;
-    }
+body.arabic-mode .pagination-container {
+    position: static;
+    width: calc(100% - 2rem);
+    margin: 1rem auto;
+    justify-content: center;
+    padding: 0.2rem 0.3rem;
+    background: linear-gradient(145deg, rgba(15, 15, 15, 0.15), rgba(30, 30, 30, 0.15));
+    border: 2px solid rgba(220, 20, 60, 0.4);
+    border-radius: 8px;
+    backdrop-filter: none;
+    gap: 0.1rem;
+    flex-wrap: wrap;
+}
+
+.pagination-btn {
+    padding: 0.2rem 0.4rem;
+    font-size: 0.6rem;
+    min-width: 40px;
+}
+
+.pagination-info {
+    font-size: 0.6rem;
+    margin: 0 0.2rem;
+}
+
+.page-jump {
+    margin-left: 0.2rem;
+    margin-top: 0;
+}
+
+.page-jump input {
+    width: 30px;
+    padding: 0.1rem;
+    font-size: 0.6rem;
+}
+
+.page-jump span {
+    font-size: 0.6rem;
+}
+
+body.arabic-mode .page-jump {
+    margin-right: 0.2rem;
+    margin-left: 0;
+}
 
     .page-jump {
         margin-left: 0;
@@ -4021,143 +4066,6 @@ if (window.innerWidth <= 768) {
             updateLightboxNavigation();
         }
 
-        // Infinite scroll for mobile
-let isLoadingMore = false;
-let currentlyDisplayed = 0;
-const itemsPerLoad = 10;
-
-function initializeInfiniteScroll() {
-    if (window.innerWidth <= 768) {
-        // Reset for mobile
-        currentlyDisplayed = Math.min(itemsPerLoad, filteredGames.length);
-        displayGamesInfinite();
-        
-        // Add scroll listener
-        const gamesContent = document.querySelector('.games-content');
-        gamesContent.addEventListener('scroll', handleInfiniteScroll);
-    }
-}
-
-function displayGamesInfinite() {
-    const gamesGrid = document.getElementById('gamesGrid');
-    const noResults = document.getElementById('noResults');
-    
-    if (filteredGames.length === 0) {
-        gamesGrid.innerHTML = '';
-        noResults.style.display = 'block';
-        return;
-    }
-    
-    noResults.style.display = 'none';
-    
-    const gamesToShow = filteredGames.slice(0, currentlyDisplayed);
-    
-    gamesGrid.innerHTML = gamesToShow.map((game, index) => `
-        <div class="game-card animate-in" style="animation-delay: ${(index % itemsPerLoad) * 0.05}s;">
-            <img class="game-cover" 
-                 src="${game.cover}" 
-                 alt="${game.name}" 
-                 onerror="handleImageError(this)" 
-                 loading="lazy">
-            <div class="game-info">
-                <h3 class="game-title">${game.name}</h3>
-            </div>
-        </div>
-    `).join('');
-}
-
-function loadMoreGames() {
-    if (isLoadingMore || currentlyDisplayed >= filteredGames.length) return;
-    
-    isLoadingMore = true;
-    
-    // Show loading indicator
-    const gamesGrid = document.getElementById('gamesGrid');
-    const loadingDiv = document.createElement('div');
-    loadingDiv.className = 'loading-more';
-    loadingDiv.style.gridColumn = '1 / -1';
-    loadingDiv.style.textAlign = 'center';
-    loadingDiv.style.padding = '2rem';
-    loadingDiv.style.color = '#ff6b35';
-    loadingDiv.style.fontFamily = currentLanguage === 'ar' ? 'Cairo, sans-serif' : 'Orbitron, monospace';
-    loadingDiv.textContent = currentLanguage === 'ar' ? 'جاري التحميل...' : 'Loading...';
-    gamesGrid.appendChild(loadingDiv);
-    
-    // Simulate loading delay for better UX
-    setTimeout(() => {
-        const previousCount = currentlyDisplayed;
-        currentlyDisplayed = Math.min(currentlyDisplayed + itemsPerLoad, filteredGames.length);
-        
-        // Remove loading indicator
-        gamesGrid.removeChild(loadingDiv);
-        
-        // Add new games
-        const newGames = filteredGames.slice(previousCount, currentlyDisplayed);
-        newGames.forEach((game, index) => {
-            const gameCard = document.createElement('div');
-            gameCard.className = 'game-card animate-in';
-            gameCard.style.animationDelay = `${index * 0.05}s`;
-            gameCard.innerHTML = `
-                <img class="game-cover" 
-                     src="${game.cover}" 
-                     alt="${game.name}" 
-                     onerror="handleImageError(this)" 
-                     loading="lazy">
-                <div class="game-info">
-                    <h3 class="game-title">${game.name}</h3>
-                </div>
-            `;
-            gamesGrid.appendChild(gameCard);
-        });
-        
-        isLoadingMore = false;
-    }, 500);
-}
-
-function handleInfiniteScroll() {
-    if (window.innerWidth > 768) return; // Only on mobile
-    
-    const scrollTop = this.scrollTop;
-    const scrollHeight = this.scrollHeight;
-    const clientHeight = this.clientHeight;
-    
-    // Load more when 200px from bottom
-    if (scrollTop + clientHeight >= scrollHeight - 200) {
-        loadMoreGames();
-    }
-}
-
-// Update existing functions to use infinite scroll on mobile
-const originalDisplayCurrentPage = displayCurrentPage;
-displayCurrentPage = function() {
-    if (window.innerWidth <= 768) {
-        // Reset for new search/filter
-        currentlyDisplayed = Math.min(itemsPerLoad, filteredGames.length);
-        displayGamesInfinite();
-    } else {
-        originalDisplayCurrentPage();
-    }
-};
-
-// Initialize on window resize
-window.addEventListener('resize', function() {
-    if (window.innerWidth <= 768) {
-        initializeInfiniteScroll();
-    }
-});
-
-// Update the showSection function to initialize infinite scroll for games
-const originalShowSection = showSection;
-showSection = function(sectionName) {
-    originalShowSection.call(this, sectionName);
-    
-    if (sectionName === 'games' && window.innerWidth <= 768) {
-        setTimeout(() => {
-            initializeInfiniteScroll();
-        }, 100);
-    }
-};
-
         // Download setup function
         function downloadSetup() {
             window.open('https://archive.org/download/retroproject/setup.exe', '_blank');
@@ -4759,36 +4667,40 @@ showSection = function(sectionName) {
 
         // Change page
         function changePage(direction) {
-            const newPage = currentPage + direction;
-            if (newPage >= 1 && newPage <= totalPages) {
-                currentPage = newPage;
-                displayCurrentPage();
+    const newPage = currentPage + direction;
+    if (newPage >= 1 && newPage <= totalPages) {
+        currentPage = newPage;
+        displayCurrentPage();
 
-                // Smooth scroll to top of games grid
+        // Only scroll on desktop, not mobile
+        if (window.innerWidth > 768) {
+            document.getElementById('gamesGrid').scrollIntoView({
+                behavior: 'smooth',
+                block: 'start'
+            });
+        }
+    }
+}
+
+        // Jump to specific page
+        function jumpToPage(event) {
+    if (event.key === 'Enter') {
+        const pageNumber = parseInt(event.target.value);
+        if (pageNumber >= 1 && pageNumber <= totalPages) {
+            currentPage = pageNumber;
+            displayCurrentPage();
+            event.target.value = '';
+
+            // Only scroll on desktop, not mobile
+            if (window.innerWidth > 768) {
                 document.getElementById('gamesGrid').scrollIntoView({
                     behavior: 'smooth',
                     block: 'start'
                 });
             }
         }
-
-        // Jump to specific page
-        function jumpToPage(event) {
-            if (event.key === 'Enter') {
-                const pageNumber = parseInt(event.target.value);
-                if (pageNumber >= 1 && pageNumber <= totalPages) {
-                    currentPage = pageNumber;
-                    displayCurrentPage();
-                    event.target.value = '';
-
-                    // Smooth scroll to top of games grid
-                    document.getElementById('gamesGrid').scrollIntoView({
-                        behavior: 'smooth',
-                        block: 'start'
-                    });
-                }
-            }
-        }
+    }
+}
 
         // Handle image loading errors
         function handleImageError(img) {
