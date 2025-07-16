@@ -2646,24 +2646,24 @@
 
         /* Mobile Menu Styles */
         .mobile-menu-btn {
-    display: none;
-    position: absolute;
-    top: 1rem;
-    right: 1rem;
-    z-index: 200;
-    width: 50px;
-    height: 50px;
-    background: linear-gradient(145deg, rgba(15, 15, 15, 0.15), rgba(30, 30, 30, 0.15));
-    border: 2px solid rgba(220, 20, 60, 0.4);
-    border-radius: 10px;
-    cursor: pointer;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 4px;
-    backdrop-filter: none;
-    transition: all 0.5s ease;
-}
+            display: none;
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            z-index: 200;
+            width: 50px;
+            height: 50px;
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.15), rgba(30, 30, 30, 0.15));
+            border: 2px solid rgba(220, 20, 60, 0.4);
+            border-radius: 10px;
+            cursor: pointer;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: 4px;
+            backdrop-filter: none;
+            transition: all 0.5s ease;
+        }
 
         .mobile-menu-btn:hover {
             border-color: rgba(220, 20, 60, 0.8);
@@ -2671,11 +2671,11 @@
         }
 
         .mobile-menu-btn span {
-    width: 20px;
-    height: 2px;
-    background: #e0e0e0;
-    transition: all 0.5s ease;
-}
+            width: 20px;
+            height: 2px;
+            background: #e0e0e0;
+            transition: all 0.5s ease;
+        }
 
         .mobile-menu-btn.active span:nth-child(1) {
             transform: rotate(45deg) translate(5px, 5px);
@@ -2690,29 +2690,29 @@
         }
 
         .mobile-menu {
-    display: none;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: transparent;
-    backdrop-filter: none;
-    z-index: 150;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 1.5rem;
-    padding: 2rem;
-    opacity: 0;
-    visibility: hidden;
-    transition: opacity 0.5s ease, visibility 0.5s ease;
-}
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: transparent;
+            backdrop-filter: none;
+            z-index: 150;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: 1.5rem;
+            padding: 2rem;
+            opacity: 0;
+            visibility: hidden;
+            transition: opacity 0.5s ease, visibility 0.5s ease;
+        }
 
-.mobile-menu.active .header {
-    opacity: 1 !important;
-    visibility: visible !important;
-}
+        .mobile-menu.active .header {
+            opacity: 1 !important;
+            visibility: visible !important;
+        }
 
         .mobile-menu.active {
             display: flex;
@@ -4058,113 +4058,113 @@
             }
         }
 
-function toggleMobileMenu() {
-    const menu = document.getElementById('mobileMenu');
-    const btn = document.querySelector('.mobile-menu-btn');
-    const pageContent = document.querySelectorAll('.content-section, .particles');
-    const header = document.querySelector('.header');
+        function toggleMobileMenu() {
+            const menu = document.getElementById('mobileMenu');
+            const btn = document.querySelector('.mobile-menu-btn');
+            const pageContent = document.querySelectorAll('.content-section, .particles');
+            const header = document.querySelector('.header');
 
-    // Clear any existing timeouts
-    if (mobileMenuTimeout) clearTimeout(mobileMenuTimeout);
-    if (mobileMenuFadeTimeout) clearTimeout(mobileMenuFadeTimeout);
+            // Clear any existing timeouts
+            if (mobileMenuTimeout) clearTimeout(mobileMenuTimeout);
+            if (mobileMenuFadeTimeout) clearTimeout(mobileMenuFadeTimeout);
 
-    if (menu.classList.contains('active')) {
-        // Close menu with fade out
-        menu.style.opacity = '0';
-        menu.style.visibility = 'hidden';
-        menu.classList.remove('active');
-        btn.classList.remove('active');
-
-        mobileMenuTimeout = setTimeout(() => {
-            // Only execute if menu is still not active (wasn't reopened)
-            if (!menu.classList.contains('active')) {
-                menu.style.display = 'none';
-                // Fade page content back in
-                pageContent.forEach(element => {
-                    element.style.transition = 'opacity 0.5s ease';
-                    element.style.opacity = '1';
-                });
-                // Fade header back in with same timing
-                header.style.transition = 'opacity 0.5s ease';
-                header.style.opacity = '1';
-            }
-        }, 500);
-    } else {
-        // Open menu
-        // Fade page content out but keep particles
-        pageContent.forEach(element => {
-            if (element.id !== 'particles') {
-                element.style.transition = 'opacity 0.5s ease';
-                element.style.opacity = '0';
-            }
-        });
-        // Fade header out with same timing
-        header.style.transition = 'opacity 0.5s ease';
-        header.style.opacity = '0';
-
-        mobileMenuTimeout = setTimeout(() => {
-            // Only execute if we're still trying to open the menu
-            if (!menu.classList.contains('active')) {
-                // Set display and ensure opacity is 0 before starting fade
-                menu.style.display = 'flex';
+            if (menu.classList.contains('active')) {
+                // Close menu with fade out
                 menu.style.opacity = '0';
-                menu.style.visibility = 'visible';
-                menu.classList.add('active');
-                btn.classList.add('active');
-                
-                // Force reflow to ensure styles are applied
-                menu.offsetHeight;
-                
-                // Now fade in
-                mobileMenuFadeTimeout = setTimeout(() => {
-                    // Only fade in if menu is still active
-                    if (menu.classList.contains('active')) {
-                        menu.style.opacity = '1';
-                        // Keep particles visible
-                        document.getElementById('particles').style.opacity = '1';
-                        // Show header in mobile menu
+                menu.style.visibility = 'hidden';
+                menu.classList.remove('active');
+                btn.classList.remove('active');
+
+                mobileMenuTimeout = setTimeout(() => {
+                    // Only execute if menu is still not active (wasn't reopened)
+                    if (!menu.classList.contains('active')) {
+                        menu.style.display = 'none';
+                        // Fade page content back in
+                        pageContent.forEach(element => {
+                            element.style.transition = 'opacity 0.5s ease';
+                            element.style.opacity = '1';
+                        });
+                        // Fade header back in with same timing
+                        header.style.transition = 'opacity 0.5s ease';
                         header.style.opacity = '1';
                     }
-                }, 10);
+                }, 500);
+            } else {
+                // Open menu
+                // Fade page content out but keep particles
+                pageContent.forEach(element => {
+                    if (element.id !== 'particles') {
+                        element.style.transition = 'opacity 0.5s ease';
+                        element.style.opacity = '0';
+                    }
+                });
+                // Fade header out with same timing
+                header.style.transition = 'opacity 0.5s ease';
+                header.style.opacity = '0';
+
+                mobileMenuTimeout = setTimeout(() => {
+                    // Only execute if we're still trying to open the menu
+                    if (!menu.classList.contains('active')) {
+                        // Set display and ensure opacity is 0 before starting fade
+                        menu.style.display = 'flex';
+                        menu.style.opacity = '0';
+                        menu.style.visibility = 'visible';
+                        menu.classList.add('active');
+                        btn.classList.add('active');
+
+                        // Force reflow to ensure styles are applied
+                        menu.offsetHeight;
+
+                        // Now fade in
+                        mobileMenuFadeTimeout = setTimeout(() => {
+                            // Only fade in if menu is still active
+                            if (menu.classList.contains('active')) {
+                                menu.style.opacity = '1';
+                                // Keep particles visible
+                                document.getElementById('particles').style.opacity = '1';
+                                // Show header in mobile menu
+                                header.style.opacity = '1';
+                            }
+                        }, 10);
+                    }
+                }, 500);
             }
-        }, 500);
-    }
-}
+        }
 
         function closeMobileMenu() {
-    const menu = document.getElementById('mobileMenu');
-    const btn = document.querySelector('.mobile-menu-btn');
-    const pageContent = document.querySelectorAll('.content-section, .particles');
-    const header = document.querySelector('.header');
+            const menu = document.getElementById('mobileMenu');
+            const btn = document.querySelector('.mobile-menu-btn');
+            const pageContent = document.querySelectorAll('.content-section, .particles');
+            const header = document.querySelector('.header');
 
-    // Clear any existing timeouts
-    if (mobileMenuTimeout) clearTimeout(mobileMenuTimeout);
-    if (mobileMenuFadeTimeout) clearTimeout(mobileMenuFadeTimeout);
+            // Clear any existing timeouts
+            if (mobileMenuTimeout) clearTimeout(mobileMenuTimeout);
+            if (mobileMenuFadeTimeout) clearTimeout(mobileMenuFadeTimeout);
 
-    // Close menu with fade out
-    menu.style.opacity = '0';
-    menu.style.visibility = 'hidden';
-    menu.classList.remove('active');
-    btn.classList.remove('active');
+            // Close menu with fade out
+            menu.style.opacity = '0';
+            menu.style.visibility = 'hidden';
+            menu.classList.remove('active');
+            btn.classList.remove('active');
 
-    mobileMenuTimeout = setTimeout(() => {
-        if (!menu.classList.contains('active')) {
-            menu.style.display = 'none';
-            // Fade page content back in after section transition completes
-            setTimeout(() => {
-                pageContent.forEach(element => {
-                    element.style.transition = 'opacity 0.5s ease';
-                    element.style.opacity = '1';
-                });
-                // Fade header back in with same timing
-                header.style.transition = 'opacity 0.5s ease';
-                header.style.opacity = '1';
-                // Ensure particles stay visible
-                document.getElementById('particles').style.opacity = '1';
-            }, 900); // Wait for section fade transition to complete
+            mobileMenuTimeout = setTimeout(() => {
+                if (!menu.classList.contains('active')) {
+                    menu.style.display = 'none';
+                    // Fade page content back in after section transition completes
+                    setTimeout(() => {
+                        pageContent.forEach(element => {
+                            element.style.transition = 'opacity 0.5s ease';
+                            element.style.opacity = '1';
+                        });
+                        // Fade header back in with same timing
+                        header.style.transition = 'opacity 0.5s ease';
+                        header.style.opacity = '1';
+                        // Ensure particles stay visible
+                        document.getElementById('particles').style.opacity = '1';
+                    }, 900); // Wait for section fade transition to complete
+                }
+            }, 500);
         }
-    }, 500);
-}
 
         // Touch swipe functionality for mobile
         let touchStartX = 0;
@@ -5616,9 +5616,9 @@ function toggleMobileMenu() {
         };
         let currentGuideIndex = 0;
         let currentGuideLightboxIndex = 0;
-// Add these variables after the other declarations
-let mobileMenuTimeout = null;
-let mobileMenuFadeTimeout = null;
+        // Add these variables after the other declarations
+        let mobileMenuTimeout = null;
+        let mobileMenuFadeTimeout = null;
     </script>
 </body>
 
