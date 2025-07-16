@@ -1655,6 +1655,23 @@
             color: #e0e0e0;
         }
 
+        /* Social cards 1:1 aspect ratio */
+        .social-card {
+            aspect-ratio: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .social-cards {
+            display: grid !important;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 280px)) !important;
+            gap: 2rem !important;
+            animation: fadeInUp 1s ease-out 0.5s both !important;
+            justify-content: center !important;
+        }
+
         /* Screenshots Content - Updated to single section with badge navigation */
         .screenshots-content {
             max-width: 1200px;
@@ -3236,6 +3253,8 @@
 
         body.arabic-mode .social-content {
             direction: rtl;
+            margin-left: 0 !important;
+            margin-right: -5rem !important;
         }
 
         body.arabic-mode .social-title,
@@ -3895,7 +3914,7 @@
     <!-- Social Content -->
     <div id="social-section" class="content-section">
         <div class="social-content"
-            style="max-width: 1200px; margin: 0; padding: 2rem; position: relative; z-index: 2; transition: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55); display: flex; flex-direction: column; justify-content: center; min-height: 100vh;">
+            style="max-width: 1200px; margin: 0; margin-left: -5rem; padding: 2rem; position: relative; z-index: 2; transition: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55); display: flex; flex-direction: column; justify-content: center; min-height: 100vh;">
 
             <h2 class="section-title"
                 style="font-family: 'Orbitron', monospace; font-size: 2.8rem; font-weight: 600; color: #4682b4; text-shadow: 0 0 15px rgba(70, 130, 180, 0.6); margin-bottom: 3rem; text-align: center; letter-spacing: 1px; animation: sectionTitleBounce 0.8s ease-out;"
@@ -3907,7 +3926,9 @@
                 <!-- Discord Card -->
                 <div class="social-card discord-card" onclick="window.open('https://discord.gg/fbTagp4fQV', '_blank')"
                     style="background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5)); border: 2px solid rgba(70, 130, 180, 0.4); border-radius: 15px; padding: 2rem; text-align: center; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;">
-                    <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #5865F2;">💬</div>
+                    <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #5865F2;"><img
+                            src="https://i.imgur.com/xkvAknY.png" alt="Discord" style="width: 64px; height: 64px;">
+                    </div>
                     <div class="social-title"
                         style="font-family: 'Orbitron', monospace; font-size: 1.4rem; font-weight: 600; color: #e0e0e0; margin-bottom: 0.5rem;"
                         data-en="Discord" data-ar="ديسكورد">Discord</div>
@@ -3918,7 +3939,8 @@
                 <!-- Twitch Card -->
                 <div class="social-card twitch-card" onclick="window.open('https://www.twitch.tv/d1vergil', '_blank')"
                     style="background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5)); border: 2px solid rgba(70, 130, 180, 0.4); border-radius: 15px; padding: 2rem; text-align: center; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;">
-                    <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #9146FF;">📺</div>
+                    <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #9146FF;"><img
+                            src="https://i.imgur.com/5dm4oC9.png" alt="Twitch" style="width: 64px; height: 64px;"></div>
                     <div class="social-title"
                         style="font-family: 'Orbitron', monospace; font-size: 1.4rem; font-weight: 600; color: #e0e0e0; margin-bottom: 0.5rem;"
                         data-en="Twitch" data-ar="تويتش">Twitch</div>
@@ -3930,7 +3952,9 @@
                 <div class="social-card youtube-card"
                     onclick="window.open('https://www.youtube.com/@D1Vergil', '_blank')"
                     style="background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5)); border: 2px solid rgba(70, 130, 180, 0.4); border-radius: 15px; padding: 2rem; text-align: center; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;">
-                    <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #FF0000;">🎬</div>
+                    <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #FF0000;"><img
+                            src="https://i.imgur.com/DrRBYoZ.png" alt="YouTube" style="width: 64px; height: 64px;">
+                    </div>
                     <div class="social-title"
                         style="font-family: 'Orbitron', monospace; font-size: 1.4rem; font-weight: 600; color: #e0e0e0; margin-bottom: 0.5rem;"
                         data-en="YouTube" data-ar="يوتيوب">YouTube</div>
@@ -3942,7 +3966,8 @@
                 <div class="social-card tiktok-card"
                     onclick="window.open('https://www.tiktok.com/@dark1vergil', '_blank')"
                     style="background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5)); border: 2px solid rgba(70, 130, 180, 0.4); border-radius: 15px; padding: 2rem; text-align: center; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;">
-                    <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #FE2C55;">🎵</div>
+                    <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #FE2C55;"><img
+                            src="https://i.imgur.com/mQzVD2T.png" alt="TikTok" style="width: 64px; height: 64px;"></div>
                     <div class="social-title"
                         style="font-family: 'Orbitron', monospace; font-size: 1.4rem; font-weight: 600; color: #e0e0e0; margin-bottom: 0.5rem;"
                         data-en="TikTok" data-ar="تيك توك">TikTok</div>
@@ -3954,12 +3979,14 @@
                 <div class="social-card backloggd-card"
                     onclick="window.open('https://backloggd.com/u/Dark1Vergil/', '_blank')"
                     style="background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5)); border: 2px solid rgba(70, 130, 180, 0.4); border-radius: 15px; padding: 2rem; text-align: center; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;">
-                    <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #FF6B35;">📚</div>
+                    <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #FF6B35;"><img
+                            src="https://i.imgur.com/uki9mhL.png" alt="Backloggd" style="width: 64px; height: 64px;">
+                    </div>
                     <div class="social-title"
                         style="font-family: 'Orbitron', monospace; font-size: 1.4rem; font-weight: 600; color: #e0e0e0; margin-bottom: 0.5rem;"
-                        data-en="Backloggd" data-ar="مسيرتي المتواضعة في عالم الألعاب">Backloggd</div>
-                    <div class="social-description" style="font-size: 0.9rem; color: #ccc; line-height: 1.5;"
-                        data-en="My Humble Gaming Career" data-ar="">Track my gaming progress</div>
+                        data-en="Backloggd" data-ar="مسيرتي في عالم الألعاب">Backloggd</div>
+                    <div class="social-description" style="font-size: 0.9rem; color: #ccc; line-height: 1.5;" data-en=""
+                        data-ar="">Track my gaming progress</div>
                 </div>
 
             </div>
