@@ -319,6 +319,7 @@
             gap: 3px;
             width: 32px;
             height: 32px;
+            position: relative;
         }
 
         .audio-visualizer .bar {
@@ -368,12 +369,27 @@
             }
         }
 
+        .audio-visualizer .bar {
+            background: linear-gradient(45deg, #DC143C, #FF4500, #FF6B35);
+            box-shadow: 0 0 10px rgba(220, 20, 60, 0.6), 0 0 20px rgba(255, 69, 0, 0.4);
+        }
+
         .audio-visualizer.muted .bar {
-            animation: none;
-            transform: scaleY(0.2);
-            opacity: 0.3;
-            background: #666;
-            filter: none;
+            background: linear-gradient(45deg, #DC143C, #FF4500, #FF6B35);
+            box-shadow: 0 0 10px rgba(220, 20, 60, 0.6), 0 0 20px rgba(255, 69, 0, 0.4);
+        }
+
+        .audio-visualizer.muted::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 40px;
+            height: 2px;
+            background: linear-gradient(45deg, #DC143C, #FF4500);
+            transform: translate(-50%, -50%) rotate(45deg);
+            box-shadow: 0 0 8px rgba(220, 20, 60, 0.8);
+            z-index: 10;
         }
 
         /* Gold Shine Animation */
@@ -1221,7 +1237,7 @@
             transform: scale(1.05);
         }
 
-        @media (max-width: 768px) {
+        @media (max-width: 1024px) {
             .game-card:hover .game-cover {
                 transform: none;
             }
@@ -2315,7 +2331,7 @@
             z-index: 20;
         }
 
-        @media (max-width: 768px) {
+        @media (max-width: 1024px) {
             .comparison-navigation .nav-arrow {
                 display: none !important;
             }
@@ -2837,7 +2853,7 @@
             }
         }
 
-        @media (max-width: 768px) {
+        @media (max-width: 1024px) {
             body::before {
                 content: '';
                 position: fixed;
@@ -3218,7 +3234,7 @@
             margin-right: -5rem !important;
         }
 
-        @media (max-width: 768px) {
+        @media (max-width: 1024px) {
             .social-content {
                 margin-left: 0 !important;
                 margin-right: 0 !important;
@@ -4022,13 +4038,40 @@
             const visualizer = document.getElementById('audioVisualizer');
 
             if (isMuted) {
-                audio.muted = false;
+                // Fade in
                 visualizer.classList.remove('muted');
                 isMuted = false;
+                
+                // Gradually increase volume
+                let vol = 0;
+                const fadeIn = setInterval(() => {
+                    if (vol < 0.2) {
+                        vol += 0.01;
+                        audio.volume = vol;
+                    } else {
+                        audio.volume = 0.2;
+                        clearInterval(fadeIn);
+                    }
+                }, 50);
+                
+                audio.muted = false;
             } else {
-                audio.muted = true;
+                // Fade out
                 visualizer.classList.add('muted');
                 isMuted = true;
+                
+                // Gradually decrease volume
+                let vol = audio.volume;
+                const fadeOut = setInterval(() => {
+                    if (vol > 0) {
+                        vol -= 0.01;
+                        audio.volume = vol;
+                    } else {
+                        audio.volume = 0;
+                        audio.muted = true;
+                        clearInterval(fadeOut);
+                    }
+                }, 50);
             }
         }
 
@@ -5385,13 +5428,14 @@
         // Initialize music
         function initializeMusic() {
             const audio = document.getElementById('backgroundMusic');
-            audio.volume = 0.2;
+            audio.volume = 0;
 
             function attemptAutoPlay() {
                 const playPromise = audio.play();
                 if (playPromise !== undefined) {
                     playPromise.then(() => {
                         console.log('Demon World is now playing!');
+                        fadeInMusic();
                     }).catch((error) => {
                         console.log('Auto-play blocked, will try on user interaction');
                         setupUserInteractionFallback();
@@ -5399,10 +5443,24 @@
                 }
             }
 
+            function fadeInMusic() {
+                let vol = 0;
+                const fadeIn = setInterval(() => {
+                    if (vol < 0.2) {
+                        vol += 0.01;
+                        audio.volume = vol;
+                    } else {
+                        audio.volume = 0.2;
+                        clearInterval(fadeIn);
+                    }
+                }, 50);
+            }
+
             function setupUserInteractionFallback() {
                 const startMusic = () => {
                     audio.play().then(() => {
                         console.log('Music started after user interaction');
+                        fadeInMusic();
                         document.removeEventListener('click', startMusic);
                         document.removeEventListener('keydown', startMusic);
                         document.removeEventListener('touchstart', startMusic);
