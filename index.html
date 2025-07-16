@@ -2408,9 +2408,7 @@
     transition: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    min-height: 100vh;
-    padding-top: 100px;
+    padding-top: 200px;
 }
 
         body.arabic-mode .faq-content {
@@ -3201,21 +3199,16 @@
         }
 
 @media (min-width: 1900px) and (max-width: 1940px) {
-    body {
-        transform: scale(0.75);
-        transform-origin: top left;
-        width: 133.33vw;
-        height: 133.33vh;
-        overflow-x: hidden;
-    }
-
-    /* For RTL languages like Arabic */
-    body:dir(rtl) {
-        transform-origin: top right;
-    }
-
     html {
         overflow-x: hidden;
+    }
+    
+    body {
+        overflow-y: auto;
+        overflow-x: hidden;
+        height: auto;
+        min-height: 100vh;
+        zoom: 0.75;
     }
 }
 
@@ -3297,6 +3290,24 @@
         .backloggd-card:hover {
             border-color: #FF6B35;
             box-shadow: 0 10px 20px rgba(255, 107, 53, 0.3);
+        }
+
+        /* 4K Display (3840x2160) Simple Zoom */
+        @media (min-width: 3840px) {
+            body {
+                zoom: 1.5;
+                overflow-y: hidden;
+            }
+        }
+
+
+        /* Allow scrolling only on 2K resolution */
+        @media (min-width: 2560px) and (max-width: 2560px) {
+            body {
+                overflow-y: auto;
+                height: auto;
+                min-height: 100vh;
+            }
         }
     </style>
 </head>
@@ -3896,7 +3907,7 @@
     <!-- Social Content -->
     <div id="social-section" class="content-section">
         <div class="social-content"
-            style="max-width: 1200px; margin: 0; margin-left: -5rem; padding: 2rem; position: relative; z-index: 2; transition: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55); display: flex; flex-direction: column; justify-content: center; min-height: 100vh;">
+            style="max-width: 1200px; margin: 0; margin-left: -5rem; padding: 2rem; position: relative; z-index: 2; transition: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55); display: flex; flex-direction: column; padding-top: 200px;">
 
             <h2 class="section-title"
                 style="font-family: 'Orbitron', monospace; font-size: 2.8rem; font-weight: 600; color: #4682b4; text-shadow: 0 0 15px rgba(70, 130, 180, 0.6); margin-bottom: 3rem; text-align: center; letter-spacing: 1px; animation: sectionTitleBounce 0.8s ease-out;"
