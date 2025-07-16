@@ -1067,13 +1067,13 @@
 
         .search-container {
             max-width: 475px;
-            margin: 2rem 0 3rem 300px;
+            margin: 0 0 3rem 300px;
             position: relative;
             animation: fadeInUp 1s ease-out 0.5s both;
         }
 
         body.arabic-mode .search-container {
-            margin: 2rem 300px 3rem 0;
+            margin: 0 300px 3rem 0;
         }
 
 
@@ -1653,23 +1653,6 @@
 
         .feature-card:hover .feature-text {
             color: #e0e0e0;
-        }
-
-        /* Social cards 1:1 aspect ratio */
-        .social-card {
-            aspect-ratio: 1;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-        }
-
-        .social-cards {
-            display: grid !important;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 280px)) !important;
-            gap: 2rem !important;
-            animation: fadeInUp 1s ease-out 0.5s both !important;
-            justify-content: center !important;
         }
 
         /* Screenshots Content - Updated to single section with badge navigation */
@@ -2775,6 +2758,11 @@
             font-family: 'Cairo', sans-serif;
         }
 
+        body.arabic-mode .mobile-menu-btn {
+            right: auto;
+            left: 1rem;
+        }
+
         /* Responsive design */
         @media (max-width: 1024px) {
             .main-content {
@@ -3194,26 +3182,66 @@
             }
         }
 
+        @media (min-width: 1900px) and (max-width: 1940px) {
+            body {
+                transform: scale(0.75);
+                transform-origin: top left;
+                width: 133.33vw;
+                height: 133.33vh;
+                overflow-x: hidden;
+            }
+
+            html {
+                overflow-x: hidden;
+            }
+        }
+
+        /* 4K (3840x2160) - Scale up 1.5x */
+        @media (min-width: 3820px) and (max-width: 3860px) {
+            body {
+                transform: scale(1.5);
+                transform-origin: top left;
+                width: 66.67vw;
+                height: 66.67vh;
+            }
+
+            html {
+                overflow-x: hidden;
+            }
+        }
+
+        /* 1366x768 (Common Laptop) - Scale down 0.53x */
+        @media (min-width: 1350px) and (max-width: 1380px) and (min-height: 750px) and (max-height: 780px) {
+            body {
+                transform: scale(0.53);
+                transform-origin: top left;
+                width: 188.7vw;
+                height: 188.7vh;
+                overflow-x: hidden;
+            }
+
+            html {
+                overflow-x: hidden;
+            }
+        }
+
+        /* Ultrawide 3440x1440 - Adjust content width */
+        @media (min-width: 3420px) and (max-width: 3460px) and (min-height: 1420px) and (max-height: 1460px) {
+
+            .main-content,
+            .games-content,
+            .guide-content,
+            .screenshots-content,
+            .faq-content {
+                max-width: 1400px;
+                margin: 0 auto;
+            }
+        }
+
 
         body.arabic-mode .social-content {
             direction: rtl;
-            margin-left: 0 !important;
-            margin-right: -5rem !important;
         }
-
-        @media (max-width: 768px) {
-            .social-content {
-                margin-left: 0 !important;
-                margin-right: 0 !important;
-            }
-
-            body.arabic-mode .social-content {
-                margin-left: 0 !important;
-                margin-right: 0 !important;
-            }
-        }
-
-
 
         body.arabic-mode .social-title,
         body.arabic-mode .social-description {
@@ -3872,7 +3900,7 @@
     <!-- Social Content -->
     <div id="social-section" class="content-section">
         <div class="social-content"
-            style="max-width: 1200px; margin: 0; margin-left: -5rem; padding: 2rem; position: relative; z-index: 2; transition: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55); display: flex; flex-direction: column; justify-content: center; min-height: 100vh;">
+            style="max-width: 1200px; margin: 0; padding: 2rem; position: relative; z-index: 2; transition: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55); display: flex; flex-direction: column; justify-content: center; min-height: 100vh;">
 
             <h2 class="section-title"
                 style="font-family: 'Orbitron', monospace; font-size: 2.8rem; font-weight: 600; color: #4682b4; text-shadow: 0 0 15px rgba(70, 130, 180, 0.6); margin-bottom: 3rem; text-align: center; letter-spacing: 1px; animation: sectionTitleBounce 0.8s ease-out;"
@@ -3884,7 +3912,7 @@
                 <!-- Discord Card -->
                 <div class="social-card discord-card" onclick="window.open('https://discord.gg/fbTagp4fQV', '_blank')"
                     style="background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5)); border: 2px solid rgba(70, 130, 180, 0.4); border-radius: 15px; padding: 2rem; text-align: center; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;">
-<div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #5865F2;">💬</div>
+                    <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #5865F2;">💬</div>
                     <div class="social-title"
                         style="font-family: 'Orbitron', monospace; font-size: 1.4rem; font-weight: 600; color: #e0e0e0; margin-bottom: 0.5rem;"
                         data-en="Discord" data-ar="ديسكورد">Discord</div>
@@ -3934,9 +3962,9 @@
                     <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #FF6B35;">📚</div>
                     <div class="social-title"
                         style="font-family: 'Orbitron', monospace; font-size: 1.4rem; font-weight: 600; color: #e0e0e0; margin-bottom: 0.5rem;"
-                        data-en="Backloggd" data-ar="مسيرتي في عالم الألعاب">Backloggd</div>
-                    <div class="social-description" style="font-size: 0.9rem; color: #ccc; line-height: 1.5;" data-en=""
-                        data-ar="">Track my gaming progress</div>
+                        data-en="Backloggd" data-ar="مسيرتي المتواضعة في عالم الألعاب">Backloggd</div>
+                    <div class="social-description" style="font-size: 0.9rem; color: #ccc; line-height: 1.5;"
+                        data-en="My Humble Gaming Career" data-ar="">Track my gaming progress</div>
                 </div>
 
             </div>
