@@ -2948,7 +2948,7 @@
                 grid-template-rows: repeat(7, 150px);
                 margin: 0 auto;
                 justify-content: center;
-                min-height: 1100px;
+                min-height: 1050px;
             }
 
             body.arabic-mode .games-grid {
@@ -3181,7 +3181,9 @@
 
             .games-grid {
                 grid-template-columns: repeat(2, 120px);
+                grid-template-rows: repeat(7, 120px);
                 margin-left: 0.5rem;
+                min-height: 840px;
             }
 
             body.arabic-mode .games-grid {
@@ -3518,9 +3520,22 @@
 
         /* Mobile adjustments */
         @media (max-width: 768px) {
+            .game-page-overlay {
+                padding: 0.5rem;
+                padding-top: 1rem;
+                justify-content: center;
+                align-items: flex-start;
+            }
+            
             .game-page-cover {
                 width: clamp(180px, 50vw, 220px);
                 height: clamp(180px, 50vw, 220px);
+                margin-bottom: 1rem;
+            }
+            
+            .game-page-content {
+                margin-top: 1rem;
+                width: 95%;
             }
             
             .game-details-grid {
