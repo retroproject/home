@@ -1072,6 +1072,194 @@
             animation: fadeInUp 1s ease-out 0.5s both;
         }
 
+        /* Search input wrapper for inline chips */
+        .search-input-wrapper {
+            position: relative;
+            display: flex;
+            align-items: center;
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.2), rgba(30, 30, 30, 0.2));
+            border: 2px solid rgba(220, 20, 60, 0.4);
+            border-radius: 15px;
+            padding: 0.8rem 1.5rem;
+            gap: 0.5rem;
+            transition: all 0.3s ease;
+            backdrop-filter: none;
+            overflow: hidden;
+        }
+
+        .search-input-wrapper:focus-within {
+            border-color: rgba(220, 20, 60, 0.8);
+            box-shadow: 0 0 20px rgba(220, 20, 60, 0.3);
+            transform: translateY(-2px);
+        }
+
+        /* Filter chips container - now inline */
+        .filter-chips {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.3rem;
+            min-height: 0;
+        }
+
+        /* Individual filter chip - inline style */
+        .filter-chip {
+            background: linear-gradient(135deg, #ff6b35, #f7931e);
+            color: white;
+            padding: 0.2rem 0.6rem;
+            border-radius: 12px;
+            font-size: 0.75rem;
+            font-family: 'Orbitron', monospace;
+            display: flex;
+            align-items: center;
+            gap: 0.3rem;
+            animation: fadeInScale 0.3s ease;
+            white-space: nowrap;
+            flex-shrink: 0;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .filter-chip:hover {
+            transform: scale(1.05);
+            opacity: 0.8;
+        }
+
+        /* Special container for Special Trailers layout */
+        .special-trailers-container {
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .special-trailers-container:hover {
+            transform: scale(1.05);
+        }
+
+        /* Gold Special chip */
+        .filter-chip.special-chip {
+            background: linear-gradient(135deg, #f1c40f, #f39c12);
+            color: #2c3e50;
+            font-weight: bold;
+            box-shadow: 0 2px 8px rgba(241, 196, 15, 0.3);
+        }
+
+        .filter-chip.special-chip:hover {
+            background: linear-gradient(135deg, #f39c12, #e67e22);
+        }
+
+        /* Trailers text */
+        .trailers-text {
+            color: #e74c3c;
+            font-family: 'Orbitron', monospace;
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-shadow: 0 1px 2px rgba(231, 76, 60, 0.3);
+        }
+
+        body.arabic-mode .trailers-text {
+            font-family: 'Cairo', sans-serif;
+        }
+
+        /* Dropdown item spacing for special trailers */
+        .dropdown-item .dropdown-special-chip {
+            margin-right: 0.4rem;
+        }
+
+        .dropdown-special-chip {
+            background: linear-gradient(135deg, #f1c40f, #f39c12);
+            color: #2c3e50;
+            padding: 0.15rem 0.4rem;
+            border-radius: 8px;
+            font-size: 0.65rem;
+            font-weight: bold;
+            font-family: 'Orbitron', monospace;
+        }
+
+        .dropdown-trailers-text {
+            color: white;
+            font-family: 'Orbitron', monospace;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+
+        body.arabic-mode .dropdown-special-chip {
+            font-family: 'Cairo', sans-serif;
+        }
+
+        body.arabic-mode .dropdown-trailers-text {
+            font-family: 'Cairo', sans-serif;
+        }
+
+
+        /* Search dropdown */
+        .search-dropdown {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            background: rgba(13, 13, 13, 0.2);
+            border: 1px solid #ff6b35;
+            border-radius: 10px;
+            max-height: 300px;
+            overflow-y: auto;
+            z-index: 1000;
+            display: none;
+            margin-top: 5px;
+        }
+
+        .search-dropdown.show {
+            display: block;
+            animation: fadeInUp 0.2s ease;
+        }
+
+        .dropdown-item {
+            padding: 0.7rem 1rem;
+            cursor: pointer;
+            border-bottom: 1px solid rgba(255, 107, 53, 0.1);
+            color: #ccc;
+            font-family: 'Orbitron', monospace;
+            display: flex;
+            align-items: center;
+            gap: 0.7rem;
+            transition: all 0.2s ease;
+        }
+
+        .dropdown-item:hover {
+            background: rgba(255, 107, 53, 0.1);
+            color: #ff6b35;
+        }
+
+        .dropdown-item:last-child {
+            border-bottom: none;
+        }
+
+        .dropdown-item .item-icon {
+            font-size: 1rem;
+            opacity: 0.7;
+        }
+
+        .dropdown-item .item-type {
+            font-size: 0.7rem;
+            color: #ff6b35;
+            background: rgba(255, 107, 53, 0.1);
+            padding: 0.2rem 0.4rem;
+            border-radius: 8px;
+            margin-left: auto;
+        }
+
+        @keyframes fadeInScale {
+            from {
+                opacity: 0;
+                transform: scale(0.8);
+            }
+            to {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+
         body.arabic-mode .search-container {
             margin: 2rem 300px 3rem 0;
         }
@@ -1079,26 +1267,63 @@
 
 
         .search-box {
-            width: 100%;
-            padding: 1.2rem 1.5rem;
-            padding-right: 3.5rem;
-            background: linear-gradient(145deg, rgba(15, 15, 15, 0.4), rgba(30, 30, 30, 0.4));
-            border: 2px solid rgba(220, 20, 60, 0.4);
-            border-radius: 15px;
+            flex: 1;
+            padding: 0.4rem 0.5rem;
+            background: transparent;
+            border: none;
             color: #e0e0e0;
             font-family: 'Orbitron', monospace;
             font-size: 1rem;
             font-weight: 600;
-            backdrop-filter: none;
-            transition: all 0.3s ease;
-            outline: none;
+            outline: none !important;
+            border: none !important;
+            box-shadow: none !important;
+            min-width: 200px;
+            text-align: center;
+        }
+
+        .search-box:focus {
+            text-align: left;
+            outline: none !important;
+            border: none !important;
+            box-shadow: none !important;
+        }
+
+        .search-box:focus::placeholder {
+            color: transparent;
+        }
+
+        .search-box:active {
+            outline: none !important;
+            border: none !important;
+            box-shadow: none !important;
         }
 
         body.arabic-mode .search-box {
             font-family: 'Cairo', sans-serif;
-            padding-right: 1.5rem;
-            padding-left: 3.5rem;
-            text-align: right;
+            text-align: center;
+            outline: none !important;
+            border: none !important;
+            box-shadow: none !important;
+            direction: ltr;
+        }
+
+        body.arabic-mode .search-box:focus {
+            text-align: left;
+            outline: none !important;
+            border: none !important;
+            box-shadow: none !important;
+            direction: ltr;
+        }
+
+        body.arabic-mode .search-box:focus::placeholder {
+            color: transparent;
+        }
+
+        body.arabic-mode .search-box:active {
+            outline: none !important;
+            border: none !important;
+            box-shadow: none !important;
         }
 
         .search-box::placeholder {
@@ -1112,19 +1337,36 @@
             transform: translateY(-2px);
         }
 
-        .search-icon {
-            position: absolute;
-            right: 1.5rem;
-            top: 50%;
-            transform: translateY(-50%);
-            color: #ff6b35;
-            font-size: 1.2rem;
-            pointer-events: none;
+
+        body.arabic-mode .search-input-wrapper {
+            flex-direction: row;
+            direction: ltr;
         }
 
-        body.arabic-mode .search-icon {
-            right: auto;
-            left: 1.5rem;
+        /* Fix Arabic dropdown to use LTR for search */
+        body.arabic-mode .search-dropdown {
+            direction: ltr;
+        }
+
+        body.arabic-mode .dropdown-item {
+            flex-direction: row;
+            direction: ltr;
+        }
+
+        /* Fix Arabic active filter chip to use LTR */
+        body.arabic-mode .filter-chips {
+            direction: ltr;
+        }
+
+        /* Ensure chips don't have any outline effects */
+        .filter-chips {
+            outline: none;
+            border: none;
+        }
+
+        .filter-chip {
+            outline: none;
+            border: none;
         }
 
         /* Games Grid - Updated for 5x3 layout */
@@ -3436,6 +3678,7 @@
             pointer-events: none;
         }
 
+
         /* Video overlay container - ONLY for gamePageCover */
         #gamePageCover + .video-overlay {
             position: absolute;
@@ -4008,10 +4251,13 @@
     <div id="games-section" class="content-section">
         <div class="games-content">
             <div class="search-container">
-                <input type="text" class="search-box" placeholder="Search games..." id="gameSearch"
-                    oninput="searchGames()" data-placeholder-en="Search games..."
-                    data-placeholder-ar="ابحث عن الألعاب...">
-                <div class="search-icon">🔍</div>
+                <div class="search-input-wrapper">
+                    <div class="filter-chips" id="filterChips"></div>
+                    <input type="text" class="search-box" placeholder="Search games..." id="gameSearch"
+                        oninput="handleSearchInput()" onfocus="showSearchDropdown()" onblur="hideSearchDropdown()"
+                        data-placeholder-en="Search games..." data-placeholder-ar="ابحث عن الألعاب...">
+                </div>
+                <div class="search-dropdown" id="searchDropdown"></div>
             </div>
 
             <div class="games-grid" id="gamesGrid">
@@ -5026,6 +5272,10 @@
         let currentExample = 0;
         let currentLightboxIndex = 0;
 
+        // Search and filter functionality
+        let activeFilters = [];
+        let searchDropdownTimeout = null;
+
         // Program UI screenshots data
         const programScreenshots = [
             'https://imgur.com/L3FTCSl.jpg',
@@ -5892,12 +6142,240 @@
             return 0; // No match
         }
 
+        // Filter and search functionality
+        function handleSearchInput() {
+            const searchTerm = document.getElementById('gameSearch').value.toLowerCase().trim();
+            updateSearchDropdown(searchTerm);
+            performSearch();
+        }
+
+        function updateSearchDropdown(searchTerm) {
+            const dropdown = document.getElementById('searchDropdown');
+            
+            let suggestions;
+            
+            if (searchTerm.length === 0) {
+                // Show Trailers by default when search is empty
+                if (!activeFilters.some(f => f.type === 'trailers')) {
+                    suggestions = [{
+                        type: 'trailers',
+                        value: 'hasVideo',
+                        display: 'Special Trailers',
+                        icon: '🔖'
+                    }];
+                } else {
+                    dropdown.classList.remove('show');
+                    return;
+                }
+            } else {
+                suggestions = generateSuggestions(searchTerm);
+                
+                if (suggestions.length === 0) {
+                    dropdown.classList.remove('show');
+                    return;
+                }
+            }
+
+            dropdown.innerHTML = suggestions.map(suggestion => {
+                if (suggestion.type === 'trailers') {
+                    return `
+                        <div class="dropdown-item" onclick="applySuggestion('${suggestion.type}', '${suggestion.value}', '${suggestion.display}')">
+                            <span class="item-icon">${suggestion.icon}</span>
+                            <span class="dropdown-special-chip">Special</span>
+                            <span class="dropdown-trailers-text">Trailers</span>
+                        </div>
+                    `;
+                } else {
+                    return `
+                        <div class="dropdown-item" onclick="applySuggestion('${suggestion.type}', '${suggestion.value}', '${suggestion.display}')">
+                            <span class="item-icon">${suggestion.icon}</span>
+                            <span>${suggestion.display}</span>
+                            <span class="item-type">${suggestion.type}</span>
+                        </div>
+                    `;
+                }
+            }).join('');
+            
+            dropdown.classList.add('show');
+        }
+
+        function generateSuggestions(searchTerm) {
+            const suggestions = [];
+            
+            // Get unique values from games data
+            const genres = [...new Set(allGameData.flatMap(game => 
+                game.genre ? [game.genre] : []
+            ))];
+            const platforms = [...new Set(allGameData.flatMap(game => 
+                game.platform ? [game.platform] : []
+            ))];
+            const developers = [...new Set(allGameData.flatMap(game => 
+                game.developer ? [game.developer] : []
+            ))];
+
+            // Genre suggestions
+            genres.forEach(genre => {
+                if (genre.toLowerCase().includes(searchTerm) && !activeFilters.some(f => f.type === 'genre' && f.value === genre)) {
+                    suggestions.push({
+                        type: 'genre',
+                        value: genre,
+                        display: genre,
+                        icon: '🎮'
+                    });
+                }
+            });
+
+            // Platform suggestions  
+            platforms.forEach(platform => {
+                if (platform.toLowerCase().includes(searchTerm) && !activeFilters.some(f => f.type === 'platform' && f.value === platform)) {
+                    suggestions.push({
+                        type: 'platform',
+                        value: platform,
+                        display: platform,
+                        icon: '🖥️'
+                    });
+                }
+            });
+
+            // Developer suggestions
+            developers.forEach(developer => {
+                if (developer.toLowerCase().includes(searchTerm) && !activeFilters.some(f => f.type === 'developer' && f.value === developer)) {
+                    suggestions.push({
+                        type: 'developer',
+                        value: developer,
+                        display: developer,
+                        icon: '👥'
+                    });
+                }
+            });
+
+            // Trailers suggestion (for games with YouTube videos)
+            if ('trailers'.includes(searchTerm) && !activeFilters.some(f => f.type === 'trailers')) {
+                suggestions.push({
+                    type: 'trailers',
+                    value: 'hasVideo',
+                    display: 'Special Trailers',
+                    icon: '🔖'
+                });
+            }
+
+            return suggestions.slice(0, 6); // Limit suggestions
+        }
+
+        function applySuggestion(type, value, display) {
+            // Add filter chip
+            activeFilters.push({ type, value, display });
+            updateFilterChips();
+            
+            // Clear search input
+            document.getElementById('gameSearch').value = '';
+            document.getElementById('searchDropdown').classList.remove('show');
+            
+            // Perform search with filters
+            performSearch();
+        }
+
+        function updateFilterChips() {
+            const container = document.getElementById('filterChips');
+            container.innerHTML = activeFilters.map((filter, index) => {
+                if (filter.type === 'trailers') {
+                    return `
+                        <div class="filter-chip special-chip" onclick="removeFilter(${index})">
+                            <span>Trailers</span>
+                        </div>
+                    `;
+                } else {
+                    return `
+                        <div class="filter-chip" onclick="removeFilter(${index})">
+                            <span>${filter.display}</span>
+                        </div>
+                    `;
+                }
+            }).join('');
+        }
+
+        function removeFilter(index) {
+            activeFilters.splice(index, 1);
+            updateFilterChips();
+            performSearch();
+        }
+
+        function showSearchDropdown() {
+            // Clear any existing timeout
+            clearTimeout(searchDropdownTimeout);
+            // Show Trailers suggestion when clicking in empty search bar
+            const searchTerm = document.getElementById('gameSearch').value.toLowerCase().trim();
+            updateSearchDropdown(searchTerm);
+        }
+
+        function hideSearchDropdown() {
+            // Delay hiding to allow clicks
+            searchDropdownTimeout = setTimeout(() => {
+                document.getElementById('searchDropdown').classList.remove('show');
+            }, 200);
+        }
+
+        function performSearch() {
+            const searchTerm = document.getElementById('gameSearch').value.toLowerCase().trim();
+            console.log('Performing search with term:', searchTerm, 'Data available:', allGameData.length);
+            
+            let filtered = [...allGameData];
+
+            // Apply active filters
+            activeFilters.forEach(filter => {
+                filtered = filtered.filter(game => {
+                    switch(filter.type) {
+                        case 'genre':
+                            return game.genre && game.genre.toLowerCase() === filter.value.toLowerCase();
+                        case 'platform':
+                            return game.platform && game.platform.toLowerCase() === filter.value.toLowerCase();
+                        case 'developer':
+                            return game.developer && game.developer.toLowerCase() === filter.value.toLowerCase();
+                        case 'trailers':
+                            return game.youtubeUrl && game.youtubeUrl.trim() !== '';
+                        default:
+                            return true;
+                    }
+                });
+            });
+
+            // Apply text search with relevance scoring
+            if (searchTerm) {
+                filtered = filtered.filter(game => 
+                    fuzzyMatch(searchTerm, game.name.toLowerCase()) > 0
+                ).sort((a, b) => {
+                    const aScore = fuzzyMatch(searchTerm, a.name.toLowerCase());
+                    const bScore = fuzzyMatch(searchTerm, b.name.toLowerCase());
+                    return bScore - aScore; // Sort by relevance (highest score first)
+                });
+            } else {
+                // Sort alphabetically by sortingName when no search term (filters only)
+                filtered.sort((a, b) => (a.sortingName || a.name).localeCompare(b.sortingName || b.name));
+            }
+
+            // Convert back to allGames format for display
+            const gamesForDisplay = filtered.map(game => ({
+                name: game.name,
+                cover: game.cover,
+                sortingName: game.sortingName || game.name,
+                searchName: game.name.toLowerCase()
+            }));
+            
+            // Update global variables
+            filteredGames = gamesForDisplay;
+            isSearching = searchTerm !== '' || activeFilters.length > 0;
+            currentPage = 1;
+            updatePagination();
+            displayCurrentPage();
+            console.log('Updated filteredGames:', filteredGames.length, 'games');
+        }
+
         // Search functionality with fuzzy search
         function searchGames() {
             const searchTerm = document.getElementById('gameSearch').value.toLowerCase().trim();
 
             if (searchTerm === '') {
-                filteredGames = [...allGames];
+                filteredGames = [...allGames].sort((a, b) => (a.sortingName || a.name).localeCompare(b.sortingName || b.name));
                 isSearching = false;
             } else {
                 isSearching = true;
@@ -6327,7 +6805,7 @@ allGameData = retroData.map(game => ({
     youtubeUrl: game.YouTubeUrl || "",
     videoStart: game.videoStart || null,
     videoEnd: game.videoEnd || null
-}));
+})).sort((a, b) => a.sortingName.localeCompare(b.sortingName));
 // Debug: Check if YouTube URLs are being loaded
 console.log('Sample game with YouTube URL:', allGameData.find(game => game.youtubeUrl));
                 
@@ -6971,6 +7449,9 @@ async function playGameCoverTrailer(gameName) {
         videoOverlay.className = 'video-overlay';
         videoOverlay.innerHTML = `<div id="youtube-player"></div>`;
         
+        // Add double-click to toggle fullscreen
+        videoOverlay.addEventListener('dblclick', toggleVideoFullscreen);
+        
         // Insert after gamePageCover
         cover.parentNode.insertBefore(videoOverlay, cover.nextSibling);
         
@@ -7141,10 +7622,21 @@ function handleVideoKeyboard(e) {
             youtubePlayer.seekTo(Math.min(maxTime, currentTimeRight + 5), true);
             break;
             
+        case 'f':
+        case 'F':
+            e.preventDefault();
+            // Toggle fullscreen
+            toggleVideoFullscreen();
+            break;
+            
         case 'Escape':
             e.preventDefault();
-            // Close video
-            closeVideoTrailer();
+            // Exit fullscreen first, then close video if not in fullscreen
+            if (document.fullscreenElement) {
+                document.exitFullscreen();
+            } else {
+                closeVideoTrailer();
+            }
             break;
     }
 }
@@ -7271,6 +7763,23 @@ function closeVideoTrailer() {
             }
         }
 
+        // Function to toggle native browser fullscreen
+        function toggleVideoFullscreen() {
+            const videoOverlay = document.querySelector('#gamePageCover + .video-overlay');
+            if (!videoOverlay) return;
+
+            if (!document.fullscreenElement) {
+                // Enter fullscreen
+                videoOverlay.requestFullscreen().catch(err => {
+                    console.log('Error attempting to enable fullscreen:', err);
+                });
+            } else {
+                // Exit fullscreen
+                document.exitFullscreen().catch(err => {
+                    console.log('Error attempting to exit fullscreen:', err);
+                });
+            }
+        }
 
         // Function to extract YouTube video ID from URL
 function extractYouTubeVideoId(url) {
