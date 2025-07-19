@@ -3379,6 +3379,7 @@
             margin-bottom: 2rem;
             border: 3px solid rgba(255, 107, 53, 0.6);
             transition: box-shadow 0.3s ease;
+            cursor: pointer;
         }
 
         .game-page-cover.ffx-glow {
@@ -3392,6 +3393,8 @@
             font-weight: 700;
             color: #fff;
             margin-bottom: 1.5rem;
+            margin-top: 0;
+            text-align: center;
             text-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
         }
 
@@ -3412,9 +3415,11 @@
 
         .story-content, .release-content, .rating-content {
             color: #fff;
-            line-height: 1.6;
+            line-height: 1.8;
             text-align: center;
-            font-size: 1rem;
+            font-size: 1.1rem;
+            font-weight: 300;
+            letter-spacing: 0.5px;
         }
 
         .game-details-grid {
@@ -3426,9 +3431,9 @@
 
         .game-detail {
             display: flex;
-            justify-content: space-between;
             align-items: center;
             padding: 0.5rem 0;
+            gap: 0.5rem;
         }
 
         .detail-label {
@@ -4465,9 +4470,8 @@
     <div id="gamePageOverlay" class="game-page-overlay" onclick="closeGamePage(event)">
         <div class="game-page-content">
             <img id="gamePageCover" class="game-page-cover" src="" alt="">
-            <h1 id="gamePageTitle" class="game-page-title"></h1>
-            
             <div class="game-info-container">
+                <h1 id="gamePageTitle" class="game-page-title"></h1>
                 <div class="game-story">
                     <div class="story-label">Story:</div>
                     <div id="gameStory" class="story-content">Loading game information...</div>
@@ -5525,30 +5529,11 @@
             updateSlider(newSlider.getBoundingClientRect().left + newSlider.getBoundingClientRect().width / 2);
         }
 
-        // Load game covers from external txt file
+        // Disabled game covers loading for testing
         async function loadGameCovers() {
-            try {
-                const response = await fetch('https://archive.org/download/gamecovers/archive%20gamecovers.txt');
-                const text = await response.text();
-
-                // Split by lines and filter out empty lines
-                gameCovers = text.split('\n')
-                    .map(line => line.trim())
-                    .filter(line => line.length > 0 && line.startsWith('https://'));
-
-                console.log(`Loaded ${gameCovers.length} game covers`);
-
-                // Process the games after loading
-                allGames = gameCovers.map(createGameObject).sort((a, b) => a.name.localeCompare(b.name));
-                filteredGames = [...allGames];
-                updatePagination();
-                displayCurrentPage();
-
-            } catch (error) {
-                console.log('Could not load game covers, using placeholder games');
-                // Fallback to placeholder games for demo
-                createPlaceholderGames();
-            }
+            console.log('Game covers loading disabled - using placeholder games only');
+            // Skip external loading, use placeholder only
+            createPlaceholderGames();
         }
 
         // Create placeholder games for demo
@@ -5639,7 +5624,7 @@
 
             // Start with all cards hidden
             const newHTML = currentPageGames.map((game, index) => `
-        <div class="game-card" style="opacity: 0;" onclick="openGamePage('${game.name}', '${game.cover}', this)">
+        <div class="game-card" style="opacity: 0;" onclick="openGamePage('${game.name.replace(/'/g, "\\'")}', '${game.cover}', this)">
             <img class="game-cover" 
                  src="${game.cover}" 
                  alt="${game.name}" 
@@ -6088,7 +6073,7 @@
             animateCards();
             setupTierCards();
             initializeMusic();
-            loadGameCovers();
+            loadGameData();
             updateLanguageContent();
 
             // Fade in page after everything is loaded
@@ -6137,8 +6122,6 @@
         let gamePageAudio = null;
         let originalAudio = null;
         let originalVolume = 0.5;
-        let gameBackgrounds = [];
-        let gameMusic = [];
 
         // Enhanced game information database
         const gameInfo = {
@@ -6177,114 +6160,77 @@
             }
         };
 
-        // Load game backgrounds from archive.org
-        async function loadGameBackgrounds() {
-            try {
-                const response = await fetch('https://archive.org/download/retroindex/gamebackgrounds.txt');
-                const text = await response.text();
-                gameBackgrounds = text.split('\n').filter(line => line.trim() !== '');
-                console.log(`Loaded ${gameBackgrounds.length} game backgrounds`);
-            } catch (error) {
-                console.log('Could not load game backgrounds:', error);
-                gameBackgrounds = [];
-            }
+
+
+        // Convert CriticScore to 1-5 stars
+        function convertToStars(score) {
+            if (!score || score === 0) return '⭐';
+            if (score <= 20) return '⭐';
+            if (score <= 40) return '⭐⭐';
+            if (score <= 60) return '⭐⭐⭐';
+            if (score <= 80) return '⭐⭐⭐⭐';
+            return '⭐⭐⭐⭐⭐';
         }
 
-        // Load game music from archive.org
-        async function loadGameMusic() {
-            try {
-                const response = await fetch('https://archive.org/download/retroindex/gmusicfame.txt');
-                const text = await response.text();
-                gameMusic = text.split('\n').filter(line => line.trim() !== '');
-                console.log(`Loaded ${gameMusic.length} game music files`);
-            } catch (error) {
-                console.log('Could not load game music:', error);
-                gameMusic = [];
+        // Get first item from array or return empty string
+        function getFirstItem(itemList) {
+            if (Array.isArray(itemList) && itemList.length > 0) {
+                return itemList[0];
             }
+            if (typeof itemList === 'string') {
+                return itemList;
+            }
+            return '';
         }
 
-        // Load game data from JSON file
+        // Load game data from archive.org
         async function loadGameData() {
             try {
-                const response = await fetch('./game_data_export_fixed.json');
-                allGameData = await response.json();
-                console.log(`Loaded ${allGameData.length} game data entries`);
+                console.log('Loading JSON data from archive.org...');
+                const response = await fetch('https://ia903108.us.archive.org/0/items/retroindex/retroindex.json');
+                console.log('Response received:', response.status);
+                const retroData = await response.json();
+                console.log('JSON parsed, sample game:', retroData[0]);
+                
+                // Process the data to match our site's format
+                allGameData = retroData.map(game => ({
+                    name: game.Name || "Unknown Game",
+                    sortingName: game.SortingName || game.Name || "Unknown Game",
+                    cover: game.CoverUrl || "",
+                    background: game.BackgroundUrl || "",
+                    music: game.MusicUrl || "",
+                    story: game.Description || "Story information not available.",
+                    releaseDate: game.ReleaseDate || "Unknown",
+                    platform: getFirstItem(game.PlatformNames) || "Unknown",
+                    genre: getFirstItem(game.GenreNames) || "Unknown", 
+                    developer: getFirstItem(game.DeveloperNames) || "Unknown",
+                    rating: convertToStars(game.CriticScore)
+                }));
+                
+                console.log(`Loaded ${allGameData.length} games from archive.org`);
+                
+                // Also use this data for the game covers display
+                allGames = allGameData.map(game => ({
+                    name: game.name,
+                    cover: game.cover,
+                    sortingName: game.sortingName || game.name,
+                    searchName: game.name.toLowerCase()
+                })).sort((a, b) => a.sortingName.localeCompare(b.sortingName));
+                
+                filteredGames = [...allGames];
+                updatePagination();
+                displayCurrentPage();
+                
             } catch (error) {
-                console.log('Could not load game data, using fallback');
-                // Fallback to hardcoded data
-                allGameData = [
-                    { 
-                        name: "Final Fantasy X", 
-                        cover: "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nqx.jpg",
-                        story: gameInfo['Final Fantasy X']?.story || "Story information not available.",
-                        releaseDate: gameInfo['Final Fantasy X']?.releaseDate || "Unknown",
-                        platform: gameInfo['Final Fantasy X']?.platform || "Unknown",
-                        genre: gameInfo['Final Fantasy X']?.genre || "Unknown",
-                        developer: gameInfo['Final Fantasy X']?.developer || "Unknown",
-                        length: gameInfo['Final Fantasy X']?.length || "Unknown",
-                        rating: gameInfo['Final Fantasy X']?.rating || "Unrated"
-                    }
-                ];
+                console.log('Could not load archive data, using fallback');
+                // Fallback to placeholder games
+                createPlaceholderGames();
             }
         }
 
-        // Extract game name from background URL
-        function extractGameNameFromBackground(url) {
-            const filename = url.split('/').pop();
-            const nameWithoutExtension = filename.replace(/\.(jpg|jpeg|png|gif)$/i, '');
-            return decodeURIComponent(nameWithoutExtension);
-        }
 
-        // Extract game name from music URL
-        function extractGameNameFromMusic(url) {
-            const filename = url.split('/').pop();
-            const nameWithoutExtension = filename.replace(/\.(mp3|wav|ogg)$/i, '');
-            return decodeURIComponent(nameWithoutExtension);
-        }
 
-        // Find background image for a game
-        function findGameBackground(gameName) {
-            if (gameBackgrounds.length === 0) return null;
-            
-            // Try to find exact match first
-            let foundBackground = gameBackgrounds.find(bg => {
-                const bgGameName = extractGameNameFromBackground(bg);
-                return bgGameName.toLowerCase() === gameName.toLowerCase();
-            });
-            
-            // If no exact match, try partial match
-            if (!foundBackground) {
-                foundBackground = gameBackgrounds.find(bg => {
-                    const bgGameName = extractGameNameFromBackground(bg);
-                    return bgGameName.toLowerCase().includes(gameName.toLowerCase()) || 
-                           gameName.toLowerCase().includes(bgGameName.toLowerCase());
-                });
-            }
-            
-            return foundBackground || null;
-        }
 
-        // Find music for a game
-        function findGameMusic(gameName) {
-            if (gameMusic.length === 0) return null;
-            
-            // Try to find exact match first
-            let foundMusic = gameMusic.find(music => {
-                const musicGameName = extractGameNameFromMusic(music);
-                return musicGameName.toLowerCase() === gameName.toLowerCase();
-            });
-            
-            // If no exact match, try partial match
-            if (!foundMusic) {
-                foundMusic = gameMusic.find(music => {
-                    const musicGameName = extractGameNameFromMusic(music);
-                    return musicGameName.toLowerCase().includes(gameName.toLowerCase()) || 
-                           gameName.toLowerCase().includes(musicGameName.toLowerCase());
-                });
-            }
-            
-            return foundMusic || null;
-        }
 
         function normalizeGameName(name) {
             return name.toLowerCase()
@@ -6313,13 +6259,53 @@
             // Find game data from enhanced database
             const normalizedSearchName = normalizeGameName(gameName);
             console.log('Searching for game:', gameName, 'normalized:', normalizedSearchName);
+            console.log('Total games in database:', allGameData ? allGameData.length : 0);
 
             let gameData = null;
             if (allGameData && allGameData.length > 0) {
                 gameData = allGameData.find(game => {
                     const normalizedGameName = normalizeGameName(game.name);
+                    if (game.name.toLowerCase().includes('hack')) {
+                        console.log('*** HACK GAME FOUND ***');
+                        console.log('JSON name:', game.name);
+                        console.log('Search name:', gameName);
+                        console.log('JSON normalized:', normalizedGameName);
+                        console.log('Search normalized:', normalizedSearchName);
+                        console.log('Match:', normalizedGameName === normalizedSearchName);
+                    }
                     return normalizedGameName === normalizedSearchName;
                 });
+                
+                if (!gameData) {
+                    console.log('No exact match found. Trying alternative matching...');
+                    // Try matching with original names (case-insensitive only)
+                    gameData = allGameData.find(game => {
+                        return game.name.toLowerCase() === gameName.toLowerCase();
+                    });
+                    
+                    if (!gameData) {
+                        // Try matching by removing only specific problematic characters
+                        const cleanSearchName = gameName.toLowerCase().replace(/[\.\/]/g, '').replace(/\s+/g, ' ').trim();
+                        gameData = allGameData.find(game => {
+                            const cleanGameName = game.name.toLowerCase().replace(/[\.\/]/g, '').replace(/\s+/g, ' ').trim();
+                            return cleanGameName === cleanSearchName;
+                        });
+                    }
+                    
+                    if (gameData) {
+                        console.log('Found alternative match:', gameData.name);
+                    }
+                }
+                
+                if (gameData) {
+                    console.log('Final game data found:', gameData.name);
+                    console.log('Cover URL:', gameData.cover);
+                    console.log('Background URL:', gameData.background);
+                    console.log('Background exists:', !!gameData.background);
+                    console.log('Background length:', gameData.background ? gameData.background.length : 0);
+                } else {
+                    console.log('No game data found for:', gameName);
+                }
             }
 
             // Get extended info from gameInfo database
@@ -6328,19 +6314,23 @@
             // Check if mobile
             const isMobile = window.innerWidth <= 768;
             
-            // Find background image and music dynamically
-            const dynamicBackground = findGameBackground(gameName);
-            if (dynamicBackground && !isMobile) {
-                info.backgroundImage = dynamicBackground;
+            // Use background from JSON data only
+            if (gameData && gameData.background && !isMobile) {
+                console.log('Using JSON background for', gameName, ':', gameData.background);
+                info.backgroundImage = gameData.background;
+            } else {
+                console.log('No background found in JSON for', gameName);
+                info.backgroundImage = null;
             }
             // On mobile, explicitly prevent background images
             if (isMobile) {
                 info.backgroundImage = null;
             }
             
-            const dynamicMusic = findGameMusic(gameName);
-            if (dynamicMusic) {
-                info.musicUrl = dynamicMusic;
+            // Use music from JSON data
+            if (gameData && gameData.music) {
+                console.log('Using JSON music for', gameName, ':', gameData.music);
+                info.musicUrl = gameData.music;
             }
             
             // Find dynamic music for this game
@@ -6352,6 +6342,8 @@
             cover.src = coverUrl;
             cover.alt = gameName;
             title.textContent = gameName;
+            
+            // Removed click handler - cover should not be clickable
 
             // Check for special game glows
             if (gameName.toLowerCase().includes('final fantasy')) {
@@ -6369,7 +6361,7 @@
 
             // Set game information from enhanced database
             if (gameData) {
-                story.textContent = gameData.story;
+                story.innerHTML = gameData.story;
                 releaseDate.textContent = gameData.releaseDate;
                 platform.textContent = gameData.platform;
                 genre.textContent = gameData.genre;
@@ -6377,7 +6369,7 @@
                 length.textContent = gameData.length;
                 rating.textContent = gameData.rating;
             } else {
-                story.textContent = 'Game information not available in database.';
+                story.innerHTML = 'Game information not available in database.';
                 releaseDate.textContent = 'Unknown';
                 platform.textContent = 'Unknown';
                 genre.textContent = 'Unknown';
@@ -6615,19 +6607,12 @@
                 }
             }
 
-            // Timeout fallback
-            setTimeout(() => {
-                if (!backgroundLoaded || !musicLoaded || !coverLoaded) {
-                    backgroundLoaded = true;
-                    musicLoaded = true;
-                    coverLoaded = true;
-                    checkAllAssetsLoaded();
-                }
-            }, 10000);
+            // Removed timeout fallback - will wait until all assets actually load
 
             // Prevent page scroll
             document.body.style.overflow = 'hidden';
         }
+
 
         function closeGamePage(event) {
             // Only close if clicking on overlay, not content
@@ -6811,10 +6796,10 @@
             initializeMusic();
         });
 
+        // Function to handle FFX cover animation
+
         // Initialize all data on page load
         loadGameData();
-        loadGameBackgrounds();
-        loadGameMusic();
     </script>
 </body>
 
