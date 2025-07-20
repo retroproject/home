@@ -10,16 +10,16 @@
     
     <!-- Open Graph / Discord Embed Meta Tags -->
     <meta property="og:type" content="website">
-    <meta property="og:title" content="                    Retro Project                    ">
-    <meta property="og:description" content="        The ultimate gaming hub combining old games and modern ones in one easy console-like experience.        ">
+    <meta property="og:title" content="Retro Project">
+    <meta property="og:description" content="The ultimate gaming hub combining old games and modern ones in one easy console-like experience.">
     <meta property="og:image" content="https://i.imgur.com/CnaYYTF.png">
     <meta property="og:url" content="https://retroproject.org">
     <meta property="og:site_name" content="Retro Project">
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="                    Retro Project                    ">
-    <meta name="twitter:description" content="        The ultimate gaming hub combining old games and modern ones in one easy console-like experience.        ">
+    <meta name="twitter:title" content="Retro Project">
+    <meta name="twitter:description" content="The ultimate gaming hub combining old games and modern ones in one easy console-like experience.">
     <meta name="twitter:image" content="https://i.imgur.com/CnaYYTF.png">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Orbitron:wght@400;700;900&family=Cairo:wght@400;600;700;900&display=swap');
@@ -1164,6 +1164,46 @@
 
         .filter-chip.special-chip:hover {
             background: linear-gradient(135deg, #f39c12, #e67e22);
+            transform: scale(1.05);
+        }
+
+        /* Purple Genre chip */
+        .filter-chip.genre-chip {
+            background: linear-gradient(135deg, #9b59b6, #8e44ad);
+            color: white;
+            font-weight: bold;
+            box-shadow: 0 2px 8px rgba(155, 89, 182, 0.3);
+        }
+
+        .filter-chip.genre-chip:hover {
+            background: linear-gradient(135deg, #8e44ad, #7d3c98);
+            transform: scale(1.05);
+        }
+
+        /* Blue Platform chip */
+        .filter-chip.platform-chip {
+            background: linear-gradient(135deg, #3498db, #2980b9);
+            color: white;
+            font-weight: bold;
+            box-shadow: 0 2px 8px rgba(52, 152, 219, 0.3);
+        }
+
+        .filter-chip.platform-chip:hover {
+            background: linear-gradient(135deg, #2980b9, #21618c);
+            transform: scale(1.05);
+        }
+
+        /* Green Developer chip */
+        .filter-chip.developer-chip {
+            background: linear-gradient(135deg, #27ae60, #229954);
+            color: white;
+            font-weight: bold;
+            box-shadow: 0 2px 8px rgba(39, 174, 96, 0.3);
+        }
+
+        .filter-chip.developer-chip:hover {
+            background: linear-gradient(135deg, #229954, #1e8449);
+            transform: scale(1.05);
         }
 
         /* Trailers text */
@@ -1206,6 +1246,57 @@
         }
 
         body.arabic-mode .dropdown-trailers-text {
+            font-family: 'Cairo', sans-serif;
+        }
+
+        /* Dropdown chips for other filter types */
+        .dropdown-genre-chip {
+            background: linear-gradient(135deg, #9b59b6, #8e44ad);
+            color: white;
+            padding: 0.15rem 0.4rem;
+            border-radius: 8px;
+            font-size: 0.65rem;
+            font-weight: bold;
+            font-family: 'Orbitron', monospace;
+            margin-right: 0.4rem;
+        }
+
+        .dropdown-platform-chip {
+            background: linear-gradient(135deg, #3498db, #2980b9);
+            color: white;
+            padding: 0.15rem 0.4rem;
+            border-radius: 8px;
+            font-size: 0.65rem;
+            font-weight: bold;
+            font-family: 'Orbitron', monospace;
+            margin-right: 0.4rem;
+        }
+
+        .dropdown-developer-chip {
+            background: linear-gradient(135deg, #27ae60, #229954);
+            color: white;
+            padding: 0.15rem 0.4rem;
+            border-radius: 8px;
+            font-size: 0.65rem;
+            font-weight: bold;
+            font-family: 'Orbitron', monospace;
+            margin-right: 0.4rem;
+        }
+
+        .dropdown-filter-text {
+            color: white;
+            font-family: 'Orbitron', monospace;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+
+        body.arabic-mode .dropdown-genre-chip,
+        body.arabic-mode .dropdown-platform-chip,
+        body.arabic-mode .dropdown-developer-chip {
+            font-family: 'Cairo', sans-serif;
+        }
+
+        body.arabic-mode .dropdown-filter-text {
             font-family: 'Cairo', sans-serif;
         }
 
@@ -6219,6 +6310,30 @@
                             <span class="dropdown-trailers-text">Trailers</span>
                         </div>
                     `;
+                } else if (suggestion.type === 'genre') {
+                    return `
+                        <div class="dropdown-item" onclick="applySuggestion('${suggestion.type}', '${suggestion.value}', '${suggestion.display}')">
+                            <span class="item-icon">${suggestion.icon}</span>
+                            <span class="dropdown-genre-chip">Genre</span>
+                            <span class="dropdown-filter-text">${suggestion.display}</span>
+                        </div>
+                    `;
+                } else if (suggestion.type === 'platform') {
+                    return `
+                        <div class="dropdown-item" onclick="applySuggestion('${suggestion.type}', '${suggestion.value}', '${suggestion.display}')">
+                            <span class="item-icon">${suggestion.icon}</span>
+                            <span class="dropdown-platform-chip">Platform</span>
+                            <span class="dropdown-filter-text">${suggestion.display}</span>
+                        </div>
+                    `;
+                } else if (suggestion.type === 'developer') {
+                    return `
+                        <div class="dropdown-item" onclick="applySuggestion('${suggestion.type}', '${suggestion.value}', '${suggestion.display}')">
+                            <span class="item-icon">${suggestion.icon}</span>
+                            <span class="dropdown-developer-chip">Developer</span>
+                            <span class="dropdown-filter-text">${suggestion.display}</span>
+                        </div>
+                    `;
                 } else {
                     return `
                         <div class="dropdown-item" onclick="applySuggestion('${suggestion.type}', '${suggestion.value}', '${suggestion.display}')">
@@ -6254,7 +6369,7 @@
                         type: 'genre',
                         value: genre,
                         display: genre,
-                        icon: '🎮'
+                        icon: '🎲'
                     });
                 }
             });
@@ -6266,7 +6381,7 @@
                         type: 'platform',
                         value: platform,
                         display: platform,
-                        icon: '🖥️'
+                        icon: '⚡'
                     });
                 }
             });
@@ -6278,7 +6393,7 @@
                         type: 'developer',
                         value: developer,
                         display: developer,
-                        icon: '👥'
+                        icon: '💎'
                     });
                 }
             });
@@ -6316,6 +6431,24 @@
                     return `
                         <div class="filter-chip special-chip" onclick="removeFilter(${index})">
                             <span>Trailers</span>
+                        </div>
+                    `;
+                } else if (filter.type === 'genre') {
+                    return `
+                        <div class="filter-chip genre-chip" onclick="removeFilter(${index})">
+                            <span>${filter.display}</span>
+                        </div>
+                    `;
+                } else if (filter.type === 'platform') {
+                    return `
+                        <div class="filter-chip platform-chip" onclick="removeFilter(${index})">
+                            <span>${filter.display}</span>
+                        </div>
+                    `;
+                } else if (filter.type === 'developer') {
+                    return `
+                        <div class="filter-chip developer-chip" onclick="removeFilter(${index})">
+                            <span>${filter.display}</span>
                         </div>
                     `;
                 } else {
