@@ -16,6 +16,7 @@
             box-sizing: border-box;
         }
 
+
         /* Language transition */
         body {
             transition: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
@@ -3819,25 +3820,42 @@
             }
         }
 
-        /* Lower resolution adjustments (1080p and below) */
-        @media (max-width: 1919px) {
+        /* 1080p - Make it look like 2K */
+        @media (min-width: 1920px) and (max-width: 1920px) {
             .game-page-cover {
-                width: clamp(320px, 30vw, 400px);
-                height: clamp(320px, 30vw, 400px);
+                width: clamp(320px, 25vw, 400px);
+                height: clamp(320px, 25vw, 400px);
             }
             
             .game-page-content {
-                max-width: min(900px, 85vw);
-                width: 85%;
+                max-width: 1000px;
             }
             
             .game-info-container {
-                max-width: 700px;
-                padding: 2.5rem;
+                max-width: 800px;
+                padding: 3rem;
+            }
+        }
+
+        /* Lower resolution adjustments (below 1080p) */
+        @media (max-width: 1919px) {
+            .game-page-cover {
+                width: clamp(320px, 25vw, 400px);
+                height: clamp(320px, 25vw, 400px);
+            }
+            
+            .game-page-content {
+                max-width: 1000px;
+                width: 90%;
+            }
+            
+            .game-info-container {
+                max-width: 800px;
+                padding: 3rem;
             }
             
             .game-page-title {
-                font-size: clamp(1.8rem, 5vw, 2.8rem);
+                font-size: clamp(2rem, 5vw, 3rem);
             }
         }
 
