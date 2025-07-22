@@ -7673,6 +7673,13 @@ function onPlayerReady(event) {
     // Ensure video starts unmuted
     event.target.unMute();
     event.target.setVolume(100);
+    
+    // Set to highest available quality
+    const availableQualities = event.target.getAvailableQualityLevels();
+    if (availableQualities && availableQualities.length > 0) {
+        event.target.setPlaybackQuality(availableQualities[0]);
+    }
+    
     event.target.playVideo();
     isVideoPlaying = true;
 }
@@ -7681,6 +7688,15 @@ function onPlayerReady(event) {
 function onPlayerStateChange(event) {
     if (event.data == YT.PlayerState.PLAYING) {
         isVideoPlaying = true;
+        
+        // Ensure highest quality is maintained
+        const availableQualities = event.target.getAvailableQualityLevels();
+        if (availableQualities && availableQualities.length > 0) {
+            const currentQuality = event.target.getPlaybackQuality();
+            if (currentQuality !== availableQualities[0]) {
+                event.target.setPlaybackQuality(availableQualities[0]);
+            }
+        }
         
         // Start monitoring video position for boundaries
         if (videoMonitorInterval) {
