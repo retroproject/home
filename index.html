@@ -5241,12 +5241,20 @@
                 
                 // Search for raw game data in retroData
                 if (window.retroData && gameName) {
-                    // Try exact match first
+                    // Try exact match first - this should be prioritized
                     rawGameData = window.retroData.find(game => 
                         game.Name && game.Name.toLowerCase() === gameName.toLowerCase()
                     );
                     
-                    // If no exact match, try partial matching for games with variations
+                    // If no exact match, try exact match with alternative name from currentGameData
+                    if (!rawGameData && currentGameData.name) {
+                        const altName = currentGameData.name;
+                        rawGameData = window.retroData.find(game => 
+                            game.Name && game.Name.toLowerCase() === altName.toLowerCase()
+                        );
+                    }
+                    
+                    // Only if both exact matches fail, try partial matching
                     if (!rawGameData) {
                         rawGameData = window.retroData.find(game => 
                             game.Name && (
@@ -5256,12 +5264,11 @@
                         );
                     }
                     
-                    // If still no match, try alternative name from currentGameData
+                    // Final fallback - partial matching with alternative name
                     if (!rawGameData && currentGameData.name) {
                         const altName = currentGameData.name;
                         rawGameData = window.retroData.find(game => 
                             game.Name && (
-                                game.Name.toLowerCase() === altName.toLowerCase() ||
                                 game.Name.toLowerCase().includes(altName.toLowerCase()) ||
                                 altName.toLowerCase().includes(game.Name.toLowerCase())
                             )
@@ -7387,7 +7394,7 @@ allGameData = retroData.map(game => ({
     cover: game.CoverUrl || "",
     background: game.BackgroundUrl || "",
     music: game.MusicUrl || "",
-    story: (currentLanguage === 'ar' && game.DescriptionArabic) ? game.DescriptionArabic : (game.Description || "Story information not available."),
+    story: game.Description || "Story information not available.",
     releaseDate: game.ReleaseDate || "Unknown",
     platform: getFirstItem(game.PlatformNames) || "Unknown",
     genre: getFirstItem(game.GenreNames) || "Unknown", 
@@ -7558,13 +7565,20 @@ if (cover.id === 'gamePageCover') {
                 }
                 
                 // Set story content based on current language preference
-                const rawGameData = window.retroData?.find(game => 
-                    game.Name && gameName && (
-                        game.Name.toLowerCase() === gameName.toLowerCase() ||
-                        game.Name.toLowerCase().includes(gameName.toLowerCase()) ||
-                        gameName.toLowerCase().includes(game.Name.toLowerCase())
-                    )
+                // Priority: exact match first, then partial matching only if needed
+                let rawGameData = window.retroData?.find(game => 
+                    game.Name && gameName && game.Name.toLowerCase() === gameName.toLowerCase()
                 );
+                
+                // If no exact match, try partial matching
+                if (!rawGameData) {
+                    rawGameData = window.retroData?.find(game => 
+                        game.Name && gameName && (
+                            game.Name.toLowerCase().includes(gameName.toLowerCase()) ||
+                            gameName.toLowerCase().includes(game.Name.toLowerCase())
+                        )
+                    );
+                }
                 
                 // Don't override story content if language switching is in progress
                 if (!isLanguageSwitching) {
@@ -7572,7 +7586,8 @@ if (cover.id === 'gamePageCover') {
                         story.innerHTML = rawGameData.DescriptionArabic;
                         story.classList.add('arabic');
                     } else {
-                        story.innerHTML = gameData.story;
+                        // Always show English story and ensure Arabic class is removed
+                        story.innerHTML = rawGameData && rawGameData.Description ? rawGameData.Description : gameData.story;
                         story.classList.remove('arabic');
                     }
                     story.classList.add('story-visible');
