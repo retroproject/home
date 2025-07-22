@@ -3838,40 +3838,231 @@
         }
 
 
-        /* Responsive Title */
-        .game-page-title {
-            font-family: 'Orbitron', monospace;
-            font-size: clamp(1.5rem, 4vw, 2.5rem);
-            font-weight: 700;
-            color: #fff;
-            margin-bottom: 1.5rem;
-            margin-top: 0;
-            text-align: center;
-            text-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+
+        /* Game Tab System */
+        .game-tabs {
+            display: flex;
+            justify-content: center;
+            gap: 1.5rem;
+            margin: -2rem 0 1rem 0;
         }
 
-        .game-story, .game-release, .game-rating {
+        .game-tab {
+            padding: 0.8rem;
+            cursor: pointer;
+            border-radius: 15px;
+            transition: all 0.3s ease;
+            background: rgba(255, 255, 255, 0.05);
+            border: 2px solid transparent;
+            position: relative;
+            user-select: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .tab-icon {
+            width: 32px;
+            height: 32px;
+            filter: brightness(0.8) contrast(1.2);
+            transition: all 0.3s ease;
+        }
+
+        .game-tab:hover {
+            transform: translateY(-3px) scale(1.1);
+            background: rgba(255, 107, 53, 0.1);
+            box-shadow: 0 8px 25px rgba(255, 107, 53, 0.3);
+        }
+
+        .game-tab:hover .tab-icon {
+            filter: brightness(1.2) contrast(1.3);
+            transform: scale(1.1);
+        }
+
+        .game-tab.active {
+            background: rgba(255, 107, 53, 0.2);
+            border-color: #ff6b35;
+            box-shadow: 0 0 20px rgba(255, 107, 53, 0.4);
+        }
+
+        .game-tab.active .tab-icon {
+            filter: brightness(1.3) contrast(1.4) saturate(1.2);
+            transform: scale(1.05);
+        }
+
+        .tab-separator {
+            height: 2px;
+            background: linear-gradient(90deg, transparent, #ff6b35, transparent);
             margin-bottom: 2rem;
+            border-radius: 1px;
+        }
+
+        /* Tab Content */
+        .tab-content-container {
+            position: relative;
+            min-height: 300px;
+        }
+
+        .tab-content {
+            opacity: 0;
+            visibility: hidden;
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            transition: all 0.3s ease;
+            transform: translateY(20px);
+        }
+
+        .tab-content.active {
+            opacity: 1;
+            visibility: visible;
+            position: relative;
+            transform: translateY(0);
+        }
+
+        /* Story Section */
+        .story-section {
             text-align: center;
-            width: 100%;
         }
 
-        .story-label, .release-label, .rating-label {
-            color: #ff6b35;
-            font-weight: bold;
-            font-size: 1.2rem;
-            margin-bottom: 0.5rem;
-            display: block;
-            font-family: 'Orbitron', monospace;
-        }
-
-        .story-content, .release-content, .rating-content {
+        .story-text {
             color: #fff;
             line-height: 1.8;
-            text-align: center;
             font-size: 1.1rem;
             font-weight: 300;
+            font-family: 'Orbitron', monospace;
             letter-spacing: 0.5px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        /* Arabic font styling for story text */
+        #gameStory.arabic {
+            font-family: 'Cairo', 'Segoe UI', 'Roboto', sans-serif;
+            font-weight: 700;
+            letter-spacing: 0.3px;
+        }
+
+        /* Info Grid */
+        .info-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .info-item {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 1.5rem;
+            border-radius: 12px;
+            border: 1px solid rgba(255, 107, 53, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .info-item:hover {
+            background: rgba(255, 107, 53, 0.1);
+            border-color: rgba(255, 107, 53, 0.4);
+            transform: translateY(-2px);
+        }
+
+        .info-label {
+            color: #ff6b35;
+            font-weight: bold;
+            font-size: 1rem;
+            display: block;
+            margin-bottom: 0.5rem;
+            font-family: 'Orbitron', monospace;
+        }
+
+        .info-value {
+            color: #fff;
+            font-size: 1.1rem;
+            font-weight: 300;
+        }
+
+        /* Reviews Section */
+        .reviews-section {
+            text-align: center;
+        }
+
+
+        /* Story Slide Animations */
+        .story-text {
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .story-sliding-out {
+            transform: translateX(-100%);
+            opacity: 0;
+        }
+
+        .story-sliding-in {
+            transform: translateX(100%);
+            opacity: 0;
+        }
+
+        .story-visible {
+            transform: translateX(0);
+            opacity: 1;
+        }
+
+        .reviews-placeholder {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 3rem;
+            border-radius: 15px;
+            border: 2px dashed rgba(255, 107, 53, 0.3);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .reviews-placeholder p {
+            color: #fff;
+            font-size: 1.1rem;
+            margin-bottom: 1rem;
+            opacity: 0.8;
+        }
+
+        .coming-soon {
+            font-size: 1.5rem;
+            color: #ff6b35;
+            font-weight: bold;
+            font-family: 'Orbitron', monospace;
+        }
+
+        /* Mobile Responsiveness */
+        @media (max-width: 768px) {
+            .game-tabs {
+                gap: 1rem;
+                margin: 0 0 1rem 0;
+            }
+            
+            .game-tab {
+                padding: 0.6rem;
+            }
+            
+            .tab-icon {
+                width: 24px;
+                height: 24px;
+            }
+            
+            .info-grid {
+                grid-template-columns: 1fr;
+                gap: 1rem;
+            }
+            
+            .info-item {
+                padding: 1rem;
+            }
+            
+            .reviews-placeholder {
+                padding: 2rem;
+            }
+            
+            .tab-content-container {
+                min-height: 250px;
+            }
         }
 
         .game-details-grid {
@@ -3959,9 +4150,6 @@
                 padding: 3rem;
             }
             
-            .game-page-title {
-                font-size: clamp(2rem, 5vw, 3rem);
-            }
         }
 
         /* Tablet adjustments */
@@ -4943,36 +5131,68 @@
         <div class="game-page-content">
             <img id="gamePageCover" class="game-page-cover" src="" alt="">
             <div class="game-info-container">
-                <h1 id="gamePageTitle" class="game-page-title"></h1>
-                <div class="game-story">
-                    <div class="story-label">Story:</div>
-                    <div id="gameStory" class="story-content">Loading game information...</div>
+                <!-- Tab Navigation -->
+                <div class="game-tabs">
+                    <div class="game-tab" data-tab="info">
+                        <img src="https://i.imgur.com/dCuwFrV.png" alt="Info" class="tab-icon">
+                    </div>
+                    <div class="game-tab active" data-tab="story">
+                        <img src="https://i.imgur.com/5zmU3sr.png" alt="Story" class="tab-icon">
+                    </div>
+                    <div class="game-tab" data-tab="reviews">
+                        <img src="https://i.imgur.com/I9NCEHx.png" alt="Reviews" class="tab-icon">
+                    </div>
                 </div>
                 
-                <div class="game-details-grid">
-                    <div class="game-detail">
-                        <span class="detail-label">Release Date:</span>
-                        <span id="gameReleaseDate" class="detail-value">Loading...</span>
+                <div class="tab-separator"></div>
+                
+                <!-- Tab Content Areas -->
+                <div class="tab-content-container">
+                    <!-- Story Tab -->
+                    <div class="tab-content active" id="storyTab">
+                        <div class="story-section">
+                            <div id="gameStory" class="story-text">Loading game information...</div>
+                        </div>
                     </div>
-                    <div class="game-detail">
-                        <span class="detail-label">Platform:</span>
-                        <span id="gamePlatform" class="detail-value">Loading...</span>
+                    
+                    <!-- Info Tab -->
+                    <div class="tab-content" id="infoTab">
+                        <div class="info-grid">
+                            <div class="info-item">
+                                <span class="info-label">Release Date:</span>
+                                <span id="gameReleaseDate" class="info-value">Loading...</span>
+                            </div>
+                            <div class="info-item">
+                                <span class="info-label">Platform:</span>
+                                <span id="gamePlatform" class="info-value">Loading...</span>
+                            </div>
+                            <div class="info-item">
+                                <span class="info-label">Genre:</span>
+                                <span id="gameGenre" class="info-value">Loading...</span>
+                            </div>
+                            <div class="info-item">
+                                <span class="info-label">Developer:</span>
+                                <span id="gameDeveloper" class="info-value">Loading...</span>
+                            </div>
+                            <div class="info-item">
+                                <span class="info-label">Length:</span>
+                                <span id="gameLength" class="info-value">Loading...</span>
+                            </div>
+                            <div class="info-item">
+                                <span class="info-label">Rating:</span>
+                                <span id="gameRating" class="info-value">Loading...</span>
+                            </div>
+                        </div>
                     </div>
-                    <div class="game-detail">
-                        <span class="detail-label">Genre:</span>
-                        <span id="gameGenre" class="detail-value">Loading...</span>
-                    </div>
-                    <div class="game-detail">
-                        <span class="detail-label">Developer:</span>
-                        <span id="gameDeveloper" class="detail-value">Loading...</span>
-                    </div>
-                    <div class="game-detail">
-                        <span class="detail-label">Length:</span>
-                        <span id="gameLength" class="detail-value">Loading...</span>
-                    </div>
-                    <div class="game-detail">
-                        <span class="detail-label">Rating:</span>
-                        <span id="gameRating" class="detail-value">Loading...</span>
+                    
+                    <!-- Reviews Tab -->
+                    <div class="tab-content" id="reviewsTab">
+                        <div class="reviews-section">
+                            <div class="reviews-placeholder">
+                                <p>Reviews and comments will be available here soon!</p>
+                                <div class="coming-soon">🔜 Coming Soon</div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -4987,6 +5207,207 @@
         // Language state
         let currentLanguage = 'en';
         let isMuted = false;
+        let storyLanguage = 'en'; // Track story-specific language
+        let currentGameData = null; // Store current game data for language switching
+
+        // Story language switching functionality
+        let isLanguageSwitching = false; // Prevent multiple simultaneous switches
+        let isTabSwitching = false; // Prevent language switching during tab transitions
+        
+        function switchStoryLanguage() {
+            if (!currentGameData) return;
+            
+            if (isLanguageSwitching) return;
+            
+            // Don't switch language if we're in the middle of tab switching
+            if (isTabSwitching) return;
+            
+            isLanguageSwitching = true;
+            const storyText = document.getElementById('gameStory');
+            
+            // Toggle language
+            storyLanguage = storyLanguage === 'en' ? 'ar' : 'en';
+            
+            // Store current height and prepare smooth transition
+            const currentHeight = storyText.offsetHeight;
+            storyText.style.height = currentHeight + 'px';
+            storyText.style.transition = 'opacity 0.6s ease-in-out, height 0.6s ease-in-out';
+            storyText.style.opacity = '0';
+            
+            setTimeout(() => {
+                // Find raw game data from the original database
+                const gameName = currentGameData.originalName || '';
+                let rawGameData = null;
+                
+                // Search for raw game data in retroData
+                if (window.retroData && gameName) {
+                    // Try exact match first
+                    rawGameData = window.retroData.find(game => 
+                        game.Name && game.Name.toLowerCase() === gameName.toLowerCase()
+                    );
+                    
+                    // If no exact match, try partial matching for games with variations
+                    if (!rawGameData) {
+                        rawGameData = window.retroData.find(game => 
+                            game.Name && (
+                                game.Name.toLowerCase().includes(gameName.toLowerCase()) ||
+                                gameName.toLowerCase().includes(game.Name.toLowerCase())
+                            )
+                        );
+                    }
+                    
+                    // If still no match, try alternative name from currentGameData
+                    if (!rawGameData && currentGameData.name) {
+                        const altName = currentGameData.name;
+                        rawGameData = window.retroData.find(game => 
+                            game.Name && (
+                                game.Name.toLowerCase() === altName.toLowerCase() ||
+                                game.Name.toLowerCase().includes(altName.toLowerCase()) ||
+                                altName.toLowerCase().includes(game.Name.toLowerCase())
+                            )
+                        );
+                    }
+                }
+                
+                // Update content
+                let newStory;
+                
+                if (storyLanguage === 'ar' && rawGameData && rawGameData.DescriptionArabic) {
+                    newStory = rawGameData.DescriptionArabic;
+                    storyText.classList.add('arabic');
+                } else {
+                    // For English, prefer raw database description, fallback to processed story
+                    if (rawGameData && rawGameData.Description) {
+                        newStory = rawGameData.Description;
+                    } else {
+                        newStory = currentGameData.story; // Fallback to processed story
+                    }
+                    storyText.classList.remove('arabic');
+                }
+                
+                storyText.innerHTML = newStory;
+                
+                // Calculate new height and update smoothly
+                storyText.style.height = 'auto';
+                const newHeight = storyText.offsetHeight;
+                storyText.style.height = currentHeight + 'px';
+                
+                // Force layout recalculation
+                storyText.offsetHeight;
+                
+                // First resize the container while text is hidden
+                setTimeout(() => {
+                    storyText.style.height = newHeight + 'px';
+                    
+                    // Then fade in the text after resize is underway
+                    setTimeout(() => {
+                        storyText.style.opacity = '1';
+                        
+                        setTimeout(() => {
+                            isLanguageSwitching = false;
+                            // Clean up inline styles
+                            storyText.style.transition = '';
+                            storyText.style.height = '';
+                        }, 600);
+                    }, 300);
+                }, 50);
+            }, 800);
+        }
+
+
+        // Tab switching functionality
+        function initGameTabs() {
+            const tabs = document.querySelectorAll('.game-tab');
+            const tabContents = document.querySelectorAll('.tab-content');
+
+            tabs.forEach(tab => {
+                tab.addEventListener('click', function() {
+                    const targetTab = this.getAttribute('data-tab');
+                    
+                    // Special handling for story tab - switch language if already active
+                    if (targetTab === 'story' && this.classList.contains('active')) {
+                        switchStoryLanguage();
+                        return;
+                    }
+                    
+                    // Set flag to prevent language switching during tab transition
+                    isTabSwitching = true;
+                    switchTab(targetTab);
+                    
+                    // Reset flag after tab transition completes
+                    setTimeout(() => {
+                        isTabSwitching = false;
+                    }, 200);
+                });
+            });
+        }
+
+        function switchTab(targetTab) {
+            const tabs = document.querySelectorAll('.game-tab');
+            const tabContents = document.querySelectorAll('.tab-content');
+            const targetContent = document.getElementById(targetTab + 'Tab');
+
+            // Remove active class from all tabs
+            tabs.forEach(tab => tab.classList.remove('active'));
+            
+            // Add active class to clicked tab
+            const activeTab = document.querySelector(`[data-tab="${targetTab}"]`);
+            if (activeTab) activeTab.classList.add('active');
+
+            // Get container for height transitions
+            const gameInfoContainer = document.querySelector('.game-info-container');
+            
+            // Fade out current content
+            tabContents.forEach(content => {
+                if (content.classList.contains('active')) {
+                    // Store current height
+                    const currentHeight = gameInfoContainer.offsetHeight;
+                    gameInfoContainer.style.height = currentHeight + 'px';
+                    gameInfoContainer.style.transition = 'height 0.3s ease-in-out';
+                    
+                    content.style.opacity = '0';
+                    content.style.transform = 'translateY(20px)';
+                    
+                    setTimeout(() => {
+                        content.classList.remove('active');
+                        
+                        // Fade in new content
+                        if (targetContent) {
+                            targetContent.classList.add('active');
+                            
+                            // Calculate new height
+                            gameInfoContainer.style.height = 'auto';
+                            const newHeight = gameInfoContainer.offsetHeight;
+                            gameInfoContainer.style.height = currentHeight + 'px';
+                            
+                            // Animate to new height and fade in content
+                            requestAnimationFrame(() => {
+                                gameInfoContainer.style.height = newHeight + 'px';
+                                targetContent.style.opacity = '1';
+                                targetContent.style.transform = 'translateY(0)';
+                                
+                                // Clean up after animation
+                                setTimeout(() => {
+                                    gameInfoContainer.style.height = '';
+                                    gameInfoContainer.style.transition = '';
+                                }, 300);
+                            });
+                        }
+                    }, 150);
+                }
+            });
+
+            // If no current active content, directly show target
+            const hasActiveContent = Array.from(tabContents).some(content => 
+                content.classList.contains('active')
+            );
+            
+            if (!hasActiveContent && targetContent) {
+                targetContent.classList.add('active');
+                targetContent.style.opacity = '1';
+                targetContent.style.transform = 'translateY(0)';
+            }
+        }
 
         function toggleMute() {
             const audio = document.getElementById('backgroundMusic');
@@ -6945,6 +7366,9 @@ let videoMonitorInterval = null; // Interval to monitor video position
         const response = await fetch(`https://ia903108.us.archive.org/0/items/retroindex/retroindex.json?t=${Date.now()}`);
         const retroData = await response.json();
         
+        // Make retroData globally accessible for language switching
+        window.retroData = retroData;
+        
         // Debug: Check a few games
         console.log('Total games loaded:', retroData.length);
         console.log('First 3 games with YouTube URLs:', 
@@ -6963,7 +7387,7 @@ allGameData = retroData.map(game => ({
     cover: game.CoverUrl || "",
     background: game.BackgroundUrl || "",
     music: game.MusicUrl || "",
-    story: game.Description || "Story information not available.",
+    story: (currentLanguage === 'ar' && game.DescriptionArabic) ? game.DescriptionArabic : (game.Description || "Story information not available."),
     releaseDate: game.ReleaseDate || "Unknown",
     platform: getFirstItem(game.PlatformNames) || "Unknown",
     genre: getFirstItem(game.GenreNames) || "Unknown", 
@@ -7014,7 +7438,6 @@ console.log('Sample game with YouTube URL:', allGameData.find(game => game.youtu
             // Get all the DOM elements we'll need
             const overlay = document.getElementById('gamePageOverlay');
             const cover = document.getElementById('gamePageCover');
-            const title = document.getElementById('gamePageTitle');
             const story = document.getElementById('gameStory');
             const releaseDate = document.getElementById('gameReleaseDate');
             const platform = document.getElementById('gamePlatform');
@@ -7083,7 +7506,6 @@ console.log('Sample game with YouTube URL:', allGameData.find(game => game.youtu
             // Set basic info immediately
             cover.src = coverUrl;
             cover.alt = gameName;
-            title.textContent = gameName;
             
             // Add click handler ONLY for gamePageCover trailer animation
 if (cover.id === 'gamePageCover') {
@@ -7111,7 +7533,54 @@ if (cover.id === 'gamePageCover') {
 
             // Set game information from enhanced database
             if (gameData) {
-                story.innerHTML = gameData.story;
+                // Store current game data for language switching (including game name)
+                currentGameData = {...gameData, originalName: gameName};
+                
+                // Reset story language to English for new games
+                storyLanguage = 'en';
+                
+                // Reset tabs to default story tab
+                const tabs = document.querySelectorAll('.game-tab');
+                const tabContents = document.querySelectorAll('.tab-content');
+                
+                // Remove active class from all tabs and contents
+                tabs.forEach(tab => tab.classList.remove('active'));
+                tabContents.forEach(content => content.classList.remove('active'));
+                
+                // Set story tab and content as active
+                const storyTab = document.querySelector('[data-tab="story"]');
+                const storyContent = document.getElementById('storyTab');
+                if (storyTab) storyTab.classList.add('active');
+                if (storyContent) {
+                    storyContent.classList.add('active');
+                    storyContent.style.opacity = '1';
+                    storyContent.style.transform = 'translateY(0)';
+                }
+                
+                // Set story content based on current language preference
+                const rawGameData = window.retroData?.find(game => 
+                    game.Name && gameName && (
+                        game.Name.toLowerCase() === gameName.toLowerCase() ||
+                        game.Name.toLowerCase().includes(gameName.toLowerCase()) ||
+                        gameName.toLowerCase().includes(game.Name.toLowerCase())
+                    )
+                );
+                
+                // Don't override story content if language switching is in progress
+                if (!isLanguageSwitching) {
+                    if (storyLanguage === 'ar' && rawGameData && rawGameData.DescriptionArabic) {
+                        story.innerHTML = rawGameData.DescriptionArabic;
+                        story.classList.add('arabic');
+                    } else {
+                        story.innerHTML = gameData.story;
+                        story.classList.remove('arabic');
+                    }
+                    story.classList.add('story-visible');
+                } else {
+                    // Still make story visible but don't change content
+                    story.classList.add('story-visible');
+                }
+                
                 releaseDate.textContent = gameData.releaseDate;
                 platform.textContent = gameData.platform;
                 genre.textContent = gameData.genre;
@@ -7119,7 +7588,11 @@ if (cover.id === 'gamePageCover') {
                 length.textContent = gameData.length;
                 rating.textContent = gameData.rating;
             } else {
+                currentGameData = null;
+                storyLanguage = 'en';
+                story.classList.remove('arabic');
                 story.innerHTML = 'Game information not available in database.';
+                story.classList.add('story-visible');
                 releaseDate.textContent = 'Unknown';
                 platform.textContent = 'Unknown';
                 genre.textContent = 'Unknown';
@@ -7243,6 +7716,11 @@ if (cover.id === 'gamePageCover') {
                 setTimeout(() => {
                     gameContent.style.opacity = '1';
                     gameContent.style.transform = 'scale(1)';
+                    
+                    // Initialize tabs after content is visible
+                    setTimeout(() => {
+                        initGameTabs();
+                    }, 200);
                 }, 100);
             }
 
