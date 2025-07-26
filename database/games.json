@@ -37352,7 +37352,7 @@
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/5dde3f78-88b3-4a5f-8bfc-6679e72788de.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/46a8c273-970a-42d4-8ffc-0558e0e93fff.png",
     "YouTubeUrl": "https://www.youtube.com/watch?v=gEYPofwdEgA",
-    "videoStart": null,
+    "videoStart": 0,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/68b5d410-ad9c-4e36-9a18-de0ccce4509f.mp3",
     "PlatformNames": [
@@ -55424,9 +55424,9 @@
     "CoverImage": "f87700d4-7be9-49b3-a9ba-02c4f5c54103.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/69302efe-baba-4d64-8e61-d1f5ba248ac6.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/f87700d4-7be9-49b3-a9ba-02c4f5c54103.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://www.youtube.com/watch?v=53eJTThlUJs&list=RD53eJTThlUJs&start_radio=1",
+    "videoStart": 0,
+    "videoEnd": 59,
     "MusicUrl": "https://archive.org/download/retromusic/9ad7a8ca-1b58-42d9-8ee0-d96d0817afcb.mp3",
     "PlatformNames": [
       "Sony PlayStation 2"
