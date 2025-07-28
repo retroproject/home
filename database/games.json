@@ -20940,7 +20940,17 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "available": true,
+      "identifier": "retro-nx",
+      "filename": "Baten Kaitos I&II HD Remaster.nsp",
+      "fileSize": "8.2GB",
+      "format": "NSP",
+      "platform": "Nintendo Switch",
+      "requiresSubscription": true,
+      "installInstructions": "NSP file for Nintendo Switch homebrew"
+    }
   },
   {
     "_id": "39c1c4b4-d07d-4ef2-8058-38a8f46c665a",
