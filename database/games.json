@@ -76539,7 +76539,17 @@
     "PublisherNames": [
       "Yacht Club Games"
     ],
-    "AgeRatingNames": []
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "available": true,
+      "identifier": "CPC09",
+      "filename": "Cyber Shadow.zip",
+      "fileSize": "450MB",
+      "format": "ZIP",
+      "platform": "PC",
+      "requiresSubscription": false,
+      "installInstructions": "Extract and run the game executable"
+    }
   },
   {
     "_id": "cfdcd1cf-ca5e-438e-a3a9-906351a1d63f",
