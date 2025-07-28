@@ -93694,5 +93694,65 @@
       "Neowiz"
     ],
     "AgeRatingNames": []
+  },
+  {
+    "_id": "b0209466-4c00-48c7-a027-1c552f181bf9",
+    "GameId": "2dc73f73dfe257947a2a520d9bef8ee1",
+    "Name": "Final Fantasy X",
+    "SortingName": "Final Fantasy 10.01",
+    "Description": "<span style=\"color:#4169E1; font-weight:bold;\">Tidus</span>, a star blitzball player from the technological marvel of Zanarkand, awakens in the mystical world of <span style=\"color:#32CD32; font-weight:bold;\">Spira</span>, where he discovers his entire life may have been nothing more than a dream.<br>He joins the gentle summoner <span style=\"color:#FF69B4; font-weight:bold;\">Yuna</span> on her sacred pilgrimage to obtain the <span style=\"color:#FFD700; font-weight:bold;\">Final Aeon</span> and defeat the colossal destroyer <span style=\"color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;\">Sin</span> that has terrorized the world for a thousand years.<br>As their journey unfolds, Tidus learns the devastating truth: defeating Sin requires <span style=\"color:#9370DB; font-weight:bold;\">Yuna's sacrifice</span>, and the cycle of death and rebirth that has trapped Spira in eternal suffering.<br>In this tale of love transcending existence itself, Tidus must choose between accepting a <span style=\"color:#DC143C; font-weight:bold;\">beautiful lie</span> and facing a <span style=\"color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;\">painful truth</span> that could shatter both their worlds.",
+    "ReleaseDate": "2001-7-19",
+    "CriticScore": 100,
+    "BackgroundImage": "327cfd77-6ee9-439b-b9c7-8a3287615028.jpeg",
+    "CoverImage": "a80c8e1f-0f86-4ade-8f50-ddc73e7449d8.png",
+    "BackgroundUrl": "https://archive.org/download/retrobackgrounds/327cfd77-6ee9-439b-b9c7-8a3287615028.jpeg",
+    "CoverUrl": "https://archive.org/download/retrocovers/a80c8e1f-0f86-4ade-8f50-ddc73e7449d8.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=j3AUTerXl5M",
+    "videoStart": 5,
+    "videoEnd": 153,
+    "MusicUrl": "https://archive.org/download/retromusic/b0209466-4c00-48c7-a027-1c552f181bf9.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Japanese Role-Playing"
+    ],
+    "DeveloperNames": [
+      "Square Product Development Division 1"
+    ],
+    "PublisherNames": [
+      "Square Electronic Arts",
+      "Square"
+    ],
+    "AgeRatingNames": [
+      "PEGI 12"
+    ],
+    "downloadInfo": {
+      "available": true,
+      "versions": [
+        {
+          "name": "Vanilla",
+          "identifier": "CPC39",
+          "filename": "Final Fantasy X X2 HD Remastered.zip",
+          "fileSize": "12GB",
+          "format": "ZIP",
+          "platform": "PC",
+          "requiresSubscription": false,
+          "installInstructions": "Extract and run FFX.exe",
+          "executable": "FFX.exe"
+        },
+        {
+          "name": "Enhanced",
+          "identifier": "CPC38",
+          "filename": "Final Fantasy X X2 HD Remastered.zip",
+          "fileSize": "12GB",
+          "format": "ZIP",
+          "platform": "PC",
+          "requiresSubscription": false,
+          "installInstructions": "Extract and run FFX.exe",
+          "executable": "FFX.exe"
+        }
+      ]
+    }
   }
 ]
