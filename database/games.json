@@ -1391,7 +1391,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "14GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "WWE Legends of Wrestle Mania.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "023ff1a7-d165-4328-83a3-cdbea520ac25",
@@ -1832,7 +1847,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Asura's Wrath.zip",
+              "Asura's Wrath Update.zip"
+            ],
+            "fileSize": "12GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "031b5cad-ae29-43a2-a170-76c05378ec80",
@@ -1920,7 +1953,34 @@
       "Crave Entertainment",
       "Genki"
     ],
-    "AgeRatingNames": []
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "retro-ps2",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "emulator": "PCSX2",
+            "fileSize": "4GB",
+            "notes": "Repackage",
+            "romFile": "Tokyo Xtreme Racer Zero (Vanilla).iso",
+            "filename": "Tokyo Xtreme Racer Zero (Vanilla).iso"
+          },
+          {
+            "identifier": "retro-ps2",
+            "name": "Special",
+            "platform": "Sony PlayStation 2",
+            "emulator": "PCSX2",
+            "fileSize": "2GB",
+            "notes": "Repackage",
+            "romFile": "Tokyo Xtreme Racer Zero (Vanilla).iso",
+            "filename": "Tokyo Xtreme Racer Zero (Vanilla).iso"
+          }
+        ]
+      }
+    },
+    "hasIssue": true
   },
   {
     "_id": "034ca527-c73b-4e11-af77-893ff8c5edbe",
@@ -2981,7 +3041,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "PlayStation All-Stars Battle Royale.zip",
+              "PlayStation All-Stars Battle Royale Update.zip"
+            ],
+            "fileSize": "6GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "053f6dde-2f0b-429e-b874-a6c48e1534dd",
@@ -3060,7 +3138,22 @@
     "PublisherNames": [
       "Namco Bandai Games"
     ],
-    "AgeRatingNames": []
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "11GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Katamari Forever.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "054d0093-364e-4803-8292-71cbaf2d21eb",
@@ -4796,7 +4889,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "60MB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Virtua Fighter 2.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "0862406e-092d-41b1-8e90-120eb6a4bf3e",
@@ -5288,7 +5396,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 7"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "17GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Ratchet & Clank Tools of Destruction.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "096e12b7-272b-44c9-8cd1-b5bc509bfe99",
@@ -6740,7 +6863,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 18"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "2GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Saw 2 Flesh And Blood.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "0c8513a7-68bb-425e-bf21-0676e2cbbfc2",
@@ -7127,7 +7265,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 18"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Resistance 3.zip",
+              "Resistance 3 Update.zip"
+            ],
+            "fileSize": "34GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "0d43a418-ad47-469e-821f-a0554f516b2e",
@@ -7980,7 +8136,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/0ed2d861-d592-432d-80af-a099f046fe17.mp3",
     "PlatformNames": [
-      "Sony PlayStation 3"
+      "Sony PlayStation 3 PSN"
     ],
     "GenreNames": [
       "2D Fighting"
@@ -7993,7 +8149,23 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3 PSN": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "290MB",
+            "romFile": "NPUB30034/USRDIR/EBOOT.BIN",
+            "filename": "Super Street Fighter II Turbo HD Remix.zip"
+          }
+        ]
+      }
+    },
+    "hasIssue": false
   },
   {
     "_id": "0eede1ed-45d4-498b-b84d-5253fe271a8b",
@@ -9784,7 +9956,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 18"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3 PSN": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "2GB",
+            "romFile": "NPUA80358/USRDIR/EBOOT.BIN",
+            "filename": "Dead Nation DLC.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "125e6b44-e4ce-4b52-bc21-3b6745064ea1",
@@ -10428,7 +10615,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Dragons Crown.zip",
+              "Dragons Crown Update.zip"
+            ],
+            "fileSize": "2GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "13499021-05c7-4c10-82eb-198b5cd7607a",
@@ -11223,7 +11428,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "6GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "One Piece Pirate Warriors 2.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "14847d3e-7363-47a1-a542-77ae400af210",
@@ -16115,7 +16335,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 18"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Drakengard 3.zip",
+              "Drakengard 3 Update.zip"
+            ],
+            "fileSize": "32GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "1ce93610-d438-4f71-b78e-82fc2bf201b2",
@@ -17486,7 +17724,22 @@
     "PublisherNames": [
       "Sony Computer Entertainment"
     ],
-    "AgeRatingNames": []
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "15GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Sly Cooper Thieves in Time.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "1fafefff-2161-43ea-8984-88aed26063ec",
@@ -18100,7 +18353,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "3GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Harry Potter and the Half-Blood Prince.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "213afc4d-45eb-4eda-a45d-c3f80f3fe614",
@@ -18580,7 +18848,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "3GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Ben 10 Omniverse.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "22862251-f5db-4574-b4f6-2453d7e032f7",
@@ -18661,7 +18944,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "WWE All Stars.zip",
+              "WWE All Stars Update.zip"
+            ],
+            "fileSize": "6GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "22b292db-c3ae-4539-848a-834e06951a90",
@@ -20490,7 +20791,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 3"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "2GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "The Penguins of Madagascar Dr Blowhole Returns Again.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "26301e48-5d98-4c98-955e-870249b0132b",
@@ -20724,7 +21040,25 @@
     "PublisherNames": [
       "Bandai Namco Games"
     ],
-    "AgeRatingNames": []
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Japanese",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Hajime no Ippo The Fighting.zip",
+              "Hajime no Ippo The Fighting Update.zip"
+            ],
+            "fileSize": "10GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "266fa1cd-53aa-4953-8b11-282b8b2a6526",
@@ -21003,7 +21337,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3 PSN": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "840MB",
+            "romFile": "NPUB30096/USRDIR/EBOOT.BIN",
+            "filename": "Hard Corps Uprising DLC.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "26da97ac-6d6f-4316-b8b2-653a4ab85989",
@@ -21036,7 +21385,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "3GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Dragon Ball Raging Blast.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "26e6c7b8-5d6e-4922-accf-aae51bb6c290",
@@ -21279,7 +21643,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 18"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "5GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Hitman Blood Money.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "2727c18f-0ab9-4fe5-9790-66a0cb913afe",
@@ -22505,7 +22884,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "5GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Tales of Xillia 2.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "2993c1d1-425c-4e65-a9f3-27ab67b05879",
@@ -23430,7 +23824,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 18"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Resistance 2.zip",
+              "Resistance 2 Update.zip"
+            ],
+            "fileSize": "19GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "2b8c2e08-93b3-422b-aa40-acff315fe145",
@@ -24054,7 +24466,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 18"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Fist of The North Star Kens Rage.zip",
+              "Fist of The North Star Kens Rage Update.zip"
+            ],
+            "fileSize": "15GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "2ce2354d-1406-4e35-92e9-3a2a14e0fe7c",
@@ -26370,7 +26800,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 7"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "5GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Madagascar Escape 2 Africa.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "30f6f9eb-c1fa-45b5-906e-4db75a7b38b5",
@@ -26596,7 +27041,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 7"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "4GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Ratchet & Clank Future Quest for Booty.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "314ede17-8806-46cf-8c16-e9570d2ba462",
@@ -26785,7 +27245,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 7"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "4GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Harry Potter and the Order of the Phoenix.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "316c7d42-0b18-48a1-8577-85595e789f3e",
@@ -27614,7 +28089,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 7"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "LittleBigPlanet 2.zip",
+              "LittleBigPlanet 2 Update.zip"
+            ],
+            "fileSize": "18GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "3268d070-36a3-4b94-8f68-36657529fc4e",
@@ -27647,7 +28140,25 @@
     ],
     "AgeRatingNames": [
       "ESRB M"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Yakuza Dead Soul.zip",
+              "Yakuza Dead Soul Update.zip"
+            ],
+            "fileSize": "18GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "32728948-4f32-4ca1-96fc-4c77b062812c",
@@ -27927,7 +28438,8 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/32ecfe9f-51f4-48f7-8cfb-443e26df0da7.mp3",
     "PlatformNames": [
-      "Sony PlayStation 2"
+      "Sony PlayStation 2",
+      "Nintendo Game Boy Advance"
     ],
     "GenreNames": [
       "Hack and slash/Beat 'em up"
@@ -30111,7 +30623,26 @@
     "PublisherNames": [
       "Sony Computer Entertainment"
     ],
-    "AgeRatingNames": []
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "God of War 3.zip",
+              "God of War 3 Update.zip"
+            ],
+            "fileSize": "39GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    },
+    "hasIssue": true
   },
   {
     "_id": "366da66b-4bd2-45f5-bf89-bc08108559ce",
@@ -31934,7 +32465,8 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/399eca13-daac-45ca-b62a-e2a1fd436c63.mp3",
     "PlatformNames": [
-      "Sony PlayStation 2"
+      "Sony PlayStation 2",
+      "Nintendo Game Boy Advance"
     ],
     "GenreNames": [
       "Hack and slash/Beat 'em up"
@@ -35501,7 +36033,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Onechanbara Z Kagura With Nonono!.zip",
+              "Onechanbara Z Kagura With Nonono! Update.zip"
+            ],
+            "fileSize": "4GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "4136fb45-5cfb-4a58-ba90-e0a87f6cd3d9",
@@ -36756,7 +37306,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "640MB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    },
+    "hasIssue": true
   },
   {
     "_id": "43859db6-9570-4e68-b6c1-bdf320d15d29",
@@ -37341,7 +37906,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 18"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "22GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Metal Gear Solid 4 Guns of the Patriots.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "4414a234-eaba-49a0-93aa-c92aee5bf60a",
@@ -37423,7 +38003,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "5GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Naruto Shippuden Ultimate Ninja Storm Generations.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "44563d40-68e9-4a01-b8eb-84bafc49f5e2",
@@ -38963,7 +39558,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "One Piece Pirate Warriors.zip",
+              "One Piece Pirate Warriors Update.zip"
+            ],
+            "fileSize": "9GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "479902f1-3323-49d3-a5bc-467642ceecf2",
@@ -39447,7 +40060,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 3"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "FIFA Street.zip",
+              "FIFA Street Update.zip"
+            ],
+            "fileSize": "5GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "481aad3c-c3ce-40e6-8c7e-1460e1819b1d",
@@ -43471,7 +44102,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Infamous 2.zip",
+              "Infamous 2 Update.zip"
+            ],
+            "fileSize": "14GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "515bf9cb-6542-4fe0-b617-0142160b429c",
@@ -44384,7 +45033,22 @@
       "NIS America",
       "Bandai Namco Entertainment"
     ],
-    "AgeRatingNames": []
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "19GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Ar tonelico Qoga Knell of Ar Ciel.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "53560888-6144-441b-b32d-236ec4121a90",
@@ -46892,7 +47556,22 @@
     "PublisherNames": [
       "Sierra Entertainment"
     ],
-    "AgeRatingNames": []
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "7GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "The Legend of Spyro Dawn of the Dragon.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "57eb7b5d-1dc1-4f35-a386-51d31fdb870b",
@@ -47775,7 +48454,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Uncharted 3 Drake's Deception.zip",
+              "Uncharted 3 Drake's Deception Update.zip"
+            ],
+            "fileSize": "29GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "592b3aef-4640-4763-bd79-433ff3592919",
@@ -48328,7 +49025,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "White Knight Chronicles 2.zip",
+              "White Knight Chronicles 2 Update.zip"
+            ],
+            "fileSize": "17GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "5a1ccc18-1e3f-48d9-8592-f3cf2e69ea57",
@@ -48862,7 +49577,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 18"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "5GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Wet.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "5b24bf5e-e578-4189-85bb-3a8205d3b9f0",
@@ -51131,7 +51861,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 7"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Toy Story 3.zip",
+              "Toy Story 3 Update.zip"
+            ],
+            "fileSize": "6GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "5fa6ee56-58c8-48d7-8653-9af9346a0933",
@@ -51791,7 +52539,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "10GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "The Lord of the Rings Conquest.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "60d2b5a0-dd42-4716-8206-390d96abf853",
@@ -52858,7 +53621,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "2GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Virtua Fighter 5.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "629dfdcd-db2d-46aa-81fd-def3a02008ed",
@@ -53195,7 +53973,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "6GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Dragon Ball Raging Blast 2.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "6355abb1-ac81-4c4b-bce7-5a3e8857b51b",
@@ -53769,7 +54562,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 18"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "The Lord of the Rings War in the North.zip",
+              "The Lord of the Rings War in the North Update.zip"
+            ],
+            "fileSize": "5GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "64482a1a-752e-4334-831d-c392af8fe13c",
@@ -53802,7 +54613,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 7"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "LittleBigPlanet Karting.zip",
+              "LittleBigPlanet Karting Update.zip"
+            ],
+            "fileSize": "7GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "6457b324-2ab4-454a-b2c6-b418f602dae5",
@@ -57299,7 +58128,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/68cf9851-a3b3-4162-b41e-b2290f50711b.mp3",
     "PlatformNames": [
-      "Sony PlayStation 3"
+      "Sony PlayStation 3 PSN"
     ],
     "GenreNames": [
       "Platform"
@@ -57312,7 +58141,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 3"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3 PSN": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "2GB",
+            "romFile": "NPEB00879/USRDIR/EBOOT.BIN",
+            "filename": "Rayman 3 Hoodlum Havoc DLC.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "68d0a846-24c2-40b6-b68d-6408b2154ff4",
@@ -59455,7 +60299,24 @@
     ],
     "AgeRatingNames": [
       "PEGI 3"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "8GB",
+            "notes": "Missing Download",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Bomberman Ultra.zip"
+          }
+        ]
+      }
+    },
+    "hasIssue": true
   },
   {
     "_id": "6c7fd2cf-bcdb-4c73-b4c3-986c34f39e00",
@@ -61222,7 +62083,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "WWE 13.zip",
+              "WWE 13 Update.zip"
+            ],
+            "fileSize": "13GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "6f6f2a57-3a18-45a6-9fb3-5a2d7a9b9d17",
@@ -61694,7 +62573,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 3"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "4GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Madagascar 3 Europes Most Wanted.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "70632c0e-18c5-4eb2-9341-c5f1cce2b2b0",
@@ -65564,7 +66458,25 @@
     "PublisherNames": [
       "Koei Tecmo Games"
     ],
-    "AgeRatingNames": []
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Ar nosurge Ode to an Unborn Star.zip",
+              "Ar nosurge Ode to an Unborn Star Update.zip"
+            ],
+            "fileSize": "12GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "773fe73f-feeb-421a-ae0c-607d5beec75f",
@@ -65596,7 +66508,22 @@
     "PublisherNames": [
       "D3 Publisher"
     ],
-    "AgeRatingNames": []
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "4GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Ben 10 Ultimate Alien Cosmic Destruction.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "777f9d62-fd9f-4e2d-9140-90a1d3853ffc",
@@ -67459,7 +68386,34 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "romFiles": [
+              "Armored Core 4\\PS3_GAME\\USRDIR\\EBOOT.BIN",
+              "Armored Core For Answer\\PS3_GAME\\USRDIR\\EBOOT.BIN"
+            ],
+            "romLabels": [
+              "Armored Core 4",
+              "Armored Core For Answer"
+            ],
+            "filenames": [
+              "Armored Core 4.zip",
+              "Armored Core 4 Update.zip"
+            ],
+            "fileSize": "23GB",
+            "notes": "Needs Testing"
+          }
+        ]
+      }
+    },
+    "hasIssue": true
   },
   {
     "_id": "7ac64b17-84cf-4c60-b1b8-50d82bfc01f5",
@@ -67893,7 +68847,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "3GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Dragon Ball Z Burst Limit.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "7b45413c-112a-4364-8618-c35bec142ece",
@@ -70001,10 +70970,10 @@
   {
     "_id": "7f63b747-6181-4621-a047-e58254d4b350",
     "GameId": "65802be2-7760-48f2-9730-106a3ed51f9c",
-    "Name": "|The Retro Project|",
-    "SortingName": "",
-    "Description": "In a realm where <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>forgotten memories</span> take physical form, a lone archivist discovers that the very fabric of <span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>digital nostalgia</span> is unraveling.<br>Ancient gaming cartridges pulse with <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>ethereal energy</span>, each containing trapped souls of players who lost themselves in pixelated worlds decades ago.<br>As reality bleeds into these <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>retro dimensions</span>, you must navigate through corrupted game worlds where <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>glitched enemies</span> hunt for fresh consciousness to consume.<br>The only way to restore balance is to collect the scattered <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>memory fragments</span> and piece together the ultimate truth: that every game ever played leaves an <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>indelible mark</span> on the <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>collective unconscious</span>.<br>",
-    "DescriptionArabic": "<div dir='rtl'>في عالم تتخذ فيه <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الذكريات المنسية</span> شكلاً مادياً، يكتشف أمين أرشيف وحيد أن نسيج <span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>الحنين الرقمي</span> نفسه يتفكك.<br>خراطيش الألعاب القديمة تنبض <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>بالطاقة الأثيرية</span>، كل واحدة تحتوي على أرواح محبوسة للاعبين الذين فقدوا أنفسهم في عوالم البكسل قبل عقود.<br>بينما ينزف الواقع في هذه <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>الأبعاد الرجعية</span>، يجب أن تتنقل عبر عوالم الألعاب التالفة حيث <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الأعداء المخربون</span> يصطادون وعياً جديداً لاستهلاكه.<br>الطريقة الوحيدة لاستعادة التوازن هي جمع <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>شظايا الذاكرة</span> المتناثرة وتجميع الحقيقة المطلقة: أن كل لعبة تم لعبها تترك <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>علامة لا تمحى</span> على <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>اللاوعي الجماعي</span>.<br></div>",
+    "Name": "The Retro Project",
+    "SortingName": "|The Retro Project|",
+    "Description": "",
+    "DescriptionArabic": "",
     "ReleaseDate": "2025-1-31",
     "CriticScore": 100,
     "BackgroundImage": "6c1e5cde-d45b-4e69-85c4-bd3c63f5811b.jpg",
@@ -70027,7 +70996,20 @@
     ],
     "AgeRatingNames": [
       "PEGI 18"
-    ]
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "COPC01",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "500MB",
+            "arguments": []
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "7f6475c4-3a2f-4c19-ac93-2677b149e4c2",
@@ -70209,7 +71191,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "19GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Short Peace Ranko Tsukigimes Longest Day.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "7f929893-323d-4837-918b-cd76061834c2",
@@ -72181,7 +73178,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "4GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Soul Calibur Lost Swords.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "83b679eb-9615-4936-97f5-60322bce0ac0",
@@ -72480,7 +73492,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "640MB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Jojo's Bizzare Adventure HD Ver.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "83f1cb21-acc1-43b1-bd76-95cfddcec598",
@@ -72512,7 +73539,25 @@
       "NIS America",
       "Nippon Ichi Software"
     ],
-    "AgeRatingNames": []
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Disgaea D2 A Brighter Darkness.zip",
+              "Disgaea D2 A Brighter Darkness Update.zip"
+            ],
+            "fileSize": "2GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "83f46c16-0bb2-491b-b2d9-52544ba22935",
@@ -74536,7 +75581,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 18"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "God of War Ascension.zip",
+              "God of War Ascension Update.zip"
+            ],
+            "fileSize": "38GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "88459cf3-4888-4a03-a93d-07f37ff73ce0",
@@ -75807,7 +76870,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 7"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "3GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "FIFA Street 3.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "8a4b65eb-91c6-46b3-81ce-4ef494619b69",
@@ -77328,7 +78406,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/8d04e19b-2317-4694-b841-a4e24fc4b6d7.mp3",
     "PlatformNames": [
-      "Sony PlayStation 3"
+      "Sony PlayStation 3 PSN"
     ],
     "GenreNames": [
       "Adventure"
@@ -77341,7 +78419,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3 PSN": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "2GB",
+            "romFile": "NPUA80719/USRDIR/EBOOT.BIN",
+            "filename": "Rain DLC.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "8d0fade0-9568-43f5-a413-75a48332a537",
@@ -78597,7 +79690,30 @@
     "PublisherNames": [
       "Genki"
     ],
-    "AgeRatingNames": []
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "retro-ps2",
+            "name": "Enhanced",
+            "platform": "Sony PlayStation 2",
+            "emulator": "PCSX2",
+            "fileSize": "3GB",
+            "romFile": "Jade Cocoon 2 (Undub).iso",
+            "filename": "Jade Cocoon 2 (Undub).iso"
+          },
+          {
+            "identifier": "retro-ps2",
+            "name": "HD Textures",
+            "platform": "Sony PlayStation 2",
+            "emulator": "PCSX2",
+            "fileSize": "2GB",
+            "filename": "Jade Cocoon 2 HD Textures.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "8f28e16c-918f-4022-b225-8088dabf512d",
@@ -79122,7 +80238,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "7GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filenames": [
+              "JoJo's Bizarre Adventure Eyes of Heaven.zip",
+              "JoJo's Bizarre Adventure Eyes of Heaven Update.zip"
+            ]
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "9019f138-67bc-4aa0-bc12-a21f82f4df13",
@@ -79693,7 +80827,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 3"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "5GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Ratatouille.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "916eb380-4799-411e-8b46-035cf26f7199",
@@ -80019,7 +81168,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "21GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Trinity Souls of Zill Oll.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "92214d4e-d157-4a07-bee6-6b0929ddfe44",
@@ -82275,7 +83439,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 18"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Killzone 2.zip",
+              "Killzone 2 Update.zip"
+            ],
+            "fileSize": "13GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "96811e39-e137-4d7c-b630-8b49cd615b5b",
@@ -83170,7 +84352,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Heavenly Sword.zip",
+              "Heavenly Sword Update.zip"
+            ],
+            "fileSize": "18GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "98269185-9f54-4f65-be8c-8b4dfee667eb",
@@ -83613,7 +84813,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 18"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Killzone 3.zip",
+              "Killzone 3 Update.zip"
+            ],
+            "fileSize": "24GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "98a39de2-14d8-4d3e-9fa2-b9065d55c267",
@@ -84182,7 +85400,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 7"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "3GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Ben 10 Omniverse.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "99dc027e-7148-4908-b152-570f6a4041e9",
@@ -86355,7 +87588,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "6GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Harry Potter and the Deathly Hallows Part 1.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "9e4a9d8f-ae3d-4f2e-951f-0ec1c6aed851",
@@ -88145,7 +89393,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "4GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Odin Sphere Leifthrasir.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "a2366b19-a754-4682-bc22-36614d238874",
@@ -88604,7 +89867,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 3"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "3GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Madagascar Kartz.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "a2e063f0-4f5a-4c6a-a385-2088082368c1",
@@ -89136,7 +90414,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Battlefield Bad Company.zip",
+              "Battlefield Bad Company Update.zip"
+            ],
+            "fileSize": "7GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "a373a733-8207-4125-a883-58020f055aa1",
@@ -91736,7 +93032,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 7"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Ratchet & Clank Full Frontal Assault.zip",
+              "Ratchet & Clank Full Frontal Assault Update.zip"
+            ],
+            "fileSize": "5GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "a7a9089e-25be-42e8-abc5-40d535030abe",
@@ -91929,7 +93243,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "WWE 12.zip",
+              "WWE 12 Update.zip"
+            ],
+            "fileSize": "7GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "a84b4f31-a949-417d-8d68-8183cbd9c5e8",
@@ -94754,7 +96086,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "7GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Never Dead.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "abc1ba94-7738-433a-adb3-c7b2cdf69dbf",
@@ -94785,7 +96132,22 @@
     "PublisherNames": [
       "Capcom"
     ],
-    "AgeRatingNames": []
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "14GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "E.X. Troopers.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "abcdf557-9d0d-429a-99e2-89fd46efc617",
@@ -95467,7 +96829,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Uncharted 1 Drakes Fortune.zip",
+              "Uncharted 1 Drakes Fortune Update.zip"
+            ],
+            "fileSize": "18GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "ad1fceaf-a1e4-491f-bb82-6a85927cbb9c",
@@ -97198,7 +98578,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "6GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Tales of Xillia 1.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "afb85a79-5e05-469e-be24-9d8c5dc404ad",
@@ -99068,7 +100463,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 7"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "LittleBigPlanet 3.zip",
+              "LittleBigPlanet 3 Update.zip"
+            ],
+            "fileSize": "10GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "b299f943-fa3d-4d51-802b-3745dc679504",
@@ -99510,7 +100923,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 18"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Lollipop Chainsaw.zip",
+              "Lollipop Chainsaw Update.zip"
+            ],
+            "fileSize": "5GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "b39d66b6-6dfd-4598-8243-af406523e22c",
@@ -99958,7 +101389,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 18"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Twisted Metal.zip",
+              "Twisted Metal Update.zip"
+            ],
+            "fileSize": "12GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "b45c9082-76a0-4edb-bcd1-7cf2ba56bc5a",
@@ -100636,7 +102085,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 18"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Resistance Fall of Man.zip",
+              "Resistance Fall of Man Update.zip"
+            ],
+            "fileSize": "16GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "b51f4949-c4af-4bab-ad62-75a19fcfc6ca",
@@ -101015,7 +102482,25 @@
       "Sega Games",
       "Sega Interactive"
     ],
-    "AgeRatingNames": []
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Japanese",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Dengeki Bunko Fighting Climax Ignition (Japanese).zip",
+              "Dengeki Bunko Fighting Climax Ignition (Japanese) Update.zip"
+            ],
+            "fileSize": "2GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "b567b87b-3734-4f24-bac5-b58b78036f7d",
@@ -101142,7 +102627,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "2GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Bleach Soul Resurreccion.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "b5988097-1a92-41ab-8cf1-b701a85147fc",
@@ -104032,7 +105532,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 3"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "3GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Rune Factory Tides of Destiny.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "b9d6afb5-16d0-437e-83d2-9246fedc403e",
@@ -104115,7 +105630,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "950MB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Hitman Silent Assassin.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "b9dbb6d2-7c2b-493f-ab09-d99559cf18d5",
@@ -105439,7 +106969,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "10GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Star Ocean Integrity And Faithlessness.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "bc8cf6b0-2ad1-46af-8da9-46b24811d62f",
@@ -107761,7 +109306,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "19GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Uncharted 2 Among Thieves.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "c0e6a870-d6b6-4b14-a460-35b385f9f514",
@@ -109601,7 +111161,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "2GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "The Awakened Fate Ultimatum.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "c3e85905-03b3-4a39-90fc-de57bdbd954f",
@@ -110053,7 +111628,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 7"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Ratchet & Clank All 4 One.zip",
+              "Ratchet & Clank All 4 One Update.zip"
+            ],
+            "fileSize": "16GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "c4521889-c98f-4960-a6d2-5eb72ca50fdb",
@@ -110809,7 +112402,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 3"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Gran Turismo 6.zip",
+              "Gran Turismo 6 Update.zip"
+            ],
+            "fileSize": "27GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "c5505eb6-c7cf-4aef-b5f0-9f8b520f9907",
@@ -110936,7 +112547,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Tekken 6.zip",
+              "Tekken 6 Update.zip"
+            ],
+            "fileSize": "12GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "c5810004-494c-4b95-ba4c-3de04d89bfd4",
@@ -113020,7 +114649,25 @@
     "PublisherNames": [
       "Konami"
     ],
-    "AgeRatingNames": []
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Silent Hill Downpour.zip",
+              "Silent Hill Downpour Update.zip"
+            ],
+            "fileSize": "5GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "c8cd8d7e-b476-4207-b56c-769f92fec0c9",
@@ -114853,7 +116500,22 @@
     "PublisherNames": [
       "Capcom"
     ],
-    "AgeRatingNames": []
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "150MB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Marvel vs. Capcom Origins.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "cbf47102-2544-4b82-8ae2-0eed22ede6a0",
@@ -115709,7 +117371,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "5GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Call of Duty 3.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "cd5636f1-b426-4bab-a301-37f85cafcd17",
@@ -116229,7 +117906,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Folklore.zip",
+              "Folklore Update.zip"
+            ],
+            "fileSize": "10GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "ce2b6afa-3218-4325-adec-9ce7fe7cb71d",
@@ -117114,7 +118809,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "370MB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "TMNT Turtles In Time Re-Shelled.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "cf7ade52-be48-4d9c-8998-3d5510ea20e0",
@@ -117147,7 +118857,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "2GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Hitman Contracts.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "cfa671e4-db49-402c-867e-bbd233cd6e20",
@@ -117745,7 +119470,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 7"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "LittleBigPlanet.zip",
+              "LittleBigPlanet Update.zip"
+            ],
+            "fileSize": "7GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "d0687573-4c84-4bf7-b6ae-86f6e0053f91",
@@ -117874,7 +119617,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Soul Calibur V.zip",
+              "Soul Calibur V Update.zip"
+            ],
+            "fileSize": "7GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "d0bf2c60-6bef-47d6-82f8-efbd96e63342",
@@ -118872,7 +120633,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "7GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Infamous.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "d2370780-cfdd-4aae-9154-279d1719812c",
@@ -119401,7 +121177,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Soulcalibur IV.zip",
+              "Soulcalibur IV Update.zip"
+            ],
+            "fileSize": "4GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "d375773f-76d3-4a33-8f55-aaba5dfbb9a3",
@@ -120424,7 +122218,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 18"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Dante's Inferno.zip",
+              "Dante's Inferno Update.zip"
+            ],
+            "fileSize": "9GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "d53ad9ca-4417-4708-b209-38137ed745af",
@@ -121888,7 +123700,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "8GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Spider Man Edge of Time.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "d889196c-f7c1-4c4e-a25d-8152338f2dee",
@@ -123905,7 +125732,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "2GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "The Guided Fate Paradox.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "db691447-eef8-49a9-95ff-8d2743a7c8d7",
@@ -125609,7 +127451,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "150MB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Marvel vs. Capcom 2.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "df09a5a1-bf65-4d4e-8a92-f0d7046d7387",
@@ -126569,7 +128426,22 @@
       "Atlus",
       "Namco Bandai Games"
     ],
-    "AgeRatingNames": []
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "6GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Demons Souls.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "e0a84dd4-710a-4f71-92e7-765fa2a71a8a",
@@ -126798,7 +128670,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 7"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Ratchet & Clank Future a Crack In Time.zip",
+              "Ratchet & Clank Future a Crack In Time Update.zip"
+            ],
+            "fileSize": "19GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "e0d815a8-0ab1-47b2-9450-0ae2f67e94e0",
@@ -127022,7 +128912,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 18"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Fist of The North Star Kens Rage 2.zip",
+              "Fist of The North Star Kens Rage 2 Update.zip"
+            ],
+            "fileSize": "9GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "e17d8cf8-916e-4193-b732-9a37478f4dd4",
@@ -127681,7 +129589,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 3"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "2GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Rio The Video Game.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "e2db9e14-f40d-4221-bbf8-e3386820345f",
@@ -128362,7 +130285,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 16"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "WWE 2K14.zip",
+              "WWE 2K14 Update.zip"
+            ],
+            "fileSize": "14GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "e4330867-ff79-4e5a-bfb1-cce2ebbf970a",
@@ -129734,7 +131675,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 7"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "8GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Ratchet & Clank Into the Nexus.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "e70c98e0-e1ee-4a7d-bae2-9b55b220c529",
@@ -130163,7 +132119,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "2GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Dragon Ball Z Battle of Z.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "e7875e8a-632a-4fb2-83ca-0110687259a0",
@@ -130702,7 +132673,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Alone in the Dark Inferno.zip",
+              "Alone in the Dark Inferno Update.zip"
+            ],
+            "fileSize": "6GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "e937726b-56df-453b-ac96-6439cd9df190",
@@ -131555,7 +133544,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Disgaea 3 Absence of Justice.zip",
+              "Disgaea 3 Absence of Justice Update.zip"
+            ],
+            "fileSize": "3GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "ea6526cd-d55f-446e-a38a-3ab73bf3c02e",
@@ -131778,7 +133785,22 @@
     "PublisherNames": [
       "2K Games"
     ],
-    "AgeRatingNames": []
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "17GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "The Darkness.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "ead1a50a-7a49-4727-b430-ccb5f8e41fc9",
@@ -134707,7 +136729,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "rpcs3-P3",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "6GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Dragon Ball Z Ultimate Tenkaichi.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "ef0011e2-5254-4555-b118-344337c1c9ac",
@@ -136077,7 +138114,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "7GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Harry Potter and the Deathly Hallows Part 2.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "f1f0adec-5ef3-435b-bbd7-b81ca55659bc",
@@ -136301,7 +138353,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "5GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Midnight Club Los Angeles.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "f24cdccc-958e-472b-9b99-fc9927301f8f",
@@ -139009,7 +141076,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 18"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 4": {
+        "versions": [
+          {
+            "identifier": "",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 4",
+            "emulator": "ShadPS4",
+            "fileSize": "25GB",
+            "romFile": "eboot.bin"
+          }
+        ]
+      }
+    },
+    "hasIssue": true
   },
   {
     "_id": "f6800637-e8ab-41c9-8a61-e43579516aad",
@@ -139259,7 +141341,34 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "romFiles": [
+              "Armored Core V\\PS3_GAME\\USRDIR\\EBOOT.BIN",
+              "Armored Core Verdict Day\\PS3_GAME\\USRDIR\\EBOOT.BIN"
+            ],
+            "romLabels": [
+              "Armored Core V",
+              "Verdict Day"
+            ],
+            "filenames": [
+              "Armored Core V.zip",
+              "Armored Core V Update.zip"
+            ],
+            "fileSize": "10GB",
+            "notes": "Need Testing"
+          }
+        ]
+      }
+    },
+    "hasIssue": true
   },
   {
     "_id": "f7906d8b-b1a2-4898-a000-e2bf6995ae2f",
@@ -140909,7 +143018,8 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/fb453201-86b0-4cc2-a284-6ff011c0f034.mp3",
     "PlatformNames": [
-      "Sony PlayStation 2"
+      "Sony PlayStation 2",
+      "Nintendo Game Boy Advance"
     ],
     "GenreNames": [
       "Hack and slash/Beat 'em up"
@@ -142080,7 +144190,25 @@
     ],
     "AgeRatingNames": [
       "PEGI 3"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Gran Turismo 5.zip",
+              "Gran Turismo 5 Update.zip"
+            ],
+            "fileSize": "30GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "fd45ab1b-cfe2-4d7e-aa8a-1854878acf6d",
@@ -142899,7 +145027,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "780MB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "The King Of Fighters XII.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "ff24bf5d-9b93-4c0a-a1b2-0c8e02cfbf1c",
