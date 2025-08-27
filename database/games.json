@@ -3936,39 +3936,6 @@
     }
   },
   {
-    "_id": "06657423-7d26-41f5-9bb1-070ea6005172",
-    "GameId": "d3c2a83d-8523-4214-8b8b-7cca308bc8cb",
-    "Name": "Summon Night",
-    "SortingName": "Summon Night 01.01",
-    "Description": "A young <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Summoner</span> is chosen to participate in the sacred ritual of <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 6px #FFD700;'>Night of Summoning</span>, where they must forge a bond with a powerful guardian spirit from another dimension.<br>In the mystical world of <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Lyndbaum</span>, the protagonist learns to craft magical weapons and form deep relationships with their summoned partner while uncovering ancient secrets about the connection between worlds.<br>Through tactical battles and meaningful choices that shape both story and relationships, they discover that the fate of multiple dimensions rests on their ability to master the art of summoning and protect the delicate balance between <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>reality and the spirit realm</span>.",
-    "DescriptionArabic": "<div dir='rtl'>يتم اختيار <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>مستدعي</span> شاب للمشاركة في الطقوس المقدسة لـ<span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 6px #FFD700;'>ليلة الاستدعاء</span>، حيث يجب عليه تكوين رابطة مع روح حارسة قوية من بُعد آخر.<br>في العالم الصوفي لـ<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>ليندبوم</span>، يتعلم البطل صياغة الأسلحة السحرية وتكوين علاقات عميقة مع شريكه المستدعى بينما يكشف أسراراً قديمة حول الاتصال بين العوالم.<br>من خلال معارك تكتيكية وخيارات مهمة تشكل القصة والعلاقات، يكتشفون أن مصير أبعاد متعددة يعتمد على قدرتهم على إتقان فن الاستدعاء وحماية التوازن الدقيق بين <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>الواقع وعالم الأرواح</span>.</div>",
-    "ReleaseDate": "2000-1-6",
-    "CriticScore": 70,
-    "BackgroundImage": "d43173f2-5158-4e2c-bfc7-b0c533858495.jpeg",
-    "CoverImage": "0e141095-e4db-4dc2-b1ca-de861817c54d.png",
-    "BackgroundUrl": "https://archive.org/download/retrobackgrounds/d43173f2-5158-4e2c-bfc7-b0c533858495.jpeg",
-    "CoverUrl": "https://archive.org/download/retrocovers/0e141095-e4db-4dc2-b1ca-de861817c54d.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
-    "MusicUrl": "https://archive.org/download/retromusic/06657423-7d26-41f5-9bb1-070ea6005172.mp3",
-    "PlatformNames": [
-      "Nintendo DS"
-    ],
-    "GenreNames": [
-      "Japanese Role-Playing"
-    ],
-    "DeveloperNames": [
-      "Flight-Plan"
-    ],
-    "PublisherNames": [
-      "Banpresto"
-    ],
-    "AgeRatingNames": [
-      "PEGI 12"
-    ]
-  },
-  {
     "_id": "066c42ff-0c08-426a-9bd2-46a8821ef697",
     "GameId": "24b46d9d-dafa-4d91-8f86-9927b0571d18",
     "Name": "Ninja: Shadow of Darkness",
@@ -4876,7 +4843,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/08358498-37cb-4250-bb85-d1401273d985.mp3",
     "PlatformNames": [
-      "Sony PlayStation 3"
+      "Sony PlayStation 3 PSN"
     ],
     "GenreNames": [
       "Fighting"
@@ -4900,6 +4867,19 @@
             "emulator": "RPCS3",
             "fileSize": "60MB",
             "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Virtua Fighter 2.zip"
+          }
+        ]
+      },
+      "Sony PlayStation 3 PSN": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "60MB",
+            "romFile": "NPUB30928/USRDIR/EBOOT.BIN",
             "filename": "Virtua Fighter 2.zip"
           }
         ]
@@ -9427,7 +9407,8 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/110b4e04-3b12-416b-919c-7ca8be6fab8a.mp3",
     "PlatformNames": [
-      "Sony PlayStation"
+      "Sony PlayStation",
+      "Nintendo DS"
     ],
     "GenreNames": [
       "JRPG"
@@ -9442,23 +9423,38 @@
       "PEGI 12"
     ],
     "downloadInfo": {
-      "Sony PlayStation": {
+      "Cross-Platform": {
         "versions": [
           {
             "identifier": "retro-psx",
-            "filename": "Summon Night 2.zip",
-            "name": "Japanese",
+            "filename": "",
             "platform": "Sony PlayStation 1",
+            "name": "Japanese",
             "emulator": "DuckStation",
-            "fileSize": "2GB",
-            "romFile": "",
+            "fileSize": "900MB",
             "romFiles": [
-              "Summon Night 2 (Disc 1) (Japanese).img",
-              "Summon Night 2 (Disc 2) (Japanese).img"
+              "retro-psx"
             ],
-            "romLabels": [
-              "Disc 1",
-              "Disc 2"
+            "filenames": [
+              "Summon Night 2.zip"
+            ]
+          },
+          {
+            "identifier": "retro-nitro",
+            "filename": "",
+            "platform": "Nintendo DS",
+            "name": "Japanese",
+            "emulator": "RetroArch",
+            "fileSize": "130MB",
+            "arguments": [
+              "-L",
+              ".\\cores\\melonds_libretro.dll"
+            ],
+            "romFiles": [
+              "Summon Night 2 (Japanese).nds"
+            ],
+            "filenames": [
+              "Summon Night 2 (Japanese).nds"
             ]
           }
         ]
@@ -9644,7 +9640,8 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/11f4f80b-8d2a-400b-92f1-19f83cb8534a.mp3",
     "PlatformNames": [
-      "Sony PlayStation"
+      "Sony PlayStation",
+      "Nintendo DS"
     ],
     "GenreNames": [
       "JRPG"
@@ -9657,16 +9654,39 @@
     ],
     "AgeRatingNames": [],
     "downloadInfo": {
-      "Sony PlayStation": {
+      "Cross-Platform": {
         "versions": [
           {
             "identifier": "retro-psx",
-            "filename": "Summon Night (Japannese).img",
-            "name": "Japannese",
+            "filename": "",
             "platform": "Sony PlayStation 1",
+            "name": "Japanese",
             "emulator": "DuckStation",
             "fileSize": "600MB",
-            "romFile": "Summon Night (Japannese).img"
+            "romFiles": [
+              "Summon Night (Japannese).img"
+            ],
+            "filenames": [
+              "Summon Night (Japannese).img"
+            ]
+          },
+          {
+            "identifier": "retro-nitro",
+            "filename": "",
+            "platform": "Nintendo DS",
+            "name": "Japanese",
+            "emulator": "RetroArch",
+            "fileSize": "130MB",
+            "arguments": [
+              "-L",
+              ".\\cores\\melonds_libretro.dll"
+            ],
+            "romFiles": [
+              "Summon Night (Japanese).nds"
+            ],
+            "filenames": [
+              "Summon Night (Japanese).nds"
+            ]
           }
         ]
       }
@@ -13129,39 +13149,6 @@
         ]
       }
     }
-  },
-  {
-    "_id": "175bf497-66c8-4cd8-bd6c-4795d0780cc1",
-    "GameId": "9d477e976a254053f463fa7bd4304613",
-    "Name": "Uncharted: The Lost Legacy",
-    "SortingName": "Uncharted 07",
-    "Description": "War-torn <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Indian mountains</span> hide the legendary <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Tusk of Ganesh</span> as treasure hunter <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>Chloe Frazer</span> reluctantly allies with mercenary <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>Nadine Ross</span> in this high-stakes heist.<br>Pursued by ruthless insurgent <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Asav</span> through <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>ancient Hoysala temples</span>, the mismatched duo traverses <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>lush jungles</span> and <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>crumbling ruins</span> while deadly <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>traps</span> test their resolve.<br>This standalone adventure explores themes of <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>redemption</span> and <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>sisterhood</span> as two strong women discover that <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>trust forged in fire</span> creates the most valuable treasure of all.<br>Through <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>breathtaking vistas</span> and heart-pounding action, Chloe learns that some legacies are worth more than <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>ancient gold</span>.",
-    "DescriptionArabic": "<div dir='rtl'>تخفي جبال <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>الهند</span> الممزقة بالحرب <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>ناب غانيش</span> الأسطوري بينما تتحالف صائدة الكنوز <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>كلوي فريزر</span> بتردد مع المرتزقة <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>نادين روس</span> في هذه السرقة عالية المخاطر.<br>مطاردتان من قبل المتمرد البارد <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>آساف</span> عبر <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>معابد هويسالا</span> القديمة، تجتاز الثنائي غير المتطابق <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>أدغالاً مورقة</span> و<span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>أطلالاً متهاوية</span> بينما <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>فخاخ قاتلة</span> تختبر عزيمتهما.<br>تستكشف هذه المغامرة المستقلة موضوعات <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>الفداء</span> و<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>الأخوة</span> بينما تكتشف امرأتان قويتان أن <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>الثقة المطورة في النار</span> تخلق أثمن كنز على الإطلاق.<br>عبر <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>مناظر خلابة</span> وأحداث مثيرة، تتعلم كلوي أن بعض التركات تستحق أكثر من <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>الذهب القديم</span>.</div>",
-    "ReleaseDate": "2017-08-22",
-    "CriticScore": 100,
-    "BackgroundImage": "16eeb1ee-010b-4ac8-b1b8-c28df7563648.jpeg",
-    "CoverImage": "6e3c53fc-5399-4832-a30e-57a8d5f24a34.jpg",
-    "BackgroundUrl": "https://archive.org/download/retrobackgrounds/16eeb1ee-010b-4ac8-b1b8-c28df7563648.jpeg",
-    "CoverUrl": "https://archive.org/download/retrocovers/6e3c53fc-5399-4832-a30e-57a8d5f24a34.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
-    "MusicUrl": "https://archive.org/download/retromusic/175bf497-66c8-4cd8-bd6c-4795d0780cc1.mp3",
-    "PlatformNames": [
-      "PC Game"
-    ],
-    "GenreNames": [
-      "Story Driven"
-    ],
-    "DeveloperNames": [
-      "Naughty Dog"
-    ],
-    "PublisherNames": [
-      "Sony Interactive Entertainment"
-    ],
-    "AgeRatingNames": [
-      "PEGI 16"
-    ]
   },
   {
     "_id": "175cb440-20e3-462e-8b8b-96c447959e31",
