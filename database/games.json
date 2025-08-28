@@ -71029,20 +71029,7 @@
     ],
     "AgeRatingNames": [
       "PEGI 18"
-    ],
-    "downloadInfo": {
-      "PC Game": {
-        "versions": [
-          {
-            "identifier": "COPC01",
-            "name": "Vanilla",
-            "platform": "PC Game",
-            "fileSize": "500MB",
-            "arguments": []
-          }
-        ]
-      }
-    }
+    ]
   },
   {
     "_id": "7f6475c4-3a2f-4c19-ac93-2677b149e4c2",
