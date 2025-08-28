@@ -145654,5 +145654,50 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1756337677689_0",
+    "Name": "Hunter × Hunter Nen × Impact",
+    "SortingName": "",
+    "Description": "Ancient <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Nen techniques</span> awaken as legendary <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>hunters</span> collide in battles that shatter reality itself.<br>From <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Gon's</span> explosive <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>Enhancement</span> strikes to <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Kurapika's</span> vengeful <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Crimson Eyes</span>, each warrior channels their deepest emotions into devastating <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>aura manifestations</span>.<br>The <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>Phantom Troupe's</span> shadows dance with <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>Killua's</span> lightning as <span style='color:#8FBC8F; font-weight:bold; text-shadow: 0 0 8px #8FBC8F;'>forbidden powers</span> clash in spectacular combat.<br>Master the six <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>Nen categories</span> and prove yourself worthy among the world's most dangerous fighters.",
+    "DescriptionArabic": "<div dir='rtl'>تستيقظ تقنيات <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>النين القديمة</span> بينما يتصادم <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الصيادون الأسطوريون</span> في معارك تحطم أسس الواقع نفسه.<br>من ضربات <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>جون</span> المتفجرة بقوة <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>التعزيز</span> إلى <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>العيون القرمزية</span> الانتقامية لـ<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>كورابيكا</span>, يحول كل محارب مشاعره العميقة إلى <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>تجليات هالة</span> مدمرة.<br>ترقص ظلال <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>عصابة العنكبوت الوهمي</span> مع برق <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>كيلوا</span> بينما تتصارع <span style='color:#8FBC8F; font-weight:bold; text-shadow: 0 0 8px #8FBC8F;'>القوى المحرمة</span> في قتال مذهل.<br>اتقن فئات <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>النين الست</span> واثبت جدارتك بين أخطر المحاربين في العالم.</div>",
+    "ReleaseDate": "2025-6-27",
+    "CriticScore": 72,
+    "BackgroundUrl": "https://archive.org/download/retrobackgrounds/Hunter%20%C3%97%20Hunter%20Nen%20%C3%97%20Impact%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retrocovers/Hunter%20%C3%97%20Hunter%20Nen%20%C3%97%20Impact%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=67t5vikUfhI",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromusic/Hunter%20x%20Hunter%20Arabic%20OP.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Fighting"
+    ],
+    "DeveloperNames": [
+      "Bandai Namco Entertainment"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "Length": 25,
+    "Tags": [
+      "New"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "CPC45",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3GB",
+            "arguments": [],
+            "executable": "HxHNENxIMPACT.exe",
+            "filename": "Hunter × Hunter Nen × Impact.zip"
+          }
+        ]
+      }
+    }
   }
 ]
