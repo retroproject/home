@@ -46098,7 +46098,6 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/55af5561-41b8-49c7-8d6c-4ff721550214.mp3",
     "PlatformNames": [
-      "PC Game",
       "Sony PlayStation 2"
     ],
     "GenreNames": [
@@ -46112,7 +46111,31 @@
     ],
     "AgeRatingNames": [
       "PEGI 18"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Enhanced",
+            "platform": "Sony PlayStation 2",
+            "emulator": "PCSX2",
+            "fileSize": "3GB",
+            "romFile": "Silent Hill 3.iso",
+            "filename": "Silent Hill 3.iso"
+          },
+          {
+            "identifier": "retro-ps2",
+            "name": "HD Textures",
+            "platform": "Sony PlayStation 2",
+            "emulator": "PCSX2",
+            "fileSize": "6GB",
+            "filename": "Silent Hill 3 HD Textures.zip"
+          }
+        ]
+      }
+    },
+    "hasIssue": true
   },
   {
     "_id": "55b5ebd9-fbdc-462b-95ea-d5d143d564ea",
@@ -53101,7 +53124,6 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/61c0a320-7518-4bed-8a84-dfb50ba2750a.mp3",
     "PlatformNames": [
-      "PC Game",
       "Sony PlayStation 2"
     ],
     "GenreNames": [
@@ -53115,7 +53137,31 @@
     ],
     "AgeRatingNames": [
       "PEGI 18"
-    ]
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0201",
+            "name": "Enhanced",
+            "platform": "Sony PlayStation 2",
+            "emulator": "PCSX2",
+            "fileSize": "4GB",
+            "romFile": "Silent Hill 4 The Room.iso",
+            "filename": "Silent Hill 4 The Room.iso"
+          },
+          {
+            "identifier": "retro-ps2",
+            "name": "HD Textures",
+            "platform": "Sony PlayStation 2",
+            "emulator": "PCSX2",
+            "fileSize": "3GB",
+            "filename": "Silent Hill 4 The Room HD Textures.zip"
+          }
+        ]
+      }
+    },
+    "hasIssue": true
   },
   {
     "_id": "61c85212-c082-4e8b-ad65-bae3124b9e14",
