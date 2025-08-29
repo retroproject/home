@@ -145828,5 +145828,51 @@
     ],
     "Length": 10,
     "CriticScore": 70
+  },
+  {
+    "_id": "game_1756507632681_0",
+    "Name": "Deltarune",
+    "SortingName": "",
+    "Description": "A crimson <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Dark World</span> bleeds through reality's cracks as <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Kris</span>, <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Susie</span>, and <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 8px #FFB6C1;'>Ralsei</span> discover that their choices may not be their own.<br>Beyond the <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>school halls</span> lies a twisted realm where <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>playing cards</span> wage eternal war and <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>forgotten toys</span> seek purpose in abandonment.<br>The <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>Knight's</span> shadow spreads as <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>Dark Fountains</span> threaten to drown the world in <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>roaring darkness</span>.<br>In this haunting sequel to <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Undertale</span>, friendship battles fate while something sinister pulls the strings, questioning whether free will is <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>just an illusion</span>.",
+    "DescriptionArabic": "<div dir='rtl'>ينزف <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>العالم المظلم</span> القرمزي عبر شقوق الواقع بينما يكتشف <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>كريس</span> و<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>سوزي</span> و<span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 8px #FFB6C1;'>رالسي</span> أن خياراتهم قد لا تكون ملكهم.<br>خلف <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>قاعات المدرسة</span> يكمن عالم ملتوٍ حيث تخوض <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>أوراق اللعب</span> حرباً أبدية و<span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>الألعاب المنسية</span> تبحث عن هدف في الهجران.<br>ينتشر ظل <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>الفارس</span> بينما تهدد <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>النوافير المظلمة</span> بإغراق العالم في <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>ظلام هادر</span>.<br>في هذا التتمة المسكونة لـ<span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>أندرتيل</span>، تحارب الصداقة القدر بينما يحرك شيء شرير الخيوط، مشككاً فيما إذا كانت الإرادة الحرة مجرد <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>وهم</span>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 85,
+    "Length": 25,
+    "BackgroundUrl": "https://archive.org/download/retrobackgrounds/Deltarune%20Wallpaper.jpeg",
+    "CoverUrl": "https://archive.org/download/retrocovers/Deltarune%20Cover%201024x1024.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=CN4ZcGJoZac",
+    "videoStart": 1.8,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromusic/Deltarune%20Don't%20Forget.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "RPG"
+    ],
+    "DeveloperNames": [
+      "Toby Fox"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "CPC45",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "590 MB",
+            "executable": "DELTARUNE.exe",
+            "arguments": [],
+            "buildID": "5 August 2025",
+            "filename": "Deltarune.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
   }
 ]
