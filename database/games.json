@@ -145763,22 +145763,6 @@
     ],
     "PublisherNames": [],
     "AgeRatingNames": [],
-    "downloadInfo": {
-      "PC Game": {
-        "versions": [
-          {
-            "identifier": "CPC45",
-            "name": "Vanilla",
-            "platform": "PC Game",
-            "fileSize": "94 GB",
-            "buildID": "28 August 2025",
-            "arguments": [],
-            "executable": "MGSDelta.exe",
-            "filename": "Metal Gear Solid Delta Snake Eater.zip"
-          }
-        ]
-      }
-    },
     "Tags": [
       "New"
     ]
@@ -146040,22 +146024,6 @@
     ],
     "PublisherNames": [],
     "AgeRatingNames": [],
-    "downloadInfo": {
-      "PC Game": {
-        "versions": [
-          {
-            "identifier": "CPC45",
-            "name": "Vanilla",
-            "platform": "PC Game",
-            "fileSize": "65 GB",
-            "arguments": [],
-            "buildID": "27 August 2025",
-            "executable": "LostSoulAside.exe",
-            "filename": "Lost Soul Aside.zip"
-          }
-        ]
-      }
-    },
     "Tags": [
       "New"
     ]
