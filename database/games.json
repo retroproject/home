@@ -145874,5 +145874,190 @@
     "Tags": [
       "New"
     ]
+  },
+  {
+    "_id": "game_1756526200801_0",
+    "Name": "Kathy Rain 1",
+    "SortingName": "Kathy Rain 01",
+    "Description": "Thunder rolls across the <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>Pacific Northwest</span> as <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Kathy Rain</span> returns to her hometown, drawn by mysteries that refuse to die with the past.<br>Her <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>grandfather's</span> funeral awakens buried secrets and <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>supernatural forces</span> that have haunted the <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>sleepy town</span> for decades.<br>Armed with her <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>motorcycle</span> and sharp wit, she uncovers a conspiracy involving <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>strange experiments</span>, <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>missing people</span>, and ancient powers.<br>In this atmospheric point-and-click mystery, every <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>raindrop</span> carries whispers of truth, and the <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>storm</span> reveals what darkness has tried to <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>bury</span>.",
+    "DescriptionArabic": "<div dir='rtl'>يدوي الرعد عبر <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>شمال غرب المحيط الهادئ</span> بينما تعود <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>كاثي رين</span> إلى مسقط رأسها، مجذوبة بألغاز ترفض الموت مع الماضي.<br>جنازة <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>جدها</span> توقظ أسراراً مدفونة و<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>قوى خارقة للطبيعة</span> طالما طاردت <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>البلدة النائمة</span> لعقود.<br>مسلحة بـ<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>دراجتها النارية</span> وذكائها الحاد، تكشف مؤامرة تتضمن <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>تجارب غريبة</span> و<span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>أشخاص مفقودين</span> وقوى قديمة.<br>في لغز الإشارة والنقر الجوي هذا، تحمل كل <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>قطرة مطر</span> همسات الحقيقة، و<span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>العاصفة</span> تكشف ما حاول الظلام <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>دفنه</span>.</div>",
+    "ReleaseDate": "2016",
+    "CriticScore": 75,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Kathy%20Rain%201%20Backgroud.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Kathy%20Rain%20Cover%201024x1024.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=5oxhUgUhq3g",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Kathy%20Rain%201%20A%20Detective%20is%20Born%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Clifftop Games"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "830 MB",
+            "filename": "Kathy Rain 1.zip",
+            "executable": "KathyRainDirectorsCut.exe",
+            "buildID": "20 May 2025",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ],
+    "hasIssue": false
+  },
+  {
+    "_id": "game_1756526200802_1",
+    "Name": "Kathy Rain 2 Soothsayer",
+    "SortingName": "Kathy Rain 02",
+    "Description": "Visions of <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>blood and prophecy</span> haunt <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Kathy Rain's</span> dreams as she discovers her <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>psychic abilities</span> are both gift and curse.<br>The <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Soothsayer</span> cult emerges from shadows, seeking to harness her powers for their own twisted <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>apocalyptic agenda</span>.<br>Between <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>reality</span> and <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>nightmare</span>, she must navigate a web of <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>ancient rituals</span> and <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>modern conspiracies</span> that threaten humanity itself.<br>In this supernatural thriller, the future hangs by the thread of <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>divine visions</span>, where seeing tomorrow might be the only way to save <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>today</span>.",
+    "DescriptionArabic": "<div dir='rtl'>تطارد رؤى <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الدم والنبوءة</span> أحلام <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>كاثي رين</span> بينما تكتشف أن <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>قدراتها النفسية</span> هبة ولعنة معاً.<br>تخرج طائفة <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>العراف</span> من الظلال، ساعية لتسخير قواها لـ<span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>أجندتها الملتوية المروعة</span>.<br>بين <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>الواقع</span> و<span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>الكابوس</span>، عليها التنقل عبر شبكة من <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>الطقوس القديمة</span> و<span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>المؤامرات المعاصرة</span> التي تهدد البشرية نفسها.<br>في هذا الإثارة الخارقة، يتعلق المستقبل بخيط من <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الرؤى الإلهية</span>، حيث رؤية الغد قد تكون الطريقة الوحيدة لإنقاذ <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>اليوم</span>.</div>",
+    "ReleaseDate": "2024",
+    "CriticScore": 80,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Kathy%20Rain%202%20Soothsayer%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Kathy%20Rain%202%20Soothsayer%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=JNZK--w7L3s",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Kathy%20Rain%202%20Soothsayer%20A%20Fate%20Serene.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Clifftop Games"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "filename": "Kathy Rain 2 Soothsayer.zip",
+            "executable": "KathyRain2.exe",
+            "buildID": "28 May 2025",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
+  },
+  {
+    "_id": "game_1756526200802_2",
+    "Name": "Patapon 1+2 Replay",
+    "SortingName": "",
+    "Description": "Ancient drums echo across forgotten lands as the <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Patapon tribe</span> awakens to the call of their <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>Mighty God</span> after centuries of silence.<br>With rhythmic <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>war chants</span> and divine guidance, these brave <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>eye warriors</span> march toward <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Earthend</span>, their promised land beyond the horizon.<br>Through <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>desert storms</span> and <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>mythical beasts</span>, they face the <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Zigoton army</span> and uncover the truth behind their <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>ancient exile</span>.<br>In this rhythmic adventure, every <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>beat</span> becomes battle cry, every <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>song</span> a prayer for victory in their epic journey of <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>redemption</span>.",
+    "DescriptionArabic": "<div dir='rtl'>تتردد الطبول القديمة عبر الأراضي المنسية بينما تستيقظ <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>قبيلة الباتابون</span> على نداء <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>إلههم العظيم</span> بعد قرون من الصمت.<br>بـ<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>ترانيم الحرب</span> الإيقاعية والهداية الإلهية، يتقدم هؤلاء <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>محاربو العين</span> الشجعان نحو <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>نهاية الأرض</span>، أرضهم الموعودة وراء الأفق.<br>عبر <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>عواصف الصحراء</span> و<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>الوحوش الأسطورية</span>، يواجهون <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>جيش الزيغوتون</span> ويكشفون الحقيقة وراء <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>نفيهم القديم</span>.<br>في مغامرة الإيقاع هذه، تصبح كل <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>نبضة</span> صرخة معركة، وكل <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>أغنية</span> دعاء للنصر في رحلتهم الملحمية من <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>الخلاص</span>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 82,
+    "Length": 30,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Patapon%201%2B2%20Replay%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Patapon%20Cover%201024x1024.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=5aL6y_DV_h4",
+    "videoStart": null,
+    "videoEnd": 42,
+    "MusicUrl": "https://archive.org/download/retromedia/Patapon's%201%2B2%20REPLAY%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Rhythm"
+    ],
+    "DeveloperNames": [
+      "Japan Studio"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "CPC46",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "PATAPON12_REPLAY.exe",
+            "buildID": "25 August 2025",
+            "arguments": [],
+            "filename": "Patapon 1+2 Replay.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
+  },
+  {
+    "_id": "game_1756530739517_0",
+    "Name": "Lost Soul Aside",
+    "SortingName": "",
+    "Description": "Ten years after losing his family to the <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>War of Souls</span>, <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Kazer</span> discovers the sentient blade <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Arena</span>, whose demonic consciousness merges with his grief-stricken soul.<br>The <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>symbiotic weapon</span> grants him power to hunt the <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>Fallen Angels</span> who orchestrated humanity's downfall, but each kill feeds <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>Arena's hunger</span> for vengeance.<br>Through <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>ruined megacities</span> where <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>technology</span> and <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>dark magic</span> collide, he uncovers the truth: his sister <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 8px #FFB6C1;'>Lina</span> lives, transformed into the enemy's weapon.<br>Now Kazer must choose between saving humanity or his sister, while <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>Arena's whispers</span> grow louder, promising ultimate power at the cost of his <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>last shred of humanity</span>.",
+    "DescriptionArabic": "<div dir='rtl'>بعد عشر سنوات من فقدان عائلته في <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>حرب الأرواح</span>، يكتشف <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>كايزر</span> النصل الواعي <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>أرينا</span>، الذي يندمج وعيه الشيطاني مع روحه المكلومة بالحزن.<br>يمنحه <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>السلاح التكافلي</span> القوة لاصطياد <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>الملائكة الساقطين</span> الذين دبروا سقوط البشرية، لكن كل قتل يغذي <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>جوع أرينا</span> للانتقام.<br>عبر <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>المدن العملاقة المدمرة</span> حيث تتصادم <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>التكنولوجيا</span> و<span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>السحر المظلم</span>، يكشف الحقيقة: أخته <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 8px #FFB6C1;'>لينا</span> حية، محولة إلى سلاح للعدو.<br>الآن يجب على كايزر الاختيار بين إنقاذ البشرية أو أخته، بينما تزداد <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>همسات أرينا</span> علواً، واعدة بقوة مطلقة مقابل <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>آخر ذرة من إنسانيته</span>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 90,
+    "Length": 25,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Lost%20Soul%20Aside%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Lost%20Soul%20Aside%20Cover%201024x1024.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=GRhg0RYYsa0",
+    "videoStart": 4,
+    "videoEnd": 53.99,
+    "MusicUrl": "https://archive.org/download/retromedia/Lost%20Soul%20Aside%20Theme%20Song.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Hack and Slash"
+    ],
+    "DeveloperNames": [
+      "UltiZero Games"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "CPC45",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "65 GB",
+            "arguments": [],
+            "buildID": "27 August 2025",
+            "executable": "LostSoulAside.exe",
+            "filename": "Lost Soul Aside.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
   }
 ]
