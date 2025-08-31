@@ -113234,8 +113234,7 @@
       "Nintendo 64": {
         "versions": [
           {
-            "identifier": "",
-            "filename": "Banjo-Tooie.zip",
+            "identifier": "\t e03e03",
             "name": "Vanilla",
             "platform": "Nintendo 64",
             "emulator": "RetroArch",
@@ -113244,11 +113243,13 @@
             "arguments": [
               "-L",
               ".\\cores\\mupen64plus_next_libretro.dll"
-            ]
+            ],
+            "filename": "Banjo-Tooie.zip"
           }
         ]
       }
-    }
+    },
+    "hasIssue": true
   },
   {
     "_id": "c6db55a6-9b15-4d6e-b6e6-d2170a83e6d3",
@@ -137395,8 +137396,7 @@
       "Nintendo 64": {
         "versions": [
           {
-            "identifier": "",
-            "filename": "Banjo-Kazooie.zip",
+            "identifier": "\t e03e03",
             "name": "Vanilla",
             "platform": "Nintendo 64",
             "emulator": "RetroArch",
@@ -137405,11 +137405,13 @@
             "arguments": [
               "-L",
               ".\\cores\\mupen64plus_next_libretro.dll"
-            ]
+            ],
+            "filename": "Banjo-Kazooie.zip"
           }
         ]
       }
-    }
+    },
+    "hasIssue": true
   },
   {
     "_id": "f01ed004-a4a3-4518-8905-6d87f09cbe20",
@@ -145765,7 +145767,23 @@
     "AgeRatingNames": [],
     "Tags": [
       "New"
-    ]
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP001",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "61GB",
+            "arguments": [],
+            "buildID": "28 August 2025",
+            "executable": "MGSDelta.exe",
+            "filename": "00003.zip"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "game_1756457066591_1",
@@ -145889,14 +145907,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "",
+            "identifier": "RPRP001",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "830 MB",
-            "filename": "Kathy Rain 1.zip",
+            "fileSize": "830MB",
             "executable": "KathyRainDirectorsCut.exe",
             "buildID": "20 May 2025",
-            "arguments": []
+            "arguments": [],
+            "filename": "00001.zip"
           }
         ]
       }
@@ -145936,14 +145954,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "",
+            "identifier": "CPC45",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "4 GB",
-            "filename": "Kathy Rain 2 Soothsayer.zip",
             "executable": "KathyRain2.exe",
             "buildID": "28 May 2025",
-            "arguments": []
+            "arguments": [],
+            "filename": "Kathy Rain 2 Soothsayer.zip"
           }
         ]
       }
@@ -145989,14 +146007,15 @@
             "executable": "PATAPON12_REPLAY.exe",
             "buildID": "25 August 2025",
             "arguments": [],
-            "filename": "Patapon 1+2 Replay.zip"
+            "filename": "00001.zip"
           }
         ]
       }
     },
     "Tags": [
       "New"
-    ]
+    ],
+    "hasIssue": true
   },
   {
     "_id": "game_1756530739517_0",
@@ -146026,6 +146045,23 @@
     "AgeRatingNames": [],
     "Tags": [
       "New"
-    ]
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP001",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "86GB",
+            "arguments": [],
+            "buildID": "27 August 2025",
+            "executable": "LostSoulAside.exe",
+            "filename": "00002.zip"
+          }
+        ]
+      }
+    },
+    "hasIssue": false
   }
 ]
