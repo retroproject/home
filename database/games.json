@@ -63775,12 +63775,21 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC16",
-            "filename": "Bully.zip",
+            "identifier": "RPRP001",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Bully.exe",
-            "fileSize": "4GB"
+            "fileSize": "4GB",
+            "filename": "00004.zip"
+          },
+          {
+            "identifier": "CPC16",
+            "name": "Enhanced",
+            "platform": "PC Game",
+            "executable": "Bully.exe",
+            "fileSize": "4GB",
+            "notes": "Have Issues With Some PCs Not Running",
+            "filename": "Bully.zip"
           }
         ]
       }
@@ -90046,17 +90055,17 @@
       "NEC TurboGrafx-CD": {
         "versions": [
           {
-            "identifier": "",
-            "filename": "Dragon Slayer The Legend of Heroes II (Japanese).chd",
+            "identifier": "nec01nec01",
             "name": "Japanese",
             "platform": "NEC TurboGrafx-CD",
             "emulator": "RetroArch",
             "romFile": "Dragon Slayer The Legend of Heroes II (Japanese).chd",
-            "fileSize": "700MB",
+            "fileSize": "380MB",
             "arguments": [
               "-L",
               ".\\cores\\mednafen_supergrafx_libretro.dll"
-            ]
+            ],
+            "filename": "Dragon Slayer The Legend of Heroes II (Japanese).chd"
           }
         ]
       }
@@ -113234,12 +113243,12 @@
       "Nintendo 64": {
         "versions": [
           {
-            "identifier": "\t e03e03",
+            "identifier": "e03e03",
             "name": "Vanilla",
             "platform": "Nintendo 64",
             "emulator": "RetroArch",
             "romFile": "Banjo-Tooie.z64",
-            "fileSize": "15MB",
+            "fileSize": "40MB",
             "arguments": [
               "-L",
               ".\\cores\\mupen64plus_next_libretro.dll"
@@ -113249,7 +113258,7 @@
         ]
       }
     },
-    "hasIssue": true
+    "hasIssue": false
   },
   {
     "_id": "c6db55a6-9b15-4d6e-b6e6-d2170a83e6d3",
@@ -114286,17 +114295,17 @@
       "NEC TurboGrafx-CD": {
         "versions": [
           {
-            "identifier": "",
-            "filename": "Dragon Slayer The Legend of Heroes.chd",
+            "identifier": "nec01nec01",
             "name": "Vanilla",
             "platform": "NEC TurboGrafx-CD",
             "emulator": "RetroArch",
             "romFile": "Dragon Slayer The Legend of Heroes.chd",
-            "fileSize": "600MB",
+            "fileSize": "380MB",
             "arguments": [
               "-L",
               ".\\cores\\mednafen_supergrafx_libretro.dll"
-            ]
+            ],
+            "filename": "Dragon Slayer The Legend of Heroes.chd"
           }
         ]
       }
@@ -132397,25 +132406,25 @@
         "versions": [
           {
             "identifier": "retro-psx",
-            "filename": "Breath of Fire IV (Enhanced).chd",
             "name": "Enhanced",
             "platform": "Sony PlayStation 1",
             "emulator": "RetroArch",
-            "fileSize": "600MB",
-            "romFile": "Breath of Fire IV (Enhanced).chd",
+            "fileSize": "200MB",
+            "romFile": "Breath of Fire IV (Enhanced).zip",
             "arguments": [
               "-L",
               ".\\cores\\mednafen_psx_hw_libretro.dll"
-            ]
+            ],
+            "filename": "Breath of Fire IV (Enhanced).zip"
           },
           {
             "identifier": "retro-psx",
-            "filename": "Breath of Fire IV RetroArch HD Textures.zip",
             "name": "HD Textures",
             "platform": "Sony PlayStation 1",
             "emulator": "RetroArch",
             "fileSize": "3GB",
-            "arguments": []
+            "arguments": [],
+            "filename": "Breath of Fire IV RetroArch HD Textures.zip"
           }
         ]
       }
@@ -137396,14 +137405,14 @@
       "Nintendo 64": {
         "versions": [
           {
-            "identifier": "\t e03e03",
+            "identifier": "e03e03",
             "name": "Vanilla",
             "platform": "Nintendo 64",
             "emulator": "RetroArch",
             "romFile": "Banjo-Kazooie.z64",
-            "fileSize": "15MB",
+            "fileSize": "20MB",
             "arguments": [
-              "-L",
+              "-L\t",
               ".\\cores\\mupen64plus_next_libretro.dll"
             ],
             "filename": "Banjo-Kazooie.zip"
@@ -137411,7 +137420,7 @@
         ]
       }
     },
-    "hasIssue": true
+    "hasIssue": false
   },
   {
     "_id": "f01ed004-a4a3-4518-8905-6d87f09cbe20",
@@ -146063,5 +146072,51 @@
       }
     },
     "hasIssue": false
+  },
+  {
+    "_id": "game_1756640816049_0",
+    "Name": "Hell Clock",
+    "SortingName": "",
+    "Description": "Midnight strikes eternally in the <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Infernal Clocktower</span>, where condemned souls race against <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>time itself</span> to escape before the thirteenth chime seals their fate forever.<br>Each tick summons new <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>demonic legions</span> while the <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>clock hands</span> carve reality into fragments, resetting rooms and rearranging <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>hellish labyrinths</span> with every rotation.<br>Cursed <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>temporal weapons</span> age enemies to dust or reverse their existence, but using them accelerates your own <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>countdown to oblivion</span>.<br>In this frantic roguelite, every second burns like <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>brimstone</span>, every minute costs a piece of your <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>soul</span>, and the <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>Hell Clock</span> never stops <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>ticking</span>.",
+    "DescriptionArabic": "<div dir='rtl'>تدق منتصف الليل أبدياً في <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>برج الساعة الجهنمي</span>، حيث تتسابق الأرواح المحكومة ضد <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>الزمن نفسه</span> للهروب قبل أن تختم الدقة الثالثة عشرة مصيرهم إلى الأبد.<br>كل دقة تستدعي <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>جحافل شيطانية</span> جديدة بينما <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>عقارب الساعة</span> تنحت الواقع إلى شظايا، معيدة ضبط الغرف ومعيدة ترتيب <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>المتاهات الجهنمية</span> مع كل دورة.<br><span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>الأسلحة الزمنية</span> الملعونة تشيخ الأعداء إلى غبار أو تعكس وجودهم، لكن استخدامها يسرع <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>عد تنازلي نحو العدم</span> الخاص بك.<br>في هذه اللعبة المحمومة، كل ثانية تحترق مثل <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>الكبريت</span>، كل دقيقة تكلف قطعة من <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>روحك</span>، و<span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>ساعة الجحيم</span> لا تتوقف عن <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>الدق</span> أبداً.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 75,
+    "Length": 30,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Hell%20Clock%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Hell%20Clock%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=Mp9tbPaM7zs",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Hell%20Clock%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "Rogue Snail"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP001",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4GB",
+            "executable": "Hell Clock.exe",
+            "buildID": "27 August 2025",
+            "arguments": [],
+            "filename": "00005.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
   }
 ]
