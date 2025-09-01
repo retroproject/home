@@ -146090,5 +146090,51 @@
     "Tags": [
       "New"
     ]
+  },
+  {
+    "_id": "game_1756716498809_0",
+    "Name": "Fallen Aces",
+    "SortingName": "",
+    "Description": "Brass knuckles meet <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>tommy guns</span> in the rain-slicked streets of <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>Switchblade City</span>, where hard-boiled detective <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Mike Torrino</span> fights corruption with his fists and wits.<br>The <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Ace of Spades</span> crime syndicate has the city in a stranglehold, turning cops into <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>killers</span> and judges into <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>pawns</span>.<br>From <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>smoky speakeasies</span> to <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>neon-lit docks</span>, every alleyway becomes a battlefield where improvised weapons and <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>brutal combos</span> rule the night.<br>In this pulp noir shooter, justice wears a <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>fedora</span> and carries a <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>lead pipe</span>, because sometimes the only law that matters is the one you enforce yourself.",
+    "DescriptionArabic": "<div dir='rtl'>تلتقي مفاصل النحاس مع <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>رشاشات تومي</span> في شوارع <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>مدينة سويتشبليد</span> الزلقة بالمطر، حيث يحارب المحقق الصلب <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>مايك تورينو</span> الفساد بقبضاته وذكائه.<br>نقابة الجريمة <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>آس البستوني</span> تخنق المدينة، محولة الشرطة إلى <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>قتلة</span> والقضاة إلى <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>بيادق</span>.<br>من <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>الحانات السرية المدخنة</span> إلى <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>الأرصفة المضاءة بالنيون</span>، يصبح كل زقاق ساحة معركة حيث تحكم الأسلحة المرتجلة و<span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>الضربات الوحشية</span> الليل.<br>في لعبة التصويب النوار هذه، ترتدي العدالة <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>قبعة فيدورا</span> وتحمل <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>أنبوب رصاص</span>، لأن أحياناً القانون الوحيد المهم هو الذي تفرضه بنفسك.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "Length": 5,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Fallen%20Ace%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Fallen%20Aces%20Cover%201024x1024.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=vTWta2kwHzM",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Fallen%20Aces%20Intro%20.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Shooter"
+    ],
+    "DeveloperNames": [
+      "New Blood Interactive"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP001",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "arguments": [],
+            "buildID": "30 August 2025",
+            "executable": "Fallen Aces.exe",
+            "filename": "00008.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
   }
 ]
