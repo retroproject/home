@@ -13679,12 +13679,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC33",
-            "filename": "Astral Ascent.zip",
+            "identifier": "RPRP001",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Astral Ascent.exe",
-            "fileSize": "2GB"
+            "fileSize": "2GB",
+            "buildID": "30 August 2025",
+            "filename": "00007.zip"
           }
         ]
       }
