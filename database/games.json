@@ -99261,7 +99261,7 @@
     "SortingName": "Super Meat Boy 01",
     "Description": "The evil <span style='color: #8b0000; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>Dr. Fetus</span> has kidnapped <span style='color: #ff69b4; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>Bandage Girl</span>, forcing the heroic <span style='color: #dc143c; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>Meat Boy</span> on a desperate rescue mission through deadly obstacle courses.<br>Each level presents increasingly sadistic challenges filled with <span style='color: #ffd700; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>spinning saw blades</span>, <span style='color: #ff4500; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>lava pits</span>, and <span style='color: #32cd32; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>toxic waste</span>.<br>Despite countless gruesome deaths that leave <span style='color: #8b0000; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>blood-stained walls</span>, Meat Boy's determination never wavers in his quest for true love.<br>The twisted <span style='color: #9370db; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>factory settings</span> and <span style='color: #4169e1; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>hellish landscapes</span> serve as backdrops for this darkly comedic tale of <span style='color: #ff1493; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>undying devotion</span>.",
     "DescriptionArabic": "<div dir='rtl'>الشرير <span style='color: #8b0000; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>د. فيتس</span> اختطف <span style='color: #ff69b4; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>بانديج جيرل</span>، مجبراً البطل <span style='color: #dc143c; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>ميت بوي</span> على مهمة إنقاذ يائسة عبر دورات عوائق مميتة.<br>كل مستوى يقدم تحديات ساديّة متزايدة مليئة بـ<span style='color: #ffd700; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>شفرات المنشار الدوارة</span> و<span style='color: #ff4500; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>حفر الحمم</span> و<span style='color: #32cd32; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>النفايات السامة</span>.<br>رغم الموت المروع المتكرر الذي يترك <span style='color: #8b0000; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>جدران ملطخة بالدماء</span>، عزيمة ميت بوي لا تتزعزع في بحثه عن الحب الحقيقي.<br>إعدادات <span style='color: #9370db; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>المصنع الملتوية</span> و<span style='color: #4169e1; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>المناظر الجهنمية</span> تخدم كخلفيات لهذه الحكاية الكوميدية المظلمة عن <span style='color: #ff1493; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>الإخلاص الخالد</span>.</div>",
-    "ReleaseDate": "",
+    "ReleaseDate": "2008",
     "CriticScore": 85,
     "BackgroundImage": "15d7c0c0-acfb-46ae-ba44-56f96e5e2e46.jpeg",
     "CoverImage": "89329401-3891-44b0-9a2c-ed22280fffcd.png",
@@ -114073,7 +114073,8 @@
           }
         ]
       }
-    }
+    },
+    "ReleaseDate": "2019"
   },
   {
     "_id": "c7d857e1-feb5-4362-b333-133f2a5928d1",
@@ -142287,13 +142288,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC37",
+            "identifier": "RPRP001",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "2GB",
+            "fileSize": "1GB",
             "arguments": [],
             "executable": "The Rogue Prince of Persia.exe",
-            "filename": "The Rogue Prince of Persia.zip"
+            "buildID": "26 August 2025",
+            "filename": "00009.zip"
           }
         ]
       }
@@ -146129,6 +146131,235 @@
             "buildID": "30 August 2025",
             "executable": "Fallen Aces.exe",
             "filename": "00008.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
+  },
+  {
+    "_id": "game_1756724384759_0",
+    "Name": "Dragon Is Dead",
+    "SortingName": "",
+    "Description": "The ancient <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>dragon tyrant</span> lies slain, but his death curse transforms the kingdom into a <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>nightmare realm</span> where heroes become the hunted.<br>As the last <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>knight errant</span>, you navigate <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>shifting dungeons</span> where dead dragon's <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>vengeful essence</span> corrupts reality itself.<br>Each death resurrects you stronger but the <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>dragon's ghost</span> learns too, spawning new <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>abominations</span> from your failures.<br>In this roguelite odyssey, victory means breaking the <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>death cycle</span> before the kingdom's <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>last hope</span> fades into the <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>eternal darkness</span> the dragon left behind.",
+    "DescriptionArabic": "<div dir='rtl'>يرقد <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>التنين الطاغية</span> القديم قتيلاً، لكن لعنة موته تحول المملكة إلى <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>عالم كابوسي</span> حيث يصبح الأبطال مطاردين.<br>كآخر <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>فارس جوال</span>، تتنقل عبر <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>زنزانات متغيرة</span> حيث <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>جوهر التنين الانتقامي</span> يفسد الواقع نفسه.<br>كل موت يبعثك أقوى لكن <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>شبح التنين</span> يتعلم أيضاً، مولداً <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>رجاسات</span> جديدة من إخفاقاتك.<br>في هذه الأوديسة، النصر يعني كسر <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>دورة الموت</span> قبل أن يتلاشى <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>آخر أمل</span> للمملكة في <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>الظلام الأبدي</span> الذي خلفه التنين.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 75,
+    "Length": 5,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Dragon%20Is%20Dead%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Dragon%20Is%20Dead%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=jcjTHZp40mg",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Dragon%20Is%20Dead%20Main%20Menu.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "TeamSuneat"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP001",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "ProjectDragon.exe",
+            "buildID": "30 August 2025",
+            "arguments": [],
+            "filename": "00010.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
+  },
+  {
+    "_id": "game_1756724384759_1",
+    "Name": "Echoes Of The End",
+    "SortingName": "",
+    "Description": "When the world ended, only <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>echoes</span> remained, haunting the <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>frozen ruins</span> where <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 8px #FFB6C1;'>Astrid</span> searches for her lost brother amid eternal winter.<br>Ancient <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Norse spirits</span> whisper secrets while <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>corrupted gods</span> stalk through blizzards, drawn to the <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>divine spark</span> she unknowingly carries.<br>Each discovered <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>memory fragment</span> reveals how paradise became purgatory, and why her brother's <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>sacrifice</span> might have caused it all.<br>In this melancholic adventure, hope flickers like <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>northern lights</span> against darkness, promising either <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>redemption</span> or the final silence that follows every <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>echo</span>.",
+    "DescriptionArabic": "<div dir='rtl'>عندما انتهى العالم، بقيت <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>الأصداء</span> فقط، تطارد <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>الأطلال المتجمدة</span> حيث تبحث <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 8px #FFB6C1;'>أستريد</span> عن أخيها المفقود وسط الشتاء الأبدي.<br>تهمس <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>أرواح الشمال</span> القديمة بالأسرار بينما تتربص <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>الآلهة الفاسدة</span> عبر العواصف الثلجية، منجذبة إلى <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>الشرارة الإلهية</span> التي تحملها دون علمها.<br>كل <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>شظية ذاكرة</span> مكتشفة تكشف كيف أصبحت الجنة مطهراً، ولماذا قد تكون <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>تضحية</span> أخيها السبب في كل ذلك.<br>في هذه المغامرة الكئيبة، يرفرف الأمل مثل <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>الشفق القطبي</span> ضد الظلام، واعداً إما بـ<span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الخلاص</span> أو الصمت الأخير الذي يتبع كل <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>صدى</span>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 70,
+    "Length": 15,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Echoes%20Of%20The%20End%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Echoes%20Of%20The%20End%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=Hi03NA9aLxY",
+    "videoStart": 2,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Echoes%20of%20the%20End%20Bergmal.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Myrkur Games"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP001",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "44 GB",
+            "buildID": "28 August 2025",
+            "arguments": [],
+            "executable": "TheDarken.exe",
+            "filename": "00011.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
+  },
+  {
+    "_id": "game_1756724384759_2",
+    "Name": "Isles Of Sea And Sky",
+    "SortingName": "",
+    "Description": "Floating islands drift through <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>celestial oceans</span> where ancient <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>sky temples</span> hold puzzles that bridge the realms between heaven and sea.<br>A young <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>apprentice mage</span> must restore the <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>elemental balance</span> by solving riddles left by the <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>First Architects</span> who shaped reality.<br>Each island harbors <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>mechanical wonders</span> and <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>water spirits</span> that test both wit and wisdom through increasingly complex challenges.<br>In this serene puzzle adventure, every solved mystery brings the scattered <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>sky kingdoms</span> closer together, weaving a new constellation of <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>hope</span> in the endless <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>azure</span>.",
+    "DescriptionArabic": "<div dir='rtl'>تطفو الجزر عبر <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>محيطات سماوية</span> حيث تحمل <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>معابد السماء</span> القديمة ألغازاً تربط العوالم بين الجنة والبحر.<br>يجب على <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>ساحر متدرب</span> شاب استعادة <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>التوازن العنصري</span> بحل الأحاجي التي تركها <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>المعماريون الأوائل</span> الذين شكلوا الواقع.<br>كل جزيرة تؤوي <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>عجائب ميكانيكية</span> و<span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>أرواح مائية</span> تختبر الذكاء والحكمة عبر تحديات متزايدة التعقيد.<br>في مغامرة الألغاز الهادئة هذه، كل لغز محلول يقرب <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>ممالك السماء</span> المتناثرة، نساجاً كوكبة جديدة من <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>الأمل</span> في <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>اللازورد</span> اللامتناهي.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "Length": 20,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Isles%20Of%20Sea%20And%20Sky%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Isles%20Of%20Sea%20And%20Sky%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=euaG9rsGrfA",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Isles%20of%20Sea%20and%20Sky%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Puzzle"
+    ],
+    "DeveloperNames": [
+      "Cicada Games"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP001",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "430 MB",
+            "executable": "IslesOfSeaAndSky.exe",
+            "arguments": [],
+            "filename": "00012.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
+  },
+  {
+    "_id": "game_1756724384759_3",
+    "Name": "Rogue Loops",
+    "SortingName": "",
+    "Description": "Trapped in a <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>temporal prison</span>, every death rewinds time but your <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>memories persist</span>, turning each loop into a deadlier dance.<br>The <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>Chronarch</span> watches from beyond time, amused as you struggle through his <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>maze of moments</span> where past and future collide.<br>Collect <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>temporal fragments</span> to unlock new abilities, but beware: each loop <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>corrupts reality</span> further, spawning paradoxical <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>nightmare creatures</span>.<br>In this mind-bending roguelite, mastery means learning the <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>rhythm of repetition</span> while racing against the <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>collapse</span> of causality itself.",
+    "DescriptionArabic": "<div dir='rtl'>محاصر في <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>سجن زمني</span>، كل موت يعيد الزمن لكن <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>ذكرياتك تبقى</span>، محولاً كل حلقة إلى رقصة أكثر فتكاً.<br>يراقب <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>سيد الزمن</span> من وراء الوقت، مستمتعاً بكفاحك عبر <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>متاهة اللحظات</span> حيث يتصادم الماضي والمستقبل.<br>اجمع <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>شظايا زمنية</span> لفتح قدرات جديدة، لكن احذر: كل حلقة <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>تفسد الواقع</span> أكثر، مولدة <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>مخلوقات كابوسية</span> متناقضة.<br>في هذه اللعبة المحيرة، الإتقان يعني تعلم <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>إيقاع التكرار</span> بينما تتسابق ضد <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>انهيار</span> السببية نفسها.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 70,
+    "Length": 5,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Rogue%20Loops%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Rogue%20Loops%20Cover%201024x1024.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=E0PluT2R7y8",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Rogue%20Loops%20OST.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "Fubu Games"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP001",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "rogue_loops.exe",
+            "buildID": "1 July 2025",
+            "arguments": [],
+            "filename": "00013.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
+  },
+  {
+    "_id": "game_1756724384759_4",
+    "Name": "Space Adventure Cobra The Awakening",
+    "SortingName": "",
+    "Description": "Space pirate <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Cobra</span> awakens from memory erasure to find his legendary <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Psychogun</span> arm and the galaxy's deadliest bounty on his head.<br>The seductive android <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>Lady Armaroid</span> leads him through <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>neon-soaked space ports</span> where the <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Pirate Guild</span> hunts for ancient treasures.<br>Between <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>laser battles</span> and <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>zero-gravity heists</span>, he uncovers a conspiracy involving the <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>Crystal Boy</span> and galactic domination.<br>In this retro space opera, charm and <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>quick reflexes</span> are deadlier than any weapon, and love might be the greatest <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>adventure</span> of all.",
+    "DescriptionArabic": "<div dir='rtl'>يستيقظ قرصان الفضاء <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>كوبرا</span> من محو الذاكرة ليجد ذراعه الأسطورية <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>المسدس النفسي</span> وأخطر مكافأة في المجرة على رأسه.<br>تقوده الآلية الفاتنة <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>ليدي أرمارويد</span> عبر <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>موانئ فضائية مغمورة بالنيون</span> حيث تبحث <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>نقابة القراصنة</span> عن كنوز قديمة.<br>بين <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>معارك الليزر</span> و<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>سرقات انعدام الجاذبية</span>، يكشف مؤامرة تتضمن <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>الفتى البلوري</span> والهيمنة المجرية.<br>في أوبرا الفضاء الكلاسيكية هذه، السحر و<span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>ردود الفعل السريعة</span> أكثر فتكاً من أي سلاح، والحب قد يكون أعظم <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>مغامرة</span> على الإطلاق.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 70,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Space%20Adventure%20Cobra%20The%20Awakening%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Space%20Adventure%20Cobra%20The%20Awakening%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=dt6XXfcdVY0",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Space%20Adventure%20Cobra%20The%20Awakening%20OP.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Action"
+    ],
+    "DeveloperNames": [
+      "Magic Pockets"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP001",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "Space_Adventure_Cobra_-_The_Awakening.exe",
+            "buildID": "28 August 2025",
+            "arguments": [],
+            "filename": "00014.zip"
           }
         ]
       }
