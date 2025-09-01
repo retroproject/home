@@ -122998,12 +122998,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC18",
-            "filename": "Dead Cells.zip",
+            "identifier": "RPRP001",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "deadcells.exe",
-            "fileSize": "2GB"
+            "fileSize": "2GB",
+            "buildID": "27 August 2024",
+            "filename": "00006.zip"
           }
         ]
       }
