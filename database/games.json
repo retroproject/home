@@ -99539,7 +99539,7 @@
     "_id": "b1103822-199b-44ca-b85f-4f23fbda42fa",
     "GameId": "3c83e9a604877b8a6e893acf1a2801c6",
     "Name": "Dead Rising",
-    "SortingName": "Dead Rising 01",
+    "SortingName": "Dead Rising 01.01",
     "Description": "Photojournalist <span style='color: #ffd700; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>Frank West</span> investigates a mysterious outbreak in <span style='color: #4169e1; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>Willamette</span> shopping mall, only to discover himself trapped with thousands of ravenous <span style='color: #8b0000; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>zombies</span>.<br>Armed with everyday items from <span style='color: #32cd32; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>baseball bats</span> to <span style='color: #ff6b47; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>lawnmowers</span>, Frank must survive 72 hours while uncovering the truth behind <span style='color: #9370db; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>Carlito's vendetta</span>.<br>The sinister <span style='color: #dc143c; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>government conspiracy</span> involves illegal human experimentation and <span style='color: #ff8c00; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>Santa Cabeza's</span> dark past.<br>As <span style='color: #00ced1; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>rescue helicopters</span> approach and the truth emerges, Frank realizes the outbreak was orchestrated to cover up <span style='color: #8b4513; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>pharmaceutical atrocities</span>.",
     "DescriptionArabic": "<div dir='rtl'>الصحفي المصور <span style='color: #ffd700; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>فرانك ويست</span> يحقق في تفشٍ غامض في مول <span style='color: #4169e1; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>ويلاميت</span> التجاري، ليكتشف أنه محاصر مع آلاف <span style='color: #8b0000; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>الزومبي</span> الجائعة.<br>مسلحاً بأغراض يومية من <span style='color: #32cd32; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>مضارب البيسبول</span> إلى <span style='color: #ff6b47; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>جزازات العشب</span>، على فرانك النجاة لـ72 ساعة بينما يكشف الحقيقة وراء <span style='color: #9370db; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>انتقام كارليتو</span>.<br><span style='color: #dc143c; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>المؤامرة الحكومية</span> الشريرة تشمل تجارب بشرية غير قانونية وماضي <span style='color: #ff8c00; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>سانتا كابيزا</span> المظلم.<br>مع اقتراب <span style='color: #00ced1; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>طائرات الإنقاذ</span> وظهور الحقيقة، يدرك فرانك أن التفشي كان مدبراً لإخفاء <span style='color: #8b4513; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>فظائع صيدلانية</span>.</div>",
     "ReleaseDate": "2006-8-8",
@@ -104120,12 +104120,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC34",
-            "filename": "Disorder.zip",
+            "identifier": "RPRP001",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "disorder.exe",
-            "fileSize": "14GB"
+            "fileSize": "14GB",
+            "buildID": "16 August 2025",
+            "filename": "00016.zip"
           }
         ]
       }
@@ -145730,16 +145731,18 @@
             "fileSize": "3GB",
             "arguments": [],
             "executable": "HxHNENxIMPACT.exe",
+            "buildID": "5 August 2025",
             "filename": "Hunter × Hunter Nen × Impact.zip"
           },
           {
-            "identifier": "RORO001",
+            "identifier": "RPRP001",
             "name": "Online",
             "platform": "PC Game",
             "fileSize": "3GB",
             "arguments": [],
             "buildID": "1.06",
             "executable": "HxHNENxIMPACT.exe",
+            "notes": "Online: Player Match → Find/Create Room",
             "filename": "00015.zip"
           }
         ]
@@ -146384,6 +146387,144 @@
             "buildID": "28 August 2025",
             "arguments": [],
             "filename": "00014.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
+  },
+  {
+    "_id": "game_1756776286373_0",
+    "Name": "Bad Cheese",
+    "SortingName": "",
+    "Description": "Rancid <span style='color:#90EE90; font-weight:bold; text-shadow: 0 0 8px #90EE90;'>cheese fumes</span> fill the abandoned <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>dairy factory</span> where something ancient and hungry stirs within the <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>golden wheels</span> of aged cheddar.<br>As night-shift <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>security guard</span>, you discover the <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>cultist workers</span> have been feeding souls to their <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>dairy deity</span>, creating sentient cheese that hungers for flesh.<br>Armed only with a <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>flashlight</span> and <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>mouse traps</span>, you must survive until dawn while the <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>moldy horrors</span> ooze through ventilation shafts.<br>In this grotesque survival horror, every creaking pipe could herald death by <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>fermented nightmare</span>, and the smell alone drives men to <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>madness</span>.",
+    "DescriptionArabic": "<div dir='rtl'>تملأ <span style='color:#90EE90; font-weight:bold; text-shadow: 0 0 8px #90EE90;'>أبخرة الجبن</span> الفاسد <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>مصنع الألبان</span> المهجور حيث يتحرك شيء قديم وجائع داخل <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>عجلات</span> الشيدر المعتق الذهبية.<br>كـ<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>حارس أمن</span> الوردية الليلية، تكتشف أن <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>العمال الطائفيين</span> كانوا يطعمون الأرواح لـ<span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>إله الألبان</span> خاصتهم، خالقين جبناً واعياً يتوق للحم.<br>مسلحاً فقط بـ<span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>مصباح يدوي</span> و<span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>مصائد فئران</span>، عليك النجاة حتى الفجر بينما <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>رعب العفن</span> يتسرب عبر فتحات التهوية.<br>في رعب البقاء الغريب هذا، كل أنبوب صرير قد ينذر بالموت من <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>كابوس متخمر</span>، والرائحة وحدها تدفع الرجال إلى <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>الجنون</span>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 70,
+    "Length": 6,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Bad%20Cheese%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/retromedia/Bad%20Cheese%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=E6KeE_uuErA",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Bad%20Cheese%20OP%20Music.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "Simon Lukasik"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP001",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "buildID": "1 September 2025",
+            "arguments": [],
+            "executable": "BadCheese.exe",
+            "filename": "00017.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
+  },
+  {
+    "_id": "game_1756776286374_1",
+    "Name": "Dead Rising Deluxe Remaster",
+    "SortingName": "Dead Rising 01.02",
+    "Description": "Seventy-two hours until rescue as photojournalist <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Frank West</span> documents the apocalypse unfolding in <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Willamette Mall</span>, where thousands of undead shoppers still hunt for bargains.<br>The government's <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>dark secret</span> behind the outbreak reveals itself through <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>psychopathic survivors</span> who've embraced madness as their new reality.<br>Every object becomes a weapon—from <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>chainsaws</span> to <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>mannequin torsos</span>—as you rescue survivors and uncover the <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>conspiracy</span> that turned paradise into purgatory.<br>In this remastered nightmare, <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>time</span> is your deadliest enemy, every photo tells a story of horror, and the truth is worth more than <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>survival</span>.",
+    "DescriptionArabic": "<div dir='rtl'>اثنتان وسبعون ساعة حتى الإنقاذ بينما يوثق المصور الصحفي <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>فرانك ويست</span> نهاية العالم في <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>مول ويلاميت</span>، حيث لا يزال آلاف المتسوقين الأحياء الأموات يبحثون عن الصفقات.<br>يكشف <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>السر المظلم</span> للحكومة وراء التفشي نفسه من خلال <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>ناجين مختلين</span> احتضنوا الجنون كواقعهم الجديد.<br>كل شيء يصبح سلاحاً—من <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>المناشير</span> إلى <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>جذوع العارضات</span>—بينما تنقذ الناجين وتكشف <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>المؤامرة</span> التي حولت الجنة إلى مطهر.<br>في هذا الكابوس المحسن، <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>الوقت</span> عدوك الأكثر فتكاً، كل صورة تحكي قصة رعب، والحقيقة تساوي أكثر من <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>البقاء</span>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "Length": 15,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Dead%20Rising%20Deluxe%20Remaster%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/retromedia/Dead%20Rising%20Deluxe%20Remaster%20Cover%201024x1024.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=aIvLxIgQb5w",
+    "videoStart": 2.3,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Dead%20Rising%20Deluxe%20Remaster%20Doesnt%20Matter.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Action"
+    ],
+    "DeveloperNames": [
+      "Capcom"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP001",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "66 GB",
+            "buildID": "1 September 2025",
+            "arguments": [],
+            "executable": "DRDR.exe",
+            "filename": "00018.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
+  },
+  {
+    "_id": "game_1756776286374_2",
+    "Name": "Sword Of The Sea",
+    "SortingName": "",
+    "Description": "Gliding across <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>golden dunes</span> on an ancient hoverboard, the <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Wraith Rider</span> seeks the legendary blade that once split oceans and turned sand to glass.<br>Forgotten <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>sea spirits</span> guide your path through ruins where <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>whale bones</span> breach from endless sand, monuments to when water ruled this realm.<br>Each discovered <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>oasis shrine</span> reveals fragments of the <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Sword's power</span>, awakening both <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>ancient guardians</span> and the hope of restoration.<br>In this meditative journey, every sunset paints the desert in <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>memories</span> of waves, while the <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>wind</span> carries echoes of the <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>sea's return</span>.",
+    "DescriptionArabic": "<div dir='rtl'>منزلقاً عبر <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الكثبان الذهبية</span> على لوح تزلج قديم، يبحث <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>فارس الشبح</span> عن النصل الأسطوري الذي شق المحيطات وحول الرمال إلى زجاج.<br>ترشد <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>أرواح البحر</span> المنسية طريقك عبر أطلال حيث تبرز <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>عظام الحيتان</span> من الرمال اللامتناهية، نصب تذكارية لعندما حكمت المياه هذا العالم.<br>كل <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>ضريح واحة</span> مكتشف يكشف شظايا من <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>قوة السيف</span>، موقظاً <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>الحراس القدماء</span> وأمل الاستعادة.<br>في هذه الرحلة التأملية، كل غروب يرسم الصحراء بـ<span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>ذكريات</span> الأمواج، بينما تحمل <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>الرياح</span> أصداء <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>عودة البحر</span>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "Length": 5,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Sword%20Of%20The%20Sea%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Sword%20Of%20The%20Sea%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=BE-BD1OKk8k",
+    "videoStart": 2.8,
+    "videoEnd": 27,
+    "MusicUrl": "https://archive.org/download/retromedia/Sword%20of%20the%20Sea%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Giant Squid"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP001",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "buildID": "29 August 2025",
+            "arguments": [],
+            "executable": "SwordOfTheSea.exe",
+            "filename": "00019.zip"
           }
         ]
       }
