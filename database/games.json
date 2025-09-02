@@ -58389,7 +58389,6 @@
         "versions": [
           {
             "identifier": "retro-nes",
-            "filename": "Super Mario Bros.nes",
             "name": "Vanilla",
             "platform": "Nintendo Entertainment System",
             "emulator": "RetroArch",
@@ -58398,7 +58397,22 @@
             "arguments": [
               "-L",
               ".\\cores\\mesen_libretro.dll"
-            ]
+            ],
+            "filename": "Super Mario Bros.nes"
+          },
+          {
+            "identifier": "retro-nes",
+            "name": "Vanilla",
+            "platform": "Nintendo Entertainment System",
+            "emulator": "RetroArch",
+            "fileSize": "80KB",
+            "arguments": [
+              "-L",
+              ".\\cores\\mesen_libretro.dll"
+            ],
+            "buildID": "1.3.1",
+            "romFile": "Super Mario Bros Definitive.nes",
+            "filename": "Super Mario Bros Definitive.nes"
           }
         ]
       }
@@ -145711,12 +145725,22 @@
         "versions": [
           {
             "identifier": "CPC45",
-            "name": "Vanilla",
+            "name": "Offline",
             "platform": "PC Game",
             "fileSize": "3GB",
             "arguments": [],
             "executable": "HxHNENxIMPACT.exe",
             "filename": "Hunter × Hunter Nen × Impact.zip"
+          },
+          {
+            "identifier": "RORO001",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "3GB",
+            "arguments": [],
+            "buildID": "1.06",
+            "executable": "HxHNENxIMPACT.exe",
+            "filename": "00015.zip"
           }
         ]
       }
