@@ -92143,11 +92143,20 @@
         "versions": [
           {
             "identifier": "CPC14",
-            "filename": "Jump Force.zip",
-            "name": "Vanilla",
+            "name": "Offline",
             "platform": "PC Game",
             "executable": "JUMP_FORCE.exe",
-            "fileSize": "22GB"
+            "fileSize": "22GB",
+            "filename": "Jump Force.zip"
+          },
+          {
+            "identifier": "RPRP001",
+            "name": "Online",
+            "platform": "PC Game",
+            "executable": "JUMP_FORCE.exe",
+            "fileSize": "22GB",
+            "buildID": "3.01",
+            "filename": "00020.zip"
           }
         ]
       }
