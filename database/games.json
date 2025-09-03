@@ -146611,5 +146611,188 @@
     "Tags": [
       "New"
     ]
+  },
+  {
+    "_id": "game_1756864247911_0",
+    "Name": "Five Nights At Freddy's Secret of The Mimic",
+    "SortingName": "Five Nights at Freddy's 12",
+    "Description": "Beneath <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>Freddy Fazbear's Pizza</span>, the forbidden <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Mimic endoskeleton</span> learns and adapts, copying the movements of every soul it consumes.<br>As the new <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>night technician</span>, you discover <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Afton's experiments</span> went deeper than anyone imagined, creating an AI that mimics not just movement but <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>consciousness itself</span>.<br>The <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>security cameras</span> show familiar animatronics, but their movements are wrong—the <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Mimic</span> wears their shells like costumes.<br>In this terrifying chapter, every <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>flickering light</span> reveals a new horror, every <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>ventilation sound</span> carries death, and the <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>darkness</span> hides something learning to be <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 8px #FFB6C1;'>human</span>.",
+    "DescriptionArabic": "<div dir='rtl'>تحت <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>بيتزا فريدي فازبير</span>، يتعلم <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>هيكل المحاكي</span> المحظور ويتكيف، ناسخاً حركات كل روح يلتهمها.<br>كـ<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>فني ليلي</span> جديد، تكتشف أن <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>تجارب أفتون</span> ذهبت أعمق مما تخيل أحد، خالقة ذكاء اصطناعي يحاكي ليس الحركة فقط بل <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>الوعي نفسه</span>.<br>تُظهر <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>كاميرات الأمن</span> دمى آلية مألوفة، لكن حركاتها خاطئة—<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>المحاكي</span> يرتدي قشورها كأزياء.<br>في هذا الفصل المرعب، كل <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>ضوء متذبذب</span> يكشف رعباً جديداً، كل <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>صوت تهوية</span> يحمل الموت، و<span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>الظلام</span> يخفي شيئاً يتعلم أن يكون <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 8px #FFB6C1;'>بشرياً</span>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 75,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Five%20Nights%20At%20Freddy's%20Secret%20of%20The%20Mimic%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Five%20Nights%20At%20Freddy's%20Secret%20of%20The%20Mimic%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=mNk9IBp9Iuc",
+    "videoStart": null,
+    "videoEnd": 66,
+    "MusicUrl": "https://archive.org/download/retromedia/Five%20Nights%20At%20Freddy's%20Secret%20of%20The%20Mimic%20Dark%20Roast%20Triple%20Shot%20Extravaganza.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "Steel Wool Studios"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP001",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "19GB",
+            "buildID": "23 June 2025",
+            "arguments": [],
+            "executable": "FNAF_SOTM.exe",
+            "filename": "00023.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
+  },
+  {
+    "_id": "game_1756864247911_1",
+    "Name": "Mortal Sin",
+    "SortingName": "",
+    "Description": "Seven <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>deadly sins</span> manifest as demonic overlords in a <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>purgatorial realm</span> where fallen priest <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Father Gabriel</span> seeks redemption through violence.<br>Each sin conquered grants its <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>corrupted power</span>—<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Wrath's fury</span>, <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Greed's hunger</span>, <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>Lust's seduction</span>—but using them darkens your soul further.<br>Through <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>cathedral ruins</span> and <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>hellish battlefields</span>, the line between salvation and damnation blurs with every <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>demonic execution</span>.<br>In this dark souls-like odyssey, faith becomes a weapon, confession becomes combat, and every <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>mortal sin</span> committed brings you closer to either <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>heaven</span> or hell.",
+    "DescriptionArabic": "<div dir='rtl'>تتجلى <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الخطايا السبع المميتة</span> كأسياد شياطين في <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>عالم المطهر</span> حيث يسعى الكاهن الساقط <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>الأب جبرائيل</span> للخلاص عبر العنف.<br>كل خطيئة مهزومة تمنح <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>قوتها الفاسدة</span>—<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>غضب الغضب</span>، <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>جوع الطمع</span>، <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>إغواء الشهوة</span>—لكن استخدامها يظلم روحك أكثر.<br>عبر <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>أطلال الكاتدرائيات</span> و<span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>ساحات القتال الجهنمية</span>، يتلاشى الخط بين الخلاص واللعنة مع كل <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>إعدام شيطاني</span>.<br>في هذه الأوديسة المظلمة، يصبح الإيمان سلاحاً، الاعتراف قتالاً، وكل <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>خطيئة مميتة</span> ترتكبها تقربك إما من <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>الجنة</span> أو الجحيم.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 100,
+    "Length": 20,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Mortal%20Sin%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Mortal%20Sin%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=4Iyzi35wOcI",
+    "videoStart": null,
+    "videoEnd": 56,
+    "MusicUrl": "https://archive.org/download/retromedia/Mortal%20Sin%20Embodiment%20of%20Sin.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "Nikola Todorovic"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP001",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2GB",
+            "executable": "Mortal Sin.exe",
+            "buildID": "1 September 2025",
+            "arguments": [],
+            "filename": "00024.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
+  },
+  {
+    "_id": "game_1756864247911_2",
+    "Name": "Otherskin",
+    "SortingName": "",
+    "Description": "Shapeshifters walk among us, wearing <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>stolen faces</span> while the real humans rot in <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>underground cocoons</span>, kept alive to maintain the disguise.<br>Detective <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Sarah Chen</span> discovers she can see through their <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>flesh masks</span> after surviving an attack that left her neither human nor <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Other</span>.<br>Trust becomes impossible when your <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>lover</span>, your <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>partner</span>, even your own <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>reflection</span> might be wearing someone else's skin.<br>In this paranoid thriller, every conversation hides <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>deadly intent</span>, every touch could be your last, and the only way to survive is becoming the very <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>monster</span> you hunt.",
+    "DescriptionArabic": "<div dir='rtl'>يمشي المتحولون بيننا، يرتدون <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>وجوهاً مسروقة</span> بينما يتعفن البشر الحقيقيون في <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>شرانق تحت الأرض</span>، محفوظين أحياء للحفاظ على التنكر.<br>تكتشف المحققة <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>سارة تشين</span> أنها تستطيع الرؤية عبر <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>أقنعة اللحم</span> بعد نجاتها من هجوم تركها لا بشرية ولا <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>آخر</span>.<br>تصبح الثقة مستحيلة عندما قد يكون <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>حبيبك</span>، <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>شريكك</span>، حتى <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>انعكاسك</span> يرتدي جلد شخص آخر.<br>في هذا الإثارة المصابة بجنون العظمة، كل محادثة تخفي <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>نية قاتلة</span>، كل لمسة قد تكون الأخيرة، والطريقة الوحيدة للبقاء هي أن تصبح نفس <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>الوحش</span> الذي تطارده.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 70,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Otherskin%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Otherskin%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=vJQXsDRq6qc",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Otherskin%20OST.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "Game Atelier"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP001",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "16GB",
+            "buildID": "2 September 2025",
+            "arguments": [],
+            "executable": "OtherSkin.exe",
+            "filename": "00025.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ],
+    "hasIssue": true
+  },
+  {
+    "_id": "game_1756864247911_3",
+    "Name": "Tower Dominion",
+    "SortingName": "",
+    "Description": "Savage <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Artronid aliens</span> swarm across the galaxy as Commander, you reshape the <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>battlefield terrain</span> itself to create chokepoints and death traps for the invasion.<br>Each wave brings <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>procedurally generated challenges</span> while your <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>defensive towers</span> and <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>unique heroes</span> adapt to the endless alien onslaught.<br>Manipulate <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>ground height</span> and <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>enemy pathing</span> while unlocking roguelike upgrades that transform each defense into a tactical masterpiece.<br>In this strategic tower defense, the <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>terrain</span> is your weapon, adaptation is survival, and every <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>alien wave</span> tests your empire's <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>dominion</span>.",
+    "DescriptionArabic": "<div dir='rtl'>تجتاح <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>كائنات أرترونيد الفضائية</span> الوحشية المجرة بينما تعيد تشكيل <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>تضاريس ساحة المعركة</span> نفسها لخلق نقاط اختناق ومصائد موت للغزو.<br>كل موجة تجلب <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>تحديات متولدة تلقائياً</span> بينما تتكيف <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>أبراج دفاعك</span> و<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>أبطالك الفريدون</span> مع الهجمة الفضائية اللامتناهية.<br>تلاعب بـ<span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>ارتفاع الأرض</span> و<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>مسارات العدو</span> بينما تفتح ترقيات اللعب المتكرر التي تحول كل دفاع إلى تحفة تكتيكية.<br>في برج الدفاع الاستراتيجي هذا، <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>التضاريس</span> سلاحك، التكيف بقاء، وكل <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>موجة فضائية</span> تختبر <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>سيادة</span> إمبراطوريتك.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Tower%20Dominion%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Tower%20Dominion%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=Gk52Ykprm2Y",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Tower%20Dominion%20Main%20Menu.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Strategy"
+    ],
+    "DeveloperNames": [
+      "Parallel 45 Games"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP001",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "490MB",
+            "buildID": "28 August 2025",
+            "arguments": [],
+            "executable": "tower-dominion.exe",
+            "filename": "00026.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
   }
 ]
