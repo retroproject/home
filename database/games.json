@@ -146794,5 +146794,52 @@
     "Tags": [
       "New"
     ]
+  },
+  {
+    "_id": "game_1756878159119_0",
+    "Name": "J Stars Victory Vs+",
+    "SortingName": "J Stars Victory 02",
+    "Description": "Legendary heroes from <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Weekly Shonen Jump</span> collide in epic battles as <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>Goku</span>, <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Naruto</span>, <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Luffy</span>, and dozens more clash in spectacular crossover combat.<br>From <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Dragon Ball's</span> planet-shattering power to <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>Bleach's</span> soul-reaping strikes, each fighter brings their signature abilities and devastating <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>ultimate attacks</span>.<br>Battle across iconic locations like <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>Namek</span>, <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>Hidden Leaf Village</span>, and the <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>Going Merry</span> while unlocking dream matchups never seen in manga.<br>In this ultimate anime fighter, friendship and rivalry transcend universes, every <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>special move</span> recreates iconic manga moments, and legends write new stories through <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>victory</span>.",
+    "DescriptionArabic": "<div dir='rtl'>يتصادم الأبطال الأسطوريون من <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>مجلة الشونين الأسبوعية</span> في معارك ملحمية حيث يتصارع <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>غوكو</span> و<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>ناروتو</span> و<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>لوفي</span> وعشرات آخرين في قتال كروس أوفر مذهل.<br>من قوة <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>دراغون بول</span> المحطمة للكواكب إلى ضربات <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>بليتش</span> الحاصدة للأرواح، كل مقاتل يجلب قدراته المميزة و<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>هجماته النهائية</span> المدمرة.<br>قاتل عبر المواقع الأيقونية مثل <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>ناميك</span> و<span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>قرية الورقة المخفية</span> و<span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>غوينغ ميري</span> بينما تفتح مباريات أحلام لم تُرى في المانغا.<br>في مقاتل الأنيمي النهائي هذا، تتخطى الصداقة والمنافسة الأكوان، كل <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>حركة خاصة</span> تعيد خلق لحظات المانغا الأيقونية، والأساطير تكتب قصصاً جديدة من خلال <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>النصر</span>.</div>",
+    "ReleaseDate": "2015",
+    "CriticScore": 70,
+    "Length": 15,
+    "BackgroundUrl": "https://archive.org/download/retromedia/J%20Stars%20Victory%20Vs%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/J%20Stars%20Victory%20Vs%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=EV7uSG7vg_g",
+    "videoStart": 0.01,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/J%20Stars%20Victory%20Vs%20OP.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 3"
+    ],
+    "GenreNames": [
+      "Fighting"
+    ],
+    "DeveloperNames": [
+      "Spike Chunsoft"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "fileSize": "4 GB",
+            "arguments": [],
+            "emulator": "RPCS3",
+            "buildID": "1.02",
+            "romFile": "PS3_GAME\\USRDIR\\EBOOT.BIN",
+            "filename": "J Stars Victory Vs+.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
   }
 ]
