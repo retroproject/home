@@ -146833,7 +146833,10 @@
             "emulator": "RPCS3",
             "buildID": "1.02",
             "romFile": "PS3_GAME\\USRDIR\\EBOOT.BIN",
-            "filename": "J Stars Victory Vs+.zip"
+            "filenames": [
+              "J Stars Victory Vs+.zip",
+              "J-Stars Victory VS+ Update.zip"
+            ]
           }
         ]
       }
