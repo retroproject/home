@@ -87531,7 +87531,8 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/9e1a57d2-0c20-40ba-af83-980136cdbd3e.mp3",
     "PlatformNames": [
-      "Sony PlayStation"
+      "Sony PlayStation",
+      "PC Game"
     ],
     "GenreNames": [
       "Shooter"
@@ -87547,13 +87548,13 @@
       "PEGI 18"
     ],
     "downloadInfo": {
-      "Sony PlayStation": {
+      "Cross-Platform": {
         "versions": [
           {
             "identifier": "retro-psx",
-            "filename": "Fear Effect.zip",
-            "name": "Vanilla",
+            "filename": "",
             "platform": "Sony PlayStation 1",
+            "name": "Sony Playstation 1",
             "emulator": "DuckStation",
             "fileSize": "2GB",
             "romFiles": [
@@ -87567,7 +87568,24 @@
               "Disc 2",
               "Disc 3",
               "Disc 4"
+            ],
+            "filenames": [
+              "Fear Effect.zip"
             ]
+          },
+          {
+            "identifier": "RPRP001",
+            "filename": "",
+            "platform": "PC Game",
+            "name": "PC Game",
+            "fileSize": "2GB",
+            "filenames": [
+              "00022.zip"
+            ],
+            "executableFiles": [
+              "syrup.exe"
+            ],
+            "buildID": "29 August 2025"
           }
         ]
       }
@@ -97994,7 +98012,7 @@
     "_id": "aec5edd1-aa1d-439e-8742-c981d342f030",
     "GameId": "5052c65ef59daeb5f7eb5f65f2a3c197",
     "Name": "Gears of War: Ultimate Edition",
-    "SortingName": "Gears of War 01",
+    "SortingName": "Gears of War 01.01",
     "Description": "Fourteen years after <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 10px #FFD700;'>Emergence Day</span>, humanity's last stronghold on the planet <span style='color:#2E8B57; font-weight:bold; text-shadow: 0 0 6px #2E8B57;'>Sera</span> faces extinction from the subterranean <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Locust Horde</span>.<br>Join <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Marcus Fenix</span> and <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Delta Squad</span> as they embark on a desperate mission to deploy the <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>Lightmass Bomb</span> and destroy the Locust tunnels beneath the surface.<br>Master the revolutionary <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>cover-based combat</span> system, execute brutal <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>chainsaw</span> executions, and coordinate with teammates to survive against overwhelming odds in war-torn cities.<br>Experience enhanced visuals, additional <span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>campaign content</span>, and witness the birth of a brotherhood forged in <span style='color:#696969; font-weight:bold; text-shadow: 0 0 6px #696969;'>blood</span> and <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>gunfire</span> as humanity makes its final stand against the <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>monstrous</span> threat emerging from the depths.<br>",
     "DescriptionArabic": "<div dir='rtl'>بعد أربعة عشر عاماً من <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 10px #FFD700;'>يوم الظهور</span>، تواجه آخر معقل للبشرية على كوكب <span style='color:#2E8B57; font-weight:bold; text-shadow: 0 0 6px #2E8B57;'>سيرا</span> الانقراض من <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>جحافل الجراد</span> الجوفية.<br>انضم إلى <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>ماركوس فينيكس</span> و<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>فرقة دلتا</span> وهم ينطلقون في مهمة يائسة لنشر <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>قنبلة الكتلة الضوئية</span> وتدمير أنفاق الجراد تحت السطح.<br>اتقن نظام <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>القتال القائم على الغطاء</span> الثوري، نفذ عمليات إعدام <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>المنشار</span> الوحشية، وتنسق مع زملاء الفريق للبقاء ضد الصعاب الساحقة في المدن المدمرة بالحرب.<br>اختبر الصور المحسنة ومحتوى <span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>الحملة</span> الإضافي، واشهد ولادة أخوية مصقولة في <span style='color:#696969; font-weight:bold; text-shadow: 0 0 6px #696969;'>الدم</span> و<span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>إطلاق النار</span> بينما تقوم البشرية بوقفتها الأخيرة ضد التهديد <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>الوحشي</span> الناشئ من الأعماق.</div>",
     "ReleaseDate": "2015-8-25",
@@ -126073,7 +126091,7 @@
             "identifier": "CPC39",
             "name": "English Vanilla",
             "platform": "PC Game",
-            "fileSize": "50GB",
+            "fileSize": "30GB",
             "arguments": [],
             "executable": "NieRAutomata.exe",
             "filename": "NieR Automata.zip"
@@ -146534,6 +146552,58 @@
             "arguments": [],
             "executable": "SwordOfTheSea.exe",
             "filename": "00019.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
+  },
+  {
+    "_id": "game_1756805340850_0",
+    "Name": "Gears of War Reloaded",
+    "SortingName": "Gears of War 01.02",
+    "Description": "Emergence Day shattered <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>Sera</span> as the <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Locust Horde</span> erupted from underground, turning civilization into rubble where <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Marcus Fenix</span> fights for humanity's last breath.<br>Behind <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>crumbling cover</span> and through <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>chainsaw bayonet</span> executions, <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Delta Squad</span> pushes toward the <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>Lightmass Bomb</span> that might end the nightmare.<br>Brothers <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>Dom</span> and <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>Cole</span> stand beside you as <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>General RAAM</span> and his monsters turn every battlefield into a graveyard.<br>In this brutal war story, cover is life, reload is death, and the <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>darkest depths</span> hold humanity's only <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>salvation</span>.",
+    "DescriptionArabic": "<div dir='rtl'>حطم يوم الظهور <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>سيرا</span> عندما انفجر <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>جحافل الجراد</span> من تحت الأرض، محولين الحضارة إلى أنقاض حيث يقاتل <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>ماركوس فينيكس</span> من أجل آخر نفس للبشرية.<br>خلف <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>الغطاء المتهاوي</span> وعبر إعدامات <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>حربة المنشار</span>، تدفع <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>فرقة دلتا</span> نحو <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>قنبلة الكتلة الضوئية</span> التي قد تنهي الكابوس.<br>يقف الأخوة <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>دوم</span> و<span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>كول</span> بجانبك بينما يحول <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>الجنرال رام</span> ووحوشه كل ساحة معركة إلى مقبرة.<br>في قصة الحرب الوحشية هذه، الغطاء حياة، إعادة التعبئة موت، و<span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>أعمق الأعماق</span> تحمل <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>خلاص</span> البشرية الوحيد.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 90,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Gears%20of%20War%20Reloaded%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Gears%20of%20War%20Reloaded%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=VzJDY6V6C4s",
+    "videoStart": 3,
+    "videoEnd": 100,
+    "MusicUrl": "https://archive.org/download/retromedia/Gears%20of%20War%20Reloaded%20Emergence%20%20Infected.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Shooter"
+    ],
+    "DeveloperNames": [
+      "Microsoft"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP001",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "70 GB",
+            "arguments": [],
+            "buildID": "1.0.251.0",
+            "executable": "GDK_Helper.bat",
+            "notes": [
+              "Enable Developer Mode",
+              "Install the game",
+              "Launch the game through the start menu",
+              "Accept an invitation from a friend or Invite Player"
+            ],
+            "filename": "00021.zip"
           }
         ]
       }
