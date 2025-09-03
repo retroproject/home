@@ -146828,13 +146828,13 @@
             "identifier": "P0301",
             "name": "Vanilla",
             "platform": "Sony PlayStation 3",
-            "fileSize": "4 GB",
+            "fileSize": "4GB",
             "arguments": [],
             "emulator": "RPCS3",
             "buildID": "1.02",
             "romFile": "PS3_GAME\\USRDIR\\EBOOT.BIN",
             "filenames": [
-              "J Stars Victory VS+.zip",
+              "J-Stars Victory VS+.zip",
               "J-Stars Victory VS+ Update.zip"
             ]
           }
