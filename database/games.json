@@ -147229,12 +147229,12 @@
     "ReleaseDate": "2023",
     "CriticScore": 85,
     "Length": 15,
-    "BackgroundUrl": "",
-    "CoverUrl": "",
+    "BackgroundUrl": "https://archive.org/download/retromedia/System%20Shock%202%20Remastered%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/System%20Shock%202%20Remastered%20Cover.jpg",
     "YouTubeUrl": "https://www.youtube.com/watch?v=cevZowWjKJk",
     "videoStart": 4,
     "videoEnd": 97,
-    "MusicUrl": "",
+    "MusicUrl": "https://archive.org/download/retromedia/System%20Shock%202%20Remastered%20Med%20Sci%201.mp3",
     "PlatformNames": [
       "PC Game"
     ],
