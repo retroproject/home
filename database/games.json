@@ -105453,7 +105453,6 @@
         "versions": [
           {
             "identifier": "retro-gba",
-            "filename": "Castlevania Aria of Sorrow.gba",
             "name": "Vanilla",
             "platform": "Nintendo Game Boy Advance",
             "emulator": "RetroArch",
@@ -105462,7 +105461,22 @@
             "arguments": [
               "-L",
               ".\\cores\\mgba_libretro.dll"
-            ]
+            ],
+            "filename": "Castlevania Aria of Sorrow.gba"
+          },
+          {
+            "identifier": "retro-gba",
+            "name": "Color Improvemed",
+            "platform": "Nintendo Game Boy Advance",
+            "emulator": "RetroArch",
+            "romFile": "Castlevania Aria of Sorrow [Color Improvement].gba",
+            "fileSize": "8MB",
+            "arguments": [
+              "-L",
+              ".\\cores\\mgba_libretro.dll"
+            ],
+            "buildID": "1.1",
+            "filename": "Castlevania Aria of Sorrow [Color Improvement].gba"
           }
         ]
       }
