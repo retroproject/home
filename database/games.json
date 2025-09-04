@@ -20393,11 +20393,11 @@
         "versions": [
           {
             "identifier": "CPC27",
-            "filename": "Cult of the Lamb.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "Game\\Cult Of The Lamb.exe",
-            "fileSize": "4GB"
+            "executable": "Cult Of The Lamb.exe",
+            "fileSize": "4GB",
+            "filename": "Cult of the Lamb.zip"
           }
         ]
       }
@@ -52671,11 +52671,11 @@
         "versions": [
           {
             "identifier": "CPC06",
-            "filename": "Children of Morta.zip",
-            "name": "Vanilla",
+            "name": "Online",
             "platform": "PC Game",
             "executable": "ChildrenOfMorta.exe",
-            "fileSize": "2GB"
+            "fileSize": "2GB",
+            "filename": "Children of Morta.zip"
           }
         ]
       }
@@ -147082,5 +147082,157 @@
     "Tags": [
       "New"
     ]
+  },
+  {
+    "_id": "game_1756978296043_0",
+    "Name": "Deadzone Rogue",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "",
+    "CoverUrl": "",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP001",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "8 GB",
+            "executable": "DeadzoneSteam.exe",
+            "buildID": "2 September 2025",
+            "arguments": [],
+            "filename": "00027.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1756978296043_1",
+    "Name": "Hell Is Us",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "",
+    "CoverUrl": "",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "COPC01",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "21 GB",
+            "executable": "HellIsUs.exe",
+            "buildID": "1 September 2025",
+            "arguments": [],
+            "filename": "00028.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1756978296043_2",
+    "Name": "Metal Eden",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "",
+    "CoverUrl": "",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "COPC01",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "21 GB",
+            "executable": "MetalEden.exe",
+            "buildID": "27 August 2025",
+            "arguments": [],
+            "filename": "00029.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1756978296043_3",
+    "Name": "System Shock 2 Remastered",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "",
+    "CoverUrl": "",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "COPC01",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "hathor_Shipping_Playfab_Steam_x64.exe",
+            "buildID": "21 August 2025",
+            "arguments": [],
+            "filename": "00030.zip"
+          }
+        ]
+      }
+    }
   }
 ]
