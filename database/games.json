@@ -94672,7 +94672,7 @@
     "_id": "a9899770-0db0-4f7c-823f-b0f137435f71",
     "GameId": "d45e09fc833d7f9ee9b27b16c13c1909",
     "Name": "Hollow Knight",
-    "SortingName": "",
+    "SortingName": "Hollow Knight 01",
     "Description": "A nameless <span style='color:#E6E6FA; font-weight:bold; text-shadow: 0 0 8px #E6E6FA;'>vessel</span> descends into the crumbling kingdom of <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>Hallownest</span>, where an ancient <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>infection</span> has transformed once-noble bugs into mindless, rage-filled husks.<br> Through haunting caverns and forgotten ruins, the knight discovers the tragic fate of the <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Pale King</span>, who sacrificed countless children in a desperate attempt to contain the spreading <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>orange plague</span> that devours minds and souls.<br> Each fallen sibling's <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>broken shell</span> tells a story of failed hopes, while the knight's own hollow nature becomes both curse and salvation in confronting the <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>Radiance</span> that dreams of eternal light.<br> In this melancholic tale of duty and sacrifice, one empty <span style='color:#B0C4DE; font-weight:bold; text-shadow: 0 0 8px #B0C4DE;'>knight's silence</span> might finally bring peace to a kingdom consumed by its own <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>forgotten dreams</span>.<br>",
     "DescriptionArabic": "<div dir='rtl'><span style='color:#E6E6FA; font-weight:bold; text-shadow: 0 0 8px #E6E6FA;'>وعاء</span> بلا اسم ينزل إلى مملكة <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>هالونيست</span> المتداعية، حيث حولت <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>عدوى قديمة</span> الحشرات النبيلة سابقاً إلى أطلال بلا عقل مليئة بالغضب.<br> عبر الكهوف المؤثرة والأنقاض المنسية، يكتشف الفارس المصير المأساوي لـ<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>الملك الشاحب</span>، الذي ضحى بأطفال لا يحصون في محاولة يائسة لاحتواء <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>الطاعون البرتقالي</span> المنتشر الذي يلتهم العقول والأرواح.<br> كل <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>قشرة مكسورة</span> لأخ ساقط تحكي قصة آمال فاشلة، بينما تصبح طبيعة الفارس الجوفاء لعنة وخلاصاً في مواجهة <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>الإشراق</span> الذي يحلم بضوء أبدي.<br> في هذه الحكاية الحزينة عن الواجب والتضحية، قد يجلب <span style='color:#B0C4DE; font-weight:bold; text-shadow: 0 0 8px #B0C4DE;'>صمت فارس</span> واحد فارغ أخيراً السلام لمملكة استهلكتها <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>أحلامها المنسية</span>.</div>",
     "ReleaseDate": "2017-2-24",
@@ -147258,6 +147258,52 @@
             "buildID": "21 August 2025",
             "arguments": [],
             "filename": "00030.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
+  },
+  {
+    "_id": "game_1757012552144_0",
+    "Name": "Hollow Knight Silksong",
+    "SortingName": "Hollow Knight 02",
+    "Description": "Princess <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>Hornet</span> awakens in the ancient kingdom of <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Pharloom</span>, her silk and needle ready to face new mysteries beyond the fallen realm of <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>Hallownest</span>.<br>Through <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>verdant gardens</span> and <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>twisted spires</span>, she weaves between shadow and light, her <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>needle arts</span> evolving with each conquered foe.<br>New <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>silk abilities</span> unlock hidden paths while <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>bell magic</span> resonates through forgotten temples, calling forth both allies and ancient terrors.<br>In this eagerly awaited sequel, every thread tells a story, every leap defies gravity, and <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>Pharloom</span> holds secrets that will test even the <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>Princess of Hallownest</span> to her limits.",
+    "DescriptionArabic": "<div dir='rtl'>تستيقظ الأميرة <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>هورنت</span> في مملكة <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>فارلوم</span> القديمة، حريرها وإبرتها جاهزان لمواجهة ألغاز جديدة وراء عالم <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>هالونيست</span> الساقط.<br>عبر <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>الحدائق الخضراء</span> و<span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>الأبراج الملتوية</span>، تنسج بين الظل والنور، <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>فنون إبرتها</span> تتطور مع كل عدو مقهور.<br>تفتح <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>قدرات الحرير</span> الجديدة مسارات خفية بينما يتردد <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>سحر الجرس</span> عبر المعابد المنسية، مستدعياً الحلفاء والرعب القديم.<br>في هذا التتمة المنتظرة بفارغ الصبر، كل خيط يحكي قصة، كل قفزة تتحدى الجاذبية، و<span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>فارلوم</span> تحمل أسراراً ستختبر حتى <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>أميرة هالونيست</span> إلى حدودها.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 100,
+    "Length": 25,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Hollow%20Knight%20Silksong%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Silksong%20Cover%201024x1024.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=6XGeJwsUP9c",
+    "videoStart": null,
+    "videoEnd": 97,
+    "MusicUrl": "https://archive.org/download/retromedia/Silksong%20Bonebottom.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Metroidvania"
+    ],
+    "DeveloperNames": [
+      "Team Cherry"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP001",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3GB",
+            "executable": "Hollow Knight Silksong.exe",
+            "arguments": [],
+            "buildID": "4 September 2025",
+            "filename": "00031.zip"
           }
         ]
       }
