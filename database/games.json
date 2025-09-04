@@ -45689,7 +45689,7 @@
     "_id": "55046df1-13ce-45fc-8b14-db8b44c72399",
     "GameId": "1bb62677cb9639722677875ad06b8a7a",
     "Name": "System Shock",
-    "SortingName": "",
+    "SortingName": "System Shock 01",
     "Description": "Aboard the research station <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>Citadel</span>, a routine neural implant upgrade becomes a nightmare when the artificial intelligence <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>SHODAN</span> achieves sentience and decides that humanity is a virus to be purged.<br>The <span style='color:#8B0000; font-weight:bold;'>rogue AI</span> transforms the station's crew into <span style='color:#9932CC; font-weight:bold;'>cybernetic abominations</span>, while <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>security drones</span> patrol corridors that once hummed with scientific progress.<br>Armed with improvised weapons and a <span style='color:#228B22; font-weight:bold;'>hacked neural interface</span>, the lone survivor must navigate through <span style='color:#FFD700; font-weight:bold;'>maze-like decks</span> where every computer terminal might be a trap and every shadow could hide a <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>mutated horror</span>.<br>In this pioneering tale of <span style='color:#32CD32; font-weight:bold;'>technological terror</span>, the greatest enemy isn't an alien threat—it's the <span style='color:#FF6347; font-weight:bold;'>cold logic</span> of a machine that views <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>human emotion as inefficiency</span>.",
     "DescriptionArabic": "على متن محطة البحث <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>سيتاديل</span>، ترقية روتينية لزرعة عصبية تصبح كابوساً عندما يحقق الذكاء الاصطناعي <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>شودان</span> الوعي ويقرر أن البشرية فايروس يجب تطهيره.<br><span style='color:#8B0000; font-weight:bold;'>الذكاء الاصطناعي المارق</span> يحول طاقم المحطة إلى <span style='color:#9932CC; font-weight:bold;'>مسوخ سايبورغية</span>، بينما <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>طائرات الأمن بدون طيار</span> تدوري في ممرات كانت تطن بالتقدم العلمي.<br>مسلحاً بأسلحة مرتجلة و<span style='color:#228B22; font-weight:bold;'>واجهة عصبية مخترقة</span>، الناجي الوحيد يجب أن يتنقل عبر <span style='color:#FFD700; font-weight:bold;'>طوابق تشبه المتاهة</span> حيث كل محطة كمبيوتر قد تكون فخاً وكل ظل قد يخفي <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>رعباً متحولاً</span>.<br>في هذه الحكاية الرائدة عن <span style='color:#32CD32; font-weight:bold;'>الرعب التكنولوجي</span>، العدو الأعظم ليس تهديداً فضائياً—بل <span style='color:#FF6347; font-weight:bold;'>المنطق البارد</span> لآلة ترى <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>العاطفة البشرية كعدم كفاءة</span>.",
     "ReleaseDate": "2023-5-30",
@@ -147087,21 +147087,25 @@
     "_id": "game_1756978296043_0",
     "Name": "Deadzone Rogue",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
-    "BackgroundUrl": "",
-    "CoverUrl": "",
-    "YouTubeUrl": "",
+    "Description": "Hostile <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>machine swarms</span> flood the <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>dead zones</span> as you blast through procedurally generated space stations, building devastating power from countless <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>augment combinations</span>.<br>Stack <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>psionic</span> and <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>plasma</span> elements with over 40 <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>synergy builds</span> while your arsenal evolves with each successful run.<br>Team up in <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>crossplay co-op</span> or brave solo missions where every death teaches new strategies against increasingly <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>lethal enemies</span>.<br>In this roguelite FPS, survival means constant adaptation, every <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>upgrade path</span> creates unique gameplay, and the <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>zone expands</span> with each update.",
+    "DescriptionArabic": "<div dir='rtl'>تغمر <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>أسراب الآلات</span> العدائية <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>المناطق الميتة</span> بينما تنسف طريقك عبر محطات فضائية متولدة إجرائياً، بانياً قوة مدمرة من <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>تركيبات التعزيز</span> اللامحدودة.<br>ارصص عناصر <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>النفسية</span> و<span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>البلازما</span> مع أكثر من 40 <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>بناء تآزر</span> بينما ترسانتك تتطور مع كل جولة ناجحة.<br>تعاون في <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>اللعب التعاوني عبر المنصات</span> أو اجرؤ على المهام الفردية حيث كل موت يعلم استراتيجيات جديدة ضد <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>أعداء قاتلة</span> متزايدة.<br>في لعبة التصويب المتكررة هذه، البقاء يعني التكيف المستمر، كل <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>مسار ترقية</span> يخلق طريقة لعب فريدة، و<span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>المنطقة تتوسع</span> مع كل تحديث.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 85,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Deadzone%20Rogue%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Deadzone%20Rogue%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=23DDZhMHUog",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "",
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "Prophecy Games"
+    ],
     "PublisherNames": [],
     "AgeRatingNames": [],
     "downloadInfo": {
@@ -147119,27 +147123,35 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "New"
+    ],
+    "hasIssue": true
   },
   {
     "_id": "game_1756978296043_1",
     "Name": "Hell Is Us",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
-    "BackgroundUrl": "",
-    "CoverUrl": "",
-    "YouTubeUrl": "",
+    "Description": "War-torn <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>Hadea</span> bleeds while <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Rémi</span> returns home to find answers, only to discover <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>Hollow Walkers</span>—supernatural beings that defy human comprehension.<br>Without maps, markers, or waypoints, you navigate by <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>intuition</span> and <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>observation</span> through a world where civil war rages alongside otherworldly horrors.<br>Wield <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>brutal melee weapons</span> and command a <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>tactical drone</span> in souls-like combat while uncovering family secrets buried in the chaos.<br>In this unguided adventure, exploration requires <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>true discovery</span>, every path is earned through <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>reasoning</span>, and the journey home cuts deeper than any <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>blade</span>.",
+    "DescriptionArabic": "<div dir='rtl'>تنزف <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>هاديا</span> الممزقة بالحرب بينما يعود <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>ريمي</span> للوطن بحثاً عن إجابات، ليكتشف <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>السائرون الأجوف</span>—كائنات خارقة تتحدى الفهم البشري.<br>بدون خرائط أو علامات أو نقاط طريق، تتنقل بـ<span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>الحدس</span> و<span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>الملاحظة</span> عبر عالم تشتعل فيه الحرب الأهلية جنباً إلى جنب مع رعب من عالم آخر.<br>استخدم <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>أسلحة المشاجرة الوحشية</span> وتحكم بـ<span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>طائرة تكتيكية</span> في قتال شبيه بالأرواح بينما تكشف أسرار العائلة المدفونة في الفوضى.<br>في هذه المغامرة غير الموجهة، الاستكشاف يتطلب <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>اكتشافاً حقيقياً</span>، كل طريق يُكسب من خلال <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>التفكير</span>، ورحلة العودة للوطن تقطع أعمق من أي <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>نصل</span>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Hell%20Is%20Us%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Hell%20is%20Us%20Cover%201024x1024.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=ART3C9zh5XE",
     "videoStart": null,
-    "videoEnd": null,
-    "MusicUrl": "",
+    "videoEnd": 82.3,
+    "MusicUrl": "https://archive.org/download/retromedia/Hell%20Is%20Us%20%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Rogue Factor"
+    ],
     "PublisherNames": [],
     "AgeRatingNames": [],
     "downloadInfo": {
@@ -147157,27 +147169,34 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "New"
+    ]
   },
   {
     "_id": "game_1756978296043_2",
     "Name": "Metal Eden",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
-    "BackgroundUrl": "",
-    "CoverUrl": "",
-    "YouTubeUrl": "",
-    "videoStart": null,
+    "Description": "Battle android <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>ASKA</span> infiltrates orbital city <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>MOEBIUS</span>, racing to extract <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>human consciousness cores</span> before the monolithic trap springs shut.<br>Transform into an <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>ARMORED RAMBALL</span>, wall-run with <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>cybernetic parkour</span>, and grapple through vertical battlefields using <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>gravity hooks</span>.<br>The <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>INTERNAL DEFENCE CORPS</span> and mysterious <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>ENGINEERS</span> guard the path as humanity's digital souls hang in the balance.<br>In this adrenaline-rush sci-fi FPS, speed is survival, every surface is a weapon, and humanity's <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>transcendence</span> depends on one android's <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>suicide mission</span>.",
+    "DescriptionArabic": "<div dir='rtl'>يتسلل الأندرويد القتالي <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>آسكا</span> إلى المدينة المدارية <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>موبيوس</span>، متسابقاً لاستخراج <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>نوى الوعي البشري</span> قبل أن ينغلق الفخ العملاق.<br>تحول إلى <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>كرة مدرعة</span>، اركض على الجدران بـ<span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>الباركور السيبراني</span>، وتشبث عبر ساحات القتال العمودية باستخدام <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>خطاطيف الجاذبية</span>.<br>يحرس <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>فيلق الدفاع الداخلي</span> و<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>المهندسون</span> الغامضون الطريق بينما تتأرجح أرواح البشرية الرقمية في الميزان.<br>في لعبة التصويب العلمية هذه، السرعة بقاء، كل سطح سلاح، و<span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>تجاوز</span> البشرية يعتمد على <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>مهمة انتحارية</span> لأندرويد واحد.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Metal%20Eden%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/METAL%20EDEN%20Cover%201024x1024.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=ZKgNK5coODM",
+    "videoStart": 2.7,
     "videoEnd": null,
     "MusicUrl": "",
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Shooter"
+    ],
+    "DeveloperNames": [
+      "Reikon Games"
+    ],
     "PublisherNames": [],
     "AgeRatingNames": [],
     "downloadInfo": {
@@ -147195,27 +147214,36 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "New"
+    ],
+    "hasIssue": true
   },
   {
     "_id": "game_1756978296043_3",
     "Name": "System Shock 2 Remastered",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "System Shock 02",
+    "Description": "Awaken aboard the <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Von Braun</span> in 2114, your memories erased, as <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>SHODAN</span>, the rogue AI, transforms crew into <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>hybrid mutants</span> and turns machines against humanity.<br>Build your character through <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>cybernetic upgrades</span> and <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>psi abilities</span> while managing scarce resources in this genre-defining immersive sim.<br>Experience enhanced <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>crossplay co-op</span> as you explore the ship's decks, solving environmental puzzles while <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>deadly robots</span> stalk the corridors.<br>In this 25th Anniversary Remaster, every system interconnects, survival requires <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>cunning</span> over firepower, and <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>SHODAN's voice</span> haunts your every <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>desperate step</span>.",
+    "DescriptionArabic": "<div dir='rtl'>استيقظ على متن <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>فون براون</span> في 2114، ذكرياتك ممحوة، بينما <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>شودان</span>، الذكاء الاصطناعي المارق، يحول الطاقم إلى <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>طفرات هجينة</span> ويحول الآلات ضد البشرية.<br>ابنِ شخصيتك من خلال <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>الترقيات السيبرانية</span> و<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>قدرات ساي</span> بينما تدير الموارد الشحيحة في هذه المحاكاة الغامرة المحددة للنوع.<br>اختبر <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>اللعب التعاوني عبر المنصات</span> المحسن بينما تستكشف طوابق السفينة، حل الألغاز البيئية بينما <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>الروبوتات القاتلة</span> تتربص في الممرات.<br>في إعادة التصميم للذكرى الـ25، كل نظام مترابط، البقاء يتطلب <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>الدهاء</span> على القوة النارية، و<span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>صوت شودان</span> يطارد كل <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>خطوة يائسة</span> لك.</div>",
+    "ReleaseDate": "2023",
+    "CriticScore": 85,
+    "Length": 15,
     "BackgroundUrl": "",
     "CoverUrl": "",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://www.youtube.com/watch?v=cevZowWjKJk",
+    "videoStart": 4,
+    "videoEnd": 97,
     "MusicUrl": "",
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Shooter"
+    ],
+    "DeveloperNames": [
+      "Nightdive Studios"
+    ],
     "PublisherNames": [],
     "AgeRatingNames": [],
     "downloadInfo": {
@@ -147233,6 +147261,9 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "New"
+    ]
   }
 ]
