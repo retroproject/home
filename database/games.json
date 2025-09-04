@@ -105457,7 +105457,7 @@
             "platform": "Nintendo Game Boy Advance",
             "emulator": "RetroArch",
             "romFile": "Castlevania Aria of Sorrow.gba",
-            "fileSize": "8MB",
+            "fileSize": "10MB",
             "arguments": [
               "-L",
               ".\\cores\\mgba_libretro.dll"
@@ -105470,7 +105470,7 @@
             "platform": "Nintendo Game Boy Advance",
             "emulator": "RetroArch",
             "romFile": "Castlevania Aria of Sorrow [Color Improvement].gba",
-            "fileSize": "8MB",
+            "fileSize": "10MB",
             "arguments": [
               "-L",
               ".\\cores\\mgba_libretro.dll"
