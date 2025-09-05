@@ -68814,7 +68814,22 @@
     ],
     "AgeRatingNames": [
       "PEGI 18"
-    ]
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP001",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "500MB",
+            "arguments": [],
+            "buildID": "1.02.1 & 1.0.4"
+          }
+        ]
+      }
+    },
+    "hasIssue": true
   },
   {
     "_id": "7b25c9e1-4e7f-4072-8ae8-4cc82a6f8d9b",
@@ -94703,19 +94718,19 @@
         "versions": [
           {
             "identifier": "CPCAR01",
-            "filename": "Hollow Knight.zip",
             "name": "Arabic",
             "platform": "PC Game",
-            "executable": "Hollow Knight.exe",
-            "fileSize": "2GB"
+            "executable": "hollow_knight.exe",
+            "fileSize": "2GB",
+            "filename": "Hollow Knight.zip"
           },
           {
             "identifier": "CPC43",
-            "filename": "Hollow Knight.zip",
             "name": "English",
             "platform": "PC Game",
-            "executable": "Hollow Knight.exe",
-            "fileSize": "2GB"
+            "executable": "hollow_knight.exe",
+            "fileSize": "2GB",
+            "filename": "Hollow Knight.zip"
           }
         ]
       }
