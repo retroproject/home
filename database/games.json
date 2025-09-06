@@ -17038,12 +17038,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC25",
-            "filename": "Factorio.zip",
+            "identifier": "RPRP001",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "bin\\x64\\factorio.exe",
-            "fileSize": "4GB"
+            "fileSize": "4GB",
+            "buildID": "5 September 2025",
+            "filename": "00033.zip"
           }
         ]
       }
@@ -92310,6 +92311,7 @@
             "executable": "JUMP_FORCE.exe",
             "fileSize": "22GB",
             "buildID": "3.01",
+            "notes": "Steam Remote Play",
             "filename": "00020.zip"
           }
         ]
