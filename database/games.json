@@ -100410,12 +100410,22 @@
         "versions": [
           {
             "identifier": "CPC24",
-            "name": "Vanilla",
+            "name": "Offline",
             "platform": "PC Game",
             "fileSize": "11GB",
             "arguments": [],
             "executable": "OPBB.exe",
             "filename": "One Piece Burning Blood.zip"
+          },
+          {
+            "identifier": "RPRP001",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "11GB",
+            "arguments": [],
+            "executable": "OPBB.exe",
+            "buildID": "1.06",
+            "filename": "00032.zip"
           }
         ]
       }
