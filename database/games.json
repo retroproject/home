@@ -16206,6 +16206,9 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
+    ],
+    "Tags": [
+      "Hide"
     ]
   },
   {
@@ -28459,6 +28462,9 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
+    ],
+    "Tags": [
+      "Hide"
     ]
   },
   {
@@ -32514,6 +32520,9 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
+    ],
+    "Tags": [
+      "Hide"
     ]
   },
   {
@@ -32952,12 +32961,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC17",
-            "filename": "Cat Quest III.zip",
+            "identifier": "RPRP001",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Cat Quest III.exe",
-            "fileSize": "610MB"
+            "fileSize": "610MB",
+            "buildID": "1 September 2025",
+            "filename": "00034.zip"
           }
         ]
       }
@@ -64907,6 +64917,9 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
+    ],
+    "Tags": [
+      "Hide"
     ]
   },
   {
@@ -70449,7 +70462,10 @@
     "PublisherNames": [
       "Banpresto"
     ],
-    "AgeRatingNames": []
+    "AgeRatingNames": [],
+    "Tags": [
+      "Hide"
+    ]
   },
   {
     "_id": "7e1727da-5baa-48d5-8e81-b7d685b0ce86",
@@ -85302,6 +85318,9 @@
     ],
     "AgeRatingNames": [
       "PEGI 18"
+    ],
+    "Tags": [
+      "Hide"
     ]
   },
   {
@@ -143302,6 +143321,9 @@
     ],
     "AgeRatingNames": [
       "PEGI 12"
+    ],
+    "Tags": [
+      "Hide"
     ]
   },
   {
@@ -147338,6 +147360,191 @@
             "arguments": [],
             "buildID": "4 September 2025",
             "filename": "00031.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
+  },
+  {
+    "_id": "game_1757203478776_0",
+    "Name": "Poker Night 2",
+    "SortingName": "Poker Night 02",
+    "Description": "Pull up a <span style='color: #ff6b6b; font-weight: bold; text-shadow: 0 0 8px #ff6b6b;'>chair</span> at the <span style='color: #4ecdc4; font-weight: bold; text-shadow: 0 0 8px #4ecdc4;'>Inventory</span> for the most <span style='color: #ffe66d; font-weight: bold; text-shadow: 0 0 8px #ffe66d;'>bizarre poker game</span> ever dealt. <span style='color: #95e77e; font-weight: bold; text-shadow: 0 0 8px #95e77e;'>GLaDOS</span> deals <span style='color: #f8b500; font-weight: bold; text-shadow: 0 0 8px #f8b500;'>sarcastic cards</span> while <span style='color: #ff69b4; font-weight: bold; text-shadow: 0 0 8px #ff69b4;'>Claptrap</span> won't shut up about his <span style='color: #b084cc; font-weight: bold; text-shadow: 0 0 8px #b084cc;'>bad beats</span>. <span style='color: #7fbf7f; font-weight: bold; text-shadow: 0 0 8px #7fbf7f;'>Brock Samson</span> threatens to <span style='color: #ff4757; font-weight: bold; text-shadow: 0 0 8px #ff4757;'>crush skulls</span>, <span style='color: #70a1ff; font-weight: bold; text-shadow: 0 0 8px #70a1ff;'>Ash Williams</span> tells <span style='color: #ffcc00; font-weight: bold; text-shadow: 0 0 8px #ffcc00;'>groovy stories</span>, and <span style='color: #a29bfe; font-weight: bold; text-shadow: 0 0 8px #a29bfe;'>Sam</span> makes <span style='color: #fd79a8; font-weight: bold; text-shadow: 0 0 8px #fd79a8;'>terrible puns</span> between hands.",
+    "DescriptionArabic": "<span style='color: #ff6b6b; font-weight: bold; text-shadow: 0 0 8px #ff6b6b; direction: rtl;'>اجلس</span> على <span style='color: #4ecdc4; font-weight: bold; text-shadow: 0 0 8px #4ecdc4; direction: rtl;'>طاولة المخزن</span> لأغرب <span style='color: #ffe66d; font-weight: bold; text-shadow: 0 0 8px #ffe66d; direction: rtl;'>لعبة بوكر</span> في التاريخ. <span style='color: #95e77e; font-weight: bold; text-shadow: 0 0 8px #95e77e; direction: rtl;'>جلادوس</span> توزع <span style='color: #f8b500; font-weight: bold; text-shadow: 0 0 8px #f8b500; direction: rtl;'>الأوراق الساخرة</span> بينما <span style='color: #ff69b4; font-weight: bold; text-shadow: 0 0 8px #ff69b4; direction: rtl;'>كلابتراب</span> لا يتوقف عن <span style='color: #b084cc; font-weight: bold; text-shadow: 0 0 8px #b084cc; direction: rtl;'>الشكوى من خسائره</span>. <span style='color: #7fbf7f; font-weight: bold; text-shadow: 0 0 8px #7fbf7f; direction: rtl;'>بروك سامسون</span> يهدد بـ<span style='color: #ff4757; font-weight: bold; text-shadow: 0 0 8px #ff4757; direction: rtl;'>سحق الجماجم</span>، <span style='color: #70a1ff; font-weight: bold; text-shadow: 0 0 8px #70a1ff; direction: rtl;'>آش ويليامز</span> يروي <span style='color: #ffcc00; font-weight: bold; text-shadow: 0 0 8px #ffcc00; direction: rtl;'>قصصاً رائعة</span>، و<span style='color: #a29bfe; font-weight: bold; text-shadow: 0 0 8px #a29bfe; direction: rtl;'>سام</span> يطلق <span style='color: #fd79a8; font-weight: bold; text-shadow: 0 0 8px #fd79a8; direction: rtl;'>نكاتاً سيئة</span> بين الجولات",
+    "ReleaseDate": "2013",
+    "CriticScore": 75,
+    "Length": 5,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Poker%20Night%202%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Poker%20Night%202%20Cover%201024x1024.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=rJaed7CNTws",
+    "videoStart": 15,
+    "videoEnd": 87,
+    "MusicUrl": "https://archive.org/download/retromedia/Poker%20Night%202%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Card Game"
+    ],
+    "DeveloperNames": [
+      "Telltale Games"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP001",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "490MB",
+            "executable": "PokerNight2.exe",
+            "buildID": "9 May 2013",
+            "arguments": [],
+            "filename": "00036.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
+  },
+  {
+    "_id": "game_1757203478776_1",
+    "Name": "Poker Night At The Inventory",
+    "SortingName": "Poker Night 01",
+    "Description": "Welcome to the <span style='color: #ff6b6b; font-weight: bold; text-shadow: 0 0 8px #ff6b6b;'>weirdest underground speakeasy</span> where <span style='color: #4ecdc4; font-weight: bold; text-shadow: 0 0 8px #4ecdc4;'>gaming icons</span> settle their differences with <span style='color: #ffe66d; font-weight: bold; text-shadow: 0 0 8px #ffe66d;'>Texas Hold'em</span> instead of violence. <span style='color: #95e77e; font-weight: bold; text-shadow: 0 0 8px #95e77e;'>Heavy Weapons Guy</span> explains his <span style='color: #f8b500; font-weight: bold; text-shadow: 0 0 8px #f8b500;'>sandwich philosophy</span> while <span style='color: #ff69b4; font-weight: bold; text-shadow: 0 0 8px #ff69b4;'>Max</span> threatens everyone with <span style='color: #b084cc; font-weight: bold; text-shadow: 0 0 8px #b084cc;'>gratuitous violence</span>. <span style='color: #7fbf7f; font-weight: bold; text-shadow: 0 0 8px #7fbf7f;'>Strong Bad</span> cheats badly with <span style='color: #ff4757; font-weight: bold; text-shadow: 0 0 8px #ff4757;'>boxing gloves on</span>, and <span style='color: #70a1ff; font-weight: bold; text-shadow: 0 0 8px #70a1ff;'>Tycho</span> nervously quotes <span style='color: #ffcc00; font-weight: bold; text-shadow: 0 0 8px #ffcc00;'>obscure webcomics</span> while losing his <span style='color: #a29bfe; font-weight: bold; text-shadow: 0 0 8px #a29bfe;'>shirt</span> literally.",
+    "DescriptionArabic": "مرحباً بك في <span style='color: #ff6b6b; font-weight: bold; text-shadow: 0 0 8px #ff6b6b; direction: rtl;'>أغرب حانة سرية</span> حيث <span style='color: #4ecdc4; font-weight: bold; text-shadow: 0 0 8px #4ecdc4; direction: rtl;'>أيقونات الألعاب</span> يحلون خلافاتهم بـ<span style='color: #ffe66d; font-weight: bold; text-shadow: 0 0 8px #ffe66d; direction: rtl;'>تكساس هولدم</span> بدلاً من العنف. <span style='color: #95e77e; font-weight: bold; text-shadow: 0 0 8px #95e77e; direction: rtl;'>رجل الأسلحة الثقيلة</span> يشرح <span style='color: #f8b500; font-weight: bold; text-shadow: 0 0 8px #f8b500; direction: rtl;'>فلسفة الشطيرة</span> بينما <span style='color: #ff69b4; font-weight: bold; text-shadow: 0 0 8px #ff69b4; direction: rtl;'>ماكس</span> يهدد الجميع بـ<span style='color: #b084cc; font-weight: bold; text-shadow: 0 0 8px #b084cc; direction: rtl;'>عنف مجاني</span>. <span style='color: #7fbf7f; font-weight: bold; text-shadow: 0 0 8px #7fbf7f; direction: rtl;'>سترونج باد</span> يغش بشكل سيء مع <span style='color: #ff4757; font-weight: bold; text-shadow: 0 0 8px #ff4757; direction: rtl;'>قفازات الملاكمة</span>، و<span style='color: #70a1ff; font-weight: bold; text-shadow: 0 0 8px #70a1ff; direction: rtl;'>تايكو</span> يقتبس بعصبية <span style='color: #ffcc00; font-weight: bold; text-shadow: 0 0 8px #ffcc00; direction: rtl;'>قصص ويب غامضة</span> بينما يخسر <span style='color: #a29bfe; font-weight: bold; text-shadow: 0 0 8px #a29bfe; direction: rtl;'>قميصه</span> حرفياً",
+    "ReleaseDate": "2010",
+    "CriticScore": 70,
+    "Length": 5,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Poker%20Night%20At%20The%20Inventory%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Poker%20Night%20at%20the%20Inventory%20Cover%201024x1024.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=xTLDWGNBvM0",
+    "videoStart": null,
+    "videoEnd": 85,
+    "MusicUrl": "https://archive.org/download/retromedia/Poker%20Night%20at%20the%20Inventory%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Card Game"
+    ],
+    "DeveloperNames": [
+      "Telltale Games"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP001",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "240MB",
+            "executable": "CelebrityPoker.exe",
+            "buildID": "17 May 2017",
+            "arguments": [],
+            "filename": "00035.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
+  },
+  {
+    "_id": "game_1757204899980_0",
+    "Name": "Guntouchables",
+    "SortingName": "",
+    "Description": "Welcome to the <span style='color: #ff6b6b; font-weight: bold; text-shadow: 0 0 8px #ff6b6b;'>dumbest apocalypse</span> where <span style='color: #4ecdc4; font-weight: bold; text-shadow: 0 0 8px #4ecdc4;'>preppers</span> finally get their moment against <span style='color: #ffe66d; font-weight: bold; text-shadow: 0 0 8px #ffe66d;'>mutant hordes</span> they accidentally <span style='color: #95e77e; font-weight: bold; text-shadow: 0 0 8px #95e77e;'>vote to make worse</span>. Your <span style='color: #f8b500; font-weight: bold; text-shadow: 0 0 8px #f8b500;'>duct-taped guns</span> shoot <span style='color: #ff69b4; font-weight: bold; text-shadow: 0 0 8px #ff69b4;'>questionable bullets</span> at <span style='color: #b084cc; font-weight: bold; text-shadow: 0 0 8px #b084cc;'>body-horror abominations</span> while teammates <span style='color: #7fbf7f; font-weight: bold; text-shadow: 0 0 8px #7fbf7f;'>scream tactics</span> nobody follows. Between missions, democracy's <span style='color: #ff4757; font-weight: bold; text-shadow: 0 0 8px #ff4757;'>worst idea</span> lets players vote which <span style='color: #70a1ff; font-weight: bold; text-shadow: 0 0 8px #70a1ff;'>horrifying mutation</span> enemies get next because apparently <span style='color: #ffcc00; font-weight: bold; text-shadow: 0 0 8px #ffcc00;'>self-sabotage</span> is hilarious. Survival means embracing the <span style='color: #a29bfe; font-weight: bold; text-shadow: 0 0 8px #a29bfe;'>beautiful chaos</span> of <span style='color: #fd79a8; font-weight: bold; text-shadow: 0 0 8px #fd79a8;'>cooperative incompetence</span>.",
+    "DescriptionArabic": "مرحباً في <span style='color: #ff6b6b; font-weight: bold; text-shadow: 0 0 8px #ff6b6b; direction: rtl;'>أغبى نهاية العالم</span> حيث <span style='color: #4ecdc4; font-weight: bold; text-shadow: 0 0 8px #4ecdc4; direction: rtl;'>المستعدون للكوارث</span> يحصلون أخيراً على لحظتهم ضد <span style='color: #ffe66d; font-weight: bold; text-shadow: 0 0 8px #ffe66d; direction: rtl;'>جحافل المسوخ</span> التي <span style='color: #95e77e; font-weight: bold; text-shadow: 0 0 8px #95e77e; direction: rtl;'>يصوتون لجعلها أسوأ</span>‪.‬ <span style='color: #f8b500; font-weight: bold; text-shadow: 0 0 8px #f8b500; direction: rtl;'>أسلحتك الملصقة بالشريط</span> تطلق <span style='color: #ff69b4; font-weight: bold; text-shadow: 0 0 8px #ff69b4; direction: rtl;'>رصاصات مشكوك فيها</span> على <span style='color: #b084cc; font-weight: bold; text-shadow: 0 0 8px #b084cc; direction: rtl;'>رعب الأجساد المشوهة</span> بينما الزملاء <span style='color: #7fbf7f; font-weight: bold; text-shadow: 0 0 8px #7fbf7f; direction: rtl;'>يصرخون بتكتيكات</span> لا أحد يتبعها‪.‬ بين المهمات، <span style='color: #ff4757; font-weight: bold; text-shadow: 0 0 8px #ff4757; direction: rtl;'>أسوأ فكرة للديمقراطية</span> تسمح للاعبين بالتصويت على <span style='color: #70a1ff; font-weight: bold; text-shadow: 0 0 8px #70a1ff; direction: rtl;'>الطفرة المرعبة</span> التالية للأعداء لأن <span style='color: #ffcc00; font-weight: bold; text-shadow: 0 0 8px #ffcc00; direction: rtl;'>التخريب الذاتي</span> مضحك على ما يبدو‪.‬ البقاء يعني احتضان <span style='color: #a29bfe; font-weight: bold; text-shadow: 0 0 8px #a29bfe; direction: rtl;'>الفوضى الجميلة</span> من <span style='color: #fd79a8; font-weight: bold; text-shadow: 0 0 8px #fd79a8; direction: rtl;'>عدم الكفاءة التعاونية</span>‪.‬",
+    "ReleaseDate": "2025",
+    "CriticScore": 85,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Guntouchables%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Guntouchables%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=vMhlINynRxQ",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "Game Swing"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP001",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "330MB",
+            "executable": "Launcher.exe",
+            "arguments": [],
+            "buildID": "1.0.5.b862",
+            "filename": "00037.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New",
+      "Need Music"
+    ]
+  },
+  {
+    "_id": "game_1757204899980_1",
+    "Name": "Peak",
+    "SortingName": "",
+    "Description": "Conquer the <span style='color: #4ecdc4; font-weight: bold; text-shadow: 0 0 8px #4ecdc4;'>procedural mountain</span> that <span style='color: #ff6b6b; font-weight: bold; text-shadow: 0 0 8px #ff6b6b;'>reshapes daily</span> on a <span style='color: #ffe66d; font-weight: bold; text-shadow: 0 0 8px #ffe66d;'>mysterious island</span> where every ascent demands <span style='color: #95e77e; font-weight: bold; text-shadow: 0 0 8px #95e77e;'>teamwork</span> or <span style='color: #f8b500; font-weight: bold; text-shadow: 0 0 8px #f8b500;'>death</span>. Through <span style='color: #ff69b4; font-weight: bold; text-shadow: 0 0 8px #ff69b4;'>four biomes</span> of <span style='color: #b084cc; font-weight: bold; text-shadow: 0 0 8px #b084cc;'>escalating danger</span>, climbers manage <span style='color: #7fbf7f; font-weight: bold; text-shadow: 0 0 8px #7fbf7f;'>stamina</span>, scavenge <span style='color: #ff4757; font-weight: bold; text-shadow: 0 0 8px #ff4757;'>survival resources</span>, and help fallen teammates while <span style='color: #70a1ff; font-weight: bold; text-shadow: 0 0 8px #70a1ff;'>proximity chat</span> turns <span style='color: #ffcc00; font-weight: bold; text-shadow: 0 0 8px #ffcc00;'>desperate pleas</span> into coordination. The mountain <span style='color: #a29bfe; font-weight: bold; text-shadow: 0 0 8px #a29bfe;'>takes no prisoners</span> as each climb becomes a test of trust, skill, and raw <span style='color: #fd79a8; font-weight: bold; text-shadow: 0 0 8px #fd79a8;'>determination</span>.",
+    "DescriptionArabic": "اقهر <span style='color: #4ecdc4; font-weight: bold; text-shadow: 0 0 8px #4ecdc4; direction: rtl;'>الجبل الإجرائي</span> الذي <span style='color: #ff6b6b; font-weight: bold; text-shadow: 0 0 8px #ff6b6b; direction: rtl;'>يعيد تشكيل نفسه يومياً</span> على <span style='color: #ffe66d; font-weight: bold; text-shadow: 0 0 8px #ffe66d; direction: rtl;'>جزيرة غامضة</span> حيث كل صعود يتطلب <span style='color: #95e77e; font-weight: bold; text-shadow: 0 0 8px #95e77e; direction: rtl;'>العمل الجماعي</span> أو <span style='color: #f8b500; font-weight: bold; text-shadow: 0 0 8px #f8b500; direction: rtl;'>الموت</span>‪.‬ عبر <span style='color: #ff69b4; font-weight: bold; text-shadow: 0 0 8px #ff69b4; direction: rtl;'>أربع بيئات</span> من <span style='color: #b084cc; font-weight: bold; text-shadow: 0 0 8px #b084cc; direction: rtl;'>الخطر المتصاعد</span>، يدير المتسلقون <span style='color: #7fbf7f; font-weight: bold; text-shadow: 0 0 8px #7fbf7f; direction: rtl;'>القدرة على التحمل</span>، يبحثون عن <span style='color: #ff4757; font-weight: bold; text-shadow: 0 0 8px #ff4757; direction: rtl;'>موارد البقاء</span>، ويساعدون الزملاء الساقطين بينما <span style='color: #70a1ff; font-weight: bold; text-shadow: 0 0 8px #70a1ff; direction: rtl;'>المحادثة القريبة</span> تحول <span style='color: #ffcc00; font-weight: bold; text-shadow: 0 0 8px #ffcc00; direction: rtl;'>التوسلات اليائسة</span> إلى تنسيق‪.‬ الجبل <span style='color: #a29bfe; font-weight: bold; text-shadow: 0 0 8px #a29bfe; direction: rtl;'>لا يرحم أحداً</span> حيث كل تسلق يصبح اختباراً للثقة والمهارة و<span style='color: #fd79a8; font-weight: bold; text-shadow: 0 0 8px #fd79a8; direction: rtl;'>العزيمة</span> الخام‪.‬",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Peak%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/PEAK%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=jrlUVhLBjG0",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Peak%20Airport.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Party"
+    ],
+    "DeveloperNames": [
+      "Team PEAK"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP001",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "2GB",
+            "executable": "PEAK.exe",
+            "arguments": [],
+            "buildID": "1.27.a",
+            "filename": "00038.zip"
           }
         ]
       }
