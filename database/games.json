@@ -147622,5 +147622,51 @@
     "Tags": [
       "New"
     ]
+  },
+  {
+    "_id": "game_1757233782727_0",
+    "Name": "Hyper Dragon Ball Z",
+    "SortingName": "Dragon Ball 20",
+    "Description": "Fan-crafted <span style='color: #FFA500; font-weight: bold; text-shadow: 0 0 8px #FFA500;'>90s perfection</span> resurrects <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;'>Dragon Ball</span> through <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;'>Capcom's lens</span>, where <span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;'>pixel-perfect sprites</span> execute <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;'>Street Fighter mechanics</span> with <span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;'>Darkstalkers flair</span>. <span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347;'>Balanced rosters</span> prioritize <span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 6px #00CED1;'>competitive depth</span> over quantity as <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;'>Kamehamehas</span> meet <span style='color: #FFB6C1; font-weight: bold; text-shadow: 0 0 6px #FFB6C1;'>quarter-circles</span>, <span style='color: #4B0082; font-weight: bold; text-shadow: 0 0 8px #4B0082;'>Z-counters</span> clash with <span style='color: #FF1493; font-weight: bold; text-shadow: 0 0 8px #FF1493;'>parries</span>. This <span style='color: #00FF00; font-weight: bold; text-shadow: 0 0 8px #00FF00;'>MUGEN masterwork</span> proves dedication creates the <span style='color: #1E90FF; font-weight: bold; text-shadow: 0 0 8px #1E90FF;'>ultimate fusion</span> of arcade nostalgia and Saiyan power.",
+    "DescriptionArabic": "<span style='color: #FFA500; font-weight: bold; text-shadow: 0 0 8px #FFA500; direction: rtl;'>كمال التسعينات</span> المصنوع من المعجبين يحيي <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700; direction: rtl;'>دراغون بول</span> عبر <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C; direction: rtl;'>عدسة كابكوم</span>، حيث <span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1; direction: rtl;'>رسومات البكسل المثالية</span> تنفذ <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32; direction: rtl;'>ميكانيكيات ستريت فايتر</span> مع <span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB; direction: rtl;'>لمسة داركستوكرز</span>‪.‬ <span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347; direction: rtl;'>القوائم المتوازنة</span> تعطي الأولوية <span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 6px #00CED1; direction: rtl;'>للعمق التنافسي</span> على الكمية بينما <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000; direction: rtl;'>الكاميهاميها</span> تلتقي <span style='color: #FFB6C1; font-weight: bold; text-shadow: 0 0 6px #FFB6C1; direction: rtl;'>بأرباع الدوائر</span>، <span style='color: #4B0082; font-weight: bold; text-shadow: 0 0 8px #4B0082; direction: rtl;'>عدادات زد</span> تصطدم مع <span style='color: #FF1493; font-weight: bold; text-shadow: 0 0 8px #FF1493; direction: rtl;'>الصدات</span>‪.‬ هذه <span style='color: #00FF00; font-weight: bold; text-shadow: 0 0 8px #00FF00; direction: rtl;'>تحفة موجين</span> تثبت أن التفاني يخلق <span style='color: #1E90FF; font-weight: bold; text-shadow: 0 0 8px #1E90FF; direction: rtl;'>الاندماج النهائي</span> بين حنين الآركيد وقوة السايان‪.‬",
+    "ReleaseDate": "2025",
+    "CriticScore": 100,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Hyper%20Dragon%20Ball%20Z%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Hyper%20Dragon%20Ball%20Z%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=X_mE1be7ZFw",
+    "videoStart": 15,
+    "videoEnd": 130,
+    "MusicUrl": "https://archive.org/download/retromedia/Hyper%20Dragon%20Ball%20Z%20Theme%20Song.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Fighting"
+    ],
+    "DeveloperNames": [
+      "Tose"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP002",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Hyper DBZ 6.0\\Hyper DBZ.exe",
+            "arguments": [],
+            "buildID": "6.0",
+            "filename": "00043.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
   }
 ]
