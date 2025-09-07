@@ -2306,7 +2306,6 @@
         "versions": [
           {
             "identifier": "retro-psx",
-            "filename": "Suikoden II.chd",
             "name": "Fixed",
             "platform": "Sony PlayStation 1",
             "emulator": "RetroArch",
@@ -2315,16 +2314,17 @@
             "arguments": [
               "-L",
               ".\\cores\\mednafen_psx_hw_libretro.dll"
-            ]
+            ],
+            "filename": "Suikoden II.zip"
           },
           {
             "identifier": "retro-psx",
-            "filename": "Suikoden II RetroArch HD Textures.zip",
             "name": "HD Textures",
             "platform": "Sony PlayStation 1",
             "emulator": "RetroArch",
             "fileSize": "80MB",
-            "arguments": []
+            "arguments": [],
+            "filename": "Suikoden II RetroArch HD Textures.zip"
           }
         ]
       }
@@ -46553,25 +46553,24 @@
         "versions": [
           {
             "identifier": "retro-psx",
-            "filename": "Spider-Man 2 Enter Electro.chd",
             "name": "Vanilla",
             "platform": "Sony PlayStation 1",
             "emulator": "RetroArch",
-            "fileSize": "700MB",
+            "fileSize": "320MB",
             "romFile": "Spider-Man 2 Enter Electro.chd",
             "arguments": [
               "-L",
               ".\\cores\\mednafen_psx_hw_libretro.dll"
-            ]
+            ],
+            "filename": "Spider-Man 2 Enter Electro.zip"
           },
           {
             "identifier": "retro-psx",
-            "filename": "Spider-Man 2 Enter Electro RetroArch HD Textures.zip",
             "name": "HD Textures",
             "platform": "Sony PlayStation 1",
             "emulator": "DuckStation",
-            "fileSize": "800MB",
-            "romFile": ""
+            "fileSize": "760MB",
+            "filename": "Spider-Man 2 Enter Electro RetroArch HD Textures.zip"
           }
         ]
       }
@@ -66443,12 +66442,29 @@
         "versions": [
           {
             "identifier": "retro-psx",
-            "filename": "Legend of Legaia.chd",
-            "name": "Vanilla",
+            "name": "Restored Progression",
             "platform": "Sony PlayStation 1",
-            "emulator": "DuckStation",
-            "fileSize": "500MB",
-            "romFile": "Legend of Legaia.chd"
+            "emulator": "RetroArch",
+            "fileSize": "250MB",
+            "romFile": "Legend of Legaia.chd",
+            "arguments": [
+              "-L",
+              ".\\cores\\mednafen_psx_hw_libretro.dll"
+            ],
+            "filename": "Legend of Legaia.zip"
+          },
+          {
+            "identifier": "retro-psx",
+            "name": "HD Textures",
+            "platform": "Sony PlayStation 1",
+            "emulator": "RetroArch",
+            "fileSize": "9GB",
+            "romFile": "Legend of Legaia.chd",
+            "arguments": [
+              "-L",
+              ".\\cores\\mednafen_psx_hw_libretro.dll"
+            ],
+            "filename": "Legend of Legaia RetroArch HD Textures.zip"
           }
         ]
       }
@@ -109481,12 +109497,12 @@
         "versions": [
           {
             "identifier": "retro-psx",
-            "filename": "Clock Tower II The Struggle Within (Japanese VA).img",
-            "name": "Vanilla",
+            "name": "Japanese VA",
             "platform": "Sony PlayStation 1",
             "emulator": "DuckStation",
-            "fileSize": "400MB",
-            "romFile": "Clock Tower II The Struggle Within (Japanese VA).img"
+            "fileSize": "410MB",
+            "romFile": "Clock Tower II The Struggle Within.img",
+            "filename": "Clock Tower II The Struggle Within.img"
           }
         ]
       }
