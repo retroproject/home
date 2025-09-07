@@ -68847,7 +68847,10 @@
         ]
       }
     },
-    "hasIssue": true
+    "hasIssue": true,
+    "Tags": [
+      "Hide"
+    ]
   },
   {
     "_id": "7b25c9e1-4e7f-4072-8ae8-4cc82a6f8d9b",
@@ -103375,7 +103378,6 @@
             "platform": "PC Game",
             "fileSize": "500MB",
             "arguments": [],
-            "notes": "Need Upload",
             "executable": "WWE2K23_x64.exe",
             "filename": "WWE 2K23.zip"
           }
@@ -105846,7 +105848,11 @@
         ]
       }
     },
-    "hasIssue": true
+    "hasIssue": true,
+    "Tags": [
+      "Hide",
+      "Need Upload"
+    ]
   },
   {
     "_id": "b9d74dec-28c4-456a-a31a-fa80da7441dc",
@@ -118087,13 +118093,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC41",
+            "identifier": "RPRP001",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "104GB",
+            "fileSize": "110GB",
             "arguments": [],
             "executable": "TEKKEN 8.exe",
-            "filename": "Tekken 8.zip"
+            "buildID": "2 September 2025",
+            "filename": "00040.zip"
           }
         ]
       }
@@ -137564,16 +137571,16 @@
         "versions": [
           {
             "identifier": "CPC39",
-            "filename": "Enigma of Fear.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Enigma.exe",
-            "fileSize": "500MB"
+            "fileSize": "6GB",
+            "filename": "Enigma of Fear.zip"
           }
         ]
       }
     },
-    "hasIssue": true
+    "hasIssue": false
   },
   {
     "_id": "effe3d8b-6ba4-4b54-aeed-55e3d4f02b5f",
@@ -145186,7 +145193,11 @@
           }
         ]
       }
-    }
+    },
+    "hasIssue": true,
+    "Tags": [
+      "Hide"
+    ]
   },
   {
     "_id": "fed6632a-e854-4fe8-9d7c-616c205c3985",
@@ -146282,14 +146293,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC46",
+            "identifier": "RPRP001",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
             "executable": "PATAPON12_REPLAY.exe",
             "buildID": "25 August 2025",
             "arguments": [],
-            "filename": "00001.zip"
+            "filename": "00039.zip"
           }
         ]
       }
@@ -146297,7 +146308,7 @@
     "Tags": [
       "New"
     ],
-    "hasIssue": true
+    "hasIssue": false
   },
   {
     "_id": "game_1756530739517_0",
@@ -146991,7 +147002,8 @@
       }
     },
     "Tags": [
-      "New"
+      "New",
+      "Need Music"
     ],
     "hasIssue": true
   },
@@ -147181,7 +147193,8 @@
       }
     },
     "Tags": [
-      "New"
+      "New",
+      "Need Music"
     ],
     "hasIssue": true
   },
@@ -147272,7 +147285,8 @@
       }
     },
     "Tags": [
-      "New"
+      "New",
+      "Need Music"
     ],
     "hasIssue": true
   },
