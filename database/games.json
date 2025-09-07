@@ -110473,17 +110473,17 @@
       "Nintendo DS": {
         "versions": [
           {
-            "identifier": "",
-            "filename": "Animal Crossing Wild World.nds",
+            "identifier": "retro-nitro",
             "name": "Vanilla",
             "platform": "Nintendo DS",
             "emulator": "RetroArch",
             "romFile": "Animal Crossing Wild World.nds",
-            "fileSize": "32MB",
+            "fileSize": "40MB",
             "arguments": [
               "-L",
               ".\\cores\\melonds_libretro.dll"
-            ]
+            ],
+            "filename": "Animal Crossing Wild World.nds"
           }
         ]
       }
