@@ -1549,15 +1549,16 @@
         "versions": [
           {
             "identifier": "retroid-2",
-            "filename": "Heavy Rain.7z",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "HeavyRain.exe",
-            "fileSize": "29GB"
+            "fileSize": "29GB",
+            "filename": "Heavy Rain.zip"
           }
         ]
       }
-    }
+    },
+    "hasIssue": true
   },
   {
     "_id": "028bdbf4-24b9-4711-a7f9-c3cc6f047ba5",
