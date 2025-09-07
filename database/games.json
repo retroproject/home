@@ -39314,17 +39314,17 @@
       "Nintendo Game Boy Advance": {
         "versions": [
           {
-            "identifier": "",
-            "filename": "Castlevania Circle of the Moon.gba",
+            "identifier": "retro-gba",
             "name": "Vanilla",
             "platform": "Nintendo Game Boy Advance",
             "emulator": "RetroArch",
             "romFile": "Castlevania Circle of the Moon.gba",
-            "fileSize": "8MB",
+            "fileSize": "10MB",
             "arguments": [
               "-L",
               ".\\cores\\mgba_libretro.dll"
-            ]
+            ],
+            "filename": "Castlevania Circle of the Moon.gba"
           }
         ]
       }
