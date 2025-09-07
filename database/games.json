@@ -61502,11 +61502,11 @@
         "versions": [
           {
             "identifier": "CPC04",
-            "filename": "Call of Duty Black Ops Cold War.7z",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "BlackOpsColdWar.exe",
-            "fileSize": "135GB"
+            "fileSize": "135GB",
+            "filename": "Call of Duty Black Ops Cold War.zip"
           }
         ]
       }
@@ -77355,11 +77355,11 @@
         "versions": [
           {
             "identifier": "retroid-2",
-            "filename": "Final Fantasy XV.7z",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "ffxv_s.exe",
-            "fileSize": "86GB"
+            "fileSize": "86GB",
+            "filename": "Final Fantasy XV.zip"
           }
         ]
       }
@@ -127949,7 +127949,7 @@
             "executable": "Start Game.bat",
             "fileSize": "80GB",
             "configExecutable": "Install Service.bat",
-            "filename": "Call of Duty Vanguard.7z"
+            "filename": "Call of Duty Vanguard.zip"
           }
         ]
       }
@@ -136025,11 +136025,11 @@
         "versions": [
           {
             "identifier": "CPC04",
-            "filename": "Call of Duty WWII.7z",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "s2_sp64_ship.exe",
-            "fileSize": "110GB"
+            "fileSize": "110GB",
+            "filename": "Call of Duty WWII.zip"
           }
         ]
       }
