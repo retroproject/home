@@ -4098,7 +4098,7 @@
     "_id": "069d7441-d334-4620-8160-72ad515836cd",
     "GameId": "246dafce-9132-4ce9-a427-16f9cbb2c415",
     "Name": "Sonic Battle",
-    "SortingName": "Sonic The Hedgehog 11",
+    "SortingName": "Sonic The Hedgehog 11.01",
     "Description": "When <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Sonic</span> discovers the ancient fighting robot <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Emerl</span>, he and his friends teach the machine how to fight, not knowing it was created as the ultimate weapon by an ancient civilization.<br>As Emerl learns combat techniques from <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Tails</span>, <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Knuckles</span>, <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 6px #FF69B4;'>Amy</span>, and even <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 6px #FFB6C1;'>Cream</span>, it develops a personality and forms bonds of friendship with its trainers.<br>But when <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Dr. Eggman</span> reveals Emerl's true purpose and uses the <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 6px #FFD700;'>Chaos Emeralds</span> to awaken its destructive programming, Sonic must face the heartbreaking choice between saving his mechanical friend and protecting the world from its <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>ultimate power</span>.",
     "DescriptionArabic": "<div dir='rtl'>عندما يكتشف <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>سونيك</span> روبوت القتال القديم <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>إيمرل</span>، يعلمه هو وأصدقاؤه كيفية القتال، دون أن يعلموا أنه تم إنشاؤه كسلاح نهائي من قبل حضارة قديمة.<br>بينما يتعلم إيمرل تقنيات القتال من <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>تيلز</span> و<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>ناكلز</span> و<span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 6px #FF69B4;'>آمي</span> وحتى <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 6px #FFB6C1;'>كريم</span>، يطور شخصية ويكون روابط صداقة مع مدربيه.<br>لكن عندما يكشف <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الدكتور إيغمان</span> الهدف الحقيقي لإيمرل ويستخدم <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 6px #FFD700;'>زمرد الفوضى</span> لإيقاظ برمجته المدمرة، يجب على سونيك أن يواجه الخيار المؤلم بين إنقاذ صديقه الميكانيكي وحماية العالم من <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>قوته النهائية</span>.</div>",
     "ReleaseDate": "2004",
@@ -147559,6 +147559,62 @@
             "arguments": [],
             "buildID": "1.27.a",
             "filename": "00038.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
+  },
+  {
+    "_id": "game_1757230654505_0",
+    "Name": "Ultimate Sonic Smackdown",
+    "SortingName": "Sonic The Hedgehog 11.02",
+    "Description": "Fan-made <span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;'>fighting perfection</span> transforms <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;'>Sonic's universe</span> into a <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;'>2D combat arena</span> where <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;'>speed meets strategy</span> in <span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;'>MUGEN-powered</span> battles. <span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347;'>Chaos Emerald supers</span> collide with <span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 6px #00CED1;'>Marvel vs Capcom</span> mechanics as <span style='color: #FFA500; font-weight: bold; text-shadow: 0 0 6px #FFA500;'>classic characters</span> unleash <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;'>devastating combos</span> through <span style='color: #FFB6C1; font-weight: bold; text-shadow: 0 0 6px #FFB6C1;'>Green Hill Zone</span> and beyond. Every <span style='color: #4B0082; font-weight: bold; text-shadow: 0 0 8px #4B0082;'>spin dash</span> becomes a launcher, every <span style='color: #FF1493; font-weight: bold; text-shadow: 0 0 8px #FF1493;'>homing attack</span> a combo extender in this <span style='color: #00FF00; font-weight: bold; text-shadow: 0 0 8px #00FF00;'>community masterpiece</span> that proves passion creates the ultimate <span style='color: #1E90FF; font-weight: bold; text-shadow: 0 0 8px #1E90FF;'>Sonic showdown</span>.",
+    "DescriptionArabic": "<span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1; direction: rtl;'>كمال القتال</span> المصنوع من المعجبين يحول <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700; direction: rtl;'>عالم سونيك</span> إلى <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C; direction: rtl;'>ساحة قتال ثنائية الأبعاد</span> حيث <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32; direction: rtl;'>السرعة تلتقي بالاستراتيجية</span> في معارك <span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB; direction: rtl;'>مدعومة بموجين</span>‪.‬ <span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347; direction: rtl;'>قوى زمردات الفوضى</span> تصطدم مع ميكانيكيات <span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 6px #00CED1; direction: rtl;'>مارفل ضد كابكوم</span> بينما <span style='color: #FFA500; font-weight: bold; text-shadow: 0 0 6px #FFA500; direction: rtl;'>الشخصيات الكلاسيكية</span> تطلق <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000; direction: rtl;'>كومبوهات مدمرة</span> عبر <span style='color: #FFB6C1; font-weight: bold; text-shadow: 0 0 6px #FFB6C1; direction: rtl;'>منطقة التل الأخضر</span> وما بعدها‪.‬ كل <span style='color: #4B0082; font-weight: bold; text-shadow: 0 0 8px #4B0082; direction: rtl;'>اندفاعة دوارة</span> تصبح منصة إطلاق، كل <span style='color: #FF1493; font-weight: bold; text-shadow: 0 0 8px #FF1493; direction: rtl;'>هجوم موجه</span> يمدد الكومبو في هذه <span style='color: #00FF00; font-weight: bold; text-shadow: 0 0 8px #00FF00; direction: rtl;'>تحفة المجتمع</span> التي تثبت أن الشغف يخلق <span style='color: #1E90FF; font-weight: bold; text-shadow: 0 0 8px #1E90FF; direction: rtl;'>المواجهة النهائية لسونيك</span>‪.‬",
+    "ReleaseDate": "2025",
+    "CriticScore": 90,
+    "Length": 5,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Ultimate%20Sonic%20Smackdown%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Ultimate%20Sonic%20Smackdown%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=4dn7uq5g6iM",
+    "videoStart": 9,
+    "videoEnd": 106,
+    "MusicUrl": "https://archive.org/download/retromedia/Ultimate%20Sonic%20Smackdown%20Menu%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Fighting"
+    ],
+    "DeveloperNames": [
+      "ArcForged"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP002",
+            "name": "Sonic Smackdown",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "SonicSmackdown.exe",
+            "arguments": [],
+            "buildID": "08 Jun 2024",
+            "filename": "00041.zip"
+          },
+          {
+            "identifier": "RPRP002",
+            "name": "Ultimate Sonic Smackdown",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "UltimateSonicSmackdown.exe",
+            "arguments": [],
+            "buildID": "0.0.19.0",
+            "filename": "00042.zip"
           }
         ]
       }
