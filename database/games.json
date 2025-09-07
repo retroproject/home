@@ -147570,7 +147570,7 @@
   {
     "_id": "game_1757230654505_0",
     "Name": "Ultimate Sonic Smackdown",
-    "SortingName": "Sonic The Hedgehog 11.02",
+    "SortingName": "Sonic The Hedgehog 11.03",
     "Description": "Fan-made <span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;'>fighting perfection</span> transforms <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;'>Sonic's universe</span> into a <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;'>2D combat arena</span> where <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;'>speed meets strategy</span> in <span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;'>MUGEN-powered</span> battles. <span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347;'>Chaos Emerald supers</span> collide with <span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 6px #00CED1;'>Marvel vs Capcom</span> mechanics as <span style='color: #FFA500; font-weight: bold; text-shadow: 0 0 6px #FFA500;'>classic characters</span> unleash <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;'>devastating combos</span> through <span style='color: #FFB6C1; font-weight: bold; text-shadow: 0 0 6px #FFB6C1;'>Green Hill Zone</span> and beyond. Every <span style='color: #4B0082; font-weight: bold; text-shadow: 0 0 8px #4B0082;'>spin dash</span> becomes a launcher, every <span style='color: #FF1493; font-weight: bold; text-shadow: 0 0 8px #FF1493;'>homing attack</span> a combo extender in this <span style='color: #00FF00; font-weight: bold; text-shadow: 0 0 8px #00FF00;'>community masterpiece</span> that proves passion creates the ultimate <span style='color: #1E90FF; font-weight: bold; text-shadow: 0 0 8px #1E90FF;'>Sonic showdown</span>.",
     "DescriptionArabic": "<span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1; direction: rtl;'>كمال القتال</span> المصنوع من المعجبين يحول <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700; direction: rtl;'>عالم سونيك</span> إلى <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C; direction: rtl;'>ساحة قتال ثنائية الأبعاد</span> حيث <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32; direction: rtl;'>السرعة تلتقي بالاستراتيجية</span> في معارك <span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB; direction: rtl;'>مدعومة بموجين</span>‪.‬ <span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347; direction: rtl;'>قوى زمردات الفوضى</span> تصطدم مع ميكانيكيات <span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 6px #00CED1; direction: rtl;'>مارفل ضد كابكوم</span> بينما <span style='color: #FFA500; font-weight: bold; text-shadow: 0 0 6px #FFA500; direction: rtl;'>الشخصيات الكلاسيكية</span> تطلق <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000; direction: rtl;'>كومبوهات مدمرة</span> عبر <span style='color: #FFB6C1; font-weight: bold; text-shadow: 0 0 6px #FFB6C1; direction: rtl;'>منطقة التل الأخضر</span> وما بعدها‪.‬ كل <span style='color: #4B0082; font-weight: bold; text-shadow: 0 0 8px #4B0082; direction: rtl;'>اندفاعة دوارة</span> تصبح منصة إطلاق، كل <span style='color: #FF1493; font-weight: bold; text-shadow: 0 0 8px #FF1493; direction: rtl;'>هجوم موجه</span> يمدد الكومبو في هذه <span style='color: #00FF00; font-weight: bold; text-shadow: 0 0 8px #00FF00; direction: rtl;'>تحفة المجتمع</span> التي تثبت أن الشغف يخلق <span style='color: #1E90FF; font-weight: bold; text-shadow: 0 0 8px #1E90FF; direction: rtl;'>المواجهة النهائية لسونيك</span>‪.‬",
     "ReleaseDate": "2025",
@@ -147661,6 +147661,52 @@
             "arguments": [],
             "buildID": "6.0",
             "filename": "00043.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
+  },
+  {
+    "_id": "game_1757238827476_0",
+    "Name": "Sonic The Fighters",
+    "SortingName": "Sonic The Hedgehog 11.02",
+    "Description": "<span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;'>Sonic's universe</span> enters the <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;'>fighting arena</span> in <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;'>Sega's ambitious</span> 3D brawler where <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;'>speed meets combat</span> in spectacular fashion. <span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347;'>Chaos Emeralds</span> fuel <span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;'>super transformations</span> as <span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 6px #00CED1;'>classic characters</span> unleash <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;'>signature moves</span> through <span style='color: #FFA500; font-weight: bold; text-shadow: 0 0 6px #FFA500;'>polygonal battles</span>. From <span style='color: #FFB6C1; font-weight: bold; text-shadow: 0 0 6px #FFB6C1;'>Tails' aerial combos</span> to <span style='color: #4B0082; font-weight: bold; text-shadow: 0 0 8px #4B0082;'>Knuckles' crushing punches</span>, each fighter brings <span style='color: #FF1493; font-weight: bold; text-shadow: 0 0 8px #FF1493;'>unique abilities</span> to this <span style='color: #00FF00; font-weight: bold; text-shadow: 0 0 8px #00FF00;'>arcade oddity</span> that proves even <span style='color: #1E90FF; font-weight: bold; text-shadow: 0 0 8px #1E90FF;'>hedgehogs</span> can throw down.",
+    "DescriptionArabic": "يدخل <span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1; direction: rtl;'>عالم سونيك</span> إلى <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C; direction: rtl;'>ساحة القتال</span> في لعبة <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700; direction: rtl;'>سيجا الطموحة</span> ثلاثية الأبعاد حيث تلتقي <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32; direction: rtl;'>السرعة مع القتال</span> بشكل مذهل. <span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347; direction: rtl;'>زمردات الفوضى</span> تغذي <span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB; direction: rtl;'>التحولات الخارقة</span> بينما <span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 6px #00CED1; direction: rtl;'>الشخصيات الكلاسيكية</span> تطلق <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000; direction: rtl;'>حركاتها المميزة</span> عبر <span style='color: #FFA500; font-weight: bold; text-shadow: 0 0 6px #FFA500; direction: rtl;'>معارك متعددة الأضلاع</span>. من <span style='color: #FFB6C1; font-weight: bold; text-shadow: 0 0 6px #FFB6C1; direction: rtl;'>كومبوهات تيلز الجوية</span> إلى <span style='color: #4B0082; font-weight: bold; text-shadow: 0 0 8px #4B0082; direction: rtl;'>لكمات ناكلز المحطمة</span>، كل مقاتل يجلب <span style='color: #FF1493; font-weight: bold; text-shadow: 0 0 8px #FF1493; direction: rtl;'>قدرات فريدة</span> لهذه <span style='color: #00FF00; font-weight: bold; text-shadow: 0 0 8px #00FF00; direction: rtl;'>غرابة الأركيد</span> التي تثبت أن حتى <span style='color: #1E90FF; font-weight: bold; text-shadow: 0 0 8px #1E90FF; direction: rtl;'>القنافذ</span> تستطيع القتال.",
+    "ReleaseDate": "1996",
+    "CriticScore": 70,
+    "Length": 5,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Sonic%20The%20Fighters%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Sonic%20the%20Fighters%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=-urzuJSFRTQ",
+    "videoStart": 9,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Sonic%20the%20Fighters%20Advertise.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 3 PSN"
+    ],
+    "GenreNames": [
+      "Fighting"
+    ],
+    "DeveloperNames": [
+      "Sega"
+    ],
+    "PublisherNames": [],
+    "AgeRatingNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3 PSN": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3 PSN",
+            "fileSize": "90MB",
+            "arguments": [],
+            "emulator": "RPCS3",
+            "romFile": "NPEB01162\\USRDIR\\EBOOT.BIN",
+            "filename": "Sonic The Fighters DLC.zip"
           }
         ]
       }
