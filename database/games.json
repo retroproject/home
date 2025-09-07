@@ -110478,7 +110478,7 @@
             "platform": "Nintendo DS",
             "emulator": "RetroArch",
             "romFile": "Animal Crossing Wild World.nds",
-            "fileSize": "40MB",
+            "fileSize": "32MB",
             "arguments": [
               "-L",
               ".\\cores\\melonds_libretro.dll"
