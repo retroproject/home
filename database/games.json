@@ -19398,11 +19398,10 @@
         "versions": [
           {
             "identifier": "retro-psp",
-            "filename": "Bleach Heat the Soul.zip",
             "name": "Vanilla",
             "platform": "Sony PlayStation Portable",
             "emulator": "PPSSPP",
-            "fileSize": "6GB",
+            "fileSize": "5GB",
             "romFiles": [
               "Bleach Heat the Soul 1 (Japanese).iso",
               "Bleach Heat the Soul 2 (Japanese).iso",
@@ -19424,7 +19423,8 @@
               "Heat the Soul 7",
               "Bleach Soul Carnival 1",
               "Bleach Soul Carnival 2"
-            ]
+            ],
+            "filename": "Bleach PSP Collection.zip"
           }
         ]
       }
@@ -53246,7 +53246,7 @@
         ]
       }
     },
-    "hasIssue": true
+    "hasIssue": false
   },
   {
     "_id": "61c85212-c082-4e8b-ad65-bae3124b9e14",
@@ -55571,16 +55571,16 @@
         "versions": [
           {
             "identifier": "retrod2",
-            "filename": "Wario Land (Quick Block Break + Fast Wario).gbc",
             "name": "Enhanced",
             "platform": "Nintendo Game Boy Color",
             "emulator": "RetroArch",
-            "fileSize": "1MB",
+            "fileSize": "10MB",
             "arguments": [
               "-L",
               ".\\cores\\gambatte_libretro.dll"
             ],
-            "romFile": "Wario Land (Quick Block Break + Fast Wario).gbc"
+            "romFile": "Wario Land [Quick Block Break + Fast Wario].gbc",
+            "filename": "Wario Land [Quick Block Break + Fast Wario].gbc"
           }
         ]
       }
@@ -56080,14 +56080,13 @@
         "versions": [
           {
             "identifier": "retro-3ds",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo 3DS",
             "emulator": "Citra",
-            "fileSize": "3GB",
+            "fileSize": "5GB",
             "filenames": [
               "Yo-Kai Watch 3  (Japanese VA).3ds",
-              "Yo-Kai Watch 3 (Japanese VA) Update.zip"
+              "Yo-Kai Watch 3  (Japanese VA) Update.zip"
             ],
             "romFile": "Yo-Kai Watch 3  (Japanese VA).3ds"
           }
@@ -60427,7 +60426,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/6c761092-00dc-4dcb-aa86-51b3e801138e.mp3",
     "PlatformNames": [
-      "Sony PlayStation 3"
+      "Sony PlayStation 3 PSN"
     ],
     "GenreNames": [
       "Strategy"
@@ -60451,13 +60450,26 @@
             "emulator": "RPCS3",
             "fileSize": "8GB",
             "notes": "Missing Download",
-            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
-            "filename": "Bomberman Ultra.zip"
+            "romFile": "NPUB30051/USRDIR/EBOOT.BIN",
+            "filename": "Bomberman Ultra DLC.zip"
+          }
+        ]
+      },
+      "Sony PlayStation 3 PSN": {
+        "versions": [
+          {
+            "identifier": "P0301",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "emulator": "RPCS3",
+            "fileSize": "70MB",
+            "romFile": "NPUB30051/USRDIR/EBOOT.BIN",
+            "filename": "Bomberman Ultra DLC.zip"
           }
         ]
       }
     },
-    "hasIssue": true
+    "hasIssue": false
   },
   {
     "_id": "6c7fd2cf-bcdb-4c73-b4c3-986c34f39e00",
@@ -102506,7 +102518,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/b52fafa4-3639-4c1e-b1a7-025d8d1ce1dd.mp3",
     "PlatformNames": [
-      "Nintendo Entertainment System"
+      "Nintendo Super Entertainment System"
     ],
     "GenreNames": [
       "Japanese Role-Playing"
@@ -102525,8 +102537,7 @@
       "Nintendo Entertainment System": {
         "versions": [
           {
-            "identifier": "retro-nes",
-            "filename": "Illusion of Gaia (Retranslated v1.1).sfc",
+            "identifier": "retro-snes",
             "name": "Retranslated",
             "platform": "Nintendo Entertainment System",
             "emulator": "RetroArch",
@@ -102535,7 +102546,25 @@
             "arguments": [
               "-L",
               ".\\cores\\mesen_libretro.dll"
-            ]
+            ],
+            "filename": "Illusion of Gaia (Retranslated v1.1).sfc"
+          }
+        ]
+      },
+      "Nintendo Super Entertainment System": {
+        "versions": [
+          {
+            "identifier": "retro-snes",
+            "name": "Retranslated",
+            "platform": "Nintendo Super Entertainment System",
+            "emulator": "RetroArch",
+            "fileSize": "10MB",
+            "arguments": [
+              "-L",
+              ".\\cores\\snes9x_libretro.dll"
+            ],
+            "romFile": "Illusion of Gaia (Retranslated v1.1).sfc",
+            "filename": "Illusion of Gaia (Retranslated v1.1).sfc"
           }
         ]
       }
@@ -125580,16 +125609,16 @@
         "versions": [
           {
             "identifier": "retrod1",
-            "filename": "Pokémon Blue.gb",
             "name": "Vanilla",
             "platform": "Nintendo Game Boy",
             "emulator": "RetroArch",
-            "romFile": "Pokémon Blue.gb",
-            "fileSize": "1MB",
+            "romFile": "Pokemon Blue.gb",
+            "fileSize": "10MB",
             "arguments": [
               "-L",
               ".\\cores\\gambatte_libretro.dll"
-            ]
+            ],
+            "filename": "Pokemon Blue.gb"
           }
         ]
       }
@@ -141393,17 +141422,18 @@
       "Sony PlayStation 4": {
         "versions": [
           {
-            "identifier": "",
+            "identifier": "P0400",
             "name": "Vanilla",
             "platform": "Sony PlayStation 4",
             "emulator": "ShadPS4",
-            "fileSize": "25GB",
-            "romFile": "eboot.bin"
+            "fileSize": "29GB",
+            "romFile": "eboot.bin",
+            "filename": "Bloodborne.zip"
           }
         ]
       }
     },
-    "hasIssue": true
+    "hasIssue": false
   },
   {
     "_id": "f6800637-e8ab-41c9-8a61-e43579516aad",
