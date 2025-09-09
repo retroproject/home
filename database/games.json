@@ -24086,16 +24086,14 @@
         "versions": [
           {
             "identifier": "retro-nitro",
-            "filename": "Pokemon Mystery Dungeon Explorers of Darkness.zip",
             "name": "Collection",
             "platform": "Nintendo DS",
             "emulator": "RetroArch",
-            "fileSize": "130MB",
+            "fileSize": "80MB",
             "arguments": [
               "-L",
               ".\\cores\\melonds_libretro.dll"
             ],
-            "romFile": "",
             "romFiles": [
               "Pokemon Mystery Dungeon Explorers of Darkness.nds",
               "Pokemon Mystery Dungeon Explorers of the Spirit.nds"
@@ -24103,7 +24101,8 @@
             "romLabels": [
               "Explorers of Darkness",
               "Explorers of the Spirit"
-            ]
+            ],
+            "filename": "Pokemon Mystery Dungeon Explorers of Darkness.zip"
           }
         ]
       }
@@ -57297,17 +57296,19 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC10",
+            "identifier": "RPRP002",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "59GB",
+            "fileSize": "70GB",
             "arguments": [],
             "executable": "MVCI.exe",
-            "filename": "Marvel vs. Capcom Infinite.zip"
+            "buildID": "7 July 2025",
+            "filename": "00050.zip"
           }
         ]
       }
-    }
+    },
+    "hasIssue": false
   },
   {
     "_id": "67e43933-7f87-4ef8-a056-473aafe7d371",
@@ -68833,19 +68834,20 @@
   {
     "_id": "7b13c40d-d550-40eb-ab9e-377923d33ea5",
     "GameId": "b21d1110f28459498f3117cdd96906a1",
-    "Name": "Elden Ring: Nightreign",
+    "Name": "Elden Ring Nightreign",
     "SortingName": "Elden Ring 02",
     "Description": "In an alternate timeline where the <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Lands Between</span> have been consumed by an eternal <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>night</span>, three brave <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Tarnished</span> warriors must work together to survive increasingly dangerous cycles of darkness as malevolent forces led by the mysterious <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Night Lord</span> seek to claim dominion over this twisted realm.<br>Cooperative survival becomes essential as players scavenge for resources, craft powerful weapons, and face horrifying <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>twisted creatures</span> that emerge from the shadows, including corrupted versions of familiar bosses and entirely new <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>nightmare entities</span>.<br>Navigate through familiar yet transformed locations like the decaying <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>Limgrave</span> and the haunted <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>Academy of Raya Lucaria</span>, where each cycle brings deadlier challenges and greater rewards.<br>Can these unlikely allies overcome the encroaching darkness and restore light to a world where the <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Elden Ring's</span> shards have been twisted into instruments of pure <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>malice</span>?",
     "DescriptionArabic": "<div dir='rtl'>في خط زمني بديل حيث ابتلعت <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>الأراضي الوسطى</span> <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>ليل</span> أبدي، يجب على ثلاثة محاربين <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>ملطخين</span> شجعان أن يتعاونوا للنجاة من دورات ظلام متزايدة الخطر بينما تسعى قوى خبيثة بقيادة <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>سيد الليل</span> الغامض للمطالبة بالهيمنة على هذه المملكة الملتوية.<br>يصبح البقاء التعاوني ضرورياً بينما يبحث اللاعبون عن الموارد، ويصنعون أسلحة قوية، ويواجهون <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>مخلوقات ملتوية</span> مرعبة تظهر من الظلال، بما في ذلك نسخ فاسدة من زعماء مألوفين و<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>كيانات كابوسية</span> جديدة تماماً.<br>تنقل عبر مواقع مألوفة لكن متحولة مثل <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>ليمغريف</span> المتحللة و<span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>أكاديمية رايا لوكاريا</span> المسكونة، حيث تجلب كل دورة تحديات أكثر فتكاً ومكافآت أعظم.<br>هل يمكن لهؤلاء الحلفاء غير المتوقعين أن يتغلبوا على الظلام الزاحف ويعيدوا الضوء إلى عالم حيث تحولت شظايا <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>خاتم إلدن</span> إلى أدوات <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>خبث</span> محض؟</div>",
     "ReleaseDate": "2025-5-30",
     "CriticScore": 90,
+    "Length": 40,
     "BackgroundImage": "89c3f3da-917d-42bf-bf0b-ac175629a945.jpeg",
     "CoverImage": "29bdb90a-1af4-419d-96bc-e768ad3c59eb.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/89c3f3da-917d-42bf-bf0b-ac175629a945.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/29bdb90a-1af4-419d-96bc-e768ad3c59eb.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://www.youtube.com/watch?v=AWrXpJQBJF0",
+    "videoStart": 2.3,
+    "videoEnd": 106,
     "MusicUrl": "https://archive.org/download/retromusic/7b13c40d-d550-40eb-ab9e-377923d33ea5.mp3",
     "PlatformNames": [
       "PC Game"
@@ -68866,20 +68868,20 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP001",
+            "identifier": "RPRP002",
             "name": "Online",
             "platform": "PC Game",
-            "fileSize": "500MB",
+            "fileSize": "20GB",
             "arguments": [],
-            "buildID": "1.02.1 & 1.0.4"
+            "buildID": "1.02.1 & 1.0.4",
+            "executable": "nrsc_launcher.exe",
+            "filename": "00049.zip"
           }
         ]
       }
     },
-    "hasIssue": true,
-    "Tags": [
-      "Hide"
-    ]
+    "hasIssue": false,
+    "Tags": []
   },
   {
     "_id": "7b25c9e1-4e7f-4072-8ae8-4cc82a6f8d9b",
@@ -71481,7 +71483,11 @@
           }
         ]
       }
-    }
+    },
+    "hasIssue": true,
+    "Tags": [
+      "Hide"
+    ]
   },
   {
     "_id": "7fd305fd-2457-4411-bf3f-fe440133e21b",
