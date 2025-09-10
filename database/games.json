@@ -8327,10 +8327,15 @@
             "emulator": "DuckStation",
             "fileSize": "900MB",
             "romFiles": [
-              "retro-psx"
+              "Summon Night 2 (Disc 1) (Japanese).img",
+              "Summon Night 2 (Disc 2) (Japanese).img\t"
             ],
             "filenames": [
               "Summon Night 2.zip"
+            ],
+            "romLabels": [
+              "Japanese Disc 1",
+              "Japanese Disc 2"
             ]
           },
           {
@@ -25133,7 +25138,7 @@
             ]
           },
           {
-            "identifier": "P0201",
+            "identifier": "P0211",
             "filename": "",
             "platform": "Sony PlayStation 2",
             "name": "PlayStation 2",
@@ -28756,7 +28761,7 @@
             ]
           },
           {
-            "identifier": "P0201",
+            "identifier": "P0211",
             "filename": "",
             "platform": "Sony PlayStation 2",
             "name": "PlayStation 2",
@@ -62191,36 +62196,6 @@
         ]
       }
     }
-  },
-  {
-    "_id": "7de96b92-2558-4fef-ba2f-88d7faba6fab",
-    "GameId": "deb3f043-5ff0-47f1-9a71-e5b445c5c7fe",
-    "Name": "Summon Night 2",
-    "SortingName": "Summon Night 02",
-    "Description": "Young <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>summoner</span> discovers their destiny when darkness threatens to consume their world and only the ancient art of <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>weapon forging</span> can stand against the coming evil. Alongside loyal companions including the brave <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Edgar</span> and gentle <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>Milphy</span>, they must master the sacred bond between <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Guardian Beasts</span> and their human partners.<br>Through treacherous dungeons filled with <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>ancient monsters</span> and challenging tactical battles, the young hero learns that true strength comes not from powerful weapons but from the <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>bonds of friendship</span> forged along the way. Each crafted blade tells a story, each summoned beast carries the hopes of a world on the brink of <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>eternal darkness</span>.",
-    "DescriptionArabic": "<div dir='rtl'>يكتشف <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>المستدعي</span> الشاب قدره عندما تهدد قوى الظلام بابتلاع عالمه، ولا يقف أمام الشر القادم سوى فن <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>صياغة الأسلحة</span> المقدس. برفقة أصدقائه المخلصين أمثال المحارب الشجاع <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>إدجار</span> والرقيقة <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>ميلفي</span>، عليه إتقان الرابطة المقدسة بين <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>الوحوش الحارسة</span> وشركائهم من البشر.<br>عبر الأبراج المحصنة المليئة بـ<span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الوحوش القديمة</span> والمعارك التكتيكية الصعبة، يتعلم البطل الشاب أن القوة الحقيقية لا تأتي من الأسلحة القوية وإنما من <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>روابط الصداقة</span> التي تُبنى على الطريق. كل نصل مصنوع يحكي قصة، وكل وحش مستدعى يحمل آمال عالم على شفا <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>الظلام الأبدي</span>.</div>",
-    "ReleaseDate": "2001-8-2",
-    "CriticScore": 70,
-    "BackgroundImage": "f167466a-17b9-4ce5-bf80-88ac7bcc9c01.jpeg",
-    "CoverImage": "49d73318-289a-41a5-bdef-44909254638d.jpg",
-    "BackgroundUrl": "https://archive.org/download/retrobackgrounds/f167466a-17b9-4ce5-bf80-88ac7bcc9c01.jpeg",
-    "CoverUrl": "https://archive.org/download/retrocovers/49d73318-289a-41a5-bdef-44909254638d.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
-    "MusicUrl": "https://archive.org/download/retromusic/7de96b92-2558-4fef-ba2f-88d7faba6fab.mp3",
-    "PlatformNames": [
-      "Nintendo DS"
-    ],
-    "GenreNames": [
-      "Japanese Role-Playing"
-    ],
-    "DeveloperNames": [
-      "Flight-Plan"
-    ],
-    "Tags": [
-      "Hide"
-    ]
   },
   {
     "_id": "7e1727da-5baa-48d5-8e81-b7d685b0ce86",
@@ -126412,7 +126387,7 @@
             ]
           },
           {
-            "identifier": "P0201",
+            "identifier": "P0211",
             "filename": "",
             "platform": "Sony PlayStation 2",
             "name": "PlayStation 2",
