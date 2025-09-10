@@ -100910,7 +100910,8 @@
       "PlatinumGames"
     ],
     "Tags": [
-      "Hall of Fame"
+      "Hall of Fame",
+      "Has Issues"
     ],
     "downloadInfo": {
       "Nintendo Switch": {
@@ -100919,7 +100920,7 @@
             "identifier": "E0701",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
-            "emulator": "Eden",
+            "emulator": "Yuzu",
             "fileSize": "15GB",
             "filenames": [
               "Bayonetta 3.nsp",
