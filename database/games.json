@@ -25110,7 +25110,45 @@
     ],
     "Tags": [
       "Hide"
-    ]
+    ],
+    "downloadInfo": {
+      "Cross-Platform": {
+        "versions": [
+          {
+            "identifier": "retro-gba",
+            "filename": "",
+            "platform": "Nintendo Game Boy Advance",
+            "name": "Game Boy Advance",
+            "emulator": "RetroArch",
+            "fileSize": "10MB",
+            "arguments": [
+              "-L",
+              ".\\cores\\mgba_libretro.dll"
+            ],
+            "romFiles": [
+              "TMNT.gba"
+            ],
+            "filenames": [
+              "TMNT.gba"
+            ]
+          },
+          {
+            "identifier": "P0201",
+            "filename": "",
+            "platform": "Sony PlayStation 2",
+            "name": "PlayStation 2",
+            "emulator": "PCSX2",
+            "fileSize": "5GB",
+            "romFiles": [
+              "TMNT.iso"
+            ],
+            "filenames": [
+              "TMNT.iso"
+            ]
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "32ed4d9d-c3dd-4cdb-abe8-2afd78a3194c",
@@ -28695,9 +28733,45 @@
     "DeveloperNames": [
       "Konami Digital Entertainment"
     ],
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": [],
+    "downloadInfo": {
+      "Cross-Platform": {
+        "versions": [
+          {
+            "identifier": "retro-gba",
+            "filename": "",
+            "platform": "Nintendo Game Boy Advance",
+            "name": "Game Boy Advance",
+            "emulator": "RetroArch",
+            "fileSize": "10MB",
+            "arguments": [
+              "-L",
+              ".\\cores\\mgba_libretro.dll"
+            ],
+            "romFiles": [
+              "Teenage Mutant Ninja Turtles 2 Battle Nexus.gba\t"
+            ],
+            "filenames": [
+              "Teenage Mutant Ninja Turtles 2 Battle Nexus.gba\t"
+            ]
+          },
+          {
+            "identifier": "P0201",
+            "filename": "",
+            "platform": "Sony PlayStation 2",
+            "name": "PlayStation 2",
+            "emulator": "PCSX2",
+            "fileSize": "3GB",
+            "romFiles": [
+              "Teenage Mutant Ninja Turtles 2 Battle Nexus.iso"
+            ],
+            "filenames": [
+              "Teenage Mutant Ninja Turtles 2 Battle Nexus.iso"
+            ]
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "39abc7e9-7a66-405d-bab3-ac45a4a5096b",
@@ -126307,7 +126381,7 @@
     "MusicUrl": "https://archive.org/download/retromusic/fb453201-86b0-4cc2-a284-6ff011c0f034.mp3",
     "PlatformNames": [
       "Sony PlayStation 2",
-      "Nintendo Game Boy Advance"
+      "Nintendo DS"
     ],
     "GenreNames": [
       "Hack and slash/Beat 'em up"
@@ -126315,9 +126389,46 @@
     "DeveloperNames": [
       "Konami"
     ],
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": [],
+    "downloadInfo": {
+      "Cross-Platform": {
+        "versions": [
+          {
+            "identifier": "retro-nitro",
+            "filename": "",
+            "platform": "Nintendo DS",
+            "name": "Nintendo DS",
+            "emulator": "RetroArch",
+            "fileSize": "30MB",
+            "arguments": [
+              "-L",
+              ".\\cores\\melonds_libretro.dll"
+            ],
+            "romFiles": [
+              "Teenage Mutant Ninja Turtles 3 Mutant Nightmare.nds"
+            ],
+            "filenames": [
+              "Teenage Mutant Ninja Turtles 3 Mutant Nightmare.nds"
+            ]
+          },
+          {
+            "identifier": "P0201",
+            "filename": "",
+            "platform": "Sony PlayStation 2",
+            "name": "PlayStation 2",
+            "emulator": "PCSX2",
+            "fileSize": "3GB",
+            "romFiles": [
+              "Teenage Mutant Ninja Turtles 3 Mutant Nightmare.iso\t"
+            ],
+            "romLabels": [],
+            "filenames": [
+              "Teenage Mutant Ninja Turtles 3 Mutant Nightmare.iso\t"
+            ]
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "fb4baeac-d99a-4d99-9605-ac3a6b0ee04a",
