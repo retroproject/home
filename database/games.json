@@ -100897,21 +100897,20 @@
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/ef05cfb8-09f5-4c6f-8a2a-fe18ce868935.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/436b8845-b612-4858-a1ae-c7102a8a4df8.jpg",
     "YouTubeUrl": "https://www.youtube.com/watch?v=K3LH7De3vvI",
-    "videoStart": 43.5,
-    "videoEnd": 142,
+    "videoStart": 43.7,
+    "videoEnd": 144,
     "MusicUrl": "https://archive.org/download/retromusic/c7ed7763-9640-498e-8a2d-387988f88da7.mp3",
     "PlatformNames": [
       "Nintendo Switch"
     ],
     "GenreNames": [
-      "Hack and slash/Beat 'em up"
+      "Hack and Slash"
     ],
     "DeveloperNames": [
       "PlatinumGames"
     ],
     "Tags": [
-      "Hall of Fame",
-      "Has Issues"
+      "Hall of Fame"
     ],
     "downloadInfo": {
       "Nintendo Switch": {
