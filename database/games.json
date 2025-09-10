@@ -40181,7 +40181,7 @@
     "_id": "5489bdff-ae2a-489f-90a8-701551590be5",
     "GameId": "94daba163669ff8246d1dd0cbce0791d",
     "Name": "Yaiba: Ninja Gaiden Z",
-    "SortingName": "Ninja Gaiden 20",
+    "SortingName": "Ninja Gaiden 20.01",
     "Description": "Resurrected as a <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>cybernetic killing machine</span>, the fallen ninja <span style='color:#FF4500; font-weight:bold;'>Yaiba Kamikaze</span> awakens to find his body rebuilt with <span style='color:#32CD32; font-weight:bold;'>mechanical limbs</span> and a burning desire for revenge against his former master <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Ryu Hayabusa</span>.<br>The world has descended into <span style='color:#FF6347; font-weight:bold;'>zombie apocalypse</span>, but for this <span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>undead warrior</span>, the shambling hordes are merely practice targets for his <span style='color:#FFD700; font-weight:bold;'>razor-sharp katana</span> and <span style='color:#DC143C; font-weight:bold;'>cybernetic arsenal</span>.<br>Each dismembered zombie becomes a weapon in Yaiba's hands—their <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>severed limbs</span> transformed into clubs, their <span style='color:#B8860B; font-weight:bold;'>explosive heads</span> hurled like grenades through crowds of the reanimated.<br>This is no tale of heroic salvation—it's a <span style='color:#8B4513; font-weight:bold;'>blood-soaked carnival</span> of violence where a <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>resurrected monster</span> cuts through an army of the dead to settle a score that <span style='color:#B22222; font-weight:bold;'>not even death could end</span>.",
     "DescriptionArabic": "بُعث كـ<span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>آلة قتل سايبورغية</span>، النينجا الساقط <span style='color:#FF4500; font-weight:bold;'>يايبا كاميكازي</span> يستيقظ ليجد جسده معاد بناؤه بـ<span style='color:#32CD32; font-weight:bold;'>أطراف ميكانيكية</span> ورغبة محرقة في الانتقام من معلمه السابق <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>ريو هايابوسا</span>.<br>انحدر العالم إلى <span style='color:#FF6347; font-weight:bold;'>نهاية العالم بالزومبي</span>، لكن بالنسبة لهذا <span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>المحارب غير الميت</span>، الحشود المتخبطة مجرد أهداف تدريب لـ<span style='color:#FFD700; font-weight:bold;'>كاتانا حادة كالموس</span> و<span style='color:#DC143C; font-weight:bold;'>ترسانته السايبورغية</span>.<br>كل زومبي مقطع الأوصال يصبح سلاحاً في يدي يايبا—<span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>أطرافهم المقطوعة</span> تتحول إلى هراوات، <span style='color:#B8860B; font-weight:bold;'>رؤوسهم المتفجرة</span> تُقذف كقنابل عبر حشود المحييين.<br>هذه ليست حكاية خلاص بطولي—بل <span style='color:#8B4513; font-weight:bold;'>كرنفال مغمور بالدماء</span> من العنف حيث <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>وحش مبعوث</span> يقطع طريقه عبر جيش من الموتى لتسوية حساب <span style='color:#B22222; font-weight:bold;'>حتى الموت لم يستطع إنهاؤه</span>.",
     "ReleaseDate": "2014-3-18",
@@ -130620,5 +130620,48 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1757519647363_0",
+    "Name": "Ninja Gaiden Ragebound",
+    "SortingName": "Ninja Gaiden 20.02",
+    "Description": "<span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;'>Demon hordes</span> descend upon <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;'>Hayabusa Village</span> as ninja warrior <span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;'>Kenji Mozu</span> forges an unlikely alliance with the <span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;'>Black Spider Clan</span> assassin <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;'>Kumori</span>. The revolutionary <span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347;'>Ninja Fusion</span> system unleashes devastating dual-character combat through <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;'>pixel-perfect platforming</span> that honors classic 8-bit brutality. Ancient bloodlines converge in this <span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 8px #00CED1;'>2D masterpiece</span> where every shadow conceals death and every blade strike echoes with <span style='color: #DDA0DD; font-weight: bold; text-shadow: 0 0 8px #DDA0DD;'>nostalgic fury</span>.",
+    "DescriptionArabic": "<div dir='rtl'>تنقض <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;'>جحافل الشياطين</span> على <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;'>قرية هايابوسا</span> العريقة، بينما يُشكل المحارب النينجا <span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;'>كينجي موزو</span> تحالفاً مع القاتلة <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;'>كوموري</span> من <span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;'>عشيرة العنكبوت الأسود</span>. يُطلق نظام <span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347;'>اندماج النينجا</span> الثوري قوى مدمرة عبر قتال ثنائي الشخصيات في <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;'>منصات البكسل المثالية</span> التي تُكرم وحشية الألعاب الكلاسيكية. تتلاقى السلالات القديمة في هذه <span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 8px #00CED1;'>التحفة ثنائية الأبعاد</span> حيث كل ظل يُخفي الموت وكل ضربة نصل تُردد أصداء <span style='color: #DDA0DD; font-weight: bold; text-shadow: 0 0 8px #DDA0DD;'>الغضب الحنيني</span>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 90,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Ninja%20Gaiden%20Ragebound%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Ninja%20Gaiden%20Ragebound%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=II9CmTRac8M",
+    "videoStart": 2,
+    "videoEnd": 54,
+    "MusicUrl": "https://archive.org/download/retromedia/Ninja%20Gaiden%20Ragebound%20Unbreakable%20Determination.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Platformer"
+    ],
+    "DeveloperNames": [
+      "The Game Kitchen"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP002",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "NINJA GAIDEN Ragebound.exe",
+            "buildID": "22 August 2025",
+            "arguments": [],
+            "filename": "00053.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "New"
+    ]
   }
 ]
