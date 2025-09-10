@@ -25615,9 +25615,7 @@
     "DeveloperNames": [
       "Treyarch"
     ],
-    "Tags": [
-      "Online"
-    ],
+    "Tags": [],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -25629,13 +25627,18 @@
             "configExecutable": "BOIIIWD.exe",
             "executableFiles": [
               "boiii.exe",
+              "BOIIIWD.exe",
               "Boii_Bypass_Checks.bat"
             ],
             "executableLabels": [
               "Game",
+              "Maps Downloader",
               "Online Fix"
             ],
-            "notes": "Run Online Fix Only Once",
+            "notes": [
+              "Run Online Fix Only Once",
+              "For Maps Downloader the Path Should be {Game Drive}\\Retro Project\\PC Game\\Call of Duty Black Ops 3"
+            ],
             "filename": "Call of Duty Black Ops 3.zip"
           }
         ]
