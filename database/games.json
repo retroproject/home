@@ -8175,27 +8175,24 @@
     "DeveloperNames": [
       "Omega Force"
     ],
-    "Tags": [
-      "Has Issues"
-    ],
+    "Tags": [],
     "downloadInfo": {
       "PC Game": {
         "versions": [
           {
             "identifier": "CPC23",
-            "filename": "Dynasty Warriors 9 Collection.zip",
             "name": "Dynasty Warriors 9",
             "platform": "PC Game",
-            "executable": "Dynasty Warriors 9\\DW9.exe",
-            "fileSize": "85GB"
-          },
-          {
-            "identifier": "CPC23",
-            "filename": "Dynasty Warriors 9 Collection.zip",
-            "name": "Dynasty Warriors 9 Empires",
-            "platform": "PC Game",
-            "executable": "Dynasty Warriors 9 Empires\\steamclient_loader.exe",
-            "fileSize": "85GB"
+            "fileSize": "85GB",
+            "executableFiles": [
+              "Dynasty Warriors 9\\DW9.exe",
+              "Dynasty Warriors 9 Empires\\steamclient_loader.exe"
+            ],
+            "executableLabels": [
+              "Dynasty Warriors 9",
+              "Dynasty Warriors 9 Empires"
+            ],
+            "filename": "Dynasty Warriors 9 Collection.zip"
           }
         ]
       }
@@ -100920,10 +100917,9 @@
         "versions": [
           {
             "identifier": "E0701",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
-            "emulator": "Yuzu",
+            "emulator": "Eden",
             "fileSize": "15GB",
             "filenames": [
               "Bayonetta 3.nsp",
