@@ -25615,7 +25615,9 @@
     "DeveloperNames": [
       "Treyarch"
     ],
-    "Tags": [],
+    "Tags": [
+      "Online"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
