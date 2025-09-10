@@ -25624,7 +25624,6 @@
             "name": "Online",
             "platform": "PC Game",
             "fileSize": "111GB",
-            "configExecutable": "BOIIIWD.exe",
             "executableFiles": [
               "boiii.exe",
               "BOIIIWD.exe",
@@ -97289,7 +97288,6 @@
         "versions": [
           {
             "identifier": "P0201",
-            "filename": "10,000 Bullets.zip",
             "name": "Vanilla",
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
@@ -97301,7 +97299,8 @@
             "romLabels": [
               "English VA",
               "Japanese VA"
-            ]
+            ],
+            "filename": "10,000 Bullets.zip"
           }
         ]
       }
