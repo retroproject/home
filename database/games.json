@@ -57314,7 +57314,8 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/7495a5fd-4bfb-4cd6-af65-7387ae964972.mp3",
     "PlatformNames": [
-      "PC Game"
+      "PC Game",
+      "Sony PlayStation 3"
     ],
     "GenreNames": [
       "Musou"
@@ -57324,7 +57325,40 @@
     ],
     "Tags": [
       "Hide"
-    ]
+    ],
+    "downloadInfo": {
+      "Cross-Platform": {
+        "versions": [
+          {
+            "identifier": "RPRP002",
+            "filename": "",
+            "platform": "PC Game",
+            "name": "Dynasty Warriors 6",
+            "fileSize": "5GB",
+            "executableFiles": [
+              "DW6_WIN..exe"
+            ],
+            "filenames": [
+              "00054.zip"
+            ]
+          },
+          {
+            "identifier": "P0301",
+            "filename": "",
+            "platform": "Sony PlayStation 3",
+            "name": "Dynasty Warriors 6 Empires",
+            "emulator": "RPCS3",
+            "romFiles": [
+              "PS3_GAME/USRDIR/EBOOT.BIN"
+            ],
+            "fileSize": "8GB",
+            "filenames": [
+              "Dynasty Warriors 6 Empires.zip"
+            ]
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "74a4f1f6-d454-4c9a-b293-528316cd8fa2",
@@ -130663,5 +130697,118 @@
     "Tags": [
       "New"
     ]
+  },
+  {
+    "_id": "game_1757571325560_0",
+    "Name": "Shinobi 1987",
+    "SortingName": "Shinobi 01",
+    "Description": "The criminal organization <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;'>Zeed</span> has kidnapped the children of the ninja clan, forcing master warrior <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;'>Joe Musashi</span> into a deadly infiltration mission through <span style='color: #228B22; font-weight: bold; text-shadow: 0 0 8px #228B22;'>bamboo forests</span> and <span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;'>industrial complexes</span>. Armed with unlimited <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;'>shurikens</span> and devastating <span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;'>ninjutsu magic</span>, Musashi faces intelligent enemies who duck behind cover and reload weapons in this genre-defining arcade masterpiece. Each rescue mission escalates through <span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347;'>multi-level stages</span> where <span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 8px #00CED1;'>thunderstorms</span> and <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;'>tornado magic</span> clear entire screens of Zeed operatives in spectacular fashion.",
+    "DescriptionArabic": "<div dir='rtl'>تختطف منظمة <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;'>زيد</span> الإجرامية أطفال عشيرة النينجا، مما يدفع المحارب الخبير <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;'>جو موساشي</span> لمهمة تسلل خطيرة عبر <span style='color: #228B22; font-weight: bold; text-shadow: 0 0 8px #228B22;'>غابات الخيزران</span> و<span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;'>المجمعات الصناعية</span> المرعبة. يواجه موساشي بـ<span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;'>نجوم الشوريكين</span> اللامحدودة و<span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;'>سحر النينجوتسو</span> المدمر أعداءً أذكياء يختبئون خلف الحواجز ويعيدون تحميل أسلحتهم. تتصاعد كل مهمة إنقاذ عبر <span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347;'>مراحل متعددة المستويات</span> حيث <span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 8px #00CED1;'>العواصف الرعدية</span> و<span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;'>سحر الإعصار</span> تمحو شاشات كاملة من عملاء زيد في عروض مذهلة.</div>",
+    "ReleaseDate": "1987",
+    "CriticScore": 85,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Shinobi%201987%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Shinobi%201987%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=2s0Bem8pGzg",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Shinobi%201987%20BGM%202.mp3",
+    "PlatformNames": [
+      "Arcade"
+    ],
+    "GenreNames": [
+      "Platformer"
+    ],
+    "DeveloperNames": [
+      "SEGA"
+    ],
+    "downloadInfo": {
+      "Arcade": {
+        "versions": [
+          {
+            "identifier": "A0100",
+            "name": "Vanilla",
+            "platform": "Final Arcade",
+            "fileSize": "470KB",
+            "arguments": [
+              "-L",
+              ".\\cores\\fbneo_libretro.dll"
+            ],
+            "emulator": "RetroArch",
+            "romFile": "shinobi.zip",
+            "filename": "shinobi.zip"
+          }
+        ]
+      }
+    },
+    "Tags": []
+  },
+  {
+    "_id": "game_1757572343793_0",
+    "Name": "Shadow Dancer",
+    "SortingName": "Shinobi 02",
+    "Description": "When <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;'>terrorists</span> wire the city with bombs, ninja <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;'>Hayate</span> and his wolf companion <span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;'>Yamato</span> leap into action across <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;'>rooftop battles</span> and <span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347;'>speeding trains</span>. Command your <span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;'>loyal canine</span> to neutralize guards while defusing explosives in this revolutionary sequel where <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;'>stealth executions</span> earn bonus points. Sega's <span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 8px #00CED1;'>System 18</span> powers stunning <span style='color: #228B22; font-weight: bold; text-shadow: 0 0 8px #228B22;'>3D cityscapes</span> as the ninja-dog duo races against time to save innocent lives from urban annihilation.",
+    "DescriptionArabic": "<div dir='rtl'>عندما يزرع <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;'>الإرهابيون</span> القنابل عبر المدينة، ينطلق النينجا <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;'>هاياتي</span> ورفيقه الذئب <span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;'>ياماتو</span> في مهمة خطرة عبر <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;'>معارك الأسطح</span> و<span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347;'>القطارات المندفعة</span>. وجّه <span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;'>كلبك المخلص</span> لشل الحراس بينما تُبطل المتفجرات في هذا الجزء الثوري حيث <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;'>الإعدامات الصامتة</span> تكسبك نقاطاً إضافية. يُشغّل <span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 8px #00CED1;'>نظام سيجا 18</span> مناظر <span style='color: #228B22; font-weight: bold; text-shadow: 0 0 8px #228B22;'>المدينة ثلاثية الأبعاد</span> المذهلة بينما يسابق ثنائي النينجا والكلب الزمن لإنقاذ الأبرياء من الفناء الحضري.</div>",
+    "ReleaseDate": "1989",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Shadow%20Dancer%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Shadow%20Dancer%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=n6qBd7CcJ1o",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Shadow%20Dancer%20Stage%20Theme%206.mp3",
+    "PlatformNames": [
+      "Arcade",
+      "Sega Genesis"
+    ],
+    "GenreNames": [
+      "Platformer"
+    ],
+    "DeveloperNames": [
+      "SEGA"
+    ],
+    "downloadInfo": {
+      "Cross-Platform": {
+        "versions": [
+          {
+            "identifier": "A0100",
+            "filename": "",
+            "platform": "Final Arcade",
+            "name": "Shadow Dancer",
+            "emulator": "RetroArch",
+            "fileSize": "500KB",
+            "arguments": [
+              "-L",
+              ".\\cores\\fbneo_libretro.dll"
+            ],
+            "romFiles": [
+              "shdancer.zip"
+            ],
+            "filenames": [
+              "shdancer.zip"
+            ]
+          },
+          {
+            "identifier": "S03S03",
+            "filename": "",
+            "platform": "Sega Genesis",
+            "name": "The Secret of Shinobi",
+            "emulator": "RetroArch",
+            "fileSize": "500KB",
+            "arguments": [
+              "-L",
+              ".\\cores\\genesis_plus_gx_libretro.dll"
+            ],
+            "filenames": [
+              "Shadow Dancer The Secret of Shinobi [3 HP Hack].md"
+            ],
+            "romFiles": [
+              "Shadow Dancer The Secret of Shinobi [3 HP Hack].md"
+            ],
+            "mods": "3 HP Hack"
+          }
+        ]
+      }
+    },
+    "Tags": []
   }
 ]
