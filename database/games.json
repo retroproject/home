@@ -130824,5 +130824,142 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1757583772735_0",
+    "Name": "Shinobi III Return Of The Ninja Master",
+    "SortingName": "Shinobi 03",
+    "Description": "The sinister <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;'>Neo Zeed</span> organization rises again, forcing legendary ninja <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;'>Joe Musashi</span> to unleash his deadliest arsenal across <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;'>lightning-fast battlefields</span>. Master the revolutionary <span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;'>wall-scaling</span> and <span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;'>invincible dash-slice</span> techniques while commanding devastating <span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347;'>fire dragons</span> and <span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 8px #00CED1;'>lightning shields</span> through ninjutsu mastery. From <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;'>horseback pursuits</span> to <span style='color: #228B22; font-weight: bold; text-shadow: 0 0 8px #228B22;'>surfboard showdowns</span>, this Genesis masterpiece perfects the ninja formula with unmatched speed, fluidity, and supernatural combat.",
+    "DescriptionArabic": "<div dir='rtl'>تنهض منظمة <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;'>نيو زيد</span> الشريرة من جديد، مجبرة النينجا الأسطوري <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;'>جو موساشي</span> على إطلاق ترسانته الأكثر فتكاً عبر <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;'>ساحات المعارك السريعة</span>. أتقن تقنيات <span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;'>تسلق الجدران</span> و<span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;'>الضربة المندفعة المنيعة</span> الثورية بينما تُسيطر على <span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347;'>تنانين النار</span> و<span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 8px #00CED1;'>دروع البرق</span> المدمرة عبر إتقان النينجوتسو. من <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;'>مطاردات الخيول</span> إلى <span style='color: #228B22; font-weight: bold; text-shadow: 0 0 8px #228B22;'>مواجهات الأمواج</span>، تُكمل تحفة الجينيسيس هذه معادلة النينجا بسرعة وسلاسة وقتال خارق لا يُضاهى.</div>",
+    "ReleaseDate": "1993",
+    "CriticScore": 95,
+    "Length": 5,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Shinobi%20III%20Return%20Of%20The%20Ninja%20Master%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Shinobi%20III%20Return%20Of%20The%20Ninja%20Master%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=B9H5_ZXYACk",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Shinobi%20III%20Return%20of%20The%20Ninja%20Master%20Mandara.mp3",
+    "PlatformNames": [
+      "Sega Genesis"
+    ],
+    "GenreNames": [
+      "Platformer"
+    ],
+    "DeveloperNames": [
+      "SEGA"
+    ],
+    "downloadInfo": {
+      "Sega Genesis": {
+        "versions": [
+          {
+            "identifier": "S03S03",
+            "name": "Enhanced",
+            "platform": "Sega Genesis",
+            "fileSize": "10 MB",
+            "arguments": [
+              "-L",
+              ".\\cores\\genesis_plus_gx_libretro.dll"
+            ],
+            "mods": "Enhancement Hack",
+            "emulator": "RetroArch",
+            "romFile": "Shinobi III Return of the Ninja Master [Enhanced].md",
+            "filename": "Shinobi III Return of the Ninja Master [Enhanced].md"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1757584729867_0",
+    "Name": "The Revenge of Shinobi",
+    "SortingName": "Shinobi 04",
+    "Description": "Three years after his clan's destruction, <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;'>Neo Zeed</span> strikes again, murdering Joe Musashi's master and kidnapping his beloved <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;'>Naoko</span>. Navigate <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;'>multi-layered battlefields</span> and <span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;'>z-axis plane switching</span> while unleashing the devastating <span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;'>Punishing Rain</span> somersault that fires eight shurikens simultaneously. Master <span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347;'>fire-enhanced kunai</span> and deadly <span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 8px #00CED1;'>ninjutsu techniques</span> across eight districts of vengeance in this Genesis showcase that established <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;'>16-bit ninja mastery</span> with <span style='color: #228B22; font-weight: bold; text-shadow: 0 0 8px #228B22;'>cinematic storytelling</span>.",
+    "DescriptionArabic": "<div dir='rtl'>بعد ثلاث سنوات من تدمير عشيرته، تضرب منظمة <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;'>نيو زيد</span> مجدداً، تقتل معلم جو موساشي وتختطف حبيبته <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;'>ناؤوكو</span>. تنقل عبر <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;'>ساحات معارك متعددة المستويات</span> و<span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;'>التبديل بين المستويات العمقية</span> بينما تُطلق <span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;'>المطر المعاقب</span> المدمر الذي يُطلق ثمان نجوم شوريكين معاً. أتقن <span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347;'>الكوناي المعزز بالنار</span> و<span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 8px #00CED1;'>تقنيات النينجوتسو</span> القاتلة عبر ثمان مناطق انتقام في عرض الجينيسيس هذا الذي أسس <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;'>إتقان النينجا ذو الـ16 بت</span> مع <span style='color: #228B22; font-weight: bold; text-shadow: 0 0 8px #228B22;'>السرد السينمائي</span>.</div>",
+    "ReleaseDate": "1989",
+    "CriticScore": 85,
+    "Length": 5,
+    "BackgroundUrl": "https://archive.org/download/retromedia/The%20Revenge%20of%20Shinobi%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/The%20Revenge%20of%20Shinobi%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=9bqSpOTddeQ",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/The%20Revenge%20of%20Shinobi%20Title%20Screen.mp3",
+    "PlatformNames": [
+      "Sega Genesis"
+    ],
+    "GenreNames": [
+      "Action"
+    ],
+    "DeveloperNames": [
+      "Sega"
+    ],
+    "downloadInfo": {
+      "Sega Genesis": {
+        "versions": [
+          {
+            "identifier": "S03S03",
+            "name": "Vanilla",
+            "platform": "Sega Genesis",
+            "fileSize": "520KB",
+            "arguments": [
+              "-L",
+              ".\\cores\\genesis_plus_gx_libretro.dll"
+            ],
+            "emulator": "RetroArch",
+            "romFile": "The Revenge of Shinobi.md",
+            "filename": "The Revenge of Shinobi.md"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1757586176911_0",
+    "Name": "Shadow Madness",
+    "SortingName": "",
+    "Description": "An ancient evil called the <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;'>Shadow Madness</span> spreads corruption across the realm, forcing young warrior <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;'>Stinger</span> into a desperate quest through <span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;'>gothic landscapes</span> and <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;'>haunted dungeons</span>. This dark fantasy RPG blends <span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;'>pre-rendered backgrounds</span> with strategic <span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347;'>turn-based combat</span> as you gather unlikely allies against the consuming darkness. Cryo Interactive's atmospheric masterpiece weaves <span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 8px #00CED1;'>mature storytelling</span> with <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;'>cinematic sequences</span> in this cult classic that explores the thin line between <span style='color: #DDA0DD; font-weight: bold; text-shadow: 0 0 8px #DDA0DD;'>sanity and shadow</span>.",
+    "DescriptionArabic": "<div dir='rtl'>ينتشر شر قديم يُدعى <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;'>جنون الظلال</span> عبر المملكة مفسداً كل شيء، مجبراً المحارب الشاب <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;'>ستينجر</span> على رحلة يائسة عبر <span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;'>المناظر القوطية</span> و<span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;'>الأبراج المسكونة</span>. تمزج لعبة تقمص الأدوار المظلمة هذه بين <span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;'>الخلفيات المُعدّة مسبقاً</span> و<span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347;'>القتال الاستراتيجي بالأدوار</span> بينما تجمع حلفاء غير متوقعين ضد الظلام الملتهم. تنسج تحفة كرايو التفاعلية الجوية <span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 8px #00CED1;'>الحكايات الناضجة</span> مع <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;'>المشاهد السينمائية</span> في هذا الكلاسيكي المعبود الذي يستكشف الخط الرفيع بين <span style='color: #DDA0DD; font-weight: bold; text-shadow: 0 0 8px #DDA0DD;'>العقل والظلال</span>.</div>",
+    "ReleaseDate": "1999",
+    "CriticScore": 65,
+    "Length": 45,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Shadow%20Madness%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Shadow%20Madness%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=Rn7JJWrEBM0",
+    "videoStart": 13,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Shadow%20Madness%20Mountain%20Pass.mp3",
+    "PlatformNames": [
+      "Sony PlayStation"
+    ],
+    "GenreNames": [
+      "RPG"
+    ],
+    "DeveloperNames": [
+      "Craveyard Studios"
+    ],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "retro-psx",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation",
+            "fileSize": "790MB",
+            "arguments": [],
+            "romFiles": [
+              "Shadow Madness (Disc 1).chd",
+              "Shadow Madness (Disc 2).chd"
+            ],
+            "romLabels": [
+              "Disc 1",
+              "Disc 2"
+            ],
+            "emulator": "DuckStation",
+            "filename": "Shadow Madness.zip"
+          }
+        ]
+      }
+    }
   }
 ]
