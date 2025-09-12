@@ -57338,7 +57338,8 @@
       "Omega Force"
     ],
     "Tags": [
-      "Hide"
+      "Hide",
+      "Has Issues"
     ],
     "downloadInfo": {
       "Cross-Platform": {
@@ -57368,7 +57369,8 @@
             "fileSize": "8GB",
             "filenames": [
               "Dynasty Warriors 6 Empires.zip"
-            ]
+            ],
+            "notes": "Need Upload"
           }
         ]
       }
@@ -86677,19 +86679,23 @@
     "DeveloperNames": [
       "Epic Games"
     ],
-    "Tags": [
-      "Has Issues"
-    ],
+    "Tags": [],
     "downloadInfo": {
       "PC Game": {
         "versions": [
           {
             "identifier": "CPC20",
-            "filename": "Gears of War Ultimate Edition.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "UWP_Helper.bat",
-            "fileSize": "53GB"
+            "fileSize": "53GB",
+            "notes": [
+              "Enable Developer Mode",
+              "Install the game",
+              "Disable Developer Mode",
+              "Launch the game through the start menu"
+            ],
+            "filename": "Gears of War Ultimate Edition.zip"
           }
         ]
       }
@@ -100089,19 +100095,23 @@
     "DeveloperNames": [
       "The Coalition"
     ],
-    "Tags": [
-      "Has Issues"
-    ],
+    "Tags": [],
     "downloadInfo": {
       "PC Game": {
         "versions": [
           {
             "identifier": "CPC20",
-            "filename": "Gears of War 4.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "UWP_Helper.bat",
-            "fileSize": "119GB"
+            "fileSize": "119GB",
+            "notes": [
+              "Enable Developer Mode",
+              "Install the game",
+              "Disable Developer Mode",
+              "Launch the game through the start menu"
+            ],
+            "filename": "Gears of War 4.zip"
           }
         ]
       }
@@ -131042,6 +131052,53 @@
             "emulator": "Citra",
             "romFile": "Shinobi 3DS.3ds",
             "filename": "Shinobi 3DS.3ds"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1757646086911_0",
+    "Name": "The Texas Chain Saw Massacre",
+    "SortingName": "",
+    "Description": "Deep in the sweltering heat of <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;'>Muerto County</span>, four desperate victims must escape the cannibalistic <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;'>Slaughter family</span> before becoming their next meal. Gun Interactive's groundbreaking <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;'>3v4 asymmetrical horror</span> reimagines multiplayer terror with <span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;'>Leatherface</span>, <span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;'>Hitchhiker</span>, and <span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347;'>Cook</span> hunting through bone-strewn farmhouses and <span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 8px #00CED1;'>suffocating basements</span>. This authentic adaptation of Tobe Hooper's nightmare brings <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;'>cinematic terror</span> to life through <span style='color: #228B22; font-weight: bold; text-shadow: 0 0 8px #228B22;'>visceral team-based</span> survival where every creak and chainsaw rev echoes with genuine dread.",
+    "DescriptionArabic": "<div dir='rtl'>في أعماق حرارة <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;'>مقاطعة مويرتو</span> الخانقة، يجب على أربعة ضحايا يائسين الهرب من <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;'>عائلة سلوتر</span> آكلة لحوم البشر قبل أن يصبحوا وجبتهم التالية. تُعيد تحفة جن التفاعلية في <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;'>الرعب اللامتماثل 3 ضد 4</span> تصور الإرهاب الجماعي بينما يطارد <span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;'>ليذرفيس</span> و<span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;'>الراكب</span> و<span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347;'>الطباخ</span> عبر بيوت المزارع المليئة بالعظام و<span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 8px #00CED1;'>الأقبية الخانقة</span>. يُحيي هذا التحويل الأصيل لكابوس توب هوبر <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;'>الرعب السينمائي</span> عبر البقاء <span style='color: #228B22; font-weight: bold; text-shadow: 0 0 8px #228B22;'>الجماعي الشرس</span> حيث كل صرير وهدير منشار يردد الرعب الحقيقي.</div>",
+    "ReleaseDate": "2023",
+    "CriticScore": 65,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/retromedia/The%20Texas%20Chain%20Saw%20Massacre%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/The%20Texas%20Chain%20Saw%20Massacre%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=30GupiwJ3mg",
+    "videoStart": 4,
+    "videoEnd": 95,
+    "MusicUrl": "https://archive.org/download/retromedia/The%20Texas%20Chain%20Saw%20Massacre%20Time%20to%20Play.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "Gun Interactive"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP002",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "68 GB",
+            "executable": "GDK_Helper.bat",
+            "buildID": "1.0.47.0",
+            "arguments": [],
+            "notes": [
+              "Enable Developer Mode",
+              "Install the game",
+              "Disable Developer Mode",
+              "Launch the game through the start menu"
+            ],
+            "filename": "00055.zip"
           }
         ]
       }
