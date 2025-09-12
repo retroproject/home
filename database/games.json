@@ -131103,5 +131103,45 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1757682134684_0",
+    "Name": "Fragile Reflection",
+    "SortingName": "",
+    "Description": "In <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;'>1990s Nankofuraku</span>, <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;'>Kario Ito</span> returns home to uncover family mysteries through a supernatural <span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;'>Reflection dimension</span> where past traces persist eternally. Shift between parallel worlds to solve puzzles while confronting grotesque creatures wearing <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;'>Noh theater masks</span> in this retro-styled survival horror. Navigate the blurred line between <span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;'>reality and reflection</span> where even your own mirror image conceals terrible truths. This atmospheric journey through <span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347;'>Japanese mythology</span> weaves <span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 8px #00CED1;'>psychological terror</span> with <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;'>dimension-shifting gameplay</span>, accompanied by haunting <span style='color: #228B22; font-weight: bold; text-shadow: 0 0 8px #228B22;'>trip-hop ambience</span> that echoes through both worlds.",
+    "DescriptionArabic": "<div dir='rtl'>في <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;'>نانكوفوراكو التسعينات</span>، تعود <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;'>كاريو إيتو</span> إلى موطنها لكشف أسرار عائلية عبر <span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;'>بُعد الانعكاس</span> الخارق حيث تبقى آثار الماضي إلى الأبد. انتقل بين العوالم المتوازية لحل الألغاز بينما تواجه مخلوقات بشعة ترتدي <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;'>أقنعة مسرح النو</span> في رعب البقاء الكلاسيكي هذا. تنقل عبر الخط الضبابي بين <span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;'>الواقع والانعكاس</span> حيث حتى صورتك في المرآة تخفي حقائق رهيبة. هذه الرحلة الجوية عبر <span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347;'>الأساطير اليابانية</span> تنسج <span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 8px #00CED1;'>الرعب النفسي</span> مع <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;'>لعب تبديل الأبعاد</span>، مصحوبة بـ<span style='color: #228B22; font-weight: bold; text-shadow: 0 0 8px #228B22;'>أجواء تريب هوب</span> مؤرقة تتردد عبر العالمين.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 70,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Fragile%20Reflection%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Fragile%20Reflection%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=eN78_Nog8as",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Fragile%20Reflection%20Exmortis.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "Spectra Team"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP002",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "executable": "FragileReflection.exe",
+            "buildID": "11 September 2025",
+            "arguments": [],
+            "filename": "00056.zip"
+          }
+        ]
+      }
+    }
   }
 ]
