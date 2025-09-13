@@ -14275,28 +14275,41 @@
     "SortingName": "",
     "Description": "When the <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>ground itself becomes deadly</span>, acrobatic warrior <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Zero</span> must stay permanently airborne using his revolutionary <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Chain Drive</span> system to survive the cursed earth below.<br>By freezing enemies in <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>time</span> and grappling onto them like living platforms, Zero swings through the air in gravity-defying combat ballet, chaining together impossible aerial maneuvers.<br>Each enemy becomes a stepping stone in an endless aerial dance of <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>survival</span>, where touching the cursed floor means instant death and only perfect timing and precision can keep him alive.<br>With momentum and <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>physics</span> as his only allies, Zero must chain together impossible aerial combos while unraveling the mystery of why the very <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>earth</span> has turned against him in this <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>vertical action</span> nightmare.",
     "DescriptionArabic": "<div dir='rtl'>عندما تصبح <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الأرض ذاتها قاتلة</span>، يجب على المحارب البهلواني <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>زيرو</span> أن يبقى في الجو بشكل دائم باستخدام نظام <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>محرك السلسلة</span> الثوري للنجاة من الأرض الملعونة أسفله.<br>من خلال تجميد الأعداء في <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>الزمن</span> والتشبث بهم كمنصات حية، يتأرجح زيرو عبر الهواء في باليه قتالية تتحدى الجاذبية، مربطاً بين مناورات جوية مستحيلة.<br>كل عدو يصبح نقطة انطلاق في رقصة جوية لا نهاية لها من <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>البقاء</span>، حيث لمس الأرض الملعونة يعني الموت الفوري وفقط التوقيت المثالي والدقة يمكن أن تبقيه على قيد الحياة.<br>مع الزخم و<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>الفيزياء</span> كحلفاء وحيدين له، يجب على زيرو أن يربط بين ضربات جوية مستحيلة بينما يكشف غموض سبب تحول <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>الأرض</span> ذاتها ضده في هذا الكابوس من <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>الحركة العمودية</span>.</div>",
-    "ReleaseDate": "2003-10-16",
-    "CriticScore": 80,
+    "ReleaseDate": "2003",
+    "CriticScore": 75,
     "BackgroundImage": "",
     "CoverImage": "151401d9-d720-4bb4-b521-9de70af24683.png",
-    "BackgroundUrl": null,
+    "BackgroundUrl": "https://archive.org/download/retromedia/ChainDive%20Background.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/151401d9-d720-4bb4-b521-9de70af24683.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://www.youtube.com/watch?v=BMLbTA6lEdk",
+    "videoStart": 10,
+    "videoEnd": 45,
     "MusicUrl": "https://archive.org/download/retromusic/1cba7c1b-a257-4f4c-a737-67e510967cc8.mp3",
     "PlatformNames": [
       "Sony PlayStation 2"
     ],
     "GenreNames": [
-      "Hack and slash/Beat 'em up"
+      "Hack and Slash"
     ],
     "DeveloperNames": [
       "Alvion"
     ],
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Japanese",
+            "platform": "Sony PlayStation 2",
+            "emulator": "PCSX2",
+            "fileSize": "2GB",
+            "romFile": "Chain Dive.iso",
+            "filename": "Chain Dive.iso"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "1cc91c3f-a8ff-4af3-82f9-73ff160c3802",
@@ -62829,6 +62842,9 @@
     "GenreNames": [],
     "DeveloperNames": [
       "Dark1Vergil"
+    ],
+    "Tags": [
+      "Hide"
     ]
   },
   {
