@@ -131143,5 +131143,45 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1757688968752_0",
+    "Name": "Call of Duty Black Ops 6",
+    "SortingName": "Call of Duty 06.05",
+    "Description": "Set during <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;'>Operation Desert Storm</span> in the 1990s, rogue CIA operatives <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;'>Troy Marshall</span> and veteran <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;'>Frank Woods</span> hunt the shadowy <span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;'>Pantheon</span> organization that has infiltrated the highest levels of government. Master the revolutionary <span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;'>Omnimovement system</span> for fluid 360-degree combat across <span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347;'>casino heists</span> and <span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 8px #00CED1;'>high-stakes espionage</span> missions that blend stealth with explosive action. From your <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;'>cliffside safehouse</span> command center, coordinate the largest campaign levels in franchise history where trust is scarce and betrayal lurks in every <span style='color: #228B22; font-weight: bold; text-shadow: 0 0 8px #228B22;'>shadow of the Cold War's end</span>.",
+    "DescriptionArabic": "<div dir='rtl'>في إطار <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;'>عملية عاصفة الصحراء</span> في التسعينات، يطارد عملاء وكالة المخابرات المتمردان <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;'>تروي مارشال</span> والمحارب القديم <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;'>فرانك وودز</span> منظمة <span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;'>البانثيون</span> الغامضة التي تسللت إلى أعلى مستويات الحكومة. أتقن <span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;'>نظام الحركة الشاملة</span> الثوري للقتال السلس بزاوية 360 درجة عبر <span style='color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347;'>سرقات الكازينو</span> ومهام <span style='color: #00CED1; font-weight: bold; text-shadow: 0 0 8px #00CED1;'>التجسس عالي المخاطر</span> التي تمزج الخفاء مع الحركة المتفجرة. من مركز القيادة في <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;'>الملجأ الآمن على الجرف</span>، نسّق أكبر مستويات الحملة في تاريخ السلسلة حيث الثقة نادرة والخيانة تكمن في كل <span style='color: #228B22; font-weight: bold; text-shadow: 0 0 8px #228B22;'>ظل من نهاية الحرب الباردة</span>.</div>",
+    "ReleaseDate": "2024",
+    "CriticScore": 70,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Call%20of%20Duty%20Black%20Ops%206%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/retromedia/Call%20of%20Duty%20Black%20Ops%206%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=on1E0EHLyik",
+    "videoStart": null,
+    "videoEnd": 123,
+    "MusicUrl": "https://archive.org/download/retromedia/Call%20of%20Duty%20Black%20Ops%206%20Multiplayer%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Shooter"
+    ],
+    "DeveloperNames": [
+      "Treyarch"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP002",
+            "name": "Story Mode",
+            "platform": "PC Game",
+            "fileSize": "62 GB",
+            "executable": "!start_sp24.bat",
+            "arguments": [],
+            "filename": "00057.zip"
+          }
+        ]
+      }
+    }
   }
 ]
