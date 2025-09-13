@@ -131505,14 +131505,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "",
+            "identifier": "RPRP002",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "11 GB",
-            "filename": "Dirt.zip",
             "executable": "DiRT.exe",
-            "buildID": "!version",
-            "arguments": []
+            "arguments": [],
+            "filename": "00062.zip"
           }
         ]
       }
