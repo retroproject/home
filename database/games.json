@@ -15437,27 +15437,24 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPCAR03",
-            "name": "Arabic Enhanced",
+            "identifier": "RPRP002",
+            "name": "Arabic Vanilla",
             "platform": "PC Game",
             "fileSize": "23GB",
             "arguments": [],
-            "mods": [
-              "SpecialK",
-              "PlayStation Button Replacer",
-              "4K 60 FPS Remastered FMVs"
-            ],
             "executable": "NieR Replicant ver.1.22474487139.exe",
-            "filename": "NieR Replicant ver1 22474487139.zip"
+            "buildID": "20 October 2021 & 28 April 2025",
+            "filename": "00058.zip"
           },
           {
-            "identifier": "CPC06",
+            "identifier": "RPRP002",
             "name": "English Vanilla",
             "platform": "PC Game",
             "fileSize": "23GB",
             "arguments": [],
             "executable": "NieR Replicant ver.1.22474487139.exe",
-            "filename": "NieR Replicant ver1 22474487139.zip"
+            "buildID": "20 October 2021",
+            "filename": "00059.zip"
           },
           {
             "identifier": "CPC41",
@@ -131193,6 +131190,53 @@
             "executable": "!start_sp24.bat",
             "arguments": [],
             "filename": "00057.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1757750058284_0",
+    "Name": "No Sleep For Kaname Date From Ai The Somnium Files",
+    "SortingName": "AI: The Somnium Files 03",
+    "Description": "When <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>internet idol Iris</span> vanishes into a <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>mysterious UFO</span>, only <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Kaname Date</span> can navigate the surreal <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>alien labyrinth</span> of her fractured mind. Through his <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>prosthetic eye's</span> investigative functions and <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Somnium diving</span>, he unravels layers of <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>conspiracy</span> hidden within dream logic and <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>psychological mazes</span>. This noir detective thriller blends sci-fi mystery with <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>interactive fiction</span>, where every choice shapes reality.",
+    "DescriptionArabic": "<div dir='rtl'>عندما تختفي <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>النجمة الرقمية إيريس</span> داخل <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>صحن طائر غامض</span>، يبقى <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>كانامي ديت</span> وحده القادر على اجتياز <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>متاهة الفضائيين</span> السريالية في عقلها المتشظي. عبر وظائف <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>عينه الاصطناعية</span> التحقيقية و<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>الغوص في أحلام سومنيوم</span>، يكشف طبقات <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>المؤامرة</span> المخفية ضمن منطق الأحلام و<span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>المتاهات النفسية</span>. تمزج هذه الإثارة التحقيقية بين غموض الخيال العلمي و<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>الخيال التفاعلي</span>، حيث كل اختيار يشكل الواقع.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 85,
+    "BackgroundUrl": "https://archive.org/download/retromedia/No%20Sleep%20For%20Kaname%20Date%20From%20Ai%20The%20Somnium%20Files%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/No%20Sleep%20For%20Kaname%20Date%20From%20Ai%20The%20Somnium%20Files%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=z9BQkyBbyo4",
+    "videoStart": 4.8,
+    "videoEnd": 74,
+    "MusicUrl": "https://archive.org/download/retromedia/No%20Sleep%20For%20Kaname%20Date%20From%20AI%20THE%20SOMNIUM%20FILES%20No%20Sleep%20For%20Kaname%20Date.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Visual Novel"
+    ],
+    "DeveloperNames": [
+      "Spike Chunsoft"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP002",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "11 GB",
+            "buildID": "8 September 2025",
+            "arguments": [],
+            "executableFiles": [
+              "NoSleepForKanameDate.exe",
+              "Launcher.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "00060.zip"
           }
         ]
       }
