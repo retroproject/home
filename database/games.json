@@ -55733,7 +55733,7 @@
             "name": "Female Mode",
             "platform": "Nintendo Wii U",
             "emulator": "Cemu",
-            "fileSize": "430MB",
+            "fileSize": "13GB",
             "romFile": "code\\U-King.rpx",
             "notes": "Only Works With English Version",
             "filename": "The Legend of Zelda Breath of the Wild Linkle Update.zip"
@@ -131248,6 +131248,89 @@
               "Configure"
             ],
             "filename": "00060.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1757777270389_0",
+    "Name": "Colin Mcrae Rally 2.0",
+    "SortingName": "Colin Mcrae 02",
+    "Description": "Tear through <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>Finnish forests</span> and <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>Kenyan savannas</span> as <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>Nicky Grist</span> barks pace notes through your <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Focus RS</span> windshield cracking under gravel bombardment. Master <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>90 stages</span> across eight countries where every <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>handbrake turn</span> and <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Scandinavian flick</span> counts in the <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>2000 WRC season</span>. From vintage <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Lancia Stratos</span> to modern rally machines, this technical masterpiece delivers unmatched rally authenticity.",
+    "DescriptionArabic": "<div dir='rtl'>انطلق عبر <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>غابات فنلندا</span> و<span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>سهول كينيا</span> بينما يصرخ <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>نيكي جريست</span> بتعليمات السرعة عبر زجاج <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>فوكس آر إس</span> المتصدع من قصف الحصى. أتقن <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>90 مرحلة</span> عبر ثماني دول حيث كل <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>منعطف فرامل يد</span> و<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>انزلاق إسكندنافي</span> محسوب في <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>موسم 2000 للرالي العالمي</span>. من <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>لانشيا ستراتوس</span> الكلاسيكية إلى آلات الرالي الحديثة، تقدم هذه التحفة التقنية واقعية رالي لا تضاهى.</div>",
+    "ReleaseDate": "2000",
+    "CriticScore": 85,
+    "Length": 12,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Colin%20Mcrae%20Rally%202.0%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Colin%20McRae%20Rally%202.0%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=WgIQWmEIZd0",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Colin%20McRae%20Rally%202.0%20Theme.mp3",
+    "PlatformNames": [
+      "Sony Playstation 1"
+    ],
+    "GenreNames": [
+      "Racing"
+    ],
+    "DeveloperNames": [
+      "Codemasters"
+    ],
+    "downloadInfo": {
+      "Sony Playstation 1": {
+        "versions": [
+          {
+            "identifier": "retro-psx",
+            "name": "Vanilla",
+            "platform": "Sony Playstation 1",
+            "fileSize": "260 MB",
+            "arguments": [],
+            "emulator": "DuckStation",
+            "romFile": "Colin McRae Rally 2.0.chd",
+            "mods": "2.1",
+            "filename": "Colin McRae Rally 2.0.chd"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1757777270389_1",
+    "Name": "Colin Mcrae Rally",
+    "SortingName": "Colin Mcrae 01",
+    "Description": "Pioneering <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>rally realism</span> arrives as <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>Colin McRae</span> guides you through <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>52 stages</span> spanning from <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>Monte Carlo's</span> icy hairpins to <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>Australian outback</span> dust clouds. Feel the <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Subaru Impreza WRC</span> grip shift through <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Swedish snow</span> as you battle the <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>1998 WRC season</span>. This groundbreaking simulation introduced millions to authentic <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>point-to-point racing</span>, forever changing motorsport gaming.",
+    "DescriptionArabic": "<div dir='rtl'>تصل <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>واقعية الرالي</span> الرائدة مع إرشاد <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>كولن ماكراي</span> لك عبر <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>52 مرحلة</span> تمتد من منعطفات <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>مونتي كارلو</span> الجليدية إلى سحب غبار <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>البرية الأسترالية</span>. اشعر بتحول قبضة <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>سوبارو إمبريزا دبليو آر سي</span> عبر <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>ثلوج السويد</span> وأنت تخوض <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>موسم 1998 العالمي</span>. قدمت هذه المحاكاة الثورية الملايين إلى <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>سباقات نقطة لنقطة</span> الأصيلة، مغيرة ألعاب رياضة السيارات إلى الأبد.</div>",
+    "ReleaseDate": "1998",
+    "CriticScore": 85,
+    "Length": 12,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Colin%20Mcrae%20Rally%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/retromedia/Colin%20McRae%20Rally%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=LQ63eKI9FAY",
+    "videoStart": 6,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Colin%20McRae%20Rally%20Theme.mp3",
+    "PlatformNames": [
+      "Sony Playstation 1"
+    ],
+    "GenreNames": [
+      "Racing"
+    ],
+    "DeveloperNames": [
+      "Codemasters"
+    ],
+    "downloadInfo": {
+      "Sony Playstation 1": {
+        "versions": [
+          {
+            "identifier": "retro-psx",
+            "name": "Vanilla",
+            "platform": "Sony Playstation 1",
+            "fileSize": "180 MB",
+            "arguments": [],
+            "emulator": "DuckStation",
+            "romFile": "Colin McRae Rally.chd",
+            "filename": "Colin McRae Rally.chd"
           }
         ]
       }
