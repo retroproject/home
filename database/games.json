@@ -55711,21 +55711,22 @@
       "Nintendo Wii U": {
         "versions": [
           {
-            "identifier": "retro-cafe",
-            "filename": "The Legend of Zelda Breath of the Wild.zip",
+            "identifier": "E06AR00",
             "name": "Arabic",
             "platform": "Nintendo Wii U",
             "emulator": "Cemu",
-            "fileSize": "15GB",
-            "romFile": "code\\U-King.rpx"
+            "fileSize": "13GB",
+            "romFile": "code\\U-King.rpx",
+            "filename": "The Legend of Zelda Breath of the Wild.zip"
           },
           {
-            "identifier": "E06AR00",
-            "filename": "The Legend of Zelda Breath of the Wild.zip",
+            "identifier": "retro-cafe",
             "name": "English",
             "platform": "Nintendo Wii U",
             "emulator": "Cemu",
-            "fileSize": "15GB"
+            "fileSize": "13GB",
+            "romFile": "code\\U-King.rpx",
+            "filename": "The Legend of Zelda Breath of the Wild.zip"
           }
         ]
       }
