@@ -131175,7 +131175,7 @@
             "identifier": "RPRP002",
             "name": "Story Mode",
             "platform": "PC Game",
-            "fileSize": "62 GB",
+            "fileSize": "60GB",
             "executable": "!start_sp24.bat",
             "arguments": [],
             "filename": "00057.zip"
