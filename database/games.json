@@ -131269,7 +131269,8 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromedia/Colin%20McRae%20Rally%202.0%20Theme.mp3",
     "PlatformNames": [
-      "Sony Playstation 1"
+      "Sony Playstation 1",
+      "PC Game"
     ],
     "GenreNames": [
       "Racing"
@@ -131278,18 +131279,35 @@
       "Codemasters"
     ],
     "downloadInfo": {
-      "Sony Playstation 1": {
+      "Cross-Platform": {
         "versions": [
           {
             "identifier": "retro-psx",
+            "filename": "",
+            "platform": "Sony PlayStation 1",
             "name": "Vanilla",
-            "platform": "Sony Playstation 1",
-            "fileSize": "260 MB",
-            "arguments": [],
             "emulator": "DuckStation",
-            "romFile": "Colin McRae Rally 2.0.chd",
-            "mods": "2.1",
-            "filename": "Colin McRae Rally 2.0.chd"
+            "fileSize": "260MB",
+            "romFiles": [
+              "Colin McRae Rally 2.0.chd"
+            ],
+            "filenames": [
+              "Colin McRae Rally 2.0.chd"
+            ],
+            "mods": "2.1"
+          },
+          {
+            "identifier": "RPRP002",
+            "filename": "",
+            "platform": "PC Game",
+            "name": "Remastered",
+            "fileSize": "850MB",
+            "executableFiles": [
+              "CMR.exe"
+            ],
+            "filenames": [
+              "00061.zip"
+            ]
           }
         ]
       }
@@ -131454,6 +131472,47 @@
             "emulator": "PCSX2",
             "romFile": "Colin McRae Rally 4.iso",
             "filename": "Colin McRae Rally 4.iso"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1757785451283_0",
+    "Name": "Colin McRae DiRT",
+    "SortingName": "Colin Mcrae 06",
+    "Description": "Evolution roars through <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>46 different machines</span> across five off-road disciplines as <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>Travis Pastrana</span> and <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Colin McRae</span> push the boundaries beyond traditional rally. Navigate the <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>11-tier Career pyramid</span> from <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>rallycross circuits</span> to <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>CORR desert raids</span> and treacherous <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>hill climbs</span>. The revolutionary <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Neon engine</span> renders every mud splash and <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>dust cloud</span> with stunning realism. This isn't just rally anymore—it's the birth of a <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>dirt-racing empire</span>.",
+    "DescriptionArabic": "<div dir='rtl'>تزأر التطورات عبر <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>46 آلة مختلفة</span> في خمسة تخصصات للطرق الوعرة بينما <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>ترافيس باسترانا</span> و<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>كولن ماكراي</span> يدفعان الحدود ما وراء الرالي التقليدي. تنقل عبر <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>هرم المسيرة المهنية المكون من 11 طبقة</span> من <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>حلبات الراليكروس</span> إلى <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>غارات صحراء كور</span> و<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>تسلق التلال</span> الغادر. يرسم <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>محرك نيون</span> الثوري كل رشة طين و<span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>سحابة غبار</span> بواقعية مذهلة. لم يعد هذا مجرد رالي—بل ولادة <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>إمبراطورية سباق الأوساخ</span>.</div>",
+    "ReleaseDate": "2007",
+    "CriticScore": 75,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Colin%20McRae%20DiRT%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Colin%20McRae%20DiRT%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=TgO8uWXPHzE",
+    "videoStart": 6,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Colin%20McRae%20DiRT%20Menu%20Music.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Racing"
+    ],
+    "DeveloperNames": [
+      "Codemasters"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "11 GB",
+            "filename": "Dirt.zip",
+            "executable": "DiRT.exe",
+            "buildID": "!version",
+            "arguments": []
           }
         ]
       }
