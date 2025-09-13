@@ -131335,5 +131335,128 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1757782250302_0",
+    "Name": "Colin Mcrae Rally 2005",
+    "SortingName": "Colin Mcrae 05",
+    "Description": "Build your legend from <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>rookie driver</span> to <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>world champion</span> across <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>70 stages</span> in nine countries, where your <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Dakar Nissan</span> pickup leaves scraped paint and scattered debris in its wake. Experience revolutionary <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>damage modeling</span> that rips doors off hinges and sends <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>exhaust pipes</span> tumbling into dust clouds. Master <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>German autobahns</span> and <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>Japanese mountain passes</span> as raindrops streak your <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>windshield</span> and wipers battle the elements in this <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>career-defining</span> simulation.",
+    "DescriptionArabic": "<div dir='rtl'>ابن أسطورتك من <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>سائق مبتدئ</span> إلى <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>بطل العالم</span> عبر <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>70 مرحلة</span> في تسع دول، حيث <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>نيسان داكار</span> بيك آب تترك طلاءً مخدوشاً وحطاماً متناثراً في أعقابها. اختبر <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>نمذجة الأضرار</span> الثورية التي تمزق الأبواب من مفاصلها وترسل <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>أنابيب العادم</span> تتدحرج في سحب الغبار. أتقن <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>الطرق السريعة الألمانية</span> و<span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>ممرات الجبال اليابانية</span> بينما قطرات المطر تخط <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>الزجاج الأمامي</span> والماسحات تحارب العناصر في هذه <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>المحاكاة المحورية</span> للمسيرة المهنية.</div>",
+    "ReleaseDate": "2004",
+    "CriticScore": 80,
+    "Length": 12,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Colin%20McRae%20Rally%202005%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Colin%20McRae%20Rally%202005%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=A9ypRhf1xnA",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Colin%20McRae%20Rally%202005%20Intro.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 2"
+    ],
+    "GenreNames": [
+      "Racing"
+    ],
+    "DeveloperNames": [
+      "Codemasters"
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "4 GB",
+            "arguments": [],
+            "emulator": "PCSX2",
+            "romFile": "Colin McRae Rally 2005.iso",
+            "filename": "Colin McRae Rally 2005.iso"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1757782250302_1",
+    "Name": "Colin Mcrae Rally 3",
+    "SortingName": "Colin Mcrae 03",
+    "Description": "Command the legendary <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Ford Focus RS WRC</span> through three championship seasons as <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>Nicky Grist</span> calls pace notes across <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>56 stages</span> spanning eight nations. Feel the Focus strain against <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Swedish snowdrifts</span> and <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>Greek mountain passes</span> while fine-tuning suspension, gearbox, and brake settings between stages. Master the <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Super Special Stages</span> against rival <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Subaru Imprezas</span> and <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>Mitsubishi Evos</span> in the ultimate quest for the <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Sparco Rally Championship</span>.",
+    "DescriptionArabic": "<div dir='rtl'>قد <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>فورد فوكس آر إس دبليو آر سي</span> الأسطورية عبر ثلاثة مواسم بطولة بينما <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>نيكي جريست</span> ينادي تعليمات السرعة عبر <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>56 مرحلة</span> تمتد على ثماني دول. اشعر بـالفوكس وهي تقاوم <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>كتل الثلج السويدية</span> و<span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>ممرات الجبال اليونانية</span> بينما تضبط التعليق وعلبة التروس والفرامل بين المراحل. أتقن <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>المراحل السوبر الخاصة</span> ضد <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>سوبارو إمبريزا</span> المنافسة و<span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>ميتسوبيشي إيفو</span> في البحث الأقصى عن <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>بطولة سباركو للرالي</span>.</div>",
+    "ReleaseDate": "2002",
+    "CriticScore": 85,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Colin%20McRae%20Rally%203%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Colin%20McRae%20Rally%203%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=zh8PEp7dNyI",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Colin%20McRae%20Rally%203%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 2"
+    ],
+    "GenreNames": [
+      "Racing"
+    ],
+    "DeveloperNames": [
+      "Codemasters"
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "4 GB",
+            "arguments": [],
+            "emulator": "PCSX2",
+            "romFile": "Colin McRae Rally 3.iso",
+            "filename": "Colin McRae Rally 3.iso"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1757782250303_2",
+    "Name": "Colin Mcrae Rally 04",
+    "SortingName": "Colin Mcrae 04",
+    "Description": "Unleash devastation across <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>52 stages</span> in eight countries as <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>glass shatters</span>, <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>bumpers crumble</span>, and <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>doors fly off</span> in the most destructible rally experience ever created. Command over <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>20 high-performance machines</span> from <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Group B monsters</span> to modern <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>Citroën Xsaras</span> and <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Subaru Imprezas</span>. Smoke pours from overheated engines while gearboxes skip and protest, demanding strategic pit stops between stages. This is rally perfection where every crash carries consequence and every <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>championship victory</span> feels earned through <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>blood and twisted metal</span>.",
+    "DescriptionArabic": "<div dir='rtl'>أطلق الدمار عبر <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>52 مرحلة</span> في ثماني دول بينما <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>ينكسر الزجاج</span> و<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>تتفتت الصدامات</span> و<span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>تتطاير الأبواب</span> في أكثر تجارب الرالي تدميراً على الإطلاق. قد أكثر من <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>20 آلة عالية الأداء</span> من <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>وحوش المجموعة ب</span> إلى <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>سيتروين كسارا</span> العصرية و<span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>سوبارو إمبريزا</span>. يتصاعد الدخان من المحركات المُحمّاة بينما علب التروس تتخطى التروس وتحتج، مطالبة بتوقفات استراتيجية بين المراحل. هذا كمال الرالي حيث كل حادث له عواقب وكل <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>انتصار بطولة</span> يُكتسب عبر <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>الدم والمعدن الملتوي</span>.</div>",
+    "ReleaseDate": "2004",
+    "CriticScore": 85,
+    "Length": 12,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Colin%20McRae%20Rally%2004%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Colin%20McRae%20Rally%2004%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=ldqSgCohRMQ",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Colin%20McRae%20Rally%2004%20Intro.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 2"
+    ],
+    "GenreNames": [
+      "Racing"
+    ],
+    "DeveloperNames": [
+      "Codemasters"
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "2 GB",
+            "arguments": [],
+            "emulator": "PCSX2",
+            "romFile": "Colin McRae Rally 4.iso",
+            "filename": "Colin McRae Rally 4.iso"
+          }
+        ]
+      }
+    }
   }
 ]
