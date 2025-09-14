@@ -63606,7 +63606,7 @@
             "fileSize": "1MB",
             "arguments": [
               "-L",
-              ".\\cores\\gambatte_libretro.dll"
+              ".\\cores\\mgba_libretro.dll"
             ],
             "filename": "Pokemon Red.gb"
           },
@@ -102151,7 +102151,6 @@
         "versions": [
           {
             "identifier": "retrod1",
-            "filename": "Kirby's Dream Land 2 (DX).gb",
             "name": "DX",
             "platform": "Nintendo Game Boy",
             "emulator": "RetroArch",
@@ -102159,8 +102158,9 @@
             "fileSize": "1MB",
             "arguments": [
               "-L",
-              ".\\cores\\gambatte_libretro.dll"
-            ]
+              ".\\cores\\mgba_libretro.dll"
+            ],
+            "filename": "Kirby's Dream Land 2 (DX).gb"
           }
         ]
       }
@@ -110893,7 +110893,7 @@
             "fileSize": "10MB",
             "arguments": [
               "-L",
-              ".\\cores\\gambatte_libretro.dll"
+              ".\\cores\\mgba_libretro.dll"
             ],
             "filename": "Pokemon Blue.gb"
           },
