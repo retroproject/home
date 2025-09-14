@@ -41910,8 +41910,8 @@
     "GameId": "7224b3fc-6c20-47a7-a692-4ce37aae8d21",
     "Name": "Xenogears",
     "SortingName": "Xeno 01",
-    "Description": "When the amnesiac painter <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Fei Fong Wong</span> awakens the ancient Gear <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Weltall</span>, he unwittingly begins a cycle of destruction that has repeated for <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>ten thousand years</span>. Pursued by the mysterious <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>Elly</span>, whose own fractured memories bind her to his fate across endless reincarnations, Fei discovers that humanity itself exists only as spare parts for the cosmic destroyer <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>Deus</span>. As his suppressed alter ego <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Id</span> threatens to consume his sanity, Fei learns he is the <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>Contact</span>—destined to either liberate or annihilate every soul imprisoned within this endless spiral of suffering. In this philosophical epic where giant mechs clash beneath the weight of cosmic horror, Fei must choose between embracing the <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>god</span> that created him or destroying the very <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>existence</span> that binds all life to perpetual rebirth.",
-    "DescriptionArabic": "عندما يوقظ الرسام فاقد الذاكرة <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>فاي فونغ وونغ</span> الآلة القديمة <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>ويلتال</span>، يبدأ دون قصد دورة دمار تكررت لـ<span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>عشرة آلاف عام</span>.<br>تطارده <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>إيلي</span> الغامضة، التي تربط ذكرياتها المكسورة مصيرها بمصيره عبر تناسخات لا نهاية لها، ليكتشف فاي أن البشرية نفسها لا توجد إلا كقطع غيار للمدمر الكوني <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>ديوس</span>.<br>بينما يهدد شخصيته المكبوتة <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>إيد</span> بالتهام عقله، يعلم فاي أنه <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>الاتصال</span>—المقدر له إما تحرير أو إبادة كل روح محبوسة داخل هذا اللولب اللانهائي من المعاناة.<br>في هذه الملحمة الفلسفية حيث تتصادم الآلات العملاقة تحت وطأة الرعب الكوني، يجب على فاي أن يختار بين احتضان <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>الإله</span> الذي خلقه أو تدمير <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>الوجود</span> ذاته الذي يقيد كل حياة بالولادة الأبدية.",
+    "Description": "",
+    "DescriptionArabic": "",
     "ReleaseDate": "1998-2-11",
     "CriticScore": 100,
     "BackgroundImage": "bc873df3-c3e2-4988-9f14-f9e9ccad5794.jpeg",
@@ -41963,6 +41963,39 @@
             "platform": "Sony PlayStation 1",
             "emulator": "RetroArch",
             "identifier": "retro-psx",
+            "filename": "Xenogears RetroArch HD Textures.zip"
+          }
+        ]
+      },
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "retro-psx",
+            "name": "Enhanced",
+            "platform": "Sony PlayStation 1",
+            "emulator": "RetroArch",
+            "romFiles": [
+              "Xenogears (Disc 1).chd",
+              "Xenogears (Disc 2).chd"
+            ],
+            "romLabels": [
+              "Disc 1",
+              "Disc 2"
+            ],
+            "fileSize": "1GB",
+            "arguments": [
+              "-L",
+              ".\\cores\\mednafen_psx_hw_libretro.dll"
+            ],
+            "filename": "Xenogears.zip"
+          },
+          {
+            "identifier": "retro-psx",
+            "name": "HD Textures",
+            "platform": "Sony PlayStation 1",
+            "emulator": "RetroArch",
+            "fileSize": "15GB",
+            "arguments": [],
             "filename": "Xenogears RetroArch HD Textures.zip"
           }
         ]
