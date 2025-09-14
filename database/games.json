@@ -61194,12 +61194,23 @@
         "versions": [
           {
             "identifier": "retro-dolphin",
-            "filename": "Bloody Roar Extreme.rvz",
             "name": "Vanilla",
             "platform": "Nintendo GameCube",
             "emulator": "Dolphin",
             "fileSize": "600MB",
-            "romFile": "Bloody Roar Extreme.rvz"
+            "romFile": "Bloody Roar Extreme.rvz",
+            "filename": "Bloody Roar Extreme.rvz"
+          },
+          {
+            "identifier": "retro-dolphin",
+            "name": "English Overhaul Patch",
+            "platform": "Nintendo GameCube",
+            "emulator": "Dolphin",
+            "fileSize": "600MB",
+            "romFile": "Bloody Roar Extreme [English Overhaul Patch].iso",
+            "mods": "Fully translates all Japanese text into English, including cutscene text, but keeps all voices from the Japanese release, including the announcer",
+            "buildID": "1.2",
+            "filename": "Bloody Roar Extreme [English Overhaul Patch].iso"
           }
         ]
       }
@@ -131844,6 +131855,47 @@
             "buildID": "8 September 2025",
             "arguments": [],
             "filename": "00069.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1757854428550_0",
+    "Name": "Shinobi Art of Vengeance",
+    "SortingName": "Shinobi 08",
+    "Description": "Rise from the ashes of your <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>burned village</span> as legendary ninja <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>Joe Musashi</span> discovers his clan frozen in stone by dark sorcery. Wield the ancestral <span style='color:#C0C0C0; font-weight:bold; text-shadow: 0 0 8px #C0C0C0;'>katana Oborozuki</span> alongside deadly <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>kunai</span> and forbidden <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Ninjutsu arts</span> through hand-drawn landscapes that pulse with vengeance. Master <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>unlimited combos</span> across <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>military bases</span> and <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>scorching deserts</span> while collecting mystical <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Amulets</span> and ancient <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>Ningi tools</span>. This stunning collaboration between SEGA and Lizardcube resurrects the shinobi legacy with <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>cartoon-inspired artistry</span>.",
+    "DescriptionArabic": "<div dir='rtl'>انهض من رماد <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>قريتك المحروقة</span> بينما النينجا الأسطوري <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>جو موساشي</span> يكتشف عشيرته مجمدة في الحجر بسحر مظلم. اضرب بـ<span style='color:#C0C0C0; font-weight:bold; text-shadow: 0 0 8px #C0C0C0;'>كاتانا أوبوروزوكي</span> الجدّية جنباً إلى جنب مع <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الكوناي</span> المميتة و<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>فنون النينجوتسو</span> المحرمة عبر مناظر مرسومة يدوياً تنبض بالانتقام. أتقن <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>الكومبوهات اللامحدودة</span> عبر <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>القواعد العسكرية</span> و<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>الصحاري المحرقة</span> بينما تجمع <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>التمائم</span> الصوفية و<span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>أدوات النينجي</span> القديمة. هذا التعاون المذهل بين سيجا وليزاردكوب يحيي إرث الشينوبي بـ<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>فنون الكرتون الملهمة</span>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 100,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Shinobi%20Art%20of%20Vengeance%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Shinobi%20Art%20of%20Vengeance%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=duSFn7ptRIw",
+    "videoStart": 1.3,
+    "videoEnd": 70,
+    "MusicUrl": "https://archive.org/download/retromedia/Shinobi%20Art%20of%20Vengeance%20Boss%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 4"
+    ],
+    "GenreNames": [
+      "Platformer"
+    ],
+    "DeveloperNames": [
+      "Sega"
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 4": {
+        "versions": [
+          {
+            "identifier": "P0400",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 4",
+            "fileSize": "10GB",
+            "arguments": [],
+            "emulator": "ShadPS4",
+            "romFile": "eboot.bin",
+            "filename": "SHINOBI Art of Vengeance.zip"
           }
         ]
       }
