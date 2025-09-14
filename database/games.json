@@ -63619,7 +63619,7 @@
             "fileSize": "1MB",
             "arguments": [
               "-L",
-              ".\\cores\\gambatte_libretro.dll"
+              ".\\cores\\mgba_libretro.dll"
             ],
             "buildID": "2.6.4",
             "filename": "Pokemon PureRed.gb"
@@ -110905,7 +110905,7 @@
             "fileSize": "1MB",
             "arguments": [
               "-L",
-              ".\\cores\\gambatte_libretro.dll"
+              ".\\cores\\mgba_libretro.dll"
             ],
             "buildID": "2.6.4",
             "filename": "Pokemon PureBlue.gb"
