@@ -131516,5 +131516,286 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1757797808359_0",
+    "Name": "DiRT 2",
+    "SortingName": "Colin Mcrae 07",
+    "Description": "Join the ultimate <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>World Tour</span> as <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>Ken Block</span> and <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>Travis Pastrana</span> guide you through <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>100 adrenaline-fueled events</span> across nine global locations. Your traveling <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>RV headquarters</span> becomes home as you master five racing disciplines from <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Utah's desert raids</span> to <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Croatia's rallycross circuits</span>. The enhanced <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>EGO engine</span> captures every Scandinavian flick and weight transfer as you battle through <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>Malaysian rainforests</span> and <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Moroccan deserts</span> in this celebration of extreme motorsport.",
+    "DescriptionArabic": "<div dir='rtl'>انضم إلى <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الجولة العالمية</span> المثلى بينما <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>كين بلوك</span> و<span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>ترافيس باسترانا</span> يرشدانك عبر <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>100 حدث مليء بالأدرينالين</span> عبر تسعة مواقع عالمية. تصبح <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>مقطورة الرحلات</span> المتنقلة بيتك بينما تتقن خمسة تخصصات سباق من <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>غارات صحراء يوتاه</span> إلى <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>حلبات راليكروس كرواتيا</span>. يلتقط <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>محرك إيجو</span> المحسّن كل انزلاق إسكندنافي ونقل الوزن بينما تحارب عبر <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>غابات ماليزيا المطيرة</span> و<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>صحارى المغرب</span> في هذا الاحتفال برياضة السيارات المتطرفة.</div>",
+    "ReleaseDate": "2009-09-08",
+    "CriticScore": 85,
+    "Length": 12,
+    "BackgroundUrl": "https://archive.org/download/retromedia/DiRT%202%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/DiRT%202%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=eYrvo6hRpUY",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/DiRT%202%20A%20Hope%20In%20Hell.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Racing"
+    ],
+    "DeveloperNames": [
+      "Codemasters"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP002",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "11 GB",
+            "executable": "dirt2.exe",
+            "arguments": [],
+            "filename": "00063.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1757797808359_1",
+    "Name": "DiRT 3",
+    "SortingName": "Colin Mcrae 08",
+    "Description": "Master the art of <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>gymkhana</span> under <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>Ken Block's</span> expert guidance at the legendary <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>DC Compound</span> surrounding Battersea Power Station. Perfect your <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>doughnuts</span> and <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>gate drifts</span> between shipping containers and scaffolds while <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>dynamic weather</span> transforms stages from sun-baked tarmac to treacherous ice. Experience split-screen thrills and <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Outbreak zombie</span> modes as legendary drivers like <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>Sébastien Loeb</span> and <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Travis Pastrana</span> push the boundaries of what's possible on four wheels.",
+    "DescriptionArabic": "<div dir='rtl'>أتقن فن <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الجيمخانا</span> تحت إرشاد <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>كين بلوك</span> الخبير في <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>مجمع دي سي</span> الأسطوري المحيط بمحطة باترسي للطاقة. أتقن <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>حلقات الدونت</span> و<span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>انزلاقات البوابة</span> بين حاويات الشحن والسقالات بينما <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>الطقس الديناميكي</span> يحول المراحل من أسفلت محروق بالشمس إلى جليد غادر. اختبر إثارة الشاشة المقسمة وأنماط <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>تفشي الزومبي</span> بينما سائقون أساطير مثل <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>سيباستيان لويب</span> و<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>ترافيس باسترانا</span> يدفعون حدود ما هو ممكن على أربع عجلات.</div>",
+    "ReleaseDate": "2011",
+    "CriticScore": 85,
+    "Length": 12,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Dirt%203%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/DiRT%203%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=96HGhKRcCh0",
+    "videoStart": 4.3,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/DiRT%203%20Blind%20Faith.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Racing"
+    ],
+    "DeveloperNames": [
+      "Codemasters"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP002",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "14 GB",
+            "executable": "dirt3_game.exe",
+            "arguments": [],
+            "filename": "00064.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1757797808359_2",
+    "Name": "DiRT 4",
+    "SortingName": "Colin Mcrae 09",
+    "Description": "Generate infinite rallying possibilities with the revolutionary <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Your Stage</span> system, creating over a billion unique stage variations across <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>Australia</span>, <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>Spain</span>, <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Michigan</span>, <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Sweden</span>, and <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Wales</span>. Master <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Group B legends</span> and modern rally machines while building your team empire with hired mechanics and strategic <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>sponsor deals</span>. Share custom stages with friends and challenge them to beat your times in this acclaimed simulation that perfectly balances <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>accessibility</span> with authentic <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>rally punishment</span>.",
+    "DescriptionArabic": "<div dir='rtl'>ولّد إمكانيات رالي لا نهائية مع نظام <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>مرحلتك الخاصة</span> الثوري، منشئاً أكثر من مليار تنويع فريد للمراحل عبر <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>أستراليا</span> و<span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>إسبانيا</span> و<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>ميشيغان</span> و<span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>السويد</span> و<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>ويلز</span>. أتقن <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>أساطير المجموعة ب</span> وآلات الرالي العصرية بينما تبني إمبراطورية فريقك مع ميكانيكيين مستأجرين و<span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>صفقات رعاية</span> استراتيجية. شارك المراحل المخصصة مع الأصدقاء وتحداهم لهزيمة أوقاتك في هذه المحاكاة المشيد بها التي توازن بشكل مثالي بين <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>سهولة الوصول</span> و<span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>عقاب الرالي</span> الأصيل.</div>",
+    "ReleaseDate": "2017",
+    "CriticScore": 74,
+    "Length": 12,
+    "BackgroundUrl": "https://archive.org/download/retromedia/DiRT%204%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/DiRT%204%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=mCgQzElkJsE",
+    "videoStart": 4,
+    "videoEnd": 59,
+    "MusicUrl": "https://archive.org/download/retromedia/DiRT%204%20Night%20Drive%20%20Sigma.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Racing"
+    ],
+    "DeveloperNames": [
+      "Codemasters"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP002",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "36 GB",
+            "executable": "dirt4.exe",
+            "arguments": [],
+            "filename": "00065.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1757797808359_3",
+    "Name": "DiRT Rally",
+    "SortingName": "Colin Mcrae 10",
+    "Description": "Return to unforgiving <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>hardcore simulation</span> where <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>tires burst</span>, <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>radiators overheat</span>, and one mistake sends you tumbling down <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>Welsh mountainsides</span>. Master the rebuilt physics engine across <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Greek dust</span>, <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Finnish jumps</span>, and <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Monte Carlo ice</span> where every surface demands respect. No Ken Block gimmicks, just pure <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>rally authenticity</span> that punishes the overconfident and rewards the patient in what many call the <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>best rally sim</span> ever created.",
+    "DescriptionArabic": "<div dir='rtl'>عد إلى <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>المحاكاة القاسية</span> التي لا ترحم حيث <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>تنفجر الإطارات</span> و<span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>تسخن المشعات</span> وخطأ واحد يرسلك متدحرجاً أسفل <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>جبال ويلز</span>. أتقن محرك الفيزياء المعاد بناؤه عبر <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>غبار اليونان</span> و<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>قفزات فنلندا</span> و<span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>جليد مونتي كارلو</span> حيث كل سطح يتطلب الاحترام. لا حيل كين بلوك، فقط <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>أصالة رالي</span> نقية تعاقب المفرط بالثقة وتكافئ الصبور فيما يسميه الكثيرون <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>أفضل محاكاة رالي</span> تم إنشاؤها على الإطلاق.</div>",
+    "ReleaseDate": "2015",
+    "CriticScore": 85,
+    "Length": 40,
+    "BackgroundUrl": "https://archive.org/download/retromedia/DiRT%20Rally%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/DiRT%20Rally%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=E79ofEtVlBg",
+    "videoStart": 2,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Dirt%20Rally%20Who%20is%20leading%20Who.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Racing"
+    ],
+    "DeveloperNames": [
+      "Codemasters"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP002",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "39 GB",
+            "executable": "drt.exe",
+            "arguments": [],
+            "filename": "00066.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1757797808359_4",
+    "Name": "DiRT Rally 2.0",
+    "SortingName": "Colin Mcrae 11",
+    "Description": "Experience revolutionary <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>surface degradation</span> where over 100 layers ensure each pass transforms <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>Argentina's gravel</span> and <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>New Zealand's mud</span> into rutted battlegrounds. Master <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>tire compounds</span> as <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>dynamic weather</span> transforms grip levels from <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Poland's dusty trails</span> to <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>Spain's wet tarmac</span>. Strategic choices matter as soft tires offer grip but wear fast, while the <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>authentic handling model</span> demands respect through every corner. This is rallying at its most <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>immersive</span> and <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>unforgiving</span>.",
+    "DescriptionArabic": "<div dir='rtl'>اختبر <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>تدهور السطح</span> الثوري حيث أكثر من 100 طبقة تضمن أن كل مرور يحول <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>حصى الأرجنتين</span> و<span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>طين نيوزيلندا</span> إلى ساحات معركة مخددة. أتقن <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>مركبات الإطارات</span> بينما <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>الطقس الديناميكي</span> يحول مستويات القبضة من <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>مسارات بولندا المغبرة</span> إلى <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>أسفلت إسبانيا المبلل</span>. الخيارات الاستراتيجية مهمة حيث الإطارات الناعمة توفر قبضة لكن تبلى بسرعة، بينما <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>نموذج التحكم الأصيل</span> يتطلب الاحترام عبر كل منعطف. هذا هو الرالي في أكثر حالاته <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>انغماساً</span> و<span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>عدم مغفرة</span>.</div>",
+    "ReleaseDate": "2019",
+    "CriticScore": 80,
+    "Length": 50,
+    "BackgroundUrl": "https://archive.org/download/retromedia/DiRT%20Rally%202.0%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/DiRT%20Rally%202.0%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=RQ7JvIncd4Y",
+    "videoStart": null,
+    "videoEnd": 44,
+    "MusicUrl": "https://archive.org/download/retromedia/DiRT%20Rally%202.0%20Who%20is%20leading%20Who.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Racing"
+    ],
+    "DeveloperNames": [
+      "Codemasters"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP002",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "110 GB",
+            "executable": "dirtrally2.exe",
+            "arguments": [],
+            "filename": "00067.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1757797808359_5",
+    "Name": "DiRT Showdown",
+    "SortingName": "Colin Mcrae 12",
+    "Description": "Embrace pure <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>arcade destruction</span> where <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>demolition derby</span> meets <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>hoonigan mayhem</span> in spectacular arenas of twisted metal. Smash through <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Rampage bowls</span>, survive <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Hard Target</span> onslaughts, and knock rivals off elevated <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>Knock Out</span> platforms. Master <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>8-Ball crossover</span> collisions and score points through spectacular <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>Trick Rush</span> stunts. This unabashed celebration of carnage features split-screen battles and <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>party modes</span> where destruction is the only goal and <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>spectacular crashes</span> are your currency.",
+    "DescriptionArabic": "<div dir='rtl'>احتضن <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>دمار الأركيد</span> الخالص حيث <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>ديربي الهدم</span> يلتقي <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>فوضى الهونيجان</span> في حلبات مذهلة من المعدن الملتوي. اصطدم عبر <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>أحواض الهياج</span>، انج من هجمات <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>الهدف الصعب</span>، واطرد المنافسين من منصات <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>الضربة القاضية</span> المرتفعة. أتقن تصادمات <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>تقاطع 8-بول</span> واحرز نقاطاً عبر حيل <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>اندفاع الحيل</span> المذهلة. هذا الاحتفال الصريح بالمذبحة يضم معارك الشاشة المقسمة و<span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>أنماط الحفلة</span> حيث الدمار هو الهدف الوحيد و<span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>التحطيمات المذهلة</span> هي عملتك.</div>",
+    "ReleaseDate": "2012",
+    "CriticScore": 75,
+    "Length": 8,
+    "BackgroundUrl": "https://archive.org/download/retromedia/DiRT%20Showdown%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/DiRT%20Showdown%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=7JHxfFFBuOI",
+    "videoStart": 10,
+    "videoEnd": 95,
+    "MusicUrl": "https://archive.org/download/retromedia/DiRT%20Showdown%20Watch%20It%20Burn.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Racing"
+    ],
+    "DeveloperNames": [
+      "Codemasters"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP002",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "10 GB",
+            "executable": "showdown.exe",
+            "arguments": [],
+            "filename": "00068.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1757800413895_0",
+    "Name": "Artis Impact",
+    "SortingName": "",
+    "Description": "Navigate <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>Akane's</span> survival through a beautifully rendered <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>post-apocalyptic world</span> where humanity and artificial intelligence forge unexpected bonds. Alongside her loyal AI companion <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Bot</span>, explore <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>hand-drawn pixel landscapes</span> that blend dark narrative moments with surprising humor. Master <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>streamlined turn-based combat</span> between <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>part-time jobs</span> and <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>home decoration</span> in this slow-paced RPG that celebrates both the mundane and extraordinary. Uncover compelling stories through <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>retro-inspired visuals</span> that prove hope endures even after <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>civilization's end</span>.",
+    "DescriptionArabic": "<div dir='rtl'>تنقل في بقاء <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>أكاني</span> عبر <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>عالم ما بعد الكارثة</span> المرسوم بجمال حيث تصنع البشرية والذكاء الاصطناعي روابط غير متوقعة. إلى جانب رفيقها الذكي المخلص <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>بوت</span>، استكشف <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>مناظر البكسل المرسومة يدوياً</span> التي تمزج لحظات السرد المظلمة بالفكاهة المفاجئة. أتقن <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>القتال المبسط القائم على الأدوار</span> بين <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>الوظائف المؤقتة</span> و<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>تزيين المنزل</span> في هذه اللعبة بطيئة الإيقاع التي تحتفل بالمألوف والاستثنائي معاً. اكتشف قصصاً مقنعة عبر <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>صور ريترو ملهمة</span> تثبت أن الأمل يدوم حتى بعد <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>نهاية الحضارة</span>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 85,
+    "Length": 0,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Artis%20Impact%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Artis%20Impact%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=N68SmJ5OMxQ",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Artis%20Impact%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "RPG"
+    ],
+    "DeveloperNames": [
+      "Mas"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP002",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "Game.exe",
+            "buildID": "8 September 2025",
+            "arguments": [],
+            "filename": "00069.zip"
+          }
+        ]
+      }
+    }
   }
 ]
