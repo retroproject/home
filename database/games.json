@@ -50265,16 +50265,16 @@
         "versions": [
           {
             "identifier": "retrod2",
-            "filename": "Pokemon Crystal.gbc",
             "name": "Vanilla",
             "platform": "Nintendo Game Boy Color",
             "emulator": "RetroArch",
             "fileSize": "2MB",
             "arguments": [
               "-L",
-              ".\\cores\\gambatte_libretro.dll"
+              ".\\cores\\mgba_libretro.dll"
             ],
-            "romFile": "Pokemon Crystal.gbc"
+            "romFile": "Pokemon Crystal.gbc",
+            "filename": "Pokemon Crystal.gbc"
           }
         ]
       }
@@ -52412,16 +52412,16 @@
         "versions": [
           {
             "identifier": "retrod2",
-            "filename": "The Legend of Zelda Oracle of Ages.gbc",
             "name": "Vanilla",
             "platform": "Nintendo Game Boy Color",
             "emulator": "RetroArch",
             "fileSize": "1MB",
             "arguments": [
               "-L",
-              ".\\cores\\gambatte_libretro.dll"
+              ".\\cores\\mgba_libretro.dll"
             ],
-            "romFile": "The Legend of Zelda Oracle of Ages.gbc"
+            "romFile": "The Legend of Zelda Oracle of Ages.gbc",
+            "filename": "The Legend of Zelda Oracle of Ages.gbc"
           }
         ]
       }
@@ -81712,16 +81712,16 @@
         "versions": [
           {
             "identifier": "retrod2",
-            "filename": "Wario Land II (Uncensored).gbc",
             "name": "Uncensored",
             "platform": "Nintendo Game Boy Color",
             "emulator": "RetroArch",
             "fileSize": "2MB",
             "arguments": [
               "-L",
-              ".\\cores\\gambatte_libretro.dll"
+              ".\\cores\\mgba_libretro.dll"
             ],
-            "romFile": "Wario Land II (Uncensored).gbc"
+            "romFile": "Wario Land II (Uncensored).gbc",
+            "filename": "Wario Land II (Uncensored).gbc"
           }
         ]
       }
@@ -97751,16 +97751,14 @@
         "versions": [
           {
             "identifier": "",
-            "filename": "Harvest Moon GBC.zip",
             "name": "Collection",
             "platform": "Nintendo Game Boy Color",
             "emulator": "RetroArch",
             "fileSize": "1MB",
             "arguments": [
               "-L",
-              ".\\cores\\gambatte_libretro.dll"
+              ".\\cores\\mgba_libretro.dll"
             ],
-            "romFile": "",
             "romFiles": [
               "Harvest Moon GBC 1.gbc",
               "Harvest Moon GBC 2.gbc",
@@ -97770,7 +97768,8 @@
               "Harvest Moon GBC 1",
               "Harvest Moon GBC 2",
               "Harvest Moon GBC 3"
-            ]
+            ],
+            "filename": "Harvest Moon GBC.zip"
           }
         ]
       }
@@ -104663,16 +104662,16 @@
         "versions": [
           {
             "identifier": "retrod2",
-            "filename": "The Legend of Zelda Oracle of Seasons.gbc",
             "name": "Vanilla",
             "platform": "Nintendo Game Boy Color",
             "emulator": "RetroArch",
             "fileSize": "1MB",
             "arguments": [
               "-L",
-              ".\\cores\\gambatte_libretro.dll"
+              ".\\cores\\mgba_libretro.dll"
             ],
-            "romFile": "The Legend of Zelda Oracle of Seasons.gbc"
+            "romFile": "The Legend of Zelda Oracle of Seasons.gbc",
+            "filename": "The Legend of Zelda Oracle of Seasons.gbc"
           }
         ]
       }
@@ -110290,16 +110289,16 @@
         "versions": [
           {
             "identifier": "retrod2",
-            "filename": "Pokemon Silver.gbc",
             "name": "Vanilla",
             "platform": "Nintendo Game Boy Color",
             "emulator": "RetroArch",
             "fileSize": "2MB",
             "arguments": [
               "-L",
-              ".\\cores\\gambatte_libretro.dll"
+              ".\\cores\\mgba_libretro.dll"
             ],
-            "romFile": "Pokemon Silver.gbc"
+            "romFile": "Pokemon Silver.gbc",
+            "filename": "Pokemon Silver.gbc"
           }
         ]
       }
@@ -110587,16 +110586,16 @@
         "versions": [
           {
             "identifier": "retrod2",
-            "filename": "Pokemon Gold.gbc",
             "name": "Vanilla",
             "platform": "Nintendo Game Boy Color",
             "emulator": "RetroArch",
             "fileSize": "2MB",
             "arguments": [
               "-L",
-              ".\\cores\\gambatte_libretro.dll"
+              ".\\cores\\mgba_libretro.dll"
             ],
-            "romFile": "Pokemon Gold.gbc"
+            "romFile": "Pokemon Gold.gbc",
+            "filename": "Pokemon Gold.gbc"
           }
         ]
       }
@@ -116385,16 +116384,16 @@
         "versions": [
           {
             "identifier": "retrod2",
-            "filename": "Wario Land 3.gbc",
             "name": "Vanilla",
             "platform": "Nintendo Game Boy Color",
             "emulator": "RetroArch",
             "fileSize": "2MB",
             "arguments": [
               "-L",
-              ".\\cores\\gambatte_libretro.dll"
+              ".\\cores\\mgba_libretro.dll"
             ],
-            "romFile": "Wario Land 3.gbc"
+            "romFile": "Wario Land 3.gbc",
+            "filename": "Wario Land 3.gbc"
           }
         ]
       }
