@@ -58758,7 +58758,6 @@
             "platform": "Sony PlayStation 1",
             "emulator": "RetroArch",
             "fileSize": "9GB",
-            "romFile": "Legend of Legaia.chd",
             "arguments": [
               "-L",
               ".\\cores\\mednafen_psx_hw_libretro.dll"
