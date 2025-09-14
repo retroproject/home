@@ -41935,7 +41935,7 @@
       "Hall of Fame"
     ],
     "downloadInfo": {
-      "Sony PlayStation 1": {
+      "Sony PlayStation": {
         "versions": [
           {
             "name": "Enhanced",
@@ -41951,7 +41951,7 @@
               "Disc 2"
             ],
             "identifier": "retro-psx",
-            "filename": "Xenogears 2.0.zip",
+            "filename": "Xenogears.zip",
             "arguments": [
               "-L",
               ".\\cores\\mednafen_psx_hw_libretro.dll"
@@ -41963,39 +41963,6 @@
             "platform": "Sony PlayStation 1",
             "emulator": "RetroArch",
             "identifier": "retro-psx",
-            "filename": "Xenogears RetroArch HD Textures.zip"
-          }
-        ]
-      },
-      "Sony PlayStation": {
-        "versions": [
-          {
-            "identifier": "retro-psx",
-            "name": "Enhanced",
-            "platform": "Sony PlayStation 1",
-            "emulator": "RetroArch",
-            "romFiles": [
-              "Xenogears (Disc 1).chd",
-              "Xenogears (Disc 2).chd"
-            ],
-            "romLabels": [
-              "Disc 1",
-              "Disc 2"
-            ],
-            "fileSize": "1GB",
-            "arguments": [
-              "-L",
-              ".\\cores\\mednafen_psx_hw_libretro.dll"
-            ],
-            "filename": "Xenogears.zip"
-          },
-          {
-            "identifier": "retro-psx",
-            "name": "HD Textures",
-            "platform": "Sony PlayStation 1",
-            "emulator": "RetroArch",
-            "fileSize": "15GB",
-            "arguments": [],
             "filename": "Xenogears RetroArch HD Textures.zip"
           }
         ]
