@@ -132003,5 +132003,45 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1757946678831_0",
+    "Name": "The Drifter",
+    "SortingName": "",
+    "Description": "Drifter <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Mick Carter</span> witnesses a murder, dies, then awakens <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>seconds before death</span> in a time-warped nightmare. Framed and hunted by <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>hi-tech soldiers</span>, navigate a conspiracy of <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>shadowy corporations</span> and a <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>thousand-year obsession</span>. This pulp-noir thriller from <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Powerhoof</span> channels <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>70s grindhouse</span> through pixel art and <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>dark-synth</span> beats. Point, click, and survive the <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>madman's web</span> where every death brings darker <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>revelations</span>.",
+    "DescriptionArabic": "<div dir='rtl'>المتشرد <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>ميك كارتر</span> يشهد جريمة قتل، يموت، ثم يستيقظ <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>ثوانٍ قبل الموت</span> في كابوس زمني ملتوٍ. مُتهم زوراً ومطارد من <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>جنود التقنية العالية</span>، تنقل عبر مؤامرة من <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>الشركات الغامضة</span> و<span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>هوس الألف عام</span>. هذا الإثارة النوار من <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>باورهوف</span> يوجه <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>السبعينات الاستغلالية</span> عبر فن البكسل وإيقاعات <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>السينث المظلمة</span>. انقر واضغط وانجُ من <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>شبكة المجنون</span> حيث كل موت يجلب <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>كشوفات</span> أكثر ظلاماً.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 100,
+    "BackgroundUrl": "https://archive.org/download/retromedia/The%20Drifter%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/The%20Drifter%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=2GiHlkE2z8g",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/The%20Drifter%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Point & Click"
+    ],
+    "DeveloperNames": [
+      "Powerhoof"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP002",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "TheDrifter.exe",
+            "buildID": "1 September 2025",
+            "arguments": [],
+            "filename": "00075.zip"
+          }
+        ]
+      }
+    }
   }
 ]
