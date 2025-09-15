@@ -51710,7 +51710,7 @@
             "filename": "",
             "platform": "PC Game",
             "name": "Remastered",
-            "fileSize": "150MB",
+            "fileSize": "70MB",
             "buildID": "1.0.1",
             "executableFiles": [
               "SMB1R.exe"
@@ -131959,6 +131959,46 @@
             "buildID": "1.2",
             "romFile": "eboot.bin",
             "filename": "RAIDOU Remastered The Mystery of The Soulless Army.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1757945847088_0",
+    "Name": "Little Witch In The Woods",
+    "SortingName": "",
+    "Description": "Apprentice witch <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Ellie</span> arrives at her <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>Witch House</span> to begin training in a world of gentle magic. Soar on your <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>enchanted broom</span> through <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>mystical forests</span>, gather ingredients to brew <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>healing potions</span>, and document magical <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>creatures</span> in your spellbook. Build friendships with <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>village folk</span> who share their secrets, befriend wandering <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>cats</span>, and explore <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>shimmering lakes</span>. In this cozy pixel world from <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>LUCEREIN ORTU</span>, every small kindness blooms into magical discovery.",
+    "DescriptionArabic": "<div dir='rtl'>الساحرة المتدربة <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>إيلي</span> تصل إلى <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>بيت الساحرة</span> لبدء التدريب في عالم السحر اللطيف. حلّقي على <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>مكنستك المسحورة</span> عبر <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>الغابات الصوفية</span>، اجمعي المكونات لتحضير <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>جرعات الشفاء</span>، ووثّقي <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>المخلوقات</span> السحرية في كتاب تعاويذك. ابني صداقات مع <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>سكان القرية</span> الذين يشاركون أسرارهم، صادقي <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>القطط</span> المتجولة، واستكشفي <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>البحيرات المتلألئة</span>. في هذا العالم البكسلي الدافئ من <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>لوسيرين أورتو</span>، كل لطف صغير يزهر إلى اكتشاف سحري.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Little%20Witch%20In%20The%20Woods%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Little%20Witch%20In%20The%20Woods%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=r1TARFynPc4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Little%20Witch%20In%20The%20Woods%20Main%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Cozy"
+    ],
+    "DeveloperNames": [
+      "SUNNY SIDE UP"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP002",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "LWIW.exe",
+            "buildID": "15 September 2025",
+            "arguments": [],
+            "filename": "00074.zip"
           }
         ]
       }
