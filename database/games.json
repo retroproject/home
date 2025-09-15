@@ -75576,7 +75576,8 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/99c295e6-8118-4147-8290-ad40edd98c90.mp3",
     "PlatformNames": [
-      "PC Game"
+      "PC Game",
+      "Nintendo Entertainment System"
     ],
     "GenreNames": [
       "Metroidvania"
@@ -75585,15 +75586,39 @@
       "Konami"
     ],
     "downloadInfo": {
-      "PC Game": {
+      "Cross-Platform": {
         "versions": [
           {
+            "identifier": "retro-nes",
+            "filename": "",
+            "platform": "Nintendo Entertainment System",
+            "name": "NES Enhanced",
+            "emulator": "RetroArch",
+            "fileSize": "400KB",
+            "arguments": [
+              "-L",
+              ".\\cores\\mesen_libretro.dll"
+            ],
+            "romFiles": [
+              "Akumajou Densetsu.nes"
+            ],
+            "filenames": [
+              "Akumajou Densetsu.nes"
+            ],
+            "buildID": "English 7.1"
+          },
+          {
             "identifier": "retroid-2",
-            "filename": "Castlevania III Dracula's Curse Remake.zip",
-            "name": "Vanilla",
+            "filename": "",
             "platform": "PC Game",
-            "executable": "Dracula痴 Curse.exe",
-            "fileSize": "160MB"
+            "name": "Fan Remake",
+            "fileSize": "160MB",
+            "executableFiles": [
+              "Dracula痴 Curse.exe"
+            ],
+            "filenames": [
+              "Castlevania III Dracula's Curse Remake.zip"
+            ]
           }
         ]
       }
