@@ -51642,7 +51642,7 @@
     "_id": "6907abcd-a9c1-4804-930d-8a53c3493b93",
     "GameId": "54dc99a2-4e80-4f07-8557-0a585a690116",
     "Name": "Super Mario Bros.",
-    "SortingName": "Super Mario 01",
+    "SortingName": "Super Mario 01.01",
     "Description": "In the <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;'>Mushroom Kingdom</span>, plumber <span style='color: #FF4500; font-weight: bold; text-shadow: 0 0 8px #FF4500;'>Mario</span> begins the adventure that would define generations. He leaps across treacherous <span style='color: #8B4513; font-weight: bold; text-shadow: 0 0 6px #8B4513;'>pipes</span> and platforms to rescue <span style='color: #FF69B4; font-weight: bold; text-shadow: 0 0 8px #FF69B4;'>Princess Peach</span> from the evil <span style='color: #228B22; font-weight: bold; text-shadow: 0 0 8px #228B22;'>Bowser</span>.<br>Every <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 6px #32CD32;'>question block</span> promises surprises, every <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;'>Goomba</span> a challenge. From underground caverns to cloud fortresses, this timeless journey transforms obstacles into memories.<br>In a world where <span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;'>mushrooms grant power</span> and <span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 6px #9370DB;'>fire flowers</span> ignite hope, the legend began with courage and a single <span style='color: #FF8C00; font-weight: bold; text-shadow: 0 0 8px #FF8C00;'>leap of faith</span>.",
     "DescriptionArabic": "<div dir='rtl'>في <span style='color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;'>مملكة الفطر</span>، يبدأ السباك <span style='color: #FF4500; font-weight: bold; text-shadow: 0 0 8px #FF4500;'>ماريو</span> المغامرة التي ستُعرِّف أجيالاً. يقفز عبر <span style='color: #8B4513; font-weight: bold; text-shadow: 0 0 6px #8B4513;'>الأنابيب</span> الخطيرة والمنصات لإنقاذ <span style='color: #FF69B4; font-weight: bold; text-shadow: 0 0 8px #FF69B4;'>الأميرة بيتش</span> من الشرير <span style='color: #228B22; font-weight: bold; text-shadow: 0 0 8px #228B22;'>باوزر</span>.<br>كل <span style='color: #32CD32; font-weight: bold; text-shadow: 0 0 6px #32CD32;'>صندوق علامة استفهام</span> يحمل مفاجآت، كل <span style='color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;'>غومبا</span> تحدياً. من الكهوف تحت الأرض إلى القلاع السحابية، هذه الرحلة الخالدة تحول العقبات إلى ذكريات.<br>في عالم حيث <span style='color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;'>الفطر يمنح القوة</span> و<span style='color: #9370DB; font-weight: bold; text-shadow: 0 0 6px #9370DB;'>زهور النار</span> تشعل الأمل، بدأت الأسطورة بالشجاعة و<span style='color: #FF8C00; font-weight: bold; text-shadow: 0 0 8px #FF8C00;'>قفزة إيمان</span> واحدة.</div>",
     "ReleaseDate": "1985-9-13",
@@ -51656,7 +51656,8 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/6907abcd-a9c1-4804-930d-8a53c3493b93.mp3",
     "PlatformNames": [
-      "Nintendo Entertainment System"
+      "Nintendo Entertainment System",
+      "PC Game"
     ],
     "GenreNames": [
       "Platform"
@@ -51665,34 +51666,58 @@
       "Nintendo R&D4"
     ],
     "downloadInfo": {
-      "Nintendo Entertainment System": {
+      "Cross-Platform": {
         "versions": [
           {
             "identifier": "retro-nes",
-            "name": "Vanilla",
+            "filename": "",
             "platform": "Nintendo Entertainment System",
+            "name": "Vanilla",
             "emulator": "RetroArch",
-            "romFile": "Super Mario Bros.nes",
-            "fileSize": "30KB",
+            "fileSize": "40KB",
             "arguments": [
               "-L",
               ".\\cores\\mesen_libretro.dll"
             ],
-            "filename": "Super Mario Bros.nes"
+            "romFiles": [
+              "Super Mario Bros.nes"
+            ],
+            "filenames": [
+              "Super Mario Bros.nes"
+            ]
           },
           {
             "identifier": "retro-nes",
-            "name": "Definitive",
+            "filename": "",
             "platform": "Nintendo Entertainment System",
+            "name": "Definitive",
             "emulator": "RetroArch",
             "fileSize": "80KB",
             "arguments": [
               "-L",
               ".\\cores\\mesen_libretro.dll"
             ],
-            "buildID": "1.3.1",
-            "romFile": "Super Mario Bros Definitive.nes",
-            "filename": "Super Mario Bros Definitive.nes"
+            "romFiles": [
+              "Super Mario Bros Definitive.nes"
+            ],
+            "filenames": [
+              "Super Mario Bros Definitive.nes"
+            ],
+            "buildID": "1.3.1"
+          },
+          {
+            "identifier": "RPRP002",
+            "filename": "",
+            "platform": "PC Game",
+            "name": "Remastered",
+            "fileSize": "150MB",
+            "buildID": "1.0.1",
+            "executableFiles": [
+              "SMB1R.exe"
+            ],
+            "filenames": [
+              "00073.zip"
+            ]
           }
         ]
       }
