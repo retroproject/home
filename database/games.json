@@ -87631,19 +87631,31 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "identifier": "CPC39",
-            "filename": "Final Fantasy X X2 HD Remastered.zip",
             "fileSize": "37GB",
-            "executable": "FFX.exe",
-            "configExecutable": "FFX&X-2_LAUNCHER.exe"
+            "executableFiles": [
+              "FFX.exe",
+              "FFX&X-2_LAUNCHER.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Final Fantasy X X2 HD Remastered.zip"
           },
           {
             "name": "Enhanced",
             "platform": "PC Game",
             "identifier": "CPC38",
-            "filename": "Final Fantasy X X2 HD Remastered.zip",
             "fileSize": "37GB",
-            "executable": "FFX.exe",
-            "configExecutable": "FFX&X-2_LAUNCHER.exe"
+            "executableFiles": [
+              "FFX.exe",
+              "FFX&X-2_LAUNCHER.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Final Fantasy X X2 HD Remastered.zip"
           }
         ]
       }
