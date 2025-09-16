@@ -100694,13 +100694,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC28",
+            "identifier": "RPRP002",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "10GB",
             "arguments": [],
             "executable": "Tales of Graces f Remastered.exe",
-            "filename": "Tales of Graces f.zip"
+            "buildID": "12 March 2025",
+            "filename": "00077.zip"
           }
         ]
       }
@@ -132064,6 +132065,45 @@
             "buildID": "1 September 2025",
             "arguments": [],
             "filename": "00075.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1757997660302_0",
+    "Name": "The Crew",
+    "SortingName": "",
+    "Description": "Race across a <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>5000km² America</span> from coast to coast as <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Alex Taylor</span> infiltrates the <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>5-10 Detroit crew</span> to expose corrupt <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>FBI agents</span>. Build your <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>ultimate crew</span> in this always-online world where <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>mountains</span> to <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>Vegas strips</span> become your playground. Customize <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>120+ vehicles</span> with 220 tuning kits, from <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>monster trucks</span> to <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>drift machines</span>, and prove yourself as the new V8 king.",
+    "DescriptionArabic": "<div dir='rtl'>سابق عبر <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>أمريكا بمساحة 5000كم²</span> من ساحل لساحل كـ<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>أليكس تايلور</span> متسللاً إلى <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>عصابة ديترويت 5-10</span> لفضح عملاء <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>FBI الفاسدين</span>. ابنِ <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>طاقمك الأمثل</span> في هذا العالم المتصل دائماً حيث <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>الجبال</span> إلى <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>شوارع فيغاس</span> تصبح ملعبك. خصص <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>أكثر من 120 مركبة</span> بـ220 طقم تعديل، من <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>الشاحنات الوحشية</span> إلى <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>آلات الانجراف</span>، وأثبت نفسك كملك V8 الجديد.</div>",
+    "ReleaseDate": "2014",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/retromedia/The%20Crew%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/The%20Crew%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=d4JnshyKOOQ",
+    "videoStart": 11,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/The%20Crew%20Do%20I%20Wanna%20Know.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Racing"
+    ],
+    "DeveloperNames": [
+      "Ubisoft"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP002",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "25 GB",
+            "executable": "TCULauncher.exe",
+            "arguments": [],
+            "filename": "00076.zip"
           }
         ]
       }
