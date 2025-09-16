@@ -132122,5 +132122,45 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1758045286307_0",
+    "Name": "Tainted Grail The Fall Of Avalon",
+    "SortingName": "",
+    "Description": "<span style=\"color: #8B4513; font-weight: bold; text-shadow: 0 0 8px #8B4513;\">Avalon's ancient guardians</span> lie broken beneath <span style=\"color: #FF6B35; font-weight: bold; text-shadow: 0 0 8px #FF6B35;\">autumn leaves</span> that never turn to winter, their sacred oaths forgotten in the spreading <span style=\"color: #800020; font-weight: bold; text-shadow: 0 0 8px #800020;\">wyrdness</span>.<br> You awaken as <span style=\"color: #4682B4; font-weight: bold; text-shadow: 0 0 8px #4682B4;\">the last hope</span> of a dying realm, where <span style=\"color: #8A2BE2; font-weight: bold; text-shadow: 0 0 8px #8A2BE2;\">King Arthur's legacy</span> has twisted into nightmare and <span style=\"color: #2F4F4F; font-weight: bold; text-shadow: 0 0 8px #2F4F4F;\">corrupted knights</span> hunt survivors through <span style=\"color: #556B2F; font-weight: bold; text-shadow: 0 0 8px #556B2F;\">mist-shrouded forests</span>.<br> Every choice carves deeper into <span style=\"color: #B22222; font-weight: bold; text-shadow: 0 0 8px #B22222;\">Avalon's festering wounds</span>, as you forge alliances with <span style=\"color: #483D8B; font-weight: bold; text-shadow: 0 0 8px #483D8B;\">desperate tribes</span> or embrace the <span style=\"color: #8B008B; font-weight: bold; text-shadow: 0 0 8px #8B008B;\">taint</span> that promises power.<br> The <span style=\"color: #DAA520; font-weight: bold; text-shadow: 0 0 8px #DAA520;\">Round Table</span> lies shattered, and only you can decide whether <span style=\"color: #696969; font-weight: bold; text-shadow: 0 0 8px #696969;\">redemption or ruin</span> awaits this cursed land.<br>",
+    "DescriptionArabic": "<div dir='rtl'><span style=\"color: #8B4513; font-weight: bold; text-shadow: 0 0 8px #8B4513;\">حراس آفالون القدامى</span> يرقدون محطمين تحت <span style=\"color: #FF6B35; font-weight: bold; text-shadow: 0 0 8px #FF6B35;\">أوراق خريف أبدي</span> لا يعرف الشتاء، وقد نُسيت عهودهم المقدسة وسط <span style=\"color: #800020; font-weight: bold; text-shadow: 0 0 8px #800020;\">الفساد المتسلل</span>.<br> تستيقظ لتكون <span style=\"color: #4682B4; font-weight: bold; text-shadow: 0 0 8px #4682B4;\">الأمل الأخير</span> لمملكة تحتضر، حيث تحول <span style=\"color: #8A2BE2; font-weight: bold; text-shadow: 0 0 8px #8A2BE2;\">إرث الملك آرثر</span> إلى كابوس مرعب، و<span style=\"color: #2F4F4F; font-weight: bold; text-shadow: 0 0 8px #2F4F4F;\">فرسان ملعونون</span> يطاردون الناجين عبر <span style=\"color: #556B2F; font-weight: bold; text-shadow: 0 0 8px #556B2F;\">غابات يكسوها الضباب</span>.<br> كل قرار تتخذه ينحت عميقاً في <span style=\"color: #B22222; font-weight: bold; text-shadow: 0 0 8px #B22222;\">جراح آفالون النازفة</span>، بينما تصنع تحالفات مع <span style=\"color: #483D8B; font-weight: bold; text-shadow: 0 0 8px #483D8B;\">قبائل يائسة</span> أو تحتضن <span style=\"color: #8B008B; font-weight: bold; text-shadow: 0 0 8px #8B008B;\">اللعنة</span> التي تعدك بالقوة.<br> <span style=\"color: #DAA520; font-weight: bold; text-shadow: 0 0 8px #DAA520;\">المائدة المستديرة</span> تحطمت إلى شظايا، وأنت وحدك من يقرر إن كان <span style=\"color: #696969; font-weight: bold; text-shadow: 0 0 8px #696969;\">الخلاص أم الدمار</span> ينتظر هذه الأرض الملعونة.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 85,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Tainted%20Grail%20The%20Fall%20Of%20Avalon%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Tainted%20Grail%20The%20Fall%20Of%20Avalon%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=ulQAWcDS2Bo",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromedia/Tainted%20Grail%20The%20Fall%20Of%20Avalon%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "RPG"
+    ],
+    "DeveloperNames": [
+      "Awaken Realms"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP002",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "35 GB",
+            "executable": "Fall of Avalon.exe",
+            "buildID": "11 September 2025",
+            "arguments": [],
+            "filename": "00078.zip"
+          }
+        ]
+      }
+    }
   }
 ]
