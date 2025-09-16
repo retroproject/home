@@ -65575,29 +65575,22 @@
         "versions": [
           {
             "identifier": "retro-nes",
-            "filename": "Metroid.nes",
             "name": "Vanilla",
             "platform": "Nintendo Entertainment System",
-            "emulator": "RetroArch",
+            "emulator": "Mesen 2",
             "romFile": "Metroid.nes",
             "fileSize": "130KB",
-            "arguments": [
-              "-L",
-              ".\\cores\\mesen_libretro.dll"
-            ]
+            "arguments": [],
+            "filename": "Metroid.nes"
           },
           {
             "identifier": "retro-nes",
-            "filename": "Metroid Mesen 2 HD Textures.zip",
             "name": "HD Textures",
             "platform": "Nintendo Entertainment System",
-            "emulator": "RetroArch",
-            "romFile": "",
+            "emulator": "Mesen 2",
             "fileSize": "100MB",
-            "arguments": [
-              "-L",
-              ".\\cores\\mesen_libretro.dll"
-            ]
+            "arguments": [],
+            "filename": "Metroid Mesen 2 HD Textures.zip"
           }
         ]
       }
