@@ -18871,7 +18871,7 @@
           {
             "identifier": "P0301",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 3",
+            "platform": "Sony PlayStation 3 PSN",
             "emulator": "RPCS3",
             "fileSize": "840MB",
             "romFile": "NPUB30096/USRDIR/EBOOT.BIN",
