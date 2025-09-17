@@ -704,12 +704,18 @@
         "versions": [
           {
             "identifier": "COPC02",
-            "filename": "Call of Duty Modern Warfare 3.zip",
             "name": "Online",
             "platform": "PC Game",
-            "executable": "iw5sp.exe",
             "fileSize": "14GB",
-            "configExecutable": "plutonium.exe"
+            "executableFiles": [
+              "iw5sp.exe",
+              "plutonium.exe"
+            ],
+            "executableLabels": [
+              "Story Mode",
+              "Online Mode"
+            ],
+            "filename": "Call of Duty Modern Warfare 3.zip"
           }
         ]
       }
@@ -5684,8 +5690,7 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "iw3sp.exe",
-            "fileSize": "7GB",
-            "configExecutable": ""
+            "fileSize": "7GB"
           }
         ]
       }
@@ -33276,12 +33281,18 @@
         "versions": [
           {
             "identifier": "CPC16",
-            "filename": "Atelier Meruru The Apprentice of Arland DX.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "A13V_x64_Release_en.exe",
             "fileSize": "6GB",
-            "configExecutable": "ArlandDXLauncher.exe"
+            "executableFiles": [
+              "A13V_x64_Release_en.exe",
+              "ArlandDXLauncher.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Atelier Meruru The Apprentice of Arland DX.zip"
           }
         ]
       }
@@ -33448,12 +33459,18 @@
         "versions": [
           {
             "identifier": "CPC16",
-            "filename": "Atelier Sophie 1 The Alchemist of the Mysterious Book.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "Atelier_Sophie_DX.exe",
             "fileSize": "8GB",
-            "configExecutable": "Atelier_Sophie_DX_Launcher.exe"
+            "executableFiles": [
+              "Atelier_Sophie_DX.exe",
+              "Atelier_Sophie_DX_Launcher.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Atelier Sophie 1 The Alchemist of the Mysterious Book.zip"
           }
         ]
       }
@@ -33617,12 +33634,18 @@
         "versions": [
           {
             "identifier": "CPC16",
-            "filename": "Atelier Totori The Adventurer of Arland DX.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "A12V_x64_Release_en.exe",
             "fileSize": "5GB",
-            "configExecutable": "ArlandDXLauncher.exe"
+            "executableFiles": [
+              "A12V_x64_Release_en.exe",
+              "ArlandDXLauncher.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Atelier Totori The Adventurer of Arland DX.zip"
           }
         ]
       }
@@ -34812,8 +34835,7 @@
             "name": "Arabic",
             "platform": "PC Game",
             "executable": "Game_f_x64_EOS.exe",
-            "fileSize": "29GB",
-            "configExecutable": ""
+            "fileSize": "29GB"
           },
           {
             "identifier": "retroid-2",
@@ -38805,21 +38827,26 @@
         "versions": [
           {
             "identifier": "CPC36",
-            "filename": "Devil May Cry HD Collection.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "dmc3.exe",
             "fileSize": "12GB",
-            "configExecutable": "dmcLauncher.exe"
+            "executableFiles": [
+              "dmc3.exe",
+              "dmcLauncher.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Devil May Cry HD Collection.zip"
           },
           {
             "identifier": "CPC37",
-            "filename": "Devil May Cry HD Collection.zip",
             "name": "Enhanced",
             "platform": "PC Game",
             "executable": "dmc3.exe",
             "fileSize": "15GB",
-            "configExecutable": "dmcLauncher.exe"
+            "filename": "Devil May Cry HD Collection.zip"
           }
         ]
       }
@@ -59555,12 +59582,18 @@
         "versions": [
           {
             "identifier": "CPC36",
-            "filename": "Devil May Cry HD Collection.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "dmc2.exe",
             "fileSize": "12GB",
-            "configExecutable": "dmcLauncher.exe"
+            "executableFiles": [
+              "dmc2.exe",
+              "dmcLauncher.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Devil May Cry HD Collection.zip"
           }
         ]
       }
@@ -62480,12 +62513,18 @@
         "versions": [
           {
             "identifier": "CPC36",
-            "filename": "Story of Seasons A Wonderful Life.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "STORY OF SEASONS A Wonderful Life.exe",
             "fileSize": "2GB",
-            "configExecutable": "SOSAWLLauncher.exe"
+            "executableFiles": [
+              "STORY OF SEASONS A Wonderful Life.exe",
+              "SOSAWLLauncher.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Story of Seasons A Wonderful Life.zip"
           }
         ]
       }
@@ -64086,12 +64125,18 @@
         "versions": [
           {
             "identifier": "CPC12",
-            "filename": "AI The Somnium Files nirvanA Initiative.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "AI_TheSomniumFiles2.exe",
             "fileSize": "13GB",
-            "configExecutable": "Launcher.exe"
+            "executableFiles": [
+              "AI_TheSomniumFiles2.exe",
+              "Launcher.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "AI The Somnium Files nirvanA Initiative.zip"
           }
         ]
       }
@@ -64128,12 +64173,18 @@
         "versions": [
           {
             "identifier": "CPC16",
-            "filename": "Atelier Shallie Alchemists of the Dusk Sea DX.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "Atelier_Shallie_EN.exe",
             "fileSize": "10GB",
-            "configExecutable": "Atelier_ShallieLauncher.exe"
+            "executableFiles": [
+              "Atelier_Shallie_EN.exe",
+              "Atelier_ShallieLauncher.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Atelier Shallie Alchemists of the Dusk Sea DX.zip"
           }
         ]
       }
@@ -72892,12 +72943,18 @@
         "versions": [
           {
             "identifier": "CPC16",
-            "filename": "Atelier Lulua The Scion of Arland.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "Atelier_Lulua.exe",
             "fileSize": "9GB",
-            "configExecutable": "Atelier_Lulua_Launcher.exe"
+            "executableFiles": [
+              "Atelier_Lulua.exe",
+              "Atelier_Lulua_Launcher.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Atelier Lulua The Scion of Arland.zip"
           }
         ]
       }
@@ -77455,12 +77512,18 @@
         "versions": [
           {
             "identifier": "CPC13",
-            "filename": "Dragon Quest Builders 2.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "DQB2.exe",
             "fileSize": "4GB",
-            "configExecutable": "GameLauncher.exe"
+            "executableFiles": [
+              "DQB2.exe",
+              "GameLauncher.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Dragon Quest Builders 2.zip"
           }
         ]
       }
@@ -77909,12 +77972,18 @@
         "versions": [
           {
             "identifier": "CPC16",
-            "filename": "Atelier Escha and Logy Alchemists of the Dusk Sky DX.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "Atelier_Escha_and_Logy_EN.exe",
             "fileSize": "11GB",
-            "configExecutable": "Atelier_Escha_and_LogyLauncher.exe"
+            "executableFiles": [
+              "Atelier_Escha_and_Logy_EN.exe",
+              "Atelier_Escha_and_LogyLauncher.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Atelier Escha and Logy Alchemists of the Dusk Sky DX.zip"
           }
         ]
       }
@@ -81390,12 +81459,18 @@
         "versions": [
           {
             "identifier": "CPC16",
-            "filename": "Atelier Lydie and Suelle The Alchemists and the Mysterious Paintings.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "Atelier_Lydie_and_Suelle_DX.exe",
             "fileSize": "15GB",
-            "configExecutable": "Atelier_Lydie_and_Suelle_DX_Launcher.exe"
+            "executableFiles": [
+              "Atelier_Lydie_and_Suelle_DX.exe",
+              "Atelier_Lydie_and_Suelle_DX_Launcher.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Atelier Lydie and Suelle The Alchemists and the Mysterious Paintings.zip"
           }
         ]
       }
@@ -100133,14 +100208,13 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "16GB",
-            "configExecutable": "Launch.exe",
             "executableFiles": [
               "SM6EN.exe",
               "Launch.exe"
             ],
             "executableLabels": [
-              "Executable 1",
-              "Executable 2"
+              "Game",
+              "Configure"
             ]
           }
         ]
@@ -100788,14 +100862,13 @@
             "name": "Online",
             "platform": "PC Game",
             "fileSize": "25GB",
-            "configExecutable": "BeamNG.drive.exe",
             "executableFiles": [
               "BeamMP-Launcher.exe",
               "BeamNG.drive.exe"
             ],
             "executableLabels": [
-              "Executable 1",
-              "Executable 2"
+              "Game",
+              "Configure"
             ]
           }
         ]
@@ -104113,12 +104186,18 @@
         "versions": [
           {
             "identifier": "CPC16",
-            "filename": "Nelke and the Legendary Alchemists Ateliers of the New World.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "Nelke_and_the_Legendary_Alchemists.exe",
             "fileSize": "14GB",
-            "configExecutable": "Nelke_and_the_Legendary_Alchemists_Launcher.exe"
+            "executableFiles": [
+              "Nelke_and_the_Legendary_Alchemists.exe",
+              "Nelke_and_the_Legendary_Alchemists_Launcher.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Nelke and the Legendary Alchemists Ateliers of the New World.zip"
           }
         ]
       }
@@ -106517,12 +106596,18 @@
         "versions": [
           {
             "identifier": "COPC03",
-            "filename": "Deep Rock Galactic.zip",
             "name": "Online",
             "platform": "PC Game",
-            "executable": "FSD.exe",
             "fileSize": "4GB",
-            "configExecutable": "ModIOAuth.exe"
+            "executableFiles": [
+              "FSD.exe",
+              "ModIOAuth.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Deep Rock Galactic.zip"
           }
         ]
       }
@@ -109105,12 +109190,18 @@
         "versions": [
           {
             "identifier": "CPC36",
-            "filename": "Devil May Cry HD Collection.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "Devil May Cry HD Collection.zip",
             "fileSize": "12GB",
-            "configExecutable": "dmcLauncher.exe"
+            "executableFiles": [
+              "Devil May Cry HD Collection.zip",
+              "dmcLauncher.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Devil May Cry HD Collection.zip"
           }
         ]
       }
@@ -109410,12 +109501,18 @@
         "versions": [
           {
             "identifier": "CPC16",
-            "filename": "Atelier Rorona The Alchemist of Arland DX.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "A11R_x64_Release_en.exe",
             "fileSize": "7GB",
-            "configExecutable": "ArlandDXLauncher.exe"
+            "executableFiles": [
+              "A11R_x64_Release_en.exe",
+              "ArlandDXLauncher.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Atelier Rorona The Alchemist of Arland DX.zip"
           }
         ]
       }
@@ -111447,8 +111544,7 @@
             "name": "Enhanced",
             "platform": "PC Game",
             "executable": "Mods\\Community Update\\System\\Deus Ex Community Update.exe",
-            "fileSize": "6GB",
-            "configExecutable": ""
+            "fileSize": "6GB"
           }
         ]
       }
@@ -111760,8 +111856,7 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "BinaryDomain.exe",
-            "fileSize": "5GB",
-            "configExecutable": ""
+            "fileSize": "5GB"
           }
         ]
       }
@@ -111890,8 +111985,7 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "BurnoutPR.exe",
-            "fileSize": "7GB",
-            "configExecutable": ""
+            "fileSize": "7GB"
           }
         ]
       }
@@ -113042,9 +113136,15 @@
             "identifier": "CPC45",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "Start Game.bat",
             "fileSize": "80GB",
-            "configExecutable": "Install Service.bat",
+            "executableFiles": [
+              "Start Game.bat",
+              "Install Service.bat"
+            ],
+            "executableLabels": [
+              "Game",
+              "Install Service"
+            ],
             "filename": "Call of Duty Vanguard.zip"
           }
         ]
@@ -113212,12 +113312,18 @@
         "versions": [
           {
             "identifier": "CPC16",
-            "filename": "Atelier Firis The Alchemist and the Mysterious Journey.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "Atelier_Firis_DX.exe",
             "fileSize": "15GB",
-            "configExecutable": "Atelier_Firis_DX_Launcher.exe"
+            "executableFiles": [
+              "Atelier_Firis_DX.exe",
+              "Atelier_Firis_DX_Launcher.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Atelier Firis The Alchemist and the Mysterious Journey.zip"
           }
         ]
       }
@@ -114234,12 +114340,18 @@
         "versions": [
           {
             "identifier": "CPC16",
-            "filename": "Blue Reflection.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "BLUE_REFLECTION.exe",
             "fileSize": "15GB",
-            "configExecutable": "BLUE_REFLECTION_Launcher.exe"
+            "executableFiles": [
+              "BLUE_REFLECTION.exe",
+              "BLUE_REFLECTION_Launcher.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Blue Reflection.zip"
           }
         ]
       }
@@ -115800,12 +115912,18 @@
         "versions": [
           {
             "identifier": "CPC16",
-            "filename": "Atelier Ayesha The Alchemist of Dusk DX.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "Atelier_Ayesha_EN.exe",
             "fileSize": "9GB",
-            "configExecutable": "Atelier_AyeshaLauncher.exe"
+            "executableFiles": [
+              "Atelier_Ayesha_EN.exe",
+              "Atelier_AyeshaLauncher.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Atelier Ayesha The Alchemist of Dusk DX.zip"
           }
         ]
       }
@@ -119122,12 +119240,18 @@
         "versions": [
           {
             "identifier": "CPC36",
-            "filename": "Story of Seasons Pioneers of Olive Town.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "STORY OF SEASONS Pioneers of Olive Town.exe",
             "fileSize": "2GB",
-            "configExecutable": "SOSPoOTLauncher.exe"
+            "executableFiles": [
+              "STORY OF SEASONS Pioneers of Olive Town.exe",
+              "SOSPoOTLauncher.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Story of Seasons Pioneers of Olive Town.zip"
           }
         ]
       }
@@ -121101,21 +121225,33 @@
         "versions": [
           {
             "identifier": "CPC39",
-            "filename": "Final Fantasy X X2 HD Remastered.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "FFX-2.exe",
             "fileSize": "37GB",
-            "configExecutable": "FFX&X-2_LAUNCHER.exe"
+            "executableFiles": [
+              "FFX-2.exe",
+              "FFX&X-2_LAUNCHER.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Final Fantasy X X2 HD Remastered.zip"
           },
           {
             "identifier": "CPC38",
-            "filename": "Final Fantasy X X2 HD Remastered.zip",
             "name": "Enhanced",
             "platform": "PC Game",
-            "executable": "FFX-2.exe",
             "fileSize": "48GB",
-            "configExecutable": "FFX&X-2_LAUNCHER.exe"
+            "executableFiles": [
+              "FFX-2.exe",
+              "FFX&X-2_LAUNCHER.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Final Fantasy X X2 HD Remastered.zip"
           }
         ]
       }
@@ -123227,21 +123363,26 @@
         "versions": [
           {
             "identifier": "CPC03",
-            "filename": "Alice Madness Returns.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "AliceMadnessReturns.exe",
             "fileSize": "7GB",
-            "configExecutable": ""
+            "filename": "Alice Madness Returns.zip"
           },
           {
             "identifier": "CPC38",
-            "filename": "Alice Madness Returns.zip",
             "name": "Enhanced",
             "platform": "PC Game",
-            "executable": "AliceMadnessReturns.exe",
             "fileSize": "26GB",
-            "configExecutable": "AmrTuner.exe"
+            "executableFiles": [
+              "AliceMadnessReturns.exe",
+              "AmrTuner.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Alice Madness Returns.zip"
           }
         ]
       }
@@ -124452,12 +124593,18 @@
         "versions": [
           {
             "identifier": "CPC12",
-            "filename": "Attack on Titan 2 Final Battle.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "AOT2_EU.exe",
             "fileSize": "37GB",
-            "configExecutable": "Launcher.exe"
+            "executableFiles": [
+              "AOT2_EU.exe",
+              "Launcher.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Attack on Titan 2 Final Battle.zip"
           }
         ]
       }
@@ -127840,12 +127987,18 @@
         "versions": [
           {
             "identifier": "CPC36",
-            "filename": "Story of Seasons Friends of Mineral Town.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "STORY OF SEASONS Friends of Mineral Town.exe",
             "fileSize": "2GB",
-            "configExecutable": "SOSFoMTLauncher.exe"
+            "executableFiles": [
+              "STORY OF SEASONS Friends of Mineral Town.exe",
+              "SOSFoMTLauncher.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "Story of Seasons Friends of Mineral Town.zip"
           }
         ]
       }
