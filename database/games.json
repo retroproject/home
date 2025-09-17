@@ -65963,7 +65963,7 @@
     "_id": "851b408c-2196-4a3f-9e9a-b2fcea6278ce",
     "GameId": "75071a4fc9986ea5d8b3be61ad920d49",
     "Name": "Bratz: Flaunt Your Fashion",
-    "SortingName": "",
+    "SortingName": "Bratz 01",
     "Description": "In the glamorous world of <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>high fashion</span>, four best friends with a passion for style discover that their small-town boutique holds the key to unlocking their dreams of international stardom.<br><span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 8px #FFB6C1;'>Cloe</span>, <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Yasmin</span>, <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Jade</span>, and <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Sasha</span> must navigate the cutthroat world of fashion competitions, where creativity clashes with corporate greed and authentic self-expression battles against manufactured trends.<br>As they design stunning outfits and build their fashion empire, they face challenges from rival designers who will stop at nothing to steal their innovative ideas and crush their spirits.<br>Through runway shows in <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>Paris</span>, photo shoots in <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>Tokyo</span>, and fashion weeks across the globe, these young entrepreneurs learn that true success comes from staying true to your <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>passion</span> and never compromising your <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>friendship</span>.<br>",
     "DescriptionArabic": "<div dir='rtl'>في عالم <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>الأزياء الراقية</span> الساحر، تكتشف أربع صديقات مقربات لديهن شغف بالأناقة أن متجرهن الصغير في المدينة يحمل مفتاح تحقيق أحلامهن في الشهرة العالمية.<br><span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 8px #FFB6C1;'>كلوي</span> و<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>ياسمين</span> و<span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>جايد</span> و<span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>ساشا</span> يجب أن يتنقلن في عالم مسابقات الأزياء القاسي، حيث تتصادم الإبداعية مع الجشع الشركاتي ويحارب التعبير الذاتي الأصيل ضد الاتجاهات المصنعة.<br>بينما يصممن ملابس مذهلة ويبنين إمبراطورية الأزياء الخاصة بهن، يواجهن تحديات من مصممين منافسين لن يتوقفوا عند شيء لسرقة أفكارهن المبتكرة وسحق معنوياتهن.<br>من خلال عروض الأزياء في <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>باريس</span> وجلسات التصوير في <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>طوكيو</span> وأسابيع الأزياء حول العالم، تتعلم هؤلاء الرائدات الشابات أن النجاح الحقيقي يأتي من البقاء وفياً <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>لشغفك</span> وعدم التنازل أبداً عن <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>صداقتك</span>.<br></div>",
     "ReleaseDate": "2022-11-4",
@@ -132306,5 +132306,47 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1758089977325_0",
+    "Name": "Bratz Rhythm & Style",
+    "SortingName": "Bratz 02",
+    "Description": "<span style=\"color: #FF1493; font-weight: bold; text-shadow: 0 0 8px #FF1493;\">Spotlights blaze</span> across <span style=\"color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;\">Milan's runway</span> as <span style=\"color: #FF69B4; font-weight: bold; text-shadow: 0 0 8px #FF69B4;\">Cloe, Yasmin, Sasha, and Jade</span> strike their fiercest poses, ready to conquer the world's most glamorous stages.<br> From <span style=\"color: #FFB6C1; font-weight: bold; text-shadow: 0 0 8px #FFB6C1;\">Tokyo's neon streets</span> to <span style=\"color: #DDA0DD; font-weight: bold; text-shadow: 0 0 8px #DDA0DD;\">London's chic boutiques</span>, you'll customize every detail while facing off against the scheming <span style=\"color: #BA55D3; font-weight: bold; text-shadow: 0 0 8px #BA55D3;\">Burdine</span> and her <span style=\"color: #DA70D6; font-weight: bold; text-shadow: 0 0 8px #DA70D6;\">Tweevil Twins</span> in fierce dance battles.<br> Master <span style=\"color: #FF6EC7; font-weight: bold; text-shadow: 0 0 8px #FF6EC7;\">rhythm challenges</span>, design <span style=\"color: #EE82EE; font-weight: bold; text-shadow: 0 0 8px #EE82EE;\">show-stopping outfits</span>, and prove your squad has the <span style=\"color: #FFA0C9; font-weight: bold; text-shadow: 0 0 8px #FFA0C9;\">passion for fashion</span> to rule six stylish cities.<br> When the <span style=\"color: #FF86B1; font-weight: bold; text-shadow: 0 0 8px #FF86B1;\">music drops</span> and the <span style=\"color: #FFADD6; font-weight: bold; text-shadow: 0 0 8px #FFADD6;\">fashion wars</span> begin, only the fiercest will own the stage!<br>",
+    "DescriptionArabic": "<div dir='rtl'><span style=\"color: #FF1493; font-weight: bold; text-shadow: 0 0 8px #FF1493;\">الأضواء تتلألأ</span> فوق <span style=\"color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;\">منصات ميلانو</span> بينما <span style=\"color: #FF69B4; font-weight: bold; text-shadow: 0 0 8px #FF69B4;\">كلوي وياسمين وساشا وجيد</span> يتألقن بأقوى إطلالاتهن، مستعدات لغزو أرقى منصات العالم.<br> من <span style=\"color: #FFB6C1; font-weight: bold; text-shadow: 0 0 8px #FFB6C1;\">شوارع طوكيو المضيئة</span> إلى <span style=\"color: #DDA0DD; font-weight: bold; text-shadow: 0 0 8px #DDA0DD;\">متاجر لندن الأنيقة</span>، ستصممين كل تفصيلة بينما تواجهين المخططة الماكرة <span style=\"color: #BA55D3; font-weight: bold; text-shadow: 0 0 8px #BA55D3;\">بوردين</span> و<span style=\"color: #DA70D6; font-weight: bold; text-shadow: 0 0 8px #DA70D6;\">توأم التويفل</span> في معارك رقص محتدمة.<br> أتقني <span style=\"color: #FF6EC7; font-weight: bold; text-shadow: 0 0 8px #FF6EC7;\">تحديات الإيقاع</span>، صممي <span style=\"color: #EE82EE; font-weight: bold; text-shadow: 0 0 8px #EE82EE;\">أزياء خاطفة للأنظار</span>، وأثبتي أن فريقك يملك <span style=\"color: #FFA0C9; font-weight: bold; text-shadow: 0 0 8px #FFA0C9;\">شغف الموضة</span> للسيطرة على ست مدن عصرية.<br> عندما <span style=\"color: #FF86B1; font-weight: bold; text-shadow: 0 0 8px #FF86B1;\">تنطلق الموسيقى</span> وتبدأ <span style=\"color: #FFADD6; font-weight: bold; text-shadow: 0 0 8px #FFADD6;\">حروب الأزياء</span>، الأقوى فقط ستحكم المسرح!<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 65,
+    "BackgroundUrl": "https://archive.org/download/retromedia/Bratz%20Rhythm%20%26%20Style%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/retromedia/Bratz%20Rhythm%20%26%20Style%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=6Mep8W2dsYQ",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/retromusic/851b408c-2196-4a3f-9e9a-b2fcea6278ce.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Cozy"
+    ],
+    "DeveloperNames": [
+      "RecoTechnology S.L."
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP003",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "10GB",
+            "executable": "Bratz.exe",
+            "arguments": [],
+            "filename": "00079.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Need Music"
+    ]
   }
 ]
