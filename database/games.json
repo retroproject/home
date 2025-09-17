@@ -4306,7 +4306,7 @@
           {
             "identifier": "P0301",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 3",
+            "platform": "Sony PlayStation 3 PSN",
             "emulator": "RPCS3",
             "fileSize": "60MB",
             "romFile": "NPUB30928/USRDIR/EBOOT.BIN",
@@ -7190,7 +7190,7 @@
           {
             "identifier": "P0301",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 3",
+            "platform": "Sony PlayStation 3 PSN",
             "emulator": "RPCS3",
             "fileSize": "290MB",
             "romFile": "NPUB30034/USRDIR/EBOOT.BIN",
@@ -8847,7 +8847,7 @@
           {
             "identifier": "P0301",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 3",
+            "platform": "Sony PlayStation 3 PSN",
             "emulator": "RPCS3",
             "fileSize": "2GB",
             "romFile": "NPUA80358/USRDIR/EBOOT.BIN",
@@ -51530,7 +51530,7 @@
           {
             "identifier": "P0301",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 3",
+            "platform": "Sony PlayStation 3 PSN",
             "emulator": "RPCS3",
             "fileSize": "2GB",
             "romFile": "NPEB00879/USRDIR/EBOOT.BIN",
@@ -53492,7 +53492,7 @@
           {
             "identifier": "P0301",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 3",
+            "platform": "Sony PlayStation 3 PSN",
             "emulator": "RPCS3",
             "fileSize": "70MB",
             "romFile": "NPUB30051/USRDIR/EBOOT.BIN",
@@ -69523,7 +69523,7 @@
           {
             "identifier": "P0301",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 3",
+            "platform": "Sony PlayStation 3 PSN",
             "emulator": "RPCS3",
             "fileSize": "2GB",
             "romFile": "NPUA80719/USRDIR/EBOOT.BIN",
