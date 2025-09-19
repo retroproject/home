@@ -28897,7 +28897,7 @@
     "_id": "39c83f8b-ce4f-4937-be01-26928e482594",
     "GameId": "f8291dc47bde454e4ec8260a707d4b29",
     "Name": "The Legend of Heroes: Trails in the Sky",
-    "SortingName": "The Legend of Heroes 06",
+    "SortingName": "The Legend of Heroes 06.01",
     "Description": "In the peaceful kingdom of <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Liberl</span>, the spirited staff-wielding <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 6px #FFB6C1;'>Estelle Bright</span> dreams of following in her father <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Cassius's</span> footsteps as a bracer—a member of the guild that protects civilians and maintains peace.<br>When the mysterious swordsman <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Joshua Astray</span> arrives at their doorstep with no memory of his past, Estelle takes him under her wing as they begin their journey together as junior bracers, unaware that his forgotten identity holds the key to a conspiracy that threatens the entire continent.<br>As they investigate seemingly unrelated incidents across Liberl—from smuggling operations to terrorist attacks—Estelle and Joshua uncover the sinister machinations of <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Ouroboros</span>, a secret society manipulating events from the shadows with the help of advanced technology called <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Orbal Arts</span>.<br>In this tale of friendship and betrayal, where political intrigue meets ancient magic, Estelle must learn that some battles cannot be won with strength alone, and that the greatest enemy may be the person closest to your <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>heart</span>.",
     "DescriptionArabic": "<div dir='rtl'>في مملكة <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>ليبرل</span> المسالمة، تحلم <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 6px #FFB6C1;'>إستيل برايت</span> المفعمة بالحيوية والقاتلة بالعصا بأن تحذو حذو والدها <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>كاسيوس</span> وتصبح بريسر—عضواً في النقابة التي تحمي المدنيين وتحافظ على السلام.<br>عندما يصل فارس السيف الغامض <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>جوشوا أستراي</span> إلى عتبة بابهم بلا ذاكرة عن ماضيه، تأخذه إستيل تحت جناحها بينما يبدآن رحلتهما معاً كبريسرين مبتدئين، غير مدركين أن هويته المنسية تحمل مفتاح مؤامرة تهدد القارة بأكملها.<br>بينما يحققان في حوادث تبدو غير مترابطة عبر ليبرل—من عمليات تهريب إلى هجمات إرهابية—يكشف إستيل وجوشوا مخططات <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>أوروبوروس</span> الشيطانية، جمعية سرية تلاعب بالأحداث من الظلال بمساعدة تقنية متقدمة تُدعى <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>فنون الأوربال</span>.<br>في هذه الحكاية من الصداقة والخيانة، حيث تلتقي الدسائس السياسية مع السحر القديم، يجب على إستيل أن تتعلم أن بعض المعارك لا يمكن ربحها بالقوة وحدها، وأن أعظم عدو قد يكون الشخص الأقرب إلى <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>قلبك</span>.</div>",
     "ReleaseDate": "2004-6-24",
@@ -132529,6 +132529,46 @@
             "buildID": "18 September 2025",
             "arguments": [],
             "filename": "00085.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1758306908530_0",
+    "Name": "Trails In The Sky 1st Chapter Remake",
+    "SortingName": "The Legend of Heroes 06.02",
+    "Description": "Across the peaceful <span style='color: #4a90e2; font-weight: bold; text-shadow: 0 0 8px #4a90e2;'>Kingdom of Liberl</span>, young <span style='color: #ff6b9d; font-weight: bold; text-shadow: 0 0 8px #ff6b9d;'>Estelle Bright</span> wields her staff with determination, dreaming of becoming a renowned <span style='color: #50c878; font-weight: bold; text-shadow: 0 0 8px #50c878;'>bracer</span> alongside her enigmatic adoptive brother <span style='color: #9b59b6; font-weight: bold; text-shadow: 0 0 8px #9b59b6;'>Joshua</span>.<br>What begins as simple <span style='color: #f39c12; font-weight: bold; text-shadow: 0 0 8px #f39c12;'>guild missions</span> to prove their worth quickly spirals into a web of <span style='color: #e74c3c; font-weight: bold; text-shadow: 0 0 8px #e74c3c;'>political conspiracy</span> that threatens everything they hold dear.<br>Ancient <span style='color: #8e44ad; font-weight: bold; text-shadow: 0 0 8px #8e44ad;'>mysteries</span> awaken as <span style='color: #34495e; font-weight: bold; text-shadow: 0 0 8px #34495e;'>shadowy forces</span> manipulate the kingdom from within, testing the bonds between <span style='color: #e67e22; font-weight: bold; text-shadow: 0 0 8px #e67e22;'>family</span> and the courage of two young <span style='color: #16a085; font-weight: bold; text-shadow: 0 0 8px #16a085;'>peacekeepers</span>.<br>In this legendary tale of <span style='color: #f1c40f; font-weight: bold; text-shadow: 0 0 8px #f1c40f;'>adventure</span> and <span style='color: #c0392b; font-weight: bold; text-shadow: 0 0 8px #c0392b;'>betrayal</span>, every choice shapes the destiny of <span style='color: #2980b9; font-weight: bold; text-shadow: 0 0 8px #2980b9;'>Liberl</span> and reveals the true meaning of heroism.",
+    "DescriptionArabic": "<div dir='rtl'>في أرجاء <span style='color: #4a90e2; font-weight: bold; text-shadow: 0 0 8px #4a90e2;'>مملكة ليبرل</span> الهادئة، تحمل الشابة <span style='color: #ff6b9d; font-weight: bold; text-shadow: 0 0 8px #ff6b9d;'>إستيل برايت</span> عصاها بعزيمة راسخة، حالمة بأن تصبح <span style='color: #50c878; font-weight: bold; text-shadow: 0 0 8px #50c878;'>محاربة</span> مشهورة إلى جانب أخيها بالتبني الغامض <span style='color: #9b59b6; font-weight: bold; text-shadow: 0 0 8px #9b59b6;'>جوشوا</span>.<br>ما يبدأ كـ<span style='color: #f39c12; font-weight: bold; text-shadow: 0 0 8px #f39c12;'>مهام بسيطة</span> لإثبات جدارتهما، سرعان ما يتحول إلى شبكة معقدة من <span style='color: #e74c3c; font-weight: bold; text-shadow: 0 0 8px #e74c3c;'>المؤامرات السياسية</span> التي تهدد كل ما يحبانه.<br>تستيقظ <span style='color: #8e44ad; font-weight: bold; text-shadow: 0 0 8px #8e44ad;'>أسرار قديمة</span> بينما تتلاعب <span style='color: #34495e; font-weight: bold; text-shadow: 0 0 8px #34495e;'>قوى الظلام</span> بالمملكة من الداخل، واختبار الروابط بين <span style='color: #e67e22; font-weight: bold; text-shadow: 0 0 8px #e67e22;'>العائلة</span> وشجاعة <span style='color: #16a085; font-weight: bold; text-shadow: 0 0 8px #16a085;'>حارسين شابين</span>.<br>في هذه الحكاية الأسطورية المليئة بـ<span style='color: #f1c40f; font-weight: bold; text-shadow: 0 0 8px #f1c40f;'>المغامرة</span> و<span style='color: #c0392b; font-weight: bold; text-shadow: 0 0 8px #c0392b;'>الخيانة</span>، كل اختيار يشكل مصير <span style='color: #2980b9; font-weight: bold; text-shadow: 0 0 8px #2980b9;'>ليبرل</span> ويكشف المعنى الحقيقي للبطولة.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 100,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Trails%20in%20the%20Sky%201st%20Chapter%20Remake%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Trails%20in%20the%20Sky%201st%20Chapter%20Remake%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=DQrnrg93QsY",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Trails%20in%20the%20Sky%201st%20Chapter%20Remake%20Sophisticated%20Fight.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "JRPG"
+    ],
+    "DeveloperNames": [
+      "Nihon Falcom"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP003",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "35GB",
+            "executable": "sora_1st.exe",
+            "buildID": "19 September 2025",
+            "arguments": [],
+            "filename": "00086.zip"
           }
         ]
       }
