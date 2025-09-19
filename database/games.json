@@ -7190,7 +7190,7 @@
           {
             "identifier": "P0301",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 3 PSN",
+            "platform": "Sony PlayStation 3",
             "emulator": "RPCS3",
             "fileSize": "290MB",
             "romFile": "NPUB30034/USRDIR/EBOOT.BIN",
@@ -89106,7 +89106,7 @@
   {
     "_id": "b299f943-fa3d-4d51-802b-3745dc679504",
     "GameId": "80aabe73-837f-498b-913c-fad197c1ff3d",
-    "Name": "Baroque",
+    "Name": "Baroque Remake",
     "SortingName": "Baroque 02",
     "Description": "A nameless protagonist awakens in a twisted post-apocalyptic world where reality has been shattered by a catastrophic event called the <span style='color: #8b0000; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>Blaze</span>.<br>Haunted by fragmented memories and guided by the cryptic <span style='color: #ff69b4; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>Archangel</span>, he must descend into the nightmarish <span style='color: #9370db; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>Neuro Tower</span> to confront distorted beings born from human consciousness.<br>Each death strips away his possessions but reveals deeper truths about the <span style='color: #dc143c; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>Absolute God</span> and his role in humanity's transformation into grotesque <span style='color: #32cd32; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>Meta-Beings</span>.<br>The horrifying revelation emerges that he himself may be responsible for the world's destruction, as the boundary between <span style='color: #ffd700; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>guilt</span>, <span style='color: #4169e1; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>redemption</span>, and <span style='color: #ff8c00; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>madness</span> dissolves into existential <span style='color: #00ced1; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>terror</span>.",
     "DescriptionArabic": "<div dir='rtl'>بطل مجهول الهوية يستيقظ في عالم ملتو ما بعد كارثي حيث تحطم الواقع بحدث كارثي يُدعى <span style='color: #8b0000; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>البليز</span>.<br>مطارد بذكريات مجزأة وموجه بـ<span style='color: #ff69b4; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>رئيس الملائكة</span> الغامض، عليه النزول إلى <span style='color: #9370db; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>برج النيورو</span> الكابوسي لمواجهة كائنات مشوهة وُلدت من الوعي البشري.<br>كل موت يجرده من ممتلكاته لكن يكشف حقائق أعمق حول <span style='color: #dc143c; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>الإله المطلق</span> ودوره في تحول البشرية إلى <span style='color: #32cd32; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>كائنات ما وراء</span> مروعة.<br>الكشف المرعب يظهر أنه قد يكون هو نفسه مسؤولاً عن دمار العالم، حيث تذوب الحدود بين <span style='color: #ffd700; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>الذنب</span> و<span style='color: #4169e1; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>الخلاص</span> و<span style='color: #ff8c00; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>الجنون</span> في <span style='color: #00ced1; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>رعب</span> وجودي.</div>",
@@ -129301,9 +129301,7 @@
     "DeveloperNames": [
       "Clifftop Games"
     ],
-    "Tags": [
-      "New"
-    ],
+    "Tags": [],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -130142,9 +130140,7 @@
     "DeveloperNames": [
       "Spike Chunsoft"
     ],
-    "Tags": [
-      "New"
-    ],
+    "Tags": [],
     "downloadInfo": {
       "Sony PlayStation 3": {
         "versions": [
@@ -130190,9 +130186,7 @@
     "DeveloperNames": [
       "Ganbarion"
     ],
-    "Tags": [
-      "New"
-    ],
+    "Tags": [],
     "downloadInfo": {
       "Nintendo DS": {
         "versions": [
@@ -130370,9 +130364,7 @@
     "DeveloperNames": [
       "Nightdive Studios"
     ],
-    "Tags": [
-      "New"
-    ],
+    "Tags": [],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -130458,9 +130450,7 @@
     "DeveloperNames": [
       "Telltale Games"
     ],
-    "Tags": [
-      "New"
-    ],
+    "Tags": [],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -130502,9 +130492,7 @@
     "DeveloperNames": [
       "Telltale Games"
     ],
-    "Tags": [
-      "New"
-    ],
+    "Tags": [],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -130733,9 +130721,7 @@
     "DeveloperNames": [
       "Sega"
     ],
-    "Tags": [
-      "New"
-    ],
+    "Tags": [],
     "downloadInfo": {
       "Sony PlayStation 3 PSN": {
         "versions": [
@@ -132348,5 +132334,204 @@
     "Tags": [
       "Need Music"
     ]
+  },
+  {
+    "_id": "game_1758272065222_0",
+    "Name": "Dying Light The Beast",
+    "SortingName": "Dying Light 03",
+    "Description": "<span style=\"color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;\">Kyle Crane</span> awakens in chains, his veins burning with <span style=\"color: #FF4500; font-weight: bold; text-shadow: 0 0 8px #FF4500;\">zombie DNA</span> after years of the <span style=\"color: #B22222; font-weight: bold; text-shadow: 0 0 8px #B22222;\">Baron's cruel experiments</span> that turned him into something neither human nor undead.<br> Escaping into the sprawling <span style=\"color: #2F4F4F; font-weight: bold; text-shadow: 0 0 8px #2F4F4F;\">Castor Woods</span>, he must master the <span style=\"color: #800020; font-weight: bold; text-shadow: 0 0 8px #800020;\">beast within</span> while hunting through tourist towns, swamps, and farmlands where <span style=\"color: #CD5C5C; font-weight: bold; text-shadow: 0 0 8px #CD5C5C;\">infected hordes</span> grow deadlier as <span style=\"color: #483D8B; font-weight: bold; text-shadow: 0 0 8px #483D8B;\">night falls</span>.<br> Every brutal encounter pushes Crane deeper into his <span style=\"color: #8B4513; font-weight: bold; text-shadow: 0 0 8px #8B4513;\">monstrous transformation</span>, forcing him to balance his fading humanity against the <span style=\"color: #A52A2A; font-weight: bold; text-shadow: 0 0 8px #A52A2A;\">savage power</span> needed for revenge.<br> When the <span style=\"color: #696969; font-weight: bold; text-shadow: 0 0 8px #696969;\">infection spreads</span> and the <span style=\"color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;\">beast takes control</span>, will Crane become the region's savior or its most terrifying predator?<br>",
+    "DescriptionArabic": "<div dir='rtl'><span style=\"color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;\">كايل كرين</span> يستيقظ مقيداً بالسلاسل، وعروقه تحترق بـ<span style=\"color: #FF4500; font-weight: bold; text-shadow: 0 0 8px #FF4500;\">الحمض النووي للزومبي</span> بعد سنوات من <span style=\"color: #B22222; font-weight: bold; text-shadow: 0 0 8px #B22222;\">تجارب البارون القاسية</span> التي حولته إلى كائن ليس بشرياً ولا ميتاً حياً.<br> هارباً إلى <span style=\"color: #2F4F4F; font-weight: bold; text-shadow: 0 0 8px #2F4F4F;\">غابات كاستور</span> الشاسعة، عليه أن يسيطر على <span style=\"color: #800020; font-weight: bold; text-shadow: 0 0 8px #800020;\">الوحش بداخله</span> بينما يصطاد عبر المدن السياحية والمستنقعات والأراضي الزراعية حيث <span style=\"color: #CD5C5C; font-weight: bold; text-shadow: 0 0 8px #CD5C5C;\">جحافل المصابين</span> تصبح أكثر فتكاً عندما <span style=\"color: #483D8B; font-weight: bold; text-shadow: 0 0 8px #483D8B;\">يحل الليل</span>.<br> كل مواجهة وحشية تدفع كرين أعمق نحو <span style=\"color: #8B4513; font-weight: bold; text-shadow: 0 0 8px #8B4513;\">تحوله الرهيب</span>، مجبراً إياه على الموازنة بين إنسانيته المتلاشية و<span style=\"color: #A52A2A; font-weight: bold; text-shadow: 0 0 8px #A52A2A;\">القوة الهمجية</span> اللازمة للانتقام.<br> عندما <span style=\"color: #696969; font-weight: bold; text-shadow: 0 0 8px #696969;\">تنتشر العدوى</span> و<span style=\"color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;\">يسيطر الوحش</span>، هل سيصبح كرين منقذ المنطقة أم أكثر مفترسيها رعباً؟<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 85,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Dying%20Light%20The%20Beast.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Dying%20Light%20The%20Beast%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=qsqBCs7o5go",
+    "videoStart": 2.6,
+    "videoEnd": 93,
+    "MusicUrl": "https://archive.org/download/RPRM001/Dying%20Light%20The%20Beast%20A%20Changed%20Man.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Open World"
+    ],
+    "DeveloperNames": [
+      "Techland"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP003",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "60GB",
+            "executable": "ph_ft\\work\\bin\\x64\\DyingLightGame_TheBeast_x64_rwdi.exe",
+            "buildID": "18 September 2025",
+            "arguments": [],
+            "filename": "00081.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1758272065222_1",
+    "Name": "Garfield Kart 2 All You Can Drift",
+    "SortingName": "",
+    "Description": "<span style=\"color: #FF8C00; font-weight: bold; text-shadow: 0 0 8px #FF8C00;\">Garfield</span> revs his engine as lasagna-scented exhaust fills the air, ready to leave <span style=\"color: #FFA500; font-weight: bold; text-shadow: 0 0 8px #FFA500;\">Odie, Jon, and Nermal</span> in his dust across <span style=\"color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;\">wacky circuits</span> spanning three outrageous worlds.<br> From the shadowy streets of <span style=\"color: #4B0082; font-weight: bold; text-shadow: 0 0 8px #4B0082;\">Noir City</span> to the treasure-filled <span style=\"color: #8B4513; font-weight: bold; text-shadow: 0 0 8px #8B4513;\">Pirate Coves</span> and dusty <span style=\"color: #D2691E; font-weight: bold; text-shadow: 0 0 8px #D2691E;\">Western trails</span>, eight racers battle with <span style=\"color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347;\">ridiculous power-ups</span> in chaotic multiplayer mayhem.<br> <span style=\"color: #FF4500; font-weight: bold; text-shadow: 0 0 8px #FF4500;\">Customize your kart</span>, master the <span style=\"color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;\">drift mechanics</span>, and unleash <span style=\"color: #B22222; font-weight: bold; text-shadow: 0 0 8px #B22222;\">lasagna-fueled boosts</span> to claim victory in this gloriously absurd racing showdown.<br> When the <span style=\"color: #CD853F; font-weight: bold; text-shadow: 0 0 8px #CD853F;\">checkered flag</span> waves, only one cat's smug grin will grace the podium!<br>",
+    "DescriptionArabic": "<div dir='rtl'><span style=\"color: #FF8C00; font-weight: bold; text-shadow: 0 0 8px #FF8C00;\">غارفيلد</span> يشغل محركه بينما عادم برائحة اللازانيا يملأ الهواء، مستعداً لترك <span style=\"color: #FFA500; font-weight: bold; text-shadow: 0 0 8px #FFA500;\">أودي وجون ونيرمال</span> في غباره عبر <span style=\"color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;\">حلبات مجنونة</span> تمتد عبر ثلاثة عوالم خيالية.<br> من شوارع <span style=\"color: #4B0082; font-weight: bold; text-shadow: 0 0 8px #4B0082;\">مدينة النوار</span> المظلمة إلى <span style=\"color: #8B4513; font-weight: bold; text-shadow: 0 0 8px #8B4513;\">خلجان القراصنة</span> المليئة بالكنوز ومسارات <span style=\"color: #D2691E; font-weight: bold; text-shadow: 0 0 8px #D2691E;\">الغرب المتربة</span>، يتنافس ثمانية متسابقين بـ<span style=\"color: #FF6347; font-weight: bold; text-shadow: 0 0 8px #FF6347;\">قوى خارقة سخيفة</span> في فوضى اللعب الجماعي.<br> <span style=\"color: #FF4500; font-weight: bold; text-shadow: 0 0 8px #FF4500;\">خصص عربتك</span>، أتقن <span style=\"color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;\">آليات الانجراف</span>، وأطلق <span style=\"color: #B22222; font-weight: bold; text-shadow: 0 0 8px #B22222;\">دفعات مشحونة باللازانيا</span> لتحقق النصر في معركة السباق الكوميدية هذه.<br> عندما يُرفع <span style=\"color: #CD853F; font-weight: bold; text-shadow: 0 0 8px #CD853F;\">العلم الشطرنجي</span>، ابتسامة قط واحد فقط ستزين منصة التتويج!<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 65,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Garfield%20Kart%202%20All%20You%20Can%20Drift%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Garfield%20Kart%202%20All%20You%20Can%20Drift%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=aPF2WQ42sa0",
+    "videoStart": 2.3,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Garfield%20Kart%202%20All%20You%20Can%20Drift%20Song.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Racing"
+    ],
+    "DeveloperNames": [
+      "Eden Games"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP003",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "10 GB",
+            "executable": "GK2.exe",
+            "buildID": "10 September 2025",
+            "arguments": [],
+            "filename": "00082.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1758272065223_2",
+    "Name": "Jazz Jackrabbit",
+    "SortingName": "Jazz Jackrabbit 01",
+    "Description": "<span style=\"color: #00FF00; font-weight: bold; text-shadow: 0 0 8px #00FF00;\">Jazz Jackrabbit</span> blasts through the galaxy with his <span style=\"color: #FF0000; font-weight: bold; text-shadow: 0 0 8px #FF0000;\">LFG-9000 gun</span>, determined to rescue <span style=\"color: #FF69B4; font-weight: bold; text-shadow: 0 0 8px #FF69B4;\">Princess Eva Earlong</span> from the clutches of the evil <span style=\"color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;\">Devan Shell</span> and his turtle army.<br> Racing through <span style=\"color: #00CED1; font-weight: bold; text-shadow: 0 0 8px #00CED1;\">psychedelic planets</span>, <span style=\"color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;\">medieval castles</span>, and <span style=\"color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;\">futuristic cities</span>, this green hare combines <span style=\"color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;\">lightning speed</span> with heavy firepower in a nonstop adrenaline rush.<br> Every level explodes with <span style=\"color: #FF4500; font-weight: bold; text-shadow: 0 0 8px #FF4500;\">secret passages</span>, <span style=\"color: #00BFFF; font-weight: bold; text-shadow: 0 0 8px #00BFFF;\">power-ups</span>, and increasingly bizarre enemies as Jazz fights to save <span style=\"color: #FFA500; font-weight: bold; text-shadow: 0 0 8px #FFA500;\">planet Carrotus</span> from reptilian domination.<br> This rabbit's got attitude, ammunition, and absolutely no patience for slow-moving turtles!<br>",
+    "DescriptionArabic": "<div dir='rtl'><span style=\"color: #00FF00; font-weight: bold; text-shadow: 0 0 8px #00FF00;\">جاز الأرنب</span> ينطلق عبر المجرة بسلاحه <span style=\"color: #FF0000; font-weight: bold; text-shadow: 0 0 8px #FF0000;\">إل إف جي-9000</span>، مصمماً على إنقاذ <span style=\"color: #FF69B4; font-weight: bold; text-shadow: 0 0 8px #FF69B4;\">الأميرة إيفا إيرلونغ</span> من قبضة الشرير <span style=\"color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;\">ديفان شل</span> وجيش السلاحف خاصته.<br> متسابقاً عبر <span style=\"color: #00CED1; font-weight: bold; text-shadow: 0 0 8px #00CED1;\">كواكب مخدرة</span> و<span style=\"color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;\">قلاع القرون الوسطى</span> و<span style=\"color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;\">مدن المستقبل</span>، يجمع هذا الأرنب الأخضر بين <span style=\"color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;\">سرعة البرق</span> والقوة النارية الثقيلة في اندفاع أدرينالين متواصل.<br> كل مستوى ينفجر بـ<span style=\"color: #FF4500; font-weight: bold; text-shadow: 0 0 8px #FF4500;\">ممرات سرية</span> و<span style=\"color: #00BFFF; font-weight: bold; text-shadow: 0 0 8px #00BFFF;\">تعزيزات قوة</span> وأعداء غريبين بشكل متزايد بينما يقاتل جاز لإنقاذ <span style=\"color: #FFA500; font-weight: bold; text-shadow: 0 0 8px #FFA500;\">كوكب كاروتس</span> من الهيمنة الزاحفة.<br> هذا الأرنب يملك الموقف والذخيرة، ولا صبر له إطلاقاً مع السلاحف البطيئة!<br></div>",
+    "ReleaseDate": "1994",
+    "CriticScore": 78,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Jazz%20Jackrabbit%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Jazz%20Jackrabbit%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Jazz%20Jackrabbit%20Main%20Menu.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Platformer"
+    ],
+    "DeveloperNames": [
+      "Epic Games"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP003",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "40 MB",
+            "executable": "JAZZ.EXE",
+            "buildID": "HISCORES",
+            "arguments": [],
+            "filename": "00083.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1758272065223_3",
+    "Name": "Jazz Jackrabbit 2 The Secret Files",
+    "SortingName": "Jazz Jackrabbit 02",
+    "Description": "<span style=\"color: #00FF00; font-weight: bold; text-shadow: 0 0 8px #00FF00;\">Jazz and Spaz</span> discover hidden dimensions beyond <span style=\"color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;\">Carrotus</span> when <span style=\"color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;\">Devan Shell's</span> latest scheme tears open portals to <span style=\"color: #9400D3; font-weight: bold; text-shadow: 0 0 8px #9400D3;\">secret realms</span> filled with untold dangers.<br> Joined by <span style=\"color: #FF69B4; font-weight: bold; text-shadow: 0 0 8px #FF69B4;\">Lori</span>, the trio races through <span style=\"color: #00CED1; font-weight: bold; text-shadow: 0 0 8px #00CED1;\">Christmas villages</span>, <span style=\"color: #FF4500; font-weight: bold; text-shadow: 0 0 8px #FF4500;\">haunted houses</span>, and <span style=\"color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;\">Easter islands</span> while collecting mysterious <span style=\"color: #FFB6C1; font-weight: bold; text-shadow: 0 0 8px #FFB6C1;\">gems</span> that hold reality together.<br> Each brother brings unique abilities as they blast through <span style=\"color: #1E90FF; font-weight: bold; text-shadow: 0 0 8px #1E90FF;\">time-twisted levels</span>, facing <span style=\"color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;\">mutated enemies</span> and uncovering the truth behind <span style=\"color: #8A2BE2; font-weight: bold; text-shadow: 0 0 8px #8A2BE2;\">ancient prophecies</span>.<br> The secret files reveal dimensions where holidays collide, physics breaks, and only the fastest rabbits survive!<br>",
+    "DescriptionArabic": "<div dir='rtl'><span style=\"color: #00FF00; font-weight: bold; text-shadow: 0 0 8px #00FF00;\">جاز وسباز</span> يكتشفان أبعاداً خفية وراء <span style=\"color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;\">كاروتس</span> عندما تمزق خطة <span style=\"color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;\">ديفان شل</span> الأخيرة بوابات نحو <span style=\"color: #9400D3; font-weight: bold; text-shadow: 0 0 8px #9400D3;\">عوالم سرية</span> مليئة بأخطار لا توصف.<br> بصحبة <span style=\"color: #FF69B4; font-weight: bold; text-shadow: 0 0 8px #FF69B4;\">لوري</span>، ينطلق الثلاثي عبر <span style=\"color: #00CED1; font-weight: bold; text-shadow: 0 0 8px #00CED1;\">قرى الكريسماس</span> و<span style=\"color: #FF4500; font-weight: bold; text-shadow: 0 0 8px #FF4500;\">البيوت المسكونة</span> و<span style=\"color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;\">جزر عيد الفصح</span> بينما يجمعون <span style=\"color: #FFB6C1; font-weight: bold; text-shadow: 0 0 8px #FFB6C1;\">جواهر غامضة</span> تحافظ على تماسك الواقع.<br> كل أخ يجلب قدرات فريدة وهم ينطلقون عبر <span style=\"color: #1E90FF; font-weight: bold; text-shadow: 0 0 8px #1E90FF;\">مستويات ملتوية زمنياً</span>، يواجهون <span style=\"color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;\">أعداء متحولين</span> ويكشفون الحقيقة وراء <span style=\"color: #8A2BE2; font-weight: bold; text-shadow: 0 0 8px #8A2BE2;\">النبوءات القديمة</span>.<br> الملفات السرية تكشف أبعاداً حيث تتصادم الأعياد، وتنكسر قوانين الفيزياء، وينجو الأرانب الأسرع فقط!<br></div>",
+    "ReleaseDate": "1999",
+    "CriticScore": 70,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Jazz%20Jackrabbit%202%20The%20Secret%20Files%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Jazz%20Jackrabbit%202%20The%20Secret%20Files%20Cover.png",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Jazz%20JackRabbit%202%20The%20Secret%20Files%20City%201.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Platformer"
+    ],
+    "DeveloperNames": [
+      "Epic Games"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP003",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "80 MB",
+            "executable": "Jazz2.exe",
+            "arguments": [],
+            "filename": "00084.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1758272065223_4",
+    "Name": "Towa And The Guardians Of The Sacred Tree",
+    "SortingName": "",
+    "Description": "<span style=\"color: #FF69B4; font-weight: bold; text-shadow: 0 0 8px #FF69B4;\">Priestess Towa</span> stands before the wilting <span style=\"color: #228B22; font-weight: bold; text-shadow: 0 0 8px #228B22;\">Sacred Tree</span> as <span style=\"color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;\">Magatsu's darkness</span> spreads like poison through <span style=\"color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;\">Shinju Village</span>, threatening to corrupt everything she holds dear.<br> Wielding <span style=\"color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;\">enchanted swords</span> forged from bonds with <span style=\"color: #00CED1; font-weight: bold; text-shadow: 0 0 8px #00CED1;\">eight guardian spirits</span>, she dances through <span style=\"color: #FF8C00; font-weight: bold; text-shadow: 0 0 8px #FF8C00;\">perilous landscapes</span> where beauty masks deadly threats.<br> Each timeline reveals new paths as Towa strengthens <span style=\"color: #FF1493; font-weight: bold; text-shadow: 0 0 8px #FF1493;\">village relationships</span>, crafts <span style=\"color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;\">legendary weapons</span>, and uncovers the truth behind the <span style=\"color: #8A2BE2; font-weight: bold; text-shadow: 0 0 8px #8A2BE2;\">ancient curse</span>.<br> When <span style=\"color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;\">Magatsu's forces</span> strike and the <span style=\"color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;\">Sacred Tree's light</span> flickers, only courage and companionship can determine Shinju's fate!<br>",
+    "DescriptionArabic": "<div dir='rtl'><span style=\"color: #FF69B4; font-weight: bold; text-shadow: 0 0 8px #FF69B4;\">الكاهنة توا</span> تقف أمام <span style=\"color: #228B22; font-weight: bold; text-shadow: 0 0 8px #228B22;\">الشجرة المقدسة</span> الذابلة بينما ينتشر <span style=\"color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;\">ظلام ماغاتسو</span> كالسم عبر <span style=\"color: #FFD700; font-weight: bold; text-shadow: 0 0 8px #FFD700;\">قرية شينجو</span>، مهدداً بإفساد كل ما تحبه.<br> حاملة <span style=\"color: #9370DB; font-weight: bold; text-shadow: 0 0 8px #9370DB;\">سيوفاً مسحورة</span> مصاغة من روابطها مع <span style=\"color: #00CED1; font-weight: bold; text-shadow: 0 0 8px #00CED1;\">ثمانية أرواح حارسة</span>، ترقص عبر <span style=\"color: #FF8C00; font-weight: bold; text-shadow: 0 0 8px #FF8C00;\">مناظر خطرة</span> حيث يخفي الجمال تهديدات قاتلة.<br> كل خط زمني يكشف مسارات جديدة بينما تقوي توا <span style=\"color: #FF1493; font-weight: bold; text-shadow: 0 0 8px #FF1493;\">علاقات القرية</span>، وتصنع <span style=\"color: #4169E1; font-weight: bold; text-shadow: 0 0 8px #4169E1;\">أسلحة أسطورية</span>، وتكشف الحقيقة وراء <span style=\"color: #8A2BE2; font-weight: bold; text-shadow: 0 0 8px #8A2BE2;\">اللعنة القديمة</span>.<br> عندما تضرب <span style=\"color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;\">قوات ماغاتسو</span> ويخفت <span style=\"color: #32CD32; font-weight: bold; text-shadow: 0 0 8px #32CD32;\">نور الشجرة المقدسة</span>، الشجاعة والرفقة وحدهما يحددان مصير شينجو!<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Towa%20and%20the%20Guardians%20of%20the%20Sacred%20Tree%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Towa%20and%20the%20Guardians%20of%20the%20Sacred%20Tree%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=z3dGk-f5hRQ",
+    "videoStart": 14,
+    "videoEnd": 79,
+    "MusicUrl": "https://archive.org/download/RPRM001/Towa%20and%20the%20Guardians%20of%20the%20Sacred%20Tree%20Forge%20Your%20Path%20Trailer.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "Brownies Inc."
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP003",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "10GB",
+            "executable": "Towa and the Guardians of the Sacred Tree.exe",
+            "buildID": "18 September 2025",
+            "arguments": [],
+            "filename": "00085.zip"
+          }
+        ]
+      }
+    }
   }
 ]
