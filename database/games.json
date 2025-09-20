@@ -132573,5 +132573,85 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1758385585266_0",
+    "Name": "Hylics",
+    "SortingName": "Hylics 01",
+    "Description": "Through <span style='color: #ff6b9d; font-weight: bold; text-shadow: 0 0 8px #ff6b9d;'>claymation dreamscapes</span> of impossible geometry, the crescent-headed warrior <span style='color: #9b59b6; font-weight: bold; text-shadow: 0 0 8px #9b59b6;'>Wayne</span> awakens to a world where <span style='color: #f39c12; font-weight: bold; text-shadow: 0 0 8px #f39c12;'>flesh</span> replaces health and <span style='color: #50c878; font-weight: bold; text-shadow: 0 0 8px #50c878;'>will</span> fuels magic in this <span style='color: #e74c3c; font-weight: bold; text-shadow: 0 0 8px #e74c3c;'>posthuman archipelago</span>.<br>The moon tyrant <span style='color: #8e44ad; font-weight: bold; text-shadow: 0 0 8px #8e44ad;'>Gibby</span> corrupts reality itself, turning conversations into <span style='color: #34495e; font-weight: bold; text-shadow: 0 0 8px #34495e;'>nonsensical gibberish</span> while <span style='color: #16a085; font-weight: bold; text-shadow: 0 0 8px #16a085;'>ambulant skulls</span> patrol pastel wastelands.<br>Joined by the cup-obsessed archaeologist <span style='color: #e67e22; font-weight: bold; text-shadow: 0 0 8px #e67e22;'>Dedusmuln</span> and the ancient knight <span style='color: #2980b9; font-weight: bold; text-shadow: 0 0 8px #2980b9;'>Pongorma</span>, Wayne battles with <span style='color: #f1c40f; font-weight: bold; text-shadow: 0 0 8px #f1c40f;'>frozen burritos</span> and learns <span style='color: #c0392b; font-weight: bold; text-shadow: 0 0 8px #c0392b;'>gestures</span> from television sets.<br>In this <span style='color: #95a5a6; font-weight: bold; text-shadow: 0 0 8px #95a5a6;'>surreal odyssey</span>, death merely warps you to an <span style='color: #d35400; font-weight: bold; text-shadow: 0 0 8px #d35400;'>afterlife</span> of endless possibility.",
+    "DescriptionArabic": "<div dir='rtl'>عبر <span style='color: #ff6b9d; font-weight: bold; text-shadow: 0 0 8px #ff6b9d;'>مناظر الطين الحالمة</span> ذات الهندسة المستحيلة، يستيقظ المحارب هلالي الرأس <span style='color: #9b59b6; font-weight: bold; text-shadow: 0 0 8px #9b59b6;'>واين</span> في عالم حيث <span style='color: #f39c12; font-weight: bold; text-shadow: 0 0 8px #f39c12;'>اللحم</span> يحل محل الصحة و<span style='color: #50c878; font-weight: bold; text-shadow: 0 0 8px #50c878;'>الإرادة</span> تغذي السحر في هذا <span style='color: #e74c3c; font-weight: bold; text-shadow: 0 0 8px #e74c3c;'>الأرخبيل ما بعد البشري</span>.<br>الطاغية القمري <span style='color: #8e44ad; font-weight: bold; text-shadow: 0 0 8px #8e44ad;'>غيبي</span> يفسد الواقع نفسه، محولاً المحادثات إلى <span style='color: #34495e; font-weight: bold; text-shadow: 0 0 8px #34495e;'>هراء لا معنى له</span> بينما تدوّر <span style='color: #16a085; font-weight: bold; text-shadow: 0 0 8px #16a085;'>الجماجم المتنقلة</span> في الأراضي الباستيلية المقفرة.<br>ينضم إليه عالم الآثار المهووس بالأكواب <span style='color: #e67e22; font-weight: bold; text-shadow: 0 0 8px #e67e22;'>ديدوسمولن</span> والفارس القديم <span style='color: #2980b9; font-weight: bold; text-shadow: 0 0 8px #2980b9;'>بونغورما</span>، يحارب واين بـ<span style='color: #f1c40f; font-weight: bold; text-shadow: 0 0 8px #f1c40f;'>البوريتو المجمد</span> ويتعلم <span style='color: #c0392b; font-weight: bold; text-shadow: 0 0 8px #c0392b;'>الإيماءات</span> من أجهزة التلفزيون.<br>في هذه <span style='color: #95a5a6; font-weight: bold; text-shadow: 0 0 8px #95a5a6;'>الأوديسة السوريالية</span>، الموت مجرد انتقال إلى <span style='color: #d35400; font-weight: bold; text-shadow: 0 0 8px #d35400;'>حياة أخرى</span> من الإمكانيات اللامحدودة.</div>",
+    "ReleaseDate": "2015",
+    "CriticScore": 75,
+    "Length": 5,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Hylics%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Hylics%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=TgNUgeEryCM&list=RDTgNUgeEryCM&start_radio=1",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Hylics%20April%20Guitar.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "RPG"
+    ],
+    "DeveloperNames": [
+      "Mason Lindroth"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP003",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "150MB",
+            "executable": "Game.exe",
+            "arguments": [],
+            "filename": "00087.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1758385585266_1",
+    "Name": "Hylics 2",
+    "SortingName": "Hylics 02",
+    "Description": "The <span style='color: #9b59b6; font-weight: bold; text-shadow: 0 0 8px #9b59b6;'>Wayne species</span> multiplies across reality as the defeated tyrant <span style='color: #8e44ad; font-weight: bold; text-shadow: 0 0 8px #8e44ad;'>Gibby's</span> loyal minions seek to <span style='color: #e74c3c; font-weight: bold; text-shadow: 0 0 8px #e74c3c;'>resurrect</span> their <span style='color: #34495e; font-weight: bold; text-shadow: 0 0 8px #34495e;'>platinum-silver master</span> in this expanded <span style='color: #ff6b9d; font-weight: bold; text-shadow: 0 0 8px #ff6b9d;'>claymation universe</span>.<br>Through <span style='color: #16a085; font-weight: bold; text-shadow: 0 0 8px #16a085;'>3D platforming landscapes</span> and <span style='color: #f39c12; font-weight: bold; text-shadow: 0 0 8px #f39c12;'>first-person dungeons</span>, Wayne assembles a <span style='color: #50c878; font-weight: bold; text-shadow: 0 0 8px #50c878;'>psychedelic crew</span> to prevent the ultimate <span style='color: #c0392b; font-weight: bold; text-shadow: 0 0 8px #c0392b;'>reconstitution</span>.<br>Enhanced with <span style='color: #2980b9; font-weight: bold; text-shadow: 0 0 8px #2980b9;'>stop-motion artistry</span> and a <span style='color: #e67e22; font-weight: bold; text-shadow: 0 0 8px #e67e22;'>funk-laden soundtrack</span>, this surreal sequel transforms <span style='color: #f1c40f; font-weight: bold; text-shadow: 0 0 8px #f1c40f;'>turn-based combat</span> into a <span style='color: #95a5a6; font-weight: bold; text-shadow: 0 0 8px #95a5a6;'>clay-sculpted fever dream</span>.<br>In Mason Lindroth's <span style='color: #d35400; font-weight: bold; text-shadow: 0 0 8px #d35400;'>expanded vision</span>, reality bends further as the <span style='color: #27ae60; font-weight: bold; text-shadow: 0 0 8px #27ae60;'>absurd archipelago</span> faces its most <span style='color: #8b4513; font-weight: bold; text-shadow: 0 0 8px #8b4513;'>bizarre resurrection</span> yet.",
+    "DescriptionArabic": "<div dir='rtl'>تتكاثر <span style='color: #9b59b6; font-weight: bold; text-shadow: 0 0 8px #9b59b6;'>فصيلة واين</span> عبر الواقع بينما يسعى أتباع الطاغية المهزوم <span style='color: #8e44ad; font-weight: bold; text-shadow: 0 0 8px #8e44ad;'>غيبي</span> المخلصون إلى <span style='color: #e74c3c; font-weight: bold; text-shadow: 0 0 8px #e74c3c;'>إحياء</span> <span style='color: #34495e; font-weight: bold; text-shadow: 0 0 8px #34495e;'>سيدهم البلاتيني الفضي</span> في هذا <span style='color: #ff6b9d; font-weight: bold; text-shadow: 0 0 8px #ff6b9d;'>الكون الطيني المتوسع</span>.<br>عبر <span style='color: #16a085; font-weight: bold; text-shadow: 0 0 8px #16a085;'>مناظر القفز ثلاثية الأبعاد</span> و<span style='color: #f39c12; font-weight: bold; text-shadow: 0 0 8px #f39c12;'>الأبراج المحصونة بالمنظور الأول</span>، يجمع واين <span style='color: #50c878; font-weight: bold; text-shadow: 0 0 8px #50c878;'>طاقماً سايكيديلياً</span> لمنع <span style='color: #c0392b; font-weight: bold; text-shadow: 0 0 8px #c0392b;'>الإعادة التكوينية</span> النهائية.<br>معزز بـ<span style='color: #2980b9; font-weight: bold; text-shadow: 0 0 8px #2980b9;'>فن الحركة المتوقفة</span> و<span style='color: #e67e22; font-weight: bold; text-shadow: 0 0 8px #e67e22;'>موسيقى تصويرية فانكية</span>، يحول هذا التتمة السوريالية <span style='color: #f1c40f; font-weight: bold; text-shadow: 0 0 8px #f1c40f;'>القتال المتناوب</span> إلى <span style='color: #95a5a6; font-weight: bold; text-shadow: 0 0 8px #95a5a6;'>حلم حموي منحوت من الطين</span>.<br>في <span style='color: #d35400; font-weight: bold; text-shadow: 0 0 8px #d35400;'>رؤية ماسون ليندروث الموسعة</span>، ينحني الواقع أكثر بينما يواجه <span style='color: #27ae60; font-weight: bold; text-shadow: 0 0 8px #27ae60;'>الأرخبيل العبثي</span> أكثر <span style='color: #8b4513; font-weight: bold; text-shadow: 0 0 8px #8b4513;'>إحياءات غرابة</span> حتى الآن.</div>",
+    "ReleaseDate": "2020",
+    "CriticScore": 80,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Hylics%202%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Hylics%202%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=-yo8I1-kZ6U",
+    "videoStart": null,
+    "videoEnd": 208,
+    "MusicUrl": "https://archive.org/download/RPRM001/Hylics%202%20Fancy%20Meat%20Computer.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "RPG"
+    ],
+    "DeveloperNames": [
+      "Mason Lindroth"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP003",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "Hylics2_Windows.exe",
+            "arguments": [],
+            "filename": "00088.zip"
+          }
+        ]
+      }
+    }
   }
 ]
