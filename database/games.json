@@ -119183,13 +119183,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC13",
+            "identifier": "RPRP003",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "42GB",
             "arguments": [],
             "executable": "LIS2\\Binaries\\Win64\\LIS2-Win64-Shipping.exe",
-            "filename": "Life is Strange 2.zip"
+            "filename": "00080.zip"
           }
         ]
       }
