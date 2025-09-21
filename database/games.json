@@ -57559,20 +57559,19 @@
           {
             "name": "Vanilla",
             "identifier": "Q0200",
-            "filename": "Muramasa Rebirth.zip",
-            "fileSize": "780MB",
+            "fileSize": "800MB",
             "emulator": "Vita3K",
             "platform": "Sony PlayStation Vita",
-            "romFile": "PCSE00240"
+            "romFile": "PCSE00240",
+            "filename": "Muramasa Rebirth.zip"
           },
           {
             "identifier": "Q0200",
-            "filename": "Muramasa Rebirth HD Textures.zip",
-            "name": "Vanilla",
+            "name": "HD Textures",
             "platform": "Sony PlayStation Vita",
             "emulator": "Vita3K",
-            "romFile": "",
-            "fileSize": "6GB"
+            "fileSize": "6GB",
+            "filename": "Muramasa Rebirth HD Textures.zip"
           }
         ]
       }
