@@ -57544,20 +57544,7 @@
       "Sony PlayStation Vita": {
         "versions": [
           {
-            "name": "Vanilla",
-            "identifier": "Q0200",
-            "filename": "Muramasa Rebirth.zip",
-            "fileSize": "700MB",
-            "emulator": "Vita3K",
-            "platform": "Sony PlayStation Vita",
-            "romFile": "PCSE00240"
-          }
-        ]
-      },
-      "Sony Playstation Vita": {
-        "versions": [
-          {
-            "name": "Vanilla",
+            "name": "Enhanced",
             "identifier": "Q0200",
             "fileSize": "800MB",
             "emulator": "Vita3K",
