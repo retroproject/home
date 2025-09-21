@@ -101206,13 +101206,13 @@
             "identifier": "E0701",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
-            "emulator": "Yuzu",
+            "emulator": "Citron",
             "fileSize": "15GB",
             "filenames": [
-              "Bayonetta 3.nsp",
-              "Bayonetta 3 Yuzu Update.zip"
+              "Bayonetta 3.xci",
+              "Bayonetta 3 Citron Update.zip"
             ],
-            "romFile": "Bayonetta 3.nsp"
+            "romFile": "Bayonetta 3.xci"
           }
         ]
       }
