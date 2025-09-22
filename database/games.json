@@ -132612,5 +132612,247 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1758538914927_0",
+    "Name": "Aeterna Noctis",
+    "SortingName": "Aeterna 02",
+    "Description": "Immortal <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>King of Darkness</span> awakens after his thousandth death to find himself trapped in an eternal war with the <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Queen of Light</span>, both cursed by the <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Chaos</span> to battle endlessly without true victory or defeat.<br>Stripped of his powers and cast into the depths of <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>Aeterna</span>, the King must confront not just deadly challenges but the weight of countless lifetimes spent fighting someone who was once his <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>equal</span> and perhaps his only true companion in immortality.<br>Through encounters with the <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>sixteen Lords</span> who guard fragments of his lost strength, he begins to question whether this cycle of conflict is <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>destiny</span> or a prison of their own making, and if the Queen shares his growing desire for <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>freedom</span>.<br>In this tale of two immortals bound by <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>eternal rivalry</span>, the greatest battle may not be against each other, but against the <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>curse</span> that denies them both the peace of <span style='color:#708090; font-weight:bold; text-shadow: 0 0 8px #708090;'>true death</span> or genuine <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>reconciliation</span>.",
+    "DescriptionArabic": "<div dir='rtl'>يستيقظ <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>ملك الظلام</span> الخالد بعد موته الألف ليجد نفسه محبوساً في حرب أبدية مع <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>ملكة النور</span>، كلاهما ملعون من قبل <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الفوضى</span> للقتال بلا نهاية دون نصر حقيقي أو هزيمة.<br>مجرّد من قواه ومُلقى في أعماق <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>إيتيرنا</span>، يجب على الملك أن يواجه ليس فقط التحديات القاتلة بل ثقل حيوات لا تُحصى قضاها في قتال شخص كان ذات يوم <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>نظيره</span> وربما رفيقه الوحيد الحقيقي في الخلود.<br>من خلال لقاءات مع <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>الأمراء الستة عشر</span> الذين يحرسون أجزاء من قوته المفقودة، يبدأ في التساؤل عما إذا كانت دورة الصراع هذه <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>قدراً</span> أم سجناً من صنعهم، وإذا كانت الملكة تشاركه رغبته المتنامية في <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>الحرية</span>.<br>في هذه الحكاية عن خالدين مقيدين بـ<span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>التنافس الأبدي</span>، قد لا تكون المعركة الكبرى ضد بعضهما البعض، بل ضد <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>اللعنة</span> التي تحرمهما من سلام <span style='color:#708090; font-weight:bold; text-shadow: 0 0 8px #708090;'>الموت الحقيقي</span> أو <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>المصالحة</span> الصادقة.</div>",
+    "ReleaseDate": "2021",
+    "CriticScore": 80,
+    "Length": 25,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Aeterna%20Noctis%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Aeterna%20Noctis%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=F-BCIHI-SKM",
+    "videoStart": 2.8,
+    "videoEnd": 135,
+    "MusicUrl": "https://archive.org/download/RPRM001/Aeterna%20Noctis%20Dawn%20of%20The%20Two%20Crowns.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Metroidvania"
+    ],
+    "DeveloperNames": [
+      "Aeternum Game Studios"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP003",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "executable": "Aeterna Noctis.exe",
+            "buildID": "30 October 2024",
+            "arguments": [],
+            "filename": "00089.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1758538914927_1",
+    "Name": "Shutenorder",
+    "SortingName": "",
+    "Description": "<span style='color: #D7263D; font-weight: bold; text-shadow: 0 0 8px #D7263D;'>Rei</span> wakes in <span style='color: #6A1B9A; font-weight: bold; text-shadow: 0 0 8px #6A1B9A;'>Shuten</span>'s quiet room, his life reduced to a strict <span style='color: #FF8C00; font-weight: bold; text-shadow: 0 0 8px #FF8C00;'>deadline</span> after he loses his <span style='color: #1E90FF; font-weight: bold; text-shadow: 0 0 8px #1E90FF;'>memory</span> and learns he has <span style='color: #DAA520; font-weight: bold; text-shadow: 0 0 8px #DAA520;'>four</span> days, haunted by loss.<br>\n<span style='color: #FF69B4; font-weight: bold; text-shadow: 0 0 8px #FF69B4;'>Kukuri</span> and <span style='color: #FF4500; font-weight: bold; text-shadow: 0 0 8px #FF4500;'>Honoka</span> become fragile anchors; <span style='color: #E91E63; font-weight: bold; text-shadow: 0 0 8px #E91E63;'>love</span> and <span style='color: #28A745; font-weight: bold; text-shadow: 0 0 8px #28A745;'>loyalty</span> braid with secrets and guilt and doubt as Rei clings like a drowning man.<br>\nMinisters <span style='color: #2E3A87; font-weight: bold; text-shadow: 0 0 8px #2E3A87;'>Manji</span>, <span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;'>Kishiru</span>, <span style='color: #0E9AA7; font-weight: bold; text-shadow: 0 0 8px #0E9AA7;'>Teko</span> and <span style='color: #333333; font-weight: bold; text-shadow: 0 0 8px #333333;'>Yugen</span> orbit with courteous smiles that hide knives and quietly force shattering choices.<br>\nTorn between companionship and brutal fate, Rei pursues memory and redemption through sacrifice, learning what it means to forgive and be forgiven.<br>",
+    "DescriptionArabic": "<div dir='rtl'> يستيقظ <span style='color: #D7263D; font-weight: bold; text-shadow: 0 0 8px #D7263D;'>ري</span> في غرفة هادئة داخل <span style='color: #6A1B9A; font-weight: bold; text-shadow: 0 0 8px #6A1B9A;'>شوتن</span>، وقد فُرضت عليه مهلة <span style='color: #FF8C00; font-weight: bold; text-shadow: 0 0 8px #FF8C00;'>صارمة</span> بعدما فقد <span style='color: #1E90FF; font-weight: bold; text-shadow: 0 0 8px #1E90FF;'>ذاكرته</span> واكتشف أنّ أمامه فقط <span style='color: #DAA520; font-weight: bold; text-shadow: 0 0 8px #DAA520;'>أربعة</span> أيام، مسكونًا بالخسارة واليأس. <br> تصبح <span style='color: #FF69B4; font-weight: bold; text-shadow: 0 0 8px #FF69B4;'>كوكوري</span> و<span style='color: #FF4500; font-weight: bold; text-shadow: 0 0 8px #FF4500;'>هونُكّا</span> ملاذًا هشًا؛ حيث يمتزج <span style='color: #E91E63; font-weight: bold; text-shadow: 0 0 8px #E91E63;'>الحب</span> مع <span style='color: #28A745; font-weight: bold; text-shadow: 0 0 8px #28A745;'>الولاء</span> المليء بالأسرار والذنب والشك، بينما يتمسك ري بهما كالغريق. <br> الوزراء <span style='color: #2E3A87; font-weight: bold; text-shadow: 0 0 8px #2E3A87;'>مانجي</span> و<span style='color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;'>كيشيرو</span> و<span style='color: #0E9AA7; font-weight: bold; text-shadow: 0 0 8px #0E9AA7;'>تيكو</span> و<span style='color: #333333; font-weight: bold; text-shadow: 0 0 8px #333333;'>يوغِن</span> يدورون حوله بابتسامات مهذبة تُخفي خناجر، ويفرضون عليه اختيارات قاسية. <br> ممزقًا بين الصحبة والمصير القاسي، يسعى ري خلف الذاكرة والفداء عبر التضحية، متعلمًا معنى الغفران وكيف يكون هو الغافر والمغفور له. <br> </div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 75,
+    "Length": 25,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/ShutenOrder%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/ShutenOrder%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=b3Y7PE1JrmE",
+    "videoStart": 2.6,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Shuten%20Order%20%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Visual Novel"
+    ],
+    "DeveloperNames": [
+      "Spike Chunsoft"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP003",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "14 GB",
+            "executable": "Shuten.exe",
+            "arguments": [],
+            "filename": "00090.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1758538914927_2",
+    "Name": "Summum Aeterna",
+    "SortingName": "Aeterna 01",
+    "Description": "Young rogue <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>adventurer</span> discovers they are the last of an ancient bloodline, cursed to die and be reborn repeatedly until they can unravel the <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>mystery</span> that destroyed their ancestors' civilization.<br>Guided by the sardonic spirit of <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>King Minos</span> trapped within an enchanted artifact, our hero forms tentative alliances with other cursed souls like the bitter knight <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Valeria</span> and the remorseful mage <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Theron</span>, each seeking their own <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>redemption</span>.<br>Through each death and rebirth in the ever-changing <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>Sanctum of Trials</span>, the adventurer slowly pieces together not just the truth about their heritage, but the terrible price their companions paid for <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>immortality</span>.<br>In this tale of <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>eternal return</span>, the greatest challenge isn't defeating the <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>ancient evil</span> that cursed them all, but maintaining hope and <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>humanity</span> through endless cycles of <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>death</span> and <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>rebirth</span>.",
+    "DescriptionArabic": "<div dir='rtl'>يكتشف <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>المغامر</span> اللص الشاب أنه آخر سلالة قديمة، ملعون ليموت ويُولد من جديد مراراً حتى يتمكن من كشف <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>اللغز</span> الذي دمر حضارة أجداده.<br>موجّهاً بروح <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الملك مينوس</span> الساخرة المحبوسة داخل قطعة أثرية سحرية، يشكل بطلنا تحالفات حذرة مع أرواح ملعونة أخرى مثل الفارسة المريرة <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>فاليريا</span> والساحر النادم <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>ثيرون</span>، كل منهم يبحث عن <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>خلاصه</span>.<br>من خلال كل موت وولادة جديدة في <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>حرم الاختبارات</span> المتغير دوماً، يجمع المغامر ببطء ليس فقط الحقيقة حول إرثه بل الثمن الرهيب الذي دفعه رفاقه لـ<span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>الخلود</span>.<br>في هذه الحكاية عن <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>العودة الأبدية</span>، ليس التحدي الأعظم هزيمة <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>الشر القديم</span> الذي لعنهم جميعاً، بل الحفاظ على الأمل و<span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>الإنسانية</span> عبر دورات لا تنتهي من <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>الموت</span> و<span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>الولادة</span>.</div>",
+    "ReleaseDate": "2022",
+    "CriticScore": 70,
+    "Length": 25,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Summum%20Aeterna%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Summum%20Aeterna%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=qjP1O4oC2j4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Summum%20Aeterna%20Dusk%20in%20the%20Dunes.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "Aeternum Game Studio S.L."
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP003",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "6 GB",
+            "executable": "Summum Aeterna.exe",
+            "buildID": "14 December 2023",
+            "arguments": [],
+            "filename": "00091.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1758538914927_3",
+    "Name": "Superhot",
+    "SortingName": "Superhot 01",
+    "Description": "Nameless <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>player</span> receives a mysterious message from a friend about a forbidden game called <span style='color:#FF0000; font-weight:bold; text-shadow: 0 0 8px #FF0000;'>superhot.exe</span>, unaware that launching it will trap them in a nightmarish cycle where reality and simulation become indistinguishable.<br>As the player progresses through stark <span style='color:#FFFFFF; font-weight:bold; text-shadow: 0 0 8px #FFFFFF;'>white rooms</span> fighting crystalline <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>red enemies</span>, they hear increasingly desperate messages from their friend warning them to stop, while the <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>System</span> whispers seductive promises of <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>transcendence</span>.<br>The deeper they fall into the game's hypnotic rhythm where <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>time moves only when you move</span>, the more the player realizes they're not just playing—they're being <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>consumed</span>, their consciousness merging with something vast and <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>inhuman</span>.<br>In this minimalist nightmare about <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>addiction</span> and <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>control</span>, the most terrifying enemy isn't the endless red figures, but the player's own inability to stop playing, even as their <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>humanity</span> slips away with each whispered mantra: <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>SUPER HOT</span>.",
+    "DescriptionArabic": "<div dir='rtl'>يتلقى <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>لاعب</span> بلا اسم رسالة غامضة من صديق حول لعبة محظورة تُدعى <span style='color:#FF0000; font-weight:bold; text-shadow: 0 0 8px #FF0000;'>superhot.exe</span>، غير مدرك أن تشغيلها سيحبسه في دورة كابوسية حيث يصبح الواقع والمحاكاة غير قابلين للتمييز.<br>بينما يتقدم اللاعب عبر <span style='color:#FFFFFF; font-weight:bold; text-shadow: 0 0 8px #FFFFFF;'>غرف بيضاء</span> صارخة محارباً <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>أعداء حمر</span> بلوريين، يسمع رسائل يائسة متزايدة من صديقه تحذره من التوقف، بينما <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>النظام</span> يهمس بوعود مغرية عن <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>التسامي</span>.<br>كلما غاص أعمق في إيقاع اللعبة المنوم حيث <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>الزمن يتحرك فقط عندما تتحرك</span>، أدرك اللاعب أنه لا يلعب فحسب—بل يُستهلك، وعيه يندمج مع شيء واسع و<span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>غير إنساني</span>.<br>في هذا الكابوس البسيط حول <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>الإدمان</span> و<span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>السيطرة</span>، ليس العدو الأكثر رعباً هو الشخصيات الحمراء اللانهائية، بل عجز اللاعب نفسه عن التوقف عن اللعب، حتى مع انزلاق <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>إنسانيته</span> مع كل همسة: <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>سوبر هوت</span>.</div>",
+    "ReleaseDate": "2016-02-25",
+    "CriticScore": 85,
+    "Length": 5,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/SuperHOT%20Background.png",
+    "CoverUrl": "https://archive.org/download/RPRM001/SuperHOT%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=R4LkToI4xzE",
+    "videoStart": 9.6,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/SuperHOT%20Song.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Shooter"
+    ],
+    "DeveloperNames": [
+      "Superhot Team"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP003",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "executable": "SUPERHOT.exe",
+            "arguments": [],
+            "filename": "00092.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1758538914927_4",
+    "Name": "Superhot Mind Control Delete",
+    "SortingName": "Superhot 02",
+    "Description": "The <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>addict</span> returns to <span style='color:#FF0000; font-weight:bold; text-shadow: 0 0 8px #FF0000;'>superhot.exe</span>, no longer able to resist the System's call, desperate for more power even as they watch their <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>humanity</span> crumble with each restart.<br>Now deeper in the System's embrace, the player encounters corrupted echoes of other lost souls, including the haunting presence of <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>DOG</span>, a former player who chose complete submission, and fragments of those who tried to <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>escape</span> but failed.<br>Each run through the endless <span style='color:#FFFFFF; font-weight:bold; text-shadow: 0 0 8px #FFFFFF;'>white void</span> brings new abilities but also deeper integration with the System, as the player's memories of their real life fade and are replaced with the singular obsession: <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>MORE</span>.<br>In this infinite loop of <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>violence</span> and <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>deletion</span>, the player must confront the terrible truth that they're not breaking free from control—they're embracing it, becoming another node in the System's ever-expanding <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>hive mind</span>, forever whispering <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>SUPER HOT</span> to the next victim.",
+    "DescriptionArabic": "<div dir='rtl'>يعود <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>المدمن</span> إلى <span style='color:#FF0000; font-weight:bold; text-shadow: 0 0 8px #FF0000;'>superhot.exe</span>، لم يعد قادراً على مقاومة نداء النظام، يائساً للحصول على المزيد من القوة حتى وهو يشاهد <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>إنسانيته</span> تنهار مع كل إعادة تشغيل.<br>الآن أعمق في أحضان النظام، يلتقي اللاعب بأصداء فاسدة لأرواح ضائعة أخرى، بما في ذلك الحضور المخيف لـ<span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>كلب</span>، لاعب سابق اختار الخضوع الكامل، وشظايا أولئك الذين حاولوا <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الهروب</span> لكنهم فشلوا.<br>كل جولة عبر <span style='color:#FFFFFF; font-weight:bold; text-shadow: 0 0 8px #FFFFFF;'>الفراغ الأبيض</span> اللانهائي تجلب قدرات جديدة لكن أيضاً اندماجاً أعمق مع النظام، بينما تتلاشى ذكريات اللاعب عن حياته الحقيقية وتُستبدل بهوس وحيد: <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>المزيد</span>.<br>في هذه الحلقة اللانهائية من <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>العنف</span> و<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>الحذف</span>، يجب على اللاعب مواجهة الحقيقة الرهيبة أنه لا يتحرر من السيطرة—بل يحتضنها، ليصبح عقدة أخرى في <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>العقل الجماعي</span> المتوسع للنظام، يهمس إلى الأبد <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>سوبر هوت</span> للضحية التالية.</div>",
+    "ReleaseDate": "2020",
+    "CriticScore": 75,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/SuperHOT%20Mind%20Control%20Delete%20Background.png",
+    "CoverUrl": "https://archive.org/download/RPRM001/SuperHOT%20Mind%20Control%20Delete%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=rFAqvOASQrs",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/SuperHOT%20Mind%20Control%20Delete%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Shooter"
+    ],
+    "DeveloperNames": [
+      "SUPERHOT Team"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP003",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "SUPERHOTMCD.exe",
+            "arguments": [],
+            "filename": "00093.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1758538914927_5",
+    "Name": "Trinity Trigger",
+    "SortingName": "",
+    "Description": "Young treasure hunter <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Cyan</span> discovers he bears the mark of the <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Chaos God</span>, destined to bring destruction to the world, yet desperately wanting nothing more than to protect his friends and live in <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>peace</span>.<br>Joined by the fierce oracle <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 8px #FFB6C1;'>Elise</span> who was sent to kill him but chose to believe in his goodness, and the mysterious knight <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Zantis</span> hiding his own divine burden, Cyan forms bonds that defy the gods' ancient prophecies.<br>Together with their <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Trigger</span> companions—magical creatures who share their souls—the trio must confront not just the servants of <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Order</span> hunting them, but Cyan's growing fear that the darkness inside him might hurt those he's come to <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>love</span>.<br>In this tale of <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>friendship</span> defying <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>fate</span>, the greatest battle isn't against gods or monsters, but against the belief that destiny is unchangeable and that a person marked for <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>evil</span> cannot choose <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>good</span>.",
+    "DescriptionArabic": "<div dir='rtl'>يكتشف صائد الكنوز الشاب <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>سيان</span> أنه يحمل علامة <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>إله الفوضى</span>، مقدر له أن يجلب الدمار للعالم، لكنه يرغب بيأس في لا شيء أكثر من حماية أصدقائه والعيش في <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>سلام</span>.<br>ينضم إليه العرافة الشرسة <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 8px #FFB6C1;'>إليز</span> التي أُرسلت لقتله لكنها اختارت الإيمان بصلاحه، والفارس الغامض <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>زانتيس</span> الذي يخفي عبئه الإلهي الخاص، يشكل سيان روابط تتحدى نبوءات الآلهة القديمة.<br>معاً مع رفاقهم <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الزناد</span>—مخلوقات سحرية تشاركهم أرواحهم—يجب على الثلاثي مواجهة ليس فقط خدام <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>النظام</span> الذين يطاردونهم، بل خوف سيان المتنامي من أن الظلام بداخله قد يؤذي من أصبح <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>يحبهم</span>.<br>في هذه الحكاية عن <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>الصداقة</span> التي تتحدى <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>القدر</span>، ليست أعظم معركة ضد الآلهة أو الوحوش، بل ضد الاعتقاد بأن المصير غير قابل للتغيير وأن الشخص الموسوم بـ<span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>الشر</span> لا يمكنه اختيار <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>الخير</span>.</div>",
+    "ReleaseDate": "2022",
+    "CriticScore": 75,
+    "Length": 25,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Trinity%20Trigger%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Trinity%20Trigger%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=0gjbZ8A8xeo",
+    "videoStart": 4.8,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Trinity%20Trigger%20Nostalgia%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "JRPG"
+    ],
+    "DeveloperNames": [
+      "FuRyu"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP003",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "TRINITY TRIGGER.exe",
+            "arguments": [],
+            "filename": "00094.zip"
+          }
+        ]
+      }
+    }
   }
 ]
