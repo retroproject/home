@@ -4953,9 +4953,9 @@
     "CoverImage": "6323a841-1513-4a11-8051-03f9e71b5460.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/9420a485-5570-476d-8f67-0dc1def07324.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/6323a841-1513-4a11-8051-03f9e71b5460.png",
-    "YouTubeUrl": "https://www.youtube.com/watch?v=ZQYSjgIHmEU",
-    "videoStart": 8,
-    "videoEnd": 114,
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/09fb08e0-0b72-49ac-bc59-04b616be8c27.mp3",
     "PlatformNames": [
       "PC Game"
@@ -103448,9 +103448,9 @@
     "CoverImage": "b243f25d-d99b-4471-93a2-42712ec6ad8d.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/b22d0c55-a11a-4b08-b456-8aabd98231a5.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/b243f25d-d99b-4471-93a2-42712ec6ad8d.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://www.youtube.com/watch?v=ZQYSjgIHmEU",
+    "videoStart": 8,
+    "videoEnd": 114,
     "MusicUrl": "https://archive.org/download/retromusic/cc2a8580-fd9e-4c28-8688-96efb5fd0be0.mp3",
     "PlatformNames": [
       "PC Game"
