@@ -79224,51 +79224,6 @@
     }
   },
   {
-    "_id": "a2314079-840f-41af-b44c-6df70991ab02",
-    "GameId": "6c362321-f3a3-4d54-ae07-b8cbc368ad89",
-    "Name": "Odin Sphere: Leifthrasir",
-    "SortingName": "",
-    "Description": "In the twilight of the <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 10px #FFD700;'>world tree Yggdrasil</span>, five interwoven tales unfold as the <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>prophecy of Armageddon</span> threatens to destroy all realms.<br>Witness the tragic love story of <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>Princess Gwendolyn</span> and <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Prince Oswald</span> as kingdoms clash over the power of <span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>crystallized Phozons</span>.<br>Experience the cursed fate of the <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Demon Lord Odin</span> and his daughters as ancient grudges and <span style='color:#2E8B57; font-weight:bold; text-shadow: 0 0 6px #2E8B57;'>forbidden magic</span> spiral toward catastrophe.<br>The <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>Cauldron</span> hungers for souls while the <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>Ring of Titania</span> holds the key to either <span style='color:#696969; font-weight:bold; text-shadow: 0 0 6px #696969;'>salvation</span> or <span style='color:#556B2F; font-weight:bold; text-shadow: 0 0 6px #556B2F;'>ultimate destruction</span>.<br>",
-    "DescriptionArabic": "<div dir='rtl'>في غسق <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 10px #FFD700;'>شجرة العالم إيجدراسيل</span>، تتكشف خمس حكايات متشابكة بينما تهدد <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>نبوءة هرمجدون</span> بتدمير كل العوالم.<br>شاهد قصة الحب المأساوية بين <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>الأميرة جويندولين</span> و<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>الأمير أوزوالد</span> بينما تتصارع الممالك على قوة <span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>فوزونات المتبلورة</span>.<br>اختبر المصير الملعون لـ<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>سيد الشياطين أودين</span> وبناته بينما تتصاعد الأحقاد القديمة و<span style='color:#2E8B57; font-weight:bold; text-shadow: 0 0 6px #2E8B57;'>السحر المحرم</span> نحو الكارثة.<br>يتوق <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>المرجل</span> للأرواح بينما يحمل <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>خاتم تيتانيا</span> مفتاح إما <span style='color:#696969; font-weight:bold; text-shadow: 0 0 6px #696969;'>الخلاص</span> أو <span style='color:#556B2F; font-weight:bold; text-shadow: 0 0 6px #556B2F;'>الدمار النهائي</span>.<br></div>",
-    "ReleaseDate": "2016-1-14",
-    "CriticScore": 100,
-    "BackgroundImage": "6bde5d37-ab49-4f82-b033-750359ca2b60.jpeg",
-    "CoverImage": "16b58acd-46b5-4ded-8d81-e72c54e8717d.png",
-    "BackgroundUrl": "https://archive.org/download/retrobackgrounds/6bde5d37-ab49-4f82-b033-750359ca2b60.jpeg",
-    "CoverUrl": "https://archive.org/download/retrocovers/16b58acd-46b5-4ded-8d81-e72c54e8717d.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
-    "MusicUrl": "https://archive.org/download/retromusic/a2314079-840f-41af-b44c-6df70991ab02.mp3",
-    "PlatformNames": [
-      "Sony PlayStation 3"
-    ],
-    "GenreNames": [
-      "Hack and slash/Beat 'em up"
-    ],
-    "DeveloperNames": [
-      "Vanillaware"
-    ],
-    "Tags": [
-      "Hall of Fame"
-    ],
-    "downloadInfo": {
-      "Sony PlayStation 3": {
-        "versions": [
-          {
-            "identifier": "rpcs3-P3",
-            "name": "Vanilla",
-            "platform": "Sony PlayStation 3",
-            "emulator": "RPCS3",
-            "fileSize": "4GB",
-            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
-            "filename": "Odin Sphere Leifthrasir.zip"
-          }
-        ]
-      }
-    }
-  },
-  {
     "_id": "a2366b19-a754-4682-bc22-36614d238874",
     "GameId": "6a840136-f8ce-4b11-9ab2-eb7d0cf99f20",
     "Name": "Sonic the Hedgehog 2006",
@@ -101812,7 +101767,8 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/c93c3a1a-8871-4426-a5e0-abb6127d1e42.mp3",
     "PlatformNames": [
-      "Sony Playstation Vita"
+      "Sony Playstation Vita",
+      "Sony PlayStation 3"
     ],
     "GenreNames": [
       "Hack and slash/Beat 'em up"
@@ -101821,16 +101777,35 @@
       "Vanillaware"
     ],
     "downloadInfo": {
-      "Sony Playstation Vita": {
+      "Cross-Platform": {
         "versions": [
           {
             "identifier": "Q0200",
-            "name": "Vanilla",
+            "filename": "",
             "platform": "Sony Playstation Vita",
+            "name": "Playstation Vita",
             "emulator": "Vita3K",
             "fileSize": "2GB",
-            "romFile": "PCSE00899",
-            "filename": "Odin Sphere Leifthrasir.zip"
+            "romFiles": [
+              "PCSE00899"
+            ],
+            "filenames": [
+              "Odin Sphere Leifthrasir.zip"
+            ]
+          },
+          {
+            "identifier": "rpcs3-P3",
+            "filename": "",
+            "platform": "Sony PlayStation 3",
+            "name": "PlayStation 3",
+            "emulator": "RPCS3",
+            "romFiles": [
+              "PS3_GAME/USRDIR/EBOOT.BIN"
+            ],
+            "fileSize": "4GB",
+            "filenames": [
+              "Odin Sphere Leifthrasir.zip"
+            ]
           }
         ]
       }
