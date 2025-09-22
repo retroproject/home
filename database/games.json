@@ -3526,8 +3526,8 @@
     "CoverImage": "f8b5d78f-4029-4f5e-957f-7d7220ebe3d0.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/3b63afd5-8374-48d6-bf2c-ce2034a83693.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/f8b5d78f-4029-4f5e-957f-7d7220ebe3d0.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
+    "YouTubeUrl": "https://www.youtube.com/watch?v=9KiIYptV4v4",
+    "videoStart": 2.6,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/068da7ac-faf2-4f98-9afa-e398fad73e17.mp3",
     "PlatformNames": [
@@ -7949,7 +7949,7 @@
     "CoverImage": "493937b3-cf25-4539-a7a1-3a4f1e34cff1.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/8f42b400-6afa-495f-94a5-4b80d0f8f240.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/493937b3-cf25-4539-a7a1-3a4f1e34cff1.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=xP3w9TGYPn0",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/106bed28-6431-4e44-b20b-ea5ac0ed30fd.mp3",
@@ -28167,7 +28167,7 @@
     "CoverImage": "ee2f2747-66e7-4f00-8bde-79568afe859d.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/c4cf8a19-0798-4ed4-b599-dcbf1a3bea62.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/ee2f2747-66e7-4f00-8bde-79568afe859d.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=Da3aoqrSjzs",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/386c09b6-555f-4eac-8453-881b07d99a9d.mp3",
@@ -39860,7 +39860,7 @@
     "CoverImage": "e03c4f27-4296-461b-a5af-d011779b3848.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/5ae7a396-cb10-4b38-bab8-8b57ea11107c.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/e03c4f27-4296-461b-a5af-d011779b3848.jpg",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=B8Lk_qmDfW0",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/5341e5f7-1988-4f42-9bb7-7053888b4af6.mp3",
@@ -40819,7 +40819,7 @@
     "CoverImage": "914f5853-ff8d-41d3-a659-1396d5097f91.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/869a9236-26e9-4563-9701-01f7f24a7f06.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/914f5853-ff8d-41d3-a659-1396d5097f91.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=2GbZjH66Rjk",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/55af5561-41b8-49c7-8d6c-4ff721550214.mp3",
@@ -40832,9 +40832,7 @@
     "DeveloperNames": [
       "Team Silent"
     ],
-    "Tags": [
-      "Has Issues"
-    ],
+    "Tags": [],
     "downloadInfo": {
       "Sony PlayStation 2": {
         "versions": [
@@ -40843,7 +40841,7 @@
             "name": "Enhanced",
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
-            "fileSize": "3GB",
+            "fileSize": "4GB",
             "romFile": "Silent Hill 3.iso",
             "filename": "Silent Hill 3.iso"
           },
@@ -47019,7 +47017,7 @@
     "CoverImage": "3146be08-c635-4241-ba9b-27a77bbfbdf9.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/ac22023b-0b30-485e-906a-849423b84065.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/3146be08-c635-4241-ba9b-27a77bbfbdf9.jpg",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=JUGpbzIRfo8",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/61c0a320-7518-4bed-8a84-dfb50ba2750a.mp3",
@@ -52072,8 +52070,8 @@
     "CoverImage": "03e99b08-26d5-4741-8fc9-83381acc3e96.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/894a24b0-0d30-41dd-9564-c689030de5e6.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/03e99b08-26d5-4741-8fc9-83381acc3e96.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
+    "YouTubeUrl": "https://www.youtube.com/watch?v=l4LKsQUUu9w",
+    "videoStart": 4,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/69531609-fed4-4c20-aebb-2a711975ce25.mp3",
     "PlatformNames": [
@@ -67712,9 +67710,9 @@
     "CoverImage": "98584ca6-f922-437e-b82e-1b1c45439d2c.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/0647eae4-07b0-4c40-b593-e1f93a7aeac2.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/98584ca6-f922-437e-b82e-1b1c45439d2c.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://www.youtube.com/watch?v=PJncFxgYaSE",
+    "videoStart": 4,
+    "videoEnd": 192,
     "MusicUrl": "https://archive.org/download/retromusic/89b879a1-783e-4cea-a4ed-7670d1b5d8c2.mp3",
     "PlatformNames": [
       "Sony PlayStation 2"
@@ -72347,7 +72345,7 @@
     "CoverImage": "5e2de857-4d47-4de1-ae3a-9bb520eb4374.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/4debb917-c12a-46db-807e-bf2ee053a10b.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/5e2de857-4d47-4de1-ae3a-9bb520eb4374.jpg",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=KasSljmmYI0",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/92af3a03-47f6-439a-8699-c5f73f031367.mp3",
@@ -97422,7 +97420,7 @@
     "CoverImage": "d1d13f51-11d3-47eb-8ce9-67d60c5aafdf.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/914fcb70-0af4-414a-947b-d5ab19f5a0bf.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/d1d13f51-11d3-47eb-8ce9-67d60c5aafdf.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=Dis_R-7ssCQ",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/c216df9e-c4c1-47c4-a842-e86731e7e45a.mp3",
@@ -101584,7 +101582,7 @@
     "CoverImage": "e7af8b60-0f8f-431a-8a40-3295744b7e59.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/cdc49ffe-849d-468c-a7b5-188d29c82264.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/e7af8b60-0f8f-431a-8a40-3295744b7e59.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=qGqlkFc0Kd8",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/c8cbb9b3-f940-46c5-8392-81a4f5e7fbb4.mp3",
@@ -132322,7 +132320,17 @@
         "versions": [
           {
             "identifier": "RPRP003",
-            "name": "Vanilla",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "60GB",
+            "executable": "ph_ft\\work\\bin\\x64\\DyingLightGame_TheBeast_x64_rwdi.exe",
+            "buildID": "1.2.0C",
+            "arguments": [],
+            "filename": "00095.zip"
+          },
+          {
+            "identifier": "RPRP003",
+            "name": "Offline",
             "platform": "PC Game",
             "fileSize": "60GB",
             "executable": "ph_ft\\work\\bin\\x64\\DyingLightGame_TheBeast_x64_rwdi.exe",
