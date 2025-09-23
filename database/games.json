@@ -132903,5 +132903,86 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1758655619887_0",
+    "Name": "Wuchang Fallen Feathers",
+    "SortingName": "",
+    "Description": "In the shadowed streets of <span style='color:#1E90FF; font-weight:bold; text-shadow:0 0 8px #1E90FF;'>Wuchang</span>, <span style='color:#DA70D6; font-weight:bold; text-shadow:0 0 8px #DA70D6;'>Bai Wuchang</span> awakens, her memory shattered and her body cursed by the <span style='color:#FFD700; font-weight:bold; text-shadow:0 0 8px #FFD700;'>Feathering</span> plague.<br>\nThe <span style='color:#8B0000; font-weight:bold; text-shadow:0 0 8px #8B0000;'>Bo Magus</span> schemes in the shadows, using <span style='color:#FF4500; font-weight:bold; text-shadow:0 0 8px #FF4500;'>red mercury</span> to forge monstrous <span style='color:#00CED1; font-weight:bold; text-shadow:0 0 8px #00CED1;'>birdlike creatures</span>.<br>\nFragments of <span style='color:#7FFF00; font-weight:bold; text-shadow:0 0 8px #7FFF00;'>ancient artifacts</span> hold the key to the <span style='color:#FF1493; font-weight:bold; text-shadow:0 0 8px #FF1493;'>curse’s origin</span>, but betrayal lurks in every alley.<br>\nWuchang must navigate <span style='color:#8A2BE2; font-weight:bold; text-shadow:0 0 8px #8A2BE2;'>haunted ruins</span> and face impossible <span style='color:#FF8C00; font-weight:bold; text-shadow:0 0 8px #FF8C00;'>dangers</span> as fate itself hangs by a <span style='color:#B8860B; font-weight:bold; text-shadow:0 0 8px #B8860B;'>feather’s edge</span>.\n",
+    "DescriptionArabic": "<div dir='rtl'>\nفي <span style='color:#1E90FF; font-weight:bold; text-shadow:0 0 8px #1E90FF;'>المدينة القديمة ووشانغ</span> تمتد الظلال بينما ترن <span style='color:#FF8C00; font-weight:bold; text-shadow:0 0 8px #FF8C00;'>أصداء السيوف المتصادمة</span> في الشوارع المهجورة.<br>\nتظهر <span style='color:#DA70D6; font-weight:bold; text-shadow:0 0 8px #DA70D6;'>المحاربة الوحيدة</span> حاملة <span style='color:#FFD700; font-weight:bold; text-shadow:0 0 8px #FFD700;'>سيفها الذهبي</span> المتلألئ تحت <span style='color:#00CED1; font-weight:bold; text-shadow:0 0 8px #00CED1;'>سماء مضاءة بالقمر</span>.<br>\nتهمس الرياح بأصوات <span style='color:#FF69B4; font-weight:bold; text-shadow:0 0 8px #FF69B4;'>الخيانة والدماء</span> عبر <span style='color:#8A2BE2; font-weight:bold; text-shadow:0 0 8px #8A2BE2;'>القصر المسكون</span>، بينما تتساقط <span style='color:#7FFF00; font-weight:bold; text-shadow:0 0 8px #7FFF00;'>الريشات الساقطة</span> مثل <span style='color:#FF4500; font-weight:bold; text-shadow:0 0 8px #FF4500;'>الجمر المشتعل</span>.<br>\nكل <span style='color:#00FA9A; font-weight:bold; text-shadow:0 0 8px #00FA9A;'>خطوة إلى الأمام</span> تقربها من <span style='color:#8B4513; font-weight:bold; text-shadow:0 0 8px #8B4513;'>الانتقام والمصير</span>، والمدينة تنتظر في <span style='color:#1E90FF; font-weight:bold; text-shadow:0 0 8px #1E90FF;'>ترقب مشدود</span>.<br>\nسيذكر الأساطير <span style='color:#FF1493; font-weight:bold; text-shadow:0 0 8px #FF1493;'>شجاعة الساقطين</span>، ففي الظلام يشرق <span style='color:#00CED1; font-weight:bold; text-shadow:0 0 8px #00CED1;'>نور جديد</span>.\n</div>\n",
+    "ReleaseDate": "2025",
+    "CriticScore": 70,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Wuchang%20Fallen%20Feathers%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Wuchang%20Fallen%20Feathers%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=haD1sEZ3z_8",
+    "videoStart": 2.8,
+    "videoEnd": 93,
+    "MusicUrl": "https://archive.org/download/RPRM001/Wuchang%20Fallen%20Feathers%20Theme%20Song.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Souls"
+    ],
+    "DeveloperNames": [
+      "Leenzee"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP003",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "60GB",
+            "executable": "Project_Plague.exe",
+            "arguments": [],
+            "buildID": "22 September 2025",
+            "filename": "00097.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1758659550285_0",
+    "Name": "Machinarium",
+    "SortingName": "",
+    "Description": "In the rusted city of <span style='color:#B0C4DE; font-weight:bold; text-shadow:0 0 8px #B0C4DE;'>Machinarium</span>, the clever robot <span style='color:#A52A2A; font-weight:bold; text-shadow:0 0 8px #A52A2A;'>Josef</span> awakens amidst <span style='color:#708090; font-weight:bold; text-shadow:0 0 8px #708090;'>scrapyard ruins</span>.<br>\nThe <span style='color:#8B0000; font-weight:bold; text-shadow:0 0 8px #8B0000;'>Black Cap Brotherhood</span> plots from shadowed towers, wielding <span style='color:#FF8C00; font-weight:bold; text-shadow:0 0 8px #FF8C00;'>twisted machines</span> to seize control.<br>\nJosef must navigate <span style='color:#00CED1; font-weight:bold; text-shadow:0 0 8px #00CED1;'>gear-filled alleys</span> and <span style='color:#7FFF00; font-weight:bold; text-shadow:0 0 8px #7FFF00;'>mechanical labyrinths</span>, solve <span style='color:#FF1493; font-weight:bold; text-shadow:0 0 8px #FF1493;'>ancient puzzles</span>, and rescue <span style='color:#D2691E; font-weight:bold; text-shadow:0 0 8px #D2691E;'>Berta</span> from sinister contraptions.<br>\nEvery <span style='color:#8A2BE2; font-weight:bold; text-shadow:0 0 8px #8A2BE2;'>click</span> and <span style='color:#FFD700; font-weight:bold; text-shadow:0 0 8px #FFD700;'>lever</span> carries danger and hope, as <span style='color:#FF4500; font-weight:bold; text-shadow:0 0 8px #FF4500;'>the city’s fate</span> hangs by a delicate wire.\n",
+    "DescriptionArabic": "<div dir='rtl'>\nفي مدينة <span style='color:#B0C4DE; font-weight:bold; text-shadow:0 0 8px #B0C4DE;'>ماشيناريوم</span> الصدئة، يستيقظ الروبوت الذكي <span style='color:#A52A2A; font-weight:bold; text-shadow:0 0 8px #A52A2A;'>جوزيف</span> وسط <span style='color:#708090; font-weight:bold; text-shadow:0 0 8px #708090;'>أطلال الخردة</span>.<br>\nتدبر <span style='color:#8B0000; font-weight:bold; text-shadow:0 0 8px #8B0000;'>عصابة القبعة السوداء</span> مخططاتهم من الأبراج المظلمة، مستغلين <span style='color:#FF8C00; font-weight:bold; text-shadow:0 0 8px #FF8C00;'>آلات مشوهة</span> للسيطرة على المدينة.<br>\nيجب على <span style='color:#00CED1; font-weight:bold; text-shadow:0 0 8px #00CED1;'>جوزيف</span> التنقل بين <span style='color:#7FFF00; font-weight:bold; text-shadow:0 0 8px #7FFF00;'>أزقة الماكينات</span> و<span style='color:#FF1493; font-weight:bold; text-shadow:0 0 8px #FF1493;'>متاهات ميكانيكية</span>، حل <span style='color:#FFD700; font-weight:bold; text-shadow:0 0 8px #FFD700;'>الألغاز القديمة</span> وإنقاذ <span style='color:#D2691E; font-weight:bold; text-shadow:0 0 8px #D2691E;'>بيرتا</span> من الأجهزة المميتة.<br>\nكل <span style='color:#8A2BE2; font-weight:bold; text-shadow:0 0 8px #8A2BE2;'>نقرة</span> و<span style='color:#FF4500; font-weight:bold; text-shadow:0 0 8px #FF4500;'>رافعة</span> تحمل خطراً وأملاً، بينما <span style='color:#00FA9A; font-weight:bold; text-shadow:0 0 8px #00FA9A;'>مصير المدينة</span> معلق بخيط رفيع.\n</div>",
+    "ReleaseDate": "2009",
+    "CriticScore": 100,
+    "Length": 5,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Machinarium%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Machinarium%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=uwZBdWRSBRs",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Machinarium%20The%20Bottom.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Amanita Design"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP003",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "320 MB",
+            "executable": "Machinarium.exe",
+            "buildID": "25 March 2025",
+            "arguments": [],
+            "filename": "00098.zip"
+          }
+        ]
+      }
+    }
   }
 ]
