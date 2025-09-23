@@ -132895,15 +132895,13 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "45GB",
-            "executable": "SHf.exe",
+            "executable": "SILENT HILL f Launcher.bat",
             "arguments": [],
             "filename": "00096.zip"
           }
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   }
 ]
