@@ -1504,12 +1504,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC31",
-            "filename": "BlazBlue Entropy Effect.zip",
+            "identifier": "RPRP003",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "BlazblueEntropyEffect.exe",
-            "fileSize": "9GB"
+            "fileSize": "9GB",
+            "buildID": "18 September 2025",
+            "filename": "00100.zip"
           }
         ]
       }
@@ -3540,7 +3541,8 @@
       "Bloober Team"
     ],
     "Tags": [
-      "Hall of Fame"
+      "Hall of Fame",
+      "Demo"
     ],
     "downloadInfo": {
       "PC Game": {
@@ -11506,7 +11508,8 @@
       "B.B Studio"
     ],
     "Tags": [
-      "Hall of Fame"
+      "Hall of Fame",
+      "Demo"
     ],
     "downloadInfo": {
       "PC Game": {
@@ -93893,7 +93896,8 @@
       "Flying Tiger Developments"
     ],
     "Tags": [
-      "Hall of Fame"
+      "Hall of Fame",
+      "Demo"
     ],
     "downloadInfo": {
       "Sony PlayStation": {
@@ -94410,20 +94414,19 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC28",
-            "filename": "Cyberpunk 2077.zip",
-            "name": "Vanilla",
-            "platform": "PC Game",
-            "executable": "bin\\x64\\Cyberpunk2077.exe",
-            "fileSize": "83GB"
-          },
-          {
-            "identifier": "CPC08",
-            "filename": "Cyberpunk 2077.zip",
+            "identifier": "RPRP003",
             "name": "Enhanced",
             "platform": "PC Game",
             "executable": "bin\\x64\\Cyberpunk2077.exe",
-            "fileSize": "84GB"
+            "fileSize": "100GB",
+            "executableFiles": [
+              "bin\\x64\\Cyberpunk2077.exe"
+            ],
+            "filenames": [
+              "00099.zip"
+            ],
+            "mods": "HD Reworked Project",
+            "buildID": "17 September 2025"
           }
         ]
       }
@@ -106552,7 +106555,7 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "COPC03",
+            "identifier": "RPRP003",
             "name": "Online",
             "platform": "PC Game",
             "fileSize": "4GB",
@@ -106562,9 +106565,11 @@
             ],
             "executableLabels": [
               "Game",
-              "Configure"
+              "Sign in"
             ],
-            "filename": "Deep Rock Galactic.zip"
+            "buildID": "1.39.113250",
+            "notes": "Sign in First",
+            "filename": "00101.zip"
           }
         ]
       }
