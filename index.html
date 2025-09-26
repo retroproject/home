@@ -14869,7 +14869,8 @@
     <script>
         // Check development mode from main process
         (async function() {
-            const isDev = await window.electronAPI.getDevMode();
+            // Web version - force production mode
+            const isDev = false;
             
             if (isDev) {
                 console.log('🔧 [DEV MODE] testing.txt detected - Console output enabled');
@@ -30298,7 +30299,13 @@ ${entryTypeText[entry.entryType] || 'Journal Entry'}: ${entry.gameName || 'Unkno
                                 sha: currentSha,
                                 timestamp: Date.now()
                             };
-                            localStorage.setItem(GAMES_CACHE_KEY, JSON.stringify(newCacheData));
+                            try {
+                                localStorage.setItem(GAMES_CACHE_KEY, JSON.stringify(newCacheData));
+                            } catch (e) {
+                                console.warn('⚠️ localStorage quota exceeded, skipping cache');
+                                // Clear old cache and try again with smaller data
+                                localStorage.removeItem(GAMES_CACHE_KEY);
+                            }
                             
                             console.log('✅ Successfully loaded', allGames.length, 'games from GitHub');
                             console.log('💾 Cached fresh database with SHA:', currentSha?.substring(0, 8));
@@ -30397,7 +30404,11 @@ ${entryTypeText[entry.entryType] || 'Journal Entry'}: ${entry.gameName || 'Unkno
                     games: backgroundGames,
                     timestamp: Date.now()
                 };
-                localStorage.setItem(BG_CACHE_KEY, JSON.stringify(cacheData));
+                try {
+                    localStorage.setItem(BG_CACHE_KEY, JSON.stringify(cacheData));
+                } catch (e) {
+                    console.warn('⚠️ localStorage quota exceeded, skipping background cache');
+                }
                 console.log(`🟢 Cached ${backgroundGames.length} background games for 24 hours`);
                 
                 return backgroundGames;
@@ -59369,10 +59380,12 @@ function extractYouTubeVideoId(url) {
             }
         }
 
-        // Listen for shortcuts dialog menu event
-        window.electronAPI.onShowShortcutsDialog((event) => {
-            showShortcutsDialog();
-        });
+        // Listen for shortcuts dialog menu event (Web version - skip Electron API)
+        if (window.electronAPI && window.electronAPI.onShowShortcutsDialog) {
+            window.electronAPI.onShowShortcutsDialog((event) => {
+                showShortcutsDialog();
+            });
+        }
 
         // Global keydown listener for shortcut recording
         document.addEventListener('keydown', handleShortcutKeydown);
