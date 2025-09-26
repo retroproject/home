@@ -3541,8 +3541,7 @@
       "Bloober Team"
     ],
     "Tags": [
-      "Hall of Fame",
-      "Demo"
+      "Hall of Fame"
     ],
     "downloadInfo": {
       "PC Game": {
@@ -11508,8 +11507,7 @@
       "B.B Studio"
     ],
     "Tags": [
-      "Hall of Fame",
-      "Demo"
+      "Hall of Fame"
     ],
     "downloadInfo": {
       "PC Game": {
@@ -93896,8 +93894,7 @@
       "Flying Tiger Developments"
     ],
     "Tags": [
-      "Hall of Fame",
-      "Demo"
+      "Hall of Fame"
     ],
     "downloadInfo": {
       "Sony PlayStation": {
@@ -101320,7 +101317,8 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/c81fbba9-e547-49a1-8af1-ad4871ca9324.mp3",
     "PlatformNames": [
-      "Nintendo GameCube"
+      "Nintendo GameCube",
+      "Sony Playstation 2"
     ],
     "GenreNames": [
       "Fighting"
@@ -101329,16 +101327,35 @@
       "Bandai"
     ],
     "downloadInfo": {
-      "Nintendo GameCube": {
+      "Cross-Platform": {
         "versions": [
           {
             "identifier": "retro-dolphin",
-            "filename": "Digimon Rumble Arena 2.rvz",
-            "name": "Vanilla",
+            "filename": "",
             "platform": "Nintendo GameCube",
+            "name": "Vanilla",
             "emulator": "Dolphin",
             "fileSize": "900MB",
-            "romFile": "Digimon Rumble Arena 2.rvz"
+            "romFiles": [
+              "Digimon Rumble Arena 2.rvz"
+            ],
+            "filenames": [
+              "Digimon Rumble Arena 2.rvz"
+            ]
+          },
+          {
+            "identifier": "P0211",
+            "filename": "",
+            "platform": "Sony PlayStation 2",
+            "name": "Vanilla",
+            "emulator": "PCSX2",
+            "fileSize": "1GB",
+            "romFiles": [
+              "Digimon Rumble Arena 2.iso"
+            ],
+            "filenames": [
+              "Digimon Rumble Arena 2.iso"
+            ]
           }
         ]
       }
