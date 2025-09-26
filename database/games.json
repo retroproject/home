@@ -56027,7 +56027,7 @@
     }
   },
   {
-    "_id": "7189c6b9-c1ea-497a-9fb2-762451fcc890",
+    "_id": "game_1758897222167_3",
     "GameId": "2c14b94aa5ae5c2ef2481af152ba42f1",
     "Name": "Hades II",
     "SortingName": "Hades 02",
@@ -56056,12 +56056,12 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC35",
-            "filename": "Hades II.zip",
+            "identifier": "RPRP003",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Ship\\Hades2.exe",
-            "fileSize": "6GB"
+            "fileSize": "9GB",
+            "filename": "00102.zip"
           }
         ]
       }
