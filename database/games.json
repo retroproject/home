@@ -133006,5 +133006,143 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1758897222166_0",
+    "Name": "Timesplitters 2",
+    "SortingName": "Timesplitters 02",
+    "Description": "<b style='color: #ff6b9d; text-shadow: 0 0 8px #ff6b9d;'>Sergeant Cortez</b> discovers that time travel isn't just confusing—it's absolutely bonkers when <b style='color: #4ecdc4; text-shadow: 0 0 8px #4ecdc4;'>TimeSplitters</b> start wreaking havoc across multiple eras.<br>Armed with everything from <b style='color: #ffe66d; text-shadow: 0 0 8px #ffe66d;'>tommy guns</b> to <b style='color: #a8e6cf; text-shadow: 0 0 8px #a8e6cf;'>laser rifles</b>, our hero must hop between the <b style='color: #ffaaa5; text-shadow: 0 0 8px #ffaaa5;'>Wild West</b>, a <b style='color: #ff8b94; text-shadow: 0 0 8px #ff8b94;'>1970s nightclub</b>, and a <b style='color: #b4a7d6; text-shadow: 0 0 8px #b4a7d6;'>space station</b> to stop these temporal troublemakers.<br>Between dodging <b style='color: #d4a574; text-shadow: 0 0 8px #d4a574;'>zombie hordes</b> and <b style='color: #87ceeb; text-shadow: 0 0 8px #87ceeb;'>alien invaders</b>, Cortez quickly learns that saving <b style='color: #98fb98; text-shadow: 0 0 8px #98fb98;'>multiple timelines</b> is like juggling dynamite while riding a unicycle.<br>With <b style='color: #ffa07a; text-shadow: 0 0 8px #ffa07a;'>split-screen mayhem</b> and <b style='color: #dda0dd; text-shadow: 0 0 8px #dda0dd;'>weapon-swapping chaos</b>, this temporal adventure proves that sometimes the best way to fix time is to break it spectacularly first. (2002)",
+    "DescriptionArabic": "<div dir='rtl'>يكتشف <b style='color: #ff6b9d; text-shadow: 0 0 8px #ff6b9d;'>الرقيب كورتيز</b> أن السفر عبر الزمن ليس مربكاً فحسب، بل مجنون تماماً عندما يبدأ <b style='color: #4ecdc4; text-shadow: 0 0 8px #4ecdc4;'>المقسمون الزمنيون</b> في إثارة الفوضى عبر عصور متعددة.<br>مسلحاً بكل شيء من <b style='color: #ffe66d; text-shadow: 0 0 8px #ffe66d;'>البنادق القديمة</b> إلى <b style='color: #a8e6cf; text-shadow: 0 0 8px #a8e6cf;'>أسلحة الليزر</b>، يجب على بطلنا القفز بين <b style='color: #ffaaa5; text-shadow: 0 0 8px #ffaaa5;'>الغرب المتوحش</b> و<b style='color: #ff8b94; text-shadow: 0 0 8px #ff8b94;'>ملهى ليلي من السبعينيات</b> و<b style='color: #b4a7d6; text-shadow: 0 0 8px #b4a7d6;'>محطة فضائية</b> لإيقاف هؤلاء المشاغبين الزمنيين.<br>بين تجنب <b style='color: #d4a574; text-shadow: 0 0 8px #d4a574;'>جحافل الزومبي</b> و<b style='color: #87ceeb; text-shadow: 0 0 8px #87ceeb;'>الغزاة الفضائيين</b>، يتعلم كورتيز بسرعة أن إنقاذ <b style='color: #98fb98; text-shadow: 0 0 8px #98fb98;'>خطوط زمنية متعددة</b> يشبه لعب الكرات المشتعلة أثناء ركوب دراجة وحيدة العجلة.<br>مع <b style='color: #ffa07a; text-shadow: 0 0 8px #ffa07a;'>فوضى الشاشة المقسمة</b> و<b style='color: #dda0dd; text-shadow: 0 0 8px #dda0dd;'>جنون تبديل الأسلحة</b>، تثبت هذه المغامرة الزمنية أن أفضل طريقة لإصلاح الزمن أحياناً هي كسره بشكل مذهل أولاً.</div>",
+    "ReleaseDate": "2002",
+    "CriticScore": 90,
+    "Length": 8,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/TimeSplitters%202%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/TimeSplitters%202%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=4g96xcBtQ1w",
+    "videoStart": 5,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Timesplitters%202%20Main%20Menu%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 2"
+    ],
+    "GenreNames": [
+      "RPG"
+    ],
+    "DeveloperNames": [
+      "Free Radical Design"
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "5 GB",
+            "arguments": [],
+            "emulator": "PCSX2",
+            "filename": "TimeSplitters 2.iso"
+          },
+          {
+            "identifier": "P0211",
+            "name": "HD Textures",
+            "platform": "Sony PlayStation 2",
+            "emulator": "PCSX2",
+            "fileSize": "4GB",
+            "filename": "TimeSplitters 2 HD Textures.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1758897222167_1",
+    "Name": "Timesplitters Future Perfect",
+    "SortingName": "Timesplitters 03",
+    "Description": "<b style='color: #ff6b9d; text-shadow: 0 0 8px #ff6b9d;'>Sergeant Cortez</b> teams up with his <b style='color: #4ecdc4; text-shadow: 0 0 8px #4ecdc4;'>future self</b> and <b style='color: #ffe66d; text-shadow: 0 0 8px #ffe66d;'>past self</b> in the ultimate temporal buddy-cop comedy where working with yourself has never been so hilariously complicated.<br>Racing through <b style='color: #a8e6cf; text-shadow: 0 0 8px #a8e6cf;'>1970s funk clubs</b>, <b style='color: #ffaaa5; text-shadow: 0 0 8px #ffaaa5;'>military bases</b>, and <b style='color: #ff8b94; text-shadow: 0 0 8px #ff8b94;'>alien motherships</b>, our trio of Cortezes must stop <b style='color: #b4a7d6; text-shadow: 0 0 8px #b4a7d6;'>Jacob Crow</b> from unleashing <b style='color: #d4a574; text-shadow: 0 0 8px #d4a574;'>TimeSplitter mayhem</b> across all of history.<br>Between <b style='color: #87ceeb; text-shadow: 0 0 8px #87ceeb;'>disco-dancing zombies</b> and <b style='color: #98fb98; text-shadow: 0 0 8px #98fb98;'>time-bending puzzles</b>, the Cortez brigade discovers that coordinating with multiple versions of yourself is like conducting an orchestra where every musician thinks they're the conductor.<br>With <b style='color: #ffa07a; text-shadow: 0 0 8px #ffa07a;'>co-op chaos</b> and <b style='color: #dda0dd; text-shadow: 0 0 8px #dda0dd;'>temporal teamwork</b>, this adventure proves that three heads are better than one, especially when they're all attached to the same wise-cracking space marine. (2005)",
+    "DescriptionArabic": "<div dir='rtl'>ينضم <b style='color: #ff6b9d; text-shadow: 0 0 8px #ff6b9d;'>الرقيب كورتيز</b> إلى <b style='color: #4ecdc4; text-shadow: 0 0 8px #4ecdc4;'>نفسه المستقبلية</b> و<b style='color: #ffe66d; text-shadow: 0 0 8px #ffe66d;'>نفسه الماضية</b> في كوميديا الشرطة الزمنية المطلقة حيث العمل مع نفسك لم يكن معقداً ومضحكاً هكذا من قبل.<br>يتسابق عبر <b style='color: #a8e6cf; text-shadow: 0 0 8px #a8e6cf;'>نوادي الفانك من السبعينيات</b> و<b style='color: #ffaaa5; text-shadow: 0 0 8px #ffaaa5;'>القواعد العسكرية</b> و<b style='color: #ff8b94; text-shadow: 0 0 8px #ff8b94;'>سفن الأم الفضائية</b>، حيث يجب على ثلاثي كورتيز إيقاف <b style='color: #b4a7d6; text-shadow: 0 0 8px #b4a7d6;'>جاكوب كرو</b> من إطلاق <b style='color: #d4a574; text-shadow: 0 0 8px #d4a574;'>فوضى المقسمين الزمنيين</b> عبر كل التاريخ.<br>بين <b style='color: #87ceeb; text-shadow: 0 0 8px #87ceeb;'>زومبي راقصي الديسكو</b> و<b style='color: #98fb98; text-shadow: 0 0 8px #98fb98;'>ألغاز انحناء الزمن</b>، تكتشف لواء كورتيز أن التنسيق مع نسخ متعددة من نفسك يشبه قيادة أوركسترا حيث كل موسيقي يعتقد أنه القائد.<br>مع <b style='color: #ffa07a; text-shadow: 0 0 8px #ffa07a;'>فوضى التعاون</b> و<b style='color: #dda0dd; text-shadow: 0 0 8px #dda0dd;'>العمل الجماعي الزمني</b>، تثبت هذه المغامرة أن ثلاثة رؤوس أفضل من واحد، خاصة عندما تكون جميعها متصلة بنفس مشاة الفضاء الساخر.</div>",
+    "ReleaseDate": "2005",
+    "CriticScore": 85,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/TimeSplitters%20Future%20Perfect%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/TimeSplitters%20Future%20Perfect%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=ViC2gbGcJhM",
+    "videoStart": 8,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Timesplitters%20Future%20Perfect%20Title%20Screen.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 2"
+    ],
+    "GenreNames": [
+      "Shooter"
+    ],
+    "DeveloperNames": [
+      "Free Radical Design"
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "5 GB",
+            "arguments": [],
+            "emulator": "PCSX2",
+            "romFile": "TimeSplitters Future Perfect.iso",
+            "filename": "TimeSplitters Future Perfect.iso"
+          },
+          {
+            "identifier": "P0211",
+            "name": "HD Textures",
+            "platform": "Sony PlayStation 2",
+            "emulator": "PCSX2",
+            "fileSize": "4GB",
+            "filename": "TimeSplitters Future Perfect HD Textures.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1758897222167_2",
+    "Name": "Timesplitters",
+    "SortingName": "Timesplitters 01",
+    "Description": "<b style='color: #ff6b9d; text-shadow: 0 0 8px #ff6b9d;'>Time crystals</b> scattered across history have awakened the mischievous <b style='color: #4ecdc4; text-shadow: 0 0 8px #4ecdc4;'>TimeSplitters</b>, interdimensional pranksters who think turning every era into their personal playground is absolutely hilarious.<br>From <b style='color: #ffe66d; text-shadow: 0 0 8px #ffe66d;'>1853's Wild West saloons</b> to <b style='color: #a8e6cf; text-shadow: 0 0 8px #a8e6cf;'>2035's cyberpunk cities</b>, these temporal troublemakers are throwing the ultimate cross-century party and everyone's invited—whether they like it or not.<br>Players must jump between <b style='color: #ffaaa5; text-shadow: 0 0 8px #ffaaa5;'>nine different time periods</b>, wielding everything from <b style='color: #ff8b94; text-shadow: 0 0 8px #ff8b94;'>six-shooters</b> to <b style='color: #b4a7d6; text-shadow: 0 0 8px #b4a7d6;'>plasma cannons</b>, while trying to collect those pesky crystals before the <b style='color: #d4a574; text-shadow: 0 0 8px #d4a574;'>TimeSplitters</b> turn all of history into one big cosmic joke.<br>With <b style='color: #87ceeb; text-shadow: 0 0 8px #87ceeb;'>arcade-style mayhem</b> and <b style='color: #98fb98; text-shadow: 0 0 8px #98fb98;'>split-screen shenanigans</b>, this temporal romp proves that some party crashers require serious firepower to evict. (2000)",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #ff6b9d; text-shadow: 0 0 8px #ff6b9d;'>بلورات الزمن</b> المتناثرة عبر التاريخ أيقظت <b style='color: #4ecdc4; text-shadow: 0 0 8px #4ecdc4;'>المقسمين الزمنيين</b> المؤذيين، هؤلاء المزعجين متعددي الأبعاد الذين يعتقدون أن تحويل كل عصر إلى ساحة لعبهم الشخصية أمر مضحك للغاية.<br>من <b style='color: #ffe66d; text-shadow: 0 0 8px #ffe66d;'>صالونات الغرب المتوحش عام 1853</b> إلى <b style='color: #a8e6cf; text-shadow: 0 0 8px #a8e6cf;'>مدن السايبربانك عام 2035</b>، هؤلاء المشاغبون الزمنيون يقيمون الحفلة المطلقة عبر القرون والجميع مدعو—سواء أعجبهم ذلك أم لا.<br>يجب على اللاعبين القفز بين <b style='color: #ffaaa5; text-shadow: 0 0 8px #ffaaa5;'>تسع فترات زمنية مختلفة</b>، حاملين كل شيء من <b style='color: #ff8b94; text-shadow: 0 0 8px #ff8b94;'>المسدسات</b> إلى <b style='color: #b4a7d6; text-shadow: 0 0 8px #b4a7d6;'>مدافع البلازما</b>، بينما يحاولون جمع تلك البلورات المزعجة قبل أن يحول <b style='color: #d4a574; text-shadow: 0 0 8px #d4a574;'>المقسمون الزمنيون</b> كل التاريخ إلى نكتة كونية كبيرة.<br>مع <b style='color: #87ceeb; text-shadow: 0 0 8px #87ceeb;'>فوضى الأركيد</b> و<b style='color: #98fb98; text-shadow: 0 0 8px #98fb98;'>مقالب الشاشة المقسمة</b>، تثبت هذه النزهة الزمنية أن بعض متسللي الحفلات يتطلبون قوة نيران جدية لطردهم.</div>",
+    "ReleaseDate": "2000",
+    "CriticScore": 85,
+    "Length": 8,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/TimeSplitters%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/TimeSplitters%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=cL1vzYvtFP0",
+    "videoStart": 17.4,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/TimeSplitters%20Graeme%20Norgate.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 2"
+    ],
+    "GenreNames": [
+      "Shooter"
+    ],
+    "DeveloperNames": [
+      "Free Radical Design"
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "330 MB",
+            "arguments": [],
+            "emulator": "PCSX2",
+            "romFile": "TimeSplitters.chd",
+            "filename": "TimeSplitters.chd"
+          }
+        ]
+      }
+    }
   }
 ]
