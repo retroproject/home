@@ -133157,12 +133157,12 @@
     "ReleaseDate": "2024-06-19",
     "CriticScore": 80,
     "Length": 8,
-    "BackgroundUrl": "",
-    "CoverUrl": "",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Chained%20Up%20Together%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Chained%20Up%20Together%20Cover.jpg",
     "YouTubeUrl": "https://www.youtube.com/watch?v=mZxGfsXQGX8",
     "videoStart": null,
     "videoEnd": null,
-    "MusicUrl": "",
+    "MusicUrl": "https://archive.org/download/RPRM001/Chained%20Up%20Together%20Menu%20Music.mp3",
     "PlatformNames": [
       "PC Game"
     ],
