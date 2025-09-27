@@ -1739,7 +1739,7 @@
             "name": "Vanilla",
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
-            "fileSize": "4GB",
+            "fileSize": "2GB",
             "notes": "Repackage",
             "romFile": "Tokyo Xtreme Racer Zero (Vanilla).iso",
             "filename": "Tokyo Xtreme Racer Zero (Vanilla).iso"
@@ -28654,7 +28654,7 @@
     "MusicUrl": "https://ia801401.us.archive.org/32/items/retromusic/7515d761-f36e-4109-9200-4b193b75f5ce.mp3",
     "PlatformNames": [
       "PC Game",
-      "Sony Playstation 1"
+      "Sony PlayStation"
     ],
     "GenreNames": [
       "Stealth"
@@ -37256,7 +37256,7 @@
   {
     "_id": "4b0e554e-c064-4d9d-8afc-544798e12dc6",
     "GameId": "365f6e86-2f19-4d96-8e7c-8f1f9e9805d5",
-    "Name": "Tokyo Xtreme Racer",
+    "Name": "Tokyo Xtreme Racer 1999",
     "SortingName": "Tokyo Xtreme Racer 01",
     "Description": "In the neon-soaked highways of <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>Tokyo</span>, street racing takes on a legendary form where anonymous drivers known only by their battle records compete for <span style='color:#00FFFF; font-weight:bold; text-shadow: 0 0 8px #00FFFF;'>highway supremacy</span> throughout the city's sprawling metropolitan expressways.<br>This unique racing experience transforms the real streets of Tokyo into a battleground where drivers challenge rivals through <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>flashing headlights</span> and engage in intense <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>one-on-one battles</span> that determine territorial control and racing reputation, with each victory adding to their growing legend.<br>Players build their dream machine from <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>hundreds of tuning options</span>, creating personalized racing beasts capable of conquering the dangerous curves and straightaways of Tokyo's <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>midnight racing scene</span>.<br>The city becomes a living character itself, where <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>traffic patterns</span>, <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>weather conditions</span>, and the hunt for legendary rivals create an atmospheric racing experience that captures the underground culture of Japan's most infamous <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>street racing brotherhood</span>.",
     "DescriptionArabic": "<div dir='rtl'>في الطرق السريعة المضاءة بالنيون في <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>طوكيو</span>، يأخذ سباق الشوارع شكلاً أسطورياً حيث يتنافس السائقون المجهولون المعروفون فقط بسجلات معاركهم من أجل <span style='color:#00FFFF; font-weight:bold; text-shadow: 0 0 8px #00FFFF;'>هيمنة الطريق السريع</span> في جميع أنحاء الطرق السريعة الحضرية المترامية الأطراف للمدينة.<br>تحول تجربة السباق الفريدة هذه شوارع طوكيو الحقيقية إلى ساحة معركة حيث يتحدى السائقون المنافسين من خلال <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>وميض المصابيح الأمامية</span> ويشاركون في <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>معارك فردية</span> مكثفة تحدد السيطرة الإقليمية وسمعة السباق، حيث تضيف كل نصر إلى أسطورتهم المتنامية.<br>يبني اللاعبون آلة أحلامهم من <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>مئات خيارات التعديل</span>، مما يخلق وحوش سباق شخصية قادرة على قهر المنحنيات الخطيرة والطرق المستقيمة في <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>مشهد سباق منتصف الليل</span> في طوكيو.<br>تصبح المدينة شخصية حية بحد ذاتها، حيث <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>أنماط المرور</span> و <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>الظروف الجوية</span> والسعي وراء المنافسين الأسطوريين تخلق تجربة سباق جوية تجسد الثقافة السرية لأشهر <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>أخوية سباق الشوارع</span> في اليابان.</div>",
@@ -56061,6 +56061,7 @@
             "platform": "PC Game",
             "executable": "Ship\\Hades2.exe",
             "fileSize": "9GB",
+            "buildID": "25 September 2025",
             "filename": "00102.zip"
           }
         ]
@@ -56193,9 +56194,9 @@
     }
   },
   {
-    "_id": "71c471fc-1e90-491f-856e-92cf0718205a",
+    "_id": "game_1758897222167_4",
     "GameId": "4c6a62d0f7349359104678c761a96f0d",
-    "Name": "Tokyo Xtreme Racer",
+    "Name": "Tokyo Xtreme Racer 2025",
     "SortingName": "Tokyo Xtreme Racer 07",
     "Description": "In the neon-soaked midnight hours of <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>Tokyo's highways</span>, underground street racers emerge from the shadows to compete in illegal high-speed battles across the city's sprawling freeway system.<br>Behind the wheel of heavily modified <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Japanese sports cars</span>, drivers with legendary reputations defend their territories against challengers seeking to climb the ranks of the underground racing scene.<br>Each racer carries their own story, their own reasons for risking everything on these dangerous midnight runs where honor, pride, and respect are earned through skillful driving and strategic vehicle customization.<br>Navigate through the complex web of <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 6px #FFD700;'>Tokyo's expressways</span> while avoiding police patrols, managing <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>spiritual pressure</span> during intense duels, and building the ultimate racing machine to become the undisputed <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>king</span> of the <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>midnight</span> <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 6px #87CEEB;'>streets</span>.",
     "DescriptionArabic": "<div dir='rtl'>في ساعات منتصف الليل المشبعة بالنيون على <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>طرق طوكيو السريعة</span>، يظهر متسابقو الشوارع تحت الأرض من الظلال للتنافس في معارك عالية السرعة غير قانونية عبر نظام الطرق السريعة المترامية في المدينة.<br>خلف عجلة القيادة لـ<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>السيارات الرياضية اليابانية</span> المعدلة بقوة، يدافع السائقون ذوو السمعة الأسطورية عن أراضيهم ضد المتحدين الساعين لتسلق رتب مشهد السباق تحت الأرض.<br>كل متسابق يحمل قصته الخاصة، أسبابه الخاصة للمخاطرة بكل شيء في هذه الجولات الخطيرة في منتصف الليل حيث الشرف والفخر والاحترام تُكسب من خلال القيادة الماهرة وتخصيص المركبات الاستراتيجي.<br>تنقل عبر الشبكة المعقدة من <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 6px #FFD700;'>طرق طوكيو السريعة</span> بينما تتجنب دوريات الشرطة وتدير <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>الضغط الروحي</span> أثناء المبارزات المكثفة وتبني آلة السباق النهائية لتصبح <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>ملك</span> <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>منتصف الليل</span> في <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 6px #87CEEB;'>الشوارع</span> بلا منازع.</div>",
@@ -56222,13 +56223,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC31",
+            "identifier": "RPRP003",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "7GB",
+            "fileSize": "10GB",
             "arguments": [],
             "executable": "TokyoXtremeRacer.exe",
-            "filename": "Tokyo Xtreme Racer.zip"
+            "buildID": "26 September 2025",
+            "filename": "00103.zip"
           }
         ]
       }
@@ -92463,7 +92465,7 @@
     "CoverImage": "9b7e42cd-cdb8-4dd3-b1dd-e56bcbdc9823.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/48338ec2-6857-42eb-b6f4-32294829c3f7.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/9b7e42cd-cdb8-4dd3-b1dd-e56bcbdc9823.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=XBTODd0s_8s",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/b808e08e-756e-4107-b26a-b0f0e7e9f795.mp3",
@@ -92480,13 +92482,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC40",
+            "identifier": "RPRP003",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "3GB",
+            "fileSize": "7GB",
             "arguments": [],
             "executable": "Ravenswatch.exe",
-            "filename": "Ravenswatch.zip"
+            "buildID": "17 September 2025",
+            "filename": "00105.zip"
           }
         ]
       }
@@ -101318,7 +101321,7 @@
     "MusicUrl": "https://archive.org/download/retromusic/c81fbba9-e547-49a1-8af1-ad4871ca9324.mp3",
     "PlatformNames": [
       "Nintendo GameCube",
-      "Sony Playstation 2"
+      "Sony PlayStation 2"
     ],
     "GenreNames": [
       "Fighting"
@@ -131502,8 +131505,8 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromedia/Colin%20McRae%20Rally%202.0%20Theme.mp3",
     "PlatformNames": [
-      "Sony Playstation 1",
-      "PC Game"
+      "PC Game",
+      "Sony PlayStation"
     ],
     "GenreNames": [
       "Racing"
@@ -131562,7 +131565,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromedia/Colin%20McRae%20Rally%20Theme.mp3",
     "PlatformNames": [
-      "Sony Playstation 1"
+      "Sony PlayStation"
     ],
     "GenreNames": [
       "Racing"
@@ -133140,6 +133143,252 @@
             "emulator": "PCSX2",
             "romFile": "TimeSplitters.chd",
             "filename": "TimeSplitters.chd"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1758917544591_0",
+    "Name": "Chained Together",
+    "SortingName": "",
+    "Description": "<b style='color: #ff4444; text-shadow: 0 0 8px #ff4444;'>Hell's molten depths</b> bubble beneath your feet as you and your companions find yourselves bound by <b style='color: #666666; text-shadow: 0 0 8px #666666;'>unbreakable chains</b> in this ultimate test of cooperative survival.<br>Each <b style='color: #ffaa00; text-shadow: 0 0 8px #ffaa00;'>desperate leap</b> and <b style='color: #8888ff; text-shadow: 0 0 8px #8888ff;'>coordinated climb</b> requires perfect synchronization as the <b style='color: #ff6600; text-shadow: 0 0 8px #ff6600;'>rising lava</b> threatens to consume everything in its path.<br>Through <b style='color: #00aa44; text-shadow: 0 0 8px #00aa44;'>treacherous platforms</b> and <b style='color: #aa44aa; text-shadow: 0 0 8px #aa44aa;'>crumbling ledges</b>, your <b style='color: #666666; text-shadow: 0 0 8px #666666;'>chain</b> becomes both lifeline and liability, demanding trust and communication with every precarious step.<br>From <b style='color: #ff0088; text-shadow: 0 0 8px #ff0088;'>beginner's hope</b> to <b style='color: #ff0000; text-shadow: 0 0 8px #ff0000;'>lava mode's nightmare</b>, this <b style='color: #ffdd00; text-shadow: 0 0 8px #ffdd00;'>vertical gauntlet</b> proves that sometimes the only way out of hell is together—or not at all. (2024-06-19)",
+    "DescriptionArabic": "<div dir='rtl'>تفور <b style='color: #ff4444; text-shadow: 0 0 8px #ff4444;'>أعماق الجحيم المنصهرة</b> تحت أقدامكم بينما تجدون أنفسكم مقيدين بـ<b style='color: #666666; text-shadow: 0 0 8px #666666;'>سلاسل لا تُكسر</b> في هذا الاختبار الأقصى للبقاء التعاوني.<br>كل <b style='color: #ffaa00; text-shadow: 0 0 8px #ffaa00;'>قفزة يائسة</b> و<b style='color: #8888ff; text-shadow: 0 0 8px #8888ff;'>تسلق منسق</b> يتطلب توقيتاً مثالياً بينما <b style='color: #ff6600; text-shadow: 0 0 8px #ff6600;'>الحمم المتصاعدة</b> تهدد بالتهام كل شيء في طريقها.<br>عبر <b style='color: #00aa44; text-shadow: 0 0 8px #00aa44;'>منصات غادرة</b> و<b style='color: #aa44aa; text-shadow: 0 0 8px #aa44aa;'>حواف متداعية</b>، تصبح <b style='color: #666666; text-shadow: 0 0 8px #666666;'>سلسلتكم</b> خط حياة وعبء في آن واحد، تطالب بالثقة والتواصل مع كل خطوة محفوفة بالمخاطر.<br>من <b style='color: #ff0088; text-shadow: 0 0 8px #ff0088;'>أمل المبتدئين</b> إلى <b style='color: #ff0000; text-shadow: 0 0 8px #ff0000;'>كابوس وضع الحمم</b>، يثبت هذا <b style='color: #ffdd00; text-shadow: 0 0 8px #ffdd00;'>التحدي العمودي</b> أن أحياناً الطريق الوحيد للخروج من الجحيم هو معاً—أو لا يكون على الإطلاق.</div>",
+    "ReleaseDate": "2024-06-19",
+    "CriticScore": 80,
+    "Length": 8,
+    "BackgroundUrl": "",
+    "CoverUrl": "",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=mZxGfsXQGX8",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Platform"
+    ],
+    "DeveloperNames": [
+      "Anegar Games"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP003",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "ChainedTogether.exe",
+            "arguments": [],
+            "buildID": "1.8.2",
+            "filename": "00104.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1758918935746_0",
+    "Name": "Duck Detective The Ghost Of Glamping",
+    "SortingName": "",
+    "Description": "<b style='color: #ffd700; text-shadow: 0 0 8px #ffd700;'>Eugene McQuacklin</b> waddles back into action as the world's most depressed—and recently divorced—<b style='color: #4169e1; text-shadow: 0 0 8px #4169e1;'>duck detective</b>, trading his usual bread crumbs for supernatural mysteries at a <b style='color: #98fb98; text-shadow: 0 0 8px #98fb98;'>haunted glamping resort</b>.<br>Armed with nothing but his <b style='color: #ff6347; text-shadow: 0 0 8px #ff6347;'>sharp wit</b>, <b style='color: #dda0dd; text-shadow: 0 0 8px #dda0dd;'>questionable social skills</b>, and an uncanny ability to ruffle feathers, Eugene must interview a cast of <b style='color: #ffa500; text-shadow: 0 0 8px #ffa500;'>suspiciously secretive characters</b> who seem more interested in keeping secrets than roasting marshmallows.<br>Between dodging <b style='color: #708090; text-shadow: 0 0 8px #708090;'>ghostly apparitions</b> and deciphering <b style='color: #20b2aa; text-shadow: 0 0 8px #20b2aa;'>cryptic clues</b>, our feathered <b style='color: #dc143c; text-shadow: 0 0 8px #dc143c;'>noir hero</b> discovers that solving paranormal cases is almost as complicated as his recent divorce proceedings.<br>With <b style='color: #32cd32; text-shadow: 0 0 8px #32cd32;'>witty dialogue</b>, <b style='color: #ff1493; text-shadow: 0 0 8px #ff1493;'>cozy campfire atmosphere</b>, and enough <b style='color: #8a2be2; text-shadow: 0 0 8px #8a2be2;'>supernatural shenanigans</b> to make <b style='color: #b8860b; text-shadow: 0 0 8px #b8860b;'>Agatha Christie</b> herself chuckle, this adventure proves that sometimes the best mysteries come with a side of marshmallows. (2024)",
+    "DescriptionArabic": "<div dir='rtl'>يعود <b style='color: #ffd700; text-shadow: 0 0 8px #ffd700;'>يوجين مكواكلين</b> للعمل مرة أخرى كأكثر <b style='color: #4169e1; text-shadow: 0 0 8px #4169e1;'>محقق بطة</b> اكتئاباً في العالم—ومطلق حديثاً—مستبدلاً فتات الخبز المعتاد بألغاز خارقة في <b style='color: #98fb98; text-shadow: 0 0 8px #98fb98;'>منتجع تخييم فاخر مسكون</b>.<br>مسلح بلا شيء سوى <b style='color: #ff6347; text-shadow: 0 0 8px #ff6347;'>ذكائه الحاد</b> و<b style='color: #dda0dd; text-shadow: 0 0 8px #dda0dd;'>مهاراته الاجتماعية المشكوك فيها</b> وقدرة مذهلة على إزعاج الآخرين، يجب على يوجين مقابلة مجموعة من <b style='color: #ffa500; text-shadow: 0 0 8px #ffa500;'>الشخصيات المريبة والكتومة</b> التي تبدو أكثر اهتماماً بحفظ الأسرار من شوي الخطمي.<br>بين تجنب <b style='color: #708090; text-shadow: 0 0 8px #708090;'>الأشباح الطيفية</b> وفك رموز <b style='color: #20b2aa; text-shadow: 0 0 8px #20b2aa;'>الأدلة الغامضة</b>، يكتشف <b style='color: #dc143c; text-shadow: 0 0 8px #dc143c;'>بطلنا المريش النوار</b> أن حل القضايا الخارقة معقد تقريباً مثل إجراءات طلاقه الأخيرة.<br>مع <b style='color: #32cd32; text-shadow: 0 0 8px #32cd32;'>حوارات ذكية</b> و<b style='color: #ff1493; text-shadow: 0 0 8px #ff1493;'>أجواء نار المخيم الدافئة</b> وما يكفي من <b style='color: #8a2be2; text-shadow: 0 0 8px #8a2be2;'>المقالب الخارقة</b> لجعل <b style='color: #b8860b; text-shadow: 0 0 8px #b8860b;'>أجاثا كريستي</b> نفسها تضحك، تثبت هذه المغامرة أن أفضل الألغاز أحياناً تأتي مع طبق جانبي من الخطمي.</div>",
+    "ReleaseDate": "2024",
+    "CriticScore": 75,
+    "Length": 3,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Duck%20Detective%20The%20Ghost%20of%20Glamping%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Duck%20Detective%20The%20Ghost%20of%20Glamping%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=YSen3srIrHQ",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Duck%20Detective%20The%20Ghost%20of%20Glamping%20Funny.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Happy Broccoli Games"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP003",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "630 MB",
+            "executable": "Duck Detective - The Ghost of Glamping.exe",
+            "arguments": [],
+            "buildID": "21 September 2025",
+            "filename": "00106.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1758919289379_0",
+    "Name": "Tony Hawk's Pro Skater 1 And 2",
+    "SortingName": "Tony Hawk's Pro Skater 01",
+    "Description": "The legendary <b style='color: #ff4500; text-shadow: 0 0 8px #ff4500;'>Tony Hawk</b> returns in this definitive remaster, where concrete becomes canvas and <b style='color: #00ff00; text-shadow: 0 0 8px #00ff00;'>gravity-defying tricks</b> paint the urban landscape with pure adrenaline.<br>From the iconic <b style='color: #ff6347; text-shadow: 0 0 8px #ff6347;'>Warehouse</b> to the bustling <b style='color: #32cd32; text-shadow: 0 0 8px #32cd32;'>School II</b>, every halfpipe, rail, and ramp has been lovingly rebuilt with stunning HD clarity while preserving the <b style='color: #ffd700; text-shadow: 0 0 8px #ffd700;'>soul-crushing satisfaction</b> of landing the perfect combo.<br>Chain together <b style='color: #ff1493; text-shadow: 0 0 8px #ff1493;'>kickflips</b>, <b style='color: #00bfff; text-shadow: 0 0 8px #00bfff;'>900s</b>, and <b style='color: #9370db; text-shadow: 0 0 8px #9370db;'>manual chains</b> as the era-defining <b style='color: #ff69b4; text-shadow: 0 0 8px #ff69b4;'>punk rock soundtrack</b> drives you toward that elusive <b style='color: #ffff00; text-shadow: 0 0 8px #ffff00;'>sick score</b>.<br>Whether you're hunting for the secret <b style='color: #87ceeb; text-shadow: 0 0 8px #87ceeb;'>S-K-A-T-E</b> letters or creating the ultimate <b style='color: #dda0dd; text-shadow: 0 0 8px #dda0dd;'>skate park</b>, this collection proves that some legends never fade—they just get better wheels and sharper graphics. (2020)",
+    "DescriptionArabic": "<div dir='rtl'>يعود الأسطوري <b style='color: #ff4500; text-shadow: 0 0 8px #ff4500;'>توني هوك</b> في هذا الإصدار المحدث النهائي، حيث تصبح الخرسانة لوحة و<b style='color: #00ff00; text-shadow: 0 0 8px #00ff00;'>الحركات المتحدية للجاذبية</b> ترسم المشهد الحضري بالأدرينالين الخالص.<br>من <b style='color: #ff6347; text-shadow: 0 0 8px #ff6347;'>المستودع</b> الأيقوني إلى <b style='color: #32cd32; text-shadow: 0 0 8px #32cd32;'>المدرسة الثانية</b> المزدحمة، كل منحدر وقضيب ومنصة أُعيد بناؤها بحب بوضوح HD مذهل مع الحفاظ على <b style='color: #ffd700; text-shadow: 0 0 8px #ffd700;'>الرضا المدمر للروح</b> من تنفيذ الكومبو المثالي.<br>اربط <b style='color: #ff1493; text-shadow: 0 0 8px #ff1493;'>الكيك فليب</b> و<b style='color: #00bfff; text-shadow: 0 0 8px #00bfff;'>الـ900</b> و<b style='color: #9370db; text-shadow: 0 0 8px #9370db;'>سلاسل المانوال</b> بينما <b style='color: #ff69b4; text-shadow: 0 0 8px #ff69b4;'>موسيقى البانك روك</b> المحددة للعصر تدفعك نحو <b style='color: #ffff00; text-shadow: 0 0 8px #ffff00;'>النتيجة المذهلة</b> بعيدة المنال.<br>سواء كنت تبحث عن حروف <b style='color: #87ceeb; text-shadow: 0 0 8px #87ceeb;'>س-ك-ي-ت</b> السرية أو تبني <b style='color: #dda0dd; text-shadow: 0 0 8px #dda0dd;'>حديقة التزلج</b> المثالية، تثبت هذه المجموعة أن بعض الأساطير لا تتلاشى أبداً—بل تحصل على عجلات أفضل ورسوميات أوضح.</div>",
+    "ReleaseDate": "2020",
+    "CriticScore": 85,
+    "Length": 12,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Tony%20Hawk's%20Pro%20Skater%201%20and%202%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Tony%20Hawk's%20Pro%20Skater%201%20and%202%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=22MQBu_jiH4",
+    "videoStart": 1,
+    "videoEnd": 95,
+    "MusicUrl": "https://archive.org/download/RPRM001/Tony%20Hawk's%20Pro%20Skater%201%20and%202%20All%20My%20Friends%20Are%20Nobodies.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Sports"
+    ],
+    "DeveloperNames": [
+      "Vicarious Visions"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP003",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "22 GB",
+            "executable": "Base\\Binaries\\Win64\\THPS12.exe",
+            "buildID": "9 November 2023",
+            "arguments": [],
+            "filename": "00107.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1758919770712_0",
+    "Name": "Destrega",
+    "SortingName": "",
+    "Description": "Ancient whispers of the <b style='color: #8a2be2; text-shadow: 0 0 8px #8a2be2;'>STREGA</b> echo across mystical battlefields where magic supersedes muscle in this revolutionary arena of ethereal combat.<br>Warriors dance through <b style='color: #4b0082; text-shadow: 0 0 8px #4b0082;'>three-dimensional spaces</b>, weaving <b style='color: #ff6347; text-shadow: 0 0 8px #ff6347;'>Till</b>, <b style='color: #32cd32; text-shadow: 0 0 8px #32cd32;'>Est</b>, and <b style='color: #ffd700; text-shadow: 0 0 8px #ffd700;'>Foh</b> incantations into devastating spell combinations while <b style='color: #dc143c; text-shadow: 0 0 8px #dc143c;'>mystical relics</b> pulse with forbidden power.<br>In the shadow of <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Zamuel's fallen glory</b> and the <b style='color: #800080; text-shadow: 0 0 8px #800080;'>Empire of Ibsen's</b> iron grip, each <b style='color: #ff1493; text-shadow: 0 0 8px #ff1493;'>arcane projectile</b> fired becomes a prayer to forgotten gods, each <b style='color: #20b2aa; text-shadow: 0 0 8px #20b2aa;'>teleportation dash</b> a step closer to destiny.<br>This realm where <b style='color: #9370db; text-shadow: 0 0 8px #9370db;'>Fast conquers Power</b>, <b style='color: #ff8c00; text-shadow: 0 0 8px #ff8c00;'>Power devours Span</b>, and <b style='color: #00ced1; text-shadow: 0 0 8px #00ced1;'>Span consumes Fast</b> transforms traditional combat into a <b style='color: #dda0dd; text-shadow: 0 0 8px #dda0dd;'>mystical chess match</b> where only those who master the ancient triangle of destruction shall claim victory. (1999)",
+    "DescriptionArabic": "<div dir='rtl'>تتردد همسات قديمة من <b style='color: #8a2be2; text-shadow: 0 0 8px #8a2be2;'>الستريجا</b> عبر ساحات معارك صوفية حيث يتفوق السحر على العضلات في هذه الحلبة الثورية للقتال الأثيري.<br>يرقص المحاربون عبر <b style='color: #4b0082; text-shadow: 0 0 8px #4b0082;'>مساحات ثلاثية الأبعاد</b>، ناسجين تعاويذ <b style='color: #ff6347; text-shadow: 0 0 8px #ff6347;'>تيل</b> و<b style='color: #32cd32; text-shadow: 0 0 8px #32cd32;'>إست</b> و<b style='color: #ffd700; text-shadow: 0 0 8px #ffd700;'>فوه</b> في تركيبات تعاويذ مدمرة بينما <b style='color: #dc143c; text-shadow: 0 0 8px #dc143c;'>الآثار الصوفية</b> تنبض بقوة محرمة.<br>في ظل <b style='color: #708090; text-shadow: 0 0 8px #708090;'>مجد زامويل المتداعي</b> وقبضة <b style='color: #800080; text-shadow: 0 0 8px #800080;'>إمبراطورية إبسن</b> الحديدية، كل <b style='color: #ff1493; text-shadow: 0 0 8px #ff1493;'>قذيفة سحرية</b> تُطلق تصبح صلاة لآلهة منسية، كل <b style='color: #20b2aa; text-shadow: 0 0 8px #20b2aa;'>اندفاعة تنقل</b> خطوة أقرب للقدر.<br>هذا العالم حيث <b style='color: #9370db; text-shadow: 0 0 8px #9370db;'>السرعة تقهر القوة</b> و<b style='color: #ff8c00; text-shadow: 0 0 8px #ff8c00;'>القوة تلتهم التشتت</b> و<b style='color: #00ced1; text-shadow: 0 0 8px #00ced1;'>التشتت يستهلك السرعة</b> يحول القتال التقليدي إلى <b style='color: #dda0dd; text-shadow: 0 0 8px #dda0dd;'>مباراة شطرنج صوفية</b> حيث فقط أولئك الذين يتقنون مثلث الدمار القديم سينالون النصر.</div>",
+    "ReleaseDate": "1999",
+    "CriticScore": 65,
+    "Length": 6,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Destrega%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Destrega%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=HxsomKx5UI0",
+    "videoStart": 16,
+    "videoEnd": 93,
+    "MusicUrl": "https://archive.org/download/RPRM001/Destrega%20Battle%20V.mp3",
+    "PlatformNames": [
+      "Sony PlayStation"
+    ],
+    "GenreNames": [
+      "Fighting"
+    ],
+    "DeveloperNames": [
+      "Koei"
+    ],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "retro-psx",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 1",
+            "fileSize": "300 MB",
+            "arguments": [],
+            "emulator": "DuckStation",
+            "romFile": "Destrega.chd",
+            "filename": "Destrega.chd"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1758920504734_0",
+    "Name": "Tony Hawk's Pro Skater 3 And 4",
+    "SortingName": "Tony Hawk's Pro Skater 02",
+    "Description": "The <b style='color: #ff4500; text-shadow: 0 0 8px #ff4500;'>skateboarding revolution</b> continues as concrete legends return with twice the parks, twice the tricks, and unlimited possibilities for <b style='color: #00ff7f; text-shadow: 0 0 8px #00ff7f;'>aerial mastery</b>.<br>From <b style='color: #ff6347; text-shadow: 0 0 8px #ff6347;'>Foundry's molten chaos</b> to <b style='color: #32cd32; text-shadow: 0 0 8px #32cd32;'>Alcatraz's prison walls</b>, these remastered arenas push the boundaries of what's possible when wheels meet pavement in glorious <b style='color: #ffd700; text-shadow: 0 0 8px #ffd700;'>4K perfection</b>.<br>Master the art of <b style='color: #ff1493; text-shadow: 0 0 8px #ff1493;'>spine transfers</b>, <b style='color: #00bfff; text-shadow: 0 0 8px #00bfff;'>revert combos</b>, and <b style='color: #9370db; text-shadow: 0 0 8px #9370db;'>vert ramp madness</b> while 29 legendary skaters—including the <b style='color: #dc143c; text-shadow: 0 0 8px #dc143c;'>Doom Slayer</b> himself—demonstrate that skateboarding knows no limits.<br>With <b style='color: #ff69b4; text-shadow: 0 0 8px #ff69b4;'>cross-platform multiplayer</b> uniting skaters worldwide and <b style='color: #ffff00; text-shadow: 0 0 8px #ffff00;'>Create-A-Park</b> tools limited only by imagination, this collection proves that some dreams are worth landing—even if it takes a thousand <b style='color: #87ceeb; text-shadow: 0 0 8px #87ceeb;'>epic bails</b> to get there. (2025)",
+    "DescriptionArabic": "<div dir='rtl'>تستمر <b style='color: #ff4500; text-shadow: 0 0 8px #ff4500;'>ثورة التزلج</b> بينما تعود أساطير الخرسانة مع ضعف الحدائق وضعف الحركات وإمكانيات لا محدودة <b style='color: #00ff7f; text-shadow: 0 0 8px #00ff7f;'>للإتقان الجوي</b>.<br>من <b style='color: #ff6347; text-shadow: 0 0 8px #ff6347;'>فوضى المسبك المنصهرة</b> إلى <b style='color: #32cd32; text-shadow: 0 0 8px #32cd32;'>جدران سجن الكاتراز</b>، تدفع هذه الحلبات المحدثة حدود ما هو ممكن عندما تلتقي العجلات بالرصيف في <b style='color: #ffd700; text-shadow: 0 0 8px #ffd700;'>كمال 4K</b> المجيد.<br>أتقن فن <b style='color: #ff1493; text-shadow: 0 0 8px #ff1493;'>انتقالات العمود الفقري</b> و<b style='color: #00bfff; text-shadow: 0 0 8px #00bfff;'>كومبوهات الإرجاع</b> و<b style='color: #9370db; text-shadow: 0 0 8px #9370db;'>جنون المنحدر العمودي</b> بينما 29 متزلجاً أسطورياً—بما في ذلك <b style='color: #dc143c; text-shadow: 0 0 8px #dc143c;'>قاتل الموت</b> نفسه—يثبتون أن التزلج لا يعرف حدوداً.<br>مع <b style='color: #ff69b4; text-shadow: 0 0 8px #ff69b4;'>اللعب الجماعي عبر المنصات</b> يوحد المتزلجين حول العالم وأدوات <b style='color: #ffff00; text-shadow: 0 0 8px #ffff00;'>إنشاء الحديقة</b> محدودة فقط بالخيال، تثبت هذه المجموعة أن بعض الأحلام تستحق الهبوط—حتى لو تطلب الأمر ألف <b style='color: #87ceeb; text-shadow: 0 0 8px #87ceeb;'>سقطة ملحمية</b> للوصول إلى هناك.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 75,
+    "Length": 8,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Tony%20Hawk's%20Pro%20Skater%203%20And%204%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Tony%20Hawk's%20Pro%20Skater%203%20And%204%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=Od6GRg0GhRc",
+    "videoStart": 0.8,
+    "videoEnd": 96,
+    "MusicUrl": "https://archive.org/download/RPRM001/Tony%20Hawk's%20Pro%20Skater%203%20And%204%20Ace%20of%20Spades.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Sports"
+    ],
+    "DeveloperNames": [
+      "Iron Galaxy"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP003",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "52 GB",
+            "executable": "Base\\Binaries\\Win64\\THPS34.exe",
+            "arguments": [],
+            "buildID": "9 September 2025",
+            "filename": "00108.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1758922129328_0",
+    "Name": "Bio Evil 4",
+    "SortingName": "",
+    "Description": "<b style='color: #8b0000; text-shadow: 0 0 8px #8b0000;'>Pixelated nightmares</b> emerge from the depths of classic horror as this <b style='color: #4b0082; text-shadow: 0 0 8px #4b0082;'>8-bit demake</b> resurrects terror in its purest, most unforgiving form.<br>Every <b style='color: #dc143c; text-shadow: 0 0 8px #dc143c;'>chunky sprite</b> and <b style='color: #800080; text-shadow: 0 0 8px #800080;'>chiptune scream</b> channels the merciless spirit of <b style='color: #2f4f4f; text-shadow: 0 0 8px #2f4f4f;'>Super Ghouls 'n Ghosts</b>, where death lurks behind every perfectly crafted pixel and <b style='color: #556b2f; text-shadow: 0 0 8px #556b2f;'>biological horrors</b> shuffle through retro landscapes.<br>This <b style='color: #b22222; text-shadow: 0 0 8px #b22222;'>arcade-style gauntlet</b> strips away modern conveniences, leaving only raw skill, <b style='color: #8b4513; text-shadow: 0 0 8px #8b4513;'>pixel-perfect timing</b>, and the haunting realization that sometimes <b style='color: #483d8b; text-shadow: 0 0 8px #483d8b;'>baby mode</b> isn't shameful—it's survival.<br>Where <b style='color: #696969; text-shadow: 0 0 8px #696969;'>16-bit aesthetics</b> meet <b style='color: #8b008b; text-shadow: 0 0 8px #8b008b;'>modern brutality</b>, this lovingly crafted tribute proves that true horror doesn't need high-definition graphics—just the crushing weight of <b style='color: #a0522d; text-shadow: 0 0 8px #a0522d;'>inevitable failure</b> and the sweet agony of <b style='color: #2e8b57; text-shadow: 0 0 8px #2e8b57;'>one more try</b>. (2025)",
+    "DescriptionArabic": "<div dir='rtl'>تظهر <b style='color: #8b0000; text-shadow: 0 0 8px #8b0000;'>كوابيس البكسل</b> من أعماق الرعب الكلاسيكي بينما تقوم هذه <b style='color: #4b0082; text-shadow: 0 0 8px #4b0082;'>النسخة المصغرة 8-بت</b> بإحياء الرعب في شكله الأنقى والأكثر قسوة.<br>كل <b style='color: #dc143c; text-shadow: 0 0 8px #dc143c;'>سبرايت مكتنز</b> و<b style='color: #800080; text-shadow: 0 0 8px #800080;'>صرخة تشيب تيون</b> تستحضر روح <b style='color: #2f4f4f; text-shadow: 0 0 8px #2f4f4f;'>سوبر غولز آند غوستس</b> الذي لا يرحم، حيث يكمن الموت خلف كل بكسل مصنوع بإتقان و<b style='color: #556b2f; text-shadow: 0 0 8px #556b2f;'>أهوال بيولوجية</b> تتجول عبر المناظر الريترو.<br>هذه <b style='color: #b22222; text-shadow: 0 0 8px #b22222;'>قفازات الأركيد</b> تجرد الراحة الحديثة، تاركة فقط المهارة الخام و<b style='color: #8b4513; text-shadow: 0 0 8px #8b4513;'>التوقيت المثالي للبكسل</b> والإدراك المؤرق أن أحياناً <b style='color: #483d8b; text-shadow: 0 0 8px #483d8b;'>وضع الطفل</b> ليس مخجلاً—إنه البقاء.<br>حيث تلتقي <b style='color: #696969; text-shadow: 0 0 8px #696969;'>جماليات 16-بت</b> مع <b style='color: #8b008b; text-shadow: 0 0 8px #8b008b;'>الوحشية الحديثة</b>، تثبت هذه التحية المصنوعة بحب أن الرعب الحقيقي لا يحتاج رسوميات عالية الدقة—فقط الوزن الساحق <b style='color: #a0522d; text-shadow: 0 0 8px #a0522d;'>للفشل الحتمي</b> وعذاب <b style='color: #2e8b57; text-shadow: 0 0 8px #2e8b57;'>محاولة أخرى</b> الحلو.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "Length": 16,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Bio%20Evil%204%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Bio%20Evil%204%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=6VlfdFAz6hM",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Bio%20Evil%204%20Save%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "Gypopothomas"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP003",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "140 MB",
+            "executable": "BioEvil4-0.2.5a.exe",
+            "arguments": [],
+            "buildID": "0.2.5a",
+            "filename": "00109.zip"
           }
         ]
       }
