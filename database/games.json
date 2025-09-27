@@ -24501,7 +24501,7 @@
     "_id": "31e57721-585f-4172-ab43-e5273e8c2979",
     "GameId": "15be3064-06aa-4002-bcf3-1c5c5e554454",
     "Name": "Pac-Man World 2",
-    "SortingName": "PAC-MAN 05",
+    "SortingName": "PAC-MAN 05.01",
     "Description": "The beloved <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>yellow circular hero</span> discovers that retirement doesn't last when the vindictive <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Ghost Gang</span> kidnaps his entire family in the most elaborate revenge plot in gaming history.<br>Armed with legendary <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>chomping abilities</span> and newfound <span style='color:#00FF00; font-weight:bold; text-shadow: 0 0 8px #00FF00;'>butt-bouncing</span> skills, Pac-Man ventures through a three-dimensional world where <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>Power Pellets</span> remain the ultimate solution to every obstacle.<br>From treacherous <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>volcanic pits</span> to haunted <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>mansion corridors</span>, our spherical savior proves that heroism requires only insatiable appetite and the ability to produce that iconic <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>waka-waka sound</span>.<br>Witnessing a <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>living emoji</span> transform into an action hero becomes the most unexpectedly epic adventure in <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>video game history</span>.",
     "DescriptionArabic": "<div dir='rtl'>يكتشف <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>بطلنا الدائري الأصفر</span> المحبوب أن التقاعد من الجري في المتاهات لا يدوم طويلاً عندما تختطف <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>عصابة الأشباح</span> عائلته بأكملها لما يجب أن يكون أكثر مؤامرة انتقام سلبية-عدوانية في تاريخ الألعاب! مسلح بلا شيء سوى <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>قدراته الأسطورية في القضم</span> وموهبة جديدة في <span style='color:#00FF00; font-weight:bold; text-shadow: 0 0 8px #00FF00;'>النط بالمؤخرة</span> (لأن هذا شيء واضح الآن)، يغامر باك-مان في عالم ثلاثي الأبعاد حيث <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>حبوب القوة</span> لا تزال الحل لكل مشكلة. من <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>حفر الحمم البركانية</span> إلى <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>القصور المخيفة</span>، يثبت منقذنا الكروي أنك لا تحتاج إلى أطراف لتكون أسطورة في المنصات—فقط شهية لا تشبع والقدرة على إصدار <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>صوت واكا-واكا</span> الأيقوني أثناء إنقاذ اليوم. إنه مثل مشاهدة <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>إيموجي حي</span> يصبح بطل أكشن!</div>",
     "ReleaseDate": "2002-2-24",
@@ -133394,5 +133394,173 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1758974780381_0",
+    "Name": "Class of Heroes",
+    "SortingName": "Class of Heroes 01",
+    "Description": "The hallowed halls of <b style='color: #4169e1; text-shadow: 0 0 8px #4169e1;'>Particus Academy</b> welcome aspiring heroes ready to transform from eager students into legends that will shape the world's destiny.<br>Within these <b style='color: #ffd700; text-shadow: 0 0 8px #ffd700;'>sacred classrooms</b> and treacherous <b style='color: #8b4513; text-shadow: 0 0 8px #8b4513;'>75 dungeons</b>, young souls discover their true calling through <b style='color: #32cd32; text-shadow: 0 0 8px #32cd32;'>strategic party building</b>, <b style='color: #ff6347; text-shadow: 0 0 8px #ff6347;'>turn-based mastery</b>, and the profound bonds forged between <b style='color: #9370db; text-shadow: 0 0 8px #9370db;'>diverse races and classes</b>.<br>Every <b style='color: #ff1493; text-shadow: 0 0 8px #ff1493;'>crafted weapon</b> represents growth, every <b style='color: #20b2aa; text-shadow: 0 0 8px #20b2aa;'>conquered labyrinth</b> builds character, and every <b style='color: #daa520; text-shadow: 0 0 8px #daa520;'>tactical retreat</b> teaches wisdom—for true heroes understand that courage isn't the absence of fear, but knowing when to fight and when to preserve hope for tomorrow.<br>In this realm where <b style='color: #87ceeb; text-shadow: 0 0 8px #87ceeb;'>preparation meets possibility</b>, students learn that the greatest adventures begin not with a sword, but with the <b style='color: #98fb98; text-shadow: 0 0 8px #98fb98;'>unshakeable belief</b> that they can become something extraordinary. (2024)",
+    "DescriptionArabic": "<div dir='rtl'>ترحب القاعات المقدسة لـ<b style='color: #4169e1; text-shadow: 0 0 8px #4169e1;'>أكاديمية بارتيكوس</b> بالأبطال الطموحين المستعدين للتحول من طلاب متحمسين إلى أساطير ستشكل مصير العالم.<br>داخل هذه <b style='color: #ffd700; text-shadow: 0 0 8px #ffd700;'>الفصول المقدسة</b> و<b style='color: #8b4513; text-shadow: 0 0 8px #8b4513;'>75 زنزانة</b> غادرة، تكتشف الأرواح الشابة دعوتها الحقيقية من خلال <b style='color: #32cd32; text-shadow: 0 0 8px #32cd32;'>بناء الفريق الاستراتيجي</b> و<b style='color: #ff6347; text-shadow: 0 0 8px #ff6347;'>إتقان القتال بالأدوار</b> والروابط العميقة المكونة بين <b style='color: #9370db; text-shadow: 0 0 8px #9370db;'>الأجناس والطبقات المتنوعة</b>.<br>كل <b style='color: #ff1493; text-shadow: 0 0 8px #ff1493;'>سلاح مصنوع</b> يمثل نمواً، كل <b style='color: #20b2aa; text-shadow: 0 0 8px #20b2aa;'>متاهة مقهورة</b> تبني الشخصية، وكل <b style='color: #daa520; text-shadow: 0 0 8px #daa520;'>انسحاب تكتيكي</b> يعلم الحكمة—لأن الأبطال الحقيقيين يفهمون أن الشجاعة ليست غياب الخوف، بل معرفة متى نقاتل ومتى نحافظ على الأمل للغد.<br>في هذا العالم حيث يلتقي <b style='color: #87ceeb; text-shadow: 0 0 8px #87ceeb;'>التحضير بالإمكانية</b>، يتعلم الطلاب أن أعظم المغامرات لا تبدأ بسيف، بل بـ<b style='color: #98fb98; text-shadow: 0 0 8px #98fb98;'>الإيمان الراسخ</b> أنهم يستطيعون أن يصبحوا شيئاً استثنائياً.</div>",
+    "ReleaseDate": "2008",
+    "CriticScore": 70,
+    "Length": 45,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Class%20of%20Heroes%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Class%20of%20Heroes%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=f90nEPkgo5Y",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Class%20of%20Heros%20Main%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Dungeon Crawler"
+    ],
+    "DeveloperNames": [
+      "Acquire"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP004",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Totomono1.exe",
+            "arguments": [],
+            "filename": "00110.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1758974780382_1",
+    "Name": "Class of Heroes 2",
+    "SortingName": "Class of Heroes 02",
+    "Description": "The doors of <b style='color: #4169e1; text-shadow: 0 0 8px #4169e1;'>Crostini Academy</b> swing wide to welcome the next generation of heroes, where dreams take flight and destinies are forged through courage, friendship, and unwavering determination.<br>From <b style='color: #32cd32; text-shadow: 0 0 8px #32cd32;'>10 noble races</b> and <b style='color: #ff6347; text-shadow: 0 0 8px #ff6347;'>18 inspiring classes</b>, students unite as parties of six, their diverse strengths weaving together like threads in a tapestry of hope as they venture into <b style='color: #8b4513; text-shadow: 0 0 8px #8b4513;'>100+ labyrinths</b> teeming with possibility.<br>Every <b style='color: #ffd700; text-shadow: 0 0 8px #ffd700;'>crafted potion</b> represents growth, every <b style='color: #ff1493; text-shadow: 0 0 8px #ff1493;'>forged weapon</b> embodies progress, and every <b style='color: #9370db; text-shadow: 0 0 8px #9370db;'>conquered challenge</b> builds the character that transforms ordinary students into extraordinary champions.<br>In these hallowed halls where <b style='color: #20b2aa; text-shadow: 0 0 8px #20b2aa;'>tactical wisdom</b> meets <b style='color: #daa520; text-shadow: 0 0 8px #daa520;'>boundless creativity</b>, young adventurers learn that the greatest magic isn't found in spells, but in the <b style='color: #87ceeb; text-shadow: 0 0 8px #87ceeb;'>unbreakable bonds</b> formed with those who stand beside them, ready to face any darkness with <b style='color: #98fb98; text-shadow: 0 0 8px #98fb98;'>light in their hearts</b>. (2024)",
+    "DescriptionArabic": "<div dir='rtl'>تنفتح أبواب <b style='color: #4169e1; text-shadow: 0 0 8px #4169e1;'>أكاديمية كروستيني</b> على مصراعيها لترحب بالجيل القادم من الأبطال، حيث تحلق الأحلام وتُطرق المصائر من خلال الشجاعة والصداقة والعزيمة التي لا تتزعزع.<br>من <b style='color: #32cd32; text-shadow: 0 0 8px #32cd32;'>10 أجناس نبيلة</b> و<b style='color: #ff6347; text-shadow: 0 0 8px #ff6347;'>18 فئة ملهمة</b>، يتحد الطلاب كفرق من ستة، تتشابك نقاط قوتهم المتنوعة مثل خيوط في نسيج من الأمل بينما يغامرون في <b style='color: #8b4513; text-shadow: 0 0 8px #8b4513;'>أكثر من 100 متاهة</b> تعج بالإمكانيات.<br>كل <b style='color: #ffd700; text-shadow: 0 0 8px #ffd700;'>جرعة مصنوعة</b> تمثل نمواً، كل <b style='color: #ff1493; text-shadow: 0 0 8px #ff1493;'>سلاح مطروق</b> يجسد التقدم، وكل <b style='color: #9370db; text-shadow: 0 0 8px #9370db;'>تحدٍ مقهور</b> يبني الشخصية التي تحول الطلاب العاديين إلى أبطال استثنائيين.<br>في هذه القاعات المقدسة حيث تلتقي <b style='color: #20b2aa; text-shadow: 0 0 8px #20b2aa;'>الحكمة التكتيكية</b> مع <b style='color: #daa520; text-shadow: 0 0 8px #daa520;'>الإبداع اللامحدود</b>، يتعلم المغامرون الشباب أن أعظم سحر لا يُوجد في التعاويذ، بل في <b style='color: #87ceeb; text-shadow: 0 0 8px #87ceeb;'>الروابط التي لا تُكسر</b> المكونة مع أولئك الذين يقفون بجانبهم، مستعدين لمواجهة أي ظلام بـ<b style='color: #98fb98; text-shadow: 0 0 8px #98fb98;'>نور في قلوبهم</b>.</div>",
+    "ReleaseDate": "2010",
+    "CriticScore": 70,
+    "Length": 45,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Class%20of%20Heroes%202%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Class%20of%20Heroes%202%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=OaOYscSnxkY",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Class%20of%20Heroes%202%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Dungeon Crawler"
+    ],
+    "DeveloperNames": [
+      "Zerodiv"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP004",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "6 GB",
+            "executable": "ttm2g.exe",
+            "arguments": [],
+            "filename": "00111.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1758974780382_2",
+    "Name": "Class of Heroes 3",
+    "SortingName": "Class of Heroes 03",
+    "Description": "After fifteen years of waiting, the ultimate academy experience unfolds as <b style='color: #4169e1; text-shadow: 0 0 8px #4169e1;'>three distinguished schools</b> open their doors, each offering a unique path to greatness where every choice shapes not just skill, but the very essence of who students become.<br>From <b style='color: #32cd32; text-shadow: 0 0 8px #32cd32;'>45 inspiring classes</b> across <b style='color: #ff6347; text-shadow: 0 0 8px #ff6347;'>10 diverse races</b>, aspiring heroes craft their destinies while forging <b style='color: #ff1493; text-shadow: 0 0 8px #ff1493;'>meaningful relationships</b> that transcend mere friendship, creating bonds that enhance both heart and heroic potential.<br>Every <b style='color: #ffd700; text-shadow: 0 0 8px #ffd700;'>customized uniform</b> tells a story, every <b style='color: #9370db; text-shadow: 0 0 8px #9370db;'>tactical formation</b> represents growth, and every <b style='color: #20b2aa; text-shadow: 0 0 8px #20b2aa;'>conquered dungeon</b> builds the character needed to face life's greatest challenges with wisdom and grace.<br>In this realm where <b style='color: #daa520; text-shadow: 0 0 8px #daa520;'>strategic mastery</b> meets <b style='color: #8b4513; text-shadow: 0 0 8px #8b4513;'>emotional intelligence</b>, students discover that true heroism isn't measured by weapons wielded or spells mastered, but by the <b style='color: #87ceeb; text-shadow: 0 0 8px #87ceeb;'>courage to believe</b> in themselves and the <b style='color: #98fb98; text-shadow: 0 0 8px #98fb98;'>strength to uplift others</b> along the journey to greatness. (2025)",
+    "DescriptionArabic": "<div dir='rtl'>بعد انتظار دام خمسة عشر عاماً، تتكشف تجربة الأكاديمية المطلقة بينما تفتح <b style='color: #4169e1; text-shadow: 0 0 8px #4169e1;'>ثلاث مدارس متميزة</b> أبوابها، كل منها تقدم مساراً فريداً للعظمة حيث كل اختيار يشكل ليس فقط المهارة، بل جوهر من يصبح عليه الطلاب.<br>من <b style='color: #32cd32; text-shadow: 0 0 8px #32cd32;'>45 فئة ملهمة</b> عبر <b style='color: #ff6347; text-shadow: 0 0 8px #ff6347;'>10 أجناس متنوعة</b>، يصنع الأبطال الطموحون مصائرهم بينما يطورون <b style='color: #ff1493; text-shadow: 0 0 8px #ff1493;'>علاقات ذات معنى</b> تتجاوز مجرد الصداقة، خالقين روابط تعزز القلب والإمكانات البطولية.<br>كل <b style='color: #ffd700; text-shadow: 0 0 8px #ffd700;'>زي مخصص</b> يحكي قصة، كل <b style='color: #9370db; text-shadow: 0 0 8px #9370db;'>تشكيل تكتيكي</b> يمثل نمواً، وكل <b style='color: #20b2aa; text-shadow: 0 0 8px #20b2aa;'>زنزانة مقهورة</b> تبني الشخصية المطلوبة لمواجهة أعظم تحديات الحياة بحكمة ونعمة.<br>في هذا العالم حيث يلتقي <b style='color: #daa520; text-shadow: 0 0 8px #daa520;'>الإتقان الاستراتيجي</b> مع <b style='color: #8b4513; text-shadow: 0 0 8px #8b4513;'>الذكاء العاطفي</b>، يكتشف الطلاب أن البطولة الحقيقية لا تُقاس بالأسلحة المستخدمة أو التعاويذ المتقنة، بل بـ<b style='color: #87ceeb; text-shadow: 0 0 8px #87ceeb;'>الشجاعة للإيمان</b> بأنفسهم و<b style='color: #98fb98; text-shadow: 0 0 8px #98fb98;'>القوة لرفع الآخرين</b> على طول رحلة العظمة.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 70,
+    "Length": 45,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Class%20of%20Heroes%203%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Class%20of%20Heroes%203%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=Hhtt63mbgbE",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Class%20of%20Heroes%203%20OST.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Dungeon Crawler"
+    ],
+    "DeveloperNames": [
+      "Acquire"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP004",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "12 GB",
+            "executable": "ttm3.exe",
+            "buildID": "18 September 2025",
+            "arguments": [],
+            "filename": "00112.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Need Music"
+    ]
+  },
+  {
+    "_id": "game_1758974780382_3",
+    "Name": "Pac Man World 2 Re Pac",
+    "SortingName": "PAC-MAN 05.02",
+    "Description": "Those mischievous <b style='color: #ff6b6b; text-shadow: 0 0 8px #ff6b6b;'>ghosts</b> have done it again, accidentally unleashing the all-powerful <b style='color: #4b0082; text-shadow: 0 0 8px #4b0082;'>Spooky</b> while trying to steal the <b style='color: #ffd700; text-shadow: 0 0 8px #ffd700;'>Golden Fruit</b>—and now it's up to our round yellow hero to clean up their hilarious mess!<br>Armed with his signature <b style='color: #ff4500; text-shadow: 0 0 8px #ff4500;'>chomp</b>, bouncy <b style='color: #32cd32; text-shadow: 0 0 8px #32cd32;'>butt-bounce</b>, and surprisingly effective <b style='color: #00bfff; text-shadow: 0 0 8px #00bfff;'>rev roll</b>, Pac-Man waddles through <b style='color: #8fbc8f; text-shadow: 0 0 8px #8fbc8f;'>Tree Tops</b>, <b style='color: #87ceeb; text-shadow: 0 0 8px #87ceeb;'>Snowy Mountains</b>, and even a <b style='color: #ff6347; text-shadow: 0 0 8px #ff6347;'>volcano</b> because apparently that's where fruit thieves like to hang out.<br>With <b style='color: #ff69b4; text-shadow: 0 0 8px #ff69b4;'>2-player co-op</b> ensuring double the chaos and <b style='color: #9370db; text-shadow: 0 0 8px #9370db;'>flutter jumps</b> that defy all known laws of physics, this colorful adventure proves that sometimes the best way to solve supernatural problems is with good old-fashioned <b style='color: #20b2aa; text-shadow: 0 0 8px #20b2aa;'>platforming determination</b>.<br>Between chomping enemies and collecting power-ups, this delightfully absurd quest reminds us that heroism comes in all shapes—especially round, yellow ones with an inexplicable ability to <b style='color: #dda0dd; text-shadow: 0 0 8px #dda0dd;'>save entire villages</b> through strategic fruit recovery. (2025)",
+    "DescriptionArabic": "<div dir='rtl'>فعلها هؤلاء <b style='color: #ff6b6b; text-shadow: 0 0 8px #ff6b6b;'>الأشباح</b> المؤذون مرة أخرى، أطلقوا بالخطأ القوي الجبار <b style='color: #4b0082; text-shadow: 0 0 8px #4b0082;'>سبوكي</b> أثناء محاولتهم سرقة <b style='color: #ffd700; text-shadow: 0 0 8px #ffd700;'>الفاكهة الذهبية</b>—والآن الأمر متروك لبطلنا الأصفر المستدير لتنظيف فوضاهم المضحكة!<br>مسلح بـ<b style='color: #ff4500; text-shadow: 0 0 8px #ff4500;'>القضم</b> المميز و<b style='color: #32cd32; text-shadow: 0 0 8px #32cd32;'>الارتداد المؤخري</b> و<b style='color: #00bfff; text-shadow: 0 0 8px #00bfff;'>التدحرج المحوري</b> الفعال بشكل مدهش، يتمايل باك مان عبر <b style='color: #8fbc8f; text-shadow: 0 0 8px #8fbc8f;'>قمم الأشجار</b> و<b style='color: #87ceeb; text-shadow: 0 0 8px #87ceeb;'>الجبال الثلجية</b> وحتى <b style='color: #ff6347; text-shadow: 0 0 8px #ff6347;'>بركان</b> لأن ذلك على ما يبدو المكان المفضل لسارقي الفواكه.<br>مع <b style='color: #ff69b4; text-shadow: 0 0 8px #ff69b4;'>التعاون ثنائي اللاعبين</b> يضمن ضعف الفوضى و<b style='color: #9370db; text-shadow: 0 0 8px #9370db;'>القفزات الرفرافة</b> التي تتحدى جميع قوانين الفيزياء المعروفة، تثبت هذه المغامرة الملونة أن أحياناً أفضل طريقة لحل المشاكل الخارقة هي <b style='color: #20b2aa; text-shadow: 0 0 8px #20b2aa;'>التصميم القديم الجيد للمنصات</b>.<br>بين قضم الأعداء وجمع التعزيزات، تذكرنا هذه المهمة العبثية المبهجة أن البطولة تأتي بجميع الأشكال—خاصة المستديرة الصفراء مع القدرة الغامضة على <b style='color: #dda0dd; text-shadow: 0 0 8px #dda0dd;'>إنقاذ قرى بأكملها</b> من خلال استرداد الفواكه الاستراتيجي.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 85,
+    "Length": 8,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/PAC%20MAN%20WORLD%202%20Re%20PAC%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/PAC%20MAN%20WORLD%202%20Re%20PAC%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=hPBKW-kD6L8",
+    "videoStart": 3,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Pac%20Man%20World%202%20Re%20Pac%20Pac%20Village.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Platformer"
+    ],
+    "DeveloperNames": [
+      "Bandai"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP004",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "9 GB",
+            "executable": "PAC-MAN WORLD 2 Re-PAC.exe",
+            "buildID": "25 September 2025",
+            "arguments": [],
+            "filename": "00113.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Need Music"
+    ]
   }
 ]
