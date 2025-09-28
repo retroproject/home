@@ -38799,11 +38799,11 @@
     "SortingName": "Devil May Cry 03",
     "Description": "The <span style=\"color:#4B0082; font-weight:bold;\">demonic tower Temen-ni-gru</span> pierces the sky above the city, its twisted spires calling forth an <span style=\"color:#8B0000; font-weight:bold;\">ancient evil</span> that threatens to reshape the world.<br>Young <span style=\"color:#DC143C; font-weight:bold;\">Dante</span> awakens to his <span style=\"color:#9932CC; font-weight:bold;\">demonic heritage</span> as he ascends the nightmare edifice, each floor revealing darker truths about his father <span style=\"color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;\">Sparda's legacy</span>.<br>At the tower's apex waits <span style=\"color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;\">Vergil</span>, consumed by his quest for their father's <span style=\"color:#9932CC; font-weight:bold;\">power</span>, believing that only through absolute strength can he honor their bloodline.<br>In this gothic tale of <span style=\"color:#8B0000; font-weight:bold;\">family torn asunder</span>, two brothers walk divergent paths toward the same <span style=\"color:#4B0082; font-weight:bold;\">tragic destiny</span>.",
     "DescriptionArabic": "يخترق <span style='color:#4B0082; font-weight:bold;'>برج الشياطين تيمين-ني-غرو</span> السماء فوق المدينة، بأبراجه الملتوية التي تستدعي <span style='color:#8B0000; font-weight:bold;'>شراً قديماً</span> يهدد بإعادة تشكيل العالم.<br>يستيقظ <span style='color:#DC143C; font-weight:bold;'>دانتي</span> الشاب على <span style='color:#9932CC; font-weight:bold;'>إرثه الشيطاني</span> وهو يصعد هذا الصرح الكابوسي، حيث يكشف كل طابق حقائق أكثر ظلاماً حول <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>إرث والده سباردا</span>.<br>في قمة البرج ينتظر <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>فيرجيل</span>، مستهلكاً في سعيه لنيل <span style='color:#9932CC; font-weight:bold;'>قوة</span> والدهما، مؤمناً أن القوة المطلقة وحدها تستطيع تكريم سلالتهما.<br>في هذه الحكاية القوطية عن <span style='color:#8B0000; font-weight:bold;'>عائلة مُمزقة</span>، يسلك الأخان طرقاً متباعدة نحو نفس <span style='color:#4B0082; font-weight:bold;'>المصير المأساوي</span>.",
-    "ReleaseDate": "2005-2-17",
+    "ReleaseDate": "2005",
     "CriticScore": 100,
     "BackgroundImage": "521bff7b-b5c3-41b6-b59c-6d689452aee6.jpeg",
     "CoverImage": "806a0e46-293c-44a2-8c80-f202162aa51d.png",
-    "BackgroundUrl": "https://archive.org/download/retrobackgrounds/521bff7b-b5c3-41b6-b59c-6d689452aee6.jpeg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Devil%20May%20Cry%203%20Background.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/806a0e46-293c-44a2-8c80-f202162aa51d.png",
     "YouTubeUrl": "https://www.youtube.com/watch?v=ZvBxohp7Yvw",
     "videoStart": 10,
@@ -38813,10 +38813,10 @@
       "PC Game"
     ],
     "GenreNames": [
-      "Hack and slash/Beat 'em up"
+      "Hack and Slash"
     ],
     "DeveloperNames": [
-      "Capcom Production Studio 1"
+      "Capcom"
     ],
     "Tags": [
       "Hall of Fame"
