@@ -133591,15 +133591,21 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "",
+            "identifier": "E0701",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "fileSize": "8 GB",
-            "filename": "Sonic Racing Cross Worlds.nsp",
-            "arguments": []
+            "arguments": [],
+            "emulator": "Eden",
+            "romFile": "Sonic Racing Cross Worlds.nsp",
+            "buildID": "1.12",
+            "filename": "Sonic Racing Cross Worlds.nsp"
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Has Issues"
+    ]
   }
 ]
