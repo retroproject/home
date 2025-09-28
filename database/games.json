@@ -133563,5 +133563,43 @@
     "Tags": [
       "Need Music"
     ]
+  },
+  {
+    "_id": "game_1759080486993_0",
+    "Name": "Sonic Racing Cross Worlds",
+    "SortingName": "Sonic The Hedgehog 57",
+    "Description": "Experience the <b style='color: #0066ff; text-shadow: 0 0 8px #0066ff;'>ultimate high-speed adventure</b> as Sonic and friends race through <b style='color: #ff3300; text-shadow: 0 0 8px #ff3300;'>dimensional portals</b> in this thrilling arcade racer! Master the revolutionary <b style='color: #00ff66; text-shadow: 0 0 8px #00ff66;'>Travel Ring mechanics</b> to teleport instantly across tracks and gain the competitive edge.<br>Choose from <b style='color: #ff9900; text-shadow: 0 0 8px #ff9900;'>23 iconic characters</b> and blaze through <b style='color: #9933ff; text-shadow: 0 0 8px #9933ff;'>24 spectacular tracks</b> spanning multiple universes. Feel the <b style='color: #ff0099; text-shadow: 0 0 8px #ff0099;'>adrenaline rush</b> as you boost past opponents and discover <b style='color: #00ffff; text-shadow: 0 0 8px #00ffff;'>hidden shortcuts</b> in this <b style='color: #ffff00; text-shadow: 0 0 8px #ffff00;'>family-friendly</b> yet <b style='color: #ff6600; text-shadow: 0 0 8px #ff6600;'>intensely competitive</b> racing experience.<br>Unleash <b style='color: #66ff00; text-shadow: 0 0 8px #66ff00;'>Sonic's legendary speed</b> and <b style='color: #ff3366; text-shadow: 0 0 8px #ff3366;'>master dimensional racing</b> like never before!",
+    "DescriptionArabic": "<div dir='rtl'>اختبر <b style='color: #0066ff; text-shadow: 0 0 8px #0066ff;'>المغامرة فائقة السرعة</b> حيث يتسابق سونيك وأصدقاؤه عبر <b style='color: #ff3300; text-shadow: 0 0 8px #ff3300;'>بوابات الأبعاد</b> في هذا السباق المثير! أتقن <b style='color: #00ff66; text-shadow: 0 0 8px #00ff66;'>آليات حلقات السفر الثورية</b> للانتقال الفوري عبر المسارات والحصول على الميزة التنافسية.<br>اختر من بين <b style='color: #ff9900; text-shadow: 0 0 8px #ff9900;'>23 شخصية أيقونية</b> واندفع عبر <b style='color: #9933ff; text-shadow: 0 0 8px #9933ff;'>24 مساراً رائعاً</b> يمتد عبر عوالم متعددة. اشعر بـ<b style='color: #ff0099; text-shadow: 0 0 8px #ff0099;'>اندفاع الأدرينالين</b> وأنت تتجاوز الخصوم وتكتشف <b style='color: #00ffff; text-shadow: 0 0 8px #00ffff;'>الممرات المخفية</b> في هذه التجربة <b style='color: #ffff00; text-shadow: 0 0 8px #ffff00;'>الصديقة للعائلة</b> والـ<b style='color: #ff6600; text-shadow: 0 0 8px #ff6600;'>تنافسية الشديدة</b>.<br>أطلق العنان لـ<b style='color: #66ff00; text-shadow: 0 0 8px #66ff00;'>سرعة سونيك الأسطورية</b> و<b style='color: #ff3366; text-shadow: 0 0 8px #ff3366;'>أتقن السباق الأبعادي</b> كما لم يحدث من قبل!</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 100,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Sonic%20Racing%20Cross%20Worlds%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Sonic%20Racing%20Cross%20Worlds%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=lg591kVaGlc",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Sonic%20Racing%20Cross%20Worlds%20%20Main%20Song.mp3",
+    "PlatformNames": [
+      "Nintendo Switch"
+    ],
+    "GenreNames": [
+      "Racing"
+    ],
+    "DeveloperNames": [
+      "SEGA"
+    ],
+    "downloadInfo": {
+      "Nintendo Switch": {
+        "versions": [
+          {
+            "identifier": "",
+            "name": "Vanilla",
+            "platform": "Nintendo Switch",
+            "fileSize": "8 GB",
+            "filename": "Sonic Racing Cross Worlds.nsp",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
