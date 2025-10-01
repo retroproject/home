@@ -7742,12 +7742,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "retro-pc",
-            "filename": "Disgaea 7 Vows of the Virtueless.zip",
+            "identifier": "RPRP004",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Disgaea7.exe",
-            "fileSize": "10GB"
+            "fileSize": "10GB",
+            "buildID": "24 January 2024",
+            "filename": "00114.zip"
           }
         ]
       }
