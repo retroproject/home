@@ -107325,12 +107325,20 @@
         "versions": [
           {
             "identifier": "retro-3ds",
-            "filename": "Dragon Quest VIII Journey of the Cursed King (Japanese VA).3ds",
             "name": "Japanese VA",
             "platform": "Nintendo 3DS",
             "emulator": "Citra",
             "fileSize": "3.5GB",
-            "romFile": "Dragon Quest VIII Journey of the Cursed King (Japanese VA).3ds"
+            "romFile": "Dragon Quest VIII Journey of the Cursed King (Japanese VA).3ds",
+            "filename": "Dragon Quest VIII Journey of the Cursed King (Japanese VA).3ds"
+          },
+          {
+            "identifier": "retro-3ds",
+            "name": "HD Textures",
+            "platform": "Nintendo 3DS",
+            "emulator": "Citra",
+            "fileSize": "7GB",
+            "filename": "Dragon Quest VIII Journey of the Cursed King (Japanese VA) HD Textures.zip"
           }
         ]
       }
