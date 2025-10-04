@@ -55842,12 +55842,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "COPC05",
-            "filename": "Forza Horizon 5.zip",
+            "identifier": "RPRP04",
             "name": "Online",
             "platform": "PC Game",
             "executable": "ForzaHorizon5_loader.exe",
-            "fileSize": "167GB"
+            "fileSize": "180GB",
+            "buildID": "1.685.421.0",
+            "filename": "00115.zip"
           }
         ]
       }
@@ -75100,19 +75101,20 @@
         "versions": [
           {
             "identifier": "CPCAR03",
-            "filename": "Baldurs Gate 3.zip",
             "name": "Arabic",
             "platform": "PC Game",
             "executable": "bin\\bg3_dx11.exe",
-            "fileSize": "127GB"
+            "fileSize": "150GB",
+            "filename": "Baldurs Gate 3.zip"
           },
           {
-            "identifier": "CPC41",
-            "filename": "Baldurs Gate 3.zip",
+            "identifier": "RPRP04",
             "name": "English",
             "platform": "PC Game",
             "executable": "bin\\bg3_dx11.exe",
-            "fileSize": "127GB"
+            "fileSize": "150GB",
+            "buildID": "3 October 2025",
+            "filename": "00116.zip"
           }
         ]
       }
@@ -105949,13 +105951,15 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC22",
+            "identifier": "RPRP004",
             "name": "Enhanced",
             "platform": "PC Game",
             "fileSize": "4GB",
             "arguments": [],
-            "executable": "bio2.exe",
-            "filename": "Resident Evil 2.zip"
+            "executable": "Resident Evil 2.exe",
+            "mods": "Re:Enhanced 2.1",
+            "buildID": "Re:Enhanced 2.1",
+            "filename": "00117.zip"
           }
         ]
       }
