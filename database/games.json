@@ -66573,12 +66573,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC31",
-            "filename": "Frostpunk 2.zip",
+            "identifier": "RPRP004",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Frostpunk2.exe",
-            "fileSize": "14GB"
+            "fileSize": "17GB",
+            "buildID": "3 October 2025",
+            "filename": "00118.zip"
           }
         ]
       }
