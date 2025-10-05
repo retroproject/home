@@ -25151,9 +25151,7 @@
     "DeveloperNames": [
       "Ubisoft Montreal"
     ],
-    "Tags": [
-      "Hide"
-    ],
+    "Tags": [],
     "downloadInfo": {
       "Cross-Platform": {
         "versions": [
@@ -90547,12 +90545,12 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC16",
-            "filename": "DCGO.zip",
+            "identifier": "RPRP004",
             "name": "Online",
             "platform": "PC Game",
             "executable": "DCGO_Launcher.exe",
-            "fileSize": "210MB"
+            "fileSize": "210MB",
+            "filename": "00118.zip"
           }
         ]
       }
