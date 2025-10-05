@@ -71734,7 +71734,7 @@
     "SortingName": "Dragon Ball 16",
     "Description": "Earth's mightiest warrior <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>Goku</span> faces his greatest challenges as alien invaders, androids, and gods threaten the planet with powers beyond mortal comprehension.<br>From the arrival of his <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Saiyan brother Raditz</span> to the cosmic tournament between universes, Goku's journey transforms him from a simple martial artist into a <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Super Saiyan God</span> capable of shaking the very foundations of existence.<br>Alongside loyal friends like <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Vegeta</span>, <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Piccolo</span>, and <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Gohan</span>, Goku discovers that true strength comes not from power alone, but from the bonds that connect all living beings across the <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>multiverse</span>.<br>In this epic saga spanning from <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>Planet Namek</span> to the <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Tournament of Power</span>, every battle pushes the warriors beyond their limits, proving that with determination and friendship, even the impossible becomes achievable through <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 6px #FFB6C1;'>pure heart</span> and <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>unwavering spirit</span>.",
     "DescriptionArabic": "<div dir='rtl'>في عالم حيث يمكن للمحاربين أن يحطموا الجبال بقبضاتهم ويطيروا عبر السموات بسرعة البرق، يعيش محارب بسيط القلب يحمل اسم <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>جوكو</span> ويحب أكل اللحم المشوي أكثر من أي شيء آخر.<br>لكن عندما تهدد <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>أعداء من الفضاء العميق</span> الأرض بقوى لا يمكن تصورها، يكتشف جوكو أن قدره الحقيقي يبدأ في الظهور عندما يستيقظ <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>دم السايان الذهبي</span> في عروقه.<br>مع رفاق استثنائيين مثل <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>الأمير فيجيتا</span> المتكبر، و<span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الوحش الأخضر بيكولو</span> ذي القلب الطيب، يخوض جوكو معارك ملحمية تهز أساسات الكون ذاته.<br>من بطولات قتالية بين <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>الأكوان المتعددة</span> إلى معارك ضد <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>آلهة التدمير</span>، يتعلم جوكو أن القوة الحقيقية لا تأتي من العضلات أو السرعة، بل من <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 6px #FFB6C1;'>القلب النقي</span> و<span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>الإرادة التي لا تنكسر</span> والصداقة الحقيقية.</div>",
-    "ReleaseDate": "2024-10-7",
+    "ReleaseDate": "2024",
     "CriticScore": 90,
     "BackgroundImage": "c22e8a62-4514-4030-95f2-4d613e803562.jpeg",
     "CoverImage": "9e541a5a-e4cb-45d0-b97d-bb1957fa270c.png",
@@ -71757,20 +71757,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "COPC04",
-            "filename": "Dragon Ball Sparking! ZERO.zip",
-            "name": "Online",
+            "identifier": "RPRP004",
+            "name": "Vanilla",
             "platform": "PC Game",
             "executable": "SparkingZERO.exe",
-            "fileSize": "28GB"
-          },
-          {
-            "identifier": "CPC35",
-            "filename": "Dragon Ball Sparking! ZERO.zip",
-            "name": "Offline",
-            "platform": "PC Game",
-            "executable": "SparkingZERO.exe",
-            "fileSize": "29GB"
+            "fileSize": "30GB",
+            "buildID": "29 September 2025",
+            "filename": "00120.zip"
           }
         ]
       }
