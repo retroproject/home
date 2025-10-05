@@ -133553,5 +133553,46 @@
     "Tags": [
       "Has Issues"
     ]
+  },
+  {
+    "_id": "game_1759670074856_0",
+    "Name": "The Grinch Christmas Adventures",
+    "SortingName": "",
+    "Description": "High atop <b style='color: #4CAF50; text-shadow: 0 0 8px #4CAF50;'>Mount Crumpit</b>, the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>grouchy Grinch</b> plots his most <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>dastardly scheme</b> yet—to steal <b style='color: #FF1744; text-shadow: 0 0 8px #FF1744;'>Christmas</b> from the cheerful <b style='color: #00BCD4; text-shadow: 0 0 8px #00BCD4;'>Whos of Whoville</b>!<br>Armed with his trusty dog <b style='color: #8D6E63; text-shadow: 0 0 8px #8D6E63;'>Max</b> and a <b style='color: #9C27B0; text-shadow: 0 0 8px #9C27B0;'>ridiculous Santa disguise</b>, he'll sneak through <b style='color: #1E88E5; text-shadow: 0 0 8px #1E88E5;'>snowy villages</b>, swipe presents, and sabotage every <b style='color: #FF5722; text-shadow: 0 0 8px #FF5722;'>festive decoration</b> in sight.<br>But the Whos' <b style='color: #FFEB3B; text-shadow: 0 0 8px #FFEB3B;'>unshakable joy</b> and the innocent <b style='color: #F06292; text-shadow: 0 0 8px #F06292;'>Cindy Lou Who</b> may just melt his <b style='color: #607D8B; text-shadow: 0 0 8px #607D8B;'>three-sizes-too-small heart</b>.<br>Will greed triumph, or will the <b style='color: #FF9800; text-shadow: 0 0 8px #FF9800;'>true spirit of Christmas</b> prevail?<br>",
+    "DescriptionArabic": "<div dir='rtl'>في قمة <b style='color: #4CAF50; text-shadow: 0 0 8px #4CAF50;'>جبل كرامبت</b> المظلمة، يخطط <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الغرينش العابس</b> لأخبث <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>مؤامرة</b> على الإطلاق—سرقة <b style='color: #FF1744; text-shadow: 0 0 8px #FF1744;'>عيد الميلاد</b> من <b style='color: #00BCD4; text-shadow: 0 0 8px #00BCD4;'>سكان هوفيل</b> المبتهجين!<br>مسلحاً بكلبه الوفي <b style='color: #8D6E63; text-shadow: 0 0 8px #8D6E63;'>ماكس</b> و<b style='color: #9C27B0; text-shadow: 0 0 8px #9C27B0;'>تنكر سانتا مضحك</b>، سيتسلل عبر <b style='color: #1E88E5; text-shadow: 0 0 8px #1E88E5;'>القرى الثلجية</b> ليسرق الهدايا ويخرب كل <b style='color: #FF5722; text-shadow: 0 0 8px #FF5722;'>زينة احتفالية</b> يراها.<br>لكن <b style='color: #FFEB3B; text-shadow: 0 0 8px #FFEB3B;'>فرحة الهووز الثابتة</b> والطفلة البريئة <b style='color: #F06292; text-shadow: 0 0 8px #F06292;'>سيندي لو</b> قد تذيب <b style='color: #607D8B; text-shadow: 0 0 8px #607D8B;'>قلبه الصغير جداً</b>.<br>هل سينتصر الطمع، أم أن <b style='color: #FF9800; text-shadow: 0 0 8px #FF9800;'>روح عيد الميلاد الحقيقية</b> ستسود؟<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 45,
+    "Length": 6,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Grinch%20Christmas%20Adventures%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Grinch%20Christmas%20Adventures%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=XLrg1OSEqXI",
+    "videoStart": 4.2,
+    "videoEnd": 80,
+    "MusicUrl": "https://archive.org/download/RPRM001/The%20Grinch%20Christmas%20Adventures%20You're%20A%20Mean%20One%20Mr%20Grinch.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Platformer"
+    ],
+    "DeveloperNames": [
+      "Casual Brothers Ltd."
+    ],
+    "dateAdded": 1759670074856,
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP004",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "TheGrinch.exe",
+            "arguments": [],
+            "filename": "00119.zip"
+          }
+        ]
+      }
+    }
   }
 ]
