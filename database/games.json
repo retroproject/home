@@ -2094,8 +2094,17 @@
       "PC Game": {
         "versions": [
           {
+            "identifier": "RPRP004",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "4GB",
+            "arguments": [],
+            "executable": "MarvelVsCapcomFightingCollection.exe",
+            "filename": "00121.zip"
+          },
+          {
             "identifier": "CPC20",
-            "name": "Vanilla",
+            "name": "Offline",
             "platform": "PC Game",
             "fileSize": "4GB",
             "arguments": [],
