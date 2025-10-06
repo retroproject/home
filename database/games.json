@@ -112951,7 +112951,7 @@
             "platform": "Sony PlayStation 3",
             "emulator": "RPCS3",
             "fileSize": "150MB",
-            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "romFile": "USRDIR/EBOOT.BIN",
             "filename": "Marvel vs. Capcom 2.zip"
           }
         ]
