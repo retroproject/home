@@ -100849,21 +100849,23 @@
       "Sony PlayStation 2": {
         "versions": [
           {
-            "identifier": "P0201",
-            "filename": "Tales of Rebirth (English v0.9).iso",
+            "identifier": "P0211",
             "name": "Vanilla",
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "5GB",
-            "romFile": "Tales of Rebirth (English v0.9).iso"
+            "romFile": "Tales of Rebirth.iso",
+            "buildID": "1.0",
+            "filename": "Tales of Rebirth.iso"
           },
           {
-            "identifier": "P0201",
-            "filename": "Tales of Rebirth HD Textures.zip",
+            "identifier": "P0211",
             "name": "HD Textures",
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
-            "fileSize": "800MB"
+            "fileSize": "3GB",
+            "buildID": "0.3",
+            "filename": "Tales of Rebirth HD Textures.zip"
           }
         ]
       }
