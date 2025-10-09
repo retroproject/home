@@ -117310,12 +117310,12 @@
             "platform": "Sony PlayStation 1",
             "emulator": "RetroArch",
             "fileSize": "200MB",
-            "romFile": "Breath of Fire IV (Enhanced).zip",
+            "romFile": "Breath of Fire IV.zip",
             "arguments": [
               "-L",
               ".\\cores\\mednafen_psx_hw_libretro.dll"
             ],
-            "filename": "Breath of Fire IV (Enhanced).zip"
+            "filename": "Breath of Fire IV.zip"
           },
           {
             "identifier": "retro-psx",
