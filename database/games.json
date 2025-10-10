@@ -133680,17 +133680,12 @@
             "executable": "Launcher.exe",
             "buildID": "09102025",
             "arguments": [],
-            "filename": "00130.zip"
-          },
-          {
-            "identifier": "RPRP004",
-            "name": "Offline",
-            "platform": "PC Game",
-            "fileSize": "5 GB",
-            "executable": "x64.steam\\Absolum.exe",
-            "buildID": "9 October 2025",
-            "arguments": [],
-            "filename": "00123.zip"
+            "executableFiles": [
+              "Launcher.exe"
+            ],
+            "filenames": [
+              "00130.zip"
+            ]
           }
         ]
       }
@@ -133742,6 +133737,158 @@
             "buildID": "9 October 2025",
             "arguments": [],
             "filename": "00124.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1760131240392_0",
+    "Name": "Deep Rock Galactic Survivor",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "",
+    "CoverUrl": "",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "dateAdded": 1760131240392,
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP005",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "DRG Survivor.exe",
+            "buildID": "25 September 2025",
+            "arguments": [],
+            "filename": "00133.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1760131240392_1",
+    "Name": "Empire Of Sin",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "",
+    "CoverUrl": "",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "dateAdded": 1760131240392,
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP005",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "12 GB",
+            "executable": "EmpireOfSin.exe",
+            "buildID": "15 September 2025",
+            "arguments": [],
+            "filename": "00134.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1760131240393_2",
+    "Name": "Kiborg",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "",
+    "CoverUrl": "",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "dateAdded": 1760131240393,
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP005",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "22 GB",
+            "executable": "Kiborg.exe",
+            "buildID": "16 September 2025",
+            "arguments": [],
+            "filename": "00131.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1760131240393_3",
+    "Name": "Project Warlock II",
+    "SortingName": "Project Warlock 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "BackgroundUrl": "",
+    "CoverUrl": "",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Shooter"
+    ],
+    "DeveloperNames": [
+      "Buckshot Software"
+    ],
+    "dateAdded": 1760131240393,
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP005",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "11 GB",
+            "executable": "Project Warlock 2.exe",
+            "buildID": "18 September 2025",
+            "arguments": [],
+            "filename": "00132.zip"
           }
         ]
       }
