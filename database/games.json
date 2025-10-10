@@ -133640,5 +133640,87 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1760060251206_0",
+    "Name": "Absolum",
+    "SortingName": "",
+    "Description": "Rise from the ashes as <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>forbidden heroes</b> wield <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>outlawed magic</b> against the tyrannical <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Sun King Azra</b> in this <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>epic roguelite rebellion</b>! Master <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>rapid combo chains</b> and unleash <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>devastating elemental spells</b> as you lead the fight to liberate the fantasy realm of <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Talamh</b>.<br>Choose from <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>four distinct warriors</b>, each with their own <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>unique fighting styles</b> and abilities. Battle through <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>hand-crafted levels</b> with <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>endless variations</b>, perfecting your <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>skill and timing</b> in this <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>brutally satisfying</b> beat 'em up!<br>Join forces in <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>co-op battles</b> and overthrow the oppressor in this <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>relentless fantasy uprising</b>!",
+    "DescriptionArabic": "<div dir='rtl'>انهض من الرماد بينما <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الأبطال المحظورون</b> يستخدمون <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>السحر المحرم</b> ضد <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ملك الشمس الطاغي آزرا</b> في هذا <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>التمرد الملحمي</b>! أتقن <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>سلاسل الضربات السريعة</b> وأطلق <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>تعاويذ العناصر المدمرة</b> بينما تقود القتال لتحرير عالم <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>تالام الخيالي</b>.<br>اختر من بين <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>أربعة محاربين مختلفين</b>، كل منهم بـ<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>أساليب قتال فريدة</b> وقدرات خاصة. قاتل عبر <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>مستويات مصنوعة يدوياً</b> مع <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>تنوعات لا نهائية</b>، وأتقن <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>مهارتك وتوقيتك</b> في هذه اللعبة <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>المُرضية بوحشية</b>!<br>انضم إلى القوات في <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>معارك تعاونية</b> واطح بالظالم في هذه <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الانتفاضة الخيالية الشرسة</b>!</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 90,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Absolum%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Absolum%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=i0QWQ8L1HRg",
+    "videoStart": 6,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Absolum%20Talamh.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Beat'em up"
+    ],
+    "DeveloperNames": [
+      "Guard Crush"
+    ],
+    "dateAdded": 1760060251206,
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP004",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "executable": "x64.steam\\Absolum.exe",
+            "buildID": "9 October 2025",
+            "arguments": [],
+            "filename": "00123.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1760061010088_0",
+    "Name": "Little Nightmares III",
+    "SortingName": "Little Nightmares 03",
+    "Description": "Two <b style='color: #696969; text-shadow: 0 0 8px #696969;'>lost children</b>, <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Low</b> and <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Alone</b>, awaken in the <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>twisted realm of Nowhere</b>—a <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>nightmarish world</b> never meant for innocent souls. Armed only with a <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>weathered bow</b> and a <b style='color: #708090; text-shadow: 0 0 8px #708090;'>rusted wrench</b>, they must navigate through <b style='color: #654321; text-shadow: 0 0 8px #654321;'>decrepit necropolises</b> and <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>sinister candy factories</b> haunted by <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>grotesque Residents</b>.<br>Survival demands <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>perfect cooperation</b> as you solve <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>mind-bending puzzles</b> and evade <b style='color: #800000; text-shadow: 0 0 8px #800000;'>monstrous horrors</b> lurking in every <b style='color: #000000; text-shadow: 0 0 8px #666666;'>shadowed corner</b>. Each <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>fragile heartbeat</b> echoes through this <b style='color: #483D8B; text-shadow: 0 0 8px #483D8B;'>atmospheric nightmare</b> where <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>friendship</b> becomes the only light in overwhelming darkness.<br>Face your fears together in this <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>haunting co-op journey</b> of survival and despair!",
+    "DescriptionArabic": "<div dir='rtl'>طفلان <b style='color: #696969; text-shadow: 0 0 8px #696969;'>ضائعان</b>، <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>لو</b> و<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>ألون</b>، يستيقظان في <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>عالم اللامكان الملتوي</b>—وهو <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>عالم كابوسي</b> لم يُصنع أبداً للأرواح البريئة. مسلحان فقط بـ<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>قوس بالٍ</b> و<b style='color: #708090; text-shadow: 0 0 8px #708090;'>مفتاح ربط صدئ</b>، عليهما التنقل عبر <b style='color: #654321; text-shadow: 0 0 8px #654321;'>مقابر متداعية</b> و<b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>مصانع حلوى شريرة</b> تطاردها <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>كائنات مقيمة مشوهة</b>.<br>البقاء يتطلب <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>تعاوناً مثالياً</b> بينما تحلان <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>ألغاز محيرة للعقل</b> وتتهربان من <b style='color: #800000; text-shadow: 0 0 8px #800000;'>أهوال وحشية</b> كامنة في كل <b style='color: #000000; text-shadow: 0 0 8px #666666;'>زاوية مظلمة</b>. كل <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>نبضة قلب هشة</b> تتردد عبر هذا <b style='color: #483D8B; text-shadow: 0 0 8px #483D8B;'>الكابوس الجوي</b> حيث تصبح <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>الصداقة</b> النور الوحيد في الظلام الساحق.<br>واجها مخاوفكما معاً في هذه <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الرحلة التعاونية المؤرقة</b> للبقاء واليأس!</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 90,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Little%20Nightmares%20III%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Little%20Nightmares%20III%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=6POlb0Dav-o",
+    "videoStart": 3,
+    "videoEnd": 123,
+    "MusicUrl": "https://archive.org/download/RPRM001/Little%20Nightmares%20III%20Main%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Supermassive Games"
+    ],
+    "dateAdded": 1760061010088,
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP004",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "13 GB",
+            "executable": "LittleNightmaresIII.exe",
+            "buildID": "9 October 2025",
+            "arguments": [],
+            "filename": "00124.zip"
+          }
+        ]
+      }
+    }
   }
 ]
