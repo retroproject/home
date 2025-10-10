@@ -44320,13 +44320,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC31",
+            "identifier": "RPRP004",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "8GB",
+            "fileSize": "12GB",
             "arguments": [],
             "executable": "xrEngine.exe",
-            "filename": "S.T.A.L.K.E.R. Shadow of Chernobyl.zip"
+            "buildID": "18 September 2025",
+            "filename": "00127.zip"
           }
         ]
       }
@@ -100630,13 +100631,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC31",
+            "identifier": "RPRP004",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "6GB",
+            "fileSize": "8GB",
             "arguments": [],
             "executable": "xrEngine.exe",
-            "filename": "S.T.A.L.K.E.R. Clear Sky.zip"
+            "buildID": "18 September 2025",
+            "filename": "00126.zip"
           }
         ]
       }
@@ -117746,13 +117748,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC31",
+            "identifier": "RPRP004",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "8GB",
+            "fileSize": "10GB",
             "arguments": [],
             "executable": "xrEngine.exe",
-            "filename": "S.T.A.L.K.E.R. Call of Pripyat.zip"
+            "buildID": "18 September 2025",
+            "filename": "00125.zip"
           }
         ]
       }
