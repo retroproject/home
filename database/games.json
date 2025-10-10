@@ -7328,13 +7328,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC32",
+            "identifier": "RPRP004",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "141GB",
+            "fileSize": "170GB",
             "arguments": [],
             "executable": "Stalker2.exe",
-            "filename": "S.T.A.L.K.E.R. 2 Heart of Chornobyl.zip"
+            "buildID": "2 October 2025",
+            "filename": "00128.zip"
           }
         ]
       }
