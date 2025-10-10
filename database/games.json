@@ -97460,7 +97460,7 @@
     "_id": "c21ac12b-856f-4102-93ce-9571cf7ea76d",
     "GameId": "25db3cd7b0d3251c7939b9cf8740ebec",
     "Name": "Yooka-Laylee",
-    "SortingName": "Yooka-Laylee 01",
+    "SortingName": "Yooka-Laylee 01.00",
     "Description": "Join the charismatic duo <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Yooka the chameleon</span> and <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Laylee the bat</span> in this spiritual successor to the beloved <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Banjo-Kazooie series</span>. When the evil <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Capital B</span> steals all the books in the world, our heroes must venture through <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>colorful platforming worlds</span> to stop his nefarious scheme. Master <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>unique abilities</span> like Yooka's tongue grappling, Laylee's sonar blast, and their combined <span style='color:#20B2AA; font-weight:bold; text-shadow: 0 0 8px #20B2AA;'>rolling attack</span> to solve puzzles and reach new areas. Explore vast worlds filled with <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>collectible Pagies</span>, <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>hidden Quills</span>, and <span style='color:#F4A460; font-weight:bold; text-shadow: 0 0 8px #F4A460;'>eccentric characters</span>. The game features classic <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>3D platforming</span> with modern polish, <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>catchy musical scores</span> by Grant Kirkhope, and the <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>nostalgic charm</span> that made the N64 era special.<br>",
     "DescriptionArabic": "<div dir='rtl'>انضم إلى الثنائي الكاريزمي <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>يوكا الحرباء</span> و<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>لايلي الخفاش</span> في هذا الخليفة الروحي لسلسلة <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>بانجو-كازوي</span> المحبوبة. عندما يسرق الشرير <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>كابيتال بي</span> جميع الكتب في العالم، يجب على أبطالنا المغامرة عبر <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>عوالم المنصات الملونة</span> لوقف مخططه الشرير. أتقن <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>القدرات الفريدة</span> مثل تأرجح لسان يوكا وانفجار السونار للايلي و<span style='color:#20B2AA; font-weight:bold; text-shadow: 0 0 8px #20B2AA;'>هجومهما المتدحرج</span> المشترك لحل الألغاز والوصول لمناطق جديدة. استكشف عوالم شاسعة مليئة <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>بالصفحات القابلة للجمع</span> و<span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>الريش المخفي</span> و<span style='color:#F4A460; font-weight:bold; text-shadow: 0 0 8px #F4A460;'>الشخصيات الغريبة</span>. تتميز اللعبة <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>بمنصات ثلاثية الأبعاد</span> كلاسيكية مع لمسة حديثة و<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>نتائج موسيقية جذابة</span> من جرانت كيركهوب و<span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>السحر النوستالجي</span> الذي جعل عصر N64 مميزاً.</div>",
     "ReleaseDate": "2017-4-11",
@@ -133594,6 +133594,48 @@
             "executable": "TheGrinch.exe",
             "arguments": [],
             "filename": "00119.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1760049409803_0",
+    "Name": "Yooka Replaylee",
+    "SortingName": "Yooka-Laylee 01.01",
+    "Description": "Join the <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>dynamic duo</b> Yooka and Laylee as they embark on a <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>whimsical treasure hunt</b> to stop the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>greedy capitalist Capital B</b> from conquering the world! This <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>reimagined masterpiece</b> features <b style='color: #00BFFF; text-shadow: 0 0 8px #00BFFF;'>double the content</b> of the original, packed with <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>new areas, challenges, and collectibles</b> across <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>fantastical worlds</b>.<br>Master <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>improved platforming moves</b> and customize your adventure with <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>special Tonics</b>, while collecting <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>shiny Pagies</b> in this <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>colorful cartoon romp</b>. Enjoy <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Rextro's Arcade mini-games</b> and an <b style='color: #DA70D6; text-shadow: 0 0 8px #DA70D6;'>orchestral soundtrack</b> that brings every moment to life!<br>Laugh, leap, and explore in this <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>comedy-filled platforming adventure</b> where imagination knows no bounds!",
+    "DescriptionArabic": "<div dir='rtl'>انضم إلى <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الثنائي الديناميكي</b> يوكا وليلي في <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>مغامرة البحث عن الكنوز الغريبة</b> لإيقاف <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الرأسمالي الجشع كابيتال بي</b> من غزو العالم! هذه <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>التحفة المعاد تصورها</b> تحتوي على <b style='color: #00BFFF; text-shadow: 0 0 8px #00BFFF;'>ضعف محتوى</b> النسخة الأصلية، مليئة بـ<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>مناطق وتحديات ومقتنيات جديدة</b> عبر <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>عوالم خيالية</b>.<br>أتقن <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>حركات المنصات المحسنة</b> وخصص مغامرتك بـ<b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>جرعات خاصة</b>، بينما تجمع <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>صفحات الباجيز اللامعة</b> في هذه <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>المغامرة الكرتونية الملونة</b>. استمتع بـ<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>ألعاب ريكسترو المصغرة</b> و<b style='color: #DA70D6; text-shadow: 0 0 8px #DA70D6;'>موسيقى أوركسترالية</b> تنعش كل لحظة!<br>اضحك، اقفز، واستكشف في <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>مغامرة المنصات المليئة بالكوميديا</b> حيث الخيال لا حدود له!</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 75,
+    "Length": 8,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Yooka%20Replaylee%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Yooka%20Replaylee%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=spXZHz4ZXUY",
+    "videoStart": null,
+    "videoEnd": 77,
+    "MusicUrl": "https://archive.org/download/RPRM001/Yooka%20Replaylee%20Main%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Platformer"
+    ],
+    "DeveloperNames": [
+      "Playtonic Games"
+    ],
+    "dateAdded": 1760049409803,
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP004",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "26GB",
+            "executable": "ReplayleeWin64.exe",
+            "arguments": [],
+            "buildID": "9 October 2025",
+            "filename": "00122.zip"
           }
         ]
       }
