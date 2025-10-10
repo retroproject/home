@@ -133674,7 +133674,17 @@
         "versions": [
           {
             "identifier": "RPRP004",
-            "name": "Vanilla",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "executable": "Launcher.exe",
+            "buildID": "09102025",
+            "arguments": [],
+            "filename": "00130.zip"
+          },
+          {
+            "identifier": "RPRP004",
+            "name": "Offline",
             "platform": "PC Game",
             "fileSize": "5 GB",
             "executable": "x64.steam\\Absolum.exe",
