@@ -133715,7 +133715,17 @@
         "versions": [
           {
             "identifier": "RPRP004",
-            "name": "Vanilla",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "13 GB",
+            "executable": "LittleNightmaresIII.exe",
+            "buildID": "9 October 2025",
+            "arguments": [],
+            "filename": "00129.zip"
+          },
+          {
+            "identifier": "RPRP004",
+            "name": "Offline",
             "platform": "PC Game",
             "fileSize": "13 GB",
             "executable": "LittleNightmaresIII.exe",
