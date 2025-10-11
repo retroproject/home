@@ -4919,7 +4919,8 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/09c1a905-73d4-45fc-be3e-2763997cb11e.mp3",
     "PlatformNames": [
-      "PC Game"
+      "PC Game",
+      "Nintendo Super Entertainment System"
     ],
     "GenreNames": [
       "JRPG"
@@ -4928,23 +4929,52 @@
       "Square Enix"
     ],
     "downloadInfo": {
-      "PC Game": {
+      "Cross-Platform": {
         "versions": [
           {
             "identifier": "CPC27",
-            "filename": "Final Fantasy 6.zip",
-            "name": "Vanilla",
+            "filename": "",
             "platform": "PC Game",
-            "executable": "FINAL FANTASY VI.exe",
-            "fileSize": "1000MB"
+            "name": "PC Vanilla",
+            "fileSize": "2GB",
+            "executableFiles": [
+              "FINAL FANTASY VI.exe"
+            ],
+            "filenames": [
+              "Final Fantasy 6.zip"
+            ]
           },
           {
             "identifier": "retroid-2",
-            "filename": "Final Fantasy 6.zip",
-            "name": "Enhanced",
+            "filename": "",
             "platform": "PC Game",
-            "executable": "FINAL FANTASY VI.exe",
-            "fileSize": "2GB"
+            "name": "PC Enhanced",
+            "fileSize": "2GB",
+            "executableFiles": [
+              "FINAL FANTASY VI.exe"
+            ],
+            "filenames": [
+              "Final Fantasy 6.zip"
+            ]
+          },
+          {
+            "identifier": "retro-snes",
+            "filename": "",
+            "platform": "Nintendo Super Entertainment System",
+            "name": "SNES Revised",
+            "emulator": "RetroArch",
+            "fileSize": "5MB",
+            "arguments": [
+              "-L",
+              ".\\cores\\snes9x_libretro.dll"
+            ],
+            "mods": "Revised Old Style Edition 2.02",
+            "romFiles": [
+              "Final Fantasy VI [Revised Old Style Edition].smc"
+            ],
+            "filenames": [
+              "Final Fantasy VI [Revised Old Style Edition].smc"
+            ]
           }
         ]
       }
