@@ -122991,7 +122991,7 @@
     "SortingName": "",
     "Description": "Archaeological adventure reaches cinematic perfection as legendary professor <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 6px #8B4513;'>Indiana Jones</span> races across exotic locales pursuing the mysterious <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Great Circle</span>, an ancient conspiracy spanning continents that could reshape the balance of power in a world teetering on the brink of global war.<br>From the dusty tombs of <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Egypt</span> where hieroglyphs conceal deadly secrets to the frozen monasteries of <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 6px #00CED1;'>Tibet</span> guarding forbidden knowledge, Indy must outwit <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Nazi occultists</span> while solving intricate puzzles that test both archaeological expertise and survival instincts.<br>Armed with his iconic <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>whip</span> and razor-sharp wit, players navigate treacherous temples filled with <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>ancient traps</span>, engage in visceral hand-to-hand combat, and uncover clues through immersive investigation mechanics that reward curiosity and clever thinking.<br>This first-person adventure proves that some treasures are worth any risk, where understanding history becomes a weapon against those who would corrupt it, and sometimes the greatest discovery isn't <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>gold</span> or <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 6px #FFB6C1;'>artifacts</span>, but the knowledge that preserving the past protects the <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>future</span>.",
     "DescriptionArabic": "<div dir='rtl'>تصل مغامرة الآثار إلى كمال سينمائي عندما يندفع البروفيسور الأسطوري <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 6px #8B4513;'>إنديانا جونز</span> عبر مواقع غريبة مطارداً <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الدائرة العظيمة</span> الغامضة، مؤامرة قديمة تمتد عبر القارات يمكن أن تعيد تشكيل توازن القوى في عالم يقف على حافة حرب عالمية.<br>من مقابر <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>مصر</span> المغبرة حيث تخفي الهيروغليفية أسراراً قاتلة إلى أديرة <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 6px #00CED1;'>التبت</span> المتجمدة التي تحرس المعرفة المحرمة، يجب على إندي أن يفوق في الذكاء <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>علماء الغيب النازيين</span> بينما يحل ألغازاً معقدة تختبر كلاً من الخبرة الأثرية وغرائز البقاء.<br>مسلحاً بـ<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>سوطه</span> الأيقوني وذكائه الحاد مثل شفرة الحلاقة، يتنقل اللاعبون عبر معابد غادرة مليئة بـ<span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>المصائد القديمة</span>، ويشاركون في قتال يد ليد عنيف، ويكشفون أدلة مر اليات تحقيق غامرة تكافئ الفضول والتفكير الذكي.<br>تثبت هذه المغامرة بضمير أول أن بعض الكنوز تستحق أي مخاطرة، حيث يصبح فهم التاريخ سلاحاً ضد أولئك الذين يفسدونه، وأحياناً أعظم اكتشاف ليس <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>الذهب</span> أو <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 6px #FFB6C1;'>القطع الأثرية</span>، بل المعرفة أن حفظ الماضي يحمي <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>المستقبل</span>.</div>",
-    "ReleaseDate": "2024-12-9",
+    "ReleaseDate": "2024",
     "CriticScore": 85,
     "BackgroundImage": "a8fed49e-29ec-4c3d-977a-275a49a1c4f1.jpeg",
     "CoverImage": "0f47d069-5985-4d5b-8de8-d826809474ec.png",
@@ -123014,12 +123014,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC30",
-            "filename": "Indiana Jones and the Great Circle.zip",
+            "identifier": "RPRP005",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "TheGreatCircle.exe",
-            "fileSize": "109GB"
+            "fileSize": "130GB",
+            "buildID": "10 October 2025",
+            "filename": "00135.zip"
           }
         ]
       }
