@@ -4968,13 +4968,14 @@
               "-L",
               ".\\cores\\snes9x_libretro.dll"
             ],
-            "mods": "Revised Old Style Edition 2.02",
+            "mods": "Revised Old Style Edition",
             "romFiles": [
               "Final Fantasy VI [Revised Old Style Edition].smc"
             ],
             "filenames": [
               "Final Fantasy VI [Revised Old Style Edition].smc"
-            ]
+            ],
+            "buildID": " 2.02"
           }
         ]
       }
