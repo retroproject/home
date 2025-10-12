@@ -1,15 +1,15 @@
 [
   {
     "_id": "book-001",
-    "Title": "Throne of Glass",
-    "SortingTitle": "Throne of Glass",
-    "Author": "Sarah J. Maas",
+    "Title": "Blood of Elves",
+    "SortingTitle": "The Witcher 001",
+    "Author": "Andrzej Sapkowski",
     "Description": "<p><strong>After serving out a year of hard labor in the salt mines of Endovier for her crimes, 18-year-old assassin Celaena Sardothien is dragged before the Crown Prince.</strong></p><p>Prince Dorian offers her her freedom on one condition: she must act as his champion in a competition to find a new royal assassin. Her opponents are men-thieves and assassins and warriors from across the empire, each sponsored by a member of the king's council.</p><p>If she beats her opponents in a series of eliminations, she'll serve the kingdom for four years and then be granted her freedom. Celaena finds her training sessions with the captain of the guard, Westfall, challenging and exhilarating. But she's bored stiff by court life.</p><p>Things get a little more interesting when the prince starts to show interest in her... but it's the gruff Captain Westfall who seems to understand her best. Then one of the other contestants turns up dead... quickly followed by another. Can Celaena figure out who the killer is before she becomes a victim?</p>",
     "DescriptionArabic": "<p><strong>بعد قضاء عام من العمل الشاق في مناجم الملح في إندوفير بسبب جرائمها، يتم جر سيلينا ساردوثيان، القاتلة البالغة من العمر 18 عامًا، أمام ولي العهد.</strong></p><p>يعرض عليها الأمير دوريان حريتها بشرط واحد: يجب أن تكون بطلته في مسابقة للعثور على قاتل ملكي جديد. خصومها رجال - لصوص وقتلة ومحاربون من جميع أنحاء الإمبراطورية، كل منهم برعاية أحد أعضاء مجلس الملك.</p>",
-    "ReleaseDate": "2012-08-07",
-    "CriticScore": 88,
-    "CoverUrl": "https://archive.org/download/throne-of-glass-cover/throne-of-glass-cover.jpg",
-    "BackgroundUrl": "https://archive.org/download/throne-of-glass-bg/throne-of-glass-bg.jpg",
+    "ReleaseDate": "2012",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Blood%20of%20Elves%20Cover.jpg",
+    "BackgroundUrl": "",
     "Genre": [
       "Fantasy",
       "Young Adult",
@@ -24,303 +24,21 @@
     "booksUrl": [
       {
         "format": "EPUB",
-        "identifier": "throne-of-glass-maas",
-        "filename": "throne-of-glass.epub",
-        "fileSize": "2.4 MB",
-        "pageCount": 432
-      },
-      {
-        "format": "PDF",
-        "identifier": "throne-of-glass-maas",
-        "filename": "throne-of-glass.pdf",
-        "fileSize": "3.8 MB",
-        "pageCount": 432
-      },
-      {
-        "format": "MOBI",
-        "identifier": "throne-of-glass-maas",
-        "filename": "throne-of-glass.mobi",
-        "fileSize": "2.6 MB",
-        "pageCount": 432
+        "identifier": "RBRB001",
+        "filename": "00001.epub",
+        "fileSize": "1MB",
+        "pageCount": 420
       }
     ],
     "audiobooksUrl": [
       {
-        "narrator": "Elizabeth Evans",
-        "identifier": "throne-of-glass-audiobook",
-        "filename": "throne-of-glass-audiobook.mp3",
-        "fileSize": "445 MB",
-        "duration": "13h 3m"
+        "narrator": "Peter Kenny",
+        "identifier": "RBRB001",
+        "filename": "00001.m4a",
+        "fileSize": "300MB",
+        "duration": "13h"
       }
     ],
     "dateAdded": 1704067200000
-  },
-  {
-    "_id": "book-002",
-    "Title": "The Hobbit",
-    "SortingTitle": "Hobbit, The",
-    "Author": "J.R.R. Tolkien",
-    "Description": "<p><strong>In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.</strong></p><p>Written for J.R.R. Tolkien's own children, The Hobbit met with instant critical acclaim when it was first published in 1937. Now recognized as a timeless classic, this introduction to the hobbit Bilbo Baggins, the wizard Gandalf, Gollum, and the spectacular world of Middle-earth recounts of the adventures of a reluctant hero, a powerful and dangerous ring, and the cruel dragon Smaug the Magnificent.</p><p>The text of this 75th-anniversary edition is based on the one Tolkien edited in 1965, the last version he oversaw.</p>",
-    "DescriptionArabic": "<p><strong>في حفرة في الأرض عاش هوبيت. ليست حفرة قذرة رطبة مليئة بنهايات الديدان ورائحة عفنة، ولا حفرة جافة عارية رملية لا يوجد فيها شيء للجلوس عليه أو الأكل: كانت حفرة هوبيت، وهذا يعني الراحة.</strong></p><p>كُتب لأطفال ج.ر.ر. تولكين، لاقى الهوبيت إشادة نقدية فورية عندما نُشر لأول مرة في عام 1937. يُعترف به الآن كتحفة خالدة، هذه المقدمة للهوبيت بيلبو باجينز، والساحر غاندالف، وغولوم، وعالم الأرض الوسطى الرائع.</p>",
-    "ReleaseDate": "1937-09-21",
-    "CriticScore": 95,
-    "CoverUrl": "https://archive.org/download/the-hobbit-cover/the-hobbit-cover.jpg",
-    "BackgroundUrl": "https://archive.org/download/the-hobbit-bg/the-hobbit-bg.jpg",
-    "Genre": [
-      "Fantasy",
-      "Adventure",
-      "Classic"
-    ],
-    "Tags": [
-      "Dragons",
-      "Magic",
-      "Quest",
-      "Middle-earth"
-    ],
-    "booksUrl": [
-      {
-        "format": "EPUB",
-        "identifier": "the-hobbit-tolkien",
-        "filename": "the-hobbit.epub",
-        "fileSize": "1.8 MB",
-        "pageCount": 310
-      },
-      {
-        "format": "PDF",
-        "identifier": "the-hobbit-tolkien",
-        "filename": "the-hobbit.pdf",
-        "fileSize": "2.9 MB",
-        "pageCount": 310
-      },
-      {
-        "format": "MOBI",
-        "identifier": "the-hobbit-tolkien",
-        "filename": "the-hobbit.mobi",
-        "fileSize": "2.1 MB",
-        "pageCount": 310
-      },
-      {
-        "format": "TXT",
-        "identifier": "the-hobbit-tolkien",
-        "filename": "the-hobbit.txt",
-        "fileSize": "580 KB",
-        "pageCount": 310
-      }
-    ],
-    "audiobooksUrl": [
-      {
-        "narrator": "Andy Serkis",
-        "identifier": "the-hobbit-audiobook-serkis",
-        "filename": "the-hobbit-audiobook-serkis.mp3",
-        "fileSize": "562 MB",
-        "duration": "11h 8m"
-      },
-      {
-        "narrator": "Rob Inglis",
-        "identifier": "the-hobbit-audiobook-inglis",
-        "filename": "the-hobbit-audiobook-inglis.mp3",
-        "fileSize": "495 MB",
-        "duration": "10h 45m"
-      }
-    ],
-    "dateAdded": 1704153600000
-  },
-  {
-    "_id": "book-003",
-    "Title": "The Midnight Library",
-    "SortingTitle": "Midnight Library, The",
-    "Author": "Matt Haig",
-    "Description": "<p><strong>Between life and death there is a library, and within that library, the shelves go on forever. Every book provides a chance to try another life you could have lived. To see how things would be if you had made other choices... Would you have done anything different, if you had the chance to undo your regrets?</strong></p><p>Nora Seed finds herself faced with this decision. Faced with the possibility of changing her life for a new one, following a different career, undoing old breakups, realizing her dreams of becoming a glaciologist; she must search within herself as she travels through the Midnight Library to decide what is truly fulfilling in life, and what makes it worth living in the first place.</p>",
-    "DescriptionArabic": "<p><strong>بين الحياة والموت توجد مكتبة، وداخل تلك المكتبة، تمتد الرفوف إلى الأبد. كل كتاب يوفر فرصة لتجربة حياة أخرى كان بإمكانك أن تعيشها. لترى كيف ستكون الأمور لو اتخذت خيارات أخرى... هل كنت ستفعل أي شيء مختلف، لو أتيحت لك الفرصة للتراجع عن ندمك؟</strong></p><p>تجد نورا سيد نفسها في مواجهة هذا القرار. في مواجهة إمكانية تغيير حياتها من أجل حياة جديدة، اتباع مسار مهني مختلف، التراجع عن الانفصالات القديمة، تحقيق أحلامها في أن تصبح عالمة جليديات.</p>",
-    "ReleaseDate": "2020-08-13",
-    "CriticScore": 82,
-    "CoverUrl": "https://archive.org/download/midnight-library-cover/midnight-library-cover.jpg",
-    "BackgroundUrl": "https://archive.org/download/midnight-library-bg/midnight-library-bg.jpg",
-    "Genre": [
-      "Fiction",
-      "Fantasy",
-      "Contemporary"
-    ],
-    "Tags": [
-      "Philosophy",
-      "Choices",
-      "Mental Health",
-      "Parallel Lives"
-    ],
-    "booksUrl": [
-      {
-        "format": "EPUB",
-        "identifier": "midnight-library-haig",
-        "filename": "midnight-library.epub",
-        "fileSize": "1.2 MB",
-        "pageCount": 304
-      },
-      {
-        "format": "PDF",
-        "identifier": "midnight-library-haig",
-        "filename": "midnight-library.pdf",
-        "fileSize": "2.1 MB",
-        "pageCount": 304
-      },
-      {
-        "format": "MOBI",
-        "identifier": "midnight-library-haig",
-        "filename": "midnight-library.mobi",
-        "fileSize": "1.4 MB",
-        "pageCount": 304
-      }
-    ],
-    "audiobooksUrl": [
-      {
-        "narrator": "Carey Mulligan",
-        "identifier": "midnight-library-audiobook",
-        "filename": "midnight-library-audiobook.mp3",
-        "fileSize": "328 MB",
-        "duration": "8h 49m"
-      }
-    ],
-    "dateAdded": 1704240000000
-  },
-  {
-    "_id": "book-004",
-    "Title": "1984",
-    "SortingTitle": "1984",
-    "Author": "George Orwell",
-    "Description": "<p><strong>Among the seminal texts of the 20th century, Nineteen Eighty-Four is a rare work that grows more haunting as its futuristic purgatory becomes more real.</strong></p><p>Published in 1949, the book offers political satirist George Orwell's nightmarish vision of a totalitarian, bureaucratic world and one poor stiff's attempt to find individuality. The brilliance of the novel is Orwell's prescience of modern life—the ubiquity of television, the distortion of the language—and his ability to construct such a thorough version of hell.</p><p>Winston Smith is a low-ranking member of the ruling Party in London, in the nation of Oceania. Everywhere Winston goes, even his own home, the Party watches him through telescreens; everywhere he looks he sees the face of the Party's seemingly omniscient leader, a figure known only as Big Brother. The Party controls everything in Oceania, even the people's history and language.</p>",
-    "DescriptionArabic": "<p><strong>من بين النصوص الأساسية في القرن العشرين، 1984 هو عمل نادر يصبح أكثر إثارة للقلق مع تحول مطهره المستقبلي إلى واقع أكثر.</strong></p><p>نُشر الكتاب في عام 1949، ويقدم رؤية الكاتب الساخر السياسي جورج أورويل الكابوسية لعالم شمولي بيروقراطي ومحاولة رجل مسكين واحد للعثور على الفردية. تكمن روعة الرواية في استشراف أورويل للحياة الحديثة - انتشار التلفزيون في كل مكان، وتشويه اللغة - وقدرته على بناء نسخة شاملة من الجحيم.</p>",
-    "ReleaseDate": "1949-06-08",
-    "CriticScore": 96,
-    "CoverUrl": "https://archive.org/download/1984-cover/1984-cover.jpg",
-    "BackgroundUrl": "https://archive.org/download/1984-bg/1984-bg.jpg",
-    "Genre": [
-      "Science Fiction",
-      "Dystopian",
-      "Classic",
-      "Political"
-    ],
-    "Tags": [
-      "Totalitarianism",
-      "Surveillance",
-      "Censorship",
-      "Propaganda"
-    ],
-    "booksUrl": [
-      {
-        "format": "EPUB",
-        "identifier": "1984-orwell",
-        "filename": "1984.epub",
-        "fileSize": "980 KB",
-        "pageCount": 328
-      },
-      {
-        "format": "PDF",
-        "identifier": "1984-orwell",
-        "filename": "1984.pdf",
-        "fileSize": "1.8 MB",
-        "pageCount": 328
-      },
-      {
-        "format": "MOBI",
-        "identifier": "1984-orwell",
-        "filename": "1984.mobi",
-        "fileSize": "1.1 MB",
-        "pageCount": 328
-      },
-      {
-        "format": "TXT",
-        "identifier": "1984-orwell",
-        "filename": "1984.txt",
-        "fileSize": "420 KB",
-        "pageCount": 328
-      }
-    ],
-    "audiobooksUrl": [
-      {
-        "narrator": "Simon Prebble",
-        "identifier": "1984-audiobook-prebble",
-        "filename": "1984-audiobook-prebble.mp3",
-        "fileSize": "412 MB",
-        "duration": "11h 22m"
-      },
-      {
-        "narrator": "Andrew Wincott",
-        "identifier": "1984-audiobook-wincott",
-        "filename": "1984-audiobook-wincott.mp3",
-        "fileSize": "385 MB",
-        "duration": "10h 54m"
-      }
-    ],
-    "dateAdded": 1704326400000
-  },
-  {
-    "_id": "book-005",
-    "Title": "Dune",
-    "SortingTitle": "Dune",
-    "Author": "Frank Herbert",
-    "Description": "<p><strong>Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides, heir to a noble family tasked with ruling an inhospitable world where the only thing of value is the 'spice' melange, a drug capable of extending life and enhancing consciousness.</strong></p><p>Coveted across the known universe, melange is a prize worth killing for. When House Atreides is betrayed, the destruction of Paul's family will set the boy on a journey toward a destiny greater than he could ever have imagined. And as he evolves into the mysterious man known as Muad'Dib, he will bring to fruition humankind's most ancient and unattainable dream.</p><p>A stunning blend of adventure and mysticism, environmentalism and politics, Dune won the first Nebula Award, shared the Hugo Award, and formed the basis of what is undoubtedly the grandest epic in science fiction.</p>",
-    "DescriptionArabic": "<p><strong>تدور أحداث الرواية على كوكب أراكيس الصحراوي، وهي قصة الصبي بول أتريدس، وريث عائلة نبيلة مكلفة بحكم عالم غير مضياف حيث الشيء الوحيد ذو القيمة هو 'التوابل' ميلانج، دواء قادر على إطالة العمر وتعزيز الوعي.</strong></p><p>مطموع فيه في جميع أنحاء الكون المعروف، ميلانج جائزة تستحق القتل من أجلها. عندما يتعرض بيت أتريدس للخيانة، سيضع تدمير عائلة بول الصبي على طريق نحو مصير أعظم مما يمكن أن يتخيله. وبينما يتطور إلى الرجل الغامض المعروف باسم مواد ديب، سيحقق حلم البشرية الأقدم والذي لا يمكن تحقيقه.</p>",
-    "ReleaseDate": "1965-06-01",
-    "CriticScore": 94,
-    "CoverUrl": "https://archive.org/download/dune-cover/dune-cover.jpg",
-    "BackgroundUrl": "https://archive.org/download/dune-bg/dune-bg.jpg",
-    "Genre": [
-      "Science Fiction",
-      "Fantasy",
-      "Classic"
-    ],
-    "Tags": [
-      "Desert Planet",
-      "Politics",
-      "Ecology",
-      "Space Opera",
-      "Prophecy"
-    ],
-    "booksUrl": [
-      {
-        "format": "EPUB",
-        "identifier": "dune-herbert",
-        "filename": "dune.epub",
-        "fileSize": "2.8 MB",
-        "pageCount": 688
-      },
-      {
-        "format": "PDF",
-        "identifier": "dune-herbert",
-        "filename": "dune.pdf",
-        "fileSize": "4.2 MB",
-        "pageCount": 688
-      },
-      {
-        "format": "MOBI",
-        "identifier": "dune-herbert",
-        "filename": "dune.mobi",
-        "fileSize": "3.1 MB",
-        "pageCount": 688
-      },
-      {
-        "format": "TXT",
-        "identifier": "dune-herbert",
-        "filename": "dune.txt",
-        "fileSize": "920 KB",
-        "pageCount": 688
-      }
-    ],
-    "audiobooksUrl": [
-      {
-        "narrator": "Scott Brick, Orlagh Cassidy, Euan Morton, Simon Vance",
-        "identifier": "dune-audiobook-full-cast",
-        "filename": "dune-audiobook-full-cast.mp3",
-        "fileSize": "782 MB",
-        "duration": "21h 2m"
-      },
-      {
-        "narrator": "Simon Vance",
-        "identifier": "dune-audiobook-vance",
-        "filename": "dune-audiobook-vance.mp3",
-        "fileSize": "698 MB",
-        "duration": "19h 27m"
-      }
-    ],
-    "dateAdded": 1704412800000
   }
 ]
