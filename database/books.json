@@ -19,7 +19,7 @@
         "format": "EPUB",
         "identifier": "RBRB001",
         "filename": "00001.epub",
-        "fileSize": "1MB",
+        "fileSize": "460KB",
         "pageCount": 420
       }
     ],
@@ -86,7 +86,7 @@
         "format": "EPUB",
         "identifier": "RBRB001",
         "filename": "00006.epub",
-        "fileSize": "2 MB",
+        "fileSize": "10MB",
         "pageCount": 0
       }
     ],
@@ -95,7 +95,7 @@
         "narrator": "Peter Kenny",
         "identifier": "RBRB001",
         "filename": "00006.m4a",
-        "fileSize": "553 MB",
+        "fileSize": "560MB",
         "duration": ""
       }
     ]
@@ -119,7 +119,7 @@
         "format": "EPUB",
         "identifier": "RBRB001",
         "filename": "00007.epub",
-        "fileSize": "2 MB",
+        "fileSize": "10MB",
         "pageCount": 0
       }
     ],
@@ -128,7 +128,7 @@
         "narrator": "Peter Kenny",
         "identifier": "RBRB001",
         "filename": "00007.m4a",
-        "fileSize": "320 MB",
+        "fileSize": "330MB",
         "duration": ""
       }
     ]
@@ -218,7 +218,7 @@
         "format": "EPUB",
         "identifier": "RBRB001",
         "filename": "00005.epub",
-        "fileSize": "368 KB",
+        "fileSize": "370KB",
         "pageCount": 0
       }
     ],
@@ -227,7 +227,7 @@
         "narrator": "Peter Kenny",
         "identifier": "RBRB001",
         "filename": "00005.m4a",
-        "fileSize": "447 MB",
+        "fileSize": "330MB",
         "duration": ""
       }
     ]
@@ -251,7 +251,7 @@
         "format": "EPUB",
         "identifier": "RBRB001",
         "filename": "00005.epub",
-        "fileSize": "399 KB",
+        "fileSize": "370KB",
         "pageCount": 0
       }
     ],
@@ -260,7 +260,7 @@
         "narrator": "Peter Kenny",
         "identifier": "RBRB001",
         "filename": "00005.m4a",
-        "fileSize": "324 MB",
+        "fileSize": "330MB",
         "duration": ""
       }
     ]
@@ -284,7 +284,7 @@
         "format": "EPUB",
         "identifier": "RBRB001",
         "filename": "00010.epub",
-        "fileSize": "992 KB",
+        "fileSize": "1000KB",
         "pageCount": 0
       }
     ],
@@ -293,7 +293,7 @@
         "narrator": "Elizabeth Evans",
         "identifier": "RBRB001",
         "filename": "00010.mp3",
-        "fileSize": "658 MB",
+        "fileSize": "660MB",
         "duration": ""
       }
     ]
@@ -317,7 +317,7 @@
         "format": "EPUB",
         "identifier": "RBRB001",
         "filename": "00013.epub",
-        "fileSize": "641 KB",
+        "fileSize": "10MB",
         "pageCount": 0
       }
     ],
@@ -342,7 +342,7 @@
         "format": "EPUB",
         "identifier": "RBRB001",
         "filename": "00011.epub",
-        "fileSize": "3 MB",
+        "fileSize": "10MB",
         "pageCount": 0
       }
     ],
@@ -351,7 +351,7 @@
         "narrator": "Elizabeth Evans",
         "identifier": "RBRB001",
         "filename": "00011.mp3",
-        "fileSize": "556 MB",
+        "fileSize": "560MB",
         "duration": ""
       }
     ]
@@ -375,7 +375,7 @@
         "format": "EPUB",
         "identifier": "RBRB001",
         "filename": "00015.epub",
-        "fileSize": "6 MB",
+        "fileSize": "10MB",
         "pageCount": 0
       }
     ],
@@ -384,7 +384,7 @@
         "narrator": "Elizabeth Evans",
         "identifier": "RBRB001",
         "filename": "00015.mp3",
-        "fileSize": "912 MB",
+        "fileSize": "920MB",
         "duration": ""
       }
     ]
@@ -408,7 +408,7 @@
         "format": "EPUB",
         "identifier": "RBRB001",
         "filename": "00012.epub",
-        "fileSize": "728 KB",
+        "fileSize": "730KB",
         "pageCount": 0
       }
     ],
@@ -417,7 +417,7 @@
         "narrator": "Elizabeth Evans",
         "identifier": "RBRB001",
         "filename": "00012.mp3",
-        "fileSize": "556 MB",
+        "fileSize": "560MB",
         "duration": ""
       }
     ]
@@ -441,7 +441,7 @@
         "format": "EPUB",
         "identifier": "RBRB001",
         "filename": "00008.epub",
-        "fileSize": "3 MB",
+        "fileSize": "10MB",
         "pageCount": 0
       }
     ],
@@ -450,7 +450,7 @@
         "narrator": "Elizabeth Evans",
         "identifier": "RBRB001",
         "filename": "00008.mp3",
-        "fileSize": "354 MB",
+        "fileSize": "360MB",
         "duration": ""
       }
     ]
@@ -474,7 +474,7 @@
         "format": "EPUB",
         "identifier": "RBRB001",
         "filename": "00009.epub",
-        "fileSize": "840 KB",
+        "fileSize": "850KB",
         "pageCount": 0
       }
     ],
@@ -483,7 +483,7 @@
         "narrator": "",
         "identifier": "RBRB001",
         "filename": "00009.mp3",
-        "fileSize": "439 MB",
+        "fileSize": "440MB",
         "duration": ""
       }
     ]
@@ -513,7 +513,7 @@
     ],
     "audiobooksUrl": [
       {
-        "narrator": "",
+        "narrator": "Peter Kenny",
         "identifier": "RBRB001",
         "filename": "00016.mp3",
         "fileSize": "526 MB",
