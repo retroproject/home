@@ -185,7 +185,7 @@
         "format": "EPUB",
         "identifier": "RBRB001",
         "filename": "00004.epub",
-        "fileSize": "651 KB",
+        "fileSize": "660KB",
         "pageCount": 0
       }
     ],
@@ -194,7 +194,7 @@
         "narrator": "Peter Kenny",
         "identifier": "RBRB001",
         "filename": "00004.m4b",
-        "fileSize": "281 MB",
+        "fileSize": "290MB",
         "duration": ""
       }
     ]
@@ -507,7 +507,7 @@
         "format": "EPUB",
         "identifier": "RBRB001",
         "filename": "00016.epub",
-        "fileSize": "595 KB",
+        "fileSize": "600KB",
         "pageCount": 0
       }
     ],
@@ -516,7 +516,7 @@
         "narrator": "Peter Kenny",
         "identifier": "RBRB001",
         "filename": "00016.mp3",
-        "fileSize": "526 MB",
+        "fileSize": "530MB",
         "duration": ""
       }
     ]
