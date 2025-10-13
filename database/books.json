@@ -264,5 +264,228 @@
         "duration": ""
       }
     ]
+  },
+  {
+    "_id": "book_1760342332179_0",
+    "Title": "Crown of Midnight",
+    "SortingTitle": "Throne of Glass 03",
+    "Author": " Sarah J. Maas",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2013",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Crown%20of%20Midnight%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00010.epub",
+        "fileSize": "992 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Elizabeth Evans",
+        "identifier": "RBRB001",
+        "filename": "00010.mp3",
+        "fileSize": "658 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760342332179_1",
+    "Title": "Empire of Storms & Tower of Dawn",
+    "SortingTitle": "Throne of Glass 06",
+    "Author": " Sarah J. Maas",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2016",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Empire%20of%20Storms%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00013.epub",
+        "fileSize": "641 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1760342332179_2",
+    "Title": "Heir of Fire",
+    "SortingTitle": "Throne of Glass 04",
+    "Author": " Sarah J. Maas",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2014",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Heir%20of%20Fire%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00011.epub",
+        "fileSize": "3 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Elizabeth Evans",
+        "identifier": "RBRB001",
+        "filename": "00011.mp3",
+        "fileSize": "556 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760342332179_3",
+    "Title": "Kingdom of Ash",
+    "SortingTitle": "Throne of Glass 08",
+    "Author": " Sarah J. Maas",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2018",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Kingdom%20of%20Ash.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00015.epub",
+        "fileSize": "6 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Elizabeth Evans",
+        "identifier": "RBRB001",
+        "filename": "00015.mp3",
+        "fileSize": "912 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760342332179_4",
+    "Title": "Queen of Shadows",
+    "SortingTitle": "Throne of Glass 05",
+    "Author": " Sarah J. Maas",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2015",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Queen%20of%20Shadows%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00012.epub",
+        "fileSize": "728 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Elizabeth Evans",
+        "identifier": "RBRB001",
+        "filename": "00012.mp3",
+        "fileSize": "556 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760342332179_5",
+    "Title": "The Assassin's Blade",
+    "SortingTitle": "Throne of Glass 01",
+    "Author": "Sarah J. Maas",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2014",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Assassin's%20Blade%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00008.epub",
+        "fileSize": "3 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Elizabeth Evans",
+        "identifier": "RBRB001",
+        "filename": "00008.mp3",
+        "fileSize": "354 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760342332179_6",
+    "Title": "Throne of Glass",
+    "SortingTitle": "Throne of Glass 02",
+    "Author": " Sarah J. Maas",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2012",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Throne%20of%20Glass%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00009.epub",
+        "fileSize": "840 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00009.mp3",
+        "fileSize": "439 MB",
+        "duration": ""
+      }
+    ]
   }
 ]
