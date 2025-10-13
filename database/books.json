@@ -990,5 +990,533 @@
         "duration": ""
       }
     ]
+  },
+  {
+    "_id": "book_1760391848778_0",
+    "Title": "Liveship Traders Trilogy Ship of Destiny",
+    "SortingTitle": "Realm of the Elderlings 06",
+    "Author": "Robin Hobb",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2000",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Liveship%20Traders%20Trilogy%20Ship%20of%20Destiny%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00037.epub",
+        "fileSize": "1017 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Anne Flosnik",
+        "identifier": "RBRB001",
+        "filename": "00037.mp3",
+        "fileSize": "917 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760391848778_1",
+    "Title": "Liveship Traders Trilogy Ship of Magic",
+    "SortingTitle": "Realm of the Elderlings 04",
+    "Author": "Robin Hobb",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1998",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Liveship%20Traders%20Trilogy%20Ship%20of%20Magic%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00035.epub",
+        "fileSize": "1 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Anne Flosnik",
+        "identifier": "RBRB001",
+        "filename": "00035.mp3",
+        "fileSize": "963 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760391848778_2",
+    "Title": "Liveship Traders Trilogy The Mad Ship",
+    "SortingTitle": "Realm of the Elderlings 05",
+    "Author": "Robin Hobb",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1999",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Liveship%20Traders%20Trilogy%20The%20Mad%20Ship%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00036.epub",
+        "fileSize": "1 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Anne Flosnik",
+        "identifier": "RBRB001",
+        "filename": "00036.mp3",
+        "fileSize": "925 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760391848778_3",
+    "Title": "Tawny Man Trilogy Fool's Errand",
+    "SortingTitle": "Realm of the Elderlings 07",
+    "Author": "Robin Hobb",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2001",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Tawny%20Man%20Trilogy%20Fool's%20Errand%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00038.epub",
+        "fileSize": "598 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "James Langton",
+        "identifier": "RBRB001",
+        "filename": "00038.mp3",
+        "fileSize": "690 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760391848778_4",
+    "Title": "Tawny Man Trilogy Fool's Fate",
+    "SortingTitle": "Realm of the Elderlings 09",
+    "Author": "Robin Hobb",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2003",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Tawny%20Man%20Trilogy%20Fool's%20Fate%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00040.epub",
+        "fileSize": "854 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "James Langton",
+        "identifier": "RBRB001",
+        "filename": "00040.mp3",
+        "fileSize": "893 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760391848778_5",
+    "Title": "Tawny Man Trilogy Golden Fool",
+    "SortingTitle": "Realm of the Elderlings 08",
+    "Author": "Robin Hobb",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2002",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Tawny%20Man%20Trilogy%20Golden%20Fool%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00039.epub",
+        "fileSize": "631 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "James Langton",
+        "identifier": "RBRB001",
+        "filename": "00039.mp3",
+        "fileSize": "721 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760391848778_6",
+    "Title": "The Farseer Trilogy Assassin's Apprentice",
+    "SortingTitle": "Realm of the Elderlings 01",
+    "Author": "Robin Hobb",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1995",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Farseer%20Trilogy%20Assassin's%20Apprentice%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00032.epub",
+        "fileSize": "505 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Paul Boehmer",
+        "identifier": "RBRB001",
+        "filename": "00032.mp3",
+        "fileSize": "472 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760391848778_7",
+    "Title": "The Farseer Trilogy Assassin's Quest",
+    "SortingTitle": "Realm of the Elderlings 03",
+    "Author": "Robin Hobb",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1997",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Farseer%20Trilogy%20Assassin's%20Quest%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00034.epub",
+        "fileSize": "906 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Paul Boehmer",
+        "identifier": "RBRB001",
+        "filename": "00034.mp3",
+        "fileSize": "1 GB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760391848778_8",
+    "Title": "The Farseer Trilogy Royal Assassin",
+    "SortingTitle": "Realm of the Elderlings 02",
+    "Author": "Robin Hobb",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1996",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Farseer%20Trilogy%20Royal%20Assassin%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00033.epub",
+        "fileSize": "2 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Paul Boehmer",
+        "identifier": "RBRB001",
+        "filename": "00033.mp3",
+        "fileSize": "798 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760391848778_9",
+    "Title": "The Fitz and the Fool Trilogy Assassin's Fate",
+    "SortingTitle": "Realm of the Elderlings 16",
+    "Author": "Robin Hobb",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2017",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Fitz%20and%20the%20Fool%20Trilogy%20Assassin's%20Fate%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00047.epub",
+        "fileSize": "1 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Elliot Hill",
+        "identifier": "RBRB001",
+        "filename": "00047.mp3",
+        "fileSize": "1 GB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760391848778_10",
+    "Title": "The Fitz and the Fool Trilogy Fool's Assassin",
+    "SortingTitle": "Realm of the Elderlings 14",
+    "Author": "Robin Hobb",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2014",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Fitz%20and%20the%20Fool%20Trilogy%20Fool's%20Assassin%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00045.epub",
+        "fileSize": "3 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Elliot Hill",
+        "identifier": "RBRB001",
+        "filename": "00045.mp3",
+        "fileSize": "744 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760391848778_11",
+    "Title": "The Fitz and the Fool Trilogy Fool's Quest",
+    "SortingTitle": "Realm of the Elderlings 15",
+    "Author": "Robin Hobb",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2015",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Fitz%20and%20the%20Fool%20Trilogy%20Fool's%20Quest%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00046.epub",
+        "fileSize": "6 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Elliot Hill",
+        "identifier": "RBRB001",
+        "filename": "00046.mp3",
+        "fileSize": "905 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760391848778_12",
+    "Title": "The Rain Wild Chronicles Blood of Dragons",
+    "SortingTitle": "Realm of the Elderlings 13",
+    "Author": "Robin Hobb",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2013",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Rain%20Wild%20Chronicles%20Blood%20of%20Dragons%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00044.epub",
+        "fileSize": "447 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Anne Flosnik",
+        "identifier": "RBRB001",
+        "filename": "00044.mp3",
+        "fileSize": "440 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760391848778_13",
+    "Title": "The Rain Wild Chronicles City of Dragons",
+    "SortingTitle": "Realm of the Elderlings 12",
+    "Author": "Robin Hobb",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2011",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Rain%20Wild%20Chronicles%20City%20of%20Dragons%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00043.epub",
+        "fileSize": "622 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Anne Flosnik",
+        "identifier": "RBRB001",
+        "filename": "00043.mp3",
+        "fileSize": "366 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760391848778_14",
+    "Title": "The Rain Wild Chronicles Dragon Haven",
+    "SortingTitle": "Realm of the Elderlings 11",
+    "Author": "Robin Hobb",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2010",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Rain%20Wild%20Chronicles%20Dragon%20Haven%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00042.epub",
+        "fileSize": "511 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Anne Flosnik",
+        "identifier": "RBRB001",
+        "filename": "00042.mp3",
+        "fileSize": "535 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760391848778_15",
+    "Title": "The Rain Wild Chronicles Dragon Keeper",
+    "SortingTitle": "Realm of the Elderlings 10",
+    "Author": "Robin Hobb",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2009",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Rain%20Wild%20Chronicles%20Dragon%20Keeper%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00041.epub",
+        "fileSize": "1 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Anne Flosnik",
+        "identifier": "RBRB001",
+        "filename": "00041.mp3",
+        "fileSize": "559 MB",
+        "duration": ""
+      }
+    ]
   }
 ]
