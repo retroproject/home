@@ -66,5 +66,203 @@
       }
     ],
     "CriticScore": 100
+  },
+  {
+    "_id": "book_1760336120832_0",
+    "Title": "Lady of the Lake",
+    "SortingTitle": "The Witcher 007",
+    "Author": "Andrzej Sapkowski",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1999",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Lady%20of%20the%20Lake%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00006.epub",
+        "fileSize": "2 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Peter Kenny",
+        "identifier": "RBRB001",
+        "filename": "00006.m4a",
+        "fileSize": "553 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760336120833_1",
+    "Title": "Season of Storms",
+    "SortingTitle": "The Witcher 008",
+    "Author": "Andrzej Sapkowski",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2013",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Season%20of%20Storms%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00007.epub",
+        "fileSize": "2 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Peter Kenny",
+        "identifier": "RBRB001",
+        "filename": "00007.m4a",
+        "fileSize": "320 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760336120833_2",
+    "Title": "Sword of Destiny",
+    "SortingTitle": "The Witcher 002",
+    "Author": "Andrzej Sapkowski",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1992",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Sword%20of%20Destiny%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00003.epub",
+        "fileSize": "464 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Peter Kenny",
+        "identifier": "RBRB001",
+        "filename": "00003.m4a",
+        "fileSize": "348 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760336120833_3",
+    "Title": "The Last Wish",
+    "SortingTitle": "The Witcher 001",
+    "Author": "Andrzej Sapkowski",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1993",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Last%20Wish%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00004.epub",
+        "fileSize": "651 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Peter Kenny",
+        "identifier": "RBRB001",
+        "filename": "00004.m4b",
+        "fileSize": "281 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760336120833_4",
+    "Title": "The Tower of Swallows",
+    "SortingTitle": "The Witcher 006",
+    "Author": "Andrzej Sapkowski",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1997",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Tower%20of%20Swallows%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00005.epub",
+        "fileSize": "368 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Peter Kenny",
+        "identifier": "RBRB001",
+        "filename": "00005.m4a",
+        "fileSize": "447 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760336120833_5",
+    "Title": "Time of Contempt",
+    "SortingTitle": "The Witcher 004",
+    "Author": "Andrzej Sapkowski",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1995",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Time%20of%20Contempt%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00005.epub",
+        "fileSize": "399 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Peter Kenny",
+        "identifier": "RBRB001",
+        "filename": "00005.m4a",
+        "fileSize": "324 MB",
+        "duration": ""
+      }
+    ]
   }
 ]
