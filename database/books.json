@@ -2,7 +2,7 @@
   {
     "_id": "book-001",
     "Title": "Blood of Elves",
-    "SortingTitle": "The Witcher 001",
+    "SortingTitle": "The Witcher 003",
     "Author": "Andrzej Sapkowski",
     "Description": "The fires of war rage across the Northern Kingdoms as Geralt of Rivia, the legendary Witcher, becomes guardian to young Ciri—a child whose Elder Blood holds the power to reshape destiny itself. Hidden within the ancient fortress of Kaer Morhen, she must master the brutal arts of monster hunting while dark forces and political conspiracies hunt her across the war-torn land.<br>As kingdoms clash and empires crumble, Geralt struggles to protect Ciri from those who would use her power for conquest. With the help of his sorceress allies and fellow Witchers, he must navigate treacherous political intrigue intertwined with ancient prophecy, facing impossible choices between love, duty, and survival in this dark fantasy epic that launched one of the most beloved series in modern literature.",
     "DescriptionArabic": "<div dir='rtl'>تشتعل نيران الحرب عبر الممالك الشمالية بينما يصبح جيرالت من ريفيا، الويتشر الأسطوري، وصياً على الشابة سيري—طفلة يحمل دم الأقدمين القوة لإعادة تشكيل المصير نفسه. مخبأة داخل قلعة كاير مورهين القديمة، عليها أن تتقن الفنون الوحشية لصيد الوحوش بينما القوى المظلمة والمؤامرات السياسية تطاردها عبر الأرض المزقتها الحرب.<br>بينما تتصادم الممالك وتنهار الإمبراطوريات، يكافح جيرالت لحماية سيري من أولئك الذين يريدون استخدام قوتها للغزو. بمساعدة حلفائه من الساحرات وزملائه الويتشرز، عليه أن يتنقل عبر الدسائس السياسية الغادرة المتشابكة مع النبوءة القديمة، مواجهاً خيارات مستحيلة بين الحب والواجب والبقاء في هذه الملحمة الفانتازية المظلمة التي أطلقت واحدة من أكثر السلاسل المحبوبة في الأدب الحديث.</div>",
@@ -33,5 +33,38 @@
       }
     ],
     "dateAdded": 1704067200000
+  },
+  {
+    "_id": "book_1760331633271_0",
+    "Title": "Baptism of Fire",
+    "SortingTitle": "The Witcher 005",
+    "Author": "Andrzej Sapkowski",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1996",
+    "CoverUrl": "https://archive.org/download/RPRM001/Baptism%20of%20Fire%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00002.epub",
+        "fileSize": "1MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Peter Kenny",
+        "identifier": "RBRB001",
+        "filename": "00002.m4a",
+        "fileSize": "400MB",
+        "duration": ""
+      }
+    ],
+    "CriticScore": 100
   }
 ]
