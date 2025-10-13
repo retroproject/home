@@ -487,5 +487,38 @@
         "duration": ""
       }
     ]
+  },
+  {
+    "_id": "book_1760347950212_0",
+    "Title": "The First Fifteen Lives of Harry August",
+    "SortingTitle": "",
+    "Author": "Catherine Webb",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2014",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20First%20Fifteen%20Lives%20of%20Harry%20August%20Cover.jpg",
+    "Genre": [
+      "Science Fiction"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00016.epub",
+        "fileSize": "595 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00016.mp3",
+        "fileSize": "526 MB",
+        "duration": ""
+      }
+    ]
   }
 ]
