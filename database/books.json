@@ -321,7 +321,15 @@
         "pageCount": 0
       }
     ],
-    "audiobooksUrl": []
+    "audiobooksUrl": [
+      {
+        "narrator": "Elizabeth Evans",
+        "identifier": "RBRB001",
+        "filename": "00013.mp3",
+        "fileSize": "4GB",
+        "duration": "48h"
+      }
+    ]
   },
   {
     "_id": "book_1760342332179_2",
