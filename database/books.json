@@ -528,5 +528,467 @@
         "duration": ""
       }
     ]
+  },
+  {
+    "_id": "book_1760358529209_0",
+    "Title": "Fantastic Beasts and Where to Find Them",
+    "SortingTitle": "Harry Potter 10",
+    "Author": "J.K. Rowling",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2001",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Fantastic%20Beasts%20and%20Where%20to%20Find%20Them%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00018.epub",
+        "fileSize": "22 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Eddie Redmayne",
+        "identifier": "RBRB001",
+        "filename": "00018.mp3",
+        "fileSize": "55 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760358529209_1",
+    "Title": "Harry Potter and the Chamber of Secrets",
+    "SortingTitle": "Harry Potter 02",
+    "Author": "J.K. Rowling",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1998",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00019.epub",
+        "fileSize": "1 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00019.mp3",
+        "fileSize": "283 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760358529209_2",
+    "Title": "Harry Potter and the Deathly Hallows",
+    "SortingTitle": "Harry Potter 07",
+    "Author": "J.K. Rowling",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2007",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Harry%20Potter%20and%20the%20Deathly%20Hallows%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00020.epub",
+        "fileSize": "1 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00020.mp3",
+        "fileSize": "659 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760358529209_3",
+    "Title": "Harry Potter and the Goblet of Fire",
+    "SortingTitle": "Harry Potter 04",
+    "Author": "J.K. Rowling",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2000",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00021.epub",
+        "fileSize": "1022 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Jim Dale",
+        "identifier": "RBRB001",
+        "filename": "00021.mp3",
+        "fileSize": "594 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760358529209_4",
+    "Title": "Harry Potter and the Half Blood Prince",
+    "SortingTitle": "Harry Potter 06",
+    "Author": "J.K. Rowling",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2005",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Harry%20Potter%20and%20the%20Half-Blood%20Prince%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00022.epub",
+        "fileSize": "1 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Jim Dale",
+        "identifier": "RBRB001",
+        "filename": "00022.mp3",
+        "fileSize": "576 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760358529209_5",
+    "Title": "Harry Potter and the Order of the Phoenix",
+    "SortingTitle": "Harry Potter 05",
+    "Author": "J.K. Rowling",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2003",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00023.epub",
+        "fileSize": "1 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Jim Dale",
+        "identifier": "RBRB001",
+        "filename": "00023.mp3",
+        "fileSize": "813 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760358529210_6",
+    "Title": "Harry Potter and the Philosopher's Stone",
+    "SortingTitle": "Harry Potter 01",
+    "Author": "J.K. Rowling",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1997",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Harry%20Potter%20and%20the%20Sorcerer's%20Stone%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00024.epub",
+        "fileSize": "858 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Jim Dale",
+        "identifier": "RBRB001",
+        "filename": "00024.mp3",
+        "fileSize": "245 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760358529210_7",
+    "Title": "Harry Potter and the Prisoner of Azkaban",
+    "SortingTitle": "Harry Potter 03",
+    "Author": "J.K. Rowling",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1999",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00025.epub",
+        "fileSize": "891 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Jim Dale",
+        "identifier": "RBRB001",
+        "filename": "00025.mp3",
+        "fileSize": "345 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760358529210_8",
+    "Title": "Quidditch Through the Ages",
+    "SortingTitle": "Harry Potter 11",
+    "Author": "J.K. Rowling",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2001",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Quidditch%20Through%20the%20Ages%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00026.epub",
+        "fileSize": "1 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Andrew Lincoln",
+        "identifier": "RBRB001",
+        "filename": "00026.mp3",
+        "fileSize": "173 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760358529210_9",
+    "Title": "The Fellowship of the Ring",
+    "SortingTitle": "The Lord of the Rings 01",
+    "Author": "J.R.R. Tolkien",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1954",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Fellowship%20of%20the%20Ring%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00027.epub",
+        "fileSize": "4 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Andy Serkis",
+        "identifier": "RBRB001",
+        "filename": "00027.mp3",
+        "fileSize": "808 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760358529210_10",
+    "Title": "The Hobbit",
+    "SortingTitle": "The Lord of the Rings 00",
+    "Author": "J.R.R. Tolkien",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1937",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Hobbit%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00028.epub",
+        "fileSize": "3 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Andy Serkis",
+        "identifier": "RBRB001",
+        "filename": "00028.mp3",
+        "fileSize": "653 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760358529210_11",
+    "Title": "The Return of the King",
+    "SortingTitle": "The Lord of the Rings 03",
+    "Author": "J.R.R. Tolkien",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1955",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Return%20of%20the%20King%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00029.epub",
+        "fileSize": "5 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Andy Serkis",
+        "identifier": "RBRB001",
+        "filename": "00029.mp3",
+        "fileSize": "917 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760358529210_12",
+    "Title": "The Tales of Beedle the Bard",
+    "SortingTitle": "Harry Potter 12",
+    "Author": " J.K. Rowling",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2008",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Tales%20of%20Beedle%20the%20Bard%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00030.epub",
+        "fileSize": "7 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": " Warwick Davis",
+        "identifier": "RBRB001",
+        "filename": "00030.mp3",
+        "fileSize": "76 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760358529210_13",
+    "Title": "The Two Towers",
+    "SortingTitle": "The Lord of the Rings 02",
+    "Author": "J.R.R. Tolkien",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1954",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Two%20Towers%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00031.epub",
+        "fileSize": "2 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Andy Serkis",
+        "identifier": "RBRB001",
+        "filename": "00031.mp3",
+        "fileSize": "756 MB",
+        "duration": ""
+      }
+    ]
   }
 ]
