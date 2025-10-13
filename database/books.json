@@ -6,21 +6,14 @@
     "Author": "Andrzej Sapkowski",
     "Description": "The <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>fires of war</b> rage across the <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Northern Kingdoms</b> as <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Geralt of Rivia</b>, the legendary <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Witcher</b>, becomes guardian to young <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Ciri</b>—a child whose <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Elder Blood</b> holds the power to reshape destiny itself. Hidden within the <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>ancient fortress of Kaer Morhen</b>, she must master the <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>brutal arts of the Witcher</b> while <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>dark forces</b> hunt her across the land.<br>As <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>political intrigue</b> intertwines with <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>ancient prophecy</b>, Geralt faces impossible choices between <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>love</b>, <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>duty</b>, and <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>survival</b> in this dark fantasy epic!",
     "DescriptionArabic": "<div dir='rtl'>تشتعل <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>نيران الحرب</b> عبر <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الممالك الشمالية</b> بينما يصبح <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>جيرالت من ريفيا</b>، <b style='color: #708090; text-shadow: 0 0 8px #708090;'>الويتشر الأسطوري</b>، وصياً على الشابة <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>سيري</b>—طفلة يحمل <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>دم الأقدمين</b> القوة لإعادة تشكيل المصير نفسه. مخبأة داخل <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>قلعة كاير مورهين القديمة</b>، عليها أن تتقن <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الفنون الوحشية للويتشر</b> بينما <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>القوى المظلمة</b> تطاردها عبر الأرض.<br>بينما تتشابك <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>الدسائس السياسية</b> مع <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>النبوءة القديمة</b>، يواجه جيرالت خيارات مستحيلة بين <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>الحب</b> و<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الواجب</b> و<b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>البقاء</b> في هذه الملحمة الفانتازية المظلمة!</div>",
-    "ReleaseDate": "2012",
+    "ReleaseDate": "1994",
     "CriticScore": 100,
     "CoverUrl": "https://archive.org/download/RPRM001/Blood%20of%20Elves%20Cover.jpg",
     "BackgroundUrl": "",
     "Genre": [
-      "Fantasy",
-      "Young Adult",
-      "Romance"
+      "Fantasy"
     ],
-    "Tags": [
-      "Magic",
-      "Assassins",
-      "Competition",
-      "Court Intrigue"
-    ],
+    "Tags": [],
     "booksUrl": [
       {
         "format": "EPUB",
