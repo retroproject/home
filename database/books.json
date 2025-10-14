@@ -1,7 +1,7 @@
 [
   {
     "_id": "book-001",
-    "Title": "Blood of Elves",
+    "Title": "The Witcher Blood of Elves",
     "SortingTitle": "The Witcher 003",
     "Author": "Andrzej Sapkowski",
     "Description": "War <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>devours kingdoms</b> while <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Geralt of Rivia</b> shelters young <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Ciri</b> within the <b style='color: #696969; text-shadow: 0 0 8px #696969;'>stone walls of Kaer Morhen</b>, knowing her <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Elder Blood</b> makes her the most <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>hunted child</b> in the <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Northern Kingdoms</b>. Emperors and sorcerers alike covet the power flowing through her veins—a power that could reshape the world or tear it apart.<br>As the girl learns the <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>brutal discipline</b> of a Witcher, <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>political machinations</b> and <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>ancient prophecies</b> converge around her fate. <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Dark forces</b> close in, and Geralt must navigate a web of <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>betrayal</b> and <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>loyalty</b> to protect the one destiny he never expected—fatherhood in a world bleeding from war.",
@@ -36,7 +36,7 @@
   },
   {
     "_id": "book_1760331633271_0",
-    "Title": "Baptism of Fire",
+    "Title": "The Witcher Baptism of Fire",
     "SortingTitle": "The Witcher 005",
     "Author": "Andrzej Sapkowski",
     "Description": "Across a <b style='color: #654321; text-shadow: 0 0 8px #654321;'>war-ravaged continent</b>, <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Geralt</b> rides with an unlikely company of misfits—a <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>poet</b>, a <b style='color: #708090; text-shadow: 0 0 8px #708090;'>dwarf</b>, a <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>vampire</b>, and others bound by <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>desperate purpose</b>. <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Ciri</b> has vanished into the chaos of the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Nilfgaardian invasion</b>, and the Witcher will cross through <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>fire and blood</b> to find her.<br>Their path leads through <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>burning villages</b> and <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>treacherous battlefields</b>, where <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>ancient hatreds</b> collide with <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>fragile alliances</b>. As armies clash and the world tears itself apart, Geralt's ragtag band becomes the last hope for a girl who holds the key to humanity's survival—or its destruction.",
@@ -69,7 +69,7 @@
   },
   {
     "_id": "book_1760336120832_0",
-    "Title": "Lady of the Lake",
+    "Title": "The Witcher Lady of the Lake",
     "SortingTitle": "The Witcher 007",
     "Author": "Andrzej Sapkowski",
     "Description": "Destiny's <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>final threads</b> converge as <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Ciri</b> walks between <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>worlds and times</b>, pursued by the <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Wild Hunt</b> through dimensions where <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>past and future</b> blur into nightmare. <b style='color: #696969; text-shadow: 0 0 8px #696969;'>Geralt</b> lies broken, his quest seemingly ended, while the world he fought to save <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>crumbles</b> under the weight of war and prophecy.<br>In the <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>misty realm</b> of <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>Arthurian legend</b>, where <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>knights</b> and <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>sorceresses</b> gather, the saga's <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>bitter truths</b> unfold. Love, <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>sacrifice</b>, and <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>fate</b> intertwine in a conclusion that shatters expectations, leaving only echoes of what heroes pay for peace.",
@@ -102,7 +102,7 @@
   },
   {
     "_id": "book_1760336120833_1",
-    "Title": "Season of Storms",
+    "Title": "The Witcher Season of Storms",
     "SortingTitle": "The Witcher 008",
     "Author": "Andrzej Sapkowski",
     "Description": "Stripped of his <b style='color: #708090; text-shadow: 0 0 8px #708090;'>silver sword</b> and accused of <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>sorcery</b>, <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Geralt</b> finds himself entangled in the schemes of <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>mages</b>, <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>assassins</b>, and <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>spies</b> in the coastal city of <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Kerack</b>. Between hunting <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>monsters</b> and navigating <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>political intrigues</b>, the Witcher uncovers a conspiracy that threatens more than just his reputation.<br>As <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>autumn storms</b> batter the coast, Geralt must reclaim his blade while dodging <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>dangerous women</b>, <b style='color: #696969; text-shadow: 0 0 8px #696969;'>vengeful enemies</b>, and the ever-present threat of being caught in forces far greater than a lone monster hunter should face. This standalone tale reveals a younger, less world-weary Witcher navigating the perils that shaped him.",
@@ -135,7 +135,7 @@
   },
   {
     "_id": "book_1760336120833_2",
-    "Title": "Sword of Destiny",
+    "Title": "The Witcher Sword of Destiny",
     "SortingTitle": "The Witcher 002",
     "Author": "Andrzej Sapkowski",
     "Description": "Six tales weave through <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Geralt's</b> wandering path, each encounter pulling him deeper into the web of <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>destiny</b> he's spent a lifetime trying to escape. From <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>primeval forests</b> where ancient creatures stir, to <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>blood-soaked battlefields</b> between warring kingdoms, the Witcher learns that <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>neutrality</b> is a luxury monsters can't afford.<br>His bond with <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>Yennefer</b> deepens even as it fractures, while a <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>fateful meeting</b> with young <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Ciri</b> sets events in motion that will reshape the world. Between <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>sword strikes</b> and <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>moral choices</b>, Geralt discovers that some destinies demand to be fulfilled, whether by <b style='color: #708090; text-shadow: 0 0 8px #708090;'>blade</b> or by <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>heart</b>.",
@@ -168,7 +168,7 @@
   },
   {
     "_id": "book_1760336120833_3",
-    "Title": "The Last Wish",
+    "Title": "The Witcher The Last Wish",
     "SortingTitle": "The Witcher 001",
     "Author": "Andrzej Sapkowski",
     "Description": "Recovering from wounds in a <b style='color: #654321; text-shadow: 0 0 8px #654321;'>temple sanctuary</b>, <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Geralt of Rivia</b> recounts the <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>dark fairy tales</b> that shaped his path as a <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Witcher</b>. From <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>cursed princesses</b> to <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>twisted djinns</b>, each monster he's slain reveals the greater beasts—<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>human cruelty</b> and <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>destiny's chains</b>.<br>In these interconnected tales, Geralt meets <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>Yennefer</b>, the sorceress who will change everything, while grappling with his <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Law of Surprise</b>—an oath that binds him to a child not yet born. As he navigates a world where <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>magic and politics</b> corrupt all they touch, the Witcher learns that the real <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>monsters</b> rarely have fangs.",
@@ -201,7 +201,7 @@
   },
   {
     "_id": "book_1760336120833_4",
-    "Title": "The Tower of Swallows",
+    "Title": "The Witcher The Tower of Swallows",
     "SortingTitle": "The Witcher 006",
     "Author": "Andrzej Sapkowski",
     "Description": "Gravely wounded, <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Ciri</b> seeks refuge in the <b style='color: #696969; text-shadow: 0 0 8px #696969;'>desolate Tower of Swallows</b>, where time blurs and <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>visions of past and future</b> haunt her fevered mind. Through flashbacks, her desperate flight across the <b style='color: #654321; text-shadow: 0 0 8px #654321;'>war-torn continent</b> unfolds—evading <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Nilfgaardian hunters</b>, the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Wild Hunt's spectral riders</b>, and those who would enslave her power.<br>Meanwhile, <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Geralt</b> and his company press closer to finding her, though <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>death</b> stalks their every step. As <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>Yennefer</b> faces <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>torture</b> and <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>dark magic</b> in <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Vilgefortz's</b> dungeons, Ciri must master her abilities or be consumed by them. In the tower, surrounded by <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>death's wings</b>, she becomes something more than human—and far more dangerous.",
@@ -234,7 +234,7 @@
   },
   {
     "_id": "book_1760336120833_5",
-    "Title": "Time of Contempt",
+    "Title": "The Witcher Time of Contempt",
     "SortingTitle": "The Witcher 004",
     "Author": "Andrzej Sapkowski",
     "Description": "At <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Aretuza</b>, the gathering of <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>kings and sorcerers</b> fractures into <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>bloodshed and betrayal</b> as <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Ciri's</b> magical training becomes a <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>deadly prize</b> in the struggle for power. The <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>Thanedd Coup</b> shatters alliances and sends <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Geralt</b> and <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Yennefer</b> fleeing through dimensions, while the girl they swore to protect vanishes into a world tearing itself apart.<br><b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Nilfgaard's invasion</b> sweeps across the continent as <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>magical politics</b> and <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>ancient vendettas</b> collide. Separated and hunted, Geralt must navigate a landscape where friends become <b style='color: #696969; text-shadow: 0 0 8px #696969;'>enemies</b> and yesterday's allies spill <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>tomorrow's blood</b>. In this age of contempt, trust dies first.",
@@ -267,7 +267,7 @@
   },
   {
     "_id": "book_1760342332179_0",
-    "Title": "Crown of Midnight",
+    "Title": "Throne of Glass Crown of Midnight",
     "SortingTitle": "Throne of Glass 03",
     "Author": " Sarah J. Maas",
     "Description": "As the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>King's Champion</b>, <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Celaena Sardothien</b> should be eliminating the king's enemies without question. Instead, she's faking their deaths and smuggling them to safety, playing a <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>dangerous game</b> that could cost her everything. When she's ordered to kill a man who holds secrets about her past, the truth she uncovers will shatter her world—and reveal that <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>magic's disappearance</b> is no accident.<br><b style='color: #696969; text-shadow: 0 0 8px #696969;'>Chaol</b>, the Captain of the Guard she's come to love, stands between her and the <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>ancient power</b> awakening within her. As bodies pile up and the <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>king's tyranny</b> tightens its grip, Celaena must confront who she truly is—<b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Aelin Galathynius</b>, lost heir of <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Terrasen</b>. The assassin who once killed for coin must decide whether to embrace her <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>royal destiny</b> or watch the kingdoms burn under a <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>crown of midnight</b>.",
@@ -300,7 +300,7 @@
   },
   {
     "_id": "book_1760342332179_1",
-    "Title": "Empire of Storms & Tower of Dawn",
+    "Title": "Throne of Glass Empire of Storms & Tower of Dawn",
     "SortingTitle": "Throne of Glass 06",
     "Author": " Sarah J. Maas",
     "Description": "As <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>war</b> engulfs the kingdoms, <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Aelin</b> races across stormy seas seeking ancient <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>allies</b> and forbidden <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>magic</b> to face the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>demon armies</b> of <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Morath</b>. Betrayals cut deeper than <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>swords</b>, and the queen must unlock the full power of her <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>fire</b> or watch everything burn.<br>Meanwhile, across the sea, <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Chaol</b> and <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Nesryn</b> journey to the <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>southern continent</b>, seeking healing and aid from the <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>Torre Cesme</b>. In a land of <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>healers</b> and <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>legendary warriors</b>, they discover new threats that could doom them all. Two parallel journeys converge toward a single truth: the final battle approaches, and not everyone will survive the <b style='color: #696969; text-shadow: 0 0 8px #696969;'>storm</b>.",
@@ -333,7 +333,7 @@
   },
   {
     "_id": "book_1760342332179_2",
-    "Title": "Heir of Fire",
+    "Title": "Throne of Glass Heir of Fire",
     "SortingTitle": "Throne of Glass 04",
     "Author": " Sarah J. Maas",
     "Description": "Haunted by her past and <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>drowning in guilt</b>, <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Celaena Galathynius</b> travels to the <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>fae kingdom of Wendlyn</b> seeking answers about her heritage. There she encounters <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Prince Rowan Whitethorn</b>, a powerful warrior who becomes her <b style='color: #708090; text-shadow: 0 0 8px #708090;'>ruthless trainer</b>, forcing her to confront the <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>magic</b> she's buried and the woman she was born to be.<br>While Celaena fights to master her <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>fire magic</b> and accept her identity as <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Aelin</b>, back in Adarlan her friends face <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>mounting dangers</b>. <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>Chaol</b> and <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>Dorian</b> struggle against the king's <b style='color: #696969; text-shadow: 0 0 8px #696969;'>dark power</b>, while a rebellion stirs in the shadows. Transformation comes at a brutal price, and the girl who left must die so the queen can rise from her <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>ashes</b>.",
@@ -366,7 +366,7 @@
   },
   {
     "_id": "book_1760342332179_3",
-    "Title": "Kingdom of Ash",
+    "Title": "Throne of Glass Kingdom of Ash",
     "SortingTitle": "Throne of Glass 08",
     "Author": " Sarah J. Maas",
     "Description": "Chained in an <b style='color: #696969; text-shadow: 0 0 8px #696969;'>iron coffin</b>, <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Aelin Galathynius</b> endures <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>unspeakable torture</b> at the hands of <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Maeve</b> while her kingdom <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>burns</b>. As <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>demon armies</b> sweep across the land and hope crumbles to <b style='color: #708090; text-shadow: 0 0 8px #708090;'>ash</b>, her <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>court</b> fights desperately to find her—knowing that without their queen, the war is already lost.<br>From <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Terrasen</b> to the battlefields of <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Anielle</b>, allies old and new rally for a final stand against <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>Erawan's</b> darkness. <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Rowan</b>, <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Dorian</b>, <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>Chaol</b>, and the <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Thirteen</b> lead armies toward impossible odds, while Aelin fights to remember who she is beneath the pain. In this epic conclusion, kingdoms will fall, heroes will sacrifice everything, and a queen will rise from the ashes to face her destiny.",
@@ -399,7 +399,7 @@
   },
   {
     "_id": "book_1760342332179_4",
-    "Title": "Queen of Shadows",
+    "Title": "Throne of Glass Queen of Shadows",
     "SortingTitle": "Throne of Glass 05",
     "Author": " Sarah J. Maas",
     "Description": "The <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>assassin</b> is dead. <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Aelin Galathynius</b> returns to <b style='color: #696969; text-shadow: 0 0 8px #696969;'>Rifthold</b> as queen, forged by <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>fire and loss</b>, ready to reclaim her kingdom and destroy the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>King of Adarlan</b>. But the city she once knew has become a <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>nightmare</b> of <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>dark magic</b> and <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>demonic forces</b>, where old friends have become strangers and <b style='color: #708090; text-shadow: 0 0 8px #708090;'>trust</b> is a luxury she can't afford.<br>To save <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Dorian</b> from possession and free her kingdom from tyranny, Aelin must navigate deadly alliances with <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>witches</b>, <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>assassins</b>, and <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>shape-shifters</b>. With <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Rowan</b> at her side, she'll face the darkness that has consumed her world—but the cost of victory may be more than even a queen can bear.",
@@ -432,7 +432,7 @@
   },
   {
     "_id": "book_1760342332179_5",
-    "Title": "The Assassin's Blade",
+    "Title": "Throne of Glass The Assassin's Blade",
     "SortingTitle": "Throne of Glass 01",
     "Author": "Sarah J. Maas",
     "Description": "Before she was <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>betrayed</b> and <b style='color: #696969; text-shadow: 0 0 8px #696969;'>imprisoned</b>, <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Celaena Sardothien</b> ruled the <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>underworld</b> as <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Adarlan's most feared assassin</b>. These five tales unveil her transformation from a ruthless eighteen-year-old killer into a young woman haunted by her choices, following missions that send her from the <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Red Desert</b> to distant kingdoms.<br>Alongside her mentor <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Arobynn</b>, the <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>King of Assassins</b>, and friend <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Sam</b>, Celaena faces <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>slavers</b>, <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>desert lords</b>, and her own <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>conscience</b>. But the final mission will cost her everything, forging the <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>chains</b> that bind her future and revealing how a legendary assassin fell from grace.",
@@ -465,7 +465,7 @@
   },
   {
     "_id": "book_1760342332179_6",
-    "Title": "Throne of Glass",
+    "Title": "Throne of Glass Throne of Glass",
     "SortingTitle": "Throne of Glass 02",
     "Author": " Sarah J. Maas",
     "Description": "Dragged from the <b style='color: #696969; text-shadow: 0 0 8px #696969;'>slave mines of Endovier</b>, notorious assassin <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Celaena Sardothien</b> faces an impossible choice: rot in the <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>salt mines</b> or win her <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>freedom</b> by serving the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>tyrannical king</b> who destroyed everything she loved. She must compete against <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>assassins, thieves, and warriors</b> to become the king's <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>royal champion</b>—a title that promises freedom but chains her to a monster's will.<br>Yet within the <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>glass castle</b>, something far darker than royal politics stirs. When competitors begin dying in <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>gruesome ways</b>, Celaena discovers <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>ancient magic</b> and long-buried secrets that connect her past to the kingdom's fate. Between the <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>charming Crown Prince</b> and his enigmatic <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Captain of the Guard</b>, she must decide whether winning her freedom is worth the price—or if some battles are worth losing everything.",
@@ -498,7 +498,7 @@
   },
   {
     "_id": "book_1760347950212_0",
-    "Title": "The First Fifteen Lives of Harry August",
+    "Title": "Realm of the Elderlings The First Fifteen Lives of Harry August",
     "SortingTitle": "",
     "Author": "Catherine Webb",
     "Description": "Every time <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Harry August</b> dies, he's <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>reborn</b> in the same place, the same year—<b style='color: #696969; text-shadow: 0 0 8px #696969;'>1919</b>—with all his <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>memories intact</b>. He's not alone; others like him, the <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Ouroborus</b>, have lived countless lives across centuries, bound by an unspoken rule: never change history. But on his eleventh death, a <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>little girl</b> arrives with a message from his future self—the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>world is ending</b>, and it's ending faster with each cycle.<br>Someone is manipulating <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>time itself</b>, accelerating humanity toward <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>apocalypse</b>. As Harry hunts through his lives for the culprit, he discovers a former friend turned <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>enemy</b>—someone willing to sacrifice everything for <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>forbidden knowledge</b>. Across decades and continents, through <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Cold War paranoia</b> and <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>scientific breakthroughs</b>, Harry must stop the end of time—before his fifteenth life becomes his last.",
@@ -531,7 +531,7 @@
   },
   {
     "_id": "book_1760358529209_0",
-    "Title": "Fantastic Beasts and Where to Find Them",
+    "Title": "Harry Potter Fantastic Beasts and Where to Find Them",
     "SortingTitle": "Harry Potter 10",
     "Author": "J.K. Rowling",
     "Description": "",
@@ -795,7 +795,7 @@
   },
   {
     "_id": "book_1760358529210_8",
-    "Title": "Quidditch Through the Ages",
+    "Title": "Harry Potter Quidditch Through the Ages",
     "SortingTitle": "Harry Potter 11",
     "Author": "J.K. Rowling",
     "Description": "",
@@ -828,7 +828,7 @@
   },
   {
     "_id": "book_1760358529210_9",
-    "Title": "The Fellowship of the Ring",
+    "Title": "The Lord of the Rings The Fellowship of the Ring",
     "SortingTitle": "The Lord of the Rings 01",
     "Author": "J.R.R. Tolkien",
     "Description": "",
@@ -861,7 +861,7 @@
   },
   {
     "_id": "book_1760358529210_10",
-    "Title": "The Hobbit",
+    "Title": "The Lord of the Rings The Hobbit",
     "SortingTitle": "The Lord of the Rings 00",
     "Author": "J.R.R. Tolkien",
     "Description": "",
@@ -894,7 +894,7 @@
   },
   {
     "_id": "book_1760358529210_11",
-    "Title": "The Return of the King",
+    "Title": "The Lord of the Rings The Return of the King",
     "SortingTitle": "The Lord of the Rings 03",
     "Author": "J.R.R. Tolkien",
     "Description": "",
@@ -927,7 +927,7 @@
   },
   {
     "_id": "book_1760358529210_12",
-    "Title": "The Tales of Beedle the Bard",
+    "Title": "Harry Potter The Tales of Beedle the Bard",
     "SortingTitle": "Harry Potter 12",
     "Author": " J.K. Rowling",
     "Description": "",
@@ -960,7 +960,7 @@
   },
   {
     "_id": "book_1760358529210_13",
-    "Title": "The Two Towers",
+    "Title": "The Lord of the Rings The Two Towers",
     "SortingTitle": "The Lord of the Rings 02",
     "Author": "J.R.R. Tolkien",
     "Description": "",
@@ -993,7 +993,7 @@
   },
   {
     "_id": "book_1760391848778_0",
-    "Title": "Liveship Traders Trilogy Ship of Destiny",
+    "Title": "Realm of the Elderlings Liveship Traders Trilogy Ship of Destiny",
     "SortingTitle": "Realm of the Elderlings 06",
     "Author": "Robin Hobb",
     "Description": "",
@@ -1026,7 +1026,7 @@
   },
   {
     "_id": "book_1760391848778_1",
-    "Title": "Liveship Traders Trilogy Ship of Magic",
+    "Title": "Realm of the Elderlings Liveship Traders Trilogy Ship of Magic",
     "SortingTitle": "Realm of the Elderlings 04",
     "Author": "Robin Hobb",
     "Description": "",
@@ -1059,7 +1059,7 @@
   },
   {
     "_id": "book_1760391848778_2",
-    "Title": "Liveship Traders Trilogy The Mad Ship",
+    "Title": "Realm of the Elderlings Liveship Traders Trilogy The Mad Ship",
     "SortingTitle": "Realm of the Elderlings 05",
     "Author": "Robin Hobb",
     "Description": "",
@@ -1092,7 +1092,7 @@
   },
   {
     "_id": "book_1760391848778_3",
-    "Title": "Tawny Man Trilogy Fool's Errand",
+    "Title": "Realm of the Elderlings Tawny Man Trilogy Fool's Errand",
     "SortingTitle": "Realm of the Elderlings 07",
     "Author": "Robin Hobb",
     "Description": "",
@@ -1125,7 +1125,7 @@
   },
   {
     "_id": "book_1760391848778_4",
-    "Title": "Tawny Man Trilogy Fool's Fate",
+    "Title": "Realm of the Elderlings Tawny Man Trilogy Fool's Fate",
     "SortingTitle": "Realm of the Elderlings 09",
     "Author": "Robin Hobb",
     "Description": "",
@@ -1158,7 +1158,7 @@
   },
   {
     "_id": "book_1760391848778_5",
-    "Title": "Tawny Man Trilogy Golden Fool",
+    "Title": "Realm of the Elderlings Tawny Man Trilogy Golden Fool",
     "SortingTitle": "Realm of the Elderlings 08",
     "Author": "Robin Hobb",
     "Description": "",
@@ -1191,7 +1191,7 @@
   },
   {
     "_id": "book_1760391848778_6",
-    "Title": "The Farseer Trilogy Assassin's Apprentice",
+    "Title": "Realm of the Elderlings The Farseer Trilogy Assassin's Apprentice",
     "SortingTitle": "Realm of the Elderlings 01",
     "Author": "Robin Hobb",
     "Description": "",
@@ -1224,7 +1224,7 @@
   },
   {
     "_id": "book_1760391848778_7",
-    "Title": "The Farseer Trilogy Assassin's Quest",
+    "Title": "Realm of the Elderlings The Farseer Trilogy Assassin's Quest",
     "SortingTitle": "Realm of the Elderlings 03",
     "Author": "Robin Hobb",
     "Description": "",
@@ -1257,7 +1257,7 @@
   },
   {
     "_id": "book_1760391848778_8",
-    "Title": "The Farseer Trilogy Royal Assassin",
+    "Title": "Realm of the Elderlings The Farseer Trilogy Royal Assassin",
     "SortingTitle": "Realm of the Elderlings 02",
     "Author": "Robin Hobb",
     "Description": "",
@@ -1290,7 +1290,7 @@
   },
   {
     "_id": "book_1760391848778_9",
-    "Title": "The Fitz and the Fool Trilogy Assassin's Fate",
+    "Title": "Realm of the Elderlings The Fitz and the Fool Trilogy Assassin's Fate",
     "SortingTitle": "Realm of the Elderlings 16",
     "Author": "Robin Hobb",
     "Description": "",
@@ -1323,7 +1323,7 @@
   },
   {
     "_id": "book_1760391848778_10",
-    "Title": "The Fitz and the Fool Trilogy Fool's Assassin",
+    "Title": "Realm of the Elderlings The Fitz and the Fool Trilogy Fool's Assassin",
     "SortingTitle": "Realm of the Elderlings 14",
     "Author": "Robin Hobb",
     "Description": "",
@@ -1356,7 +1356,7 @@
   },
   {
     "_id": "book_1760391848778_11",
-    "Title": "The Fitz and the Fool Trilogy Fool's Quest",
+    "Title": "Realm of the Elderlings The Fitz and the Fool Trilogy Fool's Quest",
     "SortingTitle": "Realm of the Elderlings 15",
     "Author": "Robin Hobb",
     "Description": "",
@@ -1389,7 +1389,7 @@
   },
   {
     "_id": "book_1760391848778_12",
-    "Title": "The Rain Wild Chronicles Blood of Dragons",
+    "Title": "Realm of the Elderlings The Rain Wild Chronicles Blood of Dragons",
     "SortingTitle": "Realm of the Elderlings 13",
     "Author": "Robin Hobb",
     "Description": "",
@@ -1422,7 +1422,7 @@
   },
   {
     "_id": "book_1760391848778_13",
-    "Title": "The Rain Wild Chronicles City of Dragons",
+    "Title": "Realm of the Elderlings The Rain Wild Chronicles City of Dragons",
     "SortingTitle": "Realm of the Elderlings 12",
     "Author": "Robin Hobb",
     "Description": "",
@@ -1455,7 +1455,7 @@
   },
   {
     "_id": "book_1760391848778_14",
-    "Title": "The Rain Wild Chronicles Dragon Haven",
+    "Title": "Realm of the Elderlings The Rain Wild Chronicles Dragon Haven",
     "SortingTitle": "Realm of the Elderlings 11",
     "Author": "Robin Hobb",
     "Description": "",
@@ -1488,7 +1488,7 @@
   },
   {
     "_id": "book_1760391848778_15",
-    "Title": "The Rain Wild Chronicles Dragon Keeper",
+    "Title": "Realm of the Elderlings The Rain Wild Chronicles Dragon Keeper",
     "SortingTitle": "Realm of the Elderlings 10",
     "Author": "Robin Hobb",
     "Description": "",
