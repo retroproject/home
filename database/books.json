@@ -1782,5 +1782,38 @@
         "duration": ""
       }
     ]
+  },
+  {
+    "_id": "book_1760413787942_0",
+    "Title": "The King in Yellow",
+    "SortingTitle": "",
+    "Author": "Robert W Chambers",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1895",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20King%20in%20Yellow%20Cover.jpg",
+    "Genre": [
+      "Horror"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00056.epub",
+        "fileSize": "2 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Josh Greenwood",
+        "identifier": "RBRB001",
+        "filename": "00056.m4a",
+        "fileSize": "434 MB",
+        "duration": ""
+      }
+    ]
   }
 ]
