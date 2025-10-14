@@ -1518,5 +1518,269 @@
         "duration": ""
       }
     ]
+  },
+  {
+    "_id": "book_1760405212560_0",
+    "Title": "A Song of Ice and Fire A Clash of Kings",
+    "SortingTitle": "A Song of Ice and Fire 02",
+    "Author": "George R. R. Martin",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1998",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/A%20Song%20of%20Ice%20and%20Fire%20A%20Clash%20of%20Kings%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00049.epub",
+        "fileSize": "2 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Roy Dotrice",
+        "identifier": "RBRB001",
+        "filename": "00049.m4b",
+        "fileSize": "2 GB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760405212560_1",
+    "Title": "A Song of Ice and Fire A Dance with Dragons",
+    "SortingTitle": "A Song of Ice and Fire 05",
+    "Author": "George R. R. Martin",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2011",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/A%20Song%20of%20Ice%20and%20Fire%20A%20Dance%20with%20Dragons%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00055.epub",
+        "fileSize": "2 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Roy Dotrice",
+        "identifier": "RBRB001",
+        "filename": "00055.m4b",
+        "fileSize": "2 GB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760405212560_2",
+    "Title": "A Song of Ice and Fire A Feast for Crows",
+    "SortingTitle": "A Song of Ice and Fire 04",
+    "Author": "George R. R. Martin",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2005",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/A%20Song%20of%20Ice%20and%20Fire%20A%20Feast%20for%20Crows%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00051.epub",
+        "fileSize": "2 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Roy Dotrice",
+        "identifier": "RBRB001",
+        "filename": "00051.m4b",
+        "fileSize": "1 GB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760405212560_3",
+    "Title": "A Song of Ice and Fire A Game of Thrones",
+    "SortingTitle": "A Song of Ice and Fire 01",
+    "Author": "George R. R. Martin",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1996",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/A%20Song%20of%20Ice%20and%20Fire%20A%20Game%20of%20Thrones%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00048.epub",
+        "fileSize": "984 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Roy Dotrice",
+        "identifier": "RBRB001",
+        "filename": "00048.m4b",
+        "fileSize": "1 GB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760405212560_4",
+    "Title": "A Song of Ice and Fire A Knight of the Seven Kingdoms",
+    "SortingTitle": "A Song of Ice and Fire 00.02",
+    "Author": "George R. R. Martin",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2015",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/A%20Song%20of%20Ice%20and%20Fire%20A%20Knight%20of%20the%20Seven%20Kingdoms%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00054.epub",
+        "fileSize": "47 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Harry Lloyd",
+        "identifier": "RBRB001",
+        "filename": "00054.mp3",
+        "fileSize": "276 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760405212560_5",
+    "Title": "A Song of Ice and Fire A Storm of Swords",
+    "SortingTitle": "A Song of Ice and Fire 03",
+    "Author": "George R. R. Martin",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2000",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/A%20Song%20of%20Ice%20and%20Fire%20A%20Storm%20of%20Swords%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00050.epub",
+        "fileSize": "2 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00050.m4b",
+        "fileSize": "2 GB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760405212560_6",
+    "Title": "A Song of Ice and Fire A The World of Ice & Fire The Untold History of Westeros and the Game of Thrones",
+    "SortingTitle": "A Song of Ice and Fire 00.00",
+    "Author": "George R. R. Martin",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2014",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/A%20Song%20of%20Ice%20and%20Fire%20A%20The%20World%20of%20Ice%20%26%20Fire%20The%20Untold%20History%20of%20Westeros%20and%20the%20Game%20of%20Thrones%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00052.epub",
+        "fileSize": "6 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Roy Dotrice",
+        "identifier": "RBRB001",
+        "filename": "00052.mp3",
+        "fileSize": "587 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760405212560_7",
+    "Title": "A Song of Ice and Fire Fire & Blood 300 Years Before A Game of Thrones",
+    "SortingTitle": "A Song of Ice and Fire 00.01",
+    "Author": "George R. R. Martin",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2018",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/A%20Song%20of%20Ice%20and%20Fire%20Fire%20%26%20Blood%20300%20Years%20Before%20A%20Game%20of%20Thrones%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00053.epub",
+        "fileSize": "7 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "Simon Vance",
+        "identifier": "RBRB001",
+        "filename": "00053.m4b",
+        "fileSize": "720 MB",
+        "duration": ""
+      }
+    ]
   }
 ]
