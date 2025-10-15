@@ -36970,20 +36970,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "COPC05",
-            "filename": "FATAL FURY City of the Wolves.zip",
+            "identifier": "RPRP005",
             "name": "Online",
             "platform": "PC Game",
-            "executable": "FATAL FURY City of the Wolves.exe",
-            "fileSize": "31GB"
-          },
-          {
-            "identifier": "CPC42",
-            "filename": "FATAL FURY City of the Wolves.zip",
-            "name": "Offline",
-            "platform": "PC Game",
-            "executable": "FATAL FURY City of the Wolves.exe",
-            "fileSize": "31GB"
+            "executable": "EOSAuthLauncher.exe",
+            "fileSize": "31GB",
+            "buildID": "1.3.1.87129",
+            "filename": "FATAL FURY City of the Wolves.zip"
           }
         ]
       }
