@@ -1758,5 +1758,1399 @@
         "fileSize": "434 MB"
       }
     ]
+  },
+  {
+    "_id": "book_1760605547431_0",
+    "Title": "A Hat Full of Sky",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 32",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2004",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/A%20Hat%20Full%20of%20Sky%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00089.epub",
+        "fileSize": "274 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00089.m4b",
+        "fileSize": "509 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_1",
+    "Title": "Carpe Jugulum",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 23",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1998",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Carpe%20Jugulum%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00080.epub",
+        "fileSize": "447 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00080.m4b",
+        "fileSize": "642 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_2",
+    "Title": "Equal Rites",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 03",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1987",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Equal%20Rites%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00060.epub",
+        "fileSize": "291 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00060.m4b",
+        "fileSize": "412 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_3",
+    "Title": "Eric",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 09",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1990",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Eric%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00066.epub",
+        "fileSize": "213 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00066.m4b",
+        "fileSize": "197 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_4",
+    "Title": "Feet of Clay",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 19",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1996",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Feet%20of%20Clay%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00076.epub",
+        "fileSize": "299 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00076.m4b",
+        "fileSize": "673 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_5",
+    "Title": "Going Postal",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 33",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2004",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Going%20Postal%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00090.epub",
+        "fileSize": "400 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00090.mp3",
+        "fileSize": "1 GB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_6",
+    "Title": "Guards! Guards!",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 08",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1989",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Guards!%20Guards!%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00065.epub",
+        "fileSize": "310 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00065.m4b",
+        "fileSize": "732 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_7",
+    "Title": "Hogfather",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 20",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1996",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Hogfather%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00077.epub",
+        "fileSize": "373 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00077.m4b",
+        "fileSize": "562 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_8",
+    "Title": "I Shall Wear Midnight",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 38",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2010",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/I%20Shall%20Wear%20Midnight%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00095.epub",
+        "fileSize": "462 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00095.m4b",
+        "fileSize": "642 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_9",
+    "Title": "Interesting Times",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 17",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1994",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Interesting%20Times%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00074.epub",
+        "fileSize": "400 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00074.m4b",
+        "fileSize": "563 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_10",
+    "Title": "Jingo",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 21",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1997",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Jingo%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00078.epub",
+        "fileSize": "414 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00078.m4b",
+        "fileSize": "744 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_11",
+    "Title": "Lords and Ladies",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 14",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1992",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Lords%20and%20Ladies%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00071.epub",
+        "fileSize": "372 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00071.m4b",
+        "fileSize": "557 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_12",
+    "Title": "Making Money",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 36",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2007",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Making%20Money%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00093.epub",
+        "fileSize": "486 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00093.mp3",
+        "fileSize": "1 GB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_13",
+    "Title": "Maskerade",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 18",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1995",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Maskerade%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00075.epub",
+        "fileSize": "351 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00075.m4b",
+        "fileSize": "551 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_14",
+    "Title": "Men at Arms",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 15",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1993",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Men%20at%20Arms%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00072.epub",
+        "fileSize": "406 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00072.m4b",
+        "fileSize": "708 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_15",
+    "Title": "Monstrous Regiment",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 31",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2003",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Monstrous%20Regiment%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00088.epub",
+        "fileSize": "361 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00088.m4b",
+        "fileSize": "561 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_16",
+    "Title": "Mort",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 04",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1987",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mort%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00061.epub",
+        "fileSize": "365 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00061.m4b",
+        "fileSize": "421 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_17",
+    "Title": "Moving Pictures",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 10",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1990",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Moving%20Pictures%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00067.epub",
+        "fileSize": "329 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00067.m4b",
+        "fileSize": "540 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_18",
+    "Title": "Night Watch",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 29",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2002",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Night%20Watch%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00086.epub",
+        "fileSize": "339 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00086.m4b",
+        "fileSize": "801 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_19",
+    "Title": "Pyramids",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 07",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1989",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Pyramids%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00064.epub",
+        "fileSize": "320 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00064.m4b",
+        "fileSize": "539 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_20",
+    "Title": "Raising Steam",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 40",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2013",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Raising%20Steam%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00097.epub",
+        "fileSize": "580 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00097.mp3",
+        "fileSize": "1 GB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_21",
+    "Title": "Reaper Man",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 11",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1991",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Reaper%20Man%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00068.epub",
+        "fileSize": "322 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00068.m4b",
+        "fileSize": "398 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_22",
+    "Title": "Small Gods",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 13",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1992",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Small%20Gods%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00070.epub",
+        "fileSize": "320 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00070.m4b",
+        "fileSize": "531 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_23",
+    "Title": "Snuff",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 39",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2011",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Snuff%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00096.epub",
+        "fileSize": "3 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00096.m4b",
+        "fileSize": "739 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_24",
+    "Title": "Soul Music",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 16",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1994",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Soul%20Music%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00073.epub",
+        "fileSize": "382 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00073.m4b",
+        "fileSize": "502 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_25",
+    "Title": "Sourcery",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 05",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1988",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Sourcery%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00062.epub",
+        "fileSize": "266 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00062.m4b",
+        "fileSize": "442 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_26",
+    "Title": "The Amazing Maurice and His Educated Rodents",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 28",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2001",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Amazing%20Maurice%20and%20His%20Educated%20Rodents%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00085.epub",
+        "fileSize": "283 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00085.m4b",
+        "fileSize": "389 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_27",
+    "Title": "The Colour of Magic",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 01",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1983",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Colour%20of%20Magic%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00058.epub",
+        "fileSize": "211 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00058.m4b",
+        "fileSize": "389 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_28",
+    "Title": "The Fifth Elephant",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 24",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1999",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Fifth%20Elephant%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00081.epub",
+        "fileSize": "398 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00081.m4b",
+        "fileSize": "755 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_29",
+    "Title": "The Last Continent",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 22",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1998",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Last%20Continent%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00079.epub",
+        "fileSize": "377 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00079.m4b",
+        "fileSize": "596 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_30",
+    "Title": "The Last Hero",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 27",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2001",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Last%20Hero%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00084.epub",
+        "fileSize": "4 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00084.mp3",
+        "fileSize": "486 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_31",
+    "Title": "The Light Fantastic",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 02",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1986",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Light%20Fantastic%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00059.epub",
+        "fileSize": "267 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00059.m4b",
+        "fileSize": "370 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_32",
+    "Title": "The Shepherd's Crown",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 41",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2015",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Shepherd's%20Crown%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00098.epub",
+        "fileSize": "2 MB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00098.m4b",
+        "fileSize": "512 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_33",
+    "Title": "The Truth",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 25",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2000",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Truth%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00082.epub",
+        "fileSize": "394 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00082.mp3",
+        "fileSize": "1 GB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_34",
+    "Title": "The Wee Free Men",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 30",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2003",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Wee%20Free%20Men%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00087.epub",
+        "fileSize": "257 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00087.m4b",
+        "fileSize": "480 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_35",
+    "Title": "Thief of Time",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 26",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2001",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Thief%20of%20Time%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00083.epub",
+        "fileSize": "399 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00083.m4b",
+        "fileSize": "555 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_36",
+    "Title": "Thud!",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 34",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2005",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Thud!%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00091.epub",
+        "fileSize": "335 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00091.m4b",
+        "fileSize": "680 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_37",
+    "Title": "Unseen Academicals",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 37",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2009",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Unseen%20Academicals%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00094.epub",
+        "fileSize": "399 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00094.m4b",
+        "fileSize": "827 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_38",
+    "Title": "Wintersmith",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 35",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2006",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Wintersmith%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00092.epub",
+        "fileSize": "310 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00092.m4b",
+        "fileSize": "559 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_39",
+    "Title": "Witches Abroad",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 12",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1991",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Witches%20Abroad%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00069.epub",
+        "fileSize": "327 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00069.m4b",
+        "fileSize": "540 MB",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "_id": "book_1760605547431_40",
+    "Title": "Wyrd Sisters",
+    "Series": "Discworld",
+    "SortingTitle": "Discworld 06",
+    "Author": "Terry Pratchett",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1988",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Wyrd%20Sisters%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "",
+        "filename": "00063.epub",
+        "fileSize": "327 KB",
+        "pageCount": 0
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "",
+        "filename": "00063.m4b",
+        "fileSize": "539 MB",
+        "duration": ""
+      }
+    ]
   }
 ]
