@@ -483,7 +483,7 @@
   {
     "_id": "book_1760347950212_0",
     "Title": "The First Fifteen Lives of Harry August",
-    "Series": "Realm of the Elderlings",
+    "Series": "",
     "SortingTitle": "",
     "Author": "Catherine Webb",
     "Description": "Every time <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Harry August</b> dies, he's <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>reborn</b> in the same place, the same year—<b style='color: #696969; text-shadow: 0 0 8px #696969;'>1919</b>—with all his <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>memories intact</b>. He's not alone; others like him, the <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Ouroborus</b>, have lived countless lives across centuries, bound by an unspoken rule: never change history. But on his eleventh death, a <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>little girl</b> arrives with a message from his future self—the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>world is ending</b>, and it's ending faster with each cycle.<br>Someone is manipulating <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>time itself</b>, accelerating humanity toward <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>apocalypse</b>. As Harry hunts through his lives for the culprit, he discovers a former friend turned <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>enemy</b>—someone willing to sacrifice everything for <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>forbidden knowledge</b>. Across decades and continents, through <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Cold War paranoia</b> and <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>scientific breakthroughs</b>, Harry must stop the end of time—before his fifteenth life becomes his last.",
@@ -1666,7 +1666,7 @@
   },
   {
     "_id": "book_1760405212560_6",
-    "Title": "A The World of Ice & Fire The Untold History of Westeros and the Game of Thrones",
+    "Title": "The World of Ice & Fire The Untold History of Westeros and the Game of Thrones",
     "Series": "A Song of Ice and Fire",
     "SortingTitle": "A Song of Ice and Fire 00.00",
     "Author": "George R. R. Martin",
