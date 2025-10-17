@@ -2865,9 +2865,9 @@
     "booksUrl": [
       {
         "format": "EPUB",
-        "identifier": "",
+        "identifier": "RBRB001",
         "filename": "00098.epub",
-        "fileSize": "2 MB",
+        "fileSize": "10MB",
         "pageCount": 0
       }
     ],
@@ -2876,7 +2876,7 @@
         "narrator": "",
         "identifier": "RBRB001",
         "filename": "00098.m4b",
-        "fileSize": "512 MB",
+        "fileSize": "520MB",
         "duration": ""
       }
     ]
