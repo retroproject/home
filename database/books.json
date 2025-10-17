@@ -3152,5 +3152,324 @@
         "duration": ""
       }
     ]
+  },
+  {
+    "_id": "book_1760716748007_0",
+    "Title": "Arcanum Unbounded",
+    "Series": "Mistborn",
+    "SortingTitle": "Mistborn 09",
+    "Author": "Brandon Sanderson",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2016",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Arcanum%20Unbounded%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00107.epub",
+        "fileSize": "4 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00107.m4b",
+        "fileSize": "596 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760716748007_1",
+    "Title": "Secret History",
+    "Series": "Mistborn",
+    "SortingTitle": "Mistborn 04",
+    "Author": "Brandon Sanderson",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2016",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Secret%20History%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00102.epub",
+        "fileSize": "4 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00102.m4b",
+        "fileSize": "150 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760716748007_2",
+    "Title": "Shadows of Self",
+    "Series": "Mistborn",
+    "SortingTitle": "Mistborn 06",
+    "Author": "Brandon Sanderson",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2015",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Shadows%20of%20Self%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00104.epub",
+        "fileSize": "4 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00104.m4b",
+        "fileSize": "353 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760716748007_3",
+    "Title": "The Alloy of Law",
+    "Series": "Mistborn",
+    "SortingTitle": "Mistborn 05",
+    "Author": "Brandon Sanderson",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2011",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Alloy%20of%20Law%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00103.epub",
+        "fileSize": "995 KB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00103.m4b",
+        "fileSize": "295 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760716748007_4",
+    "Title": "The Bands of Mourning",
+    "Series": "Mistborn",
+    "SortingTitle": "Mistborn 07",
+    "Author": "Brandon Sanderson",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2016",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Bands%20of%20Mourning%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00105.epub",
+        "fileSize": "3 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00105.m4b",
+        "fileSize": "410 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760716748007_5",
+    "Title": "The Final Empire",
+    "Series": "Mistborn",
+    "SortingTitle": "Mistborn 01",
+    "Author": "Brandon Sanderson",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2006",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Final%20Empire%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00099.epub",
+        "fileSize": "2 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00099.m4b",
+        "fileSize": "682 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760716748007_6",
+    "Title": "The Hero of Ages",
+    "Series": "Mistborn",
+    "SortingTitle": "Mistborn 03",
+    "Author": "Brandon Sanderson",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2008",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Hero%20of%20Ages%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00101.epub",
+        "fileSize": "962 KB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00101.m4b",
+        "fileSize": "1 GB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760716748007_7",
+    "Title": "The Lost Metal",
+    "Series": "Mistborn",
+    "SortingTitle": "Mistborn 08",
+    "Author": "Brandon Sanderson",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2022",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Lost%20Metal%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00106.epub",
+        "fileSize": "7 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00106.m4b",
+        "fileSize": "1 GB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760716748007_8",
+    "Title": "The Well of Ascension",
+    "Series": "Mistborn",
+    "SortingTitle": "Mistborn 02",
+    "Author": "Brandon Sanderson",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2007",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Well%20of%20Ascension%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00100.epub",
+        "fileSize": "906 KB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00100.m4b",
+        "fileSize": "799 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760718234898_0",
+    "Title": "Elantris",
+    "SortingTitle": "",
+    "Author": "Brandon Sanderson",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2005",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Elantris%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00108.epub",
+        "fileSize": "678 KB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00108.mp3",
+        "fileSize": "2 GB"
+      }
+    ]
   }
 ]
