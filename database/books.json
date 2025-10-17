@@ -177,9 +177,9 @@
     "Tags": [],
     "booksUrl": [
       {
-        "format": "PDF",
+        "format": "EPUB",
         "identifier": "RBRB001",
-        "filename": "00004.pdf",
+        "filename": "00004.epub",
         "fileSize": "660KB"
       }
     ],
