@@ -3473,5 +3473,69 @@
       }
     ],
     "Series": "Elantris"
+  },
+  {
+    "_id": "book_1760792943854_0",
+    "Title": "Empire of the Damned",
+    "Series": "Empire of the Vampire",
+    "SortingTitle": "Empire of the Vampire 02",
+    "Author": "Jay Kristoff",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2024",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Empire%20of%20the%20Damned%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00110.epub",
+        "fileSize": "46 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00110.m4b",
+        "fileSize": "843 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760792943854_1",
+    "Title": "Empire of the Vampire",
+    "Series": "Empire of the Vampire",
+    "SortingTitle": "Empire of the Vampire 01",
+    "Author": "Jay Kristoff",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2021",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Empire%20of%20the%20Vampire%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00109.epub",
+        "fileSize": "3 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00109.m4b",
+        "fileSize": "1 GB"
+      }
+    ]
   }
 ]
