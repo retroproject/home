@@ -3857,5 +3857,261 @@
         "fileSize": "822 MB"
       }
     ]
+  },
+  {
+    "_id": "book_1760874809277_0",
+    "Title": "Song of Susannah",
+    "Series": "The Dark Tower",
+    "SortingTitle": "The Dark Tower 07",
+    "Author": "Stephen King",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2004",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Song%20of%20Susannah%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00119.epub",
+        "fileSize": "2 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00119.mp3",
+        "fileSize": "1 GB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760874809277_1",
+    "Title": "The Dark Tower",
+    "Series": "The Dark Tower",
+    "SortingTitle": "The Dark Tower 08",
+    "Author": "Stephen King",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2004",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Dark%20Tower%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00120.epub",
+        "fileSize": "3 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00120.mp3",
+        "fileSize": "3 GB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760874809277_2",
+    "Title": "The Drawing of the Three",
+    "Series": "The Dark Tower",
+    "SortingTitle": "The Dark Tower 02",
+    "Author": "Stephen King",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1987",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Drawing%20of%20the%20Three%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00116.epub",
+        "fileSize": "997 KB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00116.mp3",
+        "fileSize": "1 GB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760874809277_3",
+    "Title": "The Gunslinger",
+    "Series": "The Dark Tower",
+    "SortingTitle": "The Dark Tower 01",
+    "Author": "Stephen King",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1982",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Gunslinger%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00115.epub",
+        "fileSize": "245 KB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00115.mp3",
+        "fileSize": "807 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760874809277_4",
+    "Title": "The Waste Lands",
+    "Series": "The Dark Tower",
+    "SortingTitle": "The Dark Tower 03",
+    "Author": "Stephen King",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1991",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Waste%20Lands%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00128.epub",
+        "fileSize": "3 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00128.mp3",
+        "fileSize": "2 GB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760874809277_5",
+    "Title": "The Wind Through the Keyhole",
+    "Series": "The Dark Tower",
+    "SortingTitle": "The Dark Tower 05",
+    "Author": "Stephen King",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2012",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Wind%20Through%20the%20Keyhole%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00121.epub",
+        "fileSize": "4 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00121.mp3",
+        "fileSize": "1 GB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760874809277_6",
+    "Title": "Wizard and Glass",
+    "Series": "The Dark Tower",
+    "SortingTitle": "The Dark Tower 04",
+    "Author": "Stephen King",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1997",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Wizard%20and%20Glass%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00117.epub",
+        "fileSize": "1 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00117.mp3",
+        "fileSize": "3 GB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760874809277_7",
+    "Title": "Wolves of the Calla",
+    "Series": "The Dark Tower",
+    "SortingTitle": "The Dark Tower 06",
+    "Author": "Stephen King",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2003",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Wolves%20of%20the%20Calla%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00118.epub",
+        "fileSize": "938 KB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00118.mp3",
+        "fileSize": "3 GB"
+      }
+    ]
   }
 ]
