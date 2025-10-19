@@ -4772,5 +4772,243 @@
         "fileSize": "388 MB"
       }
     ]
+  },
+  {
+    "_id": "book_1760883560899_0",
+    "Title": "Goblin Slayer Volume 1",
+    "Series": "Goblin Slayer",
+    "SortingTitle": "Goblin Slayer 01",
+    "Author": "Kumo Kagyu",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2016",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Goblin%20Slayer%20Volume%201%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00141.epub",
+        "fileSize": "20 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00141.m4b",
+        "fileSize": "381 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760883560899_1",
+    "Title": "Goblin Slayer Volume 2",
+    "Series": "Goblin Slayer",
+    "SortingTitle": "Goblin Slayer 02",
+    "Author": "Kumo Kagyu",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2016",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Goblin%20Slayer%20Volume%202%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00142.epub",
+        "fileSize": "22 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00142.m4b",
+        "fileSize": "391 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760883560899_2",
+    "Title": "Goblin Slayer Volume 3",
+    "Series": "Goblin Slayer",
+    "SortingTitle": "Goblin Slayer 03",
+    "Author": "Kumo Kagyu",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2016",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Goblin%20Slayer%20Volume%203%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00143.epub",
+        "fileSize": "14 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00143.m4b",
+        "fileSize": "319 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760883560899_3",
+    "Title": "Goblin Slayer Volume 4",
+    "Series": "Goblin Slayer",
+    "SortingTitle": "Goblin Slayer 04",
+    "Author": "Kumo Kagyu",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2017",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Goblin%20Slayer%20Volume%204%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00144.epub",
+        "fileSize": "24 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00144.m4b",
+        "fileSize": "330 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760883560899_4",
+    "Title": "Goblin Slayer Volume 5",
+    "Series": "Goblin Slayer",
+    "SortingTitle": "Goblin Slayer 05",
+    "Author": "Kumo Kagyu",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2017",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Goblin%20Slayer%20Volume%205%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00145.epub",
+        "fileSize": "18 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00145.m4b",
+        "fileSize": "318 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760883560899_5",
+    "Title": "Goblin Slayer Volume 6",
+    "Series": "Goblin Slayer",
+    "SortingTitle": "Goblin Slayer 06",
+    "Author": "Kumo Kagyu",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2017",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Goblin%20Slayer%20Volume%206%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00146.epub",
+        "fileSize": "20 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00146.m4b",
+        "fileSize": "436 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760883560899_6",
+    "Title": "Goblin Slayer Volume 7",
+    "Series": "Goblin Slayer",
+    "SortingTitle": "Goblin Slayer 07",
+    "Author": "Kumo Kagyu",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2018",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Goblin%20Slayer%20Volume%207%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00147.epub",
+        "fileSize": "20 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00147.m4b",
+        "fileSize": "440 MB"
+      }
+    ]
   }
 ]
