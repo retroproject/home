@@ -3665,5 +3665,197 @@
         "fileSize": "800 MB"
       }
     ]
+  },
+  {
+    "_id": "book_1760849947155_0",
+    "Title": "Dark Age",
+    "Series": "Red Rising Saga",
+    "SortingTitle": "Red Rising Saga 05",
+    "Author": "Pierce Brown",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2019",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Dark%20Age%20Cover.jpg",
+    "Genre": [
+      "Science Fiction"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00126.epub",
+        "fileSize": "4 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00126.m4b",
+        "fileSize": "926 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760849947155_1",
+    "Title": "Golden Son",
+    "Series": "Red Rising Saga",
+    "SortingTitle": "Red Rising Saga 02",
+    "Author": "Pierce Brown",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2015",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Golden%20Son%20Cover.jpg",
+    "Genre": [
+      "Science Fiction"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00123.epub",
+        "fileSize": "4 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00123.m4b",
+        "fileSize": "519 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760849947155_2",
+    "Title": "Iron Gold",
+    "Series": "Red Rising Saga",
+    "SortingTitle": "Red Rising Saga 04",
+    "Author": "Pierce Brown",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2018",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Iron%20Gold%20Cover.jpg",
+    "Genre": [
+      "Science Fiction"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00125.epub",
+        "fileSize": "4 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00125.m4b",
+        "fileSize": "637 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760849947155_3",
+    "Title": "Morning Star",
+    "Series": "Red Rising Saga",
+    "SortingTitle": "Red Rising Saga 03",
+    "Author": "Pierce Brown",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2016",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Morning%20Star%20Cover.jpg",
+    "Genre": [
+      "Science Fiction"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00124.epub",
+        "fileSize": "5 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00124.m4b",
+        "fileSize": "595 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760849947155_4",
+    "Title": "Red Rising",
+    "Series": "Red Rising Saga",
+    "SortingTitle": "Red Rising Saga 01",
+    "Author": "Pierce Brown",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2014",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Red%20Rising%20Cover.jpg",
+    "Genre": [
+      "Science Fiction"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00122.epub",
+        "fileSize": "2 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00122.m4b",
+        "fileSize": "442 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760850814129_0",
+    "Title": "Light Bringer",
+    "Series": "Red Rising Saga",
+    "SortingTitle": "Red Rising Saga 06",
+    "Author": "Pierce Brown",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2023",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Light%20Bringer%20Cover.jpg",
+    "Genre": [
+      "Science Fiction"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00127.epub",
+        "fileSize": "1 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00127.m4b",
+        "fileSize": "822 MB"
+      }
+    ]
   }
 ]
