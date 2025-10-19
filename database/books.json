@@ -4704,5 +4704,73 @@
         "fileSize": "250 MB"
       }
     ]
+  },
+  {
+    "_id": "book_1760881042410_0",
+    "Title": "The Eminence in Shadow Volume 1",
+    "Series": "The Eminence in Shadow",
+    "SortingTitle": "The Eminence in Shadow 01",
+    "Author": "Daisuke Aizawa",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2018",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Eminence%20in%20Shadow%20Volume%201%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00139.epub",
+        "fileSize": "12 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00139.m4b",
+        "fileSize": "394 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760881042410_1",
+    "Title": "The Eminence in Shadow Volume 2",
+    "Series": "The Eminence in Shadow",
+    "SortingTitle": "The Eminence in Shadow 02",
+    "Author": "Daisuke Aizawa",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2018",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Eminence%20in%20Shadow%20Volume%202%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00140.epub",
+        "fileSize": "15 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00140.m4b",
+        "fileSize": "388 MB"
+      }
+    ]
   }
 ]
