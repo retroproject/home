@@ -6336,5 +6336,39 @@
         "fileSize": "291 MB"
       }
     ]
+  },
+  {
+    "_id": "book_1760892738290_0",
+    "Title": "Project Hail Mary",
+    "Series": "Standalone",
+    "SortingTitle": "",
+    "Author": "Andy Weir",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2021",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Project%20Hail%20Mary%20Cover.jpg",
+    "Genre": [
+      "Science Fiction"
+    ],
+    "Tags": [
+      "English Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00187.epub",
+        "fileSize": "3 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00187.m4b",
+        "fileSize": "882 MB"
+      }
+    ]
   }
 ]
