@@ -3537,5 +3537,133 @@
         "fileSize": "1 GB"
       }
     ]
+  },
+  {
+    "_id": "book_1760837510310_0",
+    "Title": "Speaking Bones",
+    "Series": "The Dandelion Dynasty",
+    "SortingTitle": "The Dandelion Dynasty 04",
+    "Author": "Ken Liu",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2022",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Speaking%20Bones%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00114.epub",
+        "fileSize": "15 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00114.mp3",
+        "fileSize": "4 GB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760837510310_1",
+    "Title": "The Grace of Kings",
+    "Series": "The Dandelion Dynasty",
+    "SortingTitle": "The Dandelion Dynasty 01",
+    "Author": "Ken Liu",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2015",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Grace%20of%20Kings%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00111.epub",
+        "fileSize": "986 KB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00111.m4b",
+        "fileSize": "589 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760837510310_2",
+    "Title": "The Veiled Throne",
+    "Series": "The Dandelion Dynasty",
+    "SortingTitle": "The Dandelion Dynasty 03",
+    "Author": "Ken Liu",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2021",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Veiled%20Throne%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00113.epub",
+        "fileSize": "23 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00113.m4b",
+        "fileSize": "1 GB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760837510310_3",
+    "Title": "The Wall of Storms",
+    "Series": "The Dandelion Dynasty",
+    "SortingTitle": "The Dandelion Dynasty 02",
+    "Author": "Ken Liu",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2016",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Wall%20of%20Storms%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00112.epub",
+        "fileSize": "830 KB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00112.m4b",
+        "fileSize": "800 MB"
+      }
+    ]
   }
 ]
