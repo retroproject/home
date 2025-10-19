@@ -5894,5 +5894,447 @@
         "fileSize": "327 MB"
       }
     ]
+  },
+  {
+    "_id": "book_1760892349652_0",
+    "Title": "Spice and Wolf Volume 01",
+    "Series": "Spice and Wolf",
+    "SortingTitle": "Spice and Wolf 01",
+    "Author": "Isuna Hasekura",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2009",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Spice%20and%20Wolf%20Volume%2001%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00174.epub",
+        "fileSize": "13 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00174.m4b",
+        "fileSize": "133 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760892349652_1",
+    "Title": "Spice and Wolf Volume 02",
+    "Series": "Spice and Wolf",
+    "SortingTitle": "Spice and Wolf 02",
+    "Author": "Isuna Hasekura",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2010",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Spice%20and%20Wolf%20Volume%2002%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00175.epub",
+        "fileSize": "10 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00175.m4b",
+        "fileSize": "374 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760892349652_2",
+    "Title": "Spice and Wolf Volume 03",
+    "Series": "Spice and Wolf",
+    "SortingTitle": "Spice and Wolf 03",
+    "Author": "Isuna Hasekura",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2010",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Spice%20and%20Wolf%20Volume%2003%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00176.epub",
+        "fileSize": "10 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00176.m4b",
+        "fileSize": "343 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760892349652_3",
+    "Title": "Spice and Wolf Volume 04",
+    "Series": "Spice and Wolf",
+    "SortingTitle": "Spice and Wolf 04",
+    "Author": "Isuna Hasekura",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2011",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Spice%20and%20Wolf%20Volume%2004%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00177.epub",
+        "fileSize": "11 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00177.m4b",
+        "fileSize": "331 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760892349652_4",
+    "Title": "Spice and Wolf Volume 05",
+    "Series": "Spice and Wolf",
+    "SortingTitle": "Spice and Wolf 05",
+    "Author": "Isuna Hasekura",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2011",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Spice%20and%20Wolf%20Volume%2005%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00178.epub",
+        "fileSize": "11 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00178.m4b",
+        "fileSize": "392 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760892349652_5",
+    "Title": "Spice and Wolf Volume 06",
+    "Series": "Spice and Wolf",
+    "SortingTitle": "Spice and Wolf 06",
+    "Author": "Isuna Hasekura",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2012",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Spice%20and%20Wolf%20Volume%2006%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00179.epub",
+        "fileSize": "12 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00179.m4b",
+        "fileSize": "334 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760892349652_6",
+    "Title": "Spice and Wolf Volume 07",
+    "Series": "Spice and Wolf",
+    "SortingTitle": "Spice and Wolf 07",
+    "Author": "Isuna Hasekura",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2012",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Spice%20and%20Wolf%20Volume%2007%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00180.epub",
+        "fileSize": "12 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00180.m4b",
+        "fileSize": "305 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760892349652_7",
+    "Title": "Spice and Wolf Volume 08",
+    "Series": "Spice and Wolf",
+    "SortingTitle": "Spice and Wolf 08",
+    "Author": "Isuna Hasekura",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2013",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Spice%20and%20Wolf%20Volume%2008%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00181.epub",
+        "fileSize": "10 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00181.m4b",
+        "fileSize": "256 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760892349652_8",
+    "Title": "Spice and Wolf Volume 09",
+    "Series": "Spice and Wolf",
+    "SortingTitle": "Spice and Wolf 09",
+    "Author": "Isuna Hasekura",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2013",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Spice%20and%20Wolf%20Volume%2009%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00182.epub",
+        "fileSize": "14 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00182.m4b",
+        "fileSize": "284 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760892349652_9",
+    "Title": "Spice and Wolf Volume 10",
+    "Series": "Spice and Wolf",
+    "SortingTitle": "Spice and Wolf 10",
+    "Author": "Isuna Hasekura",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2013",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Spice%20and%20Wolf%20Volume%2010%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00183.epub",
+        "fileSize": "12 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00183.m4b",
+        "fileSize": "371 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760892349652_10",
+    "Title": "Spice and Wolf Volume 11",
+    "Series": "Spice and Wolf",
+    "SortingTitle": "Spice and Wolf 11",
+    "Author": "Isuna Hasekura",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2014",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Spice%20and%20Wolf%20Volume%2011%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00184.epub",
+        "fileSize": "10 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00184.m4b",
+        "fileSize": "292 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760892349652_11",
+    "Title": "Spice and Wolf Volume 12",
+    "Series": "Spice and Wolf",
+    "SortingTitle": "Spice and Wolf 12",
+    "Author": "Isuna Hasekura",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2014",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Spice%20and%20Wolf%20Volume%2012%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00185.epub",
+        "fileSize": "10 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00185.m4b",
+        "fileSize": "278 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760892349652_12",
+    "Title": "Spice and Wolf Volume 13",
+    "Series": "Spice and Wolf",
+    "SortingTitle": "Spice and Wolf 13",
+    "Author": "Isuna Hasekura",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2014",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Spice%20and%20Wolf%20Volume%2013%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00186.epub",
+        "fileSize": "12 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00186.m4b",
+        "fileSize": "291 MB"
+      }
+    ]
   }
 ]
