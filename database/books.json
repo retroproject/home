@@ -5010,5 +5010,889 @@
         "fileSize": "440 MB"
       }
     ]
+  },
+  {
+    "_id": "book_1760886267548_0",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 01",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 01",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2019",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2001%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00148.epub",
+        "fileSize": "16 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00148.m4b",
+        "fileSize": "398 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760886267548_1",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 02",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 02",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2019",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2002%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00149.epub",
+        "fileSize": "10 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00149.m4b",
+        "fileSize": "381 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760886267548_2",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 03",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 03",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2019",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2003%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00150.epub",
+        "fileSize": "9 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00150.m4b",
+        "fileSize": "512 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760886267548_3",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 04",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 04",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2020",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2004%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00151.epub",
+        "fileSize": "12 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00151.m4b",
+        "fileSize": "410 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760886267548_4",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 05",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 05",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2020",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2005%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00152.epub",
+        "fileSize": "13 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00152.m4b",
+        "fileSize": "440 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760886267548_5",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 06",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 06",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2020",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2006%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00153.epub",
+        "fileSize": "12 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00153.m4b",
+        "fileSize": "445 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760886267548_6",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 07",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 07",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2020",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2007%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00154.epub",
+        "fileSize": "14 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00154.m4b",
+        "fileSize": "406 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760886267548_7",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 08",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 08",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2020",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2008%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00155.epub",
+        "fileSize": "9 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00155.m4b",
+        "fileSize": "388 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760886267548_8",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 09",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 09",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2021",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2009%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00156.epub",
+        "fileSize": "11 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00156.m4b",
+        "fileSize": "510 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760886267548_9",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 10",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 10",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2021",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2010%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00157.epub",
+        "fileSize": "11 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00157.m4b",
+        "fileSize": "396 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760886267548_10",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 11",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 11",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2021",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2011%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00158.epub",
+        "fileSize": "11 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00158.m4b",
+        "fileSize": "508 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760886267548_11",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 12",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 12",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2021",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2012%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00159.epub",
+        "fileSize": "10 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00159.m4b",
+        "fileSize": "461 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760886267548_12",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 13",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 13",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2021",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2013%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00160.epub",
+        "fileSize": "8 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00160.m4b",
+        "fileSize": "500 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760886267548_13",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 14",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 14",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2022",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2014%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00161.epub",
+        "fileSize": "11 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00161.m4b",
+        "fileSize": "457 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760886267548_14",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 15",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 15",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2022",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2015%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00162.epub",
+        "fileSize": "14 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00162.m4b",
+        "fileSize": "490 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760886267548_15",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 16",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 16",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2022",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2016%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00163.epub",
+        "fileSize": "10 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00163.m4b",
+        "fileSize": "473 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760886267548_16",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 17",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 17",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2022",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2017%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00164.epub",
+        "fileSize": "9 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00164.m4b",
+        "fileSize": "488 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760886267548_17",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 18",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 18",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2022",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2018%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00165.epub",
+        "fileSize": "12 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00165.m4b",
+        "fileSize": "488 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760886267548_18",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 19",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 19",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2023",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2019%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00166.epub",
+        "fileSize": "10 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00166.m4b",
+        "fileSize": "511 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760886267548_19",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 20",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 20",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2023",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2020%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00167.epub",
+        "fileSize": "11 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00167.m4b",
+        "fileSize": "438 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760886267548_20",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 21",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 21",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2023",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2021%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00168.epub",
+        "fileSize": "10 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00168.m4b",
+        "fileSize": "413 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760886267548_21",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 22",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 22",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2023",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2022%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00169.epub",
+        "fileSize": "11 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00169.m4b",
+        "fileSize": "414 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760886267548_22",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 23",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 23",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2023",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2023%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00170.epub",
+        "fileSize": "11 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00170.m4b",
+        "fileSize": "447 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760886267548_23",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 24",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 24",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2023",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2024%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00171.epub",
+        "fileSize": "10 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00171.m4b",
+        "fileSize": "390 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760886267548_24",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 25",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 25",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2023",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2025%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00172.epub",
+        "fileSize": "13 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00172.m4b",
+        "fileSize": "364 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760886267548_25",
+    "Title": "Mushoku Tensei Jobless Reincarnation Volume 26",
+    "Series": "Mushoku Tensei Jobless Reincarnation",
+    "SortingTitle": "Mushoku Tensei Jobless Reincarnation 26",
+    "Author": "Rifujin Na Magonote",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2024",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushoku%20Tensei%20Jobless%20Reincarnation%20Volume%2026%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Japanese Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00173.epub",
+        "fileSize": "28 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00173.m4b",
+        "fileSize": "327 MB"
+      }
+    ]
   }
 ]
