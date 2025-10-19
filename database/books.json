@@ -4113,5 +4113,325 @@
         "fileSize": "3 GB"
       }
     ]
+  },
+  {
+    "_id": "book_1760878074147_0",
+    "Title": "KonoSuba 110 Million Brides",
+    "Series": "KonoSuba",
+    "SortingTitle": "KonoSuba 07",
+    "Author": "Natsume Akatsuki",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2015",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/KonoSuba%20110%20Million%20Brides%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00135.epub",
+        "fileSize": "7 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00135.m4b",
+        "fileSize": "309 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760878074147_1",
+    "Title": "KonoSuba Axis Church vs Eris Church",
+    "Series": "KonoSuba",
+    "SortingTitle": "KonoSuba 08",
+    "Author": "Natsume Akatsuki",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2016",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/KonoSuba%20Axis%20Church%20vs%20Eris%20Church%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00136.epub",
+        "fileSize": "10 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00136.m4b",
+        "fileSize": "287 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760878074147_2",
+    "Title": "KonoSuba Blessing on This Wonderful Shop",
+    "Series": "KonoSuba",
+    "SortingTitle": "KonoSuba 03",
+    "Author": "Natsume Akatsuki",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2014",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/KonoSuba%20Blessing%20on%20This%20Wonderful%20Shop%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00131.epub",
+        "fileSize": "16 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00131.m4b",
+        "fileSize": "280 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760878074147_3",
+    "Title": "KonoSuba Crimson Magic Clans Express",
+    "Series": "KonoSuba",
+    "SortingTitle": "KonoSuba 05",
+    "Author": "Natsume Akatsuki",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2014",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/KonoSuba%20Crimson%20Magic%20Clans%20Express%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00133.epub",
+        "fileSize": "24 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00133.m4b",
+        "fileSize": "292 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760878074147_4",
+    "Title": "KonoSuba Evil Lord Attacks",
+    "Series": "KonoSuba",
+    "SortingTitle": "KonoSuba 04",
+    "Author": "Natsume Akatsuki",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2014",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/KonoSuba%20Evil%20Lord%20Attacks%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00132.epub",
+        "fileSize": "17 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00132.m4b",
+        "fileSize": "263 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760878074147_5",
+    "Title": "KonoSuba Fight With This Instant Death",
+    "Series": "KonoSuba",
+    "SortingTitle": "KonoSuba 06",
+    "Author": "Natsume Akatsuki",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2015",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/KonoSuba%20Fight%20With%20This%20Instant%20Death%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00134.epub",
+        "fileSize": "11 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00134.m4b",
+        "fileSize": "307 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760878074147_6",
+    "Title": "KonoSuba Gods Blessing on These Wonderful People",
+    "Series": "KonoSuba",
+    "SortingTitle": "KonoSuba 09",
+    "Author": "Natsume Akatsuki",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2016",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/KonoSuba%20Gods%20Blessing%20on%20These%20Wonderful%20People%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00137.epub",
+        "fileSize": "13 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00137.m4b",
+        "fileSize": "280 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760878074147_7",
+    "Title": "KonoSuba Gods Blessing on These Wonderful Works of Art",
+    "Series": "KonoSuba",
+    "SortingTitle": "KonoSuba 10",
+    "Author": "Natsume Akatsuki",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2016",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/KonoSuba%20Gods%20Blessing%20on%20These%20Wonderful%20Works%20of%20Art%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00138.epub",
+        "fileSize": "21 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00138.m4b",
+        "fileSize": "273 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760878074147_8",
+    "Title": "KonoSuba Love for This Useless Me",
+    "Series": "KonoSuba",
+    "SortingTitle": "KonoSuba 02",
+    "Author": "Natsume Akatsuki",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2013",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/KonoSuba%20Love%20for%20This%20Useless%20Me%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00130.epub",
+        "fileSize": "16 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00130.m4b",
+        "fileSize": "237 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1760878074147_9",
+    "Title": "KonoSuba Oh My Useless Goddess",
+    "Series": "KonoSuba",
+    "SortingTitle": "KonoSuba 01",
+    "Author": "Natsume Akatsuki",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2013",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/KonoSuba%20Oh%20My%20Useless%20Goddess%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00129.epub",
+        "fileSize": "20 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00129.m4b",
+        "fileSize": "250 MB"
+      }
+    ]
   }
 ]
