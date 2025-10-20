@@ -4690,7 +4690,7 @@
     ],
     "booksUrl": [
       {
-        "format": "Custom",
+        "format": "zip",
         "identifier": "RBRB001",
         "filename": "00129.zip",
         "fileSize": "20 MB"
