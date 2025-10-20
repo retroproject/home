@@ -4690,20 +4690,13 @@
     ],
     "booksUrl": [
       {
-        "format": "EPUB",
+        "format": "Custom",
         "identifier": "RBRB001",
-        "filename": "00129.epub",
+        "filename": "00129.zip",
         "fileSize": "20 MB"
       }
     ],
-    "audiobooksUrl": [
-      {
-        "narrator": "",
-        "identifier": "RBRB001",
-        "filename": "00129.m4b",
-        "fileSize": "250 MB"
-      }
-    ]
+    "audiobooksUrl": []
   },
   {
     "_id": "book_1760881042410_0",
