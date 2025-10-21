@@ -6601,5 +6601,31 @@
         "fileSize": "1 GB"
       }
     ]
+  },
+  {
+    "_id": "book_1761022427879_0",
+    "Title": "Invincible",
+    "SortingTitle": "",
+    "Author": "Robert Kirkman",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2003",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Invincible%20Cover.jpg",
+    "Genre": [
+      "Superhero"
+    ],
+    "Tags": [
+      "Comic"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00195.zip",
+        "fileSize": "9 GB"
+      }
+    ],
+    "audiobooksUrl": []
   }
 ]
