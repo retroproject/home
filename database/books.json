@@ -6627,5 +6627,31 @@
       }
     ],
     "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761023321260_0",
+    "Title": "The Darkness",
+    "SortingTitle": "",
+    "Author": "Marc Silvestri and Garth Ennis",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1996",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Darkness%20Cover.jpg",
+    "Genre": [
+      "Superhero"
+    ],
+    "Tags": [
+      "Comic"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00196.zip",
+        "fileSize": "7 GB"
+      }
+    ],
+    "audiobooksUrl": []
   }
 ]
