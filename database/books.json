@@ -6653,5 +6653,31 @@
       }
     ],
     "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761039139746_0",
+    "Title": "Chainsaw Man",
+    "SortingTitle": "",
+    "Author": "Tatsuki Fujimoto",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2018",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Chainsaw%20Man%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00197.zip",
+        "fileSize": "4 GB"
+      }
+    ],
+    "audiobooksUrl": []
   }
 ]
