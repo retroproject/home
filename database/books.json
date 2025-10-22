@@ -6821,7 +6821,7 @@
         "format": "ZIP",
         "identifier": "RBRB001",
         "filename": "00202.zip",
-        "fileSize": "602 MB"
+        "fileSize": "610MB"
       }
     ],
     "audiobooksUrl": []
@@ -8122,6 +8122,33 @@
         "identifier": "RBRB001",
         "filename": "00242.zip",
         "fileSize": "16 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761147740908_0",
+    "Title": "Hunter x Hunter",
+    "SortingTitle": "",
+    "Author": "Yoshihiro Togashi",
+    "Description": "Twelve-year-old <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>Gon Freecss</b> discovers his presumed-dead father is alive and a legendary <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Hunter</b>—an elite member of humanity's greatest treasure seekers and bounty hunters.<br>Determined to find his father, Gon takes the brutal <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Hunter Exam</b>, where he befriends the vengeful <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>Kurapika</b>, doctor-in-training <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Leorio</b>, and the enigmatic assassin <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Killua Zoldyck</b>.<br>The world runs on <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Nen</b>—a complex power system allowing users to manipulate their life energy in unique ways.<br>Their adventures lead them to <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>Heavens Arena</b>, the deadly auction in <b style='color: #696969; text-shadow: 0 0 8px #696969;'>Yorknew City</b>, the virtual reality game <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Greed Island</b>, and the terrifying <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Chimera Ants</b>.<br>Gon faces the monstrous <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>Neferpitou</b> and evolves into something darker, while Killua confronts his family's deadly legacy.<br>The story weaves intricate political scheming, philosophical dilemmas, and strategic battles where intelligence often trumps raw <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>power</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>يكتشف <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>غون فريكس</b> البالغ من العمر اثني عشر عاماً أن والده المفترض موته حي وهو <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>صياد</b> أسطوري—عضو نخبة من أعظم الباحثين عن الكنوز وصائدي الجوائز في البشرية.<br>مصمماً على إيجاد والده، يخوض غون <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>امتحان الصياد</b> الوحشي، حيث يصادق <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>كورابيكا</b> الانتقامي، والطبيب المتدرب <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>ليوريو</b>، والقاتل الغامض <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>كيلوا زولديك</b>.<br>يعمل العالم على <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>النن</b>—نظام قوة معقد يسمح للمستخدمين بالتلاعب بطاقة حياتهم بطرق فريدة.<br>تقودهم مغامراتهم إلى <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>حلبة السماوات</b>، والمزاد المميت في <b style='color: #696969; text-shadow: 0 0 8px #696969;'>مدينة يوركنيو</b>، ولعبة الواقع الافتراضي <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>جزيرة الطمع</b>، و<b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>نمل الكيميرا</b> المرعب.<br>يواجه غون الوحش <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>نيفربيتو</b> ويتطور إلى شيء أكثر ظلاماً، بينما يواجه كيلوا إرث عائلته القاتل.<br>تنسج القصة مكائد سياسية معقدة، ومعضلات فلسفية، ومعارك استراتيجية حيث الذكاء غالباً يتفوق على <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>القوة</b> الخام.<br></div>",
+    "ReleaseDate": "1998",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Hunter%20x%20Hunter%20Cover.jpg",
+    "Genre": [
+      "Shonen"
+    ],
+    "Tags": [
+      "Hide",
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00243.zip",
+        "fileSize": "12 GB"
       }
     ],
     "audiobooksUrl": []
