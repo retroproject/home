@@ -117818,11 +117818,11 @@
         "versions": [
           {
             "identifier": "CPC16",
-            "filename": "1000xRESIST.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "1000xRESIST.exe",
-            "fileSize": "7GB"
+            "fileSize": "7GB",
+            "filename": "1000xRESIST.zip"
           }
         ]
       }
@@ -133976,5 +133976,49 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1761056426377_0",
+    "Name": "Ninja Gaiden 4",
+    "SortingName": "Ninja Gaiden 07.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2025",
+    "CriticScore": 100,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Ninja%20Gaiden%204%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Ninja%20Gaiden%204%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=xvbQr84SW88",
+    "videoStart": 6.7,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Ninja%20Gaiden%204%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Hack and Slash"
+    ],
+    "DeveloperNames": [
+      "PlatinumGames"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP005",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "55 GB",
+            "executable": "NINJAGAIDEN4-Steam.exe",
+            "buildID": "20 October 2025",
+            "arguments": [],
+            "filename": "00136.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Need Music",
+      "Need Background"
+    ]
   }
 ]
