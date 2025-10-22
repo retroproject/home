@@ -6616,7 +6616,8 @@
       "Superhero"
     ],
     "Tags": [
-      "Hide"
+      "Hide",
+      "Comic"
     ],
     "booksUrl": [
       {
@@ -6758,6 +6759,34 @@
         "identifier": "RBRB001",
         "filename": "Trigun Maximum.zip",
         "fileSize": "5 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761098930401_0",
+    "Title": "SSS Class Revival Hunter",
+    "SortingTitle": "",
+    "Author": "Sinnoa",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2024",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/SSS%20Class%20Revival%20Hunter%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Hide",
+      "Manhaw",
+      "Ongoing"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00201.zip",
+        "fileSize": "3 GB"
       }
     ],
     "audiobooksUrl": []
