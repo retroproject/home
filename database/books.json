@@ -6797,5 +6797,30 @@
       }
     ],
     "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761101288513_0",
+    "Title": "Xenogears Perfect Works",
+    "SortingTitle": "",
+    "Author": "Tetsuya Takahashi",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1998",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Xenogears%20Perfect%20Works%20Cover.jpg",
+    "Genre": [],
+    "Tags": [
+      "Hide",
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00202.zip",
+        "fileSize": "602 MB"
+      }
+    ],
+    "audiobooksUrl": []
   }
 ]
