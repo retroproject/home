@@ -6650,7 +6650,8 @@
       "Superhero"
     ],
     "Tags": [
-      "Hide"
+      "Hide",
+      "Comic"
     ],
     "booksUrl": [
       {
@@ -6676,7 +6677,8 @@
       "Action"
     ],
     "Tags": [
-      "Hide"
+      "Hide",
+      "Manga"
     ],
     "booksUrl": [
       {
@@ -6702,7 +6704,8 @@
       "Action"
     ],
     "Tags": [
-      "Hide"
+      "Hide",
+      "Manga"
     ],
     "booksUrl": [
       {
@@ -6811,7 +6814,7 @@
     "Genre": [],
     "Tags": [
       "Hide",
-      "Manga"
+      "Gaming"
     ],
     "booksUrl": [
       {
@@ -6819,6 +6822,62 @@
         "identifier": "RBRB001",
         "filename": "00202.zip",
         "fileSize": "602 MB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761105882761_0",
+    "Title": "Attack on Titan",
+    "Series": "Attack on Titan",
+    "SortingTitle": "Attack on Titan 01",
+    "Author": "Hajime Isayama",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2009",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Attack%20on%20Titan%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Hide",
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "Attack on Titan.zip",
+        "fileSize": "10 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761105882761_1",
+    "Title": "Attack on Titan Before the Fall",
+    "Series": "Attack on Titan",
+    "SortingTitle": "Attack on Titan 00",
+    "Author": "Hajime Isayama",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2014",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Attack%20on%20Titan%20Before%20the%20Fall%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Hide",
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "Attack on Titan Before the Fall.zip",
+        "fileSize": "6 GB"
       }
     ],
     "audiobooksUrl": []
