@@ -6705,5 +6705,61 @@
       }
     ],
     "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761096478313_0",
+    "Title": "Trigun",
+    "Series": "Trigun",
+    "SortingTitle": "Trigun 01",
+    "Author": "Yasuhiro Nightow",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1995",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Trigun%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Hide",
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00199.zip",
+        "fileSize": "1 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761096478313_1",
+    "Title": "Trigun Maximum",
+    "Series": "Trigun",
+    "SortingTitle": "Trigun 02",
+    "Author": "Yasuhiro Nightow",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1998",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Trigun%20Maximum%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Hide",
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "Trigun Maximum.zip",
+        "fileSize": "5 GB"
+      }
+    ],
+    "audiobooksUrl": []
   }
 ]
