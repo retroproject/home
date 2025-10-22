@@ -134018,7 +134018,8 @@
     },
     "Tags": [
       "Need Music",
-      "Need Background"
+      "Need Background",
+      "Has Issues"
     ]
   },
   {
@@ -134029,12 +134030,12 @@
     "DescriptionArabic": "",
     "ReleaseDate": "2025",
     "CriticScore": 70,
-    "BackgroundUrl": "https://archive.org/download/RPRM001/00137%20Background.jpeg",
-    "CoverUrl": "https://archive.org/download/RPRM001/00137%20Cover.png",
-    "YouTubeUrl": "https://www.youtube.com/watch?v=-A5ekO708cU",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Lone%20Soul%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Lone%20Soul%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=4t8ygqmCWlY",
     "videoStart": null,
     "videoEnd": null,
-    "MusicUrl": "https://archive.org/download/RPRM001/00137%20Theme.mp3",
+    "MusicUrl": "",
     "PlatformNames": [
       "PC Game"
     ],
@@ -134048,7 +134049,7 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "COPC01",
+            "identifier": "RPRP005",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "8 GB",
@@ -134061,7 +134062,8 @@
       }
     },
     "Tags": [
-      "Hide"
+      "Need Music",
+      "Has Issues"
     ]
   },
   {
@@ -134072,12 +134074,12 @@
     "DescriptionArabic": "",
     "ReleaseDate": "2025",
     "CriticScore": 70,
-    "BackgroundUrl": "https://archive.org/download/RPRM001/00138%20Background.jpeg",
-    "CoverUrl": "https://archive.org/download/RPRM001/00138%20Cover.png",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Painkiller%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Painkiller%20Cover.jpg",
     "YouTubeUrl": "https://www.youtube.com/watch?v=YJuDdsLDhgE",
     "videoStart": 2,
     "videoEnd": null,
-    "MusicUrl": "https://archive.org/download/RPRM001/00138%20Theme.mp3",
+    "MusicUrl": "https://archive.org/download/RPRM001/Painkiller%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
     ],
@@ -134103,9 +134105,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1761120054083_2",
@@ -134115,12 +134115,12 @@
     "DescriptionArabic": "",
     "ReleaseDate": "2025",
     "CriticScore": 70,
-    "BackgroundUrl": "https://archive.org/download/RPRM001/00139%20Background.jpeg",
-    "CoverUrl": "https://archive.org/download/RPRM001/00139%20Cover.png",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Vampire%20The%20Masquerade%20Bloodlines%202%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Vampire%20The%20Masquerade%20Bloodlines%202%20Cover.jpg",
     "YouTubeUrl": "https://www.youtube.com/watch?v=Kvf1d9jlqfo",
     "videoStart": 3.5,
     "videoEnd": null,
-    "MusicUrl": "https://archive.org/download/RPRM001/00139%20Theme.mp3",
+    "MusicUrl": "https://archive.org/download/RPRM001/Vampire%20The%20Masquerade%20Bloodlines%202%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
     ],
@@ -134146,8 +134146,6 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   }
 ]
