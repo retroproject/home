@@ -7990,5 +7990,140 @@
       }
     ],
     "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761141641249_0",
+    "Title": "Berserk",
+    "SortingTitle": "",
+    "Author": "Kentaro Miura",
+    "Description": "In a dark medieval world ravaged by war and demons, <b style='color: #696969; text-shadow: 0 0 8px #696969;'>Guts</b>—a lone swordsman wielding the massive <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Dragon Slayer</b>—hunts the monstrous <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Apostles</b> born from humanity's darkest desires.<br>Branded with a cursed mark that attracts demons every night, Guts seeks vengeance against <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Griffith</b>, the beautiful and ambitious leader who betrayed him.<br>Once brothers-in-arms in the legendary mercenary <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>Band of the Hawk</b>, their bond shattered during the nightmarish <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Eclipse</b>—a demonic ritual that sacrificed Guts' comrades.<br>Griffith ascended as <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Femto</b>, the fifth member of the godlike <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>God Hand</b>, while Guts survived as the <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Black Swordsman</b>.<br>Accompanied by the elf <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Puck</b> and later joined by allies bearing their own scars, Guts battles against <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>fate</b> itself.<br>His struggle embodies humanity's refusal to surrender to <b style='color: #4A0000; text-shadow: 0 0 8px #4A0000;'>destiny</b>, even when facing overwhelming <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>darkness</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في عالم قروسطي مظلم دمرته الحرب والشياطين، <b style='color: #696969; text-shadow: 0 0 8px #696969;'>غاتس</b>—محارب وحيد يحمل السيف الضخم <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>قاتل التنين</b>—يطارد <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الرسل</b> الوحشيين المولودين من أحلك رغبات البشرية.<br>موسوم بعلامة ملعونة تجذب الشياطين كل ليلة، يسعى غاتس للانتقام من <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>غريفيث</b>، القائد الجميل والطموح الذي خانه.<br>ذات يوم كانوا إخوة في السلاح في <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>فرقة الصقر</b> الأسطورية، لكن رابطتهم تحطمت خلال <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الكسوف</b> الكابوسي—طقس شيطاني ضحى برفاق غاتس.<br>صعد غريفيث كـ<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>فيمتو</b>، العضو الخامس في <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>يد الإله</b> الإلهية، بينما نجا غاتس كـ<b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>المحارب الأسود</b>.<br>برفقة الجنية <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>باك</b> ولاحقاً حلفاء يحملون ندوبهم الخاصة، يقاتل غاتس ضد <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>القدر</b> نفسه.<br>صراعه يجسد رفض البشرية للاستسلام <b style='color: #4A0000; text-shadow: 0 0 8px #4A0000;'>للمصير</b>، حتى عند مواجهة <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الظلام</b> الطاغي.<br></div>",
+    "ReleaseDate": "1989",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Berserk%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00238.zip",
+        "fileSize": "20 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761142733757_0",
+    "Title": "BTOOOM!",
+    "SortingTitle": "",
+    "Author": "Junya Inoue",
+    "Description": "Unemployed gamer <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Ryouta Sakamoto</b> ranks #10 worldwide in the online game <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>BTOOOM!</b>—his only accomplishment in life.<br>He awakens on a mysterious tropical island with no memory of how he arrived, wearing a strange green crystal on his hand.<br>Ryouta quickly discovers he's trapped in a real-life version of his favorite game, where players must kill each other using various types of <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>bombs</b>.<br>Each player has a chip implanted, and the only escape requires collecting seven chips by <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>killing</b> other participants.<br>Teaming up with <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Himiko</b>, a girl from the game he once befriended online, Ryouta must use his gaming expertise to survive.<br>The island transforms ordinary people into <b style='color: #696969; text-shadow: 0 0 8px #696969;'>murderers</b>, revealing humanity's darkest nature when <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>survival</b> is at stake.<br>As alliances form and shatter, Ryouta discovers the sinister truth behind this <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>death game</b> and those who orchestrated it.<br>",
+    "DescriptionArabic": "<div dir='rtl'>اللاعب العاطل <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>ريوتا ساكاموتو</b> يحتل المرتبة العاشرة عالمياً في اللعبة الإلكترونية <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>بتووم!</b>—إنجازه الوحيد في الحياة.<br>يستيقظ على جزيرة استوائية غامضة دون ذاكرة عن كيفية وصوله، يرتدي بلورة خضراء غريبة على يده.<br>يكتشف ريوتا بسرعة أنه محاصر في نسخة واقعية من لعبته المفضلة، حيث يجب على اللاعبين قتل بعضهم باستخدام أنواع مختلفة من <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>القنابل</b>.<br>كل لاعب لديه شريحة مزروعة، والهروب الوحيد يتطلب جمع سبع شرائح عن طريق <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>قتل</b> المشاركين الآخرين.<br>بالتعاون مع <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>هيميكو</b>، فتاة من اللعبة صادقها على الإنترنت، يجب على ريوتا استخدام خبرته في الألعاب للبقاء.<br>تحول الجزيرة الناس العاديين إلى <b style='color: #696969; text-shadow: 0 0 8px #696969;'>قتلة</b>، كاشفة عن أحلك طبيعة البشرية عندما يكون <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>البقاء</b> على المحك.<br>بينما تتشكل التحالفات وتتحطم، يكتشف ريوتا الحقيقة الشريرة وراء <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>لعبة الموت</b> هذه ومن نظموها.<br></div>",
+    "ReleaseDate": "2009",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/BTOOOM!%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00241.zip",
+        "fileSize": "3 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761142733757_1",
+    "Title": "Death Note",
+    "SortingTitle": "",
+    "Author": "Tsugumi Ohba",
+    "Description": "Brilliant high school student <b style='color: #696969; text-shadow: 0 0 8px #696969;'>Light Yagami</b> discovers a supernatural notebook dropped by the shinigami <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Ryuk</b>.<br>The <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Death Note</b> grants its user the power to kill anyone whose name is written in it, simply by picturing their face.<br>Determined to cleanse the world of criminals, Light becomes the vigilante god <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Kira</b>, executing thousands of criminals in his vision of a perfect world.<br>As mysterious deaths plague the criminal underworld, the enigmatic detective <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>L</b> emerges to stop Kira's reign of <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>judgment</b>.<br>The story becomes an intense psychological battle between two geniuses—Light's god complex versus L's deductive brilliance.<br>With each trying to expose the other's identity, they engage in elaborate <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>mind games</b>, manipulations, and calculated risks.<br>As the <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Shinigami Eyes</b>, <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Misa Amane</b>, and other Death Note users enter the fray, Light's descent into <b style='color: #4A0000; text-shadow: 0 0 8px #4A0000;'>madness</b> accelerates.<br>",
+    "DescriptionArabic": "<div dir='rtl'>يكتشف طالب الثانوية اللامع <b style='color: #696969; text-shadow: 0 0 8px #696969;'>لايت ياغامي</b> دفتراً خارقاً أسقطه شينيغامي <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>ريوك</b>.<br><b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>مذكرة الموت</b> تمنح مستخدمها القدرة على قتل أي شخص يُكتب اسمه فيها، ببساطة عن طريق تصور وجهه.<br>مصمماً على تطهير العالم من المجرمين، يصبح لايت الإله الحارس <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>كيرا</b>، منفذاً آلاف المجرمين في رؤيته لعالم مثالي.<br>بينما تنتشر الوفيات الغامضة في عالم الجريمة، يظهر المحقق الغامض <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>إل</b> لإيقاف عهد <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الحكم</b> لكيرا.<br>تصبح القصة معركة نفسية مكثفة بين عبقريين—عقدة الإله عند لايت ضد التألق الاستنتاجي لإل.<br>مع محاولة كل منهما كشف هوية الآخر، ينخرطان في <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>ألعاب عقلية</b> معقدة، وتلاعبات، ومخاطر محسوبة.<br>بينما تدخل <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>عيون الشينيغامي</b> و<b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>ميسا أمانيه</b> ومستخدمي مذكرة الموت الآخرين المعركة، يتسارع انحدار لايت نحو <b style='color: #4A0000; text-shadow: 0 0 8px #4A0000;'>الجنون</b>.<br></div>",
+    "ReleaseDate": "2003",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Death%20Note%20Cover.jpg",
+    "Genre": [
+      "Thriller"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00240.zip",
+        "fileSize": "5 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761142733757_2",
+    "Title": "Dragon Ball",
+    "Series": "Dragon Ball",
+    "SortingTitle": "Dragon Ball 01",
+    "Author": "Akira Toriyama",
+    "Description": "In a world of martial arts and mystical adventures, young <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Son Goku</b>—a boy with a monkey tail and superhuman strength—embarks on a quest to find the seven <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Dragon Balls</b>.<br>These legendary orbs, when gathered, summon the eternal dragon <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>Shenron</b> who grants any wish.<br>Joined by the brilliant inventor <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Bulma</b>, Goku encounters friends and foes: the desert bandit <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>Yamcha</b>, shapeshifter <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Oolong</b>, and martial arts master <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Master Roshi</b>.<br>As Goku trains under Roshi alongside rival <b style='color: #696969; text-shadow: 0 0 8px #696969;'>Krillin</b>, he enters the <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>World Martial Arts Tournament</b> facing increasingly powerful opponents.<br>The series evolves from lighthearted adventures to epic battles against the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Red Ribbon Army</b>, demon <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>King Piccolo</b>, and eventually alien warriors like <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Vegeta</b> and <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Frieza</b>.<br>Goku's journey reveals his true heritage as a <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Saiyan</b>, unlocking legendary transformations and defending Earth from cosmic threats.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في عالم من الفنون القتالية والمغامرات الغامضة، يشرع الصبي <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>سون غوكو</b>—صبي بذيل قرد وقوة خارقة—في مهمة للعثور على <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>كرات التنين</b> السبع.<br>هذه الجرم الأسطورية، عند جمعها، تستدعي التنين الأبدي <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>شينرون</b> الذي يحقق أي أمنية.<br>بصحبة المخترعة اللامعة <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>بولما</b>، يلتقي غوكو بأصدقاء وأعداء: لص الصحراء <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>ياماشا</b>، محول الأشكال <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>أولونغ</b>، وأستاذ الفنون القتالية <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الماستر روشي</b>.<br>بينما يتدرب غوكو تحت إشراف روشي مع المنافس <b style='color: #696969; text-shadow: 0 0 8px #696969;'>كريلين</b>، يدخل <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>بطولة الفنون القتالية العالمية</b> مواجهاً خصوماً أقوى تدريجياً.<br>تتطور السلسلة من مغامرات خفيفة إلى معارك ملحمية ضد <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>جيش الشريط الأحمر</b>، والشيطان <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الملك بيكولو</b>، وفي النهاية محاربين فضائيين مثل <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>فيجيتا</b> و<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>فريزا</b>.<br>تكشف رحلة غوكو تراثه الحقيقي كـ<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>سايان</b>، مفتحاً تحولات أسطورية ومدافعاً عن الأرض من التهديدات الكونية.<br></div>",
+    "ReleaseDate": "1984",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Dragon%20Ball%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00239.zip",
+        "fileSize": "74 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761145197422_0",
+    "Title": "Vagabond",
+    "SortingTitle": "",
+    "Author": "Takehiko Inoue",
+    "Description": "Based on the legendary life of <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Miyamoto Musashi</b>, this epic follows a young <b style='color: #696969; text-shadow: 0 0 8px #696969;'>Shinmen Takezo</b>—a wild, bloodthirsty warrior surviving the aftermath of the devastating <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Battle of Sekigahara</b>.<br>Hunted as a criminal, Takezo is captured by the monk <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Takuan Soho</b> and imprisoned for three years to contemplate his violent nature.<br>Emerging reborn as <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Miyamoto Musashi</b>, he embarks on a <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>musha shugyo</b>—a warrior's pilgrimage to achieve enlightenment through the sword.<br>His journey intertwines with <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Otsu</b>, who loves him unconditionally, and rival <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Sasaki Kojiro</b>, a deaf genius swordsman destined to face him.<br>Through countless <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>duels</b> against masters like <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Yagyu Sekishusai</b> and the <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>Yoshioka School</b>, Musashi seeks to transcend mere <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>strength</b> and discover the true meaning of being <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>invincible</b>.<br>His path explores the conflict between the <b style='color: #4A0000; text-shadow: 0 0 8px #4A0000;'>way of the sword</b> and the way of <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>art and life</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>استناداً إلى حياة <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>مياموتو موساشي</b> الأسطوري، تتبع هذه الملحمة المحارب الشاب <b style='color: #696969; text-shadow: 0 0 8px #696969;'>شينمن تاكيزو</b>—محارب بري متعطش للدماء ينجو من تبعات <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>معركة سيكيغاهارا</b> المدمرة.<br>مطارد كمجرم، يتم القبض على تاكيزو من قبل الراهب <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>تاكوان سوهو</b> ويُسجن لمدة ثلاث سنوات للتأمل في طبيعته العنيفة.<br>يظهر متجدداً باسم <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>مياموتو موساشي</b>، ليشرع في <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>موشا شوغيو</b>—حج المحارب لتحقيق التنوير عبر السيف.<br>تتشابك رحلته مع <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>أوتسو</b>، التي تحبه دون قيد أو شرط، والمنافس <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>ساساكي كوجيرو</b>، عبقري السيف الأصم المقدر لمواجهته.<br>من خلال <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>مبارزات</b> لا حصر لها ضد أساتذة مثل <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>ياغيو سيكيشوساي</b> و<b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>مدرسة يوشيوكا</b>، يسعى موساشي لتجاوز مجرد <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>القوة</b> واكتشاف المعنى الحقيقي لكونه <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>لا يُقهر</b>.<br>يستكشف طريقه الصراع بين <b style='color: #4A0000; text-shadow: 0 0 8px #4A0000;'>طريق السيف</b> وطريق <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>الفن والحياة</b>.<br></div>",
+    "ReleaseDate": "1998",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Vagabond%20Cover.jpg",
+    "Genre": [
+      "Seinen"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00242.zip",
+        "fileSize": "16 GB"
+      }
+    ],
+    "audiobooksUrl": []
   }
 ]
