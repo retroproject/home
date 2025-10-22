@@ -4686,17 +4686,24 @@
       "Fantasy"
     ],
     "Tags": [
-      "Manga"
+      "Japanese Novels"
     ],
     "booksUrl": [
       {
-        "format": "Custom",
+        "format": "EPUB",
         "identifier": "RBRB001",
-        "filename": "00129.zip",
+        "filename": "00129.epub",
         "fileSize": "20 MB"
       }
     ],
-    "audiobooksUrl": []
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00129.m4b",
+        "fileSize": "250MB"
+      }
+    ]
   },
   {
     "_id": "book_1760881042410_0",
