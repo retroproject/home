@@ -105073,8 +105073,8 @@
   {
     "_id": "cf286c8c-0b6b-4098-8b0f-49bceeac1181",
     "GameId": "c3459ea291e26ab269c2c682f65eb0c8",
-    "Name": "Vampire: The Masquerade - Bloodlines",
-    "SortingName": "",
+    "Name": "Vampire The Masquerade Bloodlines",
+    "SortingName": "Vampire The Masquerade Bloodlines 01",
     "Description": "Immortal darkness descends upon modern <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>Los Angeles</span> as a newly-embraced vampire awakens to the brutal politics of the <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 6px #8B0000;'>Camarilla</span>, where ancient bloodlines wage shadow wars beneath the neon-lit facade of mortal civilization.<br>The enigmatic <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>Jeanette Voerman</span> offers seductive chaos while her sister <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 6px #FFB6C1;'>Therese</span> demands order, their fractured psyche reflecting the madness that lurks within every vampire's soul as <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>the Beast</span> hungers for blood.<br>Ancient conspiracies surface as the mysterious <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 6px #DAA520;'>Ankaran Sarcophagus</span> threatens to unleash primordial horrors upon the World of Darkness, while the <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Sabbat</span> and <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 6px #4169E1;'>Kuei-jin</span> circle like vultures.<br>In this neo-gothic nightmare where <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>humanity</span> becomes a distant memory, survival means choosing between the monster you become and the <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 6px #2F4F4F;'>darkness</span> you serve.",
     "DescriptionArabic": "<div dir='rtl'>الظلام الأبدي ينزل على <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>لوس أنجلوس</span> الحديثة بينما مصاص دماء حديث العهد يستيقظ على السياسة الوحشية <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 6px #8B0000;'>للكاماريلا</span>، حيث سلالات الدم القديمة تخوض حروب الظل تحت واجهة الحضارة البشرية المضاءة بالنيون.<br><span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>جانيت فورمان</span> اللغز تقدم فوضى مغرية بينما شقيقتها <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 6px #FFB6C1;'>تيريز</span> تطالب بالنظام، نفسيتهما المتصدعة تعكس الجنون الكامن في روح كل مصاص دماء بينما <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>الوحش</span> يتوق للدم.<br>المؤامرات القديمة تطفو على السطح بينما <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 6px #DAA520;'>تابوت أنكاران</span> الغامض يهدد بإطلاق أهوال بدائية على عالم الظلام، بينما <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>السباط</span> و<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 6px #4169E1;'>الكوي-جين</span> يحومون كالنسور.<br>في هذا الكابوس القوطي الحديث حيث <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>الإنسانية</span> تصبح ذكرى بعيدة، البقاء يعني الاختيار بين الوحش الذي تصبحه و<span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 6px #2F4F4F;'>الظلام</span> الذي تخدمه.</div>",
     "ReleaseDate": "2004-11-16",
@@ -105091,7 +105091,7 @@
       "PC Game"
     ],
     "GenreNames": [
-      "Role-playing (RPG)"
+      "RPG"
     ],
     "DeveloperNames": [
       "Troika Games"
@@ -134020,5 +134020,125 @@
       "Need Music",
       "Need Background"
     ]
+  },
+  {
+    "_id": "game_1761120054083_0",
+    "Name": "Lone Soul",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2025",
+    "CriticScore": 70,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/00137%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/00137%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=-A5ekO708cU",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/00137%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Hack and Slash"
+    ],
+    "DeveloperNames": [
+      "Laughing Fox Games"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "COPC01",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "8 GB",
+            "executable": "Lone Soul.exe",
+            "buildID": "22 October 2025",
+            "arguments": [],
+            "filename": "00137.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1761120054083_1",
+    "Name": "Painkiller",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2025",
+    "CriticScore": 70,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/00138%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/00138%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=YJuDdsLDhgE",
+    "videoStart": 2,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/00138%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Shooter"
+    ],
+    "DeveloperNames": [
+      "Anshar Studios"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "COPC01",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "26 GB",
+            "executable": "Painkiller.exe",
+            "buildID": "20 October 2025",
+            "arguments": [],
+            "filename": "00138.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1761120054083_2",
+    "Name": "Vampire The Masquerade Bloodlines 2",
+    "SortingName": "Vampire The Masquerade Bloodlines 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2025",
+    "CriticScore": 70,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/00139%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/00139%20Cover.png",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=Kvf1d9jlqfo",
+    "videoStart": 3.5,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/00139%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "RPG"
+    ],
+    "DeveloperNames": [
+      "The Chinese Room"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "COPC01",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "25 GB",
+            "executable": "Bloodlines2.exe",
+            "buildID": "20 October 2025",
+            "arguments": [],
+            "filename": "00139.zip"
+          }
+        ]
+      }
+    }
   }
 ]
