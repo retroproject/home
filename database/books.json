@@ -8233,5 +8233,140 @@
       }
     ],
     "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761206233993_0",
+    "Title": "Fist of the North Star",
+    "SortingTitle": "",
+    "Author": "Buronson",
+    "Description": "In a post-apocalyptic wasteland ravaged by nuclear war, the strong prey upon the weak without mercy.<br><b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Kenshiro</b>, the successor of the ancient assassination art <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Hokuto Shinken</b>, wanders the desolate landscape searching for his lost love <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Yuria</b>.<br>With each <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>pressure point strike</b>, Kenshiro's enemies explode from within—their bodies already dead as he proclaims his signature phrase: <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>\"You are already dead.\"</b><br>Betrayed by his former friend <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Shin</b> who bears the rival <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Nanto Seiken</b> style, Ken battles warlords, mutants, and his own <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>brothers</b> to restore justice.<br>As he confronts the tyrannical <b style='color: #696969; text-shadow: 0 0 8px #696969;'>Raoh</b>, his eldest brother seeking to rule through fear, the <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>heavens</b> themselves tremble at their clash.<br>Through brutal combat and tragic sacrifice, Kenshiro learns that true strength comes from <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>compassion</b> and protecting those who cannot fight.<br>In this savage world where <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>martial arts</b> can make bodies burst like <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>watermelons</b>, only the <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>North Star</b> can bring hope to the hopeless.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في أرض قاحلة ما بعد نهاية العالم دمرتها الحرب النووية، يفترس الأقوياء الضعفاء دون رحمة.<br><b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>كينشيرو</b>، خليفة فن الاغتيال القديم <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>هوكوتو شينكين</b>، يتجول في المناظر المقفرة باحثاً عن حبه المفقود <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>يوريا</b>.<br>مع كل <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ضربة نقطة ضغط</b>، ينفجر أعداء كينشيرو من الداخل—أجسادهم ميتة بالفعل بينما يعلن عبارته المميزة: <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>\"أنت ميت بالفعل.\"</b><br>خانه صديقه السابق <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>شين</b> الذي يحمل أسلوب <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>نانتو سيكن</b> المنافس، يقاتل كين أمراء الحرب والطفرات و<b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>إخوته</b> لاستعادة العدالة.<br>بينما يواجه <b style='color: #696969; text-shadow: 0 0 8px #696969;'>راوه</b> الطاغي، أخيه الأكبر الساعي للحكم بالخوف، <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>السماوات</b> نفسها ترتجف من صدامهما.<br>عبر القتال الوحشي والتضحية المأساوية، يتعلم كينشيرو أن القوة الحقيقية تأتي من <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الشفقة</b> وحماية من لا يستطيعون القتال.<br>في هذا العالم الوحشي حيث <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>الفنون القتالية</b> يمكنها جعل الأجساد تنفجر مثل <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>البطيخ</b>، فقط <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>النجم الشمالي</b> يمكنه جلب الأمل لليائسين.<br></div>",
+    "ReleaseDate": "1983",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Fist%20of%20the%20North%20Star%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00250.zip",
+        "fileSize": "11 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761206233993_1",
+    "Title": "Nana",
+    "SortingTitle": "",
+    "Author": "Ai Yazawa",
+    "Description": "Two young women both named <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Nana</b> meet by chance on a train to <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Tokyo</b>, their vastly different personalities destined to collide.<br><b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Nana Komatsu</b>, a naive romantic chasing her boyfriend, and <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>Nana Osaki</b>, a punk rock singer pursuing stardom with her band <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Black Stones</b>.<br>When fate brings them together as roommates in apartment <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>707</b>, an unbreakable bond forms between opposites.<br>As Nana O. climbs the ruthless <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>music industry</b> ladder, she reunites with her ex-lover <b style='color: #696969; text-shadow: 0 0 8px #696969;'>Ren</b> from rival band <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Trapnest</b>, reopening old wounds.<br>Meanwhile, Nana K. navigates messy relationships with charming bassist <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>Nobu</b> and the dangerous <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Takumi</b>.<br>Through heartbreak, betrayal, and the pursuit of <b style='color: #DA70D6; text-shadow: 0 0 8px #DA70D6;'>dreams</b>, the two Nanas discover that <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>fame</b>, <b style='color: #F08080; text-shadow: 0 0 8px #F08080;'>love</b>, and <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>friendship</b> all come with devastating prices.<br>",
+    "DescriptionArabic": "<div dir='rtl'>امرأتان شابتان كلتاهما تدعى <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>نانا</b> تلتقيان بالصدفة في قطار متجه إلى <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>طوكيو</b>، شخصياتهما المختلفة تماماً قدرها أن تتصادم.<br><b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>نانا كوماتسو</b>، رومانسية ساذجة تطارد حبيبها، و<b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>نانا أوساكي</b>، مغنية بانك روك تسعى للشهرة مع فرقتها <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>بلاك ستونز</b>.<br>عندما يجمعهما القدر كزميلات سكن في شقة <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>707</b>، تتشكل رابطة لا تنكسر بين النقيضين.<br>بينما تتسلق نانا أو. سلم <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>صناعة الموسيقى</b> القاسي، تلتقي مجدداً بحبيبها السابق <b style='color: #696969; text-shadow: 0 0 8px #696969;'>رين</b> من الفرقة المنافسة <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>ترابنست</b>، معيدة فتح جراح قديمة.<br>في نفس الوقت، تتنقل نانا ك. عبر علاقات معقدة مع عازف الباس الساحر <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>نوبو</b> و<b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>تاكومي</b> الخطير.<br>عبر الحسرة والخيانة والسعي وراء <b style='color: #DA70D6; text-shadow: 0 0 8px #DA70D6;'>الأحلام</b>، تكتشف النانتان أن <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>الشهرة</b> و<b style='color: #F08080; text-shadow: 0 0 8px #F08080;'>الحب</b> و<b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>الصداقة</b> كلها تأتي بأثمان مدمرة.<br></div>",
+    "ReleaseDate": "2000",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Nana%20Cover.jpg",
+    "Genre": [
+      "Romance"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00249.zip",
+        "fileSize": "4 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761206233993_2",
+    "Title": "The Seven Deadly Sins",
+    "SortingTitle": "",
+    "Author": "Nakaba Suzuki",
+    "Description": "In the kingdom of <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Britannia</b>, a group of legendary knights known as the <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Seven Deadly Sins</b> were branded traitors after allegedly betraying the realm.<br>Ten years later, the <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Holy Knights</b> stage a coup, and princess <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Elizabeth</b> embarks on a quest to find the scattered Sins and reclaim her kingdom.<br>She discovers <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Meliodas</b>, the Dragon's Sin of <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Wrath</b>, running a tavern with his talking pig <b style='color: #FA8072; text-shadow: 0 0 8px #FA8072;'>Hawk</b>.<br>Together they reunite the legendary warriors: giant <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Diane</b>, immortal <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Ban</b>, fairy king <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>King</b>, shapeshifter <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>Gowther</b>, lion <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Escanor</b>, and serpent <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Merlin</b>.<br>As ancient <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>demons</b> awaken and dark secrets about Meliodas's past surface, the Sins face their greatest challenge.<br>Epic battles unleash devastating <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>magical powers</b> as the fate of Britannia hangs in the balance between good and evil.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في مملكة <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>بريتانيا</b>، مجموعة من الفرسان الأسطوريين المعروفين بـ<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الخطايا السبع المميتة</b> وصموا بالخيانة بعد خيانتهم المزعومة للمملكة.<br>بعد عشر سنوات، يقوم <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>الفرسان المقدسون</b> بانقلاب، والأميرة <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>إليزابيث</b> تشرع في مهمة للعثور على الخطايا المتفرقين واستعادة مملكتها.<br>تكتشف <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>ميليوداس</b>، خطيئة التنين لـ<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>الغضب</b>، يدير حانة مع خنزيره الناطق <b style='color: #FA8072; text-shadow: 0 0 8px #FA8072;'>هوك</b>.<br>معاً يجمعون المحاربين الأسطوريين: العملاقة <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>ديان</b>، الخالد <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>بان</b>، ملك الجن <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>كينغ</b>، المتحول <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>غوثر</b>، الأسد <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>إسكانور</b>، والأفعى <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>ميرلين</b>.<br>بينما تستيقظ <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الشياطين</b> القديمة وتظهر أسرار مظلمة عن ماضي ميليوداس، يواجه الخطاة تحديهم الأعظم.<br>معارك ملحمية تطلق <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>قوى سحرية</b> مدمرة بينما يتعلق مصير بريتانيا بالميزان بين الخير والشر.<br></div>",
+    "ReleaseDate": "2012",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Seven%20Deadly%20Sins%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00248.zip",
+        "fileSize": "8 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761206233993_3",
+    "Title": "The Seven Deadly Sins Four Knights of the Apocalypse",
+    "SortingTitle": "",
+    "Author": "Nakaba Suzuki",
+    "Description": "Sixteen years after the <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Seven Deadly Sins</b> saved <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Britannia</b>, a new generation rises to face an ancient <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>prophecy</b>.<br>Young <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Percival</b>, raised in isolation, discovers his mysterious origins connect to the legendary <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Four Knights of the Apocalypse</b>—warriors destined to destroy the world or save it.<br>Armed with unique <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>magic</b>, he joins fellow knights: the fox sin's son <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Tristan</b>, holy knight <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Lancelot</b>, and enigmatic <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Gawain</b>.<br>As the tyrannical <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>King Arthur</b> of <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Camelot</b> seeks to impose his twisted vision of <b style='color: #F0E68C; text-shadow: 0 0 8px #F0E68C;'>eternal peace</b>, the Four Knights must master their powers.<br>Familiar faces from the <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Sins</b> return alongside new allies and enemies wielding devastating <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>chaos</b> magic.<br>The line between <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>hero</b> and <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>villain</b> blurs as <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>destiny</b> forces these young warriors to choose humanity's future.<br>",
+    "DescriptionArabic": "<div dir='rtl'>بعد ستة عشر عاماً من إنقاذ <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الخطايا السبع المميتة</b> لـ<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>بريتانيا</b>، يرتفع جيل جديد لمواجهة <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>نبوءة</b> قديمة.<br>الشاب <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>بيرسيفال</b>، الذي نشأ في عزلة، يكتشف أن أصوله الغامضة تربطه بـ<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الفرسان الأربعة للنهاية</b>—محاربون مقدر لهم تدمير العالم أو إنقاذه.<br>مسلحاً بـ<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>سحر</b> فريد، ينضم إلى زملائه الفرسان: ابن خطيئة الثعلب <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>تريستان</b>، الفارس المقدس <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>لانسلوت</b>، والغامض <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>غاوين</b>.<br>بينما يسعى <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>الملك آرثر</b> الطاغي من <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>كاميلوت</b> لفرض رؤيته الملتوية لـ<b style='color: #F0E68C; text-shadow: 0 0 8px #F0E68C;'>السلام الأبدي</b>، يجب على الفرسان الأربعة إتقان قواهم.<br>وجوه مألوفة من <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الخطايا</b> تعود جنباً إلى جنب مع حلفاء وأعداء جدد يمتلكون سحر <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>الفوضى</b> المدمر.<br>يتلاشى الخط بين <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>البطل</b> و<b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>الشرير</b> بينما يجبر <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>القدر</b> هؤلاء المحاربين الشباب على اختيار مستقبل البشرية.<br></div>",
+    "ReleaseDate": "2021",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Seven%20Deadly%20Sins%20Four%20Knights%20of%20the%20Apocalypse%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00247.zip",
+        "fileSize": "2 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761206528487_0",
+    "Title": "Jojo's Bizarre Adventure",
+    "SortingTitle": "",
+    "Author": "Hirohiko Araki",
+    "Description": "Spanning generations, the <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Joestar family</b> battles supernatural evil across time and space in this legendary saga of bizarre encounters.<br>From <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Jonathan Joestar's</b> 19th-century clash with vampire <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Dio Brando</b> using <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Hamon</b> energy, to his descendants wielding psychic <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Stands</b>—manifestations of fighting spirit with unique powers.<br><b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Joseph Joestar</b> fights ancient Pillar Men, while his grandson <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Jotaro Kujo</b> pursues the resurrected <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>DIO</b> with his Stand <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Star Platinum</b>.<br>Each <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>JoJo</b> faces increasingly creative threats: <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Josuke's</b> hometown mysteries, <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Giorno's</b> mafia ambitions, <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Jolyne's</b> prison escape, and reality-bending <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Stand battles</b>.<br>Araki's flamboyant art style, dramatic <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>poses</b>, and wildly imaginative abilities create unforgettable confrontations where strategy trumps raw power.<br>With iconic battle cries like <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>\"ORA ORA ORA!\"</b> and <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>\"MUDA MUDA MUDA!\"</b>, this multi-part epic defines the word <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>bizarre</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>عبر الأجيال، تقاتل <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>عائلة جوستار</b> الشر الخارق عبر الزمان والمكان في هذه الملحمة الأسطورية من المواجهات الغريبة.<br>من صدام <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>جوناثان جوستار</b> في القرن التاسع عشر مع مصاص الدماء <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>ديو براندو</b> باستخدام طاقة <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>هامون</b>، إلى أحفاده الذين يمتلكون <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الستاندات</b> النفسية—تجسيدات لروح القتال بقوى فريدة.<br><b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>جوزيف جوستار</b> يقاتل رجال الأعمدة القدماء، بينما حفيده <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>جوتارو كوجو</b> يطارد <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>ديو</b> المبعوث مع ستاند <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>ستار بلاتينيوم</b>.<br>كل <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>جوجو</b> يواجه تهديدات أكثر إبداعاً: ألغاز مسقط رأس <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>جوسكي</b>، طموحات المافيا لـ<b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>جورنو</b>، هروب <b style='color: #708090; text-shadow: 0 0 8px #708090;'>جولين</b> من السجن، و<b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>معارك الستاند</b> الملوية للواقع.<br>أسلوب أراكي الفني المبهرج، <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>الوضعيات</b> الدرامية، والقدرات الخيالية الجامحة تخلق مواجهات لا تنسى حيث تتفوق الاستراتيجية على القوة الخام.<br>مع صيحات المعركة الأيقونية مثل <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>\"أورا أورا أورا!\"</b> و<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>\"مودا مودا مودا!\"</b>، هذه الملحمة متعددة الأجزاء تعرّف كلمة <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>غريب</b>.<br></div>",
+    "ReleaseDate": "1987",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Jojo's%20Bizarre%20Adventure%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00251.zip",
+        "fileSize": "18 GB"
+      }
+    ],
+    "audiobooksUrl": []
   }
 ]
