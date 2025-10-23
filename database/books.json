@@ -8396,5 +8396,275 @@
       }
     ],
     "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761234156762_0",
+    "Title": "Naruto",
+    "SortingTitle": "",
+    "Author": "Masashi Kishimoto",
+    "Description": "Orphaned prankster <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>Naruto Uzumaki</b> dreams of becoming <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Hokage</b>, the leader of his village, despite being shunned as the vessel for the fearsome <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Nine-Tailed Fox</b> demon.<br>Joining <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Team 7</b> with his rival <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Sasuke Uchiha</b>, crush <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Sakura Haruno</b>, and mentor <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>Kakashi Hatake</b>, Naruto embarks on dangerous ninja missions.<br>As he masters powerful techniques like the <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Rasengan</b> and befriends the <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Nine-Tails</b> within him, Sasuke's thirst for vengeance leads him to the villainous <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>Orochimaru</b>.<br>The criminal organization <b style='color: #000000; text-shadow: 0 0 8px #8B0000;'>Akatsuki</b> hunts tailed beasts, forcing Naruto into conflicts that span the <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Chunin Exams</b>, devastating wars, and face-offs with god-like enemies.<br>Through battles against <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Pain</b>, <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Madara</b>, and the ancient <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Kaguya</b>, Naruto's unwavering belief in his <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>ninja way</b> breaks cycles of hatred.<br>His journey from outcast to hero proves that hard work and bonds of <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>friendship</b> can change destiny itself.<br>",
+    "DescriptionArabic": "<div dir='rtl'>اليتيم المشاغب <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>ناروتو أوزوماكي</b> يحلم بأن يصبح <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>هوكاغي</b>، قائد قريته، رغم نبذه كوعاء لشيطان <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الثعلب ذي التسعة ذيول</b> المخيف.<br>بانضمامه إلى <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>الفريق 7</b> مع منافسه <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>ساسكي أوتشيها</b>، حبه <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>ساكورا هارونو</b>، ومعلمه <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>كاكاشي هاتاكي</b>، يشرع ناروتو في مهام نينجا خطيرة.<br>بينما يتقن تقنيات قوية مثل <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>الراسينغان</b> ويصادق <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الذيل التاسع</b> بداخله، عطش ساسكي للانتقام يقوده إلى الشرير <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>أوروتشيمارو</b>.<br>منظمة <b style='color: #000000; text-shadow: 0 0 8px #8B0000;'>أكاتسوكي</b> الإجرامية تصطاد الوحوش ذات الذيول، مجبرة ناروتو على صراعات تمتد عبر <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>امتحانات الشونين</b>، حروب مدمرة، ومواجهات مع أعداء يشبهون الآلهة.<br>عبر معارك ضد <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>بين</b>، <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>مادارا</b>، والقديمة <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>كاغويا</b>، إيمان ناروتو الثابت بـ<b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>طريق النينجا</b> يكسر دوائر الكراهية.<br>رحلته من منبوذ إلى بطل تثبت أن العمل الجاد وروابط <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>الصداقة</b> يمكنها تغيير القدر نفسه.<br></div>",
+    "ReleaseDate": "1999",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Naruto%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00253.zip",
+        "fileSize": "17 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761234782848_0",
+    "Title": "Bleach",
+    "SortingTitle": "",
+    "Author": "Tite Kubo",
+    "Description": "High school student <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>Ichigo Kurosaki</b> gains the powers of a <b style='color: #000000; text-shadow: 0 0 8px #808080;'>Soul Reaper</b> when he encounters shinigami <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Rukia Kuchiki</b> while protecting his family from soul-devouring <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Hollows</b>.<br>Wielding his massive blade <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>Zangetsu</b>, Ichigo battles supernatural threats while balancing school life with allies <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Orihime</b>, <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Chad</b>, and <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Uryu</b>.<br>When Rukia is sentenced to execution by the <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Soul Society</b>, Ichigo storms the afterlife realm to save her, clashing with elite captains and uncovering the treacherous <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>Aizen's</b> conspiracy.<br>The rogue shinigami transforms into a godlike being using the <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Hogyoku</b>, commanding an army of <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Arrancars</b> from the hollow realm <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Hueco Mundo</b>.<br>Through mastering <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Bankai</b>, <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Hollow powers</b>, and his devastating <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>Final Getsuga Tensho</b>, Ichigo faces reality-warping threats to protect both worlds.<br>",
+    "DescriptionArabic": "<div dir='rtl'>طالب الثانوية <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>إيتشيغو كوروساكي</b> يكتسب قوى <b style='color: #000000; text-shadow: 0 0 8px #808080;'>حاصد الأرواح</b> عندما يلتقي بشينيغامي <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>روكيا كوتشيكي</b> أثناء حماية عائلته من <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الهولو</b> آكلي الأرواح.<br>ممسكاً بنصله الضخم <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>زانغيتسو</b>، يقاتل إيتشيغو التهديدات الخارقة بينما يوازن بين الحياة المدرسية مع حلفائه <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>أوريهيمي</b>، <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>تشاد</b>، و<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>أوريو</b>.<br>عندما تُحكم على روكيا بالإعدام من قبل <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>مجتمع الأرواح</b>، يقتحم إيتشيغو عالم الحياة الآخرة لإنقاذها، متصادماً مع كباتن النخبة وكاشفاً مؤامرة <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>آيزن</b> الخائن.<br>الشينيغامي المارق يتحول إلى كائن يشبه الإله باستخدام <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الهوغيوكو</b>، قائداً جيشاً من <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الأرانكار</b> من عالم الهولو <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>هويكو موندو</b>.<br>عبر إتقان <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>البانكاي</b>، <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>قوى الهولو</b>، و<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>غيتسوغا تنشو النهائية</b> المدمرة، يواجه إيتشيغو تهديدات ملوية للواقع لحماية العالمين.<br></div>",
+    "ReleaseDate": "2001",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Bleach%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00254.zip",
+        "fileSize": "11 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761236430357_0",
+    "Title": "My Hero Academia",
+    "SortingTitle": "",
+    "Author": "Kohei Horikoshi",
+    "Description": "In a world where 80% of humanity possesses superhuman abilities called <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Quirks</b>, young <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>Izuku Midoriya</b> dreams of becoming a hero despite being born <b style='color: #696969; text-shadow: 0 0 8px #696969;'>Quirkless</b>.<br>When the world's greatest hero <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>All Might</b> recognizes Izuku's selfless courage, he passes down the legendary power <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>One For All</b>—a Quirk cultivated across generations.<br>Enrolling at prestigious <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>U.A. High School</b>, Izuku joins <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Class 1-A</b> alongside explosive <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Bakugo</b>, gravity-bending <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Uraraka</b>, ice-and-fire wielder <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Todoroki</b>, and other aspiring heroes.<br>The sinister <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>League of Villains</b>, led by the decaying <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Shigaraki</b> and mastermind <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>All For One</b>, threatens society's fragile peace.<br>Through intense training and devastating battles, Izuku learns that being a hero means protecting <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>hope</b> and saving people with a <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>smile</b>—no matter the cost.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في عالم حيث 80% من البشرية تمتلك قدرات خارقة تسمى <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>كويركس</b>، الشاب <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>إيزوكو ميدوريا</b> يحلم بأن يصبح بطلاً رغم ولادته <b style='color: #696969; text-shadow: 0 0 8px #696969;'>بلا كويرك</b>.<br>عندما يتعرف أعظم بطل في العالم <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>أول مايت</b> على شجاعة إيزوكو الباسلة، ينقل له القوة الأسطورية <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>وان فور أول</b>—كويرك متراكم عبر الأجيال.<br>بالتسجيل في مدرسة <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>يو.إيه الثانوية</b> المرموقة، ينضم إيزوكو إلى <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>الصف 1-أ</b> جنباً إلى جنب مع <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>باكوغو</b> المتفجر، <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>أوراراكا</b> منحنية الجاذبية، ممسك الجليد والنار <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>تودوروكي</b>، وأبطال طموحين آخرين.<br><b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>رابطة الأشرار</b> الشريرة، بقيادة <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>شيغاراكي</b> المتحلل والعقل المدبر <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>أول فور وان</b>، تهدد سلام المجتمع الهش.<br>عبر التدريب المكثف والمعارك المدمرة، يتعلم إيزوكو أن كونك بطلاً يعني حماية <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>الأمل</b> وإنقاذ الناس <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>بابتسامة</b>—مهما كان الثمن.<br></div>",
+    "ReleaseDate": "2014",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/My%20Hero%20Academia%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00255.zip",
+        "fileSize": "9 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761237032432_0",
+    "Title": "Beyond the Pale",
+    "Series": "The Last Rune",
+    "SortingTitle": "The Last Rune 01",
+    "Author": "Mark Anthony",
+    "Description": "Emergency room doctor <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Travis Wilder</b> touches a mysterious <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>runestone</b> and finds himself transported to <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Eldh</b>, a medieval fantasy world threatened by dark forces.<br>In Colorado, tavern owner <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Grace Beckett</b> discovers she possesses <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>magical powers</b> tied to an ancient prophecy spanning both worlds.<br>As Travis allies with <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>warriors</b>, <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>wizards</b>, and the enigmatic <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Runebreakers</b>, he learns he's destined to wield the <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>Last Rune</b>—a power capable of saving or destroying reality.<br>The malevolent <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Pale King</b> and his undead legions rise from the dead lands, threatening to consume both Earth and Eldh in eternal <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>darkness</b>.<br>Travis must master the ancient <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>runes of power</b> and forge unlikely alliances to prevent the convergence of worlds that would unleash <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>apocalypse</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>طبيب الطوارئ <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>ترافيس وايلدر</b> يلمس <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>حجر رونيّ</b> غامض ويجد نفسه منقولاً إلى <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>إلده</b>، عالم خيالي من العصور الوسطى مهدد بقوى مظلمة.<br>في كولورادو، تكتشف مالكة الحانة <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>غريس بيكيت</b> أنها تمتلك <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>قوى سحرية</b> مرتبطة بنبوءة قديمة تمتد عبر العالمين.<br>بينما يتحالف ترافيس مع <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>المحاربين</b>، <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>السحرة</b>، و<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>كاسري الرونات</b> الغامضين، يتعلم أنه مقدر له استخدام <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>الرونة الأخيرة</b>—قوة قادرة على إنقاذ أو تدمير الواقع.<br><b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الملك الشاحب</b> الخبيث وفيالقه الأموات يرتفعون من الأراضي الميتة، مهددين بابتلاع الأرض وإلده في <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>الظلام</b> الأبدي.<br>يجب على ترافيس إتقان <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>رونات القوة</b> القديمة وتكوين تحالفات غير متوقعة لمنع تقارب العوالم الذي سيطلق <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>نهاية العالم</b>.<br></div>",
+    "ReleaseDate": "1998",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Beyond%20the%20Pale%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "English Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00256.epub",
+        "fileSize": "3 MB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761237032432_1",
+    "Title": "Blood of Mystery",
+    "Series": "The Last Rune",
+    "SortingTitle": "The Last Rune 04",
+    "Author": "Mark Anthony",
+    "Description": "Grace embarks on a quest to uncover her mysterious origins, discovering she is descended from the ancient <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>witch-queen Sia</b> who once ruled Eldh.<br>Her search leads to the ruined city of <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Tarras</b> where terrible secrets about her <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>bloodline</b> and the true nature of magic are buried.<br>Travis must master the <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>rune of breaking</b> while facing the betrayal of allies and the machinations of the evil god <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Mohg</b>.<br>The <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Scirathi</b>—wraithlike assassins from beyond the void—hunt those who wield the <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>runes</b> and <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Weirding</b>.<br>As the final war between the <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>New Gods</b> and <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Old Gods</b> approaches, Grace learns that her blood holds the key to either salvation or annihilation.<br>The revelation of her true heritage forces Grace to confront an impossible choice: embrace her destiny as queen or risk losing everything she loves.<br>",
+    "DescriptionArabic": "<div dir='rtl'>تشرع غريس في مهمة لكشف أصولها الغامضة، مكتشفة أنها من نسل <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الملكة الساحرة سيا</b> القديمة التي حكمت إلده.<br>يقودها بحثها إلى مدينة <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>تاراس</b> المدمرة حيث دُفنت أسرار رهيبة عن <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>نسبها</b> والطبيعة الحقيقية للسحر.<br>يجب على ترافيس إتقان <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>رونة الكسر</b> بينما يواجه خيانة الحلفاء ومكائد الإله الشرير <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>موغ</b>.<br><b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>السكيراثي</b>—القتلة الشبحيون من وراء الفراغ—يصطادون من يستخدمون <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>الرونات</b> و<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الوايردينغ</b>.<br>بينما تقترب الحرب الأخيرة بين <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>الآلهة الجدد</b> و<b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>الآلهة القدماء</b>، تتعلم غريس أن دمها يحمل المفتاح إما للخلاص أو الفناء.<br>كشف ميراثها الحقيقي يجبر غريس على مواجهة خيار مستحيل: احتضان مصيرها كملكة أو المخاطرة بخسارة كل شيء تحبه.<br></div>",
+    "ReleaseDate": "2002",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Blood%20of%20Mystery%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "English Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00259.epub",
+        "fileSize": "840 KB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761237032432_2",
+    "Title": "Gates of Winter",
+    "Series": "The Last Rune",
+    "SortingTitle": "The Last Rune 05",
+    "Author": "Mark Anthony",
+    "Description": "The barrier between Earth and Eldh crumbles as the apocalyptic <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>Gates of Winter</b> begin to open, heralding the return of the ancient <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Pale King</b>.<br>Grace has ascended to become <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Queen of Malachor</b>, wielding unprecedented magical power while struggling to unite the fractured kingdoms of Eldh.<br>Travis masters the final <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>three runes</b> of creation, becoming a <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Runebreaker</b> powerful enough to reshape reality itself.<br>The sinister corporation <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Duratek</b> launches its final assault, using technology to tear open <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>rifts</b> between dimensions for their own dark purposes.<br>As <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>dragons</b>, <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>gods</b>, and mortal armies converge for the ultimate battle, Travis and Grace realize their destinies demand the ultimate sacrifice.<br>The fate of two worlds hangs in the balance as winter's eternal night threatens to consume all existence in <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>darkness</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>ينهار الحاجز بين الأرض وإلده بينما تبدأ <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>بوابات الشتاء</b> المروعة بالفتح، معلنة عودة <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الملك الشاحب</b> القديم.<br>صعدت غريس لتصبح <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>ملكة مالاخور</b>، ممسكة بقوة سحرية غير مسبوقة بينما تكافح لتوحيد ممالك إلده المتشرذمة.<br>يتقن ترافيس <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>الرونات الثلاث</b> الأخيرة للخلق، ليصبح <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>كاسر رونات</b> قوياً بما يكفي لإعادة تشكيل الواقع نفسه.<br>شركة <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>دوراتك</b> الشريرة تطلق هجومها الأخير، مستخدمة التكنولوجيا لتمزيق <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الصدوع</b> بين الأبعاد لأغراضهم المظلمة.<br>بينما تتقارب <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>التنانين</b>، <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الآلهة</b>، والجيوش البشرية للمعركة النهائية، يدرك ترافيس وغريس أن مصائرهما تتطلب التضحية المطلقة.<br>مصير عالمين يتعلق بالميزان بينما يهدد ليل الشتاء الأبدي بابتلاع كل الوجود في <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الظلام</b>.<br></div>",
+    "ReleaseDate": "2003",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Gates%20of%20Winter%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "English Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00260.epub",
+        "fileSize": "930 KB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761237032432_3",
+    "Title": "The Dark Remains",
+    "Series": "The Last Rune",
+    "SortingTitle": "The Last Rune 03",
+    "Author": "Mark Anthony",
+    "Description": "Grace Beckett has become one of the most powerful <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>witches</b> in Eldh, but her growing abilities attract dangerous attention from the sinister <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Onyx Knights</b>.<br>Travis uncovers horrifying truths about the <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>Imsari</b>—immortal sorcerers whose ancient experiments threaten to unravel the fabric of reality itself.<br>On Earth, a mysterious <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>corporation</b> known as <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Duratek</b> begins hunting for doorways between worlds, wielding technology that rivals magic.<br>The immortal being <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Mohg</b> manipulates events from the shadows, seeking the <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>Stones of Twilight</b> that could grant ultimate power.<br>As <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>dragons</b> awaken and ancient <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>prophecies</b> unfold, Travis and Grace realize their destinies are bound to forces older than civilization.<br>The veil between worlds grows thinner, and the <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Dark Remains</b>—remnants of a destroyed universe—threaten to consume everything in their path.<br>",
+    "DescriptionArabic": "<div dir='rtl'>أصبحت غريس بيكيت واحدة من أقوى <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الساحرات</b> في إلده، لكن قدراتها المتنامية تجذب انتباهاً خطيراً من <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>فرسان الجزع الأسود</b> الشريرين.<br>يكتشف ترافيس حقائق مرعبة عن <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>الإمساري</b>—السحرة الخالدين الذين تهدد تجاربهم القديمة بتفكيك نسيج الواقع نفسه.<br>على الأرض، <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>شركة</b> غامضة تعرف بـ<b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>دوراتك</b> تبدأ بالبحث عن أبواب بين العوالم، ممسكة بتكنولوجيا تنافس السحر.<br>الكائن الخالد <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>موغ</b> يتلاعب بالأحداث من الظلال، باحثاً عن <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>أحجار الشفق</b> التي قد تمنح القوة المطلقة.<br>بينما تستيقظ <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>التنانين</b> وتتكشف <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>النبوءات</b> القديمة، يدرك ترافيس وغريس أن مصائرهما مرتبطة بقوى أقدم من الحضارة.<br>الحجاب بين العوالم يزداد رقة، و<b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>البقايا المظلمة</b>—بقايا كون مدمر—تهدد بابتلاع كل شيء في طريقها.<br></div>",
+    "ReleaseDate": "2001",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Dark%20Remains%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "English Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00258.epub",
+        "fileSize": "3 MB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761237032432_4",
+    "Title": "The First Stone",
+    "Series": "The Last Rune",
+    "SortingTitle": "The Last Rune 06",
+    "Author": "Mark Anthony",
+    "Description": "In the epic conclusion, Travis and Grace face the ultimate confrontation as the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Pale King</b> rises with armies of the undead to destroy both worlds.<br>The mysterious <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>First Stone</b>—the primordial artifact from which all creation sprang—holds the power to either save or annihilate reality.<br>Travis must wield the complete mastery of <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>rune magic</b> while Grace commands the assembled forces of <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Eldh's kingdoms</b> in a desperate final stand.<br>The immortal <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Imsari</b> reveal their true purpose as the cosmic balance between <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>creation</b> and <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>destruction</b> hangs by a thread.<br>As <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>dragons</b> clash with <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>gods</b> and dimensions collide, Travis and Grace discover that their greatest weapon is not magic or prophecy, but the power of human <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>love</b> and <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>sacrifice</b>.<br>The saga reaches its shattering finale as the heroes learn that some endings are also beginnings, and that the last <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>rune</b> is written not in stone, but in the hearts of those who dare to hope.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في الخاتمة الملحمية، يواجه ترافيس وغريس المواجهة النهائية بينما يرتفع <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الملك الشاحب</b> مع جيوش الموتى الأحياء لتدمير العالمين.<br><b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الحجر الأول</b> الغامض—القطعة الأثرية البدائية التي انبثق منها كل الخلق—يحمل القوة لإنقاذ أو إبادة الواقع.<br>يجب على ترافيس استخدام التمكن الكامل من <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>سحر الرونات</b> بينما تقود غريس القوات المجمعة من <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ممالك إلده</b> في موقف أخير يائس.<br>يكشف <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>الإمساري</b> الخالدون عن هدفهم الحقيقي بينما يتعلق التوازن الكوني بين <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الخلق</b> و<b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>الدمار</b> بخيط رفيع.<br>بينما تتصادم <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>التنانين</b> مع <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الآلهة</b> وتتصادم الأبعاد، يكتشف ترافيس وغريس أن سلاحهما الأعظم ليس السحر أو النبوءة، بل قوة <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>الحب</b> البشري و<b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>التضحية</b>.<br>تصل الملحمة إلى نهايتها المحطمة بينما يتعلم الأبطال أن بعض النهايات هي أيضاً بدايات، وأن <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>الرونة</b> الأخيرة ليست مكتوبة في الحجر، بل في قلوب من يجرؤون على الأمل.<br></div>",
+    "ReleaseDate": "2004",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20First%20Stone%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "English Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00261.epub",
+        "fileSize": "661 KB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761237032432_5",
+    "Title": "The Keep of Fire",
+    "Series": "The Last Rune",
+    "SortingTitle": "The Last Rune 02",
+    "Author": "Mark Anthony",
+    "Description": "Travis Wilder and Grace Beckett return to <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Eldh</b> to find the world on the brink of war as the evil god <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Dakarreth</b> awakens from his ancient prison.<br>Grace struggles to control her newfound <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>witchcraft</b> while Travis must unlock the secrets of the <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>runes</b> to prevent catastrophe.<br>The mysterious <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Burning Plague</b> spreads across the land, transforming victims into mindless servants of darkness.<br>At the legendary <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Keep of Fire</b>, an ancient fortress holds both answers and terrors as <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>dragon</b> cults and <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>shadow</b> creatures gather their forces.<br>Travis discovers his connection to the <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>Runespeaker</b> heritage runs deeper than he imagined, while Grace must choose between the <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Weirding</b> magic and her humanity.<br>As the <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>door between worlds</b> begins to crack, both heroes face sacrifices that will forever change the fate of Earth and Eldh.<br>",
+    "DescriptionArabic": "<div dir='rtl'>يعود ترافيس وايلدر وغريس بيكيت إلى <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>إلده</b> ليجدوا العالم على شفا حرب بينما يستيقظ الإله الشرير <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>داكاريث</b> من سجنه القديم.<br>تكافح غريس للسيطرة على <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>سحرها</b> الجديد بينما يجب على ترافيس فتح أسرار <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>الرونات</b> لمنع الكارثة.<br><b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>طاعون الاحتراق</b> الغامض ينتشر عبر الأرض، محولاً الضحايا إلى خدم بلا عقل للظلام.<br>في <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>حصن النار</b> الأسطوري، قلعة قديمة تحمل إجابات ورعباً بينما تجمع طوائف <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>التنين</b> ومخلوقات <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>الظل</b> قواها.<br>يكتشف ترافيس أن اتصاله بميراث <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>متحدث الرونات</b> أعمق مما تخيل، بينما يجب على غريس الاختيار بين سحر <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الوايردينغ</b> وإنسانيتها.<br>بينما يبدأ <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>الباب بين العوالم</b> بالتصدع، يواجه كلا البطلين تضحيات ستغير مصير الأرض وإلده إلى الأبد.<br></div>",
+    "ReleaseDate": "2000",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Keep%20of%20Fire%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "English Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00257.epub",
+        "fileSize": "2 MB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761237459615_0",
+    "Title": "Fullmetal Alchemist",
+    "SortingTitle": "",
+    "Author": "Hiromu Arakawa",
+    "Description": "Brothers <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Edward</b> and <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>Alphonse Elric</b> attempt forbidden <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>human transmutation</b> to resurrect their mother, shattering the greatest taboo of <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>alchemy</b>.<br>The backlash costs Edward his arm and leg while Alphonse loses his entire body, his soul bound to a massive suit of <b style='color: #708090; text-shadow: 0 0 8px #708090;'>armor</b> by his brother's sacrifice.<br>Now a <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>State Alchemist</b> known as the <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Fullmetal Alchemist</b>, Edward searches for the legendary <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Philosopher's Stone</b> to restore their bodies.<br>Their quest unveils a vast conspiracy involving <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Homunculi</b>—artificial humans named after the seven deadly sins—and the military nation of <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Amestris</b>.<br>As they uncover the truth about the <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Ishvalan War</b>, <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Father's</b> plan, and the nation-wide <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>transmutation circle</b>, the brothers learn that equivalent exchange demands more than they imagined.<br>Through sacrifice, friendship, and unwavering determination, Edward and Alphonse fight to protect humanity from becoming <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>Philosopher's Stones</b> themselves.<br>",
+    "DescriptionArabic": "<div dir='rtl'>الأخوان <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>إدوارد</b> و<b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>ألفونس إلريك</b> يحاولان <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>التحويل البشري</b> المحرم لإحياء والدتهما، محطمين أعظم محرمات <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الخيمياء</b>.<br>الارتداد يكلف إدوارد ذراعه وساقه بينما يفقد ألفونس جسده بالكامل، روحه مقيدة بدرع <b style='color: #708090; text-shadow: 0 0 8px #708090;'>ضخم</b> بتضحية أخيه.<br>الآن <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>خيميائي الدولة</b> المعروف بـ<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>الخيميائي المعدني الكامل</b>، يبحث إدوارد عن <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>حجر الفلاسفة</b> الأسطوري لاستعادة أجسادهما.<br>تكشف مهمتهما عن مؤامرة واسعة تشمل <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>الهومنكيولاي</b>—بشر صناعيون سميوا على الخطايا السبع المميتة—والأمة العسكرية <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>أميستريس</b>.<br>بينما يكشفون الحقيقة عن <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>حرب إشفال</b>، خطة <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الأب</b>، و<b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>دائرة التحويل</b> على مستوى الأمة، يتعلم الأخوان أن التبادل المكافئ يتطلب أكثر مما تخيلوا.<br>عبر التضحية والصداقة والعزيمة الثابتة، يقاتل إدوارد وألفونس لحماية البشرية من أن تصبح <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>أحجار فلاسفة</b> بأنفسهم.<br></div>",
+    "ReleaseDate": "2001",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Fullmetal%20Alchemist%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00262.zip",
+        "fileSize": "7 GB"
+      }
+    ],
+    "audiobooksUrl": []
   }
 ]
