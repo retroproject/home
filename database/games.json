@@ -134147,5 +134147,45 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1761224810563_0",
+    "Name": "Double Dragon Revive",
+    "SortingName": "Double Dragon 09",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2025",
+    "CriticScore": 70,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Double%20Dragon%20Revive%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Double%20Dragon%20Revive%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=iQiA3sCuqIs",
+    "videoStart": null,
+    "videoEnd": 42,
+    "MusicUrl": "https://archive.org/download/RPRM001/Double%20Dragon%20Revive%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Beat'em up"
+    ],
+    "DeveloperNames": [
+      "Arc System Works"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP005",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "12GB",
+            "executable": "DoubleDragonRevive_Steam.exe",
+            "buildID": "22 October 2025",
+            "arguments": [],
+            "filename": "00140.zip"
+          }
+        ]
+      }
+    }
   }
 ]
