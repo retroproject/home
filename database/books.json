@@ -8369,5 +8369,32 @@
       }
     ],
     "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761228453181_0",
+    "Title": "Demon Slayer",
+    "SortingTitle": "",
+    "Author": "Koyoharu Gotouge",
+    "Description": "In Taisho-era Japan, young <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Tanjiro Kamado</b> returns home to find his family slaughtered by <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>demons</b>, with only his sister <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>Nezuko</b> surviving—transformed into a demon herself.<br>Vowing to avenge his family and cure Nezuko, Tanjiro joins the <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Demon Slayer Corps</b>, mastering the ancient <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Water Breathing</b> technique and ultimately the legendary <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Sun Breathing</b> style.<br>Alongside the cowardly but talented <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>Zenitsu</b> and wild boar-masked <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>Inosuke</b>, he battles the <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Twelve Kizuki</b>—elite demons serving the ancient demon king <b style='color: #000000; text-shadow: 0 0 8px #8B0000;'>Muzan Kibutsuji</b>.<br>The elite <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Hashira</b> warriors—masters of flame, sound, mist, and other breathing styles—guide and protect the demon slayers in their perilous missions.<br>Through intense training and devastating battles, Tanjiro's unwavering <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>kindness</b> challenges the cycle of hatred between humans and demons.<br>As dark secrets about the <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>Blue Spider Lily</b> and demon origins unfold, the final war against <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Muzan</b> will test every slayer's resolve.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في حقبة تايشو في اليابان، يعود الشاب <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>تانجيرو كامادو</b> إلى منزله ليجد عائلته مذبوحة على يد <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الشياطين</b>، ولم تنجُ سوى أخته <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>نيزوكو</b>—متحولة إلى شيطانة.<br>مقسماً على الانتقام لعائلته وعلاج نيزوكو، ينضم تانجيرو إلى <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>فيلق قاتلي الشياطين</b>، متقناً تقنية <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>تنفس الماء</b> القديمة وفي النهاية أسلوب <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>تنفس الشمس</b> الأسطوري.<br>إلى جانب <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>زينيتسو</b> الجبان لكن الموهوب و<b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>إينوسكي</b> البري ذو قناع الخنزير، يقاتل <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الاثني عشر كيزوكي</b>—شياطين النخبة الذين يخدمون ملك الشياطين القديم <b style='color: #000000; text-shadow: 0 0 8px #8B0000;'>موزان كيبوتسوجي</b>.<br>محاربو <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الهاشيرا</b> النخبة—أساتذة اللهب والصوت والضباب وأساليب التنفس الأخرى—يرشدون ويحمون قاتلي الشياطين في مهامهم الخطيرة.<br>عبر التدريب المكثف والمعارك المدمرة، <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>لطف</b> تانجيرو الثابت يتحدى دائرة الكراهية بين البشر والشياطين.<br>بينما تنكشف أسرار مظلمة عن <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>زنبقة العنكبوت الزرقاء</b> وأصول الشياطين، الحرب الأخيرة ضد <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>موزان</b> ستختبر عزيمة كل قاتل.<br></div>",
+    "ReleaseDate": "2016",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Demon%20Slayer%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00252.zip",
+        "fileSize": "4 GB"
+      }
+    ],
+    "audiobooksUrl": []
   }
 ]
