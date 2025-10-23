@@ -8179,5 +8179,32 @@
       }
     ],
     "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761199645734_0",
+    "Title": "A Silent Voice",
+    "SortingTitle": "",
+    "Author": "Yoshitoki Oima",
+    "Description": "In <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>elementary school</b>, <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Shoya Ishida</b> ruthlessly tormented his <b style='color: #808080; text-shadow: 0 0 8px #808080;'>deaf</b> classmate <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>Shoko Nishimiya</b>, mocking her disability and destroying her hearing aids.<br>When the <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>bullying</b> is exposed, Shoya becomes the outcast—his former friends turn on him, leaving him isolated and consumed by <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>guilt</b>.<br>Years later in high school, haunted by his cruelty and contemplating <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>suicide</b>, Shoya learns <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>sign language</b> and seeks out Shoko to apologize.<br>What begins as a quest for <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>redemption</b> transforms into an unlikely <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>friendship</b> as Shoya tries to reconnect Shoko with the classmates who abandoned her.<br>Standing on a <b style='color: #708090; text-shadow: 0 0 8px #708090;'>bridge</b> between their painful past and uncertain future, both teens struggle to find <b style='color: #FF7F50; text-shadow: 0 0 8px #FF7F50;'>forgiveness</b>—from others and themselves.<br>The story explores how <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>silence</b> can be louder than words, and how giving someone a <b style='color: #FA8072; text-shadow: 0 0 8px #FA8072;'>voice</b> means truly listening.<br>Through heartbreak and hope, Shoya and Shoko discover that genuine <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>communication</b> transcends sound—it requires courage, empathy, and the willingness to understand.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>المرحلة الابتدائية</b>، قام <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>شويا إيشيدا</b> بتعذيب زميلته <b style='color: #808080; text-shadow: 0 0 8px #808080;'>الصماء</b> <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>شوكو نيشيميا</b> بلا رحمة، ساخراً من إعاقتها ومدمراً أجهزة السمع الخاصة بها.<br>عندما ينكشف <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>التنمر</b>، يصبح شويا منبوذاً—أصدقاؤه السابقون ينقلبون عليه، تاركينه معزولاً ومستهلكاً بـ<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الذنب</b>.<br>بعد سنوات في الثانوية، مطارداً من قسوته ومفكراً في <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الانتحار</b>، يتعلم شويا <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>لغة الإشارة</b> ويبحث عن شوكو ليعتذر.<br>ما يبدأ كسعي نحو <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>الفداء</b> يتحول إلى <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>صداقة</b> غير متوقعة بينما يحاول شويا إعادة ربط شوكو بزملائها الذين هجروها.<br>واقفين على <b style='color: #708090; text-shadow: 0 0 8px #708090;'>جسر</b> بين ماضيهما المؤلم ومستقبلهما الغامض، كلا المراهقين يكافحان للعثور على <b style='color: #FF7F50; text-shadow: 0 0 8px #FF7F50;'>الغفران</b>—من الآخرين ومن أنفسهم.<br>تستكشف القصة كيف يمكن أن يكون <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>الصمت</b> أعلى من الكلمات، وكيف أن إعطاء شخص <b style='color: #FA8072; text-shadow: 0 0 8px #FA8072;'>صوتاً</b> يعني الاستماع الحقيقي.<br>عبر الحسرة والأمل، يكتشف شويا وشوكو أن <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>التواصل</b> الحقيقي يتجاوز الصوت—يتطلب شجاعة وتعاطفاً واستعداداً للفهم.<br></div>",
+    "ReleaseDate": "2011",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/A%20Silent%20Voice%20Cover.jpg",
+    "Genre": [
+      "Romance"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00245.zip",
+        "fileSize": "2 GB"
+      }
+    ],
+    "audiobooksUrl": []
   }
 ]
