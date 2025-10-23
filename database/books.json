@@ -8206,5 +8206,32 @@
       }
     ],
     "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761201858143_0",
+    "Title": "Tenjo Tenge",
+    "SortingTitle": "",
+    "Author": "Oh! great",
+    "Description": "Two delinquent fighters, <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Souichiro Nagi</b> and <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Bob Makihara</b>, transfer to <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Todo Academy</b> planning to dominate the school through brute force.<br>They quickly discover this isn't an ordinary high school—it's a battleground ruled by <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>martial arts</b> where students possess supernatural fighting abilities.<br>The cocky duo faces crushing defeat at the hands of the <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Juken Club</b>, led by the ruthless <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Takayanagi Mitsuomi</b> and the mysterious <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Maya Natsume</b>.<br>As Souichiro awakens the legendary <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Dragon's Eye</b> power dormant in his blood, he becomes entangled in a war spanning generations between rival <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>martial arts families</b>.<br>The story weaves between past and present, revealing the tragic history of the <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Natsume</b> and <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>Takayanagi</b> clans and the <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Katana of Susanoo</b>.<br>Brutal <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>combat</b> sequences blend with supernatural <b style='color: #DA70D6; text-shadow: 0 0 8px #DA70D6;'>ki techniques</b>, conspiracies, and forbidden romance as students fight for supremacy and <b style='color: #C71585; text-shadow: 0 0 8px #C71585;'>revenge</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>مقاتلان منحرفان، <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>سويشيرو ناغي</b> و<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>بوب ماكيهارا</b>، ينتقلان إلى <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>أكاديمية تودو</b> بخطة للسيطرة على المدرسة بالقوة الغاشمة.<br>يكتشفان بسرعة أن هذه ليست مدرسة ثانوية عادية—إنها ساحة معركة تحكمها <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الفنون القتالية</b> حيث يمتلك الطلاب قدرات قتالية خارقة.<br>الثنائي المغرور يواجه هزيمة ساحقة على يد <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>نادي جوكن</b>، بقيادة <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>تاكاياناغي ميتسوومي</b> القاسي و<b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>مايا ناتسومي</b> الغامضة.<br>بينما يوقظ سويشيرو قوة <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>عين التنين</b> الأسطورية الكامنة في دمه، يصبح متورطاً في حرب تمتد لأجيال بين <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>عائلات الفنون القتالية</b> المتنافسة.<br>تتنقل القصة بين الماضي والحاضر، كاشفة التاريخ المأساوي لعشيرتي <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>ناتسومي</b> و<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>تاكاياناغي</b> و<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>كاتانا سوزانو</b>.<br>مشاهد <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>القتال</b> الوحشية تمتزج مع <b style='color: #DA70D6; text-shadow: 0 0 8px #DA70D6;'>تقنيات الكي</b> الخارقة والمؤامرات والرومانسية المحرمة بينما يقاتل الطلاب من أجل السيادة و<b style='color: #C71585; text-shadow: 0 0 8px #C71585;'>الانتقام</b>.<br></div>",
+    "ReleaseDate": "1997",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Tenjo%20Tenge%20Cover.jpg",
+    "Genre": [
+      "Seinen"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00246.zip",
+        "fileSize": "7 GB"
+      }
+    ],
+    "audiobooksUrl": []
   }
 ]
