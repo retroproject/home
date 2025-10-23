@@ -8152,5 +8152,32 @@
       }
     ],
     "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761186504373_0",
+    "Title": "Monster",
+    "SortingTitle": "",
+    "Author": "Naoki Urasawa",
+    "Description": "Brilliant Japanese neurosurgeon <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Dr. Kenzo Tenma</b> works at a prestigious hospital in 1980s Germany, destined for greatness.<br>When faced with a choice between saving a critically injured boy or the town's mayor, Tenma follows his conscience and saves the child—<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Johan Liebert</b>.<br>His career destroyed by this decision, Tenma's life takes a darker turn when hospital administrators mysteriously die and Johan vanishes.<br>Nine years later, Tenma discovers the boy he saved has become a brilliant <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>serial killer</b>—a charismatic sociopath leaving a trail of death across Europe.<br>Now hunted by police inspector <b style='color: #696969; text-shadow: 0 0 8px #696969;'>Lunge</b> who suspects him of Johan's murders, Tenma abandons everything to stop the <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>monster</b> he saved.<br>The story weaves through Cold War conspiracies, psychological manipulation, and the terrifying <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Kinderheim 511</b> orphanage experiments.<br>As Tenma pursues Johan through a web of <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>corruption</b>, he questions the value of human life and confronts the ultimate evil wearing a human face.<br>",
+    "DescriptionArabic": "<div dir='rtl'>يعمل جراح الأعصاب الياباني اللامع <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>الدكتور كينزو تينما</b> في مستشفى مرموق في ألمانيا في الثمانينيات، مقدّر له العظمة.<br>عندما واجه خياراً بين إنقاذ صبي مصاب بجروح خطيرة أو عمدة المدينة، يتبع تينما ضميره ويُنقذ الطفل—<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>يوهان ليبرت</b>.<br>دُمرت مسيرته المهنية بسبب هذا القرار، وتأخذ حياة تينما منعطفاً أكثر ظلاماً عندما يموت إداريو المستشفى بشكل غامض ويختفي يوهان.<br>بعد تسع سنوات، يكتشف تينما أن الصبي الذي أنقذه أصبح <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>قاتلاً متسلسلاً</b> لامعاً—سيكوباتي كاريزمي يترك أثراً من الموت عبر أوروبا.<br>الآن يطارده مفتش الشرطة <b style='color: #696969; text-shadow: 0 0 8px #696969;'>لونغ</b> الذي يشتبه به في جرائم يوهان، يتخلى تينما عن كل شيء لإيقاف <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الوحش</b> الذي أنقذه.<br>تنسج القصة عبر مؤامرات الحرب الباردة، والتلاعب النفسي، وتجارب دار الأيتام المرعبة <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>كيندرهايم 511</b>.<br>بينما يطارد تينما يوهان عبر شبكة من <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الفساد</b>، يتساءل عن قيمة الحياة البشرية ويواجه الشر المطلق الذي يرتدي وجهاً بشرياً.<br></div>",
+    "ReleaseDate": "1994",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Monster%20Cover.jpg",
+    "Genre": [
+      "Thriller"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00244.zip",
+        "fileSize": "12 GB"
+      }
+    ],
+    "audiobooksUrl": []
   }
 ]
