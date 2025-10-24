@@ -8999,5 +8999,545 @@
       }
     ],
     "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761295392644_0",
+    "Title": "Akame ga KILL!",
+    "SortingTitle": "",
+    "Author": "Takahiro",
+    "Description": "<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Tatsumi</b>, a young <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>swordsman</b> from a poor village, travels to the <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Capital</b> with his childhood friends to raise money for their impoverished home.<br>After being separated by <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>bandits</b> and deceived upon arrival, Tatsumi is taken in by what seems like a kind noble family—only to discover they had already <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>tortured and murdered</b> his friends.<br>Saved by the <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>assassin group Night Raid</b>, Tatsumi learns of the Capital's deep-rooted <b style='color: #696969; text-shadow: 0 0 8px #696969;'>corruption</b> and decides to join their fight against the tyrannical <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Empire</b>.<br>Each member of Night Raid wields a powerful <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Imperial Arm</b>—legendary weapons of immense power—including the skilled swordswoman <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Akame</b>, who wields a blade that kills with a single cut.<br>As Tatsumi bonds with his fellow assassins, they face the Empire's elite <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Jaegers</b>, each battle bringing them closer to their ultimate goal or their <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>deaths</b>.<br>In a world where <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>revolution</b> demands <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>sacrifice</b>, Tatsumi must face the harsh reality that not everyone will survive the fight for <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>justice</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>تاتسومي</b>، <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>مبارز</b> شاب من قرية فقيرة، يسافر إلى <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>العاصمة</b> مع أصدقاء طفولته لجمع المال لوطنهم المعدم.<br>بعد انفصاله عن <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>اللصوص</b> وخداعه عند وصوله، يتم استقبال تاتسومي من قبل ما يبدو عائلة نبيلة لطيفة—فقط ليكتشف أنهم قد <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>عذبوا وقتلوا</b> أصدقاءه بالفعل.<br>أنقذته <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>مجموعة القتلة نايت رايد</b>، يتعلم تاتسومي عن <b style='color: #696969; text-shadow: 0 0 8px #696969;'>الفساد</b> المتجذر في العاصمة ويقرر الانضمام إلى قتالهم ضد <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الإمبراطورية</b> الاستبدادية.<br>يستخدم كل عضو في نايت رايد <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>سلاح إمبراطوري</b> قوي—أسلحة أسطورية ذات قوة هائلة—بما في ذلك المبارزة الماهرة <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>أكامي</b>، التي تستخدم نصلاً يقتل بقطع واحد.<br>بينما يرتبط تاتسومي برفاقه القتلة، يواجهون نخبة الإمبراطورية <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>جايجرز</b>، كل معركة تقربهم من هدفهم النهائي أو <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>موتهم</b>.<br>في عالم حيث تتطلب <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>الثورة</b> <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>التضحية</b>، يجب على تاتسومي مواجهة الواقع القاسي بأن ليس الجميع سينجون من القتال من أجل <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>العدالة</b>.<br></div>",
+    "ReleaseDate": "2010",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Akame%20ga%20KILL!%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00277.zip",
+        "fileSize": "2 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761295392644_1",
+    "Title": "Deadman Wonderland",
+    "SortingTitle": "",
+    "Author": "Jinsei Kataoka",
+    "Description": "Ten years after a catastrophic <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>earthquake</b> devastated Tokyo, middle school student <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Ganta Igarashi</b> lives an ordinary life with no memories of the tragedy.<br>During a normal class day, a mysterious figure cloaked in <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>blood and crimson armor</b>—the <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>Red Man</b>—appears and massacres Ganta's entire class, but spares him and embeds a red <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>crystal shard</b> in his chest.<br>Framed for the murders, Ganta is sentenced to death and sent to <b style='color: #696969; text-shadow: 0 0 8px #696969;'>Deadman Wonderland</b>—a privately owned prison that doubles as a twisted <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>amusement park</b> where inmates perform deadly shows for spectators.<br>Inside, Ganta discovers he has become a <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Deadman</b>, one of the rare prisoners who can manipulate their own <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>blood</b> as a weapon through the power called <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>Branches of Sin</b>.<br>Forced to participate in brutal gladiatorial death matches called <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Carnival Corpse</b>, Ganta must survive while uncovering the truth behind the Red Man's identity and the prison's <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>dark secrets</b>.<br>Aided by the mysterious albino girl <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>Shiro</b>, who claims to be his childhood friend, Ganta fights for <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>survival</b>, <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>revenge</b>, and the truth that will expose the prison's horrifying experiments.<br>",
+    "DescriptionArabic": "<div dir='rtl'>بعد عشر سنوات من <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>زلزال</b> كارثي دمر طوكيو، يعيش طالب المدرسة المتوسطة <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>غانتا إيغاراشي</b> حياة عادية بلا ذكريات عن المأساة.<br>خلال يوم دراسي عادي، يظهر شخصية غامضة مغطاة بـ<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الدم ودرع قرمزي</b>—<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الرجل الأحمر</b>—ويذبح كل صف غانتا، لكنه يستثنيه ويدمج <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>شظية كريستال</b> حمراء في صدره.<br>متهماً بالجرائم، يُحكم على غانتا بالإعدام ويُرسل إلى <b style='color: #696969; text-shadow: 0 0 8px #696969;'>ديدمان وندرلاند</b>—سجن مملوك خاصاً يعمل أيضاً <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>كمدينة ملاهي</b> ملتوية حيث يؤدي السجناء عروضاً مميتة للمتفرجين.<br>في الداخل، يكتشف غانتا أنه أصبح <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>ديدمان</b>، أحد السجناء النادرين الذين يمكنهم التلاعب بـ<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>دمهم</b> كسلاح من خلال القوة المسماة <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>فروع الخطيئة</b>.<br>مجبراً على المشاركة في مباريات موت مصارعة وحشية تسمى <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>كارنيفال كوربس</b>، يجب على غانتا البقاء على قيد الحياة بينما يكشف الحقيقة وراء هوية الرجل الأحمر و<b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>أسرار السجن</b> المظلمة.<br>بمساعدة الفتاة المهقاء الغامضة <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>شيرو</b>، التي تدعي أنها صديقة طفولته، يقاتل غانتا من أجل <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>البقاء</b>، <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>الانتقام</b>، والحقيقة التي ستكشف تجارب السجن المرعبة.<br></div>",
+    "ReleaseDate": "2007",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Deadman%20Wonderland%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00278.zip",
+        "fileSize": "4 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761295392644_2",
+    "Title": "Dorohedoro",
+    "SortingTitle": "",
+    "Author": "Q Hayashida",
+    "Description": "In the grimy streets of <b style='color: #696969; text-shadow: 0 0 8px #696969;'>the Hole</b>, a dystopian city where humans live in constant fear, <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Magic Users</b> from another dimension use residents as test subjects for their gruesome spells.<br><b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Caiman</b>—a man cursed with a <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>reptilian head</b> and complete <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>amnesia</b>—hunts Magic Users with his partner <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Nikaido</b>, seeking the sorcerer who transformed him.<br>Inside Caiman's mouth lives a mysterious <b style='color: #8B0000; text-shadow: 0 0 0 8px #8B0000;'>devil</b> that speaks to those he bites, asking them one question: What did the guy inside your head say?<br>As Caiman and Nikaido run a <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>gyoza restaurant</b> between hunts, they navigate a bizarre world filled with <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>dark magic</b>, <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>violent gangs</b>, and eccentric characters.<br>In the Magic Users' realm, powerful sorcerers like <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>En</b> and his crime syndicate hunt for Caiman, seeking to understand his immunity to magic and the <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>smoke</b> he produces.<br>As past and present collide, Caiman uncovers shocking truths about his identity, the connection between the Hole and the Magic Users' world, and the <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>devil</b> within him.<br>This surreal tale blends horror, comedy, and mystery in a grotesquely beautiful world where nothing is as it seems.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في شوارع <b style='color: #696969; text-shadow: 0 0 8px #696969;'>الحفرة</b> القذرة، مدينة ديستوبية حيث يعيش البشر في خوف دائم، يستخدم <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>مستخدمو السحر</b> من بعد آخر السكان كموضوعات اختبار لتعاويذهم المروعة.<br><b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>كايمان</b>—رجل ملعون بـ<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>رأس زاحف</b> و<b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>فقدان ذاكرة</b> كامل—يصطاد مستخدمي السحر مع شريكته <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>نيكايدو</b>، باحثاً عن الساحر الذي حوله.<br>داخل فم كايمان يعيش <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>شيطان</b> غامض يتحدث لمن يعضهم، يسألهم سؤالاً واحداً: ماذا قال الرجل داخل رأسك؟<br>بينما يدير كايمان ونيكايدو <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>مطعم غيوزا</b> بين الصيد، يتنقلان في عالم غريب مليء بـ<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>السحر المظلم</b>، <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>العصابات العنيفة</b>، والشخصيات الغريبة الأطوار.<br>في عالم مستخدمي السحر، السحرة الأقوياء مثل <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>إن</b> ونقابته الإجرامية يصطادون كايمان، ساعين لفهم مناعته للسحر و<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الدخان</b> الذي ينتجه.<br>بينما يتصادم الماضي والحاضر، يكشف كايمان حقائق صادمة عن هويته، الاتصال بين الحفرة وعالم مستخدمي السحر، و<b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>الشيطان</b> بداخله.<br>تمزج هذه الحكاية السريالية الرعب، الكوميديا، والغموض في عالم جميل بشكل مروع حيث لا شيء كما يبدو.<br></div>",
+    "ReleaseDate": "2000",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Dorohedoro%20Cover.jpg",
+    "Genre": [
+      "Dark Fantasy"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00279.zip",
+        "fileSize": "7 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761295392644_3",
+    "Title": "Elfen Lied",
+    "SortingTitle": "",
+    "Author": "Lynn Okamoto",
+    "Description": "<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Lucy</b> is a <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Diclonius</b>—a mutant species distinguished by <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>horns</b> on their heads and invisible telekinetic arms called <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>vectors</b> capable of ripping humans apart.<br>After years of brutal experiments and <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>rejection</b> at a government research facility, Lucy breaks free in a <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>bloodbath</b>, massacring the guards who tormented her.<br>Shot in the head during her escape, Lucy washes up on a <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>beach</b> where she's discovered by two university students, <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Kouta</b> and <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Yuka</b>.<br>The head wound has triggered a split personality—instead of the vengeful killer, they find <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>Nyu</b>, a childlike and innocent version of Lucy who can only say her name.<br>As Kouta and Yuka take Nyu into their home, military forces led by the ruthless <b style='color: #696969; text-shadow: 0 0 8px #696969;'>Chief Kakuzawa</b> hunt for Lucy, deploying other Diclonius as weapons.<br>Torn between Lucy's <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>traumatic past</b> and Nyu's <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>innocence</b>, the story explores humanity's cruelty, the desire for acceptance, and whether <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>revenge</b> or <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>redemption</b> defines us.<br>As dark secrets from Kouta's forgotten childhood resurface, he must confront the horrifying truth connecting him to Lucy.<br>",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>لوسي</b> هي <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>ديكلونيوس</b>—نوع متحور متميز بـ<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>قرون</b> على رؤوسهم وأذرع غير مرئية تيليكينيتيكية تسمى <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الفيكتورات</b> قادرة على تمزيق البشر.<br>بعد سنوات من التجارب الوحشية و<b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الرفض</b> في منشأة أبحاث حكومية، تهرب لوسي في <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>حمام دم</b>، تذبح الحراس الذين عذبوها.<br>أُطلقت عليها النار في رأسها أثناء هروبها، تجرفها المياه إلى <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>شاطئ</b> حيث يكتشفها طالبان جامعيان، <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>كوتا</b> و<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>يوكا</b>.<br>أثار جرح الرأس انقسام الشخصية—بدلاً من القاتلة المنتقمة، يجدان <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>نيو</b>، نسخة طفولية وبريئة من لوسي يمكنها فقط قول اسمها.<br>بينما يأخذ كوتا ويوكا نيو إلى منزلهما، تطاردها قوات عسكرية بقيادة <b style='color: #696969; text-shadow: 0 0 8px #696969;'>الرئيس كاكوزاوا</b> القاسي، ينشرون ديكلونيوس آخرين كأسلحة.<br>ممزقة بين <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>ماضي لوسي</b> الصادم و<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>براءة</b> نيو، تستكشف القصة قسوة الإنسانية، الرغبة في القبول، وما إذا كان <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الانتقام</b> أو <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>الخلاص</b> هو ما يحددنا.<br>بينما تبرز أسرار مظلمة من طفولة كوتا المنسية، يجب عليه مواجهة الحقيقة المرعبة التي تربطه بلوسي.<br></div>",
+    "ReleaseDate": "2002",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Elfen%20Lied%20Cover.jpg",
+    "Genre": [
+      "Horror"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00280.zip",
+        "fileSize": "6 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761295392644_4",
+    "Title": "Fire Force",
+    "SortingTitle": "",
+    "Author": "Atsushi Ohkubo",
+    "Description": "In a world ravaged by a <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>global fire</b> centuries ago, <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Tokyo</b> stands as humanity's last bastion against a terrifying phenomenon: <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>spontaneous human combustion</b>.<br>Ordinary people suddenly ignite and transform into mindless <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Infernals</b>—living pillars of flame that rampage and destroy everything in their path.<br><b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Shinra Kusakabe</b>, a third-generation <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>pyrokinetic</b> with the ability to ignite his feet, joins the <b style='color: #696969; text-shadow: 0 0 8px #696969;'>Special Fire Force Company 8</b>.<br>Branded as a <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>devil</b> for his uncontrollable grin and blamed for his mother and brother's death in a mysterious fire, Shinra seeks to become a <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>hero</b> and uncover the truth about that fateful day twelve years ago.<br>As Company 8 investigates the cause of <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>Infernal outbreaks</b>, they uncover a sinister conspiracy involving the <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Evangelist</b>—a mysterious cult manipulating the fires for their own dark purposes.<br>With allies who wield unique <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>pyrokinetic abilities</b>, Shinra battles both Infernals and human enemies while pursuing the truth about the <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>Great Cataclysm</b> and his brother's fate.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في عالم دمرته <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>نار عالمية</b> قبل قرون، تقف <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>طوكيو</b> كمعقل أخير للبشرية ضد ظاهرة مرعبة: <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الاحتراق البشري التلقائي</b>.<br>يشتعل الناس العاديون فجأة ويتحولون إلى <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>جهنميين</b> بلا عقل—أعمدة حية من اللهب تتهور وتدمر كل شيء في طريقها.<br><b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>شينرا كوساكابي</b>، <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>بيروكينتيك</b> من الجيل الثالث مع القدرة على إشعال قدميه، ينضم إلى <b style='color: #696969; text-shadow: 0 0 8px #696969;'>فرقة الإطفاء الخاصة 8</b>.<br>موصوم بـ<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الشيطان</b> لابتسامته غير القابلة للسيطرة وملوم على موت والدته وشقيقه في حريق غامض، يسعى شينرا ليصبح <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>بطلاً</b> ويكشف الحقيقة عن ذلك اليوم المشؤوم قبل اثني عشر عاماً.<br>بينما تحقق الفرقة 8 في سبب <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>تفشي الجهنميين</b>، يكشفون مؤامرة شريرة تتعلق بـ<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>المبشر</b>—طائفة غامضة تتلاعب بالحرائق لأغراضها المظلمة.<br>مع حلفاء يستخدمون <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>قدرات بيروكينتية</b> فريدة، يقاتل شينرا كلاً من الجهنميين والأعداء البشر بينما يسعى للحقيقة عن <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>الكارثة العظمى</b> ومصير شقيقه.<br></div>",
+    "ReleaseDate": "2015",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Fire%20Force%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00281.zip",
+        "fileSize": "6 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761295392644_5",
+    "Title": "GTO Paradise Lost",
+    "SortingTitle": "",
+    "Author": "Tooru Fujisawa",
+    "Description": "The <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>legendary teacher</b> <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Eikichi Onizuka</b> returns to take on his most challenging <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>assignment</b> yet: teaching <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>Class G</b> at Kissho Academy, a special class filled with <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>young celebrities</b> from prestigious backgrounds. These <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>talented students</b> come with their own set of problems, <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>egos</b>, and <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>conflicts</b>. Using his unconventional teaching methods and <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>street-smart wisdom</b>, Onizuka must navigate the <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>complex world</b> of celebrity culture while helping these troubled youths find their way. The <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Great Teacher</b> faces new challenges that test even his <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>limitless patience</b>.",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>المعلم الأسطوري</b> <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>إييتشي أونيزوكا</b> يعود لمواجهة أصعب <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>مهمة</b> حتى الآن: تدريس <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>الصف جي</b> في أكاديمية كيشو، صف خاص مليء <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>بالمشاهير الشباب</b> من خلفيات مرموقة. هؤلاء <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>الطلاب الموهوبون</b> يأتون مع مجموعة من المشاكل و<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الغرور</b> و<b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الصراعات</b>. باستخدام أساليبه التعليمية غير التقليدية و<b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>حكمة الشارع</b>، يجب على أونيزوكا التنقل في <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>العالم المعقد</b> لثقافة المشاهير بينما يساعد هؤلاء الشباب المضطربين في إيجاد طريقهم. <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>المعلم العظيم</b> يواجه تحديات جديدة تختبر حتى <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>صبره اللامحدود</b>.</div>",
+    "ReleaseDate": "2014",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/GTO%20Paradise%20Lost%20Cover.jpg",
+    "Genre": [
+      "Comedy"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00282.zip",
+        "fileSize": "9 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761295392644_6",
+    "Title": "Highschool of the Dead",
+    "SortingTitle": "",
+    "Author": "Daisuke Satou",
+    "Description": "A group of <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>high school students</b> and their school nurse find themselves caught in the middle of a catastrophic <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>zombie apocalypse</b> known as the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Outbreak</b>. As <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>society collapses</b> around them, they must fight for <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>survival</b> against both the <b style='color: #800080; text-shadow: 0 0 8px #800080;'>undead hordes</b> and dangerous <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>fellow survivors</b>. Escaping from their school into the <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>chaos</b> of the city, the group searches for their families while facing the harsh reality that their <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>moral codes</b> may be the next casualty. Each day brings new <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>threats</b>, testing their bonds and forcing impossible choices as they navigate a world where <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>trust</b> is rare and <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>death</b> lurks everywhere.",
+    "DescriptionArabic": "<div dir='rtl'>مجموعة من <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>طلاب المدرسة الثانوية</b> وممرضة مدرستهم يجدون أنفسهم محاصرين في وسط <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>نهاية العالم بالزومبي</b> المعروفة باسم <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الاندلاع</b>. بينما <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>ينهار المجتمع</b> من حولهم، يجب عليهم القتال من أجل <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>البقاء</b> ضد كل من <b style='color: #800080; text-shadow: 0 0 8px #800080;'>جحافل الموتى الأحياء</b> و<b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>الناجين الخطرين</b>. بالهروب من مدرستهم إلى <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>الفوضى</b> في المدينة، تبحث المجموعة عن عائلاتهم بينما تواجه الحقيقة القاسية بأن <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>قواعدهم الأخلاقية</b> قد تكون الضحية التالية. كل يوم يجلب <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>تهديدات</b> جديدة، يختبر روابطهم ويفرض خيارات مستحيلة بينما يتنقلون في عالم حيث <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>الثقة</b> نادرة و<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الموت</b> يكمن في كل مكان.</div>",
+    "ReleaseDate": "2006",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Highschool%20of%20the%20Dead%20Cover.jpg",
+    "Genre": [
+      "Horror"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00283.zip",
+        "fileSize": "514 MB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761295392644_7",
+    "Title": "Noragami",
+    "SortingTitle": "",
+    "Author": "Adachitoka",
+    "Description": "<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Yato</b> is a <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>minor god</b> without a single shrine or follower, doing odd jobs for <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>five yen</b> while dreaming of becoming famous. His life takes an unexpected turn when <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Hiyori Iki</b>, a high school girl, saves him from an oncoming bus and ends up with her <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>soul</b> loosened from her body. Now able to slip between the <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>mortal world</b> and the <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>spirit realm</b>, Hiyori seeks Yato's help to return to normal. Together with <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Yukine</b>, a wandering spirit who becomes Yato's <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>sacred weapon</b>, they battle malevolent <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>phantoms</b> while uncovering Yato's <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>mysterious past</b> and divine <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>secrets</b>.",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>ياتو</b> هو <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>إله صغير</b> بدون ضريح واحد أو تابع، يقوم بأعمال غريبة مقابل <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>خمسة ين</b> بينما يحلم بأن يصبح مشهورًا. تأخذ حياته منعطفًا غير متوقع عندما تنقذه <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>هيوري إيكي</b>، طالبة في المدرسة الثانوية، من حافلة قادمة وينتهي بها الأمر مع <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>روحها</b> منفصلة عن جسدها. الآن قادرة على الانزلاق بين <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>العالم البشري</b> و<b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>عالم الأرواح</b>، تطلب هيوري مساعدة ياتو للعودة إلى طبيعتها. معًا مع <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>يوكيني</b>، روح متجولة تصبح <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>سلاح ياتو المقدس</b>، يحاربون <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الأشباح</b> الخبيثة بينما يكشفون عن <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>ماضي ياتو الغامض</b> و<b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>أسراره</b> الإلهية.</div>",
+    "ReleaseDate": "2010",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Noragami%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00284.zip",
+        "fileSize": "9 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761295392644_8",
+    "Title": "Pandora Hearts",
+    "SortingTitle": "",
+    "Author": "Jun Mochizuki",
+    "Description": "On his fifteenth birthday, <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Oz Vessalius</b>, heir to a <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>noble house</b>, is condemned for the <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>sin</b> of his existence and cast into the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Abyss</b>, a dark otherworldly dimension. There he encounters <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Alice</b>, the infamous <b style='color: #800080; text-shadow: 0 0 8px #800080;'>Bloody Black Rabbit</b>, and forms a <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>contract</b> with her to escape. Upon returning to the human world, Oz discovers that ten years have passed, though he hasn't aged. Taken under the wing of <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Pandora</b>, an organization investigating the Abyss and the catastrophic <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Tragedy of Sablier</b> from a century ago, Oz searches for the truth behind his condemnation. As he delves deeper into the <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>mysteries</b> of the Abyss, he uncovers shocking <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>secrets</b> about his past and the <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>dark conspiracy</b> surrounding his fate.",
+    "DescriptionArabic": "<div dir='rtl'>في عيد ميلاده الخامس عشر، <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>أوز فيساليوس</b>، وريث <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>عائلة نبيلة</b>، يُدان بسبب <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>خطيئة</b> وجوده ويُلقى في <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الهاوية</b>، بُعد مظلم من عالم آخر. هناك يلتقي <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>أليس</b>، <b style='color: #800080; text-shadow: 0 0 8px #800080;'>الأرنب الأسود الدموي</b> سيئ السمعة، ويشكل <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>عقداً</b> معها للهروب. عند عودته إلى العالم البشري، يكتشف أوز أن عشر سنوات قد مرت، على الرغم من أنه لم يتقدم في السن. تحت جناح <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>باندورا</b>، منظمة تحقق في الهاوية و<b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>مأساة سابلير</b> الكارثية من قرن مضى، يبحث أوز عن الحقيقة وراء إدانته. بينما يتعمق في <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الألغاز</b> الخاصة بالهاوية، يكشف <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>أسراراً</b> صادمة عن ماضيه و<b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>المؤامرة المظلمة</b> المحيطة بمصيره.</div>",
+    "ReleaseDate": "2006",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Pandora%20Hearts%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00285.zip",
+        "fileSize": "2 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761295392644_9",
+    "Title": "Pluto Urasawa x Tezuka",
+    "SortingTitle": "",
+    "Author": "Naoki Urasawa",
+    "Description": "In a futuristic world where <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>robots</b> and humans coexist, a string of mysterious <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>murders</b> begins targeting both advanced robots and prominent humans. <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Gesicht</b>, a brilliant <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Europol detective</b> who happens to be a robot himself, investigates the perplexing cases. The victims include members of the <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>seven most advanced robots</b> in the world, leaving behind a trail of <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>twisted metal</b> shaped like horns. As Gesicht delves deeper into the <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>investigation</b>, he uncovers connections to a past <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>war</b> and realizes he too is on the <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>killer's list</b>. This dark reimagining of Osamu Tezuka's classic explores themes of <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>artificial intelligence</b>, <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>consciousness</b>, and the true meaning of <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>humanity</b>.",
+    "DescriptionArabic": "<div dir='rtl'>في عالم مستقبلي حيث يتعايش <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>الروبوتات</b> والبشر، تبدأ سلسلة من <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>جرائم القتل</b> الغامضة باستهداف كل من الروبوتات المتقدمة والبشر البارزين. <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>جيزيخت</b>، <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>محقق يوروبول</b> اللامع الذي يصادف أنه روبوت بنفسه، يحقق في القضايا المحيرة. الضحايا يشملون أعضاء <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>أكثر سبعة روبوتات تقدماً</b> في العالم، تاركين وراءهم أثراً من <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>المعدن الملتوي</b> على شكل قرون. بينما يتعمق جيزيخت في <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>التحقيق</b>، يكشف عن صلات <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>بحرب</b> ماضية ويدرك أنه أيضاً على <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>قائمة القاتل</b>. هذا التفسير المظلم لكلاسيكية أوسامو تيزوكا يستكشف موضوعات <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>الذكاء الاصطناعي</b> و<b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>الوعي</b> والمعنى الحقيقي <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>للإنسانية</b>.</div>",
+    "ReleaseDate": "2003",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Pluto%20Urasawa%20x%20Tezuka%20Cover.jpg",
+    "Genre": [
+      "Mystery"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00286.zip",
+        "fileSize": "3 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761295392644_10",
+    "Title": "Prison School",
+    "SortingTitle": "",
+    "Author": "Akira Hiramoto",
+    "Description": "Five <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>boys</b> become the first male students at <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Hachimitsu Academy</b>, a formerly all-girls school renowned for its strict regulations. Their curiosity leads them to infiltrate the girls' <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>bathing area</b>, resulting in their capture by the fearsome <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Underground Student Council</b>. As <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>punishment</b>, they're imprisoned in the school's <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Prison Block</b> for one month, facing an ultimatum: endure their sentence or face <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>expulsion</b>. Within the prison, the boys face <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>humiliating punishments</b>, brutal physical labor, and the constant scrutiny of their strict <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>overseers</b>. Their comedic attempts to <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>survive</b>, find love, and integrate into the school create an absurd tale of <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>perseverance</b> and <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>unlikely friendship</b>.",
+    "DescriptionArabic": "<div dir='rtl'>خمسة <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>فتيان</b> يصبحون أول طلاب ذكور في <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>أكاديمية هاتشيميتسو</b>، مدرسة كانت للبنات فقط ومشهورة بلوائحها الصارمة. فضولهم يقودهم لاختراق <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>منطقة استحمام الفتيات</b>، مما يؤدي إلى القبض عليهم من قبل <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>مجلس الطلاب السري</b> المخيف. <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>كعقاب</b>، يُسجنون في <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>كتلة السجن</b> بالمدرسة لمدة شهر واحد، يواجهون إنذاراً نهائياً: تحمل عقوبتهم أو مواجهة <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الطرد</b>. داخل السجن، يواجه الأولاد <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>عقوبات مهينة</b>، عمل بدني وحشي، والمراقبة المستمرة من <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>المشرفين</b> الصارمين. محاولاتهم الكوميدية <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>للبقاء</b>، إيجاد الحب، والاندماج في المدرسة تخلق حكاية سخيفة عن <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>المثابرة</b> و<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>الصداقة غير المتوقعة</b>.</div>",
+    "ReleaseDate": "2011",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Prison%20School%20Cover.jpg",
+    "Genre": [
+      "Comedy"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00287.zip",
+        "fileSize": "2 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761295392644_11",
+    "Title": "Rosario Plus Vampire",
+    "SortingTitle": "",
+    "Author": "Akihisa Ikeda",
+    "Description": "<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Tsukune Aono</b> is an ordinary teenager with terrible grades who ends up enrolled at <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>Yokai Academy</b>, a <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>boarding school</b> that turns out to be for <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>monsters</b>. On his first day, he meets the beautiful <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Moka Akashiya</b>, who instantly takes a liking to him and his <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>blood</b>. As the only <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>human</b> in a school full of supernatural beings, Tsukune must keep his identity <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>secret</b> or face certain death. Moka wears a <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>rosario cross</b> that seals her true nature as a powerful <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>vampire</b>; when removed, she transforms into a fierce fighter with a cold <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>personality</b>. Together they face dangerous <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>monsters</b>, form unlikely <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>friendships</b>, and navigate the perils of school life in a world where humans are considered <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>prey</b>.",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>تسوكوني أونو</b> مراهق عادي بدرجات سيئة ينتهي به المطاف مسجلاً في <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>أكاديمية يوكاي</b>، <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>مدرسة داخلية</b> تتبين أنها <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>للوحوش</b>. في يومه الأول، يلتقي بالجميلة <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>موكا أكاشيا</b>، التي تُعجب به على الفور وبـ<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>دمه</b>. كـ<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>إنسان</b> وحيد في مدرسة مليئة بالكائنات الخارقة، يجب على تسوكوني إبقاء هويته <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>سرية</b> أو يواجه الموت المؤكد. موكا ترتدي <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>صليب الروزاريو</b> الذي يختم طبيعتها الحقيقية كـ<b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>مصاصة دماء</b> قوية؛ عند إزالته، تتحول إلى مقاتلة شرسة ذات <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>شخصية</b> باردة. معاً يواجهون <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>وحوشاً</b> خطرة، يشكلون <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>صداقات</b> غير متوقعة، ويتنقلون في مخاطر الحياة المدرسية في عالم حيث البشر يُعتبرون <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>فريسة</b>.</div>",
+    "ReleaseDate": "2004",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Rosario%20Plus%20Vampire%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00288.zip",
+        "fileSize": "2 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761295392644_12",
+    "Title": "Sankarea Undying Love",
+    "SortingTitle": "",
+    "Author": "Mitsuru Hattori",
+    "Description": "<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Chihiro Furuya</b> is a high school boy with an unusual obsession with <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>zombies</b>. When his beloved pet cat <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Babu</b> dies, he attempts to resurrect it using an ancient <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>manuscript</b> and a special potion made from poisonous <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>hydrangea</b> flowers. During his experiments, he encounters <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Rea Sanka</b>, a beautiful girl from a wealthy family who's desperate to escape her oppressive home life. In an attempt to end her suffering, Rea drinks the <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>resurrection potion</b>, but nothing happens. After a tragic <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>accident</b> causes her death, the potion finally takes effect and Rea awakens as a <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>zombie</b>. Now Chihiro must help Rea navigate her new <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>undead existence</b>, sustaining herself on hydrangea leaves while they develop an unusual <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>romance</b> that transcends life and <b style='color: #800080; text-shadow: 0 0 8px #800080;'>death</b>.",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>تشيهيرو فورويا</b> فتى في المدرسة الثانوية لديه هوس غير عادي بـ<b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الزومبي</b>. عندما تموت قطته الحبيبة <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>بابو</b>، يحاول إحياءها باستخدام <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>مخطوطة</b> قديمة وجرعة خاصة مصنوعة من زهور <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الهدرانجيا</b> السامة. أثناء تجاربه، يلتقي <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>ريا سانكا</b>، فتاة جميلة من عائلة ثرية يائسة للهروب من حياتها المنزلية القمعية. في محاولة لإنهاء معاناتها، تشرب ريا <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>جرعة الإحياء</b>، لكن لا يحدث شيء. بعد <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>حادث</b> مأساوي يسبب موتها، تعمل الجرعة أخيراً وتستيقظ ريا كـ<b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>زومبي</b>. الآن يجب على تشيهيرو مساعدة ريا في التنقل في <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>وجودها كأموات أحياء</b>، تعيش على أوراق الهدرانجيا بينما يطوران <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>رومانسية</b> غير عادية تتجاوز الحياة و<b style='color: #800080; text-shadow: 0 0 8px #800080;'>الموت</b>.</div>",
+    "ReleaseDate": "2009",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Sankarea%20Undying%20Love%20Cover.jpg",
+    "Genre": [
+      "Romance"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00289.zip",
+        "fileSize": "2 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761295392644_13",
+    "Title": "Solanin",
+    "SortingTitle": "",
+    "Author": "Inio Asano",
+    "Description": "<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Meiko</b> and <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Taneda</b> are young adults who graduated from <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>university</b> two years ago, now facing the harsh <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>reality</b> of adult life. Meiko works as an <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>office lady</b> to pay rent, while Taneda pursues his passion as an <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>illustrator</b> and plays in a <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>band</b> with his university friends. Both struggle with a lack of <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>direction</b> and purpose in their lives, uncertain about their <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>future</b>. As they navigate the mundane routines of daily life, their relationship faces tests from <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>boredom</b>, <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>uncertainty</b>, and the weight of unfulfilled <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>dreams</b>. This poignant story explores the universal struggle between pursuing your <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>passions</b> and accepting the responsibilities of adulthood, capturing the <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>melancholy</b> of post-graduation life.",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>ميكو</b> و<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>تانيدا</b> شابان تخرجا من <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الجامعة</b> قبل عامين، يواجهان الآن <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>واقع</b> الحياة القاسي للبالغين. تعمل ميكو كـ<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>موظفة مكتب</b> لدفع الإيجار، بينما يتابع تانيدا شغفه كـ<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>رسام</b> ويعزف في <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>فرقة</b> مع أصدقائه من الجامعة. كلاهما يكافح من أجل <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>التوجيه</b> والهدف في حياتهما، غير متأكدين من <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>مستقبلهما</b>. بينما يتنقلان في روتين الحياة اليومية الرتيب، تواجه علاقتهما اختبارات من <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الملل</b> و<b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>عدم اليقين</b> وثقل <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>الأحلام</b> غير المحققة. تستكشف هذه القصة المؤثرة الصراع العالمي بين السعي وراء <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>شغفك</b> وقبول مسؤوليات البلوغ، ملتقطةً <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>الكآبة</b> في حياة ما بعد التخرج.</div>",
+    "ReleaseDate": "2005",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Solanin%20Cover.jpg",
+    "Genre": [
+      "Drama"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00290.zip",
+        "fileSize": "469 MB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761295392644_14",
+    "Title": "Soul Eater",
+    "SortingTitle": "",
+    "Author": "Atsushi Ohkubo",
+    "Description": "At the <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Death Weapon Meister Academy</b>, students train to become <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>meisters</b> who partner with human <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>weapons</b> capable of transforming into deadly armaments. <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Maka Albarn</b>, <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Black Star</b>, and <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Death the Kid</b> lead three teams striving to create <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Death Scythes</b> worthy of being wielded by <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Lord Death</b> himself, the academy's headmaster and personification of death. To achieve this goal, they must collect the <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>souls</b> of ninety-nine evil humans and one <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>witch</b> in that exact order. Their weapons—<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Soul Eater</b>, Tsubaki, and the Thompson sisters—grow stronger with each consumed soul. Together, these teams battle <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>evil forces</b> threatening the world while navigating the challenges of <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>partnership</b>, friendship, and personal growth in a darkly stylized world.",
+    "DescriptionArabic": "<div dir='rtl'>في <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>أكاديمية أسياد الأسلحة الموت</b>، يتدرب الطلاب ليصبحوا <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>أسياداً</b> يشاركون مع <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>أسلحة</b> بشرية قادرة على التحول إلى أسلحة قاتلة. <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>ماكا ألبارن</b> و<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>بلاك ستار</b> و<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>ديث ذا كيد</b> يقودون ثلاثة فرق تسعى لإنشاء <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>منجل الموت</b> الجدير بأن يُستخدم من قبل <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>لورد ديث</b> نفسه، مدير الأكاديمية وتجسيد الموت. لتحقيق هذا الهدف، يجب عليهم جمع <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>أرواح</b> تسعة وتسعين إنساناً شريراً و<b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>ساحرة</b> واحدة بهذا الترتيب بالضبط. أسلحتهم—<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>سول إيتر</b> وتسوباكي وأخوات تومبسون—تصبح أقوى مع كل روح تُستهلك. معاً، تحارب هذه الفرق <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>قوى الشر</b> التي تهدد العالم بينما تتنقل في تحديات <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>الشراكة</b> والصداقة والنمو الشخصي في عالم مظلم منمق.</div>",
+    "ReleaseDate": "2004",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Soul%20Eater%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00291.zip",
+        "fileSize": "2 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761295392644_15",
+    "Title": "Sun Ken Rock",
+    "SortingTitle": "",
+    "Author": "Boichi",
+    "Description": "<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Ken</b> is a high school <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>delinquent</b> who drops out and travels to <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Korea</b> to follow <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Yumin</b>, the girl he loves who rejected him to become a <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>police officer</b>. Desperate to impress her, Ken tries to join the police force himself but through a twist of <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>fate</b>, accidentally becomes the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>leader</b> of a local gang. Determined to hide his criminal life from Yumin, Ken transforms his small group into the powerful <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Sun-Ken Rock Group</b>. As the gang expands its <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>territory</b> and influence, Ken walks a dangerous line between his <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>criminal empire</b> and his love for a police officer. When Yumin is kidnapped by her own organization, Ken must reveal his true identity to save her, leading to a confrontation with his <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>greatest rival</b>. This intense tale blends romance, action, and the struggle between <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>love</b> and <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>duty</b>.",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>كين</b> هو <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>جانح</b> في المدرسة الثانوية يترك الدراسة ويسافر إلى <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>كوريا</b> ليتبع <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>يومين</b>، الفتاة التي يحبها والتي رفضته لتصبح <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>ضابطة شرطة</b>. يائساً لإثارة إعجابها، يحاول كين الانضمام إلى قوة الشرطة بنفسه لكن من خلال التواء <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>القدر</b>، يصبح عن طريق الخطأ <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>قائداً</b> لعصابة محلية. مصمماً على إخفاء حياته الإجرامية عن يومين، يحول كين مجموعته الصغيرة إلى <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>مجموعة سان كين روك</b> القوية. بينما توسع العصابة <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>أراضيها</b> ونفوذها، يسير كين على خط خطير بين <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>إمبراطوريته الإجرامية</b> وحبه لضابطة شرطة. عندما تُختطف يومين من قبل منظمتها الخاصة، يجب على كين الكشف عن هويته الحقيقية لإنقاذها، مما يؤدي إلى مواجهة مع <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>أعظم منافسيه</b>. تمزج هذه الحكاية المكثفة بين الرومانسية والحركة والصراع بين <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>الحب</b> و<b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>الواجب</b>.</div>",
+    "ReleaseDate": "2006",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Sun%20Ken%20Rock%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00292.zip",
+        "fileSize": "2 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761295392644_16",
+    "Title": "The Breaker",
+    "SortingTitle": "",
+    "Author": "Jeon Geuk-jin",
+    "Description": "<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Shiwoon Yi</b> is a timid and <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>constantly bullied</b> high school student with no confidence. His life changes dramatically when he discovers his substitute teacher <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Chunwoo Han</b> is actually a feared <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>martial artist</b> known as the <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Nine Arts Dragon</b>. After witnessing Chunwoo's incredible fighting abilities, Shiwoon begs to become his <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>disciple</b>. Reluctantly, Chunwoo agrees and begins training the weak boy in the ways of <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>martial arts</b>. However, this training comes at a dangerous price: Chunwoo is an <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>enemy</b> of the <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Murim</b>, a secret society of martial artists governed by the Martial Arts Alliance. As Shiwoon grows stronger and more <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>confident</b>, he becomes entangled in his master's <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>vendetta</b> against the organization that killed his teacher. The boy's transformation from coward to warrior sets him on a path of <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>danger</b> and <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>destiny</b>.",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>شيوون يي</b> طالب ثانوية خجول و<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>يتعرض للتنمر باستمرار</b> بلا ثقة. تتغير حياته بشكل كبير عندما يكتشف أن معلمه البديل <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>تشونوو هان</b> هو في الواقع <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>فنان قتالي</b> مخيف معروف باسم <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>تنين الفنون التسعة</b>. بعد مشاهدة قدرات تشونوو القتالية المذهلة، يتوسل شيوون ليصبح <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>تلميذه</b>. على مضض، يوافق تشونوو ويبدأ في تدريب الفتى الضعيف في طرق <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الفنون القتالية</b>. ومع ذلك، يأتي هذا التدريب بثمن خطير: تشونوو هو <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>عدو</b> <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>الموريم</b>، مجتمع سري من فناني القتال يحكمه تحالف الفنون القتالية. بينما ينمو شيوون أقوى وأكثر <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>ثقة</b>، يتورط في <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>ثأر</b> سيده ضد المنظمة التي قتلت معلمه. تحول الفتى من جبان إلى محارب يضعه على طريق <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>الخطر</b> و<b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>القدر</b>.</div>",
+    "ReleaseDate": "2007",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Breaker%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00293.zip",
+        "fileSize": "556 MB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761295392644_17",
+    "Title": "The Breaker New Waves",
+    "SortingTitle": "",
+    "Author": "Jeon Geuk-jin",
+    "Description": "The sequel continues <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Shiwoon's</b> story after his master <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Chunwoo Han</b> destroyed his <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>ki-center</b>, stripping him of his martial arts abilities. Believing his time with the <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Murim</b> is over, Shiwoon declines his position as head of the <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Sunwoo Clan</b>. However, as the sole disciple of the <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Nine Arts Dragon</b>, he remains a target for vengeful clans. Meanwhile, the <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Martial Arts Alliance</b> loses control as a new terrorist group called <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>SUC</b> emerges, committing atrocities under his teacher's name. When <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Sera Kang</b> helps restore Shiwoon's ki-center through a series of dangerous events, he gains a new resolve: to destroy SUC and protect his master's <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>reputation</b>. Shiwoon must navigate the treacherous world of martial arts once more, facing both old <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>enemies</b> and new <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>threats</b> in his quest for <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>justice</b>.",
+    "DescriptionArabic": "<div dir='rtl'>يستمر التكملة في قصة <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>شيوون</b> بعد أن دمر معلمه <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>تشونوو هان</b> <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>مركز الطاقة</b> لديه، محروماً من قدراته في الفنون القتالية. معتقداً أن وقته مع <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>الموريم</b> قد انتهى، يرفض شيوون منصبه كرئيس <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>عشيرة سونوو</b>. ومع ذلك، كتلميذ وحيد لـ<b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>تنين الفنون التسعة</b>، يظل هدفاً للعشائر المنتقمة. في هذه الأثناء، يفقد <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>تحالف الفنون القتالية</b> السيطرة بينما تظهر مجموعة إرهابية جديدة تدعى <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>SUC</b>، ترتكب فظائع باسم معلمه. عندما تساعد <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>سيرا كانغ</b> في استعادة مركز طاقة شيوون من خلال سلسلة من الأحداث الخطيرة، يكتسب عزماً جديداً: تدمير SUC وحماية <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>سمعة</b> سيده. يجب على شيوون التنقل في عالم الفنون القتالية الغادر مرة أخرى، مواجهة <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>أعداء</b> قدامى و<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>تهديدات</b> جديدة في سعيه من أجل <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>العدالة</b>.</div>",
+    "ReleaseDate": "2010",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Breaker%20New%20Waves%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00294.zip",
+        "fileSize": "1 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761295392644_18",
+    "Title": "Tomo chan is a Girl",
+    "SortingTitle": "",
+    "Author": "Fumita Yanagida",
+    "Description": "<b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Tomo Aizawa</b> is a <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>tomboy</b> who has been hopelessly in love with her <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>childhood best friend</b> <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Junichiro Kubota</b> for as long as she can remember. Despite her strong feelings, Jun only sees her as <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>one of the boys</b> and has no romantic interest in her whatsoever. Tomo's <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>tomboyish nature</b>, martial arts skills, and rough manner make it difficult for Jun to see her as a <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>girl</b>. Determined to make him recognize her <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>femininity</b> and reciprocate her feelings, Tomo tries various approaches to get closer to him. With the help of her <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>friends</b>, she navigates the daily challenges of <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>unrequited love</b> while dealing with Jun's complete <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>obliviousness</b> to her romantic intentions. This four-panel comedy chronicles Tomo's hilarious and heartwarming attempts to transform from a <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>buddy</b> into a <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>girlfriend</b>.",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>تومو أيزاوا</b> <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>فتاة ولد</b> وقعت في حب <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>صديق طفولتها المفضل</b> <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>جونيتشيرو كوبوتا</b> منذ أن تتذكر. على الرغم من مشاعرها القوية، جون يراها فقط كـ<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>واحد من الأولاد</b> وليس لديه أي اهتمام رومانسي بها على الإطلاق. <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>طبيعة تومو كفتاة ولد</b>، مهاراتها في الفنون القتالية، وأسلوبها الخشن تجعل من الصعب على جون رؤيتها كـ<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>فتاة</b>. مصممة على جعله يدرك <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>أنوثتها</b> ويبادلها مشاعرها، تحاول تومو طرقاً مختلفة للاقتراب منه. بمساعدة <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>أصدقائها</b>، تتنقل في التحديات اليومية <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>للحب غير المتبادل</b> بينما تتعامل مع <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>غفلة</b> جون الكاملة عن نواياها الرومانسية. تؤرخ هذه الكوميديا ذات الأربع لوحات محاولات تومو المضحكة والمؤثرة للتحول من <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>صديقة</b> إلى <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>حبيبة</b>.</div>",
+    "ReleaseDate": "2015",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Tomo%20chan%20is%20a%20Girl%20Cover.jpg",
+    "Genre": [
+      "Comedy"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00295.zip",
+        "fileSize": "2 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761295392644_19",
+    "Title": "Yamada kun and the Seven Witches",
+    "SortingTitle": "",
+    "Author": "Miki Yoshikawa",
+    "Description": "<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Ryu Yamada</b> is a bored <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>delinquent</b> who accidentally falls down the stairs onto <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Urara Shiraishi</b>, the school's top student. When they accidentally <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>kiss</b>, they discover they've swapped bodies, revealing Urara's <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>witch power</b> to exchange souls with anyone she kisses. Yamada soon awakens his own ability: copying any witch's power through a kiss. Together with the clever <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Toranosuke Miyamura</b> and curious <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Miyabi Itou</b>, they form the <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Supernatural Phenomena Research Society</b> to hunt down and uncover all <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>seven witches</b> hidden in their school. Each witch possesses a unique <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>supernatural ability</b> activated through kissing. As Yamada encounters each witch, he copies their powers and uncovers deeper <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>mysteries</b> about the school's past. The series blends supernatural elements with romance and comedy as Yamada navigates complex <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>relationships</b> while solving the enigma of the <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>witches</b>.",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>ريو ياماداء</b> <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>جانح</b> يشعر بالملل يسقط عن طريق الخطأ من الدرج على <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>أورارا شيرايشي</b>، الطالبة الأولى في المدرسة. عندما يتبادلون <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>قبلة</b> بالخطأ، يكتشفون أنهم تبادلوا الأجساد، كاشفين عن <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>قوة الساحرة</b> لأورارا لتبادل الأرواح مع أي شخص تقبّله. سرعان ما يوقظ ياماداء قدرته الخاصة: نسخ قوة أي ساحرة من خلال قبلة. معاً مع <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>توارانوسوكي ميامورا</b> الذكي و<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>ميابي إيتو</b> الفضولية، يشكلون <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>جمعية بحث الظواهر الخارقة</b> لمطاردة وكشف كل <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>السبع ساحرات</b> المختبئات في مدرستهم. كل ساحرة تمتلك <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>قدرة خارقة</b> فريدة يتم تفعيلها من خلال التقبيل. بينما يواجه ياماداء كل ساحرة، ينسخ قواها ويكشف <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>ألغازاً</b> أعمق حول ماضي المدرسة. تمزج السلسلة عناصر خارقة مع الرومانسية والكوميديا بينما يتنقل ياماداء في <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>علاقات</b> معقدة بينما يحل لغز <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الساحرات</b>.</div>",
+    "ReleaseDate": "2012",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Yamada%20kun%20and%20the%20Seven%20Witches%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00296.zip",
+        "fileSize": "8 GB"
+      }
+    ],
+    "audiobooksUrl": []
   }
 ]
