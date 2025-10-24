@@ -8635,5 +8635,369 @@
       }
     ],
     "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761284118090_0",
+    "Title": "Claymore",
+    "SortingTitle": "",
+    "Author": "Norihiro Yagi",
+    "Description": "On a <b style='color: #696969; text-shadow: 0 0 8px #696969;'>medieval island</b>, humanity lives in terror of <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Yoma</b>—shape-shifting monsters that feast on human flesh and blend seamlessly among their prey.<br>A mysterious group known as <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>The Organization</b> creates <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>half-human, half-Yoma warriors</b> to hunt these creatures for a fee.<br>These <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>silver-eyed</b> female fighters wield massive <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>claymore swords</b> and walk the thin line between humanity and monstrosity.<br>The story follows <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Clare</b>, the lowest-ranked Claymore warrior, as she battles <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>demons</b> while carrying a <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>dark secret</b> from her past.<br>After saving a village, she encounters <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Raki</b>, a young boy who becomes her companion on a journey filled with <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>betrayal</b>, <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>sacrifice</b>, and the revelation of The Organization's true nature.<br>As Clare confronts increasingly powerful <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>awakened beings</b>—Claymores who surrendered to their demonic side—she must decide whether to remain human or embrace the <b style='color: #800000; text-shadow: 0 0 8px #800000;'>monster within</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>على <b style='color: #696969; text-shadow: 0 0 8px #696969;'>جزيرة قروسطية</b>، تعيش البشرية في رعب من <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>اليوما</b>—وحوش متحولة الشكل تتغذى على لحم البشر وتمتزج بسلاسة بين فرائسها.<br>تنشئ مجموعة غامضة تُعرف بـ<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>المنظمة</b> <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>محاربات نصف بشر ونصف يوما</b> لمطاردة هذه المخلوقات مقابل أجر.<br>هؤلاء المقاتلات <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الفضيات العيون</b> يحملن <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>سيوف كليمور</b> ضخمة ويسرن على الخط الرفيع بين الإنسانية والوحشية.<br>تتبع القصة <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>كلير</b>، محاربة كليمور الأدنى رتبة، وهي تحارب <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الشياطين</b> بينما تحمل <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>سراً مظلماً</b> من ماضيها.<br>بعد إنقاذ قرية، تلتقي بـ<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>راكي</b>، صبي صغير يصبح رفيقها في رحلة مليئة بـ<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الخيانة</b>، <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>التضحية</b> والكشف عن الطبيعة الحقيقية للمنظمة.<br>بينما تواجه كلير <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>كائنات متيقظة</b> أقوى—محاربات كليمور استسلمن لجانبهن الشيطاني—يجب عليها أن تقرر ما إذا كانت ستبقى بشرية أم تحتضن <b style='color: #800000; text-shadow: 0 0 8px #800000;'>الوحش بداخلها</b>.<br></div>",
+    "ReleaseDate": "2001",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Claymore%20Cover.jpg",
+    "Genre": [
+      "Dark Fantasy"
+    ],
+    "Tags": [
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00276.zip",
+        "fileSize": "6 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761284118090_1",
+    "Title": "Delicious in Dungeon",
+    "SortingTitle": "",
+    "Author": "Ryoko Kui",
+    "Description": "After a <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>disastrous dungeon raid</b> ends with <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Falin</b> being devoured by a <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Red Dragon</b>, her brother <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Laios</b> faces a desperate race against time.<br>With their party's <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>supplies</b> and <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>gold</b> lost in the chaos, Laios and his companions—<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Marcille</b> the elf mage and <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Chilchuck</b> the halfling lockpick—cannot afford traditional rations for the journey back.<br>Enter <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Senshi</b>, a <b style='color: #696969; text-shadow: 0 0 8px #696969;'>dwarf warrior</b> with an unconventional solution: survive by cooking and eating the <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>dungeon monsters</b> themselves.<br>As the party ventures deeper into the <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>labyrinth</b>, they feast on <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>walking mushrooms</b>, <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>giant scorpions</b>, and even <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>living armor</b>, discovering that dungeon cuisine holds unexpected flavors and nutritional value.<br>But time is running out—if they don't reach Falin before the dragon digests her, <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>resurrection magic</b> will become impossible.<br>Between culinary experiments and deadly encounters, Laios's party must navigate the dungeon's <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>ancient mysteries</b> while keeping their stomachs—and hopes—full.<br>",
+    "DescriptionArabic": "<div dir='rtl'>بعد <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>غارة كارثية على الزنزانة</b> تنتهي بالتهام <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>فالين</b> من قبل <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>تنين أحمر</b>، يواجه شقيقها <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>لايوس</b> سباقاً يائساً ضد الزمن.<br>مع فقدان <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>إمدادات</b> فريقهم و<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الذهب</b> في الفوضى، لا يستطيع لايوس ورفاقه—<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>مارسيل</b> الساحرة الإلفية و<b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>تشيلتشاك</b> قافل الأقفال القزم—تحمل تكلفة الحصص الغذائية التقليدية للرحلة العودة.<br>يدخل <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>سنشي</b>، <b style='color: #696969; text-shadow: 0 0 8px #696969;'>محارب قزم</b> مع حل غير تقليدي: البقاء على قيد الحياة من خلال طهي وأكل <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>وحوش الزنزانة</b> نفسها.<br>بينما يغامر الفريق في أعماق <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>المتاهة</b>، يتناولون <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>فطر متحرك</b>، <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>عقارب عملاقة</b>، وحتى <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>دروع حية</b>، مكتشفين أن مطبخ الزنزانة يحمل نكهات وقيمة غذائية غير متوقعة.<br>لكن الوقت ينفد—إذا لم يصلوا إلى فالين قبل أن يهضمها التنين، سيصبح <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>سحر البعث</b> مستحيلاً.<br>بين التجارب الطهوية والمواجهات المميتة، يجب على فريق لايوس التنقل عبر <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>ألغاز الزنزانة القديمة</b> مع إبقاء معداتهم—وآمالهم—ممتلئة.<br></div>",
+    "ReleaseDate": "2014",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Delicious%20in%20Dungeon%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00275.zip",
+        "fileSize": "1 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761284118090_2",
+    "Title": "Frieren Beyond Journey's End",
+    "SortingTitle": "",
+    "Author": "Kanehito Yamada, Tsukasa Abe",
+    "Description": "After a <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ten-year quest</b> to defeat the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Demon King</b>, the <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Hero's Party</b> has brought peace to the world.<br><b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Frieren</b>, an ancient <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>elven mage</b> who lived for over a thousand years, sees the quest as merely a brief chapter in her endless life.<br>When the party disbands, she bids farewell to <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Himmel the Hero</b>, <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Heiter the Priest</b>, and <b style='color: #696969; text-shadow: 0 0 8px #696969;'>Eisen the Warrior</b>, promising to meet again someday.<br>Fifty years pass like a whisper for Frieren, but when she returns, she discovers that her <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>human companions</b> have aged and changed while she remains unchanged.<br>At Himmel's <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>funeral</b>, Frieren is struck by a profound <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>regret</b>—she never truly understood her companions or cherished their fleeting time together.<br>Determined to learn about <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>humanity</b> and honor Himmel's memory, Frieren embarks on a new journey to the <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>resting place of souls</b>, hoping to reunite with her departed friend.<br>Along the way, she takes on <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>apprentices</b>, confronts her past, and slowly discovers the <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>weight of memories</b> in a world that moves faster than her ancient heart.<br>",
+    "DescriptionArabic": "<div dir='rtl'>بعد <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>مهمة عشر سنوات</b> لهزيمة <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>ملك الشياطين</b>، جلب <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>فريق البطل</b> السلام إلى العالم.<br><b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>فريرين</b>، <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>ساحرة إلفية</b> قديمة عاشت لأكثر من ألف عام، ترى المهمة مجرد فصل قصير في حياتها اللانهائية.<br>عندما ينحل الفريق، تودع <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>هيميل البطل</b>، <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>هايتر الكاهن</b>، و<b style='color: #696969; text-shadow: 0 0 8px #696969;'>آيزن المحارب</b>، واعدة بلقائهم مجدداً يوماً ما.<br>تمر خمسون عاماً كهمسة بالنسبة لفريرين، لكن عندما تعود، تكتشف أن <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>رفاقها البشر</b> قد شاخوا وتغيروا بينما بقيت هي دون تغيير.<br>في <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>جنازة</b> هيميل، تصاب فريرين <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>بندم</b> عميق—لم تفهم حقاً رفاقها أو تقدر وقتهم العابر معاً.<br>عازمة على التعلم عن <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الإنسانية</b> وتكريم ذكرى هيميل، تبدأ فريرين رحلة جديدة إلى <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>مكان راحة الأرواح</b>، آملة في لم شملها بصديقها الراحل.<br>على طول الطريق، تأخذ <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>متدربين</b>، تواجه ماضيها، وتكتشف ببطء <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>ثقل الذكريات</b> في عالم يتحرك أسرع من قلبها القديم.<br></div>",
+    "ReleaseDate": "2020",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Frieren%20Beyond%20Journey's%20End%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00274.zip",
+        "fileSize": "3 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761284118090_3",
+    "Title": "Goodnight Punpun",
+    "SortingTitle": "",
+    "Author": "Inio Asano",
+    "Description": "<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Onodera Punpun</b> begins life as an ordinary <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>elementary school boy</b>, depicted as a crudely-drawn bird in a world of realistic humans.<br>His <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>childhood innocence</b> shatters when his <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>dysfunctional family</b> spirals into violence and his father is arrested for domestic abuse.<br>As Punpun grows through <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>middle school</b> and <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>high school</b>, he navigates an increasingly complex maze of <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>first love</b>, <b style='color: #696969; text-shadow: 0 0 8px #696969;'>depression</b>, and <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>existential dread</b>.<br>His obsession with <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Aiko Tanaka</b>, a girl with her own troubled past, becomes both his salvation and his curse.<br>Through his <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>twenties</b>, Punpun's bird-like form evolves into darker, more abstract shapes reflecting his deteriorating <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>mental state</b>.<br>Surrounded by equally broken friends and family, Punpun struggles to find <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>meaning</b> in a world that seems determined to crush his <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>dreams</b>.<br>This unflinching exploration of <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>adolescence</b> and <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>adulthood</b> reveals the painful truth that growing up means confronting the darkest parts of yourself and the world around you.<br>",
+    "DescriptionArabic": "<div dir='rtl'>يبدأ <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>أونوديرا بونبون</b> الحياة <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>كصبي عادي في المدرسة الابتدائية</b>، مُصوَّر كطائر مرسوم بشكل بسيط في عالم من البشر الواقعيين.<br><b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>براءة طفولته</b> تتحطم عندما تنحدر <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>عائلته المختلة</b> إلى العنف ويُعتقل والده بتهمة الإساءة المنزلية.<br>بينما ينمو بونبون عبر <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>المدرسة المتوسطة</b> و<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الثانوية</b>، يتنقل في متاهة معقدة من <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>الحب الأول</b>، <b style='color: #696969; text-shadow: 0 0 8px #696969;'>الاكتئاب</b>، و<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الرهبة الوجودية</b>.<br>هوسه بـ<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>أيكو تاناكا</b>، فتاة لها ماضٍ مضطرب خاص بها، يصبح خلاصه ولعنته.<br>خلال <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>العشرينيات</b> من عمره، يتطور شكل بونبون الشبيه بالطائر إلى أشكال أكثر قتامة وتجريدية تعكس <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>حالته العقلية</b> المتدهورة.<br>محاطاً بأصدقاء وعائلة محطمين، يكافح بونبون للعثور على <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>معنى</b> في عالم يبدو مصمماً على سحق <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>أحلامه</b>.<br>هذا الاستكشاف الصريح لـ<b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>المراهقة</b> و<b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>البلوغ</b> يكشف الحقيقة المؤلمة أن النمو يعني مواجهة أحلك أجزاء نفسك والعالم من حولك.<br></div>",
+    "ReleaseDate": "2007",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Goodnight%20Punpun%20Cover.jpg",
+    "Genre": [
+      "Drama"
+    ],
+    "Tags": [
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00273.zip",
+        "fileSize": "4 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761284118090_4",
+    "Title": "Horimiya",
+    "SortingTitle": "",
+    "Author": "HERO, Daisuke Hagiwara",
+    "Description": "<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Kyouko Hori</b> appears to be the perfect <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>high school student</b>—popular, beautiful, and academically gifted.<br>But outside school, she lives a <b style='color: #696969; text-shadow: 0 0 8px #696969;'>hidden life</b>, caring for her younger brother and managing household duties while her parents work long hours.<br><b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Izumi Miyamura</b> seems like a <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>gloomy loner</b> with long hair and glasses, avoiding social interaction.<br>One day, Miyamura encounters Hori's <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>little brother</b> injured and brings him home, revealing his <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>true self</b>—a heavily tattooed and pierced young man with a trendy appearance.<br>As they discover each other's <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>secret identities</b>, an unexpected <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>friendship</b> blossoms into something deeper.<br>Together, they navigate <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>school life</b>, <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>first love</b>, and the complexities of showing your <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>authentic self</b> to the world.<br>Surrounded by a colorful cast of <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>friends and classmates</b>, Hori and Miyamura's relationship evolves from <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>mutual understanding</b> to genuine <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>romance</b>, proving that everyone has hidden depths beneath their public persona.<br>",
+    "DescriptionArabic": "<div dir='rtl'>تبدو <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>كيوكو هوري</b> <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>طالبة ثانوية</b> مثالية—شعبية، جميلة، وموهوبة أكاديمياً.<br>لكن خارج المدرسة، تعيش <b style='color: #696969; text-shadow: 0 0 8px #696969;'>حياة مخفية</b>، ترعى شقيقها الأصغر وتدير واجبات المنزل بينما يعمل والداها ساعات طويلة.<br>يبدو <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>إيزومي مياتشينما</b> <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>كمنعزل كئيب</b> بشعر طويل ونظارات، يتجنب التفاعل الاجتماعي.<br>في يوم من الأيام، يلتقي ميامورا <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>بشقيق</b> هوري الصغير المصاب ويحضره إلى المنزل، كاشفاً عن <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>ذاته الحقيقية</b>—شاب موشوم بكثافة ومثقوب بمظهر عصري.<br>بينما يكتشفان <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>هويات بعضهما السرية</b>، تزدهر <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>صداقة</b> غير متوقعة لتتحول إلى شيء أعمق.<br>معاً، يتنقلان في <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>حياة المدرسة</b>، <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الحب الأول</b>، وتعقيدات إظهار <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>ذاتك الحقيقية</b> للعالم.<br>محاطين بطاقم ملون من <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>الأصدقاء وزملاء الدراسة</b>، تتطور علاقة هوري وميامورا من <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>التفاهم المتبادل</b> إلى <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>رومانسية</b> حقيقية، مثبتين أن لكل شخص أعماق مخفية تحت شخصيته العامة.<br></div>",
+    "ReleaseDate": "2011",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Horimiya%20Cover.jpg",
+    "Genre": [
+      "Romance"
+    ],
+    "Tags": [
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00272.zip",
+        "fileSize": "1 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761284118090_5",
+    "Title": "Kaguya sama Love Is War",
+    "SortingTitle": "",
+    "Author": "Aka Akasaka",
+    "Description": "At the prestigious <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Shuchiin Academy</b>, <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Kaguya Shinomiya</b>—daughter of a powerful conglomerate—serves as <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>vice president</b> of the student council.<br><b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Miyuki Shirogane</b>, the school's top student from a modest background, holds the position of <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>president</b>.<br>Both are brilliant, beautiful, and secretly <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>in love</b> with each other—but neither will confess.<br>In their minds, whoever confesses first <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>loses</b>, becoming the inferior party in the relationship.<br>What follows is an escalating <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>war of romantic schemes</b> as each tries to manipulate the other into confessing their feelings first.<br>From elaborate <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>mind games</b> to accidental <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>moments of vulnerability</b>, Kaguya and Miyuki engage in a battle of wits where <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>pride</b> and <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>love</b> collide.<br>Caught between them are their fellow council members: the airheaded <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Chika Fujiwara</b> and the pessimistic <b style='color: #696969; text-shadow: 0 0 8px #696969;'>Yu Ishigami</b>.<br>In this <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>romantic comedy</b> of geniuses, the question remains: who will crack first and surrender to their <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>true feelings</b>?<br>",
+    "DescriptionArabic": "<div dir='rtl'>في <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>أكاديمية شوتشيين</b> المرموقة، تخدم <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>كاغويا شينوميا</b>—ابنة تكتل قوي—<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>كنائبة للرئيس</b> في مجلس الطلاب.<br><b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>مي يوكي شيروغاني</b>، الطالب الأول في المدرسة من خلفية متواضعة، يشغل منصب <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الرئيس</b>.<br>كلاهما عبقري، جميل، و<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>مغرم</b> سراً ببعضهما البعض—لكن لا أحد سيعترف.<br>في أذهانهم، من يعترف أولاً <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>يخسر</b>، ليصبح الطرف الأدنى في العلاقة.<br>ما يتبع هو <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>حرب رومانسية متصاعدة من المؤامرات</b> حيث يحاول كل منهما التلاعب بالآخر للاعتراف بمشاعره أولاً.<br>من <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>ألعاب العقل</b> المعقدة إلى <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>لحظات الضعف</b> العرضية، يخوض كاغويا ومييوكي معركة ذكاء حيث يصطدم <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الكبرياء</b> و<b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>الحب</b>.<br>محاصران بينهما أعضاء المجلس الآخرون: <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>تشيكا فوجيوارا</b> المشتتة و<b style='color: #696969; text-shadow: 0 0 8px #696969;'>يو إيشيغامي</b> المتشائم.<br>في هذه <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>الكوميديا الرومانسية</b> من العباقرة، يبقى السؤال: من سينهار أولاً ويستسلم <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>لمشاعره الحقيقية</b>؟<br></div>",
+    "ReleaseDate": "2015",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Kaguya%20sama%20Love%20Is%20War%20Cover.jpg",
+    "Genre": [
+      "Romance"
+    ],
+    "Tags": [
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00271.zip",
+        "fileSize": "7 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761284118090_6",
+    "Title": "Komi Can't Communicate",
+    "SortingTitle": "",
+    "Author": "Tomohito Oda",
+    "Description": "<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Shoko Komi</b> is the most beautiful and elegant girl at <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Itan Private High School</b>, admired by all her classmates.<br>But beneath her seemingly <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>perfect exterior</b> lies a crippling <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>communication disorder</b> that makes even simple conversations feel impossible.<br>Only <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Hitohito Tadano</b>, an exceedingly average boy who sits beside her, discovers her <b style='color: #696969; text-shadow: 0 0 8px #696969;'>secret struggle</b>.<br>When Tadano learns that Komi's <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>dream</b> is to make <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>100 friends</b>, he vows to help her achieve this seemingly impossible goal.<br>Together, they navigate the chaotic world of <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>high school</b>, encountering a colorful cast of eccentric classmates from the hyper-energetic <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Najimi Osana</b> to countless others.<br>Through written notes, gestures, and Tadano's patient <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>support</b>, Komi slowly learns to overcome her <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>social anxiety</b>.<br>As her friend count grows, so does an unspoken <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>bond</b> between Komi and Tadano.<br>This heartwarming tale explores <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>friendship</b>, <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>understanding</b>, and the courage it takes to reach out to others when words fail you.<br>",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>شوكو كومي</b> هي الفتاة الأكثر جمالاً وأناقة في <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>مدرسة إيتان الثانوية الخاصة</b>، معجب بها جميع زملائها.<br>لكن تحت <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>مظهرها المثالي</b> ظاهرياً يكمن <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>اضطراب تواصل</b> مشل يجعل حتى المحادثات البسيطة تبدو مستحيلة.<br>فقط <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>هيتوهيتو تادانو</b>، صبي عادي للغاية يجلس بجانبها، يكتشف <b style='color: #696969; text-shadow: 0 0 8px #696969;'>نضالها السري</b>.<br>عندما يعلم تادانو أن <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>حلم</b> كومي هو تكوين <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>100 صديق</b>، يتعهد بمساعدتها على تحقيق هذا الهدف المستحيل ظاهرياً.<br>معاً، يتنقلان في عالم <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>المدرسة الثانوية</b> الفوضوي، يلتقيان بمجموعة ملونة من زملاء الدراسة الغريبي الأطوار من <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>ناجيمي أوسانا</b> المفرط النشاط إلى عدد لا يحصى من الآخرين.<br>من خلال الملاحظات المكتوبة، الإيماءات، و<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>دعم</b> تادانو الصبور، تتعلم كومي ببطء التغلب على <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>قلقها الاجتماعي</b>.<br>مع نمو عدد أصدقائها، تنمو أيضاً <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>رابطة</b> غير معلنة بين كومي وتادانو.<br>تستكشف هذه الحكاية المؤثرة <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>الصداقة</b>، <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>التفاهم</b>، والشجاعة التي يتطلبها التواصل مع الآخرين عندما تخذلك الكلمات.<br></div>",
+    "ReleaseDate": "2016",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Komi%20Can't%20Communicate%20Cover.jpg",
+    "Genre": [
+      "Comedy"
+    ],
+    "Tags": [
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00270.zip",
+        "fileSize": "5 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761284118090_7",
+    "Title": "Lady Devil",
+    "SortingTitle": "",
+    "Author": "Hanheun, FUKI Choco",
+    "Description": "<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Giovinetta</b> grew up loved and carefree in her noble family, until she committed the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>devastating sin</b> of falling in love with <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Johannes</b>, her <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>twin brother</b>.<br>Discovered and condemned, Giovinetta is locked away in a <b style='color: #696969; text-shadow: 0 0 8px #696969;'>tower</b>, spending her youth in isolation while yearning for the <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>outside world</b> and her <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>forbidden love</b>.<br>Desperate to escape her fate and avoid a <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>forced marriage</b>, she discovers a <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>coffin</b> containing a <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>devil</b>.<br>In her desperation, Giovinetta makes a <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>wish</b> to the devil to save her from her prison and reunite her with Johannes.<br>But no deal with a devil comes without a <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>terrible price</b>—her wish becomes a <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>curse</b> that transforms Johannes into a <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>demon</b>.<br>Now bound by <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>dark magic</b>, Giovinetta must navigate the consequences of her choice as <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>fate</b> and <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>desire</b> intertwine in ways she never imagined.<br>",
+    "DescriptionArabic": "<div dir='rtl'>نشأت <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>جيوفينيتا</b> محبوبة وخالية من الهموم في عائلتها النبيلة، حتى ارتكبت <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>خطيئة مدمرة</b> بالوقوع في حب <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>يوهانس</b>، <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>شقيقها التوأم</b>.<br>بعد اكتشافها وإدانتها، تُحبس جيوفينيتا في <b style='color: #696969; text-shadow: 0 0 8px #696969;'>برج</b>، تقضي شبابها في عزلة بينما تتوق إلى <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>العالم الخارجي</b> و<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>حبها المحرم</b>.<br>يائسة للهروب من قدرها وتجنب <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>زواج قسري</b>، تكتشف <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>تابوتاً</b> يحتوي على <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>شيطان</b>.<br>في يأسها، تقدم جيوفينيتا <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>أمنية</b> للشيطان لإنقاذها من سجنها وإعادة جمعها بيوهانس.<br>لكن لا توجد صفقة مع الشيطان دون <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>ثمن رهيب</b>—تتحول أمنيتها إلى <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>لعنة</b> تحول يوهانس إلى <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>شيطان</b>.<br>الآن مقيدة بـ<b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>السحر المظلم</b>، يجب على جيوفينيتا التنقل عبر عواقب اختيارها بينما يتشابك <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>القدر</b> و<b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>الرغبة</b> بطرق لم تتخيلها أبداً.<br></div>",
+    "ReleaseDate": "2020",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Lady%20Devil%20Cover.jpg",
+    "Genre": [
+      "Supernatural"
+    ],
+    "Tags": [
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00269.zip",
+        "fileSize": "272 MB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761284118090_8",
+    "Title": "My Dress Up Darling",
+    "SortingTitle": "",
+    "Author": "Shinichi Fukuda",
+    "Description": "<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Wakana Gojo</b> has a lifelong passion for crafting intricate <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>hina dolls</b>, an art form he learned from his late grandfather.<br>But after being ridiculed as a child for his <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>feminine hobby</b>, Wakana hides his true passion and avoids making <b style='color: #696969; text-shadow: 0 0 8px #696969;'>friends</b> at school.<br>Everything changes when <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Marin Kitagawa</b>, the most <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>popular</b> and beautiful girl in class, discovers him working on doll costumes in the school's <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>sewing room</b>.<br>Instead of judging him, Marin—a passionate <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>cosplayer</b>—sees his incredible talent and begs him to help her create <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>cosplay costumes</b>.<br>Despite his initial hesitation, Wakana agrees, and together they embark on a journey through the vibrant world of <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>anime conventions</b>, <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>photo shoots</b>, and <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>character design</b>.<br>As Wakana helps Marin bring her favorite <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>anime</b> and <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>video game characters</b> to life, an unexpected <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>romance</b> blossoms between the shy craftsman and the outgoing gyaru.<br>Through their shared love of creation, both discover the courage to be their <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>authentic selves</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>لدى <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>واكانا غوجو</b> شغف مدى الحياة بصياغة <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>دمى هينا</b> المعقدة، وهو شكل فني تعلمه من جده الراحل.<br>لكن بعد السخرية منه كطفل بسبب <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>هوايته الأنثوية</b>، يخفي واكانا شغفه الحقيقي ويتجنب تكوين <b style='color: #696969; text-shadow: 0 0 8px #696969;'>أصدقاء</b> في المدرسة.<br>يتغير كل شيء عندما تكتشفه <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>مارين كيتاغاوا</b>، الفتاة الأكثر <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>شعبية</b> وجمالاً في الفصل، وهو يعمل على أزياء الدمى في <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>غرفة الخياطة</b> بالمدرسة.<br>بدلاً من الحكم عليه، ترى مارين—<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>لاعبة كوسبلاي</b> شغوفة—موهبته المذهلة وتتوسل إليه لمساعدتها في إنشاء <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>أزياء الكوسبلاي</b>.<br>على الرغم من تردده الأولي، يوافق واكانا، ومعاً يشرعان في رحلة عبر عالم <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>مؤتمرات الأنمي</b> النابض بالحياة، <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>جلسات التصوير</b>، و<b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>تصميم الشخصيات</b>.<br>بينما يساعد واكانا مارين على إحياء <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>شخصيات الأنمي</b> و<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>ألعاب الفيديو</b> المفضلة لديها، تزدهر <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>رومانسية</b> غير متوقعة بين الحرفي الخجول والغيارو المنفتحة.<br>من خلال حبهما المشترك للإبداع، يكتشف كلاهما الشجاعة ليكونا <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>ذاتهما الحقيقية</b>.<br></div>",
+    "ReleaseDate": "2018",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/My%20Dress%20Up%20Darling%20Cover.jpg",
+    "Genre": [
+      "Romance"
+    ],
+    "Tags": [
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00268.zip",
+        "fileSize": "2 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761284118090_9",
+    "Title": "One Piece",
+    "SortingTitle": "",
+    "Author": "Eiichiro Oda",
+    "Description": "In a world where <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>pirates</b> rule the seas, young <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Monkey D. Luffy</b> dreams of becoming the <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>King of the Pirates</b>.<br>After eating the <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Gum-Gum Devil Fruit</b>, Luffy gains the power to stretch his body like rubber but loses the ability to swim—a deadly curse for any pirate.<br>Undeterred, Luffy sets sail to find the legendary treasure known as <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>One Piece</b>, left behind by the late <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Pirate King Gol D. Roger</b>.<br>Along his journey, Luffy assembles the <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Straw Hat Pirates</b>: swordsman <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Zoro</b>, navigator <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Nami</b>, sniper <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Usopp</b>, and many more unique companions.<br>Together, they face the tyrannical <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>World Government</b>, powerful <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Warlords</b>, and the fearsome <b style='color: #696969; text-shadow: 0 0 8px #696969;'>Four Emperors</b>.<br>Through battles against corrupt marines, revolutionary armies, and rival pirate crews, Luffy and his <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>nakama</b> chase their individual <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>dreams</b> while sailing toward the <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>Grand Line</b>.<br>In this epic tale of <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>adventure</b>, <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>friendship</b>, and unwavering determination, Luffy proves that true freedom lies in never giving up on your dreams.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في عالم حيث يحكم <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>القراصنة</b> البحار، يحلم الشاب <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>مونكي دي لوفي</b> بأن يصبح <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ملك القراصنة</b>.<br>بعد تناول <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>فاكهة الشيطان المطاطية</b>، يكتسب لوفي القدرة على تمديد جسده كالمطاط لكنه يفقد القدرة على السباحة—لعنة مميتة لأي قرصان.<br>غير مكترث، يبحر لوفي للعثور على الكنز الأسطوري المعروف بـ<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>ون بيس</b>، الذي تركه <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>ملك القراصنة الراحل غول دي روجر</b>.<br>على طول رحلته، يجمع لوفي <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>قراصنة قبعة القش</b>: المبارز <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>زورو</b>، الملاحة <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>نامي</b>، القناص <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>أوسوب</b>، والعديد من الرفاق الفريدين الآخرين.<br>معاً، يواجهون <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الحكومة العالمية</b> الاستبدادية، <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>أمراء الحرب</b> الأقوياء، و<b style='color: #696969; text-shadow: 0 0 8px #696969;'>الأباطرة الأربعة</b> المخيفين.<br>من خلال المعارك ضد البحرية الفاسدة، جيوش الثورة، وطواقم القراصنة المنافسة، يطارد لوفي و<b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>ناكاما</b> <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>أحلامهم</b> الفردية بينما يبحرون نحو <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>الخط العظيم</b>.<br>في هذه الملحمة من <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>المغامرة</b>، <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>الصداقة</b>، والتصميم الثابت، يثبت لوفي أن الحرية الحقيقية تكمن في عدم التخلي أبداً عن أحلامك.<br></div>",
+    "ReleaseDate": "1997",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/One%20Piece%20Cover.jpg",
+    "Genre": [
+      "Adventure"
+    ],
+    "Tags": [
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00267.zip",
+        "fileSize": "33 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761284118090_10",
+    "Title": "One Punch Man",
+    "SortingTitle": "",
+    "Author": "ONE, Yusuke Murata",
+    "Description": "<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Saitama</b> is an average man who trained relentlessly for three years—100 push-ups, 100 sit-ups, 100 squats, and a 10km run every single day—until he became the <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>strongest hero</b> alive.<br>But his overwhelming power comes at a price: he can defeat any <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>opponent</b> with a <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>single punch</b>, leaving him profoundly <b style='color: #696969; text-shadow: 0 0 8px #696969;'>bored</b> and unfulfilled.<br>In a world plagued by <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>monsters</b>, <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>aliens</b>, and <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>natural disasters</b>, Saitama operates as an independent hero, unknown to the public and unrecognized by the <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Hero Association</b>.<br>Everything changes when <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>Genos</b>, a cyborg seeking revenge against a rogue machine, witnesses Saitama's incredible strength and begs to become his <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>disciple</b>.<br>Together, they join the Hero Association and face threats ranging from the <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>Deep Sea King</b> to the catastrophic <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Monster Association</b>.<br>Despite saving the world repeatedly, Saitama struggles with the <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>emptiness</b> of being too powerful, searching desperately for an opponent who can give him the <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>thrill of battle</b> he once knew.<br>This satirical take on superhero stories explores what happens when you achieve your <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>ultimate goal</b> and discover it's not what you expected.<br>",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>سايتاما</b> رجل عادي تدرب بلا هوادة لمدة ثلاث سنوات—100 تمرين ضغط، 100 تمرين معدة، 100 قرفصاء، وركض 10 كم كل يوم—حتى أصبح <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>أقوى بطل</b> على قيد الحياة.<br>لكن قوته الساحقة تأتي بثمن: يمكنه هزيمة أي <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>خصم</b> <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>بلكمة واحدة</b>، تاركاً إياه <b style='color: #696969; text-shadow: 0 0 8px #696969;'>ضجراً</b> بشكل عميق وغير محقق.<br>في عالم تعصف به <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الوحوش</b>، <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الكائنات الفضائية</b>، و<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>الكوارث الطبيعية</b>، يعمل سايتاما كبطل مستقل، مجهول للجمهور وغير معترف به من قبل <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>جمعية الأبطال</b>.<br>يتغير كل شيء عندما يشهد <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>جينوس</b>، سايبورغ يسعى للانتقام من آلة مارقة، قوة سايتاما المذهلة ويتوسل ليصبح <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>تلميذه</b>.<br>معاً، ينضمان إلى جمعية الأبطال ويواجهان تهديدات تتراوح من <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>ملك البحر العميق</b> إلى <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>جمعية الوحوش</b> الكارثية.<br>على الرغم من إنقاذ العالم بشكل متكرر، يكافح سايتاما مع <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>الفراغ</b> من كونه قوياً جداً، يبحث بشدة عن خصم يمكنه أن يمنحه <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>إثارة المعركة</b> التي عرفها ذات يوم.<br>تستكشف هذه النظرة الساخرة على قصص الأبطال الخارقين ما يحدث عندما تحقق <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>هدفك النهائي</b> وتكتشف أنه ليس ما توقعته.<br></div>",
+    "ReleaseDate": "2012",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/One%20Punch%20Man%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00266.zip",
+        "fileSize": "9 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761284118090_11",
+    "Title": "The Promised Neverland",
+    "SortingTitle": "",
+    "Author": "Kaiu Shirai, Posuka Demizu",
+    "Description": "At <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Grace Field House</b>, life appears perfect for the 38 orphaned children living under the care of their beloved <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Mom Isabella</b>.<br>The brightest among them—<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Emma</b>, <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Norman</b>, and <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Ray</b>—excel in daily tests and enjoy comfortable lives filled with good food, clean clothes, and play.<br>But one fateful night, Emma and Norman sneak out to deliver a forgotten toy to a departing child and discover a horrifying truth: the orphanage is actually a <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>farm</b> that raises children as livestock for <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>demons</b>.<br>The world beyond the orphanage's <b style='color: #696969; text-shadow: 0 0 8px #696969;'>gates</b> is not the paradise they were promised, but a nightmare where humans are hunted as <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>food</b>.<br>Determined to save their <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>family</b>, Emma, Norman, and Ray devise an elaborate <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>escape plan</b> while hiding their knowledge from Mom Isabella—a woman far more cunning than they imagined.<br>As the children race against time, they must outsmart their <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>caretakers</b>, evade deadly <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>pursuers</b>, and navigate a world designed to consume them.<br>This psychological thriller explores themes of <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>freedom</b>, <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>sacrifice</b>, and the lengths one will go to protect those they love.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>دار غريس فيلد</b>، تبدو الحياة مثالية لـ 38 طفلاً يتيماً يعيشون تحت رعاية <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>الأم إيزابيلا</b> المحبوبة.<br>الأذكى بينهم—<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>إيما</b>، <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>نورمان</b>، و<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>راي</b>—يتفوقون في الاختبارات اليومية ويستمتعون بحياة مريحة مليئة بالطعام الجيد، الملابس النظيفة، واللعب.<br>لكن في ليلة قدرية، يتسللان إيما ونورمان لتوصيل لعبة منسية لطفل مغادر ويكتشفان حقيقة مرعبة: الملجأ في الواقع <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>مزرعة</b> تربي الأطفال كماشية <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>للشياطين</b>.<br>العالم خلف <b style='color: #696969; text-shadow: 0 0 8px #696969;'>بوابات</b> الملجأ ليس الجنة التي وُعدوا بها، بل كابوس حيث يُصطاد البشر <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>كطعام</b>.<br>مصممون على إنقاذ <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>عائلتهم</b>، يضع إيما ونورمان وراي <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>خطة هروب</b> معقدة بينما يخفون معرفتهم عن الأم إيزابيلا—امرأة أكثر مكراً مما تخيلوا.<br>بينما يتسابق الأطفال مع الزمن، يجب عليهم التفوق على <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>مقدمي الرعاية</b>، التهرب من <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>المطاردين</b> المميتين، والتنقل في عالم مصمم لاستهلاكهم.<br>تستكشف هذه الإثارة النفسية موضوعات <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>الحرية</b>، <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>التضحية</b>، والمدى الذي سيذهب إليه المرء لحماية من يحب.<br></div>",
+    "ReleaseDate": "2016",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Promised%20Neverland%20Cover.jpg",
+    "Genre": [
+      "Thriller"
+    ],
+    "Tags": [
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00265.zip",
+        "fileSize": "4 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761284118090_12",
+    "Title": "To Your Eternity",
+    "SortingTitle": "",
+    "Author": "Yoshitoki Oima",
+    "Description": "An <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>omnipotent being</b> casts an <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>orb</b> to Earth, watching as it takes the form of a <b style='color: #696969; text-shadow: 0 0 8px #696969;'>rock</b>, then <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>moss</b>, and eventually a dying <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>wolf</b>.<br>When a young boy living alone in the frozen <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>tundra</b> dies, the orb—now calling itself <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Fushi</b>—takes his form and begins an immortal journey across time.<br>Fushi has the ability to take the shape of anything that leaves a strong <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>impression</b> on it, but knows nothing of <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>emotions</b>, <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>language</b>, or <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>humanity</b>.<br>Throughout the centuries, Fushi encounters remarkable people—from the innocent <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>March</b> to the noble <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>Gugu</b>—each teaching Fushi about <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>love</b>, <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>loss</b>, and what it means to be <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>alive</b>.<br>But Fushi is also hunted by mysterious <b style='color: #696969; text-shadow: 0 0 8px #696969;'>Nokkers</b>—creatures that seek to destroy it and everything it holds dear.<br>As Fushi evolves through the ages, it must protect <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>humanity</b> while grappling with the pain of watching every person it loves inevitably <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>die</b>.<br>This profound exploration of <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>immortality</b> asks what truly makes us human and whether eternal life is a gift or a curse.<br>",
+    "DescriptionArabic": "<div dir='rtl'>يلقي <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>كائن كلي القدرة</b> <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>كرة</b> إلى الأرض، يراقب بينما تتخذ شكل <b style='color: #696969; text-shadow: 0 0 8px #696969;'>صخرة</b>، ثم <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>طحلب</b>، وفي النهاية <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>ذئب</b> يحتضر.<br>عندما يموت صبي صغير يعيش بمفرده في <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>التندرا</b> المتجمدة، تأخذ الكرة—التي تسمي نفسها الآن <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>فوشي</b>—شكله وتبدأ رحلة خالدة عبر الزمن.<br>لدى فوشي القدرة على اتخاذ شكل أي شيء يترك <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>انطباعاً</b> قوياً عليه، لكنه لا يعرف شيئاً عن <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>العواطف</b>، <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>اللغة</b>، أو <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الإنسانية</b>.<br>عبر القرون، يلتقي فوشي بأشخاص رائعين—من <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>مارش</b> البريئة إلى <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>غوغو</b> النبيل—كل منهم يعلم فوشي عن <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الحب</b>، <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الخسارة</b>، وما يعنيه أن تكون <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>حياً</b>.<br>لكن فوشي يُطارد أيضاً من قبل <b style='color: #696969; text-shadow: 0 0 8px #696969;'>نوكرز</b> غامضين—مخلوقات تسعى لتدميره وكل ما يعتز به.<br>بينما يتطور فوشي عبر العصور، يجب عليه حماية <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الإنسانية</b> بينما يصارع ألم مشاهدة كل شخص يحبه <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>يموت</b> حتماً.<br>يسأل هذا الاستكشاف العميق لـ<b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>الخلود</b> ما الذي يجعلنا بشراً حقاً وما إذا كانت الحياة الأبدية هبة أم لعنة.<br></div>",
+    "ReleaseDate": "2016",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/To%20Your%20Eternity%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00264.zip",
+        "fileSize": "7 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761284118090_13",
+    "Title": "Witch Hat Atelier",
+    "SortingTitle": "",
+    "Author": "Kamome Shirahama",
+    "Description": "<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Coco</b> has always dreamed of becoming a <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>witch</b>, but in her world, magic is an innate ability you're born with—or so everyone believes.<br>One day, Coco witnesses a mysterious traveler named <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Qifrey</b> performing magic and discovers an earth-shattering truth: magic isn't inherited, but drawn through intricate <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>glyphs</b> and <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>seals</b>.<br>In her excitement, Coco attempts her own spell, but her inexperience causes a terrible <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>accident</b> that turns her mother to <b style='color: #696969; text-shadow: 0 0 8px #696969;'>stone</b>.<br>Qifrey, bound by the witches' strict code to erase any outsider's knowledge of magic, instead offers Coco a choice: become his <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>apprentice</b> and learn to undo the curse.<br>Coco joins Qifrey's <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>atelier</b> alongside three other apprentices—<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Agott</b>, <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>Tetia</b>, and <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Richeh</b>—each with their own unique talents and struggles.<br>But as Coco delves deeper into the world of magic, she uncovers a dark conspiracy involving <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>forbidden spells</b>, the sinister <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>Brimmed Caps</b>, and secrets that could shatter the entire magical society.<br>Qifrey himself harbors his own <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>hidden motives</b>, and Coco must navigate a world where the line between right and wrong becomes increasingly blurred.<br>This beautifully illustrated tale celebrates <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>creativity</b>, determination, and the power of knowledge.<br>",
+    "DescriptionArabic": "<div dir='rtl'>لطالما حلمت <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>كوكو</b> بأن تصبح <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>ساحرة</b>، لكن في عالمها، السحر قدرة فطرية تولد بها—أو هكذا يعتقد الجميع.<br>في يوم من الأيام، تشهد كوكو مسافراً غامضاً يدعى <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>كيفري</b> يؤدي السحر وتكتشف حقيقة مذهلة: السحر ليس موروثاً، بل يُرسم من خلال <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>رموز</b> و<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>أختام</b> معقدة.<br>في حماسها، تحاول كوكو تعويذتها الخاصة، لكن قلة خبرتها تسبب <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>حادثاً</b> رهيباً يحول والدتها إلى <b style='color: #696969; text-shadow: 0 0 8px #696969;'>حجر</b>.<br>كيفري، المقيد بقانون السحرة الصارم لمحو معرفة أي غريب بالسحر، يعرض على كوكو خياراً بدلاً من ذلك: أن تصبح <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>متدربته</b> وتتعلم فك اللعنة.<br>تنضم كوكو إلى <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>الأتيليه</b> الخاص بكيفري إلى جانب ثلاثة متدربين آخرين—<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>أغوت</b>، <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>تيتيا</b>، و<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>ريتشيه</b>—كل منهم لديه مواهبه وصراعاته الفريدة.<br>لكن بينما تتعمق كوكو في عالم السحر، تكشف عن مؤامرة مظلمة تتضمن <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>تعاويذ محرمة</b>، <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>قبعات الحواف</b> الشريرة، وأسرار يمكن أن تحطم المجتمع السحري بأكمله.<br>كيفري نفسه يخفي <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>دوافعه المخفية</b>، ويجب على كوكو التنقل في عالم حيث يصبح الخط بين الصواب والخطأ غير واضح بشكل متزايد.<br>تحتفي هذه الحكاية المصورة بشكل جميل بـ<b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>الإبداع</b>، التصميم، وقوة المعرفة.<br></div>",
+    "ReleaseDate": "2016",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Witch%20Hat%20Atelier%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00263.zip",
+        "fileSize": "3 GB"
+      }
+    ],
+    "audiobooksUrl": []
   }
 ]
