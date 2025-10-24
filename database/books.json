@@ -9495,7 +9495,7 @@
     "DescriptionArabic": "<div dir='rtl'><b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>تومو أيزاوا</b> <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>فتاة ولد</b> وقعت في حب <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>صديق طفولتها المفضل</b> <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>جونيتشيرو كوبوتا</b> منذ أن تتذكر. على الرغم من مشاعرها القوية، جون يراها فقط كـ<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>واحد من الأولاد</b> وليس لديه أي اهتمام رومانسي بها على الإطلاق. <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>طبيعة تومو كفتاة ولد</b>، مهاراتها في الفنون القتالية، وأسلوبها الخشن تجعل من الصعب على جون رؤيتها كـ<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>فتاة</b>. مصممة على جعله يدرك <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>أنوثتها</b> ويبادلها مشاعرها، تحاول تومو طرقاً مختلفة للاقتراب منه. بمساعدة <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>أصدقائها</b>، تتنقل في التحديات اليومية <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>للحب غير المتبادل</b> بينما تتعامل مع <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>غفلة</b> جون الكاملة عن نواياها الرومانسية. تؤرخ هذه الكوميديا ذات الأربع لوحات محاولات تومو المضحكة والمؤثرة للتحول من <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>صديقة</b> إلى <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>حبيبة</b>.</div>",
     "ReleaseDate": "2015",
     "CriticScore": 100,
-    "CoverUrl": "https://archive.org/download/RPRM001/Tomo%20chan%20is%20a%20Girl%20Cover.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Tomo-chan%20is%20a%20Girl%20Cover.jpg",
     "Genre": [
       "Comedy"
     ],
@@ -9522,7 +9522,7 @@
     "DescriptionArabic": "<div dir='rtl'><b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>ريو ياماداء</b> <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>جانح</b> يشعر بالملل يسقط عن طريق الخطأ من الدرج على <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>أورارا شيرايشي</b>، الطالبة الأولى في المدرسة. عندما يتبادلون <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>قبلة</b> بالخطأ، يكتشفون أنهم تبادلوا الأجساد، كاشفين عن <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>قوة الساحرة</b> لأورارا لتبادل الأرواح مع أي شخص تقبّله. سرعان ما يوقظ ياماداء قدرته الخاصة: نسخ قوة أي ساحرة من خلال قبلة. معاً مع <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>توارانوسوكي ميامورا</b> الذكي و<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>ميابي إيتو</b> الفضولية، يشكلون <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>جمعية بحث الظواهر الخارقة</b> لمطاردة وكشف كل <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>السبع ساحرات</b> المختبئات في مدرستهم. كل ساحرة تمتلك <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>قدرة خارقة</b> فريدة يتم تفعيلها من خلال التقبيل. بينما يواجه ياماداء كل ساحرة، ينسخ قواها ويكشف <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>ألغازاً</b> أعمق حول ماضي المدرسة. تمزج السلسلة عناصر خارقة مع الرومانسية والكوميديا بينما يتنقل ياماداء في <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>علاقات</b> معقدة بينما يحل لغز <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الساحرات</b>.</div>",
     "ReleaseDate": "2012",
     "CriticScore": 100,
-    "CoverUrl": "https://archive.org/download/RPRM001/Yamada%20kun%20and%20the%20Seven%20Witches%20Cover.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Yamada-kun%20and%20the%20Seven%20Witches%20Cover.jpg",
     "Genre": [
       "Fantasy"
     ],
@@ -9536,6 +9536,60 @@
         "identifier": "RBRB001",
         "filename": "00296.zip",
         "fileSize": "8 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761305562650_0",
+    "Title": "Fire Punch",
+    "SortingTitle": "",
+    "Author": "Tatsuki Fujimoto",
+    "Description": "In a world where Earth has been consumed by an <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>endless winter</b>, humanity struggles to survive the <b style='color: #696969; text-shadow: 0 0 8px #696969;'>frozen wasteland</b> created by the <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Ice Witch</b>. <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Agni</b> and his sister <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Luna</b> possess the <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Blessing</b> of regeneration, allowing their bodies to heal from any injury. They use this gift to feed their starving village by continuously regenerating their own flesh. When a soldier with the power of <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>inextinguishable flames</b> attacks their village, he sets Agni ablaze with <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>fire</b> that will never go out. Because of his regeneration, Agni cannot die, condemned to burn alive for <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>eternity</b> in constant agony. Driven by <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>rage</b> and <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>vengeance</b>, the burning Agni becomes <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Fire Punch</b>, a living inferno seeking revenge while wrestling with his <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>humanity</b> and <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>sanity</b> in a brutal, unforgiving world.",
+    "DescriptionArabic": "<div dir='rtl'>في عالم حيث استهلكت الأرض بـ<b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>شتاء لا نهاية له</b>، تكافح الإنسانية للبقاء في <b style='color: #696969; text-shadow: 0 0 8px #696969;'>الأرض القاحلة المتجمدة</b> التي خلقتها <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>ساحرة الجليد</b>. <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>أغني</b> وأخته <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>لونا</b> يمتلكان <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>نعمة</b> التجدد، مما يسمح لأجسادهما بالشفاء من أي إصابة. يستخدمون هذه الهبة لإطعام قريتهم الجائعة عن طريق تجديد لحمهم باستمرار. عندما يهاجم جندي بقوة <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>اللهب الذي لا يُطفأ</b> قريتهم، يشعل أغني بـ<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>نار</b> لن تنطفئ أبداً. بسبب قدرته على التجدد، لا يمكن لأغني أن يموت، محكوم عليه بالاحتراق حياً <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>للأبد</b> في عذاب مستمر. مدفوعاً بـ<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الغضب</b> و<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>الانتقام</b>، يصبح أغني المحترق <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>فاير بانش</b>، جحيم حي يسعى للانتقام بينما يصارع مع <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>إنسانيته</b> و<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>عقله</b> في عالم وحشي لا يرحم.</div>",
+    "ReleaseDate": "2016",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Fire%20Punch%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "Fire Punch.zip",
+        "fileSize": "2 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761305562650_1",
+    "Title": "Grand Blue Dreaming",
+    "SortingTitle": "",
+    "Author": "Kenji Inoue",
+    "Description": "<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Iori Kitahara</b> eagerly looks forward to his new <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>college life</b> at the beautiful <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>Izu Peninsula</b>, planning to stay in a room above his uncle's <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>diving shop</b> \"Grand Blue.\" He dreams of making friends, joining a respectable club, and enjoying a normal college experience. However, his expectations are shattered when he encounters the local <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Diving Club</b>—a group of muscular, wild men who spend far more time <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>drinking</b>, <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>partying</b>, and getting naked than actually diving. Dragged into their outrageous <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>antics</b>, Iori finds himself constantly <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>stripped</b> of both his clothes and dignity. Between surviving drinking contests with <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>lethal cocktails</b>, dealing with his beautiful cousins <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Chisa</b> and Nanaka, and the club's chaotic misadventures, Iori's idealized college life becomes a hilarious struggle. This comedy explores the <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>absurd</b> reality of college life, <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>friendship</b>, and the occasional actual <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>diving</b>.",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>إيوري كيتاهارا</b> يتطلع بشغف إلى <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>حياته الجامعية</b> الجديدة في <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>شبه جزيرة إيزو</b> الجميلة، يخطط للإقامة في غرفة فوق <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>متجر الغوص</b> الخاص بعمه \"غراند بلو\". يحلم بتكوين أصدقاء، والانضمام إلى نادٍ محترم، والاستمتاع بتجربة جامعية عادية. ومع ذلك، تتحطم توقعاته عندما يواجه <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>نادي الغوص</b> المحلي—مجموعة من الرجال العضليين البريين الذين يقضون وقتاً أطول بكثير في <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>الشرب</b> و<b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>الحفلات</b> والتعري من الغوص الفعلي. مسحوباً إلى <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>مقالبهم</b> الفاضحة، يجد إيوري نفسه <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>مجرداً</b> باستمرار من ملابسه وكرامته. بين النجاة من مسابقات الشرب مع <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الكوكتيلات القاتلة</b>، التعامل مع ابنتي عمه الجميلتين <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>تشيسا</b> ونانكا، ومغامرات النادي الفوضوية، تصبح حياة إيوري الجامعية المثالية صراعاً مضحكاً. تستكشف هذه الكوميديا الواقع <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>السخيف</b> للحياة الجامعية و<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الصداقة</b> و<b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>الغوص</b> الفعلي في بعض الأحيان.</div>",
+    "ReleaseDate": "2014",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Grand%20Blue%20Dreaming%20Cover.jpg",
+    "Genre": [
+      "Comedy"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "Grand Blue Dreaming.zip",
+        "fileSize": "5 GB"
       }
     ],
     "audiobooksUrl": []
