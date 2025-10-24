@@ -9593,5 +9593,194 @@
       }
     ],
     "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761311127768_0",
+    "Title": "BEASTARS",
+    "SortingTitle": "",
+    "Author": "Paru Itagaki",
+    "Description": "In a world of <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>anthropomorphic animals</b>, society is divided between <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>carnivores</b> and <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>herbivores</b> living in an uneasy peace. <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Legoshi</b>, a timid gray <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>wolf</b> attending Cherryton Academy, struggles with his <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>predatory instincts</b> while developing feelings for <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>Haru</b>, a small white <b style='color: #F0E68C; text-shadow: 0 0 8px #F0E68C;'>rabbit</b>. When a student is <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>murdered</b>, tensions between species escalate, forcing Legoshi to confront his <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>inner nature</b> and question what it truly means to be <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>civilized</b> in a society built on the suppression of <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>primal desires</b>.",
+    "DescriptionArabic": "<div dir='rtl'>في عالم من <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>الحيوانات البشرية</b>، ينقسم المجتمع بين <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>آكلات اللحوم</b> و<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>آكلات العشب</b> الذين يعيشون في سلام هش. <b style='color: #708090; text-shadow: 0 0 8px #708090;'>ليغوشي</b>، <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>ذئب</b> رمادي خجول يحضر أكاديمية تشيريتون، يكافح مع <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>غرائزه المفترسة</b> بينما يطور مشاعر تجاه <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>هارو</b>، <b style='color: #F0E68C; text-shadow: 0 0 8px #F0E68C;'>أرنبة</b> بيضاء صغيرة. عندما يتم <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>قتل</b> طالب، تتصاعد التوترات بين الأنواع، مما يجبر ليغوشي على مواجهة <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>طبيعته الداخلية</b> والتساؤل عن معنى أن تكون <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>متحضراً</b> في مجتمع بني على قمع <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الرغبات البدائية</b>.</div>",
+    "ReleaseDate": "2016",
+    "CoverUrl": "https://archive.org/download/RPRM001/BEASTARS%20Cover.jpg",
+    "Genre": [
+      "Drama"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "CriticScore": 100,
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00298.zip",
+        "fileSize": "6 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761311127768_1",
+    "Title": "Fruits Basket",
+    "SortingTitle": "",
+    "Author": "Natsuki Takaya",
+    "Description": "After losing her mother, <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>Tohru Honda</b> finds herself living in a tent in the woods. When she stumbles upon the <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Sohma family</b> estate, she discovers their incredible <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>secret</b>: thirteen family members are possessed by the <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Chinese zodiac</b> spirits and <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>transform</b> into their respective animals when hugged by the opposite sex. As Tohru becomes entangled in their lives, her <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>kindness</b> and unwavering <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>optimism</b> begin to <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>heal</b> the family's deep <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>emotional wounds</b> and <b style='color: #696969; text-shadow: 0 0 8px #696969;'>dark secrets</b>. A story of <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>love</b>, <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>acceptance</b>, and breaking the <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>curse</b> that has haunted generations.",
+    "DescriptionArabic": "<div dir='rtl'>بعد فقدان والدتها، تجد <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>توهرو هوندا</b> نفسها تعيش في خيمة في الغابة. عندما تعثر على عقار <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>عائلة سوما</b>، تكتشف <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>سرهم</b> المذهل: ثلاثة عشر فرداً من العائلة ممسوسون بأرواح <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الأبراج الصينية</b> و<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>يتحولون</b> إلى حيواناتهم عند عناقهم من الجنس الآخر. بينما تنخرط توهرو في حياتهم، يبدأ <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>لطفها</b> و<b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>تفاؤلها</b> الثابت في <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>شفاء</b> <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>جروحهم العاطفية</b> العميقة و<b style='color: #696969; text-shadow: 0 0 8px #696969;'>أسرارهم المظلمة</b>. قصة عن <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الحب</b> و<b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>القبول</b> وكسر <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>اللعنة</b> التي طاردت الأجيال.</div>",
+    "ReleaseDate": "1998",
+    "CoverUrl": "https://archive.org/download/RPRM001/Fruits%20Basket%20Cover.jpg",
+    "Genre": [
+      "Romance"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "CriticScore": 100,
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00299.zip",
+        "fileSize": "2 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761311127768_2",
+    "Title": "Mob Psycho",
+    "SortingTitle": "",
+    "Author": "One",
+    "Description": "<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Shigeo Kageyama</b>, nicknamed <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Mob</b>, is an average middle school boy who happens to possess <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>immense psychic powers</b>. Despite his abilities, Mob wants nothing more than to live a <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>normal life</b> and struggles to express his <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>emotions</b>. He works under <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Reigen</b>, a charismatic <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>con artist</b> who claims to be a powerful psychic but has no real powers. As Mob faces dangerous <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>spirits</b>, rival <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>espers</b>, and the temptation to use his powers for <b style='color: #696969; text-shadow: 0 0 8px #696969;'>selfish gain</b>, he must learn that true <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>strength</b> comes from within and that <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>self-improvement</b> is more important than <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>supernatural abilities</b>.",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>شيجيو كاجياما</b>، الملقب بـ<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>موب</b>، فتى متوسط في المدرسة الإعدادية يمتلك <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>قوى نفسية هائلة</b>. بالرغم من قدراته، يريد موب فقط أن يعيش <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>حياة عادية</b> ويكافح للتعبير عن <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>مشاعره</b>. يعمل تحت إمرة <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>ريجين</b>، <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>محتال</b> كاريزماتي يدعي أنه نفساني قوي لكن ليس لديه قوى حقيقية. بينما يواجه موب <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>أرواح</b> خطيرة، <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>أصحاب قوى</b> منافسين، وإغراء استخدام قواه <b style='color: #696969; text-shadow: 0 0 8px #696969;'>لمكاسب أنانية</b>، يجب أن يتعلم أن <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>القوة</b> الحقيقية تأتي من الداخل وأن <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>تطوير الذات</b> أهم من <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>القدرات الخارقة</b>.</div>",
+    "ReleaseDate": "2012",
+    "CoverUrl": "https://archive.org/download/RPRM001/Mob%20Psycho%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "CriticScore": 100,
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00300.zip",
+        "fileSize": "5 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761311127768_3",
+    "Title": "Mushishi",
+    "SortingTitle": "",
+    "Author": "Yuki Urushibara",
+    "Description": "In a world where <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Mushi</b> exist—the most basic and <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>primordial</b> forms of life—<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Ginko</b> travels as a <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Mushishi</b>, one who studies these ethereal creatures. Neither wholly <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>good</b> nor <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>evil</b>, Mushi exist in a state between <b style='color: #F0E68C; text-shadow: 0 0 8px #F0E68C;'>life and death</b>, sometimes bringing <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>blessings</b> and other times <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>curses</b> to those who encounter them. Each <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>episodic tale</b> follows Ginko as he helps people affected by Mushi, seeking to understand the delicate <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>balance</b> between humanity and these <b style='color: #708090; text-shadow: 0 0 8px #708090;'>mysterious beings</b>. A contemplative journey through <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>nature</b> and the <b style='color: #696969; text-shadow: 0 0 8px #696969;'>supernatural</b>.",
+    "DescriptionArabic": "<div dir='rtl'>في عالم حيث توجد <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الموشي</b>—أكثر أشكال الحياة <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>بدائية</b> وأساسية—يسافر <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>جينكو</b> كـ<b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>موشيشي</b>، أحد الذين يدرسون هذه المخلوقات الأثيرية. لا هي <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>خيرة</b> ولا <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>شريرة</b> تماماً، تعيش الموشي في حالة بين <b style='color: #F0E68C; text-shadow: 0 0 8px #F0E68C;'>الحياة والموت</b>، تجلب أحياناً <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>نعماً</b> وأحياناً أخرى <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>لعنات</b> لمن يلتقون بها. تتبع كل <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>حكاية عرضية</b> جينكو وهو يساعد الناس المتأثرين بالموشي، ساعياً لفهم <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>التوازن</b> الدقيق بين البشرية وهذه <b style='color: #708090; text-shadow: 0 0 8px #708090;'>الكائنات الغامضة</b>. رحلة تأملية عبر <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>الطبيعة</b> و<b style='color: #696969; text-shadow: 0 0 8px #696969;'>الخارق للطبيعة</b>.</div>",
+    "ReleaseDate": "1999",
+    "CoverUrl": "https://archive.org/download/RPRM001/Mushishi%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "CriticScore": 100,
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00301.zip",
+        "fileSize": "4 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761311127768_4",
+    "Title": "Ouran High School Host Club",
+    "SortingTitle": "",
+    "Author": "Bisco Hatori",
+    "Description": "<b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>Haruhi Fujioka</b> is a <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>scholarship student</b> at the prestigious Ouran Academy, a school for the <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ultra-rich</b>. After accidentally breaking an expensive <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>vase</b> in the school's Host Club, she's forced to work off her <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>debt</b> by becoming a host. With her short hair and <b style='color: #708090; text-shadow: 0 0 8px #708090;'>androgynous appearance</b>, the eccentric club members mistake her for a <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>boy</b>. Now Haruhi must navigate the <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>absurd antics</b> of the <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>charismatic</b> club president Tamaki, the mischievous <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>Hitachiin twins</b>, and other colorful members while maintaining her <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>secret identity</b>. A hilarious <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>romantic comedy</b> about class differences, <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>friendship</b>, and unexpected <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>romance</b>.",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>هاروهي فوجيوكا</b> طالبة <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>منحة دراسية</b> في أكاديمية أوران المرموقة، مدرسة <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الأثرياء الفاحشين</b>. بعد كسر <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>مزهرية</b> باهظة الثمن في نادي المضيفين بالمدرسة عن طريق الخطأ، تُجبر على سداد <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>ديونها</b> بأن تصبح مضيفاً. بشعرها القصير و<b style='color: #708090; text-shadow: 0 0 8px #708090;'>مظهرها الأندروجيني</b>، يخطئ أعضاء النادي الغريبو الأطوار في اعتبارها <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>فتى</b>. الآن يجب على هاروهي أن تتنقل عبر <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>التصرفات السخيفة</b> لرئيس النادي <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الكاريزماتي</b> تاماكي، <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>التوأمين هيتاشيين</b> المشاغبين، وأعضاء ملونين آخرين بينما تحافظ على <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>هويتها السرية</b>. <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>كوميديا رومانسية</b> مضحكة عن الفروقات الطبقية و<b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>الصداقة</b> و<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الرومانسية</b> غير المتوقعة.</div>",
+    "ReleaseDate": "2002",
+    "CoverUrl": "https://archive.org/download/RPRM001/Ouran%20High%20School%20Host%20Club%20Cover.jpg",
+    "Genre": [
+      "Comedy"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "CriticScore": 100,
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00302.zip",
+        "fileSize": "3 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761313740997_1ioenl4cc",
+    "Title": "The Climber",
+    "SortingTitle": "",
+    "Author": "Shin'ichi Sakamoto",
+    "Description": "<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Mori Buntarou</b> is a <b style='color: #708090; text-shadow: 0 0 8px #708090;'>solitary</b> and <b style='color: #696969; text-shadow: 0 0 8px #696969;'>introverted</b> young man with no friends and a troubled family life. When he discovers <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>rock climbing</b>, he finds his calling in the vertical world. Driven by an intense <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>obsession</b> to conquer <b style='color: #B0C4DE; text-shadow: 0 0 8px #B0C4DE;'>mountains</b>, Mori embarks on a journey from amateur climber to becoming one of the world's greatest <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>solo climbers</b>. The manga chronicles his <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>relentless pursuit</b> of higher and more <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>dangerous peaks</b>, exploring themes of <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>isolation</b>, <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>self-discovery</b>, and the question of what drives someone to risk everything for a <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>singular passion</b>. A profound story about pushing human <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>limits</b> and the cost of <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>greatness</b>.",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>موري بونتارو</b> شاب <b style='color: #708090; text-shadow: 0 0 8px #708090;'>منعزل</b> و<b style='color: #696969; text-shadow: 0 0 8px #696969;'>منطوٍ</b> بلا أصدقاء وحياة عائلية مضطربة. عندما يكتشف <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>تسلق الصخور</b>، يجد دعوته في العالم الرأسي. مدفوعاً بـ<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>هوس</b> شديد لغزو <b style='color: #B0C4DE; text-shadow: 0 0 8px #B0C4DE;'>الجبال</b>، ينطلق موري في رحلة من متسلق هاوٍ ليصبح أحد أعظم <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>المتسلقين المنفردين</b> في العالم. تروي المانغا <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>سعيه الدؤوب</b> لقمم أعلى وأكثر <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>خطورة</b>، مستكشفة مواضيع <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>العزلة</b> و<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>اكتشاف الذات</b> والسؤال عما يدفع شخصاً للمخاطرة بكل شيء من أجل <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>شغف واحد</b>. قصة عميقة عن دفع <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>حدود</b> البشر وثمن <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>العظمة</b>.</div>",
+    "ReleaseDate": "2007",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Climber%20Cover.jpg",
+    "Genre": [
+      "Drama"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00303.zip",
+        "fileSize": "2 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761311127768_6",
+    "Title": "The Girl From the Other Side Siuil, a Run",
+    "SortingTitle": "",
+    "Author": "Nagabe",
+    "Description": "In a world divided between the <b style='color: #F0E68C; text-shadow: 0 0 8px #F0E68C;'>Inside</b> and the <b style='color: #696969; text-shadow: 0 0 8px #696969;'>Outside</b>, a mysterious <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>curse</b> transforms humans who venture beyond the border into <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>monsters</b>. <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>Shiva</b>, a young human <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>girl</b>, lives in the cursed Outside under the care of <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Teacher</b>, a gentle <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>beast-like creature</b> with horns. Despite the danger of <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>contamination</b> through touch, Teacher watches over Shiva with <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>fatherly devotion</b> as they navigate their isolated existence. As they search for Shiva's <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>origins</b> and the truth behind the curse, they encounter both the <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>beauty</b> and <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>horror</b> of their <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>forbidden bond</b>. A hauntingly beautiful tale of <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>love</b>, <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>sacrifice</b>, and the blurred lines between <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>humanity and monstrosity</b>.",
+    "DescriptionArabic": "<div dir='rtl'>في عالم مقسّم بين <b style='color: #F0E68C; text-shadow: 0 0 8px #F0E68C;'>الداخل</b> و<b style='color: #696969; text-shadow: 0 0 8px #696969;'>الخارج</b>، <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>لعنة</b> غامضة تحوّل البشر الذين يتجاوزون الحدود إلى <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>وحوش</b>. <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>شيفا</b>، <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>فتاة</b> بشرية صغيرة، تعيش في الخارج الملعون تحت رعاية <b style='color: #708090; text-shadow: 0 0 8px #708090;'>المعلم</b>، <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>مخلوق وحشي</b> لطيف ذو قرون. بالرغم من خطر <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>التلوث</b> عبر اللمس، يراقب المعلم شيفا بـ<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>إخلاص أبوي</b> بينما يتنقلان في وجودهما المعزول. بينما يبحثان عن <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>أصول</b> شيفا والحقيقة وراء اللعنة، يواجهان كلاً من <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>جمال</b> و<b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>رعب</b> <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>ارتباطهما المحرّم</b>. حكاية مؤثرة بشكل جميل عن <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>الحب</b> و<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>التضحية</b> والخطوط الضبابية بين <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>الإنسانية والوحشية</b>.</div>",
+    "ReleaseDate": "2015",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Girl%20From%20the%20Other%20Side%20Siuil%2C%20a%20Run%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "CriticScore": 100,
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00304.zip",
+        "fileSize": "3 GB"
+      }
+    ],
+    "audiobooksUrl": []
   }
 ]
