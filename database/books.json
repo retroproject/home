@@ -9782,5 +9782,32 @@
       }
     ],
     "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761364303622_0",
+    "Title": "Fables",
+    "SortingTitle": "",
+    "Author": "Bill Willingham",
+    "Description": "When <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>fairy tale characters</b> are driven from their <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>magical homelands</b> by a mysterious enemy known as <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>the Adversary</b>, they form a secret <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>community</b> in modern-day <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>New York City</b> called <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>Fabletown</b>. <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Bigby Wolf</b>, the reformed <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Big Bad Wolf</b>, serves as the community's <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>sheriff</b>, working alongside <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>Snow White</b> to maintain order among the <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>exiled Fables</b>. As they struggle to blend into the <b style='color: #696969; text-shadow: 0 0 8px #696969;'>mundane world</b>, dark <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>mysteries</b> and old <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>grudges</b> threaten their <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>hidden existence</b>. A noir-tinged <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>fantasy epic</b> that reimagines beloved characters in a world where <b style='color: #F0E68C; text-shadow: 0 0 8px #F0E68C;'>happily ever after</b> is just the beginning.",
+    "DescriptionArabic": "<div dir='rtl'>عندما يُطرد <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>شخصيات الحكايات الخيالية</b> من <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>أوطانهم السحرية</b> بواسطة عدو غامض يُعرف بـ<b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الخصم</b>، يشكلون <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>مجتمعاً</b> سرياً في <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>نيويورك</b> الحديثة يُسمى <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>بلدة الخرافات</b>. <b style='color: #708090; text-shadow: 0 0 8px #708090;'>بيجبي وولف</b>، <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الذئب الشرير الكبير</b> المُصلح، يعمل كـ<b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>شريف</b> المجتمع، عاملاً إلى جانب <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>سنو وايت</b> للحفاظ على النظام بين <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>الخرافات المنفيين</b>. بينما يكافحون للاندماج في <b style='color: #696969; text-shadow: 0 0 8px #696969;'>العالم العادي</b>، تهدد <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>أسرار</b> مظلمة و<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>ضغائن</b> قديمة <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>وجودهم المخفي</b>. <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>ملحمة فانتازيا</b> بأسلوب نوار تعيد تصور شخصيات محبوبة في عالم حيث <b style='color: #F0E68C; text-shadow: 0 0 8px #F0E68C;'>العيش بسعادة للأبد</b> هو مجرد البداية.</div>",
+    "ReleaseDate": "2002",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Fables%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "Comic",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00306.zip",
+        "fileSize": "6 GB"
+      }
+    ],
+    "audiobooksUrl": []
   }
 ]
