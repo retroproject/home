@@ -10044,5 +10044,32 @@
         "fileSize": "606 MB"
       }
     ]
+  },
+  {
+    "_id": "book_1761412118420_0",
+    "Title": "Kaiju No 8",
+    "SortingTitle": "",
+    "Author": "Naoya Matsumoto",
+    "Description": "In a world where grotesque, towering <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>kaiju monsters</b> regularly terrorize <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Japan</b>, the elite <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Defense Force</b> risks their lives to protect civilians while <b style='color: #696969; text-shadow: 0 0 8px #696969;'>sweepers</b> clean up the aftermath.<br>Thirty-two-year-old <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Kafka Hibino</b> works as a monster cleaner, haunted by his broken childhood promise to join the Defense Force alongside his friend <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Mina Ashiro</b>, who is now a celebrated <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Third Division captain</b>.<br>Everything changes when a mysterious <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>flying kaiju</b> forces its way into Kafka's body, transforming him into a powerful <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>humanoid monster</b> with incredible regenerative abilities and devastating strength.<br>Now labeled <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Kaiju No. 8</b> by the very organization he dreamed of joining, Kafka becomes their most wanted <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>enemy</b> while desperately trying to control his <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>monstrous powers</b> and fulfill his lifelong dream without revealing his terrifying <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>secret identity</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في عالم حيث <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>وحوش كايجو</b> الضخمة المروعة تهاجم <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>اليابان</b> بانتظام، تخاطر <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>قوة الدفاع</b> النخبة بحياتهم لحماية المدنيين بينما <b style='color: #696969; text-shadow: 0 0 8px #696969;'>الكناسون</b> ينظفون ما بعد المعركة.<br>يعمل <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>كافكا هيبينو</b> البالغ من العمر اثنين وثلاثين عاماً كمنظف وحوش، مطارداً بوعده المكسور من الطفولة بالانضمام إلى قوة الدفاع مع صديقته <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>مينا أشيرو</b>، التي أصبحت الآن <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>قائدة الفرقة الثالثة</b> المحتفى بها.<br>يتغير كل شيء عندما يجبر <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>كايجو طائر</b> غامض طريقه إلى جسد كافكا، محولاً إياه إلى <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>وحش بشري</b> قوي بقدرات تجديدية مذهلة وقوة مدمرة.<br>الآن بعد أن تم تصنيفه كـ<b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>كايجو رقم 8</b> من قبل المنظمة التي حلم بالانضمام إليها، يصبح كافكا <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>العدو</b> الأكثر طلباً بينما يحاول يائساً السيطرة على <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>قواه الوحشية</b> وتحقيق حلمه مدى الحياة دون الكشف عن <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>هويته السرية</b> المرعبة.<br></div>",
+    "ReleaseDate": "2020",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Kaiju%20No%208%20Cover.jpg",
+    "Genre": [
+      "Action"
+    ],
+    "Tags": [
+      "Manga",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00316.zip",
+        "fileSize": "4 GB"
+      }
+    ],
+    "audiobooksUrl": []
   }
 ]
