@@ -9909,5 +9909,141 @@
       }
     ],
     "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1761399671783_0",
+    "Title": "Before They are Hanged",
+    "SortingTitle": "First Law 02",
+    "Author": "Joe Abercrombie",
+    "Description": "In the frozen <b style='color: #B0C4DE; text-shadow: 0 0 8px #B0C4DE;'>North</b>, <b style='color: #696969; text-shadow: 0 0 8px #696969;'>Colonel West</b> and barbarian <b style='color: #8B7355; text-shadow: 0 0 8px #8B7355;'>the Dogman</b> find themselves unlikely allies as the <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Union Army</b> faces <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>King Bethod's</b> rampaging forces in a brutal winter campaign.<br>Far to the south, crippled Inquisitor <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Glokta</b> is dispatched across the sea to the besieged city of <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Dagoska</b> to root out a dangerous <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>conspiracy</b> while coordinating the defense against the massive <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>Gurkish</b> army preparing to assault the city walls.<br>Meanwhile, barbarian <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Logen Ninefingers</b>, vain nobleman <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Jezal dan Luthar</b>, and vengeful <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>Ferro Maljinn</b> follow the ancient wizard <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Bayaz</b> on a perilous quest westward through the ruins of the <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>Old Empire</b> to the <b style='color: #778899; text-shadow: 0 0 8px #778899;'>Edge of the World</b>.<br>This unlikely alliance of the most hated woman in the South, the most feared man in the North, and the most selfish boy in the Union might stand a chance against the ancient evil <b style='color: #800020; text-shadow: 0 0 8px #800020;'>Eaters</b>—if they didn't despise each other quite so much.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في <b style='color: #B0C4DE; text-shadow: 0 0 8px #B0C4DE;'>الشمال</b> المتجمد، يجد <b style='color: #696969; text-shadow: 0 0 8px #696969;'>الكولونيل ويست</b> والبربري <b style='color: #8B7355; text-shadow: 0 0 8px #8B7355;'>رجل الكلاب</b> أنفسهم حلفاء غير متوقعين بينما يواجه <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>جيش الاتحاد</b> قوات <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الملك بيثود</b> الهائجة في حملة شتوية وحشية.<br>في أقصى الجنوب، يُرسل المحقق المشلول <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>غلوكتا</b> عبر البحر إلى مدينة <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>داغوسكا</b> المحاصرة لكشف <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>مؤامرة</b> خطيرة بينما ينسق الدفاع ضد الجيش <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>الغوركشي</b> الضخم المستعد لاقتحام أسوار المدينة.<br>في هذه الأثناء، يتبع البربري <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>لوغن أصحاب الأصابع التسعة</b> والنبيل المغرور <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>جيزال دان لوثار</b> و<b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>فيرو مالجين</b> المنتقمة الساحر القديم <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>بياز</b> في مهمة خطرة غرباً عبر أنقاض <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>الإمبراطورية القديمة</b> إلى <b style='color: #778899; text-shadow: 0 0 8px #778899;'>حافة العالم</b>.<br>قد يكون لهذا التحالف غير المتوقع من المرأة الأكثر كراهية في الجنوب، والرجل الأكثر رعباً في الشمال، والصبي الأكثر أنانية في الاتحاد، فرصة ضد الشر القديم <b style='color: #800020; text-shadow: 0 0 8px #800020;'>الآكلين</b>—لو لم يكرهوا بعضهم البعض بشدة.<br></div>",
+    "ReleaseDate": "2007",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Before%20They%20are%20Hanged%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "English Novels",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00313.epub",
+        "fileSize": "505 KB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00313.m4b",
+        "fileSize": "616 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1761399671783_1",
+    "Title": "Dracula",
+    "SortingTitle": "",
+    "Author": "Bram Stoker",
+    "Description": "Young solicitor <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Jonathan Harker</b> travels to <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Transylvania</b> for a business meeting with the mysterious <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Count Dracula</b>, only to discover he's a prisoner in the ancient vampire's crumbling <b style='color: #696969; text-shadow: 0 0 8px #696969;'>castle</b>.<br>After Harker's harrowing escape, the Count relocates to <b style='color: #778899; text-shadow: 0 0 8px #778899;'>England</b> and begins terrorizing the seaside town of <b style='color: #B0C4DE; text-shadow: 0 0 8px #B0C4DE;'>Whitby</b>, setting his sights on the beautiful <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>Lucy Westenra</b>.<br>Despite the desperate efforts of Lucy's three suitors—nobleman <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Arthur Holmwood</b>, doctor <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>John Seward</b>, and American <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>Quincey Morris</b>—and the expertise of vampire hunter <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Professor Van Helsing</b>, Lucy falls victim to Dracula's <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>curse</b> and rises as an <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>undead</b> creature of the night.<br>As Harker's fiancée <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>Mina</b> becomes Dracula's next target, the small band of hunters must race across Europe to destroy the ancient vampire before he completes his <b style='color: #800020; text-shadow: 0 0 8px #800020;'>dark transformation</b> of their beloved friend.<br>",
+    "DescriptionArabic": "<div dir='rtl'>يسافر المحامي الشاب <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>جوناثان هاركر</b> إلى <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>ترانسلفانيا</b> لاجتماع عمل مع <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الكونت دراكولا</b> الغامض، ليكتشف أنه سجين في <b style='color: #696969; text-shadow: 0 0 8px #696969;'>قلعة</b> مصاص الدماء القديمة المتداعية.<br>بعد هروب هاركر المرعب، ينتقل الكونت إلى <b style='color: #778899; text-shadow: 0 0 8px #778899;'>إنجلترا</b> ويبدأ بإرهاب بلدة <b style='color: #B0C4DE; text-shadow: 0 0 8px #B0C4DE;'>ويتبي</b> الساحلية، واضعاً نصب عينيه الجميلة <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>لوسي ويستنرا</b>.<br>على الرغم من الجهود اليائسة من خطاب لوسي الثلاثة—النبيل <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>آرثر هولموود</b>، والطبيب <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>جون سيوارد</b>، والأمريكي <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>كوينسي موريس</b>—وخبرة صائد مصاصي الدماء <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>البروفيسور فان هيلسنج</b>، تقع لوسي ضحية <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>لعنة</b> دراكولا وتنهض كمخلوق <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>غير ميت</b> من الليل.<br>بينما تصبح خطيبة هاركر <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>مينا</b> هدف دراكولا التالي، يجب على المجموعة الصغيرة من الصيادين أن يتسابقوا عبر أوروبا لتدمير مصاص الدماء القديم قبل أن يكمل <b style='color: #800020; text-shadow: 0 0 8px #800020;'>التحول المظلم</b> لصديقتهم الحبيبة.<br></div>",
+    "ReleaseDate": "1897",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Dracula%20Cover.jpg",
+    "Genre": [
+      "Horror"
+    ],
+    "Tags": [
+      "English Novels",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00315.epub",
+        "fileSize": "2 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00315.mp3",
+        "fileSize": "852 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1761399671783_2",
+    "Title": "Last Argument of Kings",
+    "SortingTitle": "First Law 03",
+    "Author": "Joe Abercrombie",
+    "Description": "In the frozen <b style='color: #B0C4DE; text-shadow: 0 0 8px #B0C4DE;'>North</b>, <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Logen Ninefingers</b> returns to settle his blood debt with <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>King Bethod</b>, but not everyone welcomes the <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Bloody-Nine</b> back with open arms.<br>In <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Adua</b>, capital of <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>the Union</b>, the dying <b style='color: #696969; text-shadow: 0 0 8px #696969;'>King</b> clings to life while peasants <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>revolt</b> in the streets and nobles scramble in a ruthless game for the <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>crown</b>.<br>Torturer <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Superior Glokta</b>, under orders from <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Arch Lector Sult</b>, manipulates votes through threats and promises while competing with <b style='color: #8B7355; text-shadow: 0 0 8px #8B7355;'>High Justice Marovia</b> for control of the succession.<br>The wizard <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Bayaz</b> reveals that vain <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Jezal dan Luthar</b> is the illegitimate son of the late king and uses tales of his supposed heroics to manipulate him onto the throne.<br>As the massive <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>Gurkish invasion</b> from the south threatens to destroy everything and rampaging <b style='color: #778899; text-shadow: 0 0 8px #778899;'>Northmen</b> close in, all the <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>schemes</b>, <b style='color: #8B4B3C; text-shadow: 0 0 8px #8B4B3C;'>betrayals</b>, and bloody battles converge in a devastating finale where no one gets the ending they hoped for.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في <b style='color: #B0C4DE; text-shadow: 0 0 8px #B0C4DE;'>الشمال</b> المتجمد، يعود <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>لوغن أصحاب الأصابع التسعة</b> لتسوية ديون الدم مع <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الملك بيثود</b>، لكن ليس الجميع يرحب بعودة <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الدموي التاسع</b> بأذرع مفتوحة.<br>في <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>أدوا</b>، عاصمة <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الاتحاد</b>، يتشبث <b style='color: #696969; text-shadow: 0 0 8px #696969;'>الملك</b> المحتضر بالحياة بينما <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>يثور</b> الفلاحون في الشوارع والنبلاء يتنافسون بلا رحمة على <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>التاج</b>.<br>المعذب <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>غلوكتا المتفوق</b>، تحت أوامر <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>رئيس المحققين سولت</b>، يتلاعب بالأصوات من خلال التهديدات والوعود بينما يتنافس مع <b style='color: #8B7355; text-shadow: 0 0 8px #8B7355;'>قاضي العدل الأعلى ماروفيا</b> للسيطرة على الخلافة.<br>يكشف الساحر <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>بياز</b> أن المغرور <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>جيزال دان لوثار</b> هو الابن غير الشرعي للملك الراحل ويستخدم حكايات بطولاته المزعومة لتحريكه نحو العرش.<br>بينما يهدد <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>الغزو الغوركشي</b> الضخم من الجنوب بتدمير كل شيء و<b style='color: #778899; text-shadow: 0 0 8px #778899;'>رجال الشمال</b> الهائجون يقتربون، تتلاقى كل <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>المؤامرات</b> و<b style='color: #8B4B3C; text-shadow: 0 0 8px #8B4B3C;'>الخيانات</b> والمعارك الدموية في نهاية مدمرة حيث لا أحد يحصل على النهاية التي كان يأملها.<br></div>",
+    "ReleaseDate": "2008",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Last%20Argument%20of%20Kings%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "English Novels",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00314.epub",
+        "fileSize": "605 KB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00314.m4b",
+        "fileSize": "736 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1761399671783_3",
+    "Title": "The Blade Itself",
+    "SortingTitle": "First Law 01",
+    "Author": "Joe Abercrombie",
+    "Description": "Infamous barbarian <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Logen Ninefingers</b>, known as the <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Bloody-Nine</b>, has finally run out of luck after being caught in one feud too many in the brutal <b style='color: #696969; text-shadow: 0 0 8px #696969;'>North</b>.<br>Meanwhile, <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Captain Jezal dan Luthar</b>, a vain nobleman and dashing officer of <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>the Union</b>, dreams only of glory in the fencing circle and fleecing his friends at cards.<br><b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Inquisitor Glokta</b>, a crippled <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>torturer</b> who was once a celebrated war hero, now carves <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>treason</b> out of the Union one brutal confession at a time.<br>When the enigmatic wizard <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Bayaz</b>, First of the <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>Magi</b>, arrives in the capital city of <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Adua</b>, he begins gathering an unlikely group for a mysterious purpose.<br>As war looms with the <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>Gurkish Empire</b> in the south and rebellion threatens in the north, these disparate lives slowly converge in a tale of <b style='color: #708090; text-shadow: 0 0 8px #708090;'>dark humor</b>, brutal violence, and morally ambiguous characters.<br>",
+    "DescriptionArabic": "<div dir='rtl'>البربري سيء السمعة <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>لوغن أصحاب الأصابع التسعة</b>، المعروف بـ<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الدموي التاسع</b>، نفد حظه أخيراً بعد أن وقع في صراع دموي أكثر من اللازم في <b style='color: #696969; text-shadow: 0 0 8px #696969;'>الشمال</b> الوحشي.<br>في هذه الأثناء، <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>الكابتن جيزال دان لوثار</b>، النبيل المغرور والضابط الجذاب في <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الاتحاد</b>، لا يحلم سوى بالمجد في حلقة المبارزة وخداع أصدقائه في الورق.<br><b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>المحقق غلوكتا</b>، <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>المعذب</b> المشلول الذي كان بطل حرب محتفى به، يقتطع الآن <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الخيانة</b> من الاتحاد اعترافاً وحشياً تلو الآخر.<br>عندما يصل الساحر الغامض <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>بياز</b>، الأول من <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>السحرة</b>، إلى عاصمة <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>أدوا</b>، يبدأ في جمع مجموعة غير متوقعة لغرض غامض.<br>بينما تلوح الحرب في الأفق مع <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>الإمبراطورية الغوركشية</b> في الجنوب ويهدد التمرد في الشمال، تتلاقى هذه الحيوات المتفرقة ببطء في حكاية من <b style='color: #708090; text-shadow: 0 0 8px #708090;'>الفكاهة السوداء</b> والعنف الوحشي والشخصيات الغامضة أخلاقياً.<br></div>",
+    "ReleaseDate": "2006",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Blade%20Itself%20Cover.jpg",
+    "Genre": [
+      "Fantasy"
+    ],
+    "Tags": [
+      "English Novels",
+      "Hide"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00312.epub",
+        "fileSize": "2 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00312.m4b",
+        "fileSize": "606 MB"
+      }
+    ]
   }
 ]
