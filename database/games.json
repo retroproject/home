@@ -53947,7 +53947,7 @@
     "_id": "6d9c93fe-958c-4147-ac83-daa4d4a82862",
     "GameId": "0136f6bfc86c30cf25ac7eb8977af9c1",
     "Name": "The Outer Worlds",
-    "SortingName": "",
+    "SortingName": "The Outer Worlds 01",
     "Description": "A mysterious stranger awakens from decades of <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>cryogenic sleep</span> aboard the lost colony ship <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 6px #32CD32;'>Hope</span> to find the <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Halcyon Colony</span> controlled by ruthless <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 6px #8B0000;'>corporate overlords</span> who have transformed human civilization into a nightmarish parody of capitalist dystopia.<br>Accompanied by the brilliant scientist <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Phineas Welles</span> and a colorful crew of misfits including the zealous <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 6px #FF6347;'>Vicar Max</span> and deadly <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Parvati</span>, they navigate worlds where <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 6px #2F4F4F;'>corporate propaganda</span> has replaced religion and workers literally pay for the air they breathe.<br>From the neon-soaked streets of <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>Byzantium</span> to the industrial wastelands of <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 6px #8B4513;'>Monarch</span>, our unlikely hero must choose between corporate compliance and revolutionary chaos while uncovering the truth behind the colony's <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>systemic decay</span>.<br>In this satirical space opera where corporations have colonized the human spirit itself, every decision becomes a battle between profit margins and human dignity, proving that even in the <span style='color:#696969; font-weight:bold; text-shadow: 0 0 6px #696969;'>darkest timeline</span>, hope can still shine brighter than any <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 8px #FFB6C1;'>corporate logo</span>.",
     "DescriptionArabic": "<div dir='rtl'>غريب غامض يستيقظ من عقود من <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>النوم المجمد</span> على متن سفينة المستعمرة المفقودة <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 6px #32CD32;'>الأمل</span> ليجد <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>مستعمرة هالسيون</span> تحت سيطرة <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 6px #8B0000;'>أسياد الشركات</span> القساة الذين حولوا الحضارة البشرية إلى محاكاة ساخرة كابوسية للديستوبيا الرأسمالية.<br>مصحوباً بالعالم اللامع <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>فينياس ويلز</span> وطاقم ملون من المنبوذين يتضمن المتعصب <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 6px #FF6347;'>النائب ماكس</span> والقاتلة <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>بارفاتي</span>، يتنقلون عبر عوالم حيث <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 6px #2F4F4F;'>الدعاية المؤسسية</span> حلت محل الدين والعمال يدفعون حرفياً مقابل الهواء الذي يتنفسونه.<br>من شوارع <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>بيزنطة</span> المنقوعة بالنيون إلى الأراضي الصناعية الخربة في <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 6px #8B4513;'>موناخ</span>، يجب على بطلنا غير المتوقع أن يختار بين الامتثال للشركات والفوضى الثورية أثناء كشف الحقيقة وراء <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>التحلل المنهجي</span> للمستعمرة.<br>في هذه الأوبرا الفضائية الساخرة حيث استعمرت الشركات الروح البشرية ذاتها، كل قرار يصبح معركة بين هوامش الربح والكرامة البشرية، مما يثبت أنه حتى في <span style='color:#696969; font-weight:bold; text-shadow: 0 0 6px #696969;'>أحلك الخطوط الزمنية</span>، لا يزال الأمل يمكن أن يتألق أكثر إشراقاً من أي <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 8px #FFB6C1;'>شعار شركة</span>.</div>",
     "ReleaseDate": "2019-10-25",
@@ -134187,5 +134187,134 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1761392879385_0",
+    "Name": "Dispatch",
+    "SortingName": "",
+    "Description": "After his signature <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>mecha suit</b> is destroyed in battle, former superhero <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Mecha Man</b> (Robert Robertson) is forced to take a humiliating desk job as a <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>dispatcher</b> for a team of misfit-turned-<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>superheroes</b>.<br>Now the voice in the earpiece, you guide dysfunctional heroes through <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>dangerous missions</b> while juggling <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>emergency calls</b>, managing egos, and dealing with the absurd <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>workplace politics</b> of superhero management.<br>Every <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>split-second decision</b> you make changes the story, determining whether heroes live or die and how your relationships with the <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>colorful cast</b> evolve.<br>Navigate <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>moral dilemmas</b>, uncover conspiracies, and discover that being a hero behind the scenes is harder than it looks in this <b style='color: #708090; text-shadow: 0 0 8px #708090;'>episodic adventure</b> where words are your only weapon.<br>",
+    "DescriptionArabic": "<div dir='rtl'>بعد تدمير <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>بدلته الميكا</b> الشهيرة في المعركة، يُجبر البطل الخارق السابق <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>رجل الميكا</b> (روبرت روبرتسون) على تولي وظيفة مكتبية مذلة كـ<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>موزع</b> لفريق من المنبوذين المتحولين إلى <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>أبطال خارقين</b>.<br>الآن أنت الصوت في سماعة الأذن، توجه الأبطال المختلين وظيفياً عبر <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>مهام خطيرة</b> بينما تتلاعب بـ<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>مكالمات الطوارئ</b>، وإدارة الأنا، والتعامل مع <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>السياسات المكتبية</b> السخيفة لإدارة الأبطال الخارقين.<br>كل <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>قرار سريع</b> تتخذه يغير القصة، محدداً ما إذا كان الأبطال يعيشون أو يموتون وكيف تتطور علاقاتك مع <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>الطاقم الملون</b>.<br>تنقل عبر <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>المعضلات الأخلاقية</b>، اكشف المؤامرات، واكتشف أن كونك بطلاً خلف الكواليس أصعب مما يبدو في هذه <b style='color: #708090; text-shadow: 0 0 8px #708090;'>المغامرة العرضية</b> حيث الكلمات هي سلاحك الوحيد.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Dispatch%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Dispatch%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=fTVgX7b1N8E",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Dispatch%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "AdHoc Studio"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP005",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "Dispatch.exe",
+            "buildID": "24 October 2025",
+            "arguments": [],
+            "filename": "00143.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1761392879385_1",
+    "Name": "Megabonk",
+    "SortingName": "",
+    "Description": "Dive into <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>endless waves</b> of enemies in this addictive <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>roguelike survival</b> experience wrapped in nostalgic <b style='color: #708090; text-shadow: 0 0 8px #708090;'>PS1-era graphics</b>.<br>Every run is different as you battle through <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>randomly generated maps</b>, facing increasingly <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>brutal bosses</b> while scrambling to survive just one more minute.<br>Unlock <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>20 unique characters</b>, each with distinct playstyles, and experiment with <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>over 70 items</b> that create <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>devastating synergies</b> and game-breaking combinations.<br>Tackle <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>240+ missions</b> that constantly challenge you to push further, survive longer, and discover new <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>power combos</b> in this <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>fast-paced action</b> where every death teaches you something new.<br>",
+    "DescriptionArabic": "<div dir='rtl'>اغوص في <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>موجات لا نهائية</b> من الأعداء في تجربة <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>البقاء الروغلايك</b> المدمنة هذه ملفوفة في <b style='color: #708090; text-shadow: 0 0 8px #708090;'>رسومات حقبة PS1</b> الحنينية.<br>كل لعبة مختلفة بينما تقاتل عبر <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>خرائط عشوائية</b>، مواجهاً <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>زعماء وحشيين</b> متزايدين بينما تتدافع للبقاء دقيقة واحدة أخرى فقط.<br>افتح <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>20 شخصية فريدة</b>، كل منها بأسلوب لعب مميز، وجرب <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>أكثر من 70 عنصراً</b> تخلق <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>تآزرات مدمرة</b> ومجموعات تكسر اللعبة.<br>واجه <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>240+ مهمة</b> تتحداك باستمرار للدفع أبعد، والبقاء أطول، واكتشاف <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>مجموعات قوة</b> جديدة في هذا <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>الحدث السريع</b> حيث كل موت يعلمك شيئاً جديداً.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 100,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Megabonk%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Megabonk%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=PlC4_c2dcGw",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Megabonk%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Roguelike"
+    ],
+    "DeveloperNames": [
+      "vedinad"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP005",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "430 MB",
+            "executable": "Megabonk.exe",
+            "buildID": "19 October 2025",
+            "arguments": [],
+            "filename": "00142.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1761392879385_2",
+    "Name": "The Outer Worlds 2",
+    "SortingName": "The Outer Worlds 02",
+    "Description": "As an <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Earth Directorate Agent</b>, you're sent to the <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Arcadia star system</b> where mysterious <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>rifts</b> are tearing reality apart and threatening to destroy entire colonies.<br>Caught in a brutal <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>three-way war</b> between a ruthless <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>megacorporation</b>, the fanatical <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Protectorate</b> religious order, and desperate colonists, every choice you make ripples through the galaxy.<br>Build relationships with your <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>crew members</b>, each with their own agendas and secrets, as your decisions determine who lives, who dies, and which faction ultimately controls humanity's future.<br>Explore bizarre <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>alien worlds</b>, engage in intense <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>combat</b> with an arsenal of futuristic weapons, and uncover the truth behind the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>catastrophic rifts</b> before they consume everything.<br>",
+    "DescriptionArabic": "<div dir='rtl'>كـ<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>عميل مديرية الأرض</b>، تُرسل إلى <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>نظام نجم أركاديا</b> حيث <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>صدوع</b> غامضة تمزق الواقع وتهدد بتدمير مستعمرات بأكملها.<br>محاصر في <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>حرب ثلاثية</b> وحشية بين <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>شركة ضخمة</b> قاسية، ونظام <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الحماة</b> الديني المتعصب، ومستعمرين يائسين، كل خيار تتخذه يتموج عبر المجرة.<br>ابنِ علاقات مع <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>أفراد طاقمك</b>، كل منهم له أجندته وأسراره الخاصة، بينما تحدد قراراتك من يعيش ومن يموت وأي فصيل يسيطر في النهاية على مستقبل البشرية.<br>استكشف <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>عوالم فضائية</b> غريبة، انخرط في <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>قتال</b> مكثف بترسانة من الأسلحة المستقبلية، واكشف الحقيقة وراء <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الصدوع الكارثية</b> قبل أن تستهلك كل شيء.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Outer%20Worlds%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Outer%20Worlds%202%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=yfDkRgghzG4",
+    "videoStart": 2.3,
+    "videoEnd": 73,
+    "MusicUrl": "https://archive.org/download/RPRM001/The%20Outer%20Worlds%202%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Action RPG"
+    ],
+    "DeveloperNames": [
+      "Obsidian Entertainment"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP005",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "77 GB",
+            "executable": "TheOuterWorlds2.exe",
+            "buildID": "22 October 2025",
+            "arguments": [],
+            "filename": "00141.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
