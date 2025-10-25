@@ -134239,12 +134239,12 @@
     "DescriptionArabic": "<div dir='rtl'>اغوص في <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>موجات لا نهائية</b> من الأعداء في تجربة <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>البقاء الروغلايك</b> المدمنة هذه ملفوفة في <b style='color: #708090; text-shadow: 0 0 8px #708090;'>رسومات حقبة PS1</b> الحنينية.<br>كل لعبة مختلفة بينما تقاتل عبر <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>خرائط عشوائية</b>، مواجهاً <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>زعماء وحشيين</b> متزايدين بينما تتدافع للبقاء دقيقة واحدة أخرى فقط.<br>افتح <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>20 شخصية فريدة</b>، كل منها بأسلوب لعب مميز، وجرب <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>أكثر من 70 عنصراً</b> تخلق <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>تآزرات مدمرة</b> ومجموعات تكسر اللعبة.<br>واجه <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>240+ مهمة</b> تتحداك باستمرار للدفع أبعد، والبقاء أطول، واكتشاف <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>مجموعات قوة</b> جديدة في هذا <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>الحدث السريع</b> حيث كل موت يعلمك شيئاً جديداً.<br></div>",
     "ReleaseDate": "2025",
     "CriticScore": 100,
-    "BackgroundUrl": "https://archive.org/download/RPRM001/Megabonk%20Background.jpg",
-    "CoverUrl": "https://archive.org/download/RPRM001/Megabonk%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/MegaBonk%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/MegaBonk%20Cover.jpg",
     "YouTubeUrl": "https://www.youtube.com/watch?v=PlC4_c2dcGw",
     "videoStart": null,
     "videoEnd": null,
-    "MusicUrl": "https://archive.org/download/RPRM001/Megabonk%20Theme.mp3",
+    "MusicUrl": "https://archive.org/download/RPRM001/MegaBonk%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
     ],
