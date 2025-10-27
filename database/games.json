@@ -134311,5 +134311,87 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1761547462328_0",
+    "Name": "Tormented Souls",
+    "SortingName": "Tormented Souls 01",
+    "Description": "In December 1994, <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Caroline Walker</b> receives a mysterious photograph of <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>twin girls</b> in the mail, leading her to the abandoned <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Wildberger Hospital</b> to uncover the truth.<br>Upon arrival, she's ambushed and knocked unconscious, awakening to discover her <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>right eye</b> has been surgically removed and she's trapped in the decaying hospital filled with <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>grotesque creatures</b>.<br>With help from a mysterious <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>priest</b>, Caroline explores the haunted corridors and discovers strange <b style='color: #696969; text-shadow: 0 0 8px #696969;'>VHS tapes</b> that allow her to <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>travel into the past</b>.<br>As she delves deeper, Caroline uncovers a horrifying truth about her own <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>forgotten childhood</b> and realizes she has a personal connection to the twins <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Anna and Emma</b>.<br>The priest is revealed to be <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Noah</b>, her grandfather, who has been sacrificing twins in twisted <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>rituals</b> to resurrect a monstrous <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>savior</b>, with Anna now transformed into a horrific <b style='color: #800020; text-shadow: 0 0 8px #800020;'>mutation</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في ديسمبر 1994، تتلقى <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>كارولين ووكر</b> صورة غامضة لـ<b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>فتاتين توأم</b> في البريد، مما يقودها إلى <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>مستشفى ويلدبرغر</b> المهجور لكشف الحقيقة.<br>عند وصولها، يتم نصب كمين لها وإسقاطها فاقدة للوعي، لتستيقظ وتكتشف أن <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>عينها اليمنى</b> قد أزيلت جراحياً وأنها محاصرة في المستشفى المتحلل المليء بـ<b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>المخلوقات المشوهة</b>.<br>بمساعدة <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>كاهن</b> غامض، تستكشف كارولين الممرات المسكونة وتكتشف <b style='color: #696969; text-shadow: 0 0 8px #696969;'>أشرطة فيديو</b> غريبة تسمح لها بـ<b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>السفر إلى الماضي</b>.<br>بينما تتعمق أكثر، تكشف كارولين حقيقة مروعة عن <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>طفولتها المنسية</b> وتدرك أن لديها صلة شخصية بالتوأم <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>آنا وإيما</b>.<br>يتم الكشف عن أن الكاهن هو <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>نوح</b>، جدها، الذي كان يضحي بالتوائم في <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>طقوس</b> ملتوية لإحياء <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>منقذ</b> وحشي، مع تحول آنا الآن إلى <b style='color: #800020; text-shadow: 0 0 8px #800020;'>طفرة</b> مرعبة.<br></div>",
+    "ReleaseDate": "2021",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Tormented%20Souls%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Tormented%20Souls%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=JN4DmhYZbz0",
+    "videoStart": 3,
+    "videoEnd": 101,
+    "MusicUrl": "https://archive.org/download/RPRM001/Tormented%20Souls%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "Dual Effect"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP005",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "15 GB",
+            "executable": "TormentedSouls.exe",
+            "buildID": "5 December 2023",
+            "arguments": [],
+            "filename": "00145.zip"
+          }
+        ]
+      }
+    },
+    "Tags": []
+  },
+  {
+    "_id": "game_1761547462328_1",
+    "Name": "Tormented Souls 2",
+    "SortingName": "Tormented Souls 02",
+    "Description": "After escaping <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Wildberger Hospital</b>, <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Caroline Walker</b> takes her rescued sister <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Anna</b> to a religious retreat in the remote town of <b style='color: #696969; text-shadow: 0 0 8px #696969;'>Villa Hess</b>, hoping to cure her sister's strange <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>affliction</b>.<br>Anna's <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>drawings</b> have developed a terrifying power—they literally manifest into <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>reality</b>, creating dangerous threats from her subconscious.<br>The nuns at the retreat quickly reveal their sinister intentions, kidnapping Anna and dragging Caroline into a deadly <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>cult ritual</b> where she awakens covered in <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>knives</b> that had been stabbed into her body.<br>Caroline must explore the decaying <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>manor</b>, venture through a haunted <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>hospital</b> and abandoned <b style='color: #778899; text-shadow: 0 0 8px #778899;'>mall</b>, while confronting horrific creatures and a malevolent being that lurks in the <b style='color: #1C1C1C; text-shadow: 0 0 8px #1C1C1C;'>shadows</b>.<br>Using her abilities to <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>phasewalk</b> to the Other Side and <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>time-travel</b> between past and present, Caroline races to save Anna from the twisted <b style='color: #800020; text-shadow: 0 0 8px #800020;'>cult</b> before they complete their dark purpose.<br>",
+    "DescriptionArabic": "<div dir='rtl'>بعد الهروب من <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>مستشفى ويلدبرغر</b>، تأخذ <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>كارولين ووكر</b> أختها المنقذة <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>آنا</b> إلى ملاذ ديني في بلدة <b style='color: #696969; text-shadow: 0 0 8px #696969;'>فيلا هيس</b> النائية، على أمل علاج <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>مرض</b> أختها الغريب.<br>لقد طورت <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>رسومات</b> آنا قوة مرعبة—فهي تتجسد حرفياً إلى <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>واقع</b>، مما يخلق تهديدات خطيرة من عقلها الباطن.<br>تكشف الراهبات في الملاذ بسرعة عن نواياهن الشريرة، حيث يختطفن آنا ويسحبن كارولين إلى <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>طقوس عبادة</b> قاتلة حيث تستيقظ مغطاة بـ<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>سكاكين</b> طُعنت في جسدها.<br>يجب على كارولين استكشاف <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>القصر</b> المتحلل، والمغامرة عبر <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>مستشفى</b> مسكون و<b style='color: #778899; text-shadow: 0 0 8px #778899;'>مركز تسوق</b> مهجور، بينما تواجه مخلوقات مرعبة وكائن شرير يكمن في <b style='color: #1C1C1C; text-shadow: 0 0 8px #1C1C1C;'>الظلال</b>.<br>باستخدام قدراتها على <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>السير الطوري</b> إلى الجانب الآخر و<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>السفر عبر الزمن</b> بين الماضي والحاضر، تتسابق كارولين لإنقاذ آنا من <b style='color: #800020; text-shadow: 0 0 8px #800020;'>الطائفة</b> الملتوية قبل أن يكملوا هدفهم المظلم.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Tormented%20Souls%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Tormented%20Souls%202%20Cover.jpg",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=4qstF5gZ-Zc",
+    "videoStart": 3,
+    "videoEnd": 111,
+    "MusicUrl": "https://archive.org/download/RPRM001/Tormented%20Souls%202%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "Dual Effect"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP005",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "44 GB",
+            "executable": "TormentedSouls2.exe",
+            "buildID": "23 October 2025",
+            "arguments": [],
+            "filename": "00144.zip"
+          }
+        ]
+      }
+    },
+    "Tags": []
   }
 ]
