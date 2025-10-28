@@ -15486,8 +15486,8 @@
     "CoverImage": "af09743d-cfb7-4d44-8a90-a15e24233b73.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/eb0e4d2e-bdd4-40ff-9c9f-8ad70bf9f09d.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/af09743d-cfb7-4d44-8a90-a15e24233b73.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
+    "YouTubeUrl": "https://www.youtube.com/watch?v=sPcf4pfTqfY",
+    "videoStart": 2.5,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/1f61646f-3074-45a1-9eb0-7945bed10336.mp3",
     "PlatformNames": [
@@ -27485,7 +27485,7 @@
     "CoverImage": "d75337c4-799e-480a-9baa-0c2bb956f7b4.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/e79ecfbd-e432-4935-9272-a6c3b4b5247c.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/d75337c4-799e-480a-9baa-0c2bb956f7b4.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=F0P2YWFTfC4",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/3704ac77-8542-4c8c-b768-6cd69df2f700.mp3",
@@ -37080,7 +37080,7 @@
     "CoverImage": "e56d736f-5669-4422-a82a-88e37586eb9e.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/00919bbe-bb6e-4900-bb9e-69acde085673.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/e56d736f-5669-4422-a82a-88e37586eb9e.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=Rm2KKmud2MA",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/4ae75670-9e16-40fe-8a2b-24b49096b4e6.mp3",
@@ -37541,7 +37541,10 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Has Issues"
+    ]
   },
   {
     "_id": "4cbf5cb8-664d-4d55-b73d-0fea595564c0",
@@ -44089,8 +44092,8 @@
     "CoverImage": "d4a9089c-b917-4cdf-b310-749db5eb1963.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/e16ed7db-2950-4ee8-837d-8ad178974745.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/d4a9089c-b917-4cdf-b310-749db5eb1963.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
+    "YouTubeUrl": "https://www.youtube.com/watch?v=VhTcIDOaqmI",
+    "videoStart": 7,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/5b785d8a-d07d-4ac7-a803-0874417de31d.mp3",
     "PlatformNames": [
@@ -49654,7 +49657,7 @@
     "CoverImage": "a62136fb-c86b-4190-8b81-544262628795.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/4ec9d340-fed9-4776-b1c3-34cc36fe9ddd.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/a62136fb-c86b-4190-8b81-544262628795.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=BYlYHJ4P4A8",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/6628fdc5-4737-4d44-84ef-b19187d45af9.mp3",
@@ -51068,7 +51071,7 @@
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/775fea26-43c5-4241-b814-92d645d5c57b.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/ae240e78-4d42-49c4-ba41-e778d361b7fc.jpg",
     "YouTubeUrl": "https://www.youtube.com/watch?v=iaJ4VVFGIa8",
-    "videoStart": 6.5,
+    "videoStart": 6.9,
     "videoEnd": 95,
     "MusicUrl": "https://archive.org/download/retromusic/686d22f1-57f7-4065-8bb8-4eb2d32423a6.mp3",
     "PlatformNames": [
@@ -51195,7 +51198,7 @@
     "CoverImage": "689068e3-7bf3-4d4e-adfc-e3e7309cdef1.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/c9b3ad2b-8f97-4f7d-8ccc-818d013ba9c3.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/689068e3-7bf3-4d4e-adfc-e3e7309cdef1.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=ifOZmzMnQUo",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/68777eba-4ded-45b4-a5ce-15ee49d92ab0.mp3",
@@ -56964,9 +56967,9 @@
     "CoverImage": "37bee772-b5d5-44b7-813f-c6323ee73ce2.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/030f6313-68b1-4979-8964-fc36f69f66ca.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/37bee772-b5d5-44b7-813f-c6323ee73ce2.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://www.youtube.com/watch?v=-nzBjXXcn7o",
+    "videoStart": 2,
+    "videoEnd": 159,
     "MusicUrl": "https://archive.org/download/retromusic/73d34452-e3bf-4218-b48e-232773f1da57.mp3",
     "PlatformNames": [
       "Nintendo Wii U"
@@ -57560,8 +57563,8 @@
     "CoverImage": "cb89e27d-62ea-4277-9e48-d9045d279acf.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/f43a5e44-8ffa-481a-a2ea-c2fdf5fc6447.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/cb89e27d-62ea-4277-9e48-d9045d279acf.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
+    "YouTubeUrl": "https://www.youtube.com/watch?v=a0isn1eDEig",
+    "videoStart": 24,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/74b2c34f-2e08-440c-a34b-f5f043137285.mp3",
     "PlatformNames": [
@@ -58770,7 +58773,7 @@
     "CoverImage": "28730880-b1a3-4751-a465-a687ec6a81b9.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/1585ba26-1789-412f-b182-5ef7017d7f0b.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/28730880-b1a3-4751-a465-a687ec6a81b9.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=7xp_nEJPtzw",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/77136acc-340e-40ce-a0dc-5c61a911f00c.mp3",
@@ -58814,7 +58817,7 @@
     "CoverImage": "7019a524-64dc-4cff-bd2e-c0b1dbc05dc4.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/799ed9c3-aa81-45d5-a077-c61cdaf4332e.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/7019a524-64dc-4cff-bd2e-c0b1dbc05dc4.jpg",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=00J_MpAfgKU",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/7721df6e-847d-4956-a50c-a5ceb303cc24.mp3",
@@ -65276,7 +65279,7 @@
     "CoverImage": "a12b6fd6-d2ea-4724-9870-a1f126534ddd.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/e6019688-4c89-423d-b2a3-13702ce9fe45.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/a12b6fd6-d2ea-4724-9870-a1f126534ddd.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=Rc9lWQeIVxs",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/83f46c16-0bb2-491b-b2d9-52544ba22935.mp3",
@@ -68585,8 +68588,8 @@
     "CoverImage": "cf9a231f-d1ae-4c15-bee5-87db4d828cf9.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/9e91588f-2607-4d25-b596-708f07b7ce60.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/cf9a231f-d1ae-4c15-bee5-87db4d828cf9.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
+    "YouTubeUrl": "https://www.youtube.com/watch?v=YuLlWaRxdSo",
+    "videoStart": 5,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/8b181b54-c4a4-444c-92ca-1f0bf5f2e497.mp3",
     "PlatformNames": [
@@ -75433,9 +75436,9 @@
     "CoverImage": "abd60e9e-125c-48cd-80c2-0aa05e65bc00.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/9066b21d-0779-4567-8af4-cda663dd3ad7.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/abd60e9e-125c-48cd-80c2-0aa05e65bc00.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=BJMr_lyjqMI",
     "videoStart": null,
-    "videoEnd": null,
+    "videoEnd": 118,
     "MusicUrl": "https://archive.org/download/retromusic/9935a80c-c247-4344-994a-693c9148e26c.mp3",
     "PlatformNames": [
       "Sony PlayStation"
@@ -77157,9 +77160,9 @@
     "CoverImage": "7b60885c-df91-4ea9-be71-0b9af9bd3e75.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/f772fb64-09f8-4f6a-8992-c291005bf45b.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/7b60885c-df91-4ea9-be71-0b9af9bd3e75.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://www.youtube.com/watch?v=mU3nNT4rcFg",
+    "videoStart": 8,
+    "videoEnd": 117,
     "MusicUrl": "https://archive.org/download/retromusic/9d044787-08b1-48d6-90a7-ebfb8c956ca4.mp3",
     "PlatformNames": [
       "PC Game"
@@ -78119,7 +78122,7 @@
     "CoverImage": "e08ef127-2e41-4269-8969-ebb13363f3ec.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/8a203812-c6b2-40b4-9c12-7d65819d6219.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/e08ef127-2e41-4269-8969-ebb13363f3ec.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=lxKr70Mel7g",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/9ef639fa-4051-4db7-ae2f-fe7a6e95364b.mp3",
@@ -78205,7 +78208,7 @@
     "CoverImage": "f6ca50d0-53ca-4d9a-a024-00597dfb8753.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/b7304f45-b370-40d1-a568-406f9a161494.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/f6ca50d0-53ca-4d9a-a024-00597dfb8753.jpg",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=WA1lEU_zTCw",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/9eff269b-507c-4f27-b6a0-18ae16bb9d55.mp3",
@@ -83814,8 +83817,8 @@
     "CoverImage": "f877276f-fe3e-4671-9671-1cf83da92c99.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/470d7350-36a0-4842-8ff9-e94571b1bef3.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/f877276f-fe3e-4671-9671-1cf83da92c99.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
+    "YouTubeUrl": "https://www.youtube.com/watch?v=iZLH3otxJOY",
+    "videoStart": 7,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/a9b98b7b-190a-4976-afd5-01ae527c84b8.mp3",
     "PlatformNames": [
@@ -93327,9 +93330,9 @@
     "CoverImage": "85201758-b0a7-46d1-8dac-43607d29ef19.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/91750ec3-b4ca-43b6-80f4-cbc695ac0b24.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/85201758-b0a7-46d1-8dac-43607d29ef19.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://www.youtube.com/watch?v=ZNCfiBDjUhY",
+    "videoStart": 7,
+    "videoEnd": 52,
     "MusicUrl": "https://archive.org/download/retromusic/b94e6e3d-dd97-4b68-a6e3-71fb654df0d5.mp3",
     "PlatformNames": [
       "Nintendo Game Boy Advance"
@@ -95454,7 +95457,7 @@
     "CoverImage": "94f959bb-816a-413d-abf6-b1e0958623f4.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/aeaf2b1e-ab48-4d4f-a0f3-16966d141aee.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/94f959bb-816a-413d-abf6-b1e0958623f4.jpg",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=AVTfCB5Ml2I",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/bd9ec9ea-18f6-4dea-b3fc-741f4d30d6e1.mp3",
@@ -96113,7 +96116,7 @@
     "CoverImage": "c197846b-42ff-4d25-80ef-af6f9486157f.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/7bbde9f6-d687-4584-a0cc-231f3476d1df.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/c197846b-42ff-4d25-80ef-af6f9486157f.jpg",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=44Zl5HokeEQ",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/bf0eeeea-4762-4b61-82d1-6c24fb27f130.mp3",
@@ -101550,9 +101553,9 @@
     "CoverImage": "f4fc183a-73e8-4593-81fb-2ebb00305cc1.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/272dd18a-d74a-4081-b221-5bf9377bfd77.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/f4fc183a-73e8-4593-81fb-2ebb00305cc1.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=GHSdihDIkeM",
     "videoStart": null,
-    "videoEnd": null,
+    "videoEnd": 83,
     "MusicUrl": "https://archive.org/download/retromusic/c8816c44-e62f-4a87-800b-eb1d2ecd5844.mp3",
     "PlatformNames": [
       "Nintendo Switch"
@@ -108126,7 +108129,7 @@
     "CoverImage": "c2dda1fd-581e-4d08-9719-beb02bcd38b1.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/d6adbbb8-07e3-4b60-9be0-e094b2ec369c.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/c2dda1fd-581e-4d08-9719-beb02bcd38b1.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=TClBRCQUsuw",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/d4e33a4e-b979-4490-9e57-7658820ae302.mp3",
@@ -111720,9 +111723,9 @@
     "CoverImage": "e4326541-6671-4233-8bd3-a7063a922bba.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/d161dd4b-fc03-49fa-b59c-ecab895994c4.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/e4326541-6671-4233-8bd3-a7063a922bba.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://www.youtube.com/watch?v=mOQwMLWEJrg",
+    "videoStart": 3,
+    "videoEnd": 129,
     "MusicUrl": "https://archive.org/download/retromusic/dbfc3917-fe9f-4a4d-93c8-8ef18844328f.mp3",
     "PlatformNames": [
       "PC Game"
@@ -119564,9 +119567,9 @@
     "CoverImage": "e7a432e6-c0a1-4012-a9f7-765486805fa9.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/57040468-80e8-4cc8-a19e-afe2b1d92b06.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/e7a432e6-c0a1-4012-a9f7-765486805fa9.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://www.youtube.com/watch?v=H8K_4hgSHqI",
+    "videoStart": 3,
+    "videoEnd": 190,
     "MusicUrl": "https://archive.org/download/retromusic/ec7145cc-49cd-4aec-bedb-527a31b17ed2.mp3",
     "PlatformNames": [
       "PC Game"
