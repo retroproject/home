@@ -123383,9 +123383,9 @@
     "CoverImage": "57506c44-d80f-4ffe-a1c8-44ab20ce4190.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/04b47a1b-f251-48f2-b30a-4ef561caa4cb.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/57506c44-d80f-4ffe-a1c8-44ab20ce4190.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://www.youtube.com/watch?v=cFrs5UGB-ns",
+    "videoStart": 23,
+    "videoEnd": 114,
     "MusicUrl": "https://archive.org/download/retromusic/f32ac6df-7bb3-4430-8599-f3002354e777.mp3",
     "PlatformNames": [
       "PC Game"
