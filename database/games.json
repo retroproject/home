@@ -101181,7 +101181,7 @@
     "CoverImage": "436b8845-b612-4858-a1ae-c7102a8a4df8.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/ef05cfb8-09f5-4c6f-8a2a-fe18ce868935.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/436b8845-b612-4858-a1ae-c7102a8a4df8.jpg",
-    "YouTubeUrl": "https://www.youtube.com/watch?v=K3LH7De3vvI",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Bayonetta%203.mp4",
     "videoStart": 43.7,
     "videoEnd": 144,
     "MusicUrl": "https://archive.org/download/retromusic/c7ed7763-9640-498e-8a2d-387988f88da7.mp3",
@@ -123383,9 +123383,9 @@
     "CoverImage": "57506c44-d80f-4ffe-a1c8-44ab20ce4190.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/04b47a1b-f251-48f2-b30a-4ef561caa4cb.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/57506c44-d80f-4ffe-a1c8-44ab20ce4190.png",
-    "YouTubeUrl": "https://www.youtube.com/watch?v=cFrs5UGB-ns",
-    "videoStart": 23,
-    "videoEnd": 114,
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/f32ac6df-7bb3-4430-8599-f3002354e777.mp3",
     "PlatformNames": [
       "PC Game"
