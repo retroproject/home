@@ -87345,7 +87345,7 @@
     "_id": "af98f410-e55b-49a7-a29c-6e5e605f242d",
     "GameId": "cc47fd47-dbcb-4979-a670-1db3c03bfde5",
     "Name": "Tales of Xillia",
-    "SortingName": "Tales of 11",
+    "SortingName": "Tales of 11.01",
     "Description": "When medical student <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Jude Mathis</span> encounters the mysterious spirit <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 10px #FF1493;'>Milla Maxwell</span>, he becomes entangled in a conflict that threatens both the human and spirit realms of <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 10px #FFD700;'>Rieze Maxia</span>.<br>Join forces with <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Alvin</span> the mercenary, <span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>Elize</span> and her doll <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>Teepo</span>, <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>Rowen</span> the butler, and <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>Leia</span> as they uncover a sinister plot involving <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>spyrix technology</span> that drains the world's life force.<br>Master the innovative <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>linking system</span> that allows characters to combine attacks and support each other in fast-paced <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>real-time battles</span>.<br>Experience dual perspectives as you choose to follow either Jude's journey of growth or Milla's mission of divine purpose, each offering unique story insights into this epic tale of <span style='color:#2E8B57; font-weight:bold; text-shadow: 0 0 6px #2E8B57;'>sacrifice</span>, <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>friendship</span>, and the delicate balance between <span style='color:#696969; font-weight:bold; text-shadow: 0 0 6px #696969;'>progress</span> and preservation.<br>",
     "DescriptionArabic": "<div dir='rtl'>عندما يواجه طالب الطب <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>جود ماتيس</span> الروح الغامضة <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 10px #FF1493;'>ميلا ماكسويل</span>، ينغمس في صراع يهدد عوالم البشر والأرواح في <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 10px #FFD700;'>ريز ماكسيا</span>.<br>انضم مع <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>ألفين</span> المرتزق و<span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>إليز</span> ودميتها <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>تيبو</span> و<span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>روين</span> الخادم و<span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>ليا</span> وهم يكشفون مؤامرة شريرة تشمل <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>تكنولوجيا السبايريكس</span> التي تستنزف قوة حياة العالم.<br>اتقن <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>نظام الربط</span> المبتكر الذي يسمح للشخصيات بدمج الهجمات ودعم بعضها البعض في <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>معارك الوقت الحقيقي</span> سريعة الوتيرة.<br>اختبر وجهات نظر مزدوجة وأنت تختار اتباع رحلة جود للنمو أو مهمة ميلا ذات الهدف الإلهي، كل منهما يقدم رؤى قصة فريدة في هذه الحكاية الملحمية عن <span style='color:#2E8B57; font-weight:bold; text-shadow: 0 0 6px #2E8B57;'>التضحية</span> و<span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>الصداقة</span> والتوازن الدقيق بين <span style='color:#696969; font-weight:bold; text-shadow: 0 0 6px #696969;'>التقدم</span> والحفظ.</div>",
     "ReleaseDate": "2011-9-8",
@@ -134419,5 +134419,45 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1761904429003_0",
+    "Name": "Tales of Xillia Remastered",
+    "SortingName": "Tales of 11.02",
+    "Description": "In the mystical realm of <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 10px #FFD700;'>Rieze Maxia</span>, where humans and spirits weave existence together through <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>mana</span>, medical student <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Jude Mathis</span> encounters a woman who claims to be <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 10px #FF1493;'>Maxwell, the Lord of Spirits</span> herself.<br>Their fateful meeting inside a military installation reveals the sinister <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Lance of Kresnik</span>, a weapon consuming the world's very <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>life essence</span> to fuel <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Rashugal's ambitions</span>.<br>Now branded as fugitives, Jude and <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>Milla</span> must forge alliances and master the <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>linking combat system</span> to face overwhelming odds.<br>Experience this remastered classic through <span style='color:#FFA500; font-weight:bold; text-shadow: 0 0 8px #FFA500;'>dual perspectives</span>—walk Jude's path of growth or Milla's divine mission—each unveiling unique truths about <span style='color:#2E8B57; font-weight:bold; text-shadow: 0 0 6px #2E8B57;'>sacrifice</span>, <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>friendship</span>, and the delicate balance between <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 6px #B8860B;'>progress and preservation</span>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في العالم الغامض <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 10px #FFD700;'>ريز ماكسيا</span>، حيث يحيك البشر والأرواح الوجود معاً من خلال <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>المانا</span>، يلتقي طالب الطب <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>جود ماتيس</span> بامرأة تدعي أنها <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 10px #FF1493;'>ماكسويل، سيدة الأرواح</span> نفسها.<br>لقاؤهما المصيري داخل منشأة عسكرية يكشف عن <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>رمح كريسنيك</span> الشرير، سلاح يلتهم <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>جوهر حياة</span> العالم لتغذية <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>طموحات راشوجال</span>.<br>الآن وقد وُصموا كهاربين، يجب على جود و<span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>ميلا</span> تشكيل تحالفات وإتقان <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>نظام القتال المرتبط</span> لمواجهة احتمالات ساحقة.<br>اختبر هذه الكلاسيكية المحدثة من خلال <span style='color:#FFA500; font-weight:bold; text-shadow: 0 0 8px #FFA500;'>منظورين مزدوجين</span>—اسلك طريق جود للنمو أو مهمة ميلا الإلهية—كل منهما يكشف حقائق فريدة عن <span style='color:#2E8B57; font-weight:bold; text-shadow: 0 0 6px #2E8B57;'>التضحية</span> و<span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>الصداقة</span> والتوازن الدقيق بين <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 6px #B8860B;'>التقدم والحفظ</span>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 100,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Tales%20of%20Xillia%20Remastered%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Tales%20of%20Xillia%20Remastered%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Tales%20of%20Xillia%20Remastered%20Trailer.mp4",
+    "videoStart": 2.2,
+    "videoEnd": 54.2,
+    "MusicUrl": "https://archive.org/download/retromusic/af98f410-e55b-49a7-a29c-6e5e605f242d.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Japanese Role-Playing"
+    ],
+    "DeveloperNames": [
+      "Dokidoki Grooveworks"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP006",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "18 GB",
+            "executable": "Tales of Xillia Remastered.exe",
+            "buildID": "30 October 2025",
+            "arguments": [],
+            "filename": "00146.zip"
+          }
+        ]
+      }
+    }
   }
 ]
