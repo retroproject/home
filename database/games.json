@@ -47854,7 +47854,7 @@
   {
     "_id": "6355abb1-ac81-4c4b-bce7-5a3e8857b51b",
     "GameId": "eafbe638-7491-4309-abe1-5b4c333345b6",
-    "Name": "Altered Beast",
+    "Name": "Altered Beast 2005",
     "SortingName": "Altered Beast 02",
     "Description": "When the <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>demon Neff</span> kidnaps <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 8px #FFB6C1;'>Athena</span> and drags her into the <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>underworld</span>, Zeus resurrects a fallen centurion to reclaim what darkness has stolen from the realm of light.<br>Blessed with the power to absorb the <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>spirit orbs</span> of defeated beasts, the warrior transforms into legendary creatures—from a mighty <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 6px #DAA520;'>werewolf</span> to a fire-breathing <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>dragon</span>—each form granting new powers to combat evil.<br>Through hellish landscapes where <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>skeletal warriors</span> and <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 6px #9370DB;'>grotesque demons</span> bar his path, he must master the balance between man and monster.<br>In this mythological tale where <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 6px #32CD32;'>divine power</span> flows through mortal flesh, the greatest challenge isn't defeating the demons without—but ensuring the <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>beast within</span> doesn't consume the hero's humanity.",
     "DescriptionArabic": "<div dir='rtl'>عندما يخطف <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الشيطان نيف</span> <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 8px #FFB6C1;'>أثينا</span> ويجرها إلى <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>عالم الأموات</span>، يبعث زيوس قائد مئة ساقطاً لاستعادة ما سرقه الظلام من عالم النور.<br>مبارك بقوة امتصاص <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>كرات أرواح</span> الوحوش المهزومة، يتحول المحارب إلى مخلوقات أسطورية—من <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 6px #DAA520;'>ذئب عملاق</span> إلى <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>تنين</span> ينفث النار—كل شكل يمنح قوى جديدة لمحاربة الشر.<br>عبر مناظر جهنمية حيث يعترض <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>محاربون عظميون</span> و<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 6px #9370DB;'>شياطين مشوهون</span> طريقه، عليه أن يسيطر على التوازن بين الإنسان والوحش.<br>في هذه الحكاية الأسطورية حيث تتدفق <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 6px #32CD32;'>القوة الإلهية</span> عبر الجسد الفاني، أعظم تحدٍ ليس هزيمة الشياطين في الخارج—بل ضمان أن <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>الوحش في الداخل</span> لا يلتهم إنسانية البطل.</div>",
@@ -112318,13 +112318,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC26",
+            "identifier": "RPRP006",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "590MB",
             "arguments": [],
             "executable": "VampireSurvivors.exe",
-            "filename": "Vampire Survivors.zip"
+            "buildID": "28 October 2025",
+            "filename": "00147.zip"
           }
         ]
       }
@@ -117660,12 +117661,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC25",
-            "filename": "Hollowbody.zip",
+            "identifier": "RPRP006",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Hollowbody.exe",
-            "fileSize": "8GB"
+            "fileSize": "8GB",
+            "buildID": "27 October 2025",
+            "filename": "00148.zip"
           }
         ]
       }
@@ -134458,6 +134460,7 @@
           }
         ]
       }
-    }
+    },
+    "Tags": []
   }
 ]
