@@ -2951,9 +2951,9 @@
     "CoverImage": "0d7f33be-b10e-4f91-a9f7-8bc5c64353b8.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/8ae8c3d8-c3b5-4cdc-9065-9aea25490bcf.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/0d7f33be-b10e-4f91-a9f7-8bc5c64353b8.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Alien%20Isolation%20Trailer.mp4",
+    "videoStart": 22,
+    "videoEnd": 148.23333333333332,
     "MusicUrl": "https://archive.org/download/retromusic/05717647-0b52-40f1-8b6d-9bad21f7cac5.mp3",
     "PlatformNames": [
       "PC Game"
@@ -3329,9 +3329,9 @@
     "CoverImage": "f3b9e2f9-b8e7-41de-8594-d14a4c9e1aee.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/a7f97789-ad5d-442c-974d-d663f4cbe029.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/f3b9e2f9-b8e7-41de-8594-d14a4c9e1aee.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Amnesia%20The%20Dark%20Descent%20Trailer.mp4",
     "videoStart": null,
-    "videoEnd": null,
+    "videoEnd": 134.9,
     "MusicUrl": "https://archive.org/download/retromusic/061f6bee-25dd-43f5-997e-dec9a4b10d81.mp3",
     "PlatformNames": [
       "PC Game"
@@ -7129,9 +7129,9 @@
     "CoverImage": "ccee2f86-7029-4d23-8239-5aa54d479253.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/78aca94f-e615-4ac6-a8d1-2a0c0ac42339.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/ccee2f86-7029-4d23-8239-5aa54d479253.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Anno%20Mutationem%20Trailer.mp4",
+    "videoStart": 2.7666666666666666,
+    "videoEnd": 112.56666666666666,
     "MusicUrl": "https://archive.org/download/retromusic/0ea7b1f3-1078-4e44-9d7b-47349d49e68f.mp3",
     "PlatformNames": [
       "PC Game"
@@ -13490,9 +13490,9 @@
     "CoverImage": "e8ef4538-d99f-4a13-96fc-038526151919.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/445fe1c2-3a94-4986-b414-7158d71f5eab.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/e8ef4538-d99f-4a13-96fc-038526151919.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Altered%20Beast%20Trailer.mp4",
+    "videoStart": 4,
+    "videoEnd": 127.16666666666667,
     "MusicUrl": "https://archive.org/download/retromusic/1acbaaaa-ea1c-4a13-9221-f9894076a18f.mp3",
     "PlatformNames": [
       "Arcade"
@@ -14309,9 +14309,9 @@
     "CoverImage": "b68cc8af-4674-4c0e-a283-273474c0ca6d",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/2b32dd17-7241-4471-9c58-a6571dc486f3.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/b68cc8af-4674-4c0e-a283-273474c0ca6d",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Another%20Code%20Recollection%20Trailer.mp4",
+    "videoStart": 2.7333333333333334,
+    "videoEnd": 159.06666666666666,
     "MusicUrl": "https://archive.org/download/retromusic/1ca88b9e-1ffb-4437-b484-f9062688a0db.mp3",
     "PlatformNames": [
       "Nintendo Switch"
@@ -15353,7 +15353,7 @@
     "CoverImage": "93b90298-68c5-496f-9567-edeb689a9f6e.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/b03bee88-c0a9-4942-81e7-0642733ebf8f.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/93b90298-68c5-496f-9567-edeb689a9f6e.jpg",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Animal%20Crossing%20City%20Folk%20Trailer.mp4",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/1f16e538-b295-42ce-8aa7-4b44f802b1de.mp3",
@@ -15885,7 +15885,7 @@
     "CoverImage": "db299cf1-f709-4994-b070-06722c8056d6.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/8b6eeb56-eced-4694-8665-837a8fa5059c.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/db299cf1-f709-4994-b070-06722c8056d6.jpg",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Alone%20in%20the%20Dark%20The%20New%20Nightmare%20Trailer.mp4",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/1fd97420-6731-4430-85b2-d4e8167f374f.mp3",
@@ -30405,9 +30405,9 @@
     "CoverImage": "d87fca50-43de-4a6f-b6ad-21b6f3b4f8b8.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/110eac80-5d90-4621-bf47-dc5728dfb26e.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/d87fca50-43de-4a6f-b6ad-21b6f3b4f8b8.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Anonymous%3BCode%20Trailer.mp4",
+    "videoStart": 3.1,
+    "videoEnd": 159.06666666666666,
     "MusicUrl": "https://archive.org/download/retromusic/3d4f20d2-d9f2-4b5d-84b4-b92cf9f29656.mp3",
     "PlatformNames": [
       "PC Game"
@@ -32463,9 +32463,9 @@
     "CoverImage": "c7ec5825-abdf-4e61-b8a3-4b88c10ce1e5.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/96f83821-ecc7-4826-b55e-f7d641920705.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/c7ec5825-abdf-4e61-b8a3-4b88c10ce1e5.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Animal%20Crossing%20New%20Horizons%20Trailer.mp4",
+    "videoStart": 14.166666666666666,
+    "videoEnd": 103,
     "MusicUrl": "https://archive.org/download/retromusic/4285b4f9-a66e-4dd5-8ed6-084beb7367c2.mp3",
     "PlatformNames": [
       "Nintendo Switch"
@@ -48617,9 +48617,9 @@
     "CoverImage": "a37707ae-96e0-431e-bfc9-312d9f4a0a95.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/29ab4b7d-5e28-49d4-9a33-98a53fb68296.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/a37707ae-96e0-431e-bfc9-312d9f4a0a95.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Animal%20Well%20Trailer.mp4",
+    "videoStart": 2.7666666666666666,
+    "videoEnd": 59.6,
     "MusicUrl": "https://archive.org/download/retromusic/64af72b5-ffd6-42b2-9b0a-1660cd1a5b4d.mp3",
     "PlatformNames": [
       "PC Game"
@@ -62960,9 +62960,9 @@
     "CoverImage": "f94480c4-f65b-41ab-9238-330b043ac7e4.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/6c1e5cde-d45b-4e69-85c4-bd3c63f5811b.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/f94480c4-f65b-41ab-9238-330b043ac7e4.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/The%20Retro%20Project%20Trailer.mp4",
+    "videoStart": 22.8,
+    "videoEnd": 110.2,
     "MusicUrl": "https://archive.org/download/retromusic/7f63b747-6181-4621-a047-e58254d4b350.mp3",
     "PlatformNames": [
       "PC Game"
@@ -73681,9 +73681,9 @@
     "CoverImage": "cd3498b3-9d98-48b9-8e13-11c8ba78ea19.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/74dc77fc-0502-400f-a4aa-b961c98ff6a9.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/cd3498b3-9d98-48b9-8e13-11c8ba78ea19.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Animal%20Crossing%20Trailer.mp4",
+    "videoStart": 6.9,
+    "videoEnd": 58.666666666666664,
     "MusicUrl": "https://archive.org/download/retromusic/95521b68-6c06-4580-a7c9-2ee1944f15d3.mp3",
     "PlatformNames": [
       "Nintendo GameCube"
@@ -74725,9 +74725,9 @@
     "CoverImage": "90968195-17e2-44cc-a6db-8b5238ac9ebb.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/0b9c7fd3-e0e8-4642-ae82-3ace8f84d3eb.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/90968195-17e2-44cc-a6db-8b5238ac9ebb.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Alone%20in%20the%20Dark%20Illumination%20Trailer.mp4",
+    "videoStart": 10.4,
+    "videoEnd": 79.56666666666666,
     "MusicUrl": "https://archive.org/download/retromusic/97eb6c93-1fe2-40ce-972d-fd5d43c85603.mp3",
     "PlatformNames": [
       "PC Game"
@@ -85754,9 +85754,9 @@
     "CoverImage": "7231e01c-e793-4443-9e4b-3136af61f968.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/d3f54dc0-cde9-4541-8876-8f04276727df.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/7231e01c-e793-4443-9e4b-3136af61f968.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Amnesia%20A%20Machine%20For%20Pigs%20Trailer.mp4",
+    "videoStart": 9.4,
+    "videoEnd": 66.96666666666667,
     "MusicUrl": "https://archive.org/download/retromusic/acded522-0981-47a6-b144-7dafe3b4826f.mp3",
     "PlatformNames": [
       "PC Game"
@@ -87483,8 +87483,8 @@
     "CoverImage": "f4ed9e24-7d85-4484-909a-36253d08f829.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/3f78aa58-9542-47b3-8a3f-f2d50e438653.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/f4ed9e24-7d85-4484-909a-36253d08f829.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Alone%20in%20the%20Dark%20Trailer.mp4",
+    "videoStart": 10.566666666666666,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/b01291d4-8124-441a-9042-d1881b7d67e4.mp3",
     "PlatformNames": [
@@ -87656,7 +87656,7 @@
     "CoverUrl": "https://archive.org/download/retrocovers/a80c8e1f-0f86-4ade-8f50-ddc73e7449d8.png",
     "YouTubeUrl": "https://archive.org/download/RPRV001/Final%20Fantasy%20X%20Trailer.mp4",
     "videoStart": 5,
-    "videoEnd": 153,
+    "videoEnd": 153.1,
     "MusicUrl": "https://archive.org/download/retromusic/b0209466-4c00-48c7-a027-1c552f181bf9.mp3",
     "PlatformNames": [
       "PC Game"
@@ -91058,9 +91058,9 @@
     "CoverImage": "39ea23c0-b46e-4d24-ac89-4167c33bc66b.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/880dab81-8660-44b5-913e-ed8e5c6ae699.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/39ea23c0-b46e-4d24-ac89-4167c33bc66b.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Amnesia%20The%20Bunker%20Trailer.mp4",
+    "videoStart": 2.533333333333333,
+    "videoEnd": 92.06666666666666,
     "MusicUrl": "https://archive.org/download/retromusic/b5a26f29-c2de-4778-bc73-a9dfcddd4a70.mp3",
     "PlatformNames": [
       "PC Game"
@@ -92843,9 +92843,9 @@
     "CoverImage": "87a0e205-8555-453f-b1b3-0ef73249f57c.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/44470e47-aa1f-4065-9d36-b64673dba8e7.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/87a0e205-8555-453f-b1b3-0ef73249f57c.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Amnesia%20Rebirth%20Trailer.mp4",
+    "videoStart": 3.2,
+    "videoEnd": 92.33333333333333,
     "MusicUrl": "https://archive.org/download/retromusic/b8a177eb-bfa7-480d-ab9c-f5d4bad583a1.mp3",
     "PlatformNames": [
       "PC Game"
@@ -97704,8 +97704,8 @@
     "CoverImage": "3fbd6c65-5ddf-4f1a-9edb-5bbfea41a56e.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/3b33dff2-e9c6-4663-b24b-f790c98439b0.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/3fbd6c65-5ddf-4f1a-9edb-5bbfea41a56e.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Animal%20Crossing%20Wild%20World%20Trailer.mp4",
+    "videoStart": 2.1,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/c2966bc3-b99a-4a89-8305-e546270f6bc2.mp3",
     "PlatformNames": [
@@ -100215,9 +100215,9 @@
     "CoverImage": "37fc4a52-73be-4f65-816f-ea1d6f6525d4.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/2c1aa9bf-4273-41cb-a002-0554b73a2bd4.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/37fc4a52-73be-4f65-816f-ea1d6f6525d4.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Animal%20Crossing%20New%20Leaf%20Trailer.mp4",
+    "videoStart": 5.066666666666666,
+    "videoEnd": 163.9,
     "MusicUrl": "https://archive.org/download/retromusic/c68a2c77-ca20-40d7-8796-c5efaa44e858.mp3",
     "PlatformNames": [
       "Nintendo 3DS"
@@ -115568,9 +115568,9 @@
     "CoverImage": "eecd2e63-6f68-432d-ad74-a60e3c82606b.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/8f54cbb4-8cd6-4fda-9fbf-ec04c460a0cd.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/eecd2e63-6f68-432d-ad74-a60e3c82606b.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Alundra%202%20A%20New%20Legend%20Begins%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 61.166666666666664,
     "MusicUrl": "https://archive.org/download/retromusic/e445fdc6-b23d-45c4-a3d6-151aef138905.mp3",
     "PlatformNames": [
       "Sony PlayStation"
@@ -117598,9 +117598,9 @@
     "CoverImage": "7a9d40ff-a614-4c8d-9634-d0180ba49598.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/063afd4d-9c34-4444-896b-7e9c36eeff94.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/7a9d40ff-a614-4c8d-9634-d0180ba49598.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Alone%20in%20the%20Dark%20Inferno%20Trailer.mp4",
+    "videoStart": 10.166666666666666,
+    "videoEnd": 67.4,
     "MusicUrl": "https://archive.org/download/retromusic/e93631df-9a6a-46dc-9eaa-a1084084ee3e.mp3",
     "PlatformNames": [
       "Sony PlayStation 3"
@@ -119433,9 +119433,9 @@
     "CoverImage": "0c40d98c-c541-4bd0-a172-3ec8c48f9cb3.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/e391c341-8b2c-471f-b815-51bdfd4c6e29.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/0c40d98c-c541-4bd0-a172-3ec8c48f9cb3.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Alundra%20Trailer.mp4",
+    "videoStart": 19.1,
+    "videoEnd": 182.06666666666666,
     "MusicUrl": "https://archive.org/download/retromusic/ec1f51a2-fa45-49db-a254-d9835585dc27.mp3",
     "PlatformNames": [
       "Sony PlayStation"
@@ -123383,9 +123383,9 @@
     "CoverImage": "57506c44-d80f-4ffe-a1c8-44ab20ce4190.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/04b47a1b-f251-48f2-b30a-4ef561caa4cb.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/57506c44-d80f-4ffe-a1c8-44ab20ce4190.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Alice%20Madness%20Returns%20Trailer.mp4",
+    "videoStart": 23,
+    "videoEnd": 110,
     "MusicUrl": "https://archive.org/download/retromusic/f32ac6df-7bb3-4430-8599-f3002354e777.mp3",
     "PlatformNames": [
       "PC Game"
