@@ -112317,10 +112317,10 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP006",
+            "identifier": "RPRP005",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "590MB",
+            "fileSize": "2GB",
             "arguments": [],
             "executable": "VampireSurvivors.exe",
             "buildID": "28 October 2025",
@@ -117660,7 +117660,7 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP006",
+            "identifier": "RPRP005",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Hollowbody.exe",
