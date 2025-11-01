@@ -10348,8 +10348,8 @@
     "CoverImage": "2efa2f13-25cc-473f-82dc-d78e3d9fee44.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/d04b42a9-4c31-480c-bdb4-dd73e313eaa3.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/2efa2f13-25cc-473f-82dc-d78e3d9fee44.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Bleach%20The%20Blade%20of%20Fate%20Trailer.mp4",
+    "videoStart": 12.8,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/14ab284c-57f5-4961-9554-1d4751fd0f6d.mp3",
     "PlatformNames": [
@@ -12918,7 +12918,10 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Has Issues"
+    ]
   },
   {
     "_id": "19b39575-aae4-4a8d-b3ab-e5d48c05634b",
@@ -17173,9 +17176,9 @@
     "CoverImage": "3f884484-f0dd-47b1-b405-bbc77456b36e.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/88a174e8-048b-4995-bb1b-d51c1f85f61b.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/3f884484-f0dd-47b1-b405-bbc77456b36e.jpg",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Bleach%20Heat%20the%20Soul%20Trailer.mp4",
     "videoStart": null,
-    "videoEnd": null,
+    "videoEnd": 90,
     "MusicUrl": "https://archive.org/download/retromusic/23882922-df48-447c-a411-9be664f7cac4.mp3",
     "PlatformNames": [
       "Sony PlayStation Portable"
@@ -26180,9 +26183,9 @@
     "CoverImage": "9b5d9172-19b8-4681-a8e5-d410795368e7.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/a5b4bd87-5b65-4ba4-979f-3e61c20be4aa.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/9b5d9172-19b8-4681-a8e5-d410795368e7.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/%23Blud%20Trailer.mp4",
     "videoStart": null,
-    "videoEnd": null,
+    "videoEnd": 211.93333333333334,
     "MusicUrl": "https://archive.org/download/retromusic/3433fd34-68f9-4262-8046-a416fc834b70.mp3",
     "PlatformNames": [
       "PC Game"
@@ -29811,7 +29814,7 @@
     "CoverImage": "849480f7-9b3a-4724-9114-0a801c64700c.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/a809ff8b-d990-4df2-b861-660c42a678f4.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/849480f7-9b3a-4724-9114-0a801c64700c.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Bloodborne%20PSX%20Trailer.mp4",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/3c6e21e6-a7cb-4aaf-8dfd-2ee98251e31a.mp3",
@@ -31110,7 +31113,7 @@
     "CoverImage": "31002642-6c56-4712-a4e2-9716353a91e4.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/6e290650-722c-4385-a939-46348d0162e1.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/31002642-6c56-4712-a4e2-9716353a91e4.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Bleak%20Faith%20Forsaken%20Trailer.mp4",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/3f216122-b3e9-4109-a616-8eb5d8d33e80.mp3",
@@ -42108,9 +42111,9 @@
     "CoverImage": "cd83235f-a695-4a37-92ae-5785246c4fb5.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/259aa161-55aa-432d-96bf-9e74d326860c.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/cd83235f-a695-4a37-92ae-5785246c4fb5.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Bloodstained%20Curse%20of%20the%20Moon%20Trailer.mp4",
+    "videoStart": 5,
+    "videoEnd": 146.86666666666667,
     "MusicUrl": "https://archive.org/download/retromusic/57dcbe4f-14c9-4410-a209-9e50317b9399.mp3",
     "PlatformNames": [
       "PC Game"
@@ -49485,7 +49488,7 @@
     "CoverImage": "995d6f7c-6076-41b8-aed5-df1723c933c4.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/232c267c-b06a-4baa-a5a6-d8f9f79c59b0.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/995d6f7c-6076-41b8-aed5-df1723c933c4.jpg",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Bloody%20Roar%202%20Trailer.mp4",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/65f9abd7-efa1-409d-991b-fb5645684c32.mp3",
@@ -55944,9 +55947,9 @@
     "CoverImage": "d5dc4c2f-c975-436c-a410-1452b120c835.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/94fe6e0b-b8c1-4cdb-8a31-291a02c3237f.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/d5dc4c2f-c975-436c-a410-1452b120c835.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Blinx%20The%20Time%20Sweeper%20Trailer.mp4",
+    "videoStart": 2.2,
+    "videoEnd": 140.9,
     "MusicUrl": "https://archive.org/download/retromusic/7103005a-1283-48f0-8353-3a9542e5d32f.mp3",
     "PlatformNames": [
       "Microsoft Xbox"
@@ -57104,8 +57107,8 @@
     "CoverImage": "1f4151bc-50b3-43a5-a0c7-dc96d749d533.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/b9e4d6e6-5ff5-40e0-8cb7-1a9a57d69952.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/1f4151bc-50b3-43a5-a0c7-dc96d749d533.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/BloodRayne%20Terminal%20Cut%20Trailer.mp4",
+    "videoStart": 4.766666666666667,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/73f80d37-e204-43e0-946e-54ae48bf0a86.mp3",
     "PlatformNames": [
@@ -61255,9 +61258,9 @@
     "CoverImage": "493bbcac-2949-4cd2-85c2-1eaa429835bc.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/570504e0-5bf1-44c9-8dcf-1ad0ca61d731.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/493bbcac-2949-4cd2-85c2-1eaa429835bc.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Bloody%20Roar%20Extreme%20Trailer.mp4",
+    "videoStart": 24.4,
+    "videoEnd": 112.93333333333334,
     "MusicUrl": "https://archive.org/download/retromusic/7bb69a14-34b4-427a-b580-969916c8f9aa.mp3",
     "PlatformNames": [
       "Nintendo GameCube"
@@ -64353,8 +64356,8 @@
     "CoverImage": "3110309d-54b9-47ca-82e1-101de2e9f7a7.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/d0e8a08c-2646-4bbd-8bc3-54d978748438.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/3110309d-54b9-47ca-82e1-101de2e9f7a7.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Bloodstained%20Ritual%20of%20the%20Night%20Trailer.mp4",
+    "videoStart": 7.766666666666667,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/826a80f1-e514-4d47-b80a-90fd75f09979.mp3",
     "PlatformNames": [
@@ -72197,7 +72200,7 @@
     "CoverImage": "6b3c9ac9-6462-471e-83ff-ab922d444da7.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/5fdc38aa-2027-45e6-a77a-c1584e41e769.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/6b3c9ac9-6462-471e-83ff-ab922d444da7.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Bloody%20Roar%204%20Trailer.mp4",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/925e6398-8012-4425-bbae-2cfab7b96f63.mp3",
@@ -72904,9 +72907,9 @@
     "CoverImage": "66f29d57-4d3e-4a51-bb0f-94f32ef5f646.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/c66b4cfc-b938-48bd-a1d9-7f2398905710.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/66f29d57-4d3e-4a51-bb0f-94f32ef5f646.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Bloodstained%20Curse%20of%20the%20Moon%202%20Trailer.mp4",
+    "videoStart": 8.5,
+    "videoEnd": 129.63333333333333,
     "MusicUrl": "https://archive.org/download/retromusic/945a7567-78a1-4a40-abdf-b46053ca485d.mp3",
     "PlatformNames": [
       "PC Game"
@@ -75255,9 +75258,9 @@
     "CoverImage": "3fcd11f0-7374-4046-a4f5-93e742785b10.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/32b46db3-5b25-4d1e-b261-983eb6f8123a.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/3fcd11f0-7374-4046-a4f5-93e742785b10.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Blood%20Will%20Tell%20Tezuka%20Osamu's%20Dororo%20Trailer.mp4",
     "videoStart": null,
-    "videoEnd": null,
+    "videoEnd": 91.6,
     "MusicUrl": "https://archive.org/download/retromusic/98bef2bd-f06c-4322-9ca6-36860ebbfa5d.mp3",
     "PlatformNames": [
       "Sony PlayStation 2"
@@ -78251,7 +78254,7 @@
     "CoverImage": "2037c89e-dfed-429b-b396-9aedf1c50007.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/e46b5540-1e59-41fe-8820-5b93e920cacc.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/2037c89e-dfed-429b-b396-9aedf1c50007.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Blood%20West%20Trailer.mp4",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/9f0adbd9-4496-42bb-b053-6c01b41af0b9.mp3",
@@ -90394,7 +90397,7 @@
     "CoverImage": "4bc5de2b-ed6c-40d0-8c2f-25f9534334b7.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/ff436e35-a67c-4401-aedb-7fbbc713fd75.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/4bc5de2b-ed6c-40d0-8c2f-25f9534334b7.jpg",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Bloody%20Roar%20Trailer.mp4",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/b50e5a7f-c5f0-4037-9fa9-85aacc2b61af.mp3",
@@ -90973,9 +90976,9 @@
     "CoverImage": "efb99ed9-ac59-4483-8e8a-93f3b98e9b11.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/a4e8f95f-1fa4-4b98-9596-3c65f561b379.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/efb99ed9-ac59-4483-8e8a-93f3b98e9b11.jpg",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Bleach%20Soul%20Resurrecci%C3%B3n%20Trailer.mp4",
     "videoStart": null,
-    "videoEnd": null,
+    "videoEnd": 89.36666666666666,
     "MusicUrl": "https://archive.org/download/retromusic/b57c6362-452b-4f81-a307-a3cce8997513.mp3",
     "PlatformNames": [
       "Sony PlayStation 3"
@@ -100692,7 +100695,7 @@
     "CoverImage": "f52d656c-7a56-4c4a-ade6-5543731119bd.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/a7ac563a-00de-4d74-964c-b588ca275897.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/f52d656c-7a56-4c4a-ade6-5543731119bd.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Nightmare%20Kart%20Trailer.mp4",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/c73fc404-15aa-4103-b91c-0723b88b878d.mp3",
@@ -101734,9 +101737,9 @@
     "CoverImage": "9f8e989c-8261-48cb-839b-78802792686c.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/d789094c-ddb9-4816-8a89-73ab38a0836e.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/9f8e989c-8261-48cb-839b-78802792686c.jpg",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Bleach%20Shattered%20Blade%20Trailer.mp4",
     "videoStart": null,
-    "videoEnd": null,
+    "videoEnd": 121.63333333333334,
     "MusicUrl": "https://archive.org/download/retromusic/c8e56b46-1b7d-474d-a0b6-5aa4219f8844.mp3",
     "PlatformNames": [
       "Nintendo Wii"
@@ -108586,8 +108589,8 @@
     "CoverImage": "b70af492-1265-4e0e-bfce-99a8805eb941.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/16d23767-9059-45c5-a8bc-3c3fb4138271.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/b70af492-1265-4e0e-bfce-99a8805eb941.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/BloodRayne%20Betrayal%20Fresh%20Bites%20Trailer.mp4",
+    "videoStart": 4.4,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/d5c53238-92a3-4c5e-8290-a6a00c54fd86.mp3",
     "PlatformNames": [
@@ -108845,8 +108848,8 @@
     "CoverImage": "7f61470f-ecde-4ff3-ab4d-6bacf8cba009.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/78af3496-1763-4d63-bc83-a907f203fe00.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/7f61470f-ecde-4ff3-ab4d-6bacf8cba009.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/BloodRayne%202%20Terminal%20Cut%20Trailer.mp4",
+    "videoStart": 4.566666666666666,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/d665cde0-c209-461d-8359-b83815a2f35a.mp3",
     "PlatformNames": [
@@ -111420,9 +111423,9 @@
     "CoverImage": "b6ffc8e2-3b51-42c5-a106-dd8dd23b59dd.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/5afdb7db-8fec-4f5e-a4d0-8055325c695f.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/b6ffc8e2-3b51-42c5-a106-dd8dd23b59dd.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Bleach%20Blade%20Battlers%20Trailer.mp4",
+    "videoStart": 15.066666666666666,
+    "videoEnd": 167.86666666666667,
     "MusicUrl": "https://archive.org/download/retromusic/dafcb2bf-335d-4687-a6fb-793e5407e6d4.mp3",
     "PlatformNames": [
       "Sony PlayStation 2"
@@ -113751,8 +113754,8 @@
     "CoverImage": "c99272a0-a20d-452a-8671-cd76cdd55ed1.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/56711cf9-2109-4d19-a788-ef110e9ce76e.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/c99272a0-a20d-452a-8671-cd76cdd55ed1.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Blazing%20Souls%20Accelate%20Trailer.mp4",
+    "videoStart": 14.466666666666667,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/e0746d41-34b3-4f6e-89c9-7275a43585be.mp3",
     "PlatformNames": [
@@ -118445,9 +118448,9 @@
     "CoverImage": "3da0a17c-1d12-406e-af99-6a32d5fe2f4b.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/453a99ed-a842-4904-8b03-cfa862b4186a.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/3da0a17c-1d12-406e-af99-6a32d5fe2f4b.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Blinx%202%20Masters%20of%20Time%20and%20Space%20Trailer.mp4",
+    "videoStart": 5.366666666666666,
+    "videoEnd": 208.9,
     "MusicUrl": "https://archive.org/download/retromusic/ea74e115-b3e9-49cb-9868-dc0bdf5f84a9.mp3",
     "PlatformNames": [
       "Microsoft Xbox"
@@ -123166,7 +123169,7 @@
     "CoverImage": "98d85960-b0bb-4dc7-9711-a055d6064dca.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/5344f8b8-4e55-47f0-a667-b9a2cf8fcf55.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/98d85960-b0bb-4dc7-9711-a055d6064dca.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Bloody%20Roar%203%20Trailer.mp4",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/f2f285d8-49d7-4e45-818c-4d7d860f3abb.mp3",
@@ -125009,9 +125012,9 @@
     "CoverImage": "ba4f6834-bf53-42c0-9885-b84b93018cba.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/49be29c9-8495-4da9-828a-ac58652239a6.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/ba4f6834-bf53-42c0-9885-b84b93018cba.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Bloodborne%20Trailer.mp4",
+    "videoStart": 22.1,
+    "videoEnd": 104.93333333333334,
     "MusicUrl": "https://archive.org/download/retromusic/f666b8a1-2e3c-4ca3-82cd-591139fd4913.mp3",
     "PlatformNames": [
       "Sony PlayStation 4"
