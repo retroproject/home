@@ -15954,8 +15954,7 @@
         "versions": [
           {
             "identifier": "retro-nitro",
-            "filename": "Valkyrie Profile Covenant of the Plume.zip",
-            "name": "Vanilla",
+            "name": "Collection",
             "platform": "Nintendo DS",
             "emulator": "RetroArch",
             "fileSize": "130MB",
@@ -15963,7 +15962,6 @@
               "-L",
               ".\\cores\\melonds_libretro.dll"
             ],
-            "romFile": "",
             "romFiles": [
               "Valkyrie Profile Covenant of the Plume.nds",
               "Valkyrie Profile Covenant of the Plume (Japanese VA).nds"
@@ -15971,7 +15969,8 @@
             "romLabels": [
               "English VA",
               "Japanese VA"
-            ]
+            ],
+            "filename": "Valkyrie Profile Covenant of the Plume.zip"
           }
         ]
       }
@@ -134157,10 +134156,10 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "COPC01",
+            "identifier": "RPRP005",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "25 GB",
+            "fileSize": "25GB",
             "executable": "Bloodlines2.exe",
             "buildID": "20 October 2025",
             "arguments": [],
@@ -134411,7 +134410,7 @@
             "identifier": "RPRP005",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "44 GB",
+            "fileSize": "44GB",
             "executable": "TormentedSouls2.exe",
             "buildID": "23 October 2025",
             "arguments": [],
@@ -134449,7 +134448,7 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP006",
+            "identifier": "RPRP005",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "18 GB",
