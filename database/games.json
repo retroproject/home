@@ -93608,7 +93608,7 @@
     "SortingName": "",
     "Description": "In a world where the mysterious <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>Hollow Night</span> phenomenon transforms ordinary people into powerful <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>In-Births</span>, various factions battle for control of supernatural power.<br> High school student <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Hyde</span> wields the legendary sword <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Insulator</span> as he confronts the sinister organization <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Amnesia</span> and their quest for the <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Re-Birth</span>.<br> The enhanced fighting system introduces new mechanics including <span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>Celestial moves</span> and refined <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Grid system</span> for deeper strategic combat.<br> Players choose from an expanded roster featuring returning favorites like <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>Linne</span>, <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>Waldstein</span>, and newcomers with unique fighting styles.<br> The story delves deeper into the <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>Night Blade</span> organization's history and the true nature of the <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>Abyss</span> that threatens reality itself.",
     "DescriptionArabic": "<div dir='rtl'>في عالم حيث تحول ظاهرة <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>الليلة الجوفاء</span> الغامضة الأشخاص العاديين إلى <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>مواليد داخليين</span> أقوياء، تتقاتل فصائل مختلفة للسيطرة على القوة فوق الطبيعية.<br> طالب المدرسة الثانوية <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>هايد</span> يستخدم السيف الأسطوري <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>عازل</span> بينما يواجه منظمة <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>فقدان الذاكرة</span> الشريرة وسعيها لـ<span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>إعادة الولادة</span>.<br> نظام القتال المحسن يقدم آليات جديدة بما في ذلك <span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>حركات سماوية</span> و<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>نظام الشبكة</span> المنقح لقتال استراتيجي أعمق.<br> اللاعبون يختارون من قائمة موسعة تضم مفضلين عائدين مثل <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>لين</span> و<span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>فالدشتاين</span> ووافدين جدد بأساليب قتال فريدة.<br> القصة تتغلغل أعمق في تاريخ منظمة <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>نصل الليل</span> والطبيعة الحقيقية لـ<span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>الهاوية</span> التي تهدد الواقع نفسه.</div>",
-    "ReleaseDate": "2024-1-25",
+    "ReleaseDate": "2024",
     "CriticScore": 85,
     "BackgroundImage": "90cc5fd7-837a-43b1-a700-e378c5c096d2.jpeg",
     "CoverImage": "d40beaee-13b2-4e80-a224-4f97533d3f4f.jpg",
@@ -93627,23 +93627,18 @@
     "DeveloperNames": [
       "French Bread"
     ],
-    "Tags": [
-      "Hide",
-      "Need Upload",
-      "Has Issues"
-    ],
+    "Tags": [],
     "downloadInfo": {
       "PC Game": {
         "versions": [
           {
-            "identifier": "COPC05",
+            "identifier": "RPRP005",
             "name": "Online",
             "platform": "PC Game",
             "fileSize": "16GB",
             "arguments": [],
-            "notes": "Need Upload",
             "executable": "uni2.exe",
-            "filename": "UNDER NIGHT IN-BIRTH II Sys-Celes.zip"
+            "filename": "00152.zip"
           }
         ]
       }
