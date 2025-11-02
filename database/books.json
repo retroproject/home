@@ -10076,12 +10076,15 @@
     "_id": "book_1762084259969_0",
     "Title": "Grandia 2",
     "SortingTitle": "",
-    "Author": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": "",
+    "Author": "Softbank Books",
+    "Description": "Cynical mercenary <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Ryudo</b>, a <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Geohound</b> for hire, accepts a mission from the <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Church of Granas</b> to escort the pure <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>Songstress Elena</b> to Garmia Tower for a sacred ritual.<br>When the ceremony to seal a fragment of the evil god <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Valmar</b> goes catastrophically wrong, Elena becomes possessed by the <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Wings of Valmar</b>, manifesting as the seductive and dangerous personality <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Millenia</b>.<br>Accompanied by his sarcastic talking bird <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Skye</b>, Ryudo must find the legendary <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Granasaber</b> while navigating the complex relationship between Elena and her dark alter ego.<br>As more <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>pieces of Valmar</b> emerge and ancient lies unravel, Ryudo's journey becomes a battle between faith and doubt in a world where <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>gods</b> may not be what they seem.<br>This official guidebook explores the rich world of Grandia II through detailed <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>character designs</b>, <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>concept art</b>, and comprehensive story analysis.<br>",
+    "DescriptionArabic": "<div dir='rtl'>يقبل المرتزق الساخر <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>ريودو</b>، <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>جيوهاوند</b> للتأجير، مهمة من <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>كنيسة جراناس</b> لمرافقة <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>المنشدة إيلينا</b> النقية إلى برج غارميا لطقس مقدس.<br>عندما يسوء حفل إغلاق شظية إله الشر <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>فالمار</b> بشكل كارثي، تصبح إيلينا ممسوسة بـ<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>أجنحة فالمار</b>، متجلية كشخصية مغرية وخطيرة <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>ميلينيا</b>.<br>مصحوباً بطائره الساخر الناطق <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>سكاي</b>، يجب على ريودو أن يجد <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>جراناسابر</b> الأسطوري بينما يتنقل في العلاقة المعقدة بين إيلينا وأناها المظلم.<br>مع ظهور المزيد من <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>قطع فالمار</b> وانكشاف الأكاذيب القديمة، تصبح رحلة ريودو معركة بين الإيمان والشك في عالم حيث <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>الآلهة</b> قد لا تكون كما تبدو.<br>يستكشف هذا الدليل الرسمي عالم جرانديا 2 الغني من خلال <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>تصاميم الشخصيات</b> التفصيلية، <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>الفن المفاهيمي</b>، وتحليل القصة الشامل.<br></div>",
+    "ReleaseDate": "2000",
+    "CriticScore": 100,
     "CoverUrl": "https://archive.org/download/RPRM001/Grandia%202%20Cover.jpg",
-    "Genre": [],
+    "Genre": [
+      "Gaming"
+    ],
     "Tags": [],
     "booksUrl": [
       {
