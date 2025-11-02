@@ -134464,5 +134464,129 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1762074539428_0",
+    "Name": "Escape Simulator 2",
+    "SortingName": "Escape Simulator 02",
+    "Description": "Step into <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>12 mind-bending escape rooms</span> where every object hides secrets and every corner demands <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>clever thinking</span>.<br>Manipulate <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>hundreds of interactive objects</span>, uncover <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>hidden clues</span>, and solve <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>intricate mechanisms</span> across three distinct <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>themed worlds</span>.<br>Team up with <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>up to 8 players</span> in seamless <span style='color:#FFA500; font-weight:bold; text-shadow: 0 0 8px #FFA500;'>co-op gameplay</span>, combining your wits to crack <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>devious puzzles</span> that reward <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>creativity</span> and <span style='color:#2E8B57; font-weight:bold; text-shadow: 0 0 8px #2E8B57;'>sharp observation</span>.<br>Whether racing against the <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>clock</span> or savoring every detail, each room delivers <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>brilliantly designed challenges</span> that transform ordinary spaces into <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>extraordinary puzzles</span>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>ادخل إلى <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>12 غرفة هروب محيرة للعقل</span> حيث يخفي كل غرض أسراراً وكل زاوية تتطلب <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>تفكيراً ذكياً</span>.<br>تلاعب بـ<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>مئات الأغراض التفاعلية</span>، اكتشف <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>أدلة مخفية</span>، واحلل <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>آليات معقدة</span> عبر ثلاثة <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>عوالم موضوعية</span> مميزة.<br>تعاون مع <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>ما يصل إلى 8 لاعبين</span> في <span style='color:#FFA500; font-weight:bold; text-shadow: 0 0 8px #FFA500;'>لعب تعاوني</span> سلس، ادمج ذكاءكم لكسر <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>ألغاز ماكرة</span> تكافئ <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>الإبداع</span> و<span style='color:#2E8B57; font-weight:bold; text-shadow: 0 0 8px #2E8B57;'>الملاحظة الحادة</span>.<br>سواء كنت تتسابق ضد <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>الساعة</span> أو تتذوق كل تفصيل، كل غرفة تقدم <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>تحديات مصممة ببراعة</span> تحول المساحات العادية إلى <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>ألغاز استثنائية</span>.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 100,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Escape%20Simulator%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Escape%20Simulator%202%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Escape%20Simulator%202%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Escape%20Simulator%202%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Puzzle"
+    ],
+    "DeveloperNames": [
+      "Pine Studio"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP005",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "15 GB",
+            "executable": "Escape Simulator 2.exe",
+            "buildID": "16494r",
+            "arguments": [],
+            "filename": "00150.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1762074539428_1",
+    "Name": "Rv There Yet",
+    "SortingName": "",
+    "Description": "Your <span style='color:#FFA500; font-weight:bold; text-shadow: 0 0 8px #FFA500;'>vacation</span> ends with a roadblock forcing you and <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>3 friends</span> to detour through the notorious <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>Mabutts Valley</span>, where not everyone makes it out <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>alive</span>.<br>Pilot your battered <span style='color:#D2691E; font-weight:bold; text-shadow: 0 0 8px #D2691E;'>RV</span> through treacherous <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>back country</span> terrain, mastering the <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>physics-based winch</span> to haul yourself over impossible obstacles and out of deadly situations.<br>Keep the vehicle running with <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>improvised repairs</span>, stock up on <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>burgers and medical supplies</span>, and coordinate through <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>proximity chat</span> as you flee from <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>wild animals</span> and face mounting mechanical failures.<br>This <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>co-op survival adventure</span> tests both your problem-solving skills and your <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>friendships</span> as you race to find the exit to <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>Route 65</span> before the valley claims another victim.<br>",
+    "DescriptionArabic": "<div dir='rtl'>تنتهي <span style='color:#FFA500; font-weight:bold; text-shadow: 0 0 8px #FFA500;'>عطلتك</span> بحاجز طريق يجبرك أنت و<span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>3 أصدقاء</span> على الالتفاف عبر <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>وادي مابتس</span> سيء السمعة، حيث لا يخرج الجميع <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>أحياء</span>.<br>قد <span style='color:#D2691E; font-weight:bold; text-shadow: 0 0 8px #D2691E;'>عربتك السكنية</span> المتهالكة عبر تضاريس <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>الريف الخلفي</span> الغادرة، متقناً <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>الرافعة الفيزيائية</span> لسحب نفسك فوق العقبات المستحيلة وخارج المواقف المميتة.<br>حافظ على تشغيل المركبة مع <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>إصلاحات مرتجلة</span>، خزن <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>البرغر والمستلزمات الطبية</span>، ونسق عبر <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>دردشة القرب</span> بينما تهرب من <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الحيوانات البرية</span> وتواجه أعطالاً ميكانيكية متزايدة.<br>هذه <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>مغامرة البقاء التعاونية</span> تختبر مهاراتك في حل المشاكل و<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>صداقاتك</span> بينما تتسابق للعثور على المخرج إلى <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>الطريق 65</span> قبل أن يطالب الوادي بضحية أخرى.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Rv%20There%20Yet%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Rv%20There%20Yet%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Rv%20There%20Yet%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Rv%20There%20Yet%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Simulator"
+    ],
+    "DeveloperNames": [
+      "Nuggets Entertainment"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP005",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "Ride\\Binaries\\Win64\\Ride-Win64-Shipping.exe",
+            "arguments": [],
+            "buildID": "1.0.14373",
+            "filename": "00149.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Need Music",
+      "Has Issues"
+    ]
+  },
+  {
+    "_id": "game_1762077762837_0",
+    "Name": "Escape Simulator",
+    "SortingName": "Escape Simulator 01",
+    "Description": "Immerse yourself in the ultimate <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>virtual escape room experience</span> where <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>every object is interactive</span> and <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>every detail matters</span>.<br>Pick up, examine, and manipulate <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>countless items</span> in first-person as you search for <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>hidden clues</span>, decode <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>cryptic messages</span>, and unlock <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>clever mechanisms</span> scattered throughout meticulously crafted rooms.<br>Play solo or team up with friends in <span style='color:#FFA500; font-weight:bold; text-shadow: 0 0 8px #FFA500;'>online co-op</span> to tackle a variety of <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>themed challenges</span> ranging from mysterious mansions to ancient temples.<br>With an active <span style='color:#2E8B57; font-weight:bold; text-shadow: 0 0 8px #2E8B57;'>community workshop</span> offering thousands of <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>player-created rooms</span>, the <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>puzzle-solving adventure</span> never ends.<br>",
+    "DescriptionArabic": "<div dir='rtl'>انغمس في <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>تجربة غرفة الهروب الافتراضية</span> المثالية حيث <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>كل غرض تفاعلي</span> و<span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>كل تفصيل مهم</span>.<br>التقط وافحص وتلاعب بـ<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>عدد لا يحصى من العناصر</span> بمنظور الشخص الأول بينما تبحث عن <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>أدلة مخفية</span>، فك شفرة <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>رسائل غامضة</span>، وافتح <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>آليات ذكية</span> منتشرة في غرف مصممة بدقة.<br>العب بشكل فردي أو تعاون مع الأصدقاء في <span style='color:#FFA500; font-weight:bold; text-shadow: 0 0 8px #FFA500;'>اللعب التعاوني عبر الإنترنت</span> لمواجهة مجموعة متنوعة من <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>التحديات الموضوعية</span> تتراوح من القصور الغامضة إلى المعابد القديمة.<br>مع <span style='color:#2E8B57; font-weight:bold; text-shadow: 0 0 8px #2E8B57;'>ورشة مجتمع</span> نشطة تقدم الآلاف من <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>الغرف التي أنشأها اللاعبون</span>، <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>مغامرة حل الألغاز</span> لا تنتهي أبداً.<br></div>",
+    "ReleaseDate": "2021",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Escape%20Simulator%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Escape%20Simulator%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Escape%20Simulator%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": 77.8,
+    "MusicUrl": "https://archive.org/download/RPRM001/Escape%20Simulator%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Puzzle"
+    ],
+    "DeveloperNames": [
+      "Pine Studio"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP005",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "39 GB",
+            "executable": "Escape Simulator.exe",
+            "buildID": "v36344r",
+            "arguments": [],
+            "filename": "00151.zip"
+          }
+        ]
+      }
+    }
   }
 ]
