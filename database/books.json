@@ -6707,7 +6707,7 @@
       {
         "format": "ZIP",
         "identifier": "RBRB001",
-        "filename": "Gantz.zip",
+        "filename": "00198.zip",
         "fileSize": "14 GB"
       }
     ],
@@ -6761,7 +6761,7 @@
       {
         "format": "ZIP",
         "identifier": "RBRB001",
-        "filename": "Trigun Maximum.zip",
+        "filename": "00200.zip",
         "fileSize": "5 GB"
       }
     ],
@@ -10068,6 +10068,27 @@
         "identifier": "RBRB001",
         "filename": "00316.zip",
         "fileSize": "4 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1762084259969_0",
+    "Title": "Grandia 2",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/Grandia%202%20Cover.jpg",
+    "Genre": [],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00317.zip",
+        "fileSize": "1 GB"
       }
     ],
     "audiobooksUrl": []
