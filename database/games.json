@@ -86297,9 +86297,9 @@
     "CoverImage": "0a3ff6e8-eb71-4cc4-8da7-2a2c457587ce.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/b7211382-a3ac-43ff-ab05-3f91be0d2998.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/0a3ff6e8-eb71-4cc4-8da7-2a2c457587ce.png",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Assassin's%20Creed%20Mirage%20Trailer.mp4",
     "videoStart": null,
-    "videoEnd": null,
+    "videoEnd": 86.86666666666666,
     "MusicUrl": "https://archive.org/download/retromusic/add29c3e-b2c9-4b59-934c-515c38c3fcbf.mp3",
     "PlatformNames": [
       "PC Game"
@@ -119172,9 +119172,9 @@
     "CoverImage": "4648012a-cbd3-495b-aab7-245f88922370.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/7173de38-4901-45e7-96bf-3f6f1d58319e.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/4648012a-cbd3-495b-aab7-245f88922370.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Assassin's%20Creed%20II%20Trailer.mp4",
+    "videoStart": 12.633333333333333,
+    "videoEnd": 221.7,
     "MusicUrl": "https://archive.org/download/retromusic/ebb4cd8d-6d6e-4645-bc4e-c58a0c9d3730.mp3",
     "PlatformNames": [
       "PC Game"
@@ -134589,8 +134589,6 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   }
 ]
