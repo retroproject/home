@@ -10085,7 +10085,9 @@
     "Genre": [
       "Gaming"
     ],
-    "Tags": [],
+    "Tags": [
+      "Gaming"
+    ],
     "booksUrl": [
       {
         "format": "ZIP",
