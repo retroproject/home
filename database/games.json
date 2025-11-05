@@ -1264,7 +1264,7 @@
       "Nintendo 64"
     ],
     "GenreNames": [
-      "Shoot 'Em Up"
+      "Arcade"
     ],
     "DeveloperNames": [
       "Treasure"
@@ -1862,7 +1862,7 @@
       "PC Game"
     ],
     "GenreNames": [
-      "Shoot 'Em Up"
+      "Arcade"
     ],
     "DeveloperNames": [
       "System Erasure"
@@ -11143,7 +11143,7 @@
       "Nintendo Super Entertainment System"
     ],
     "GenreNames": [
-      "Shoot 'Em Up"
+      "Arcade"
     ],
     "DeveloperNames": [
       "Natsume"
@@ -14446,7 +14446,7 @@
       "PC Game"
     ],
     "GenreNames": [
-      "Beat 'em Up"
+      "Hack and Slash"
     ],
     "DeveloperNames": [
       "Soleil"
@@ -24170,7 +24170,7 @@
       "PC Game"
     ],
     "GenreNames": [
-      "Beat 'em Up"
+      "Hack and Slash"
     ],
     "DeveloperNames": [
       "The Game Bakers",
@@ -62712,7 +62712,7 @@
       "PC Game"
     ],
     "GenreNames": [
-      "Beat 'em Up"
+      "Hack and Slash"
     ],
     "DeveloperNames": [
       "SIE Santa Monica Studio"
@@ -69939,7 +69939,7 @@
       "PC Game"
     ],
     "GenreNames": [
-      "Beat 'em Up"
+      "Hack and Slash"
     ],
     "DeveloperNames": [
       "Seawolf Studio"
@@ -71708,7 +71708,7 @@
       "PC Game"
     ],
     "GenreNames": [
-      "Beat 'em Up"
+      "Hack and Slash"
     ],
     "DeveloperNames": [
       "Poppy Works"
@@ -89927,7 +89927,7 @@
       "PC Game"
     ],
     "GenreNames": [
-      "Beat 'em Up"
+      "Hack and Slash"
     ],
     "DeveloperNames": [
       "Double Fine Productions"
@@ -106523,8 +106523,7 @@
       "PC Game"
     ],
     "GenreNames": [
-      "Shooter",
-      "Tactical"
+      "Stealth"
     ],
     "DeveloperNames": [
       "Ubisoft Montreal"
