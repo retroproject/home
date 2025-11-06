@@ -36974,12 +36974,12 @@
         "versions": [
           {
             "identifier": "RPRP005",
-            "name": "Online",
+            "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "EOSAuthLauncher.exe",
-            "fileSize": "31GB",
-            "buildID": "1.3.1.87129",
-            "filename": "FATAL FURY City of the Wolves.zip"
+            "executable": "FATAL FURY City of the Wolves.exe",
+            "fileSize": "30GB",
+            "buildID": "5 November 2025",
+            "filename": "00154.zip"
           }
         ]
       }
