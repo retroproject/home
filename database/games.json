@@ -10316,20 +10316,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "COPC01",
-            "filename": "A Way Out.zip",
-            "name": "Online",
-            "platform": "PC Game",
-            "executable": "Haze1\\Binaries\\Win64\\AWayOut.exe",
-            "fileSize": "21GB"
-          },
-          {
             "identifier": "CPC06",
-            "filename": "A Way Out.zip",
-            "name": "Offline",
+            "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Haze1\\Binaries\\Win64\\AWayOut.exe",
-            "fileSize": "21GB"
+            "fileSize": "21GB",
+            "buildID": "11 January 2024",
+            "filename": "A Way Out.zip"
           }
         ]
       }
@@ -103355,7 +103348,8 @@
       "VOID Interactive"
     ],
     "Tags": [
-      "Has Issues"
+      "Has Issues",
+      "Hide"
     ],
     "downloadInfo": {
       "PC Game": {
