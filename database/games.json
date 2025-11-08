@@ -10316,13 +10316,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC06",
+            "identifier": "RPRP006",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Haze1\\Binaries\\Win64\\AWayOut.exe",
             "fileSize": "21GB",
             "buildID": "11 January 2024",
-            "filename": "A Way Out.zip"
+            "filename": "00159.zip"
           }
         ]
       }
@@ -70901,12 +70901,12 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC22",
-            "filename": "Final Fantasy VII.zip",
+            "identifier": "RPRP006",
             "name": "Enhanced",
             "platform": "PC Game",
             "executable": "7th Heaven\\7th Heaven.exe",
-            "fileSize": "21GB"
+            "fileSize": "21GB",
+            "filename": "00158.zip"
           }
         ]
       }
