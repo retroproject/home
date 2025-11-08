@@ -38872,12 +38872,19 @@
             "filename": "Devil May Cry HD Collection.zip"
           },
           {
-            "identifier": "CPC37",
+            "identifier": "RPRP005",
             "name": "Enhanced",
             "platform": "PC Game",
-            "executable": "dmc3.exe",
             "fileSize": "15GB",
-            "filename": "Devil May Cry HD Collection.zip"
+            "executableFiles": [
+              "dmc3.exe",
+              "dmcLauncher.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "00155.zip"
           }
         ]
       }
@@ -59601,7 +59608,7 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC36",
+            "identifier": "RPRP005",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "12GB",
@@ -59613,7 +59620,7 @@
               "Game",
               "Configure"
             ],
-            "filename": "Devil May Cry HD Collection.zip"
+            "filename": "00155.zip"
           }
         ]
       }
@@ -109214,19 +109221,19 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC36",
+            "identifier": "RPRP005",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "12GB",
             "executableFiles": [
-              "Devil May Cry HD Collection.zip",
+              "dmc1.exe",
               "dmcLauncher.exe"
             ],
             "executableLabels": [
               "Game",
               "Configure"
             ],
-            "filename": "Devil May Cry HD Collection.zip"
+            "filename": "00155.zip"
           }
         ]
       }
@@ -134216,7 +134223,7 @@
             "platform": "PC Game",
             "fileSize": "4 GB",
             "executable": "Dispatch.exe",
-            "buildID": "24 October 2025",
+            "buildID": "5 November 2025",
             "arguments": [],
             "filename": "00143.zip"
           }
