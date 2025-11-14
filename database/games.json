@@ -59980,12 +59980,19 @@
         "versions": [
           {
             "identifier": "retro-psx",
-            "filename": "Pepsiman (Japan).chd",
-            "name": "Japan",
+            "name": "Collection",
             "platform": "Sony PlayStation 1",
             "emulator": "DuckStation",
-            "fileSize": "100MB",
-            "romFile": "Pepsiman (Japan).chd"
+            "fileSize": "300MB",
+            "romFiles": [
+              "Pepsiman (Japan).chd",
+              "Pepsiman (Arabic).img"
+            ],
+            "romLabels": [
+              "Japanese",
+              "Arabic"
+            ],
+            "filename": "Pepsiman.zip"
           }
         ]
       }
