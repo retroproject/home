@@ -8101,13 +8101,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "COPC04",
+            "identifier": "RPRP006",
             "name": "Online",
             "platform": "PC Game",
             "fileSize": "380MB",
             "arguments": [],
             "executable": "REPO.exe",
-            "filename": "R.E.P.O.zip"
+            "buildID": "0.3.1",
+            "filename": "00160.zip"
           }
         ]
       }
