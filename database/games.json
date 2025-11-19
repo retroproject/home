@@ -67923,12 +67923,12 @@
       "PC Game": {
         "versions": [
           {
-            "name": "Vanilla",
+            "name": "Enhanced",
             "platform": "PC Game",
             "identifier": "CPC27",
-            "filename": "Signalis.zip",
             "fileSize": "1.1GB",
-            "executable": "SIGNALIS.exe"
+            "executable": "SIGNALIS.exe",
+            "filename": "Signalis.zip"
           }
         ]
       }
@@ -121767,7 +121767,10 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Has Issues"
+    ]
   },
   {
     "_id": "f01ed004-a4a3-4518-8905-6d87f09cbe20",
