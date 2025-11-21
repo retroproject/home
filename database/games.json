@@ -3093,11 +3093,11 @@
         "versions": [
           {
             "identifier": "CPC03",
-            "filename": "Final Fantasy Dissidia NT.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "dffnt.exe",
-            "fileSize": "27GB"
+            "executable": "SmartSteamLoader_x64.exe",
+            "fileSize": "27GB",
+            "filename": "Final Fantasy Dissidia NT.zip"
           }
         ]
       }
