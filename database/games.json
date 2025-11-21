@@ -40979,27 +40979,27 @@
         "versions": [
           {
             "identifier": "CPCAR01",
-            "filename": "Code Vein.zip",
             "name": "Arabic",
             "platform": "PC Game",
             "executable": "CodeVein.exe",
-            "fileSize": "31GB"
+            "fileSize": "31GB",
+            "filename": "Code Vein.zip"
           },
           {
             "identifier": "retroid-2",
-            "filename": "Code Vein.zip",
             "name": "English",
             "platform": "PC Game",
-            "executable": "CodeVein.exe",
-            "fileSize": "31GB"
+            "executable": "CodeVein\\Binaries\\Win64\\CodeVein-Win64-Shipping.exe",
+            "fileSize": "31GB",
+            "filename": "Code Vein.zip"
           },
           {
             "identifier": "COPC03",
-            "filename": "Code Vein.zip",
             "name": "Online",
             "platform": "PC Game",
             "executable": "GDK_Helper.bat",
-            "fileSize": "34GB"
+            "fileSize": "34GB",
+            "filename": "Code Vein.zip"
           }
         ]
       }
