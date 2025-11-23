@@ -86673,13 +86673,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC24",
+            "identifier": "RPRP006",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "26GB",
             "arguments": [],
             "executable": "OPPW4.exe",
-            "filename": "One Piece Pirate Warriors 4.zip"
+            "buildID": "19 November 2025",
+            "filename": "00162.zip"
           }
         ]
       }
@@ -110095,13 +110096,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC09",
+            "identifier": "RPRP006",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2GB",
             "arguments": [],
             "executable": "OxygenNotIncluded.exe",
-            "filename": "Oxygen Not Included.zip"
+            "buildID": "20 November 2025",
+            "filename": "00163.zip"
           }
         ]
       }
@@ -112738,13 +112740,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC37",
+            "identifier": "RPRP006",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "550MB",
             "arguments": [],
             "executable": "Game.exe",
-            "filename": "Look Outside.zip"
+            "buildID": "1 November 2025",
+            "filename": "00161.zip"
           }
         ]
       }
@@ -121960,7 +121963,8 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/f0605657-cb76-4c10-988a-055e90ece5b6.mp3",
     "PlatformNames": [
-      "Sony PlayStation 2"
+      "Sony PlayStation 2",
+      "PC Game"
     ],
     "GenreNames": [
       "Hack and Slash"
@@ -121969,24 +121973,47 @@
       "Capcom Production Studio 2"
     ],
     "downloadInfo": {
-      "Sony PlayStation 2": {
+      "Cross-Platform": {
         "versions": [
           {
-            "identifier": "retro-ps2",
-            "filename": "Onimusha 2 Samurai's Destiny (Undub).iso",
-            "name": "Vanilla",
-            "platform": "Sony PlayStation 2",
-            "emulator": "PCSX2",
-            "fileSize": "4GB",
-            "romFile": "Onimusha 2 Samurai's Destiny (Undub).iso"
+            "identifier": "RPRP006",
+            "filename": "",
+            "platform": "PC Game",
+            "name": "PC Remastered",
+            "fileSize": "20GB",
+            "executableFiles": [
+              ""
+            ],
+            "filenames": [
+              "00164.zip"
+            ],
+            "buildID": "21 November 2025"
           },
           {
             "identifier": "retro-ps2",
-            "filename": "Onimusha 2 Samurai's Destiny HD Textures.zip",
-            "name": "HD Textures",
+            "filename": "",
             "platform": "Sony PlayStation 2",
+            "name": "Playstation 2",
             "emulator": "PCSX2",
-            "fileSize": "5GB"
+            "fileSize": "4GB",
+            "romFiles": [
+              "Onimusha 2 Samurai's Destiny (Undub).iso"
+            ],
+            "filenames": [
+              "Onimusha 2 Samurai's Destiny (Undub).iso"
+            ]
+          },
+          {
+            "identifier": "retro-ps2",
+            "filename": "",
+            "platform": "Sony PlayStation 2",
+            "name": "Playstation 2 HD Textures",
+            "emulator": "PCSX2",
+            "fileSize": "5GB",
+            "romFiles": [],
+            "filenames": [
+              "Onimusha 2 Samurai's Destiny HD Textures.zip"
+            ]
           }
         ]
       }
@@ -129213,9 +129240,9 @@
             "identifier": "RPRP001",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "86GB",
+            "fileSize": "120GB",
             "arguments": [],
-            "buildID": "28 August 2025",
+            "buildID": "20 November 2025",
             "executable": "MGSDelta.exe",
             "filename": "00002.zip"
           }
