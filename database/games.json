@@ -19221,20 +19221,27 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPCAR03",
-            "filename": "Clair Obscur Expedition 33.zip",
-            "name": "Arabic",
+            "identifier": "RPRP006",
+            "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Expedition33_Steam.exe",
-            "fileSize": "40GB"
+            "fileSize": "40GB",
+            "filename": "00165.zip"
           },
           {
-            "identifier": "CPC42",
-            "filename": "Clair Obscur Expedition 33.zip",
-            "name": "English",
+            "identifier": "RPRP006",
+            "name": "Enhanced",
             "platform": "PC Game",
+            "fileSize": "48GB",
+            "arguments": [],
+            "mods": [
+              "More Chroma x2",
+              "Dirt And Blood Remover",
+              "Inverted Color Effect Begone",
+              "Improved Cinematics"
+            ],
             "executable": "Expedition33_Steam.exe",
-            "fileSize": "40GB"
+            "filename": "00166.zip"
           }
         ]
       }
