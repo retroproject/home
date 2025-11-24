@@ -65544,11 +65544,19 @@
         "versions": [
           {
             "identifier": "CPCAR02",
-            "filename": "BioShock Infinite.zip",
-            "name": "Vanilla",
+            "name": "Arabic",
             "platform": "PC Game",
             "executable": "Binaries\\Win32\\BioShockInfinite.exe",
-            "fileSize": "35GB"
+            "fileSize": "35GB",
+            "filename": "BioShock Infinite.zip"
+          },
+          {
+            "identifier": "retroid-2",
+            "name": "English",
+            "platform": "PC Game",
+            "executable": "Binaries\\Win32\\BioShockInfinite.exe",
+            "fileSize": "35GB",
+            "filename": "BioShock Infinite.zip"
           }
         ]
       }
