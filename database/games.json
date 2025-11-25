@@ -103700,19 +103700,6 @@
       "Atlus"
     ],
     "downloadInfo": {
-      "Nintendo Switch": {
-        "versions": [
-          {
-            "identifier": "retro-nx",
-            "filename": "Shin Megami Tensei III Nocturne HD Remaster.nsp",
-            "name": "Vanilla",
-            "platform": "Nintendo Switch",
-            "emulator": "Yuzu",
-            "fileSize": "1.5GB",
-            "romFile": "Shin Megami Tensei III Nocturne HD Remaster.nsp"
-          }
-        ]
-      },
       "PC Game": {
         "versions": [
           {
