@@ -103691,7 +103691,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/cc3ea761-9e20-4858-a49a-714c871fc2d1.mp3",
     "PlatformNames": [
-      "Nintendo Switch"
+      "PC Game"
     ],
     "GenreNames": [
       "Japanese Role-Playing"
@@ -103710,6 +103710,38 @@
             "emulator": "Yuzu",
             "fileSize": "1.5GB",
             "romFile": "Shin Megami Tensei III Nocturne HD Remaster.nsp"
+          }
+        ]
+      },
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP006",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "15MB",
+            "arguments": [],
+            "buildID": "4 November 2025",
+            "notes": "Connect Controller After Game Loads",
+            "executable": "smt3hd.exe",
+            "filename": "00167.zip"
+          },
+          {
+            "identifier": "RPRP006",
+            "name": "Enhanced",
+            "platform": "PC Game",
+            "fileSize": "15MB",
+            "arguments": [],
+            "mods": [
+              "Quality of Death",
+              "HD Audio for HD Ears 0.6",
+              "Nocturne Graphics Configurator",
+              "Stackable/Rebalanced Attack Passives"
+            ],
+            "buildID": "4 November 2025",
+            "notes": "Connect Controller After Game Loads",
+            "executable": "smt3hd.exe",
+            "filename": "00168.zip"
           }
         ]
       }
