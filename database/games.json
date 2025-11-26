@@ -102639,6 +102639,15 @@
       "PC Game": {
         "versions": [
           {
+            "identifier": "RPRP006",
+            "name": "Remastered",
+            "platform": "PC Game",
+            "fileSize": "35GB",
+            "arguments": [],
+            "executable": "NFS11Remastered.exe",
+            "filename": "00169.zip"
+          },
+          {
             "identifier": "CPC15",
             "name": "Vanilla",
             "platform": "PC Game",
@@ -132563,8 +132572,18 @@
       "PC Game": {
         "versions": [
           {
+            "identifier": "RPRP006",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "10GB",
+            "executable": "Towa and the Guardians of the Sacred Tree.exe",
+            "buildID": "1.3",
+            "arguments": [],
+            "filename": "00170.zip"
+          },
+          {
             "identifier": "RPRP003",
-            "name": "Vanilla",
+            "name": "Offline",
             "platform": "PC Game",
             "fileSize": "10GB",
             "executable": "Towa and the Guardians of the Sacred Tree.exe",
