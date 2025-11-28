@@ -11840,11 +11840,32 @@
         "versions": [
           {
             "identifier": "retro-pc",
-            "filename": "Hades.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "x64\\Hades.exe",
-            "fileSize": "11GB"
+            "fileSize": "11GB",
+            "filename": "Hades.zip"
+          },
+          {
+            "identifier": "RPRP006",
+            "name": "Enhanced",
+            "platform": "PC Game",
+            "executable": "x64\\Hades.exe",
+            "fileSize": "11GB",
+            "mods": [
+              "Auto Reload",
+              "Better Bow",
+              "Easier Fishing",
+              "Electros Tweaks ",
+              "Extra Rerolls",
+              "Fishing Spots Guaranteed",
+              "God Pool Picker",
+              "Hammer Buff Bonanza",
+              "Keepsake Threshold Lowered",
+              "Loot Choice Extender",
+              "Mirror of Night Extended"
+            ],
+            "filename": "00171.zip"
           }
         ]
       }
