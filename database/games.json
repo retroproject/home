@@ -95895,11 +95895,11 @@
         "versions": [
           {
             "identifier": "CPC40",
-            "filename": "BioShock 1.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "Build\\Final\\Bioshock.exe",
-            "fileSize": "13GB"
+            "executable": "Build\\Final\\BioshockHD.exe",
+            "fileSize": "13GB",
+            "filename": "BioShock 1.zip"
           }
         ]
       }
