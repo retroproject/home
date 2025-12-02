@@ -134839,5 +134839,85 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1764704588772_0",
+    "Name": "Among Trees",
+    "SortingName": "Among Trees",
+    "Description": "Escape into a <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>breathtaking wilderness</span> rendered in dreamy <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>watercolor hues</span>, where a broken-down <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>cabin</span> awaits transformation into your sanctuary.<br>Gather <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>scattered materials</span> from sun-dappled forests, repair your humble shelter, and expand it with a <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>crafting room</span>, <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>greenhouse</span>, and <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>brewing station</span> as nature becomes your home.<br>Fish in <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>crystal streams</span>, grow your own <span style='color:#90EE90; font-weight:bold; text-shadow: 0 0 8px #90EE90;'>vegetables</span>, cook hearty meals, and explore <span style='color:#2E8B57; font-weight:bold; text-shadow: 0 0 8px #2E8B57;'>serene landscapes</span> that evoke the same tranquil beauty as Firewatch's iconic art style.<br>Navigate gentle <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>survival elements</span> managing food and water while avoiding <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>prowling bears</span> in this meditative experience.<br>This is pure <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>zen escapism</span>—a <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>peaceful retreat</span> for those seeking beauty over challenge in their woodland <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>refuge</span>.",
+    "DescriptionArabic": "<div dir='rtl'>اهرب إلى <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>برية خلابة</span> مرسومة بـ<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>ألوان مائية</span> حالمة، حيث <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>كوخ متهالك</span> ينتظر التحول إلى ملاذك.<br>اجمع <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>المواد المتناثرة</span> من الغابات المشمسة، أصلح مأواك المتواضع، ووسعه بـ<span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>غرفة الحرف</span> و<span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>البيت الزجاجي</span> و<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>محطة التخمير</span> بينما تصبح الطبيعة منزلك.<br>اصطد السمك في <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>الجداول الكريستالية</span>، ازرع <span style='color:#90EE90; font-weight:bold; text-shadow: 0 0 8px #90EE90;'>خضرواتك</span> الخاصة، اطبخ وجبات دسمة، واستكشف <span style='color:#2E8B57; font-weight:bold; text-shadow: 0 0 8px #2E8B57;'>مناظر هادئة</span> تستحضر نفس الجمال الهادئ لأسلوب Firewatch الفني الأيقوني.<br>تنقل عبر <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>عناصر البقاء</span> اللطيفة بإدارة الطعام والماء بينما تتجنب <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الدببة المتربصة</span> في هذه التجربة التأملية.<br>هذا <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>هروب زن</span> نقي—<span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>ملاذ سلمي</span> لأولئك الذين يبحثون عن الجمال بدلاً من التحدي في <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>ملجئهم</span> الحرجي.</div>",
+    "ReleaseDate": "2021",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Among%20Trees%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Among%20Trees%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Among%20Trees%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Among%20Trees%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Survival"
+    ],
+    "DeveloperNames": [
+      "FJRD Interactive"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP006",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "Among Trees.exe",
+            "arguments": [],
+            "buildID": "26 November 2021",
+            "filename": "00177.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1764704588772_1",
+    "Name": "Marvel Cosmic Invasion",
+    "SortingName": "Marvel Cosmic Invasion",
+    "Description": "The <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Annihilation Wave</span> crashes across the cosmos as <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>15 legendary Marvel heroes</span> unite in gorgeous <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>pixel-art glory</span> to save the universe.<br>Master the revolutionary <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>Cosmic-Swap tag-team system</span>, instantly switching between paired heroes mid-combo to extend devastating <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>attack chains</span> and escape danger in this arcade-style <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>beat 'em up</span>.<br>Deploy <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>assist attacks</span> Marvel vs. Capcom-style, sending your partner to deliver crushing blows while managing a <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>dynamic health bar</span> that rewards skillful play.<br>Each hero embodies distinct <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>combat roles</span>—from <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>brutal brawlers</span> to <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>ranged specialists</span>—in four-player <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>co-op chaos</span> that channels classic arcade energy.<br>From the creators of TMNT: Shredder's Revenge comes a <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>superpowered throwback</span> dripping with <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>Marvel lore</span> and <span style='color:#D2691E; font-weight:bold; text-shadow: 0 0 8px #D2691E;'>polished fisticuffs</span>.",
+    "DescriptionArabic": "<div dir='rtl'>تنهار <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>موجة الإبادة</span> عبر الكون بينما يتحد <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>15 بطلاً أسطورياً من مارفل</span> في <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>روعة البيكسل آرت</span> لإنقاذ الكون.<br>أتقن <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>نظام الفريق الكوني المتبادل</span> الثوري، بالتبديل الفوري بين الأبطال المزدوجين في منتصف الكومبو لتمديد <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>سلاسل الهجوم</span> المدمرة والهروب من الخطر في هذا <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>القتال الجماعي</span> بأسلوب الأركيد.<br>انشر <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>هجمات المساعدة</span> على طريقة Marvel vs. Capcom، بإرسال شريكك لتوصيل ضربات ساحقة بينما تدير <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>شريط صحة ديناميكي</span> يكافئ اللعب الماهر.<br>كل بطل يجسد <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>أدوار قتالية</span> مميزة—من <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>المقاتلين الوحشيين</span> إلى <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>المتخصصين عن بُعد</span>—في <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>فوضى تعاونية</span> لأربعة لاعبين تستحضر طاقة الأركيد الكلاسيكية.<br>من صناع TMNT: Shredder's Revenge يأتي <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>نوستالجيا خارقة</span> مليئة بـ<span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>تراث مارفل</span> و<span style='color:#D2691E; font-weight:bold; text-shadow: 0 0 8px #D2691E;'>قتال مصقول</span>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Marvel%20Cosmic%20Invasion%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Marvel%20Cosmic%20Invasion%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Marvel%20Cosmic%20Invasion%20Trailer.mp4",
+    "videoStart": 5.066666666666666,
+    "videoEnd": 99.26666666666667,
+    "MusicUrl": "https://archive.org/download/RPRM001/Marvel%20Cosmic%20Invasion%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Beat 'Em Up"
+    ],
+    "DeveloperNames": [
+      "Tribute Games"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP006",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "490 MB",
+            "executable": "Game.exe",
+            "arguments": [],
+            "buildID": "2 December 2025",
+            "filename": "00176.zip"
+          }
+        ]
+      }
+    }
   }
 ]
