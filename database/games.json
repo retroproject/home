@@ -134675,5 +134675,48 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1764681374320_0",
+    "Name": "Yu-Gi-Oh! Master Duel",
+    "SortingName": "Yu-Gi-Oh! 04",
+    "Description": "Master over <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>10,000 cards</span> in the ultimate digital dueling arena, where every decision shapes the battlefield of strategic combat.<br>Unleash devastating <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Synchro Summons</span>, tactical <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>Xyz Summons</span>, explosive <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>Pendulum Summons</span>, and intricate <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>Link Summons</span> to dominate opponents across <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>ranked duels</span> and <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>casual matches</span>.<br>Explore <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>Solo Mode campaigns</span> that unravel the hidden <span style='color:#DA70D6; font-weight:bold; text-shadow: 0 0 8px #DA70D6;'>card lore</span> of legendary <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>archetypes</span> like World Chalice and Gem-Knight, each battle revealing deeper mysteries.<br>Construct <span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>perfect decks</span> from massive card pools, experimenting with <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>chain combos</span> and <span style='color:#708090; font-weight:bold; text-shadow: 0 0 8px #708090;'>counter-strategies</span> that can turn defeat into victory in a single turn.<br>From competitive <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>tournament play</span> to friendly skirmishes, every match becomes a test of wit, timing, and mastery over the ancient art of <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>dueling</span>.",
+    "DescriptionArabic": "<div dir='rtl'>تحكم في أكثر من <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>10,000 بطاقة</span> في ساحة المبارزات الرقمية المطلقة، حيث كل قرار يشكل ميدان القتال الاستراتيجي.<br>أطلق العنان لـ<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>استدعاءات السينكرو</span> المدمرة، و<span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>استدعاءات إكسيز</span> التكتيكية، و<span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>استدعاءات البندول</span> الانفجارية، و<span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>استدعاءات الرابط</span> المعقدة للسيطرة على الخصوم عبر <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>المبارزات المصنفة</span> و<span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>المباريات العادية</span>.<br>استكشف <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>حملات الوضع الفردي</span> التي تكشف <span style='color:#DA70D6; font-weight:bold; text-shadow: 0 0 8px #DA70D6;'>أساطير البطاقات</span> الخفية لـ<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>الأنماط</span> الأسطورية مثل World Chalice و Gem-Knight، كل معركة تكشف أسراراً أعمق.<br>ابنِ <span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>مجموعات مثالية</span> من مخزون البطاقات الهائل، مجرباً <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>كومبوهات متسلسلة</span> و<span style='color:#708090; font-weight:bold; text-shadow: 0 0 8px #708090;'>استراتيجيات مضادة</span> يمكنها تحويل الهزيمة إلى نصر في دور واحد.<br>من <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>منافسات البطولات</span> إلى المناوشات الودية، تصبح كل مباراة اختباراً للذكاء والتوقيت والإتقان في فن <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>المبارزة</span> القديم.</div>",
+    "ReleaseDate": "2022",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Yu%20Gi%20Oh!%20Master%20Duel%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Yu%20Gi%20Oh!%20Master%20Duel%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Yu%20Gi%20Oh!%20Master%20Duel%20Trailer.mp4",
+    "videoStart": 2,
+    "videoEnd": 210.06666666666666,
+    "MusicUrl": "https://archive.org/download/RPRM001/Yu%20Gi%20Oh!%20Master%20Duel%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Card & Board Games"
+    ],
+    "DeveloperNames": [
+      "Konami"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP006",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "12 GB",
+            "executable": "YgoMaster\\YgoMasterClient.exe",
+            "arguments": [],
+            "buildID": "1.67",
+            "filename": "00172.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
