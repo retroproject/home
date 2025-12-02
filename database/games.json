@@ -134718,5 +134718,134 @@
     "Tags": [
       "Hide"
     ]
+  },
+  {
+    "_id": "game_1764682870465_0",
+    "Name": "XCOM 2",
+    "SortingName": "XCOM 02",
+    "Description": "Twenty years after humanity lost the war, <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>alien overlords</span> rule Earth from gleaming cities built on lies, their <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>ADVENT regime</span> concealing sinister experiments beneath a utopian facade.<br>Command the scattered <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>resistance</span> from the mobile <span style='color:#708090; font-weight:bold; text-shadow: 0 0 8px #708090;'>Avenger</span> base, leading <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>guerrilla strikes</span> against overwhelming odds through <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>turn-based tactical combat</span>.<br>Master <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>concealment mechanics</span> to ambush enemy <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>patrols</span>, race against <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>timed objectives</span>, and adapt to <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>procedurally generated maps</span> where every mission demands new tactics.<br>Research <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>alien technology</span>, build <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>resistance networks</span> across continents, and watch as every <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>soldier's permadeath</span> reshapes your squad into hardened survivors.<br>From <span style='color:#D2691E; font-weight:bold; text-shadow: 0 0 8px #D2691E;'>desperate extraction missions</span> to storming alien strongholds, each battle brings humanity one step closer to reclaiming their world from the <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>occupation</span>.",
+    "DescriptionArabic": "<div dir='rtl'>بعد عشرين عاماً من خسارة البشرية للحرب، يحكم <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>الأسياد الفضائيون</span> الأرض من مدن لامعة مبنية على الأكاذيب، <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>نظام أدفنت</span> الخاص بهم يخفي تجارب شريرة تحت واجهة طوباوية.<br>قد <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>المقاومة</span> المتفرقة من قاعدة <span style='color:#708090; font-weight:bold; text-shadow: 0 0 8px #708090;'>أفنجر</span> المتنقلة، قائداً <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>الضربات الفدائية</span> ضد احتمالات ساحقة من خلال <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>قتال تكتيكي قائم على الأدوار</span>.<br>أتقن <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>آليات الإخفاء</span> لنصب كمين لـ<span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>الدوريات</span> العدوة، تسابق ضد <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الأهداف الموقوتة</span>، وتكيف مع <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>الخرائط المولدة إجرائياً</span> حيث كل مهمة تتطلب تكتيكات جديدة.<br>ابحث في <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>التكنولوجيا الفضائية</span>، ابنِ <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>شبكات المقاومة</span> عبر القارات، وشاهد كيف تعيد كل <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>وفاة دائمة لجندي</span> تشكيل فرقتك إلى ناجين صلبين.<br>من <span style='color:#D2691E; font-weight:bold; text-shadow: 0 0 8px #D2691E;'>مهام الإنقاذ اليائسة</span> إلى اقتحام معاقل الفضائيين، كل معركة تقرب البشرية خطوة من استعادة عالمهم من <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>الاحتلال</span>.</div>",
+    "ReleaseDate": "2016",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/XCOM%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/XCOM%202%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/XCOM%202%20Trailer.mp4",
+    "videoStart": 3.3666666666666667,
+    "videoEnd": 132,
+    "MusicUrl": "https://archive.org/download/RPRM001/XCOM%202%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Strategy"
+    ],
+    "DeveloperNames": [
+      "Firaxis Games"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP006",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "71 GB",
+            "executable": "Binaries\\Win64\\XCom2.exe",
+            "arguments": [],
+            "buildID": "28 March 2022",
+            "filename": "00174.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1764682870466_1",
+    "Name": "XCOM Chimera Squad",
+    "SortingName": "XCOM 03",
+    "Description": "Five years after aliens surrendered, <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>City 31</span> stands as humanity's bold experiment—a sprawling metropolis where <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>humans, sectoids, vipers, and mutons</span> attempt the impossible dream of <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>coexistence</span>.<br>Command <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Chimera Squad</span>, an elite mixed-species task force featuring <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>11 unique agents</span> with specialized abilities, each bringing their own perspective to maintaining this fragile <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>peace</span>.<br>Investigate a mysterious <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>assassination</span> that threatens to ignite old hatreds, using innovative <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>breach-and-clear tactics</span> and the new <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>interleaved turn order system</span> where every action ripples through the battlefield.<br>Balance <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>district unrest</span>, counter <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>criminal factions</span>, and deploy <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>agent combos</span> that combine human ingenuity with alien powers.<br>Navigate <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>tense standoffs</span> and <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>hostage situations</span> where the line between former enemies and current allies blurs in this unprecedented chapter of <span style='color:#D2691E; font-weight:bold; text-shadow: 0 0 8px #D2691E;'>post-war reconstruction</span>.",
+    "DescriptionArabic": "<div dir='rtl'>بعد خمس سنوات من استسلام الفضائيين، تقف <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>المدينة 31</span> كتجربة البشرية الجريئة—عاصمة مترامية الأطراف حيث <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>البشر والسكتويد والأفاعي والميوتون</span> يحاولون حلم <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>التعايش</span> المستحيل.<br>قد <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>فرقة تشيميرا</span>، قوة مهام نخبوية متعددة الأنواع تضم <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>11 عميلاً فريداً</span> بقدرات متخصصة، كل منهم يجلب منظوره الخاص للحفاظ على هذا <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>السلام</span> الهش.<br>حقق في <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>اغتيال</span> غامض يهدد بإشعال الأحقاد القديمة، مستخدماً <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>تكتيكات الاقتحام والتطهير</span> المبتكرة و<span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>نظام الدور المتشابك</span> الجديد حيث كل إجراء يتموج عبر ميدان المعركة.<br>وازن بين <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>اضطرابات المقاطعات</span>، واجه <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الفصائل الإجرامية</span>، وانشر <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>كومبوهات العملاء</span> التي تجمع البراعة البشرية مع القوى الفضائية.<br>تنقل عبر <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>المواجهات المتوترة</span> و<span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>مواقف الرهائن</span> حيث يتلاشى الخط بين الأعداء السابقين والحلفاء الحاليين في هذا الفصل غير المسبوق من <span style='color:#D2691E; font-weight:bold; text-shadow: 0 0 8px #D2691E;'>إعادة الإعمار بعد الحرب</span>.</div>",
+    "ReleaseDate": "2020",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/XCOM %20Chimera%20Squad%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/XCOM %20Chimera%20Squad%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/XCOM%20Chimera%20Squad%20Trailer.mp4",
+    "videoStart": 2.2,
+    "videoEnd": 131.33333333333334,
+    "MusicUrl": "https://archive.org/download/RPRM001/XCOM %20Chimera%20Squad%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Strategy"
+    ],
+    "DeveloperNames": [
+      "Firaxis Games"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP006",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "15 GB",
+            "executable": "Binaries\\Win64\\xcom.exe",
+            "arguments": [],
+            "buildID": "21 May 2020",
+            "filename": "00175.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1764682870466_2",
+    "Name": "XCOM Enemy Within",
+    "SortingName": "XCOM 01.5",
+    "Description": "The alien invasion escalates with the discovery of <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>Meld</span>, a mysterious substance that unlocks humanity's most controversial weapons—soldiers who transcend their mortal limits.<br>Choose between creating towering <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>MEC Troopers</span> in mechanized combat suits with devastating <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>Kinetic Strike</span> attacks and <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Collateral Damage</span> abilities, or enhancing warriors through <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>gene modification</span> that grants superhuman powers.<br>Race against <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>timed Meld canisters</span> scattered across battlefields, forcing aggressive tactics as you harvest this fleeting resource before it self-destructs.<br>Face the new <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>EXALT</span> paramilitary organization—human traitors wielding stolen alien technology who seek to control Earth's fate through shadowy <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>covert operations</span>.<br>Deploy <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>genetically enhanced soldiers</span> alongside <span style='color:#708090; font-weight:bold; text-shadow: 0 0 8px #708090;'>cybernetic warriors</span> in expanded missions featuring <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>new alien threats</span>, <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>40+ maps</span>, and impossible choices about how far humanity will go to survive.",
+    "DescriptionArabic": "<div dir='rtl'>يتصاعد الغزو الفضائي مع اكتشاف <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>الميلد</span>، مادة غامضة تفتح أسلحة البشرية الأكثر إثارة للجدل—جنود يتجاوزون حدودهم البشرية.<br>اختر بين إنشاء <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>جنود MEC</span> الشاهقين في بدلات قتالية آلية مع هجمات <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>الضربة الحركية</span> المدمرة وقدرات <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الدمار الجانبي</span>، أو تعزيز المحاربين من خلال <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>التعديل الجيني</span> الذي يمنح قوى خارقة.<br>تسابق ضد <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>أسطوانات الميلد الموقوتة</span> المنتشرة عبر ميادين القتال، مما يفرض تكتيكات عدوانية بينما تحصد هذا المورد الزائل قبل أن يدمر نفسه.<br>واجه منظمة <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>إكزالت</span> شبه العسكرية الجديدة—خونة بشريون يستخدمون تكنولوجيا فضائية مسروقة يسعون للسيطرة على مصير الأرض من خلال <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>العمليات السرية</span> الغامضة.<br>انشر <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>جنوداً معدلين جينياً</span> جنباً إلى جنب مع <span style='color:#708090; font-weight:bold; text-shadow: 0 0 8px #708090;'>محاربين سايبورغ</span> في مهام موسعة تتضمن <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>تهديدات فضائية جديدة</span>، <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>أكثر من 40 خريطة</span>، وخيارات مستحيلة حول إلى أي مدى ستذهب البشرية من أجل البقاء.</div>",
+    "ReleaseDate": "2013",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/XCOM%20Enemy%20Within%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/XCOM%20Enemy%20Within%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/XCOM%20Enemy%20Within%20Trailer.mp4",
+    "videoStart": 4.766666666666667,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/XCOM%20Enemy%20Within%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Strategy"
+    ],
+    "DeveloperNames": [
+      "Firaxis Games"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP006",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "20 GB",
+            "executable": "Binaries\\Win32\\XComGame.exe",
+            "arguments": [],
+            "buildID": "6 November 2015",
+            "filename": "00173.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
