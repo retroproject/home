@@ -124656,7 +124656,8 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/f4d333dd-cc9e-40c8-99fe-d08172603ec3.mp3",
     "PlatformNames": [
-      "PC Game"
+      "PC Game",
+      "Nintendo Switch"
     ],
     "GenreNames": [
       "Visual Novel"
@@ -124665,16 +124666,34 @@
       "NOVECT"
     ],
     "downloadInfo": {
-      "PC Game": {
+      "Cross-Platform": {
         "versions": [
           {
             "identifier": "CPC10",
-            "name": "Vanilla",
+            "filename": "",
             "platform": "PC Game",
-            "fileSize": "510MB",
-            "arguments": [],
-            "executable": "fata.exe",
-            "filename": "The House in Fata Morgana.zip"
+            "name": "PC Vanilla",
+            "fileSize": "500MB",
+            "executableFiles": [
+              "fata.exe"
+            ],
+            "filenames": [
+              "The House in Fata Morgana.zip"
+            ]
+          },
+          {
+            "identifier": "E0701",
+            "filename": "",
+            "platform": "Nintendo Switch",
+            "name": "Switch Dreams of the Revenants Edition",
+            "emulator": "Yuzu",
+            "fileSize": "4GB",
+            "romFiles": [
+              "The House in Fata Morgana Dreams of the Revenants Edition.nsp"
+            ],
+            "filenames": [
+              "The House in Fata Morgana Dreams of the Revenants Edition.nsp"
+            ]
           }
         ]
       }
