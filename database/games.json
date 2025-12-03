@@ -134919,5 +134919,129 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1764721791184_0",
+    "Name": "Umineko Golden Fantasia",
+    "SortingName": "Umineko 03",
+    "Description": "The inhabitants of <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Rokkenjima</span> clash in a <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>2v2 tag-team fighting game</span> where witches and humans settle their eternal disputes through spectacular combat.<br>Master the revolutionary <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Meta World mechanic</span>—spend <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>SP bars</span> to freeze time, activate both characters' <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>unique abilities</span>, and access devastating <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Meta Supers</span> while opponents counter-declare in strategic meter battles.<br>Deploy <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Battler's</span> close-range brawling, <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>Beatrice's</span> high-damage zoning, or <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Willard's</span> katana mastery through the <span style='color:#FFA500; font-weight:bold; text-shadow: 0 0 8px #FFA500;'>Touch system</span> that activates abilities when swapping fighters.<br>Both characters share a single <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>life meter</span>, making every tag decision critical in this <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>deeply tactical brawler</span>.<br>From the creators of the legendary visual novel comes a <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>solid fighting game</span> that lets fans settle debates about truth and illusion with their <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>fists</span>.",
+    "DescriptionArabic": "<div dir='rtl'>يتصادم سكان <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>روكينجيما</span> في <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>لعبة قتال فريقية 2 ضد 2</span> حيث تحسم الساحرات والبشر نزاعاتهم الأبدية من خلال قتال مذهل.<br>أتقن <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>ميكانيكية العالم الميتا</span> الثورية—أنفق <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>أشرطة SP</span> لتجميد الوقت، تفعيل <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>القدرات الفريدة</span> لكلا الشخصيتين، والوصول إلى <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>الضربات الخارقة للميتا</span> المدمرة بينما يعلن الخصوم مضاداتهم في معارك العداد الاستراتيجية.<br>انشر قتال <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>باتلر</span> عن قرب، تحديد المناطق عالي الضرر لـ<span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>بياتريس</span>، أو إتقان الكاتانا لـ<span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>ويلارد</span> من خلال <span style='color:#FFA500; font-weight:bold; text-shadow: 0 0 8px #FFA500;'>نظام اللمس</span> الذي يفعل القدرات عند تبديل المقاتلين.<br>كلا الشخصيتين تشتركان في <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>عداد حياة</span> واحد، مما يجعل كل قرار تبديل حاسماً في هذا <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>المقاتل التكتيكي العميق</span>.<br>من صناع الرواية المرئية الأسطورية تأتي <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>لعبة قتال صلبة</span> تتيح للمعجبين حسم النقاشات حول الحقيقة والوهم بـ<span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>قبضاتهم</span>.</div>",
+    "ReleaseDate": "2017",
+    "CriticScore": 100,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Umineko%20Golden%20Fantasia%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Umineko%20Golden%20Fantasia%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Umineko%20Golden%20Fantasia%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Umineko%20Golden%20Fantasia%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Fighting"
+    ],
+    "DeveloperNames": [
+      "07th Expansion"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP006",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "arguments": [],
+            "executableFiles": [
+              "Ougon.exe",
+              "Launcher.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "00178.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1764721791184_1",
+    "Name": "Umineko When They Cry Answer Arcs",
+    "SortingName": "Umineko 02",
+    "Description": "<span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Episodes 5 through 8</span> shatter everything you thought you understood about <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Rokkenjima's brutal murders</span>, offering crucial hints while refusing to hand you easy answers.<br>Witness the eternal battle between <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Battler Ushiromiya</span> and the <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>Golden Witch Beatrice</span> escalate as <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>new perspectives</span> reveal hidden motivations and shocking truths buried beneath the <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>riddles</span>.<br>Unravel the <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>epitaph's mystery</span>, confront the nature of <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>truth and illusion</span>, and question whether <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>magic</span> or <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>human malice</span> orchestrated the tragedy through fifty hours of <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>earth-shattering revelations</span>.<br>This <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>murder mystery visual novel</span> challenges you to piece together <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>clues</span> scattered across parallel narratives.<br>The second half of 07th Expansion's masterwork delivers <span style='color:#D2691E; font-weight:bold; text-shadow: 0 0 8px #D2691E;'>utterly satisfying</span> twists to those who dare seek the truth behind the <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>witch's game</span>.",
+    "DescriptionArabic": "<div dir='rtl'><span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الحلقات من 5 إلى 8</span> تحطم كل ما اعتقدت أنك فهمته عن <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>جرائم القتل الوحشية في روكينجيما</span>، مقدمة تلميحات حاسمة بينما ترفض منحك إجابات سهلة.<br>اشهد المعركة الأبدية بين <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>باتلر أوشيروميا</span> و<span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>الساحرة الذهبية بياتريس</span> تتصاعد بينما تكشف <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>وجهات نظر جديدة</span> دوافع مخفية وحقائق صادمة مدفونة تحت <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>الألغاز</span>.<br>اكشف <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>لغز النقش</span>، واجه طبيعة <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>الحقيقة والوهم</span>، واستجوب ما إذا كان <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>السحر</span> أو <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>الحقد البشري</span> رتب المأساة عبر خمسين ساعة من <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>الكشوفات المذهلة</span>.<br>هذه <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>الرواية المرئية الغامضة</span> تتحداك لتجميع <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>الأدلة</span> المنتشرة عبر السرديات المتوازية.<br>النصف الثاني من تحفة 07th Expansion تقدم تطورات <span style='color:#D2691E; font-weight:bold; text-shadow: 0 0 8px #D2691E;'>مُرضية تماماً</span> لأولئك الذين يجرؤون على البحث عن الحقيقة وراء <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>لعبة الساحرة</span>.</div>",
+    "ReleaseDate": "2017",
+    "CriticScore": 100,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Umineko%20When%20They%20Cry%20Answer%20Arcs%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Umineko%20When%20They%20Cry%20Answer%20Arcs%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Umineko%20When%20They%20Cry%20Answer%20Arcs%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": 107.36666666666666,
+    "MusicUrl": "https://archive.org/download/RPRM001/Umineko%20When%20They%20Cry%20Answer%20Arcs%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Visual Novel"
+    ],
+    "DeveloperNames": [
+      "07th Expansion"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP006",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "Umineko5to8.exe",
+            "arguments": [],
+            "filename": "00179.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1764721791184_2",
+    "Name": "Umineko When They Cry Question Arcs",
+    "SortingName": "Umineko 01",
+    "Description": "October 4, 1986: <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>eighteen people</span> gather on the secluded island of <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Rokkenjima</span> as the wealthy <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Ushiromiya family</span> confronts their dying patriarch's fortune and the legend of the <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>Golden Witch Beatrice</span>.<br>Brutal murders unfold according to a cryptic <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>epitaph riddle</span>, each victim found in impossible circumstances that blur the line between <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>human cunning</span> and <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>supernatural intervention</span>.<br><span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Battler Ushiromiya</span> wages war against the witch's existence through <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>logic and deduction</span>, challenging you to solve <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>unsolvable riddles</span> left at each crime scene across <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>Episodes 1 through 4</span>.<br>This <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>sound novel</span> presents its mysteries without answers, daring you to discern truth from <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>theatrical illusion</span> through <span style='color:#D2691E; font-weight:bold; text-shadow: 0 0 8px #D2691E;'>atmosphere-rich</span> text and audio.<br>The first half of the legendary <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>mystery masterpiece</span> that challenges readers to become detectives in a game where the stakes are <span style='color:#8B008B; font-weight:bold; text-shadow: 0 0 8px #8B008B;'>absolute</span>.",
+    "DescriptionArabic": "<div dir='rtl'>4 أكتوبر 1986: يجتمع <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>ثمانية عشر شخصاً</span> على جزيرة <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>روكينجيما</span> المعزولة بينما تواجه <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>عائلة أوشيروميا</span> الثرية ثروة بطريركهم المحتضر وأسطورة <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>الساحرة الذهبية بياتريس</span>.<br>تتكشف جرائم قتل وحشية وفقاً لـ<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>لغز نقش</span> غامض، كل ضحية تُعثر عليها في ظروف مستحيلة تطمس الخط بين <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>المكر البشري</span> و<span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>التدخل الخارق</span>.<br>يخوض <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>باتلر أوشيروميا</span> حرباً ضد وجود الساحرة من خلال <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>المنطق والاستنتاج</span>، متحدياً إياك لحل <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>الألغاز غير القابلة للحل</span> المتروكة في كل مسرح جريمة عبر <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>الحلقات من 1 إلى 4</span>.<br>هذه <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>الرواية الصوتية</span> تقدم ألغازها بدون إجابات، متحدية إياك لتمييز الحقيقة من <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>الوهم المسرحي</span> من خلال نص وصوت <span style='color:#D2691E; font-weight:bold; text-shadow: 0 0 8px #D2691E;'>غني بالأجواء</span>.<br>النصف الأول من <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>تحفة الغموض</span> الأسطورية التي تتحدى القراء ليصبحوا محققين في لعبة حيث الرهانات <span style='color:#8B008B; font-weight:bold; text-shadow: 0 0 8px #8B008B;'>مطلقة</span>.</div>",
+    "ReleaseDate": "2016",
+    "CriticScore": 100,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Umineko%20When%20They%20Cry%20Question%20Arcs%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Umineko%20When%20They%20Cry%20Question%20Arcs%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Umineko%20When%20They%20Cry%20Question%20Arcs%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Umineko%20When%20They%20Cry%20Question%20Arcs%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Visual Novel"
+    ],
+    "DeveloperNames": [
+      "07th Expansion"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP006",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "Umineko1to4.exe",
+            "arguments": [],
+            "filename": "00180.zip"
+          }
+        ]
+      }
+    }
   }
 ]
