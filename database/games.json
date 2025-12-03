@@ -135043,5 +135043,45 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1764727371467_0",
+    "Name": "Keeper",
+    "SortingName": "Keeper",
+    "Description": "A <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>long-forgotten lighthouse</span> awakens to consciousness, joined by a spirited <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>seabird companion</span> in a tale told entirely without words through stunning <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>visual storytelling</span>.<br>Navigate a <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>surreal otherworldly realm</span> ravaged by <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>The Wither</span>, solving intricate <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>environmental puzzles</span> while discovering the power of <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>unlikely companionship</span>.<br>Witness <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>rich visual design</span> that dazzles the imagination, each scene a <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>beautiful tableau</span> conveying emotion through color, movement, and <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>artistic presentation</span>.<br>From Lee Petty and Double Fine comes <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>one of the most wonderfully bizarre adventures</span> of 2025—a <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>heartening odyssey</span> where a sentient structure and its feathered friend forge meaning in a <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>world reborn</span>.<br>This <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>unexpected masterpiece</span> delivers <span style='color:#2E8B57; font-weight:bold; text-shadow: 0 0 8px #2E8B57;'>stunning slices of magic</span> through its <span style='color:#8B008B; font-weight:bold; text-shadow: 0 0 8px #8B008B;'>unconventional narrative</span>.",
+    "DescriptionArabic": "<div dir='rtl'>تستيقظ <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>منارة منسية</span> إلى الوعي، منضمة إلى <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>رفيق طائر بحري</span> حيوي في حكاية تُروى بالكامل بدون كلمات من خلال <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>سرد قصصي مرئي</span> مذهل.<br>تنقل عبر <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>عالم سريالي آخر</span> دمره <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الذبول</span>، حل <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>ألغاز بيئية</span> معقدة بينما تكتشف قوة <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>الرفقة غير المتوقعة</span>.<br>اشهد <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>التصميم المرئي الغني</span> الذي يبهر الخيال، كل مشهد <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>لوحة جميلة</span> تنقل المشاعر من خلال اللون والحركة و<span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>العرض الفني</span>.<br>من Lee Petty و Double Fine يأتي <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>واحدة من أكثر المغامرات غرابة ورائعة</span> في 2025—<span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>ملحمة مبهجة</span> حيث يصنع بناء واعٍ وصديقه المريش معنى في <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>عالم يولد من جديد</span>.<br>هذه <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>التحفة غير المتوقعة</span> تقدم <span style='color:#2E8B57; font-weight:bold; text-shadow: 0 0 8px #2E8B57;'>شرائح مذهلة من السحر</span> من خلال <span style='color:#8B008B; font-weight:bold; text-shadow: 0 0 8px #8B008B;'>سردها غير التقليدي</span>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Keeper%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Keeper%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Keeper%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": 113.63333333333334,
+    "MusicUrl": "https://archive.org/download/RPRM001/Keeper%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Double Fine Productions"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP006",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "25 GB",
+            "executable": "Keeper.exe",
+            "arguments": [],
+            "buildID": "31 October 2025",
+            "filename": "00181.zip"
+          }
+        ]
+      }
+    }
   }
 ]
