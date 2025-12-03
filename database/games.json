@@ -94495,19 +94495,26 @@
       "PC Game": {
         "versions": [
           {
+            "identifier": "RPRP006",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "executable": "bin\\x64\\Cyberpunk2077.exe",
+            "fileSize": "100GB",
+            "buildID": "14 October 2025",
+            "filename": "00182.zip"
+          },
+          {
             "identifier": "RPRP003",
             "name": "Enhanced",
             "platform": "PC Game",
             "executable": "bin\\x64\\Cyberpunk2077.exe",
             "fileSize": "100GB",
-            "executableFiles": [
-              "bin\\x64\\Cyberpunk2077.exe"
+            "mods": [
+              "Welcome to Night City 2.31a",
+              "High-Res Graphics Pack"
             ],
-            "filenames": [
-              "00099.zip"
-            ],
-            "mods": "HD Reworked Project",
-            "buildID": "17 September 2025"
+            "buildID": "14 October 2025",
+            "filename": "00099.zip"
           }
         ]
       }
@@ -133324,7 +133331,7 @@
   {
     "_id": "game_1758919289379_0",
     "Name": "Tony Hawk's Pro Skater 1 And 2",
-    "SortingName": "Tony Hawk's Pro Skater 01",
+    "SortingName": "Tony Hawk 03",
     "Description": "The legendary <b style='color: #ff4500; text-shadow: 0 0 8px #ff4500;'>Tony Hawk</b> returns in this definitive remaster, where concrete becomes canvas and <b style='color: #00ff00; text-shadow: 0 0 8px #00ff00;'>gravity-defying tricks</b> paint the urban landscape with pure adrenaline.<br>From the iconic <b style='color: #ff6347; text-shadow: 0 0 8px #ff6347;'>Warehouse</b> to the bustling <b style='color: #32cd32; text-shadow: 0 0 8px #32cd32;'>School II</b>, every halfpipe, rail, and ramp has been lovingly rebuilt with stunning HD clarity while preserving the <b style='color: #ffd700; text-shadow: 0 0 8px #ffd700;'>soul-crushing satisfaction</b> of landing the perfect combo.<br>Chain together <b style='color: #ff1493; text-shadow: 0 0 8px #ff1493;'>kickflips</b>, <b style='color: #00bfff; text-shadow: 0 0 8px #00bfff;'>900s</b>, and <b style='color: #9370db; text-shadow: 0 0 8px #9370db;'>manual chains</b> as the era-defining <b style='color: #ff69b4; text-shadow: 0 0 8px #ff69b4;'>punk rock soundtrack</b> drives you toward that elusive <b style='color: #ffff00; text-shadow: 0 0 8px #ffff00;'>sick score</b>.<br>Whether you're hunting for the secret <b style='color: #87ceeb; text-shadow: 0 0 8px #87ceeb;'>S-K-A-T-E</b> letters or creating the ultimate <b style='color: #dda0dd; text-shadow: 0 0 8px #dda0dd;'>skate park</b>, this collection proves that some legends never fade—they just get better wheels and sharper graphics. (2020)",
     "DescriptionArabic": "<div dir='rtl'>يعود الأسطوري <b style='color: #ff4500; text-shadow: 0 0 8px #ff4500;'>توني هوك</b> في هذا الإصدار المحدث النهائي، حيث تصبح الخرسانة لوحة و<b style='color: #00ff00; text-shadow: 0 0 8px #00ff00;'>الحركات المتحدية للجاذبية</b> ترسم المشهد الحضري بالأدرينالين الخالص.<br>من <b style='color: #ff6347; text-shadow: 0 0 8px #ff6347;'>المستودع</b> الأيقوني إلى <b style='color: #32cd32; text-shadow: 0 0 8px #32cd32;'>المدرسة الثانية</b> المزدحمة، كل منحدر وقضيب ومنصة أُعيد بناؤها بحب بوضوح HD مذهل مع الحفاظ على <b style='color: #ffd700; text-shadow: 0 0 8px #ffd700;'>الرضا المدمر للروح</b> من تنفيذ الكومبو المثالي.<br>اربط <b style='color: #ff1493; text-shadow: 0 0 8px #ff1493;'>الكيك فليب</b> و<b style='color: #00bfff; text-shadow: 0 0 8px #00bfff;'>الـ900</b> و<b style='color: #9370db; text-shadow: 0 0 8px #9370db;'>سلاسل المانوال</b> بينما <b style='color: #ff69b4; text-shadow: 0 0 8px #ff69b4;'>موسيقى البانك روك</b> المحددة للعصر تدفعك نحو <b style='color: #ffff00; text-shadow: 0 0 8px #ffff00;'>النتيجة المذهلة</b> بعيدة المنال.<br>سواء كنت تبحث عن حروف <b style='color: #87ceeb; text-shadow: 0 0 8px #87ceeb;'>س-ك-ي-ت</b> السرية أو تبني <b style='color: #dda0dd; text-shadow: 0 0 8px #dda0dd;'>حديقة التزلج</b> المثالية، تثبت هذه المجموعة أن بعض الأساطير لا تتلاشى أبداً—بل تحصل على عجلات أفضل ورسوميات أوضح.</div>",
     "ReleaseDate": "2020",
@@ -133406,7 +133413,7 @@
   {
     "_id": "game_1758920504734_0",
     "Name": "Tony Hawk's Pro Skater 3 And 4",
-    "SortingName": "Tony Hawk's Pro Skater 02",
+    "SortingName": "Tony Hawk 04",
     "Description": "The <b style='color: #ff4500; text-shadow: 0 0 8px #ff4500;'>skateboarding revolution</b> continues as concrete legends return with twice the parks, twice the tricks, and unlimited possibilities for <b style='color: #00ff7f; text-shadow: 0 0 8px #00ff7f;'>aerial mastery</b>.<br>From <b style='color: #ff6347; text-shadow: 0 0 8px #ff6347;'>Foundry's molten chaos</b> to <b style='color: #32cd32; text-shadow: 0 0 8px #32cd32;'>Alcatraz's prison walls</b>, these remastered arenas push the boundaries of what's possible when wheels meet pavement in glorious <b style='color: #ffd700; text-shadow: 0 0 8px #ffd700;'>4K perfection</b>.<br>Master the art of <b style='color: #ff1493; text-shadow: 0 0 8px #ff1493;'>spine transfers</b>, <b style='color: #00bfff; text-shadow: 0 0 8px #00bfff;'>revert combos</b>, and <b style='color: #9370db; text-shadow: 0 0 8px #9370db;'>vert ramp madness</b> while 29 legendary skaters—including the <b style='color: #dc143c; text-shadow: 0 0 8px #dc143c;'>Doom Slayer</b> himself—demonstrate that skateboarding knows no limits.<br>With <b style='color: #ff69b4; text-shadow: 0 0 8px #ff69b4;'>cross-platform multiplayer</b> uniting skaters worldwide and <b style='color: #ffff00; text-shadow: 0 0 8px #ffff00;'>Create-A-Park</b> tools limited only by imagination, this collection proves that some dreams are worth landing—even if it takes a thousand <b style='color: #87ceeb; text-shadow: 0 0 8px #87ceeb;'>epic bails</b> to get there. (2025)",
     "DescriptionArabic": "<div dir='rtl'>تستمر <b style='color: #ff4500; text-shadow: 0 0 8px #ff4500;'>ثورة التزلج</b> بينما تعود أساطير الخرسانة مع ضعف الحدائق وضعف الحركات وإمكانيات لا محدودة <b style='color: #00ff7f; text-shadow: 0 0 8px #00ff7f;'>للإتقان الجوي</b>.<br>من <b style='color: #ff6347; text-shadow: 0 0 8px #ff6347;'>فوضى المسبك المنصهرة</b> إلى <b style='color: #32cd32; text-shadow: 0 0 8px #32cd32;'>جدران سجن الكاتراز</b>، تدفع هذه الحلبات المحدثة حدود ما هو ممكن عندما تلتقي العجلات بالرصيف في <b style='color: #ffd700; text-shadow: 0 0 8px #ffd700;'>كمال 4K</b> المجيد.<br>أتقن فن <b style='color: #ff1493; text-shadow: 0 0 8px #ff1493;'>انتقالات العمود الفقري</b> و<b style='color: #00bfff; text-shadow: 0 0 8px #00bfff;'>كومبوهات الإرجاع</b> و<b style='color: #9370db; text-shadow: 0 0 8px #9370db;'>جنون المنحدر العمودي</b> بينما 29 متزلجاً أسطورياً—بما في ذلك <b style='color: #dc143c; text-shadow: 0 0 8px #dc143c;'>قاتل الموت</b> نفسه—يثبتون أن التزلج لا يعرف حدوداً.<br>مع <b style='color: #ff69b4; text-shadow: 0 0 8px #ff69b4;'>اللعب الجماعي عبر المنصات</b> يوحد المتزلجين حول العالم وأدوات <b style='color: #ffff00; text-shadow: 0 0 8px #ffff00;'>إنشاء الحديقة</b> محدودة فقط بالخيال، تثبت هذه المجموعة أن بعض الأحلام تستحق الهبوط—حتى لو تطلب الأمر ألف <b style='color: #87ceeb; text-shadow: 0 0 8px #87ceeb;'>سقطة ملحمية</b> للوصول إلى هناك.</div>",
     "ReleaseDate": "2025",
@@ -135079,6 +135086,102 @@
             "arguments": [],
             "buildID": "31 October 2025",
             "filename": "00181.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1764745074006_0",
+    "Name": "Tony Hawk's Underground",
+    "SortingName": "Tony Hawk 01",
+    "Description": "Create your own <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>custom skater</span> from scratch and rise from unknown street skater to professional legend in the series' first <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>narrative-driven story mode</span>.<br>Journey alongside your friend <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Eric Sparrow</span> as the two chase skateboarding fame, only to watch your partnership fracture when ambition and betrayal tear your friendship apart.<br>Revolutionary <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>get-off-your-board</span> mechanics let you explore on foot, opening new paths and challenges across richly detailed <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>levels</span>.<br>Build your character's <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>stats</span> and <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>trick repertoire</span> from basic moves to jaw-dropping combos, mastering everything through persistent practice and <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>successful execution</span>.<br>Neversoft's fifth Tony Hawk entry abandons pre-made pros for deeply <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>personal customization</span>, weaving <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>dramatic cutscenes</span> throughout a tale of <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>dreams</span>, <span style='color:#D2691E; font-weight:bold; text-shadow: 0 0 8px #D2691E;'>rivalry</span>, and what you'll sacrifice to make it in the world of <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>professional skateboarding</span>.",
+    "DescriptionArabic": "<div dir='rtl'>اصنع <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>متزلجك المخصص</span> من الصفر وارتقِ من متزلج شوارع مجهول إلى أسطورة محترفة في أول <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>وضع قصة سردي</span> للسلسلة.<br>سافر إلى جانب صديقك <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>إيريك سبارو</span> بينما يلاحق الاثنان شهرة التزلج، فقط لمشاهدة شراكتكما تنكسر عندما يمزق الطموح والخيانة صداقتكما.<br>ميكانيكيات <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>النزول من اللوح</span> الثورية تتيح لك الاستكشاف سيراً على الأقدام، فاتحة مسارات وتحديات جديدة عبر <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>مستويات</span> مفصلة بغنى.<br>ابنِ <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>إحصائيات</span> شخصيتك و<span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>ذخيرة الحيل</span> من حركات أساسية إلى كومبوهات مذهلة، متقناً كل شيء من خلال الممارسة المستمرة و<span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>التنفيذ الناجح</span>.<br>إدخال Neversoft الخامس لتوني هوك يتخلى عن المحترفين الجاهزين لصالح <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>التخصيص الشخصي</span> العميق، ناسجاً <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>مشاهد درامية</span> عبر حكاية من <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>الأحلام</span> و<span style='color:#D2691E; font-weight:bold; text-shadow: 0 0 8px #D2691E;'>التنافس</span>، وما ستضحي به لتنجح في عالم <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>التزلج الاحترافي</span>.</div>",
+    "ReleaseDate": "2003",
+    "CriticScore": 100,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Tony%20Hawk's%20Underground%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Tony%20Hawk's%20Underground%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Tony%20Hawk's%20Underground%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Tony%20Hawk's%20Underground%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo GameCube"
+    ],
+    "GenreNames": [
+      "Sports"
+    ],
+    "DeveloperNames": [
+      "Neversoft"
+    ],
+    "downloadInfo": {
+      "Nintendo GameCube": {
+        "versions": [
+          {
+            "identifier": "retro-dolphin",
+            "name": "Vanilla",
+            "platform": "Nintendo GameCube",
+            "fileSize": "2 GB",
+            "arguments": [],
+            "emulator": "Dolphin",
+            "romFile": "Tony Hawk's Underground.rvz",
+            "filename": "Tony Hawk's Underground.rvz"
+          },
+          {
+            "identifier": "retro-dolphin",
+            "name": "HD Textures",
+            "platform": "Nintendo GameCube",
+            "fileSize": "2 GB",
+            "arguments": [],
+            "emulator": "Dolphin",
+            "filename": "Tony Hawk's Underground HD Textures.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1764746554129_0",
+    "Name": "Tony Hawk's Underground 2",
+    "SortingName": "Tony Hawk 02",
+    "Description": "Join the <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>World Destruction Tour</span>, a sick-as-hell global skateboarding competition where <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Team Hawk</span> battles <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Team Bam</span> in an absurd scavenger hunt spanning the planet.<br><span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>Bam Margera</span> brings his Viva La Bam chaos to skateboarding, turning international landmarks into playgrounds for <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>destructive stunts</span> and outrageous challenges with the losing team paying for everything.<br>Tear through cities worldwide, pulling off jaw-dropping <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>tricks</span> and causing mayhem in a quest for <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>skateboarding supremacy</span> that abandons seriousness for pure comedic carnage.<br>Neversoft refines the series' hallmark gameplay with <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>improved mechanics</span> while wrapping it in Bam's signature brand of anarchic humor and <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>wild pranks</span>.<br>The sixth Tony Hawk entry trades Underground's dramatic story for <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>globe-trotting insanity</span>, delivering a <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>comedy-packed adventure</span> where <span style='color:#D2691E; font-weight:bold; text-shadow: 0 0 8px #D2691E;'>rivalry</span> fuels ridiculous fun across <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>exotic locations</span>.",
+    "DescriptionArabic": "<div dir='rtl'>انضم إلى <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>جولة تدمير العالم</span>، مسابقة تزلج عالمية جنونية حيث يقاتل <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>فريق هوك</span> ضد <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>فريق بام</span> في مطاردة زبالة سخيفة تمتد عبر الكوكب.<br>يحضر <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>بام مارجيرا</span> فوضى Viva La Bam إلى التزلج، محولاً المعالم الدولية إلى ملاعب لـ<span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>الحيل التدميرية</span> والتحديات الجامحة مع الفريق الخاسر يدفع لكل شيء.<br>مزق عبر مدن العالم، منفذاً <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>حيلاً</span> مذهلة ومتسبباً في الفوضى في سعي لـ<span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>سيادة التزلج</span> التي تتخلى عن الجدية لصالح المذبحة الكوميدية النقية.<br>يصقل Neversoft اللعب المميز للسلسلة مع <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>ميكانيكيات محسنة</span> بينما يلفه في علامة بام المميزة من الفكاهة الفوضوية و<span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>المقالب الجامحة</span>.<br>إدخال توني هوك السادس يتاجر بقصة Underground الدرامية لصالح <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>جنون التجول العالمي</span>، مقدماً <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>مغامرة مليئة بالكوميديا</span> حيث يغذي <span style='color:#D2691E; font-weight:bold; text-shadow: 0 0 8px #D2691E;'>التنافس</span> المرح السخيف عبر <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>مواقع غريبة</span>.</div>",
+    "ReleaseDate": "2004",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Tony%20Hawk's%20Underground%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Tony%20Hawk's%20Underground%202%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Tony%20Hawk's%20Underground%202%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Tony%20Hawk's%20Underground%202%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 2"
+    ],
+    "GenreNames": [
+      "Sports"
+    ],
+    "DeveloperNames": [
+      "Neversoft"
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "7 GB",
+            "arguments": [],
+            "romFiles": [
+              "Tony Hawk's Underground 2.iso",
+              "Tony Hawk's Underground 2 [Revision+Re-Dub].iso"
+            ],
+            "romLabels": [
+              "Vanilla",
+              "Revision+Re-Dub"
+            ],
+            "emulator": "PCSX2",
+            "filename": "Tony Hawk's Underground 2.zip"
           }
         ]
       }
