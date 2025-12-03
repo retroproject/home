@@ -70496,7 +70496,8 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/8ec895ef-7e6d-4416-acbd-39e1ec5881fd.mp3",
     "PlatformNames": [
-      "Sony PlayStation"
+      "Sony PlayStation",
+      "PC Game"
     ],
     "GenreNames": [
       "Platformer"
@@ -70505,16 +70506,35 @@
       "Whoopee Camp"
     ],
     "downloadInfo": {
-      "Sony PlayStation": {
+      "Cross-Platform": {
         "versions": [
           {
+            "identifier": "RPRP006",
+            "filename": "",
+            "platform": "PC Game",
+            "name": "PC Special Edition",
+            "fileSize": "1GB",
+            "executableFiles": [
+              "Tomba.exe"
+            ],
+            "filenames": [
+              "00186.zip"
+            ],
+            "buildID": "30 July 2025"
+          },
+          {
             "identifier": "retro-psx",
-            "filename": "Tomba!.img",
-            "name": "Vanilla",
+            "filename": "",
             "platform": "Sony PlayStation 1",
+            "name": "Playstation 1",
             "emulator": "DuckStation",
             "fileSize": "300MB",
-            "romFile": "Tomba!.img"
+            "romFiles": [
+              "Tomba!.img"
+            ],
+            "filenames": [
+              "Tomba!.img"
+            ]
           }
         ]
       }
