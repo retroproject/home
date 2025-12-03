@@ -62259,7 +62259,8 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/7d8f3ba9-b5ef-498e-b018-764f3ce020c5.mp3",
     "PlatformNames": [
-      "Nintendo Switch"
+      "Nintendo Switch",
+      "PC Game"
     ],
     "GenreNames": [
       "Hack and Slash"
@@ -62268,19 +62269,60 @@
       "Grasshopper Manufacture"
     ],
     "downloadInfo": {
-      "Nintendo Switch": {
+      "Cross-Platform": {
         "versions": [
           {
-            "name": "Vanilla",
+            "identifier": "RPRP006",
+            "filename": "",
+            "platform": "PC Game",
+            "name": "PC Vanilla",
+            "fileSize": "5GB",
+            "executableFiles": [
+              "nmh.exe",
+              "ConfigurationTool.exe"
+            ],
+            "filenames": [
+              "00183.zip"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "buildID": "29 April 2025"
+          },
+          {
+            "identifier": "RPRP006",
+            "filename": "",
+            "platform": "PC Game",
+            "name": "PC Enhanced",
+            "fileSize": "5GB",
+            "executableFiles": [
+              "nmh.exe",
+              "ConfigurationTool.exe"
+            ],
+            "filenames": [
+              "00184.zip"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "buildID": "29 April 2025"
+          },
+          {
             "identifier": "E0701",
+            "filename": "",
+            "platform": "Nintendo Switch",
+            "name": "Switch Vanilla",
+            "emulator": "Yuzu",
+            "fileSize": "5GB",
+            "romFiles": [
+              "No More Heroes.nsp"
+            ],
             "filenames": [
               "No More Heroes.nsp",
               "No More Heroes Yuzu Update.zip"
-            ],
-            "fileSize": "2.2GB",
-            "emulator": "Yuzu",
-            "platform": "Nintendo Switch",
-            "romFile": "No More Heroes.nsp"
+            ]
           }
         ]
       }
@@ -101191,7 +101233,8 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/c7d857e1-feb5-4362-b333-133f2a5928d1.mp3",
     "PlatformNames": [
-      "Nintendo Switch"
+      "Nintendo Switch",
+      "PC Game"
     ],
     "GenreNames": [
       "Hack and Slash"
@@ -101200,16 +101243,40 @@
       "Grasshopper Manufacture"
     ],
     "downloadInfo": {
-      "Nintendo Switch": {
+      "Cross-Platform": {
         "versions": [
           {
+            "identifier": "RPRP006",
+            "filename": "",
+            "platform": "PC Game",
+            "name": "PC Vanilla",
+            "fileSize": "500MB",
+            "filenames": [
+              "00185.zip"
+            ],
+            "executableFiles": [
+              "nmh2.exe",
+              "ConfigurationTool.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "buildID": "29 April 2025"
+          },
+          {
             "identifier": "E0701",
-            "filename": "No More Heroes 2 Desperate Struggle.nsp",
-            "name": "Vanilla",
+            "filename": "",
             "platform": "Nintendo Switch",
+            "name": "Switch Vanilla",
             "emulator": "Yuzu",
-            "fileSize": "4GB",
-            "romFile": "No More Heroes 2 Desperate Struggle.nsp"
+            "fileSize": "5GB",
+            "filenames": [
+              "No More Heroes 2 Desperate Struggle.nsp"
+            ],
+            "romFiles": [
+              "No More Heroes 2 Desperate Struggle.nsp"
+            ]
           }
         ]
       }
