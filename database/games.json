@@ -135253,5 +135253,132 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1764782946019_0",
+    "Name": "Airforce Delta Storm",
+    "SortingName": "Airforce Delta 02",
+    "Description": "Konami's Xbox <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>launch title</b> brings intense <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>cockpit combat</b> to Microsoft's debut console with over <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>seventy military aircraft</b> rendered from actual fighters.<br>Navigate a strategic <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>World Map</b>, moving your squadron across various <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>checkpoints</b> before launching into adrenaline-fueled missions filled with <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>machine gun fire</b> and brutal <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>dogfights</b>.<br>Master everything from precision <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>barrel rolls</b> to complex <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>evasive maneuvers</b> as you engage hostile fighters in <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>aerial supremacy battles</b> across diverse combat zones.<br>Three difficulty levels accommodate everyone from <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>novice pilots</b> who can fly without mastering pitch and yaw to experienced aces seeking authentic <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>flight simulation</b> depth.<br>While critics noted repetitive mission structure, the game's massive <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>aircraft roster</b> and impressive visuals showcased the Xbox's power in this <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>November 2001</b> combat flight experience.",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>لقب الإطلاق</b> من Konami لـXbox يجلب <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>قتال قمرة القيادة</b> المكثف إلى جهاز Microsoft الأول مع أكثر من <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>سبعين طائرة عسكرية</b> مصممة من مقاتلات حقيقية.<br>تنقل عبر <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>خريطة العالم</b> الاستراتيجية، محركاً سربك عبر <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>نقاط تفتيش</b> مختلفة قبل الانطلاق إلى مهام مليئة بالأدرينالين مع <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>نيران المدافع الرشاشة</b> و<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>معارك جوية</b> وحشية.<br>أتقن كل شيء من <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>البراميل الدوارة</b> الدقيقة إلى <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>مناورات التهرب</b> المعقدة بينما تواجه مقاتلين معاديين في <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>معارك السيادة الجوية</b> عبر مناطق قتالية متنوعة.<br>ثلاثة مستويات صعوبة تستوعب الجميع من <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>الطيارين المبتدئين</b> الذين يمكنهم الطيران دون إتقان الميل والانعراج إلى المحترفين الذين يسعون لعمق <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>محاكاة الطيران</b> الأصيل.<br>بينما لاحظ النقاد هيكل المهام المتكرر، أظهر <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>قائمة الطائرات</b> الضخمة والمرئيات المذهلة قوة Xbox في تجربة الطيران القتالي هذه من <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>نوفمبر 2001</b>.</div>",
+    "ReleaseDate": "2001",
+    "CriticScore": 60,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Xbox%20Games%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Airforce%20Delta%20Storm%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Airforce%20Delta%20Storm%20Theme.mp3",
+    "PlatformNames": [
+      "Microsoft Xbox"
+    ],
+    "GenreNames": [
+      "Simulation"
+    ],
+    "DeveloperNames": [
+      "Konami"
+    ],
+    "downloadInfo": {
+      "Microsoft Xbox": {
+        "versions": [
+          {
+            "identifier": "X00X00",
+            "name": "Vanilla",
+            "platform": "Microsoft Xbox",
+            "fileSize": "2 GB",
+            "arguments": [],
+            "emulator": "Xemu",
+            "romFile": "AirForce Delta Storm.iso",
+            "filename": "AirForce Delta Storm.iso"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1764783629529_0",
+    "Name": "Airforce Delta Strike",
+    "SortingName": "Airforce Delta 03",
+    "Description": "When the orbital <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>OCC space colony</b> rebels and launches a devastating <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>invasion of Earth</b>, humanity's last hope rests with the notorious <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Delta Squadron</b>—a dumping ground for disgraced and misfit pilots.<br>This sci-fi combat saga spans <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>sixty action-packed missions</b> where your strategic choices in <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>pilot assignments</b> and <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>aircraft selection</b> fundamentally alter the campaign's outcome, leading to <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>multiple endings</b>.<br>Command over <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>twenty unique pilots</b>, each with distinct personalities and combat abilities, while accessing an unprecedented arsenal of <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>130+ aircraft</b> ranging from WWII legends to futuristic <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>multirole fighters</b>.<br>Face advanced <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>sci-fi weapons</b> and cutting-edge technology as <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>EDAF forces</b> struggle against the colony's superior firepower in <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>desperate aerial battles</b>.<br>Konami's third <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Airforce Delta</b> entry delivers strategic depth and massive scale, though critics noted it couldn't quite match genre rivals like Ace Combat.",
+    "DescriptionArabic": "<div dir='rtl'>عندما تتمرد <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>مستعمرة OCC الفضائية</b> المدارية وتشن <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>غزواً مدمراً للأرض</b>، يكمن أمل البشرية الأخير في <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>سرب دلتا</b> سيئ السمعة—مكب للطيارين المشوهين والمنبوذين.<br>تمتد هذه الملحمة القتالية للخيال العلمي عبر <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>ستين مهمة مليئة بالحركة</b> حيث تؤثر خياراتك الاستراتيجية في <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>تعيينات الطيارين</b> و<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>اختيار الطائرات</b> بشكل أساسي على نتيجة الحملة، مما يؤدي إلى <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>نهايات متعددة</b>.<br>قُد أكثر من <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>عشرين طياراً فريداً</b>، كل واحد بشخصيات وقدرات قتالية مميزة، بينما تصل إلى ترسانة غير مسبوقة من <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>130+ طائرة</b> تتراوح من أساطير الحرب العالمية الثانية إلى <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>مقاتلات متعددة الأدوار</b> مستقبلية.<br>واجه <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>أسلحة الخيال العلمي</b> المتقدمة والتكنولوجيا المتطورة بينما تكافح <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>قوات EDAF</b> ضد القوة النارية الفائقة للمستعمرة في <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>معارك جوية يائسة</b>.<br>إدخال Konami الثالث لـ<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Airforce Delta</b> يقدم عمقاً استراتيجياً ونطاقاً ضخماً، رغم أن النقاد لاحظوا أنه لم يستطع مضاهاة منافسي النوع مثل Ace Combat.</div>",
+    "ReleaseDate": "2004",
+    "CriticScore": 60,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Airforce%20Delta%20Strike%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Airforce%20Delta%20Strike%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Airforce%20Delta%20Strike%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 2"
+    ],
+    "GenreNames": [
+      "Simulation"
+    ],
+    "DeveloperNames": [
+      "Konami"
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Collection",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "4 GB",
+            "arguments": [],
+            "romFiles": [
+              "AirForce Delta Strike.iso",
+              "AirForce Delta Strike [Japanese VA].iso"
+            ],
+            "romLabels": [
+              "English VA",
+              "Japanese VA"
+            ],
+            "emulator": "PCSX2",
+            "filename": "Airforce Delta Strike.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1764783879253_0",
+    "Name": "Airforce Delta",
+    "SortingName": "Airforce Delta 01",
+    "Description": "Take control of a skilled <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>mercenary pilot</b> hired to complete dangerous <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>military missions</b> across hostile territories in this pure <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>aerial combat simulation</b>.<br>Every successful sortie earns you <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>cold hard cash</b>, which unlocks access to increasingly sophisticated <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>fighter jets</b> from an arsenal of over <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>thirty real-world aircraft</b>.<br>Climb into the cockpit of legendary planes like the <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>F-14 Tomcat</b>, the thundering <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>A-10 Thunderbolt</b>, or the cutting-edge <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>F-22 Raptor</b>, each handling authentically to their real-life counterparts.<br>Missions range from <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>seek-and-destroy operations</b> against enemy forces to nerve-wracking <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>escort assignments</b> protecting allied craft through dangerous airspace.<br>Face diverse threats from <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>air superiority fighters</b> to heavily-armed <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>ground installations</b> and naval vessels in Konami's Dreamcast launch title that puts you in the mercenary's seat.",
+    "DescriptionArabic": "<div dir='rtl'>تحكم بـ<b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>طيار مرتزق</b> ماهر مستأجر لإكمال <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>مهام عسكرية</b> خطيرة عبر أراضٍ معادية في هذه <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>محاكاة القتال الجوي</b> النقية.<br>كل طلعة ناجحة تكسبك <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>نقوداً صعبة</b>، مما يفتح الوصول إلى <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>طائرات مقاتلة</b> متطورة بشكل متزايد من ترسانة تضم أكثر من <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>ثلاثين طائرة من العالم الحقيقي</b>.<br>اصعد إلى قمرة القيادة لطائرات أسطورية مثل <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>F-14 تومكات</b> أو <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>A-10 ثندربولت</b> الصاخبة، أو <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>F-22 رابتور</b> المتطورة، كل واحدة تتعامل بشكل أصيل مع نظيراتها الحقيقية.<br>تتراوح المهام من <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>عمليات البحث والتدمير</b> ضد قوات العدو إلى <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>مهام مرافقة</b> مثيرة للأعصاب لحماية طائرات الحلفاء عبر مجال جوي خطير.<br>واجه تهديدات متنوعة من <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>مقاتلات التفوق الجوي</b> إلى <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>منشآت أرضية</b> مسلحة بشدة وسفن بحرية في لقب إطلاق Dreamcast من Konami الذي يضعك في مقعد المرتزق.</div>",
+    "ReleaseDate": "1999",
+    "CriticScore": 60,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Dreamcast%20Games%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Airforce%20Delta%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Airforce%20Delta%20Theme.mp3",
+    "PlatformNames": [
+      "Sega Dreamcast"
+    ],
+    "GenreNames": [
+      "Simulation"
+    ],
+    "DeveloperNames": [
+      "Konami"
+    ],
+    "downloadInfo": {
+      "Sega Dreamcast": {
+        "versions": [
+          {
+            "identifier": "S07S07",
+            "name": "Vanilla",
+            "platform": "Sega Dreamcast",
+            "fileSize": "1GB",
+            "arguments": [],
+            "emulator": "Redream",
+            "romFile": "Airforce Delta.chd",
+            "filename": "Airforce Delta.chd"
+          }
+        ]
+      }
+    }
   }
 ]
