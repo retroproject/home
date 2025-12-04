@@ -61010,7 +61010,7 @@
             "platform": "PC Game",
             "fileSize": "20GB",
             "arguments": [],
-            "buildID": "1.02.1 & 1.0.4",
+            "buildID": "1.02.4 & 1.0.6",
             "executable": "nrsc_launcher.exe",
             "filename": "00049.zip"
           }
@@ -135021,7 +135021,17 @@
         "versions": [
           {
             "identifier": "RPRP006",
-            "name": "Vanilla",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "490 MB",
+            "executable": "Game.exe",
+            "arguments": [],
+            "buildID": "1.0.0.12330",
+            "filename": "00187.zip"
+          },
+          {
+            "identifier": "RPRP006",
+            "name": "Offline",
             "platform": "PC Game",
             "fileSize": "490 MB",
             "executable": "Game.exe",
