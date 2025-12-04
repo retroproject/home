@@ -135429,5 +135429,48 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1764867838763_0",
+    "Name": "Hi-Fi Rush",
+    "SortingName": "Hi-Fi Rush",
+    "Description": "Meet <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Chai</b>, a wannabe rockstar whose routine <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>cybernetic arm replacement</b> goes spectacularly wrong when his music player accidentally embeds in his chest—syncing his entire reality to <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>the beat</b>.<br>Branded a <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>defect</b> by the sinister <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Vandelay Technologies</b>, Chai teams with brilliant hacker <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Peppermint</b> and adorable robot cat <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>808</b> to dismantle the corporation's corrupt departments—from production to marketing.<br>Every punch, parry, and environmental interaction <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>pulses to the music</b> in this revolutionary <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>rhythm-action hybrid</b> where perfect timing transforms combat into <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>choreographed chaos</b>.<br>Uncover Vandelay's sinister <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>mind-control conspiracy</b> while battling through <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>vibrant cel-shaded environments</b> that dance alongside your <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>musical mayhem</b>.<br>Tango Gameworks' surprise <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>January 2023</b> shadow drop earned universal acclaim for its <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>infectious style</b>, sharp humor, and proof that when the world syncs to your rhythm, even being a defect feels <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>perfectly on beat</b>.",
+    "DescriptionArabic": "<div dir='rtl'>تعرف على <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>تشاي</b>، نجم روك طموح تسوء عملية <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>استبدال الذراع السيبرانية</b> الروتينية بشكل مذهل عندما يُدمج مشغل الموسيقى الخاص به عرضياً في صدره—مزامناً واقعه بالكامل مع <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>الإيقاع</b>.<br>وُصِم كـ<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>عيب</b> من قبل <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>شركة فانديلاي للتقنيات</b> الشريرة، يتعاون تشاي مع الهاكرة اللامعة <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>بيبرمينت</b> والقطة الروبوتية الرائعة <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>808</b> لتفكيك أقسام الشركة الفاسدة—من الإنتاج إلى التسويق.<br>كل لكمة ودفاع وتفاعل بيئي <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>ينبض مع الموسيقى</b> في هذا <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>المزيج الثوري للإيقاع والحركة</b> حيث يحول التوقيت المثالي القتال إلى <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>فوضى مصممة</b>.<br>اكشف <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>مؤامرة التحكم بالعقول</b> الشريرة لشركة فانديلاي بينما تقاتل عبر <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>بيئات نابضة بالحياة</b> ترقص بجانب <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>فوضاك الموسيقية</b>.<br>إصدار Tango Gameworks المفاجئ في <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>يناير 2023</b> حصد إشادة عالمية لـ<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>أسلوبه المعدي</b> والفكاهة الذكية، ودليل على أنه عندما يتزامن العالم مع إيقاعك، حتى كونك عيباً يبدو <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>متزامناً تماماً</b>.</div>",
+    "ReleaseDate": "2023",
+    "CriticScore": 100,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Hi-Fi%20RUSH%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Hi-Fi%20Rush%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Hi-Fi%20Rush%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Hack and Slash"
+    ],
+    "DeveloperNames": [
+      "Tango Gameworks"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP007",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "17 GB",
+            "executable": "Hi-Fi-RUSH.exe",
+            "arguments": [],
+            "buildID": "4 December 2025",
+            "filename": "00188.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
