@@ -135469,8 +135469,46 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
+  },
+  {
+    "_id": "game_1764874485456_0",
+    "Name": "Routine",
+    "SortingName": "Routine",
+    "Description": "Step into an <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>abandoned lunar base</b> frozen in an <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>80s retro-futuristic vision</b> where the entire crew has mysteriously vanished without a trace.<br>As an unnamed investigator exploring the desolate <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Lunar Research Station</b>, you must piece together fragmented <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>data logs</b> and <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>audio recordings</b> to unravel what drove everyone to disappear.<br>Navigate dimly-lit corridors and <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>pressurized modules</b> while evading <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>hostile robots</b> that patrol the station's cold metallic halls, their intentions as mysterious as the fate of the missing crew.<br>The game's <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>permadeath system</b> means every encounter matters—one wrong move in the <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>zero-gravity sections</b> or a failed escape from mechanical threats ends your investigation permanently.<br>Immerse yourself in <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>atmospheric environments</b> dripping with <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>isolation and dread</b>, where <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>beautiful visuals</b> contrast with the mounting horror of uncovering the station's <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>dark secrets</b>.<br>After thirteen years in development, this <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>first-person horror exploration</b> delivers terrifying <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>lunar survival</b> where the truth awaits those brave enough to seek it.",
+    "DescriptionArabic": "<div dir='rtl'>ادخل إلى <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>قاعدة قمرية مهجورة</b> متجمدة في <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>رؤية مستقبلية رجعية من الثمانينات</b> حيث اختفى الطاقم بأكمله بشكل غامض دون أثر.<br>بصفتك محققاً مجهولاً تستكشف <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>محطة الأبحاث القمرية</b> المقفرة، يجب عليك تجميع <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>سجلات البيانات</b> المجزأة و<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>التسجيلات الصوتية</b> لكشف ما دفع الجميع للاختفاء.<br>تنقل عبر ممرات خافتة الإضاءة و<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>وحدات مضغوطة</b> بينما تتهرب من <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الروبوتات المعادية</b> التي تدورية قاعات المحطة المعدنية الباردة، نواياها غامضة مثل مصير الطاقم المفقود.<br><b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>نظام الموت الدائم</b> في اللعبة يعني أن كل مواجهة مهمة—حركة خاطئة واحدة في <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>أقسام انعدام الجاذبية</b> أو هروب فاشل من التهديدات الميكانيكية ينهي تحقيقك نهائياً.<br>انغمس في <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>بيئات جوية</b> تقطر بـ<b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>العزلة والرهبة</b>، حيث تتناقض <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>المرئيات الجميلة</b> مع الرعب المتزايد من الكشف عن <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>أسرار المحطة المظلمة</b>.<br>بعد ثلاثة عشر عاماً في التطوير، يقدم هذا <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>استكشاف الرعب بمنظور الشخص الأول</b> <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>البقاء القمري</b> المرعب حيث تنتظر الحقيقة أولئك الشجعان بما يكفي للبحث عنها.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Routine%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Routine%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Routine%20Trailer.mp4",
+    "videoStart": 2.1,
+    "videoEnd": 77.56666666666666,
+    "MusicUrl": "https://archive.org/download/RPRM001/Routine%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "Lunar Software"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP007",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "10 GB",
+            "executable": "Routine.exe",
+            "arguments": [],
+            "buildID": "4 December 2025",
+            "filename": "00189.zip"
+          }
+        ]
+      }
+    }
   }
 ]
