@@ -51819,12 +51819,20 @@
             "platform": "PC Game",
             "name": "Remastered",
             "fileSize": "70MB",
-            "buildID": "1.0.1",
+            "buildID": "1.0.2",
             "executableFiles": [
               "SMB1R.exe"
             ],
             "filenames": [
-              "00073.zip"
+              "00073.zip",
+              "00073 Roaming Data.zip"
+            ],
+            "mods": [
+              "Pastel Agony 1.0.3",
+              "Modernized Sprites 1.51",
+              "Cassified 0.0.7",
+              "Astro Tweaks Final Version",
+              "Stylized Colored M&L v4"
             ]
           }
         ]
@@ -135567,8 +135575,6 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   }
 ]
