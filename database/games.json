@@ -135527,5 +135527,48 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1764965171178_0",
+    "Name": "The Alters",
+    "SortingName": "The Alters",
+    "Description": "Meet <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Jan Dolski</b>, an interstellar worker stranded alone on a <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>hostile alien planet</b> where a <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>deadly sunrise</b> threatens to incinerate everything in its path.<br>With only a high-tech <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>mobile base</b> designed for an entire crew, Jan discovers the mysterious substance <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Rapidium</b>—which grants him the impossible power to create <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>alternate versions of himself</b>.<br>Each <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Alter</b> represents a different path Jan could have taken—what if he'd stayed in school, pursued that relationship, or chosen a different career?—manifesting as complete individuals with <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>unique abilities</b>, distinct personalities, and <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>conflicting emotions</b>.<br>Race against <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>time itself</b> as you balance <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>base-building</b>, resource gathering, and <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>crew management</b> while your Alters' differences spark <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>internal conflicts</b> and philosophical debates about identity.<br>Every decision carries weight as you choose which <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>alternate selves</b> to create, knowing you can't make them all in a single playthrough—each choice reshaping your <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>survival strategy</b> and the deeply personal story of a man confronting the <b style='color: #00FA9A; text-shadow: 0 0 8px #00FA9A;'>roads not taken</b>.",
+    "DescriptionArabic": "<div dir='rtl'>تعرف على <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>يان دولسكي</b>، عامل بين النجوم عالق وحيداً على <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>كوكب فضائي معادٍ</b> حيث يهدد <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>شروق مميت</b> بحرق كل شيء في طريقه.<br>مع <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>قاعدة متنقلة</b> متطورة مصممة لطاقم كامل فقط، يكتشف يان المادة الغامضة <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>رابيديوم</b>—التي تمنحه القوة المستحيلة لإنشاء <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>نسخ بديلة من نفسه</b>.<br>كل <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>بديل</b> يمثل مساراً مختلفاً كان يمكن أن يسلكه يان—ماذا لو بقي في المدرسة، أو تابع تلك العلاقة، أو اختار مهنة مختلفة؟—يتجلى كأفراد كاملين بـ<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>قدرات فريدة</b> وشخصيات مميزة و<b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>عواطف متضاربة</b>.<br>سابق <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>الزمن نفسه</b> بينما توازن بين <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>بناء القاعدة</b> وجمع الموارد و<b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>إدارة الطاقم</b> بينما تشعل اختلافات بدلائك <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>صراعات داخلية</b> ونقاشات فلسفية حول الهوية.<br>كل قرار يحمل وزناً بينما تختار أي <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>ذوات بديلة</b> تنشئها، عالماً أنك لا تستطيع صنعهم جميعاً في جولة واحدة—كل خيار يعيد تشكيل <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>استراتيجية البقاء</b> والقصة الشخصية العميقة لرجل يواجه <b style='color: #00FA9A; text-shadow: 0 0 8px #00FA9A;'>الطرق غير المسلوكة</b>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 100,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Alters%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Alters%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/The%20Alters%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/The%20Alters%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Survival"
+    ],
+    "DeveloperNames": [
+      "11 bit studios"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP007",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "51 GB",
+            "executable": "TheAlters.exe",
+            "arguments": [],
+            "buildID": "15 September 2025",
+            "filename": "00192.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
