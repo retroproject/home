@@ -9493,8 +9493,8 @@
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/930e7b86-56d0-4136-b7ed-41456f7bac84.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/1df503f6-9bf0-4315-b57e-e8990e0f5807.jpg",
     "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "videoStart": 1.7,
+    "videoEnd": 62.766666666666666,
     "MusicUrl": "https://archive.org/download/retromusic/13499021-05c7-4c10-82eb-198b5cd7607a.mp3",
     "PlatformNames": [
       "Sony PlayStation"
@@ -135576,5 +135576,52 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1764976104268_0",
+    "Name": "Metroid Prime 4 Beyond",
+    "SortingName": "Metroid 11",
+    "Description": "<b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Samus Aran</b> awakens on the mysterious undiscovered planet <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Viewros</b>, where the enigmatic <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Lamorn inhabitants</b> task her with a desperate mission critical to their survival.<br>Navigate <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>non-linear alien environments</b> using the legendary <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Power Suit</b> while confronting her vengeful rival <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Sylux</b>, who harbors a burning grudge against the bounty hunter and the <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Galactic Federation</b>.<br>Harness revolutionary <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>psychic abilities</b> to control beam trajectories mid-flight and manipulate distant objects with telekinetic force, adding tactical depth to <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>first-person combat</b>.<br>Traverse the sprawling <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>desert hub world</b> aboard the sleek <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>Vi-0-La motorcycle</b>, scan alien lifeforms and artifacts for intel, and unlock <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>devastating upgrades</b> that expand your arsenal.<br>Face <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>memorable boss encounters</b> in atmospheric alien landscapes dripping with <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>isolation and wonder</b>, eighteen years after the last Prime adventure.<br>Every <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>scan</b>, upgrade, and discovery brings Samus closer to uncovering Viewros's secrets while surviving Sylux's relentless <b style='color: #00FA9A; text-shadow: 0 0 8px #00FA9A;'>vendetta</b>.",
+    "DescriptionArabic": "<div dir='rtl'>تستيقظ <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>ساموس آران</b> على كوكب <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>فيوروس</b> الغامض غير المكتشف، حيث يكلفها <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>سكان لامورن</b> الغامضون بمهمة يائسة حاسمة لبقائهم.<br>تنقل عبر <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>بيئات فضائية غير خطية</b> باستخدام <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>بدلة القوة</b> الأسطورية بينما تواجه منافستها الانتقامية <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>سيلوكس</b>، التي تحمل ضغينة محترقة ضد صائدة الجوائز و<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الاتحاد المجري</b>.<br>استخدم <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>القدرات النفسية</b> الثورية للتحكم في مسارات الحزم أثناء الطيران وتلاعب بالأشياء البعيدة بقوة التحريك الذهني، مضيفاً عمقاً تكتيكياً لـ<b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>القتال بمنظور الشخص الأول</b>.<br>اجتز <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>عالم المحور الصحراوي</b> الشاسع على متن <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>دراجة Vi-0-La</b> الأنيقة، امسح أشكال الحياة الفضائية والتحف للمعلومات، وافتح <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>ترقيات مدمرة</b> توسع ترسانتك.<br>واجه <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>مواجهات زعماء لا تُنسى</b> في مناظر فضائية جوية تقطر بـ<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>العزلة والدهشة</b>، بعد ثمانية عشر عاماً من مغامرة Prime الأخيرة.<br>كل <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>مسح</b> وترقية واكتشاف يقرب ساموس من الكشف عن أسرار فيوروس بينما تنجو من <b style='color: #00FA9A; text-shadow: 0 0 8px #00FA9A;'>انتقام</b> سيلوكس المستمر.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Metroid%20Prime%204%20Beyond%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Metroid%20Prime%204%20Beyond%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Metroid%20Prime%204%20Beyond%20Trailer.mp4",
+    "videoStart": 1.7,
+    "videoEnd": 62.63333333333333,
+    "MusicUrl": "https://archive.org/download/RPRM001/Metroid%20Prime%204%20Beyond%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo Switch"
+    ],
+    "GenreNames": [
+      "Action"
+    ],
+    "DeveloperNames": [
+      "Retro Studios"
+    ],
+    "downloadInfo": {
+      "Nintendo Switch": {
+        "versions": [
+          {
+            "identifier": "E0701",
+            "name": "Vanilla",
+            "platform": "Nintendo Switch",
+            "fileSize": "26 GB",
+            "arguments": [],
+            "filenames": [
+              "Metroid Prime 4 Beyond.xci",
+              "Metroid Prime 4 Beyond Citron Update.zip"
+            ],
+            "emulator": "Citron",
+            "buildID": "1.1.0",
+            "romFile": "Metroid Prime 4 Beyond.xci"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
