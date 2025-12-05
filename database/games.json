@@ -47238,13 +47238,28 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC08",
-            "name": "Enhanced",
+            "identifier": "RPRP007",
+            "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "59GB",
+            "fileSize": "60GB",
             "arguments": [],
             "executable": "bin\\x64_dx12\\witcher3.exe",
-            "filename": "The Witcher 3.zip"
+            "buildID": "6 June 2024",
+            "filename": "00190.zip"
+          },
+          {
+            "identifier": "RPRP007",
+            "name": "Enhanced",
+            "platform": "PC Game",
+            "fileSize": "80GB",
+            "arguments": [],
+            "executable": "bin\\x64_dx12\\witcher3.exe",
+            "filenames": [
+              "00191.zip",
+              "00191 Docs.zip"
+            ],
+            "buildID": "6 June 2024",
+            "mods": "Ultimate Mod List 204"
           }
         ]
       }
