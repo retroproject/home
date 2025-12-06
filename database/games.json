@@ -61033,11 +61033,21 @@
             "identifier": "RPRP002",
             "name": "Online",
             "platform": "PC Game",
-            "fileSize": "20GB",
+            "fileSize": "27GB",
             "arguments": [],
             "buildID": "1.02.4 & 1.0.6",
             "executable": "nrsc_launcher.exe",
             "filename": "00049.zip"
+          },
+          {
+            "identifier": "RPRP007",
+            "name": "Offline",
+            "platform": "PC Game",
+            "fileSize": "27.3GB",
+            "arguments": [],
+            "buildID": "3 December 2025",
+            "executable": "nightreign.exe",
+            "filename": "00197.zip"
           }
         ]
       }
