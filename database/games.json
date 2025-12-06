@@ -3871,12 +3871,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC14",
-            "filename": "Conscript.zip",
+            "identifier": "RPRP007",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "CONSCRIPT.exe",
-            "fileSize": "760MB"
+            "fileSize": "760MB",
+            "buildID": "4 December 2025",
+            "filename": "00196.zip"
           }
         ]
       }
@@ -109769,12 +109770,22 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "COPC01",
-            "filename": "Elden Ring.zip",
+            "identifier": "RPRP007",
             "name": "Online",
             "platform": "PC Game",
             "executable": "ersc_launcher.exe",
-            "fileSize": "66GB"
+            "fileSize": "66GB",
+            "buildID": "1.16.1",
+            "filename": "00194.zip"
+          },
+          {
+            "identifier": "RPRP007",
+            "name": "Offline",
+            "platform": "PC Game",
+            "executable": "eldenring.exe",
+            "fileSize": "66GB",
+            "buildID": "21 August 2025",
+            "filename": "00195.zip"
           }
         ]
       }
