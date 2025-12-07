@@ -124707,7 +124707,7 @@
     "_id": "f4d333dd-cc9e-40c8-99fe-d08172603ec3",
     "GameId": "44df167d0038b1bcefebc6e19719ed59",
     "Name": "The House in Fata Morgana",
-    "SortingName": "",
+    "SortingName": "Fata 01",
     "Description": "A <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>mysterious mansion</span> exists beyond time itself, where <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>cursed souls</span> repeat their tragic stories across <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>multiple centuries</span>. Through <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>haunting doors</span>, witness tales of <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>forbidden love</span>, <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>devastating betrayal</span>, and <span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>redemption</span> in this masterpiece of <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>gothic storytelling</span>. Each chapter reveals <span style='color:#20B2AA; font-weight:bold; text-shadow: 0 0 8px #20B2AA;'>interconnected destinies</span> spanning from <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>medieval times</span> to the <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>modern era</span>, weaving a narrative tapestry of <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>human emotion</span> and <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>supernatural horror</span>. Prepare for an <span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>emotional journey</span> that challenges the very nature of <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>identity and memory</span>.",
     "DescriptionArabic": "<div dir='rtl'>يوجد <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>قصر غامض</span> خارج الزمن نفسه، حيث تكرر <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الأرواح الملعونة</span> قصصها المأساوية عبر <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>قرون متعددة</span>. من خلال <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>الأبواب المخيفة</span>، اشهد حكايات <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>الحب المحرم</span>، <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>الخيانة المدمرة</span>، و<span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>الفداء</span> في هذه التحفة من <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>السرد القوطي</span>. كل فصل يكشف <span style='color:#20B2AA; font-weight:bold; text-shadow: 0 0 8px #20B2AA;'>المصائر المترابطة</span> الممتدة من <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>العصور الوسطى</span> إلى <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>العصر الحديث</span>، نسج نسيج سردي من <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>المشاعر الإنسانية</span> و<span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>الرعب الخارق</span>. استعد لـ<span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>رحلة عاطفية</span> تتحدى طبيعة <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>الهوية والذاكرة</span> ذاتها.</div>",
     "ReleaseDate": "2012-12-31",
@@ -135846,5 +135846,92 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1765148465045_0",
+    "Name": "Seventh Lair",
+    "SortingName": "Fata 00",
+    "Description": "Step into the shoes of <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Dark†Knight</b>, a struggling 27-year-old <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>indie game developer</b> whose obscure creations fail to find success until an <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>enthusiastic female fan</b> reaches out with genuine appreciation.<br>When <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>malicious trolls</b> invade his website <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Royaume Heaven</b>, Dark†Knight announces an April Fool's release called \"Seventh Lair\" — only to have players mysteriously <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>sucked into an RPG-like realm</b> upon download.<br>Navigate this <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>surreal digital dimension</b> where <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>raw emotion</b> and <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>crushing despair</b> manifest as tangible forces, exploring the <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>toxic online interactions</b> between creators and their audiences.<br>Experience a <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>tongue-in-cheek yet deeply emotional</b> narrative that balances <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>dark comedy</b> with <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>heartfelt introspection</b>, unraveling the complex relationship between artistic passion and online validation in this <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>unconventional visual novel</b>.",
+    "DescriptionArabic": "<div dir='rtl'>ادخل في دور <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>دارك†نايت</b>، <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>مطور ألعاب مستقل</b> يكافح في السابعة والعشرين من عمره حيث تفشل إبداعاته الغامضة في تحقيق النجاح حتى تتواصل معه <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>معجبة متحمسة</b> بتقدير حقيقي.<br>عندما يغزو <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>المتصيدون الخبثاء</b> موقعه <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>رويوم هيفن</b>، يعلن دارك†نايت عن إصدار كذبة أبريل باسم \"Seventh Lair\" — ليكتشف أن اللاعبين <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>انجذبوا غامضاً إلى عالم يشبه آر بي جي</b> عند التنزيل.<br>تنقل عبر هذا <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>البعد الرقمي السريالي</b> حيث تتجسد <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>المشاعر الخام</b> و<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>اليأس الساحق</b> كقوى ملموسة، مستكشفاً <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>التفاعلات السامة عبر الإنترنت</b> بين المبدعين وجماهيرهم.<br>اختبر سرداً <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>ساخراً لكن عاطفياً بعمق</b> يوازن <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>الكوميديا المظلمة</b> مع <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>التأمل الصادق</b>، كاشفاً العلاقة المعقدة بين الشغف الفني والتحقق عبر الإنترنت في هذه <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>الرواية المرئية غير التقليدية</b>.</div>",
+    "ReleaseDate": "2022",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Seventh%20Lair%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Seventh%20Lair%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Seventh%20Lair%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Seventh%20Lair%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Visual Novel"
+    ],
+    "DeveloperNames": [
+      "NOVECT"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP007",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Seventh Lair.exe",
+            "arguments": [],
+            "buildID": "17 October 2025",
+            "filename": "00202.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765149745502_0",
+    "Name": "Rhythm Thief & The Emperors Treasure",
+    "SortingName": "Rhythm Thief & The Emperors Treasure",
+    "Description": "Uncover the mystery behind <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Napoleon's stolen casket</b> as <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Raphael</b>, an 18-year-old art student who leads a double life as the infamous thief <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Phantom R</b>, searching for his missing father through the streets of <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Paris</b>.<br>Master dozens of <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>rhythm-based mini-games</b> using touch screen taps, button presses, and <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>gyroscopic motion controls</b> to dance with strangers, hide from guards behind statues, and battle enemies in time with the beat.<br>Steal <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>priceless works of art</b> only to mysteriously return them days later, building your reputation as a <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>gentleman thief</b> while piecing together clues about your father's disappearance and the <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Emperor's hidden treasure</b>.<br>Navigate <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>gorgeously animated cutscenes</b> and explore Parisian landmarks through <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>adventure game segments</b>, solving puzzles and collecting coins between <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>musical challenges</b> in this <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>rhythm-adventure fusion</b> that blends <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>catchy melodies</b> with mystery and intrigue.",
+    "DescriptionArabic": "<div dir='rtl'>اكتشف اللغز وراء <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>تابوت نابليون المسروق</b> بينما تلعب دور <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>رافائيل</b>، طالب فنون في الثامنة عشرة يعيش حياة مزدوجة كاللص الشهير <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>فانتوم آر</b>، باحثاً عن والده المفقود عبر شوارع <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>باريس</b>.<br>أتقن عشرات <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>الألعاب المصغرة القائمة على الإيقاع</b> باستخدام لمسات الشاشة، ضغطات الأزرار، و<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>تحكمات الحركة الجيروسكوبية</b> للرقص مع الغرباء، الاختباء من الحراس خلف التماثيل، ومحاربة الأعداء متزامناً مع الإيقاع.<br>اسرق <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الأعمال الفنية التي لا تقدر بثمن</b> فقط لتعيدها غامضاً بعد أيام، بانياً سمعتك <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>كلص نبيل</b> بينما تجمع أدلة عن اختفاء والدك و<b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>كنز الإمبراطور المخفي</b>.<br>تنقل عبر <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>مشاهد متحركة رائعة</b> واستكشف معالم باريس من خلال <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>مقاطع لعبة مغامرات</b>، حالاً الألغاز وجامعاً العملات بين <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>التحديات الموسيقية</b> في هذا <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>الدمج بين الإيقاع والمغامرة</b> الذي يمزج <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>الألحان الجذابة</b> مع الغموض والإثارة.</div>",
+    "ReleaseDate": "2012",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Rhythm%20Thief%20%26%20The%20Emperors%20Treasure%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Rhythm%20Thief%20%26%20The%20Emperors%20Treasure%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Rhythm%20Thief%20%26%20The%20Emperors%20Treasure%20Trailer.mp4",
+    "videoStart": 15.8,
+    "videoEnd": 98.7,
+    "MusicUrl": "https://archive.org/download/RPRM001/Rhythm%20Thief%20%26%20The%20Emperors%20Treasure%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo 3DS"
+    ],
+    "GenreNames": [
+      "Music"
+    ],
+    "DeveloperNames": [
+      "Sega"
+    ],
+    "downloadInfo": {
+      "Nintendo 3DS": {
+        "versions": [
+          {
+            "identifier": "retro-3ds",
+            "name": "Vanilla",
+            "platform": "Nintendo 3DS",
+            "fileSize": "4 GB",
+            "arguments": [],
+            "emulator": "Citra",
+            "romFiles": [
+              "Rhythm Thief & the Emperors Treasure.3ds",
+              "Rhythm Thief & the Emperor's Treasure [Japanese VA].3ds"
+            ],
+            "romLabels": [
+              "English VA",
+              "Japanese VA"
+            ],
+            "filename": "Rhythm Thief & The Emperors Treasure.zip"
+          }
+        ]
+      }
+    }
   }
 ]
