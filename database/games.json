@@ -135720,5 +135720,41 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1765083765319_0",
+    "Name": "Constance",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Constance%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Constance%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Constance%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Constance%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP007",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "CONSTANCE.exe",
+            "arguments": [],
+            "buildID": "6 December 2025",
+            "filename": "00199.zip"
+          }
+        ]
+      }
+    }
   }
 ]
