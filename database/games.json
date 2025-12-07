@@ -9494,8 +9494,8 @@
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/930e7b86-56d0-4136-b7ed-41456f7bac84.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/1df503f6-9bf0-4315-b57e-e8990e0f5807.jpg",
     "YouTubeUrl": "",
-    "videoStart": 1.7,
-    "videoEnd": 62.766666666666666,
+    "videoStart": null,
+    "videoEnd": 49.2,
     "MusicUrl": "https://archive.org/download/retromusic/13499021-05c7-4c10-82eb-198b5cd7607a.mp3",
     "PlatformNames": [
       "Sony PlayStation"
@@ -135688,11 +135688,11 @@
   {
     "_id": "game_1765081785124_0",
     "Name": "Detective Instinct Farewell, My Beloved",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Detective Instinct Farewell, My Beloved",
+    "Description": "Step into a <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>classic detective mystery</b> crafted in the style of beloved Japanese <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>adventure games</b> like Famicom Detective Club, Hotel Dusk, and Ace Attorney.<br>Navigate <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>command-select gameplay</b> as you investigate crime scenes, interrogate <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>suspicious witnesses</b>, and piece together <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>fragmented clues</b> to unravel a web of deception.<br>Experience <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>expressive character portraits</b> and <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>gorgeously rendered environments</b> that bring each scene to life with meticulous detail and atmospheric charm.<br>Confront <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>tricky societal themes</b> woven throughout the narrative while maintaining <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>steady pacing</b> and <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>charming writing</b> that keeps you engrossed from start to finish.<br>This <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>tightly crafted indie mystery</b> lays the groundwork for a compelling series, offering <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>accessibility</b> for newcomers while honoring the <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>visual novel traditions</b> that inspired it.<br>Every <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>deduction</b> and <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>revelation</b> brings you closer to solving a case where nothing is quite what it seems.",
+    "DescriptionArabic": "<div dir='rtl'>ادخل إلى <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>لغز تحري كلاسيكي</b> مصنوع بأسلوب <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ألعاب المغامرة</b> اليابانية المحبوبة مثل Famicom Detective Club وHotel Dusk وAce Attorney.<br>تنقل عبر <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>طريقة اللعب باختيار الأوامر</b> بينما تحقق في مسارح الجريمة، تستجوب <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>شهوداً مشبوهين</b>، وتجمع <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>أدلة مجزأة</b> لكشف شبكة من الخداع.<br>اختبر <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>صور الشخصيات التعبيرية</b> و<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>بيئات مقدمة بشكل رائع</b> تحيي كل مشهد بتفاصيل دقيقة وسحر جوي.<br>واجه <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>موضوعات مجتمعية صعبة</b> منسوجة عبر السرد مع الحفاظ على <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>وتيرة ثابتة</b> و<b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>كتابة ساحرة</b> تبقيك منغمساً من البداية إلى النهاية.<br>هذا <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>اللغز المستقل المصنوع بإحكام</b> يضع الأساس لسلسلة مقنعة، مقدماً <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>إمكانية الوصول</b> للقادمين الجدد بينما يكرم <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>تقاليد الرواية المرئية</b> التي ألهمته.<br>كل <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>استنتاج</b> و<b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>كشف</b> يقربك من حل قضية حيث لا شيء كما يبدو.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Detective%20Instinct%20Farewell%2C%20My%20Beloved%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Detective%20Instinct%20Farewell%2C%20My%20Beloved%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Detective%20Instinct%20Farewell%2C%20My%20Beloved%20Trailer.mp4",
@@ -135702,8 +135702,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Armonica"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -135724,11 +135728,11 @@
   {
     "_id": "game_1765083765319_0",
     "Name": "Constance",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Constance",
+    "Description": "Navigate the <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>decaying inner-world</b> of a troubled artist as <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Constance</b>, wielding a magical <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>paintbrush</b> to create platforms, reveal hidden paths, and confront manifestations of declining <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>mental health</b>. Explore <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>interconnected hand-drawn environments</b> that shift between vibrant memories and <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>dark emotional voids</b>, using <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>paint-based mechanics</b> to solve environmental puzzles and unlock new abilities. Witness how <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>trauma</b> and <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>self-doubt</b> manifest as twisted creatures and treacherous terrain in this <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>deeply personal Metroidvania</b>. Each <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>brushstroke</b> brings you closer to understanding the fragmented psyche, while <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>fluid movement</b> and <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>expressive animation</b> convey the weight of every emotional revelation in this <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>hauntingly beautiful exploration</b> of the human condition.",
+    "DescriptionArabic": "<div dir='rtl'>استكشف <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>العالم الداخلي المتداعي</b> لفنانة مضطربة بينما تلعب دور <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>كونستانس</b>، حاملة <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>فرشاة سحرية</b> لإنشاء المنصات، وكشف المسارات المخفية، ومواجهة تجليات <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>الصحة النفسية المتدهورة</b>. اجتز <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>بيئات مرسومة يدوياً مترابطة</b> تتحول بين الذكريات النابضة بالحياة و<b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>الفراغات العاطفية المظلمة</b>، مستخدماً <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>آليات قائمة على الرسم</b> لحل الألغاز البيئية وفتح قدرات جديدة. شاهد كيف تتجسد <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الصدمات</b> و<b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>الشك بالنفس</b> كمخلوقات ملتوية وتضاريس غادرة في هذه <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>لعبة ميترويدفانيا الشخصية العميقة</b>. كل <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>ضربة فرشاة</b> تقربك من فهم النفسية المجزأة، بينما تنقل <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>الحركة المتدفقة</b> و<b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>الرسوم المتحركة المعبرة</b> ثقل كل كشف عاطفي في هذا <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>الاستكشاف الجميل المؤلم</b> للحالة الإنسانية.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Constance%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Constance%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Constance%20Trailer.mp4",
@@ -135738,8 +135742,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Action"
+    ],
+    "DeveloperNames": [
+      "btf"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -135752,6 +135760,86 @@
             "arguments": [],
             "buildID": "6 December 2025",
             "filename": "00199.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765085045186_0",
+    "Name": "Everybody's Golf Hot Shots",
+    "SortingName": "Everybody's Golf Hot Shots",
+    "Description": "Hit the <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>lush fairways</b> and <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>challenging greens</b> of this <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>accessible arcade golf</b> experience featuring <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>intuitive three-click mechanics</b> that balance simplicity with <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>strategic depth</b>. Tee off across <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>vibrant themed courses</b> ranging from <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>tropical paradises</b> to <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>mountain retreats</b>, each designed with <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>colorful personality</b> and distinct hazards. Master <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>power shots</b>, <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>spin control</b>, and <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>wind calculations</b> while customizing your golfer with <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>cheerful outfits</b> and upgraded equipment in this <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>family-friendly sports adventure</b> that delivers <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>satisfying competitive play</b> without overwhelming complexity.",
+    "DescriptionArabic": "<div dir='rtl'>اضرب الكرة عبر <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الممرات الخضراء الوارفة</b> و<b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>المساحات الصعبة</b> في تجربة <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>غولف أركيد سهلة الوصول</b> تتميز <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>بآليات النقرات الثلاث البديهية</b> التي توازن البساطة مع <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>العمق الاستراتيجي</b>. العب عبر <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>ملاعب موضوعية نابضة</b> تتراوح من <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الجنان الاستوائية</b> إلى <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الملاذات الجبلية</b>، كل منها مصمم <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>بشخصية ملونة</b> ومخاطر متميزة. أتقن <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الضربات القوية</b>، <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>التحكم بالدوران</b>، و<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>حسابات الرياح</b> بينما تخصص لاعبك <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>بأزياء مبهجة</b> ومعدات محسّنة في هذه <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>المغامرة الرياضية الملائمة للعائلة</b> التي تقدم <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>لعباً تنافسياً مُرضياً</b> دون تعقيد مفرط.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 60,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Everybody's%20Golf%20Hot%20Shots%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Everybody's%20Golf%20Hot%20Shots%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Everybody's%20Golf%20Hot%20Shots%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": 58.4,
+    "MusicUrl": "https://archive.org/download/RPRM001/Everybody's%20Golf%20Hot%20Shots%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Sports"
+    ],
+    "DeveloperNames": [
+      "Hyde"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP007",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "36 GB",
+            "executable": "EverybodysGolfHotShots.exe",
+            "arguments": [],
+            "buildID": "27 November 2025",
+            "filename": "00200.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765135170703_0",
+    "Name": "Scott Pilgrim vs The World",
+    "SortingName": "Scott Pilgrim vs The World",
+    "Description": "Battle through <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Toronto's underground music scene</b> as <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Scott Pilgrim</b>, a slacker bassist who must defeat his new girlfriend <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Ramona Flowers</b>' <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>seven evil exes</b> to win her heart.<br>Pummel through waves of enemies in this <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>side-scrolling beat 'em up</b> featuring <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>gorgeous pixel art</b>, <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>retro arcade vibes</b>, and a <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>chiptune soundtrack</b> that perfectly captures the comic's energy.<br>Master <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>devastating combo attacks</b>, unlock <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>powerful special moves</b>, and level up your character through <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>RPG-style progression</b> as you face increasingly difficult bosses.<br>Team up with friends in <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>four-player co-op</b> to fight through hordes of <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>hipster enemies</b> and epic showdowns in this <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>love letter to classic brawlers</b> that blends humor, romance, and relentless action.",
+    "DescriptionArabic": "<div dir='rtl'>قاتل عبر <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>مشهد الموسيقى تحت الأرض في تورونتو</b> بينما تلعب دور <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>سكوت بيلغريم</b>، عازف بيس كسول يجب عليه هزيمة <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الأحباء السبعة الأشرار</b> لصديقته الجديدة <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>رامونا فلاورز</b> للفوز بقلبها.<br>اضرب موجات من الأعداء في هذه <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>لعبة قتال جانبية التمرير</b> التي تتميز <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>برسوم بكسل رائعة</b>، <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>أجواء أركيد رجعية</b>، و<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>موسيقى تشيبتيون</b> تلتقط طاقة القصة المصورة بشكل مثالي.<br>أتقن <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>هجمات كومبو مدمرة</b>، افتح <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>حركات خاصة قوية</b>، وطوّر شخصيتك من خلال <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>تقدم بأسلوب آر بي جي</b> بينما تواجه زعماء أكثر صعوبة تدريجياً.<br>تعاون مع الأصدقاء في <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>تعاون أربعة لاعبين</b> للقتال عبر جحافل من <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>الأعداء الهيبستر</b> والمواجهات الملحمية في هذه <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>الرسالة الحبية لألعاب القتال الكلاسيكية</b> التي تمزج الفكاهة والرومانسية والحركة المتواصلة.</div>",
+    "ReleaseDate": "2021",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Scott%20Pilgrim%20vs%20The%20World%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Scott%20Pilgrim%20vs%20The%20World%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Scott%20Pilgrim%20vs%20The%20World%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": 49.6,
+    "MusicUrl": "https://archive.org/download/RPRM001/Scott%20Pilgrim%20vs%20The%20World%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Action"
+    ],
+    "DeveloperNames": [
+      "Ubisoft Montreal"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP007",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Scott.exe",
+            "arguments": [],
+            "buildID": "5 January 2023",
+            "filename": "00201.zip"
           }
         ]
       }
