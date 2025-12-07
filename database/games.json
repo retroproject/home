@@ -135609,8 +135609,8 @@
     "BackgroundUrl": "https://archive.org/download/RPRM001/Metroid%20Prime%204%20Beyond%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Metroid%20Prime%204%20Beyond%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRV001/Metroid%20Prime%204%20Beyond%20Trailer.mp4",
-    "videoStart": 1.7,
-    "videoEnd": 62.63333333333333,
+    "videoStart": null,
+    "videoEnd": null,
     "MusicUrl": "https://archive.org/download/RPRM001/Metroid%20Prime%204%20Beyond%20Theme.mp3",
     "PlatformNames": [
       "Nintendo Switch"
@@ -135680,6 +135680,42 @@
             "arguments": [],
             "buildID": "5 December 2025",
             "filename": "00193.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765081785124_0",
+    "Name": "Detective Instinct Farewell, My Beloved",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Detective%20Instinct%20Farewell%2C%20My%20Beloved%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Detective%20Instinct%20Farewell%2C%20My%20Beloved%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Detective%20Instinct%20Farewell%2C%20My%20Beloved%20Trailer.mp4",
+    "videoStart": 2.1,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Detective%20Instinct%20Farewell%2C%20My%20Beloved%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP007",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "970 MB",
+            "executable": "Detective Instinct.exe",
+            "arguments": [],
+            "buildID": "6 December 2025",
+            "filename": "00198.zip"
           }
         ]
       }
