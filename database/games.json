@@ -136080,5 +136080,287 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1765210613346_0",
+    "Name": "Inazuma Eleven 1 2 3 Endou Mamoru Densetsu",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%201%202%203%20Endou%20Mamoru%20Densetsu%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%201%202%203%20Endou%20Mamoru%20Densetsu%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%201%202%203%20Endou%20Mamoru%20Densetsu%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%201%202%203%20Endou%20Mamoru%20Densetsu%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo 3DS"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo 3DS": {
+        "versions": [
+          {
+            "identifier": "retro-3ds",
+            "name": "Japanese",
+            "platform": "Nintendo 3DS",
+            "fileSize": "2 GB",
+            "arguments": [],
+            "emulator": "Citra",
+            "romFile": "Inazuma Eleven 1 2 3 Endou Mamoru Densetsu [Japanese].3ds",
+            "filename": "Inazuma Eleven 1 2 3 Endou Mamoru Densetsu [Japanese].3ds"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765210613346_1",
+    "Name": "Inazuma Eleven Go",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo 3DS"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo 3DS": {
+        "versions": [
+          {
+            "identifier": "retro-3ds",
+            "name": "Collection",
+            "platform": "Nintendo 3DS",
+            "fileSize": "6 GB",
+            "arguments": [],
+            "romFiles": [
+              "Inazuma Eleven Go Light (Japanese VA).3ds",
+              "Inazuma Eleven Go Shadow.3ds"
+            ],
+            "romLabels": [
+              "Light",
+              "Shadow"
+            ],
+            "emulator": "Citra",
+            "filename": "Inazuma Eleven Go.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765210613346_2",
+    "Name": "Inazuma Eleven Go 2",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%202%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%202%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%202%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo 3DS"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo 3DS": {
+        "versions": [
+          {
+            "identifier": "retro-3ds",
+            "name": "Collection",
+            "platform": "Nintendo 3DS",
+            "fileSize": "6 GB",
+            "arguments": [],
+            "romFiles": [
+              "Inazuma Eleven Go 2 Chrono Stone Thunderflash (Japanese VA).3ds",
+              "Inazuma Eleven Go 2 Chrono Stone Wildfire (Japanese VA).3ds"
+            ],
+            "romLabels": [
+              "Stone Thunderflash",
+              "Chrono Stone Wildfire"
+            ],
+            "emulator": "Citra",
+            "filename": "Inazuma Eleven Go 2.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765210613346_3",
+    "Name": "Inazuma Eleven Go 3",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%203%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%203%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%203%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%203%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo 3DS"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo 3DS": {
+        "versions": [
+          {
+            "identifier": "retro-3ds",
+            "name": "Collection",
+            "platform": "Nintendo 3DS",
+            "fileSize": "6 GB",
+            "arguments": [],
+            "romFiles": [
+              "Inazuma Eleven Go 3 Galaxy Big Bang.3ds",
+              "Inazuma Eleven Go 3 Galaxy Supernova.3ds"
+            ],
+            "romLabels": [
+              "Galaxy Big Bang",
+              "Galaxy Supernova"
+            ],
+            "emulator": "Citra",
+            "filename": "Inazuma Eleven Go 3.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765210873101_0",
+    "Name": "Inazuma Eleven Go Strikers",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%20Strikers%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%20Strikers%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%20Strikers%20Trailer.mp4",
+    "videoStart": 5.379794,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%20Strikers%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo Wii"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Wii": {
+        "versions": [
+          {
+            "identifier": "W05E05",
+            "name": "Japanese",
+            "platform": "Nintendo Wii",
+            "fileSize": "3 GB",
+            "arguments": [],
+            "emulator": "Dolphin",
+            "romFile": "Inazuma Eleven Go Strikers (Japanese).rvz",
+            "filename": "Inazuma Eleven Go Strikers (Japanese).rvz"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765210873101_1",
+    "Name": "Inazuma Eleven Strikers Xtreme",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Strikers%20Xtreme%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Strikers%20Xtreme%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Strikers%20Xtreme%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Strikers%20Xtreme%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo Wii"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Wii": {
+        "versions": [
+          {
+            "identifier": "W05E05",
+            "name": "Japanese",
+            "platform": "Nintendo Wii",
+            "fileSize": "2 GB",
+            "arguments": [],
+            "emulator": "Dolphin",
+            "romFile": "Inazuma Eleven Strikers Xtreme (Japanese).rvz",
+            "filename": "Inazuma Eleven Strikers Xtreme (Japanese).rvz"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765210873101_2",
+    "Name": "Inazuma Eleven Strikers",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Strikers%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Strikers%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Strikers%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Strikers%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo Wii"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Wii": {
+        "versions": [
+          {
+            "identifier": "W05E05",
+            "name": "Vanilla",
+            "platform": "Nintendo Wii",
+            "fileSize": "3 GB",
+            "arguments": [],
+            "emulator": "Dolphin",
+            "romFile": "Inazuma Eleven Strikers.rvz",
+            "filename": "Inazuma Eleven Strikers.rvz"
+          },
+          {
+            "identifier": "W05E05",
+            "name": "HD Textures",
+            "platform": "Nintendo Wii",
+            "fileSize": "4GB",
+            "arguments": [],
+            "emulator": "Dolphin",
+            "filename": "Inazuma Eleven Strikers HD Textures.zip"
+          }
+        ]
+      }
+    }
   }
 ]
