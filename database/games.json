@@ -135933,5 +135933,45 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1765166270715_0",
+    "Name": "Popucom",
+    "SortingName": "Popucom",
+    "Description": "Answer the call as an adventurer summoned to an <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>unknown exoplanet</b>, tasked with restoring this vibrant world to its former glory through <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>cooperative teamwork</b> and creative problem-solving.<br>Blast <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>colored gel</b> across <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>candy-colored environments</b> to activate mechanisms, change the terrain, and defeat enemies using <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>match-3 shooting mechanics</b> that blend puzzle-solving with fast-paced action.<br>Switch between <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>vibrant color palettes</b> to unlock pathways and overcome obstacles, while wielding special <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>artifacts</b> like <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Rollo the Bomb</b>, <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Captain Kitty</b>, and <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Barrier Bot</b> to gain unique abilities tailored to each challenge.<br>Navigate through <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>cooperative platforming gauntlets</b> in story mode with a friend or dive into chaotic <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>Party Mode</b> mayhem with up to four players, customizing your character's appearance and sharing laughs in this <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>colorful exoplanet adventure</b> that emphasizes <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>collaborative fun</b>.",
+    "DescriptionArabic": "<div dir='rtl'>أجب النداء كمغامر مستدعى إلى <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>كوكب خارجي مجهول</b>، مكلف باستعادة هذا العالم النابض إلى مجده السابق من خلال <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>العمل الجماعي التعاوني</b> وحل المشكلات الإبداعي.<br>أطلق <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الجل الملون</b> عبر <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>بيئات بألوان الحلوى</b> لتفعيل الآليات، تغيير التضاريس، وهزيمة الأعداء باستخدام <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>آليات إطلاق المطابقة الثلاثية</b> التي تمزج حل الألغاز مع الحركة السريعة.<br>تبديل بين <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>لوحات الألوان النابضة</b> لفتح المسارات والتغلب على العقبات، بينما تستخدم <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>القطع الأثرية</b> الخاصة مثل <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>رولو القنبلة</b>، <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>الكابتن كيتي</b>، و<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>بوت الحاجز</b> للحصول على قدرات فريدة مصممة لكل تحدٍ.<br>تنقل عبر <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>تحديات المنصات التعاونية</b> في وضع القصة مع صديق أو انغمس في فوضى <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>وضع الحفلة</b> مع ما يصل إلى أربعة لاعبين، مخصصاً مظهر شخصيتك وتشارك الضحكات في هذه <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>المغامرة الملونة على الكوكب الخارجي</b> التي تركز على <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>المرح التعاوني</b>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Popucom%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Popucom%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Popucom%20Trailer.mp4",
+    "videoStart": 9.333333333333334,
+    "videoEnd": 91,
+    "MusicUrl": "https://archive.org/download/RPRM001/Popucom%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Platformer"
+    ],
+    "DeveloperNames": [
+      "Hypergryph"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP007",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "10 GB",
+            "executable": "EOSAuthLauncher.exe",
+            "arguments": [],
+            "buildID": "1.0.3",
+            "filename": "00203.zip"
+          }
+        ]
+      }
+    }
   }
 ]
