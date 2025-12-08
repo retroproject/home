@@ -135544,7 +135544,17 @@
         "versions": [
           {
             "identifier": "RPRP007",
-            "name": "Vanilla",
+            "name": "Arabic",
+            "platform": "PC Game",
+            "fileSize": "10 GB",
+            "executable": "Routine.exe",
+            "arguments": [],
+            "buildID": "4 December 2025",
+            "filename": "00204.zip"
+          },
+          {
+            "identifier": "RPRP007",
+            "name": "English",
             "platform": "PC Game",
             "fileSize": "10 GB",
             "executable": "Routine.exe",
