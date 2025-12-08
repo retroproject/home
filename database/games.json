@@ -136083,7 +136083,8 @@
           }
         ]
       }
-    }
+    },
+    "Tags": []
   },
   {
     "_id": "game_1765210613346_0",
@@ -136124,9 +136125,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1765210613346_1",
@@ -136174,9 +136173,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1765210613346_2",
@@ -136224,9 +136221,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1765210613346_3",
@@ -136274,9 +136269,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1765210873101_0",
@@ -136317,9 +136310,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1765210873101_1",
@@ -136360,9 +136351,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1765210873101_2",
@@ -136412,8 +136401,47 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
+  },
+  {
+    "_id": "game_1765215936831_0",
+    "Name": "Inazuma Eleven Victory Road",
+    "SortingName": "Inazuma Eleven 08",
+    "Description": "Step into a world <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>25 years after the legendary Football Frontier</b> as <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Destin Billows</b>, a determined student who enrolls at <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>South Cirrus Junior High</b> while searching for a mysterious <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>world without football</b>.<br>Master explosive <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Hissatsu techniques</b> that bend reality during matches—unleashing <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>flaming tornado shots</b>, <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>divine goalkeeper summons</b>, and <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>gravity-defying dribbles</b> as you build your dream soccer team.<br>Explore <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Chronicle Mode</b> where you command over <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>5,400 legendary players</b> from across the entire series history, reliving iconic matches and uncovering secrets from <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>past tournaments</b>.<br>Recruit talented players, train their unique abilities, and lead your squad through <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>intense championship battles</b> in this <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>soccer RPG adventure</b>.",
+    "DescriptionArabic": "<div dir='rtl'>ادخل إلى عالم <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>بعد 25 عامًا من بطولة كرة القدم الأسطورية</b> بصفتك <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ديستن بيلوز</b>، طالب مصمم يلتحق بـ <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>مدرسة ساوث سيروس الإعدادية</b> بينما يبحث عن <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>عالم بدون كرة القدم</b> الغامض.<br>أتقن <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>تقنيات هيساتسو</b> المتفجرة التي تثني الواقع أثناء المباريات—أطلق العنان لـ <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>تسديدات الإعصار الملتهبة</b>، <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>استدعاءات حارس المرمى الإلهية</b>، و <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>المراوغات التي تتحدى الجاذبية</b> بينما تبني فريق كرة القدم المثالي.<br>استكشف <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>وضع السجلات</b> حيث تقود أكثر من <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>5,400 لاعب أسطوري</b> من تاريخ السلسلة بأكملها، أعد عيش المباريات الأيقونية واكتشف أسرار <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>البطولات الماضية</b>.<br>جند اللاعبين الموهوبين، درب قدراتهم الفريدة، وقد فريقك عبر <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>معارك البطولة المكثفة</b> في هذه <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>مغامرة لعبة تقمص أدوار كرة القدم</b>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Victory%20Road%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Victory%20Road%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Victory%20Road%20Trailer.mp4",
+    "videoStart": 15.1,
+    "videoEnd": 395.88518,
+    "MusicUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Victory%20Road%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "RPG"
+    ],
+    "DeveloperNames": [
+      "Level-5"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP007",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "70GB",
+            "executable": "nie.exe",
+            "arguments": [],
+            "buildID": "6 December 2025",
+            "filename": "00209.zip"
+          }
+        ]
+      }
+    },
+    "Tags": []
   }
 ]
