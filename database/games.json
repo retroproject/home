@@ -136049,10 +136049,10 @@
     "_id": "game_1765180461407_0",
     "Name": "Snoopy And The Great Mystery Club",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Don <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Snoopy's detective hat</b> and explore a charming town filled with <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>quirky mysteries</b> that need solving alongside the beloved <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Peanuts gang</b>.<br>Build your team of four sleuths from friends like <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Peppermint Patty</b>, <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Lucy</b>, <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Marcie</b>, and <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Franklin</b>, each bringing unique skills to crack the case.<br>Switch between Snoopy's iconic personas—<b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Detective</b>, <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Beagle Scout</b>, <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Fierce Pirate</b>, and more—to solve puzzles using clever gadgets like a <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>leaf blower</b>, <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>magnifying glass</b>, and <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>metal detector</b>.<br>Take breaks from sleuthing with delightful mini-games including baseball, football, crafting, piano playing, and <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>soapbox derby races</b>.<br>Climb aboard the legendary <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>Sopwith Camel</b> and take to the skies in thrilling dogfights against the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Red Baron</b> in this laid-back, family-friendly adventure.",
+    "DescriptionArabic": "<div dir='rtl'>ارتدِ <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>قبعة سنوبي التحري</b> واستكشف بلدة ساحرة مليئة بـ <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الألغاز الغريبة</b> التي تحتاج للحل إلى جانب <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>عصابة بينتس</b> المحبوبة.<br>اِبنِ فريقك من أربعة محققين من أصدقاء مثل <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>بيبرمنت باتي</b>، <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>لوسي</b>، <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>مارسي</b>، و <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>فرانكلين</b>، حيث يجلب كل منهم مهارات فريدة لحل القضية.<br>تبديل بين شخصيات سنوبي الأيقونية—<b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>المحقق</b>، <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>كشاف الكلاب</b>، <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>القرصان الشرس</b>، والمزيد—لحل الألغاز باستخدام أدوات ذكية مثل <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>منفاخ الأوراق</b>، <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>العدسة المكبرة</b>، و <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>كاشف المعادن</b>.<br>خذ استراحة من التحقيق مع ألعاب صغيرة ممتعة تشمل البيسبول، كرة القدم، الحرف اليدوية، العزف على البيانو، و <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>سباقات صندوق الصابون</b>.<br>اصعد على متن <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>سوبويث كاميل</b> الأسطوري واصعد إلى السماء في معارك جوية مثيرة ضد <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>البارون الأحمر</b> في هذه المغامرة العائلية المريحة.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 60,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Snoopy%20And%20The%20Great%20Mystery%20Club%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Snoopy%20And%20The%20Great%20Mystery%20Club%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Snoopy%20And%20The%20Great%20Mystery%20Club%20Trailer.mp4",
@@ -136062,8 +136062,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Cradle Games"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -136084,11 +136088,11 @@
   {
     "_id": "game_1765210613346_0",
     "Name": "Inazuma Eleven 1 2 3 Endou Mamoru Densetsu",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Inazuma Eleven 01",
+    "Description": "Lead the struggling <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Raimon Junior High soccer team</b> as passionate goalkeeper and captain <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Endou Mamoru</b>, grandson of a legendary keeper, who refuses to let his team disband after a crushing 40-game losing streak.<br>Recruit talented players like transfer student <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Gouenji Shuuya</b> while mastering <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Hissatsu techniques</b>—supernatural soccer abilities that unleash <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>devastating shots</b>, <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>incredible saves</b>, and <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>impossible dribbles</b> during intense matches.<br>Explore <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>RPG-style environments</b> to scout over 2,200 characters, collect new items, and uncover a <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>conspiracy threatening Japanese soccer</b> while competing in the prestigious <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Football Frontier tournament</b>.<br>This remastered compilation contains all six original DS games with 280 teams to defeat, 350 unique <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>special moves</b>, and <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>enhanced visuals</b>, blending strategic <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>team management</b> with over-the-top <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>anime-style soccer action</b>.",
+    "DescriptionArabic": "<div dir='rtl'>قد <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>فريق كرة القدم المتعثر في مدرسة رايمون الإعدادية</b> بينما تلعب دور حارس المرمى المتحمس والكابتن <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>إندو مامورو</b>، حفيد حارس أسطوري، الذي يرفض السماح لفريقه بالتفكك بعد سلسلة خسارة ساحقة من 40 مباراة.<br>جنّد لاعبين موهوبين مثل الطالب المنتقل <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>غوينجي شويا</b> بينما تتقن <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>تقنيات هيساتسو</b>—قدرات كرة القدم الخارقة التي تطلق <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>تسديدات مدمرة</b>، <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>إنقاذات لا تصدق</b>، و<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>مراوغات مستحيلة</b> خلال المباريات الشديدة.<br>استكشف <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>بيئات بأسلوب آر بي جي</b> لتجنيد أكثر من 2200 شخصية، جمع عناصر جديدة، وكشف <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>مؤامرة تهدد كرة القدم اليابانية</b> بينما تتنافس في <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>بطولة فوتبول فرونتير</b> المرموقة.<br>تحتوي هذه المجموعة المعاد إصدارها على جميع ألعاب DS الستة الأصلية مع 280 فريقاً لهزيمتهم، 350 <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>حركة خاصة</b> فريدة، و<b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>مرئيات محسّنة</b>، ممزوجة <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>إدارة الفريق</b> الاستراتيجية مع <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>حركة كرة القدم المبالغة بأسلوب الأنمي</b>.</div>",
+    "ReleaseDate": "2012",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%201%202%203%20Endou%20Mamoru%20Densetsu%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%201%202%203%20Endou%20Mamoru%20Densetsu%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%201%202%203%20Endou%20Mamoru%20Densetsu%20Trailer.mp4",
@@ -136098,8 +136102,12 @@
     "PlatformNames": [
       "Nintendo 3DS"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Sports"
+    ],
+    "DeveloperNames": [
+      "Level-5"
+    ],
     "downloadInfo": {
       "Nintendo 3DS": {
         "versions": [
@@ -136115,16 +136123,19 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Hide"
+    ]
   },
   {
     "_id": "game_1765210613346_1",
     "Name": "Inazuma Eleven Go",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Inazuma Eleven 02",
+    "Description": "Step into a <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>dystopian soccer world</b> ten years after Endou Mamoru's triumph, where the authoritarian <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Fifth Sector</b> controls every match outcome and strips the sport of its competitive soul.<br>Join enthusiastic first-year <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Matsukaze Tenma</b> as he revives the dilapidated <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Raimon Junior High soccer club</b>, recruiting brave teammates willing to defy predetermined results and fight for <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>real soccer</b>.<br>Lead a <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>revolutionary uprising</b> against Fifth Sector's iron grip by winning the <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Holy Road tournament</b> through genuine skill rather than scripted victories, mastering new <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Keshin techniques</b>—warrior avatars that unleash <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>explosive special moves</b>.<br>Scout hundreds of players, customize your team's <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>tactical formation</b>, and experience <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>branching storylines</b> across Light and Shadow versions in this <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>rebellious sports RPG</b> where <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>passion</b> and <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>determination</b> challenge a corrupt system.",
+    "DescriptionArabic": "<div dir='rtl'>ادخل إلى <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>عالم كرة قدم ديستوبي</b> بعد عشر سنوات من انتصار إندو مامورو، حيث يتحكم <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>القطاع الخامس</b> الاستبدادي في كل نتيجة مباراة ويجرد الرياضة من روحها التنافسية.<br>انضم إلى طالب السنة الأولى المتحمس <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ماتسوكازي تينما</b> بينما يحيي <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>نادي كرة القدم المتداعي في مدرسة رايمون الإعدادية</b>، مجنداً زملاء فريق شجعان مستعدين لتحدي النتائج المحددة مسبقاً والقتال من أجل <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>كرة القدم الحقيقية</b>.<br>قد <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>انتفاضة ثورية</b> ضد قبضة القطاع الخامس الحديدية بالفوز في <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>بطولة هولي رود</b> من خلال المهارة الحقيقية بدلاً من الانتصارات المكتوبة، متقناً <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>تقنيات كيشين</b> الجديدة—أفاتارات محاربة تطلق <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>حركات خاصة متفجرة</b>.<br>جنّد مئات اللاعبين، خصص <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>التشكيل التكتيكي</b> لفريقك، واختبر <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>قصصاً متفرعة</b> عبر نسختي لايت وشادو في هذه <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>لعبة آر بي جي الرياضية المتمردة</b> حيث <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>الشغف</b> و<b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>التصميم</b> يتحديان نظاماً فاسداً.</div>",
+    "ReleaseDate": "2011",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%20Trailer.mp4",
@@ -136134,8 +136145,12 @@
     "PlatformNames": [
       "Nintendo 3DS"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Sports"
+    ],
+    "DeveloperNames": [
+      "Level-5"
+    ],
     "downloadInfo": {
       "Nintendo 3DS": {
         "versions": [
@@ -136158,16 +136173,19 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Hide"
+    ]
   },
   {
     "_id": "game_1765210613346_2",
     "Name": "Inazuma Eleven Go 2",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Inazuma Eleven 03",
+    "Description": "Return to Raimon Junior High three months after defeating Fifth Sector, only to discover a <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>horrifying alternate reality</b> where soccer has been completely erased from history and replaced by baseball fields.<br>Join <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Matsukaze Tenma</b> and time-traveling allies <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Fei Rune</b> and <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Clark von Wunderbar</b> from 200 years in the future as they fight the sinister <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>El Dorado organization</b>, who sent assassin <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Alpha</b> to eliminate the sport before it becomes a fearsome weapon.<br>Travel through <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>different historical eras</b>—from prehistory to ancient Japan to the distant future—recruiting <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>legendary footballers</b> and powerful <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>historical warriors</b> to your cause.<br>Master <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Mixi Max abilities</b> that fuse players with historical figures, combine <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>Keshin avatars</b> into devastating <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Armed forms</b>, and protect soccer's existence across Thunderflash and Wildfire versions in this <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>time-bending sports RPG</b> where <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>past</b> and <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>future</b> collide.",
+    "DescriptionArabic": "<div dir='rtl'>عد إلى مدرسة رايمون الإعدادية بعد ثلاثة أشهر من هزيمة القطاع الخامس، لتكتشف فقط <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>واقعاً بديلاً مرعباً</b> حيث تم محو كرة القدم تماماً من التاريخ واستبدالها بملاعب البيسبول.<br>انضم إلى <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ماتسوكازي تينما</b> وحلفاء مسافرين عبر الزمن <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>في رون</b> و<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>كلارك فون فوندربار</b> من 200 سنة في المستقبل بينما يحاربون <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>منظمة إل دورادو</b> الشريرة، التي أرسلت القاتل <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>ألفا</b> للقضاء على الرياضة قبل أن تصبح سلاحاً هائلاً.<br>سافر عبر <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>عصور تاريخية مختلفة</b>—من عصور ما قبل التاريخ إلى اليابان القديمة إلى المستقبل البعيد—مجنداً <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>لاعبي كرة قدم أسطوريين</b> و<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>محاربين تاريخيين</b> أقوياء لقضيتك.<br>أتقن <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>قدرات ميكسي ماكس</b> التي تدمج اللاعبين مع شخصيات تاريخية، ادمج <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>أفاتارات كيشين</b> في <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>أشكال مسلحة</b> مدمرة، واحمِ وجود كرة القدم عبر نسختي ثندرفلاش ووايلدفاير في هذه <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>لعبة آر بي جي الرياضية الملتوية زمنياً</b> حيث يتصادم <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>الماضي</b> و<b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>المستقبل</b>.</div>",
+    "ReleaseDate": "2012",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%202%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%202%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%202%20Trailer.mp4",
@@ -136177,8 +136195,12 @@
     "PlatformNames": [
       "Nintendo 3DS"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Sports"
+    ],
+    "DeveloperNames": [
+      "Level-5"
+    ],
     "downloadInfo": {
       "Nintendo 3DS": {
         "versions": [
@@ -136201,16 +136223,19 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Hide"
+    ]
   },
   {
     "_id": "game_1765210613346_3",
     "Name": "Inazuma Eleven Go 3",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Inazuma Eleven 04",
+    "Description": "Assemble an unlikely team of inexperienced athletes—boxers, gymnasts, basketball players, and complete novices—selected for <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Inazuma Japan</b> at the <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Football Frontier International Vision 2</b> world championship, only to face an unexpected cosmic challenge.<br>When alien messenger <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Ozrock Boldar</b> arrives in a <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>spaceship</b>, captain <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Matsukaze Tenma</b> must lead <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Earth Eleven</b>—representing humanity's survival—in an <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>intergalactic soccer tournament</b> where defeat means Earth's invasion.<br>Travel throughout the <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>galaxy</b> battling <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>alien teams</b> with bizarre abilities, mastering the new <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>Soul system</b> that channels each player's inner spirit into <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>devastating techniques</b>.<br>Transform athletes from different sports backgrounds into <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>soccer warriors</b>, experience <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>cosmic stadiums</b> across distant planets, and unite <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Earth's hope</b> in Big Bang and Supernova versions of this <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>space-faring sports RPG</b> where humanity's fate rests on every match.",
+    "DescriptionArabic": "<div dir='rtl'>اجمع فريقاً غير متوقع من الرياضيين عديمي الخبرة—الملاكمين، لاعبي الجمباز، لاعبي كرة السلة، والمبتدئين الكاملين—المختارين لـ<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>إنازوما اليابان</b> في بطولة <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>فوتبول فرونتير الرؤية الدولية 2</b> العالمية، لتواجه فقط تحدياً كونياً غير متوقع.<br>عندما يصل الرسول الفضائي <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>أوزروك بولدار</b> في <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>سفينة فضاء</b>، يجب على الكابتن <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>ماتسوكازي تينما</b> قيادة <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>إيرث إليفين</b>—يمثل بقاء البشرية—في <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>بطولة كرة قدم بين المجرات</b> حيث الهزيمة تعني غزو الأرض.<br>سافر عبر <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>المجرة</b> محارباً <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>فرق فضائية</b> بقدرات غريبة، متقناً <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>نظام السول</b> الجديد الذي يوجه روح كل لاعب الداخلية إلى <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>تقنيات مدمرة</b>.<br>حوّل الرياضيين من خلفيات رياضية مختلفة إلى <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>محاربي كرة قدم</b>، اختبر <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>ملاعب كونية</b> عبر كواكب بعيدة، ووحّد <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>أمل الأرض</b> في نسختي بيغ بانغ وسوبرنوفا من هذه <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>لعبة آر بي جي الرياضية المسافرة في الفضاء</b> حيث يعتمد مصير البشرية على كل مباراة.</div>",
+    "ReleaseDate": "2013",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%203%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%203%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%203%20Trailer.mp4",
@@ -136220,8 +136245,12 @@
     "PlatformNames": [
       "Nintendo 3DS"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Sports"
+    ],
+    "DeveloperNames": [
+      "Level-5"
+    ],
     "downloadInfo": {
       "Nintendo 3DS": {
         "versions": [
@@ -136244,27 +136273,34 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Hide"
+    ]
   },
   {
     "_id": "game_1765210873101_0",
     "Name": "Inazuma Eleven Go Strikers",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Inazuma Eleven 05",
+    "Description": "Experience <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>fast-paced arcade soccer action</b> featuring characters from the Inazuma Eleven Go era in this <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Wii multiplayer showdown</b>.<br>Unleash spectacular <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Hissatsu techniques</b> and <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Keshin avatars</b> in <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>4-player local matches</b>, choosing from a massive roster including <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Matsukaze Tenma</b> and beloved characters across the series.<br>Master <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>over-the-top special moves</b>, combine <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>team tactics</b>, and compete in <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>tournament modes</b> where <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>strategic positioning</b> meets <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>anime-style chaos</b> in this <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>party-friendly sports game</b> that strips away RPG elements for pure <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>competitive soccer mayhem</b>.",
+    "DescriptionArabic": "<div dir='rtl'>اختبر <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>حركة كرة قدم أركيد سريعة الوتيرة</b> تضم شخصيات من عصر إنازوما إليفين غو في <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>مواجهة وي متعددة اللاعبين</b>.<br>أطلق <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>تقنيات هيساتسو</b> المذهلة و<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>أفاتارات كيشين</b> في <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>مباريات محلية لـ4 لاعبين</b>، مختاراً من قائمة ضخمة تشمل <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>ماتسوكازي تينما</b> والشخصيات المحبوبة عبر السلسلة.<br>أتقن <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الحركات الخاصة المبالغة</b>، ادمج <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>تكتيكات الفريق</b>، وتنافس في <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>أوضاع البطولة</b> حيث <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>التموضع الاستراتيجي</b> يلتقي <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>الفوضى بأسلوب الأنمي</b> في هذه <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>اللعبة الرياضية الملائمة للحفلات</b> التي تزيل عناصر آر بي جي لـ<b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>فوضى كرة القدم التنافسية</b> النقية.</div>",
+    "ReleaseDate": "2011",
+    "CriticScore": 60,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%20Strikers%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%20Strikers%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%20Strikers%20Trailer.mp4",
-    "videoStart": 5.379794,
+    "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Go%20Strikers%20Theme.mp3",
     "PlatformNames": [
       "Nintendo Wii"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Sports"
+    ],
+    "DeveloperNames": [
+      "Level-5"
+    ],
     "downloadInfo": {
       "Nintendo Wii": {
         "versions": [
@@ -136280,16 +136316,19 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Hide"
+    ]
   },
   {
     "_id": "game_1765210873101_1",
     "Name": "Inazuma Eleven Strikers Xtreme",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Inazuma Eleven 06",
+    "Description": "Battle with <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Endou Mamoru</b>, <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Gouenji Shuuya</b>, and legendary heroes from the original Inazuma Eleven trilogy in this <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>expanded Wii multiplayer experience</b>.<br>Command an even larger roster of <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>iconic players</b> and unleash <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>extreme versions</b> of classic <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Hissatsu techniques</b>, including <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>God Hand</b>, <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Fire Tornado</b>, and <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Emperor Penguin 2</b> in <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>chaotic 4-player battles</b>.<br>Compete across <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>enhanced tournament modes</b> with <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>refined controls</b> and <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>improved special move animations</b>, creating <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>explosive party gameplay</b> that celebrates the original saga's <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>beloved cast</b> in this <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>definitive arcade soccer showdown</b>.",
+    "DescriptionArabic": "<div dir='rtl'>قاتل مع <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>إندو مامورو</b>، <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>غوينجي شويا</b>، والأبطال الأسطوريين من ثلاثية إنازوما إليفين الأصلية في <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>تجربة وي متعددة اللاعبين الموسعة</b>.<br>قد قائمة أكبر من <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>اللاعبين الأيقونيين</b> وأطلق <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>نسخاً متطرفة</b> من <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>تقنيات هيساتسو</b> الكلاسيكية، بما في ذلك <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>غود هاند</b>، <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>فاير تورنادو</b>، و<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>إمبرور بينغوين 2</b> في <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>معارك فوضوية لـ4 لاعبين</b>.<br>تنافس عبر <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>أوضاع بطولة محسّنة</b> مع <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>تحكمات محسّنة</b> و<b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>رسوم متحركة محسّنة للحركات الخاصة</b>، خالقاً <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>طريقة لعب حفلة متفجرة</b> تحتفل <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>بالطاقم المحبوب</b> للملحمة الأصلية في هذه <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>مواجهة كرة القدم الأركيد النهائية</b>.</div>",
+    "ReleaseDate": "2011",
+    "CriticScore": 60,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Strikers%20Xtreme%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Strikers%20Xtreme%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Strikers%20Xtreme%20Trailer.mp4",
@@ -136299,8 +136338,12 @@
     "PlatformNames": [
       "Nintendo Wii"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Sports"
+    ],
+    "DeveloperNames": [
+      "Level-5"
+    ],
     "downloadInfo": {
       "Nintendo Wii": {
         "versions": [
@@ -136316,16 +136359,19 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Hide"
+    ]
   },
   {
     "_id": "game_1765210873101_2",
     "Name": "Inazuma Eleven Strikers",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Inazuma Eleven 07",
+    "Description": "Gather <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Endou Mamoru</b>'s legendary squad in the original <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Wii arcade soccer celebration</b> featuring heroes from the classic DS trilogy.<br>Select from dozens of <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>memorable characters</b> and execute their signature <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Hissatsu techniques</b> in <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>local multiplayer matches</b>, from <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>God Hand</b> to <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Fire Tornado</b>.<br>Experience <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>accessible controls</b> designed for <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>couch co-op fun</b>, compete in <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>exhibition matches</b> and <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>tournaments</b>, and unleash <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>devastating combination attacks</b> in this <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>party-ready sports brawler</b> that distills the series' <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>over-the-top soccer action</b>.",
+    "DescriptionArabic": "<div dir='rtl'>اجمع فريق <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>إندو مامورو</b> الأسطوري في <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>احتفال كرة القدم الأركيد الأصلي على وي</b> يضم أبطال ثلاثية DS الكلاسيكية.<br>اختر من عشرات <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الشخصيات التي لا تُنسى</b> ونفّذ <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>تقنيات هيساتسو</b> المميزة لهم في <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>مباريات متعددة اللاعبين محلية</b>، من <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>غود هاند</b> إلى <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>فاير تورنادو</b>.<br>اختبر <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>تحكمات سهلة الوصول</b> مصممة لـ<b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>متعة التعاون على الأريكة</b>، تنافس في <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>مباريات استعراضية</b> و<b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>بطولات</b>، وأطلق <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>هجمات مشتركة مدمرة</b> في هذا <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>المقاتل الرياضي الجاهز للحفلات</b> الذي يقطر <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>حركة كرة القدم المبالغة</b> للسلسلة.</div>",
+    "ReleaseDate": "2011",
+    "CriticScore": 60,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Strikers%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Strikers%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Inazuma%20Eleven%20Strikers%20Trailer.mp4",
@@ -136335,8 +136381,12 @@
     "PlatformNames": [
       "Nintendo Wii"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Sports"
+    ],
+    "DeveloperNames": [
+      "Level-5"
+    ],
     "downloadInfo": {
       "Nintendo Wii": {
         "versions": [
@@ -136361,6 +136411,9 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
