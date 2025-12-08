@@ -136044,5 +136044,41 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1765180461407_0",
+    "Name": "Snoopy And The Great Mystery Club",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Snoopy%20And%20The%20Great%20Mystery%20Club%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Snoopy%20And%20The%20Great%20Mystery%20Club%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Snoopy%20And%20The%20Great%20Mystery%20Club%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Snoopy%20And%20The%20Great%20Mystery%20Club%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP007",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "9 GB",
+            "executable": "Peanuts.exe",
+            "arguments": [],
+            "buildID": "29 October 2025",
+            "filename": "00208.zip"
+          }
+        ]
+      }
+    }
   }
 ]
