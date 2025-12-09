@@ -136486,5 +136486,220 @@
     "Tags": [
       "Hide"
     ]
+  },
+  {
+    "_id": "game_1765265458339_0",
+    "Name": "Dead Wells The Devil Fragment",
+    "SortingName": "",
+    "Description": "Explore the cursed countryside of <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Grimthorn</b> where an <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>unholy comet</b> has shattered into fragments, spreading <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>corruption</b> that wakes the dead and transforms the living into <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>devils</b>.<br>Master <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Souls-like combat</b> as you hack, slash, <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>parry</b> and dodge through relentless enemies—launch foes into the air and <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>juggle them</b> with devastating combos to build your <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>combo meter</b> for powerful buffs.<br>Execute brutal <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>backstabs</b> and perfect parries to unleash <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>charged attacks</b>, gather <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>devil shards</b> from slain foes to level up, and discover <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>sub-weapons</b> and gear to augment your abilities.<br>Face <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>overwhelming bosses</b> with unique movesets across the <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>Dead Wells</b>—corrupted impact sites where darkness festers—in this challenging <b style='color: #708090; text-shadow: 0 0 8px #708090;'>action RPG</b> that tests your combat mastery.",
+    "DescriptionArabic": "<div dir='rtl'>استكشف ريف <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>غريمثورن</b> الملعون حيث تحطم <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>مذنب غير مقدس</b> إلى شظايا، ناشراً <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>الفساد</b> الذي يوقظ الموتى ويحوّل الأحياء إلى <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>شياطين</b>.<br>أتقن <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>قتال شبيه بسولز</b> بينما تقطع، تذبح، <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>تصد</b> وتتفادى عبر الأعداء المتواصلين—أطلق الأعداء في الهواء و<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>ارميهم</b> بكومبوهات مدمرة لبناء <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>عداد الكومبو</b> الخاص بك للحصول على تعزيزات قوية.<br>نفّذ <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>طعنات خلفية</b> وحشية وصدات مثالية لإطلاق <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>هجمات مشحونة</b>، اجمع <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>شظايا الشياطين</b> من الأعداء المقتولين لترتقي بمستواك، واكتشف <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>أسلحة فرعية</b> ومعدات لتعزيز قدراتك.<br>واجه <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>زعماء ساحقين</b> بحركات فريدة عبر <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>الآبار الميتة</b>—مواقع التأثير الفاسدة حيث يتفشى الظلام—في هذه <b style='color: #708090; text-shadow: 0 0 8px #708090;'>لعبة حركة وتقمص أدوار</b> الصعبة التي تختبر إتقانك القتالي.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 60,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Dead%20Wells%20The%20Devil%20Fragment%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Dead%20Wells%20The%20Devil%20Fragment%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Dead%20Wells%20The%20Devil%20Fragment%20Trailer.mp4",
+    "videoStart": 0.3,
+    "videoEnd": 99.879959,
+    "MusicUrl": "https://archive.org/download/RPRM001/Dead%20Wells%20The%20Devil%20Fragment%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Dungeon Crawler"
+    ],
+    "DeveloperNames": [
+      "Echo7Project"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "8 GB",
+            "executable": "Dead Well.exe",
+            "arguments": [],
+            "buildID": "27 November 2025",
+            "filename": "00215.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765265458339_1",
+    "Name": "Gabriel Knight Sins of the Fathers",
+    "SortingName": "",
+    "Description": "Play as <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Gabriel Knight</b>, a struggling horror novelist and bookstore owner in <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>New Orleans</b>, haunted by <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>strange nightmares</b> that compel you to investigate a series of brutal <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Voodoo Murders</b> plaguing the city.<br>Discover victims without hearts, killed by the mysterious <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Voodoo Cartel</b>, surrounded by <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>chicken feathers</b>, <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>goat blood</b>, and ancient <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>veves</b>, while police detective <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Frank Mosely</b> dismisses the supernatural connections.<br>Unravel a dark conspiracy linking present-day killings to your ancestor <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>Gunter Ritter</b>, who executed the voodoo practitioner <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>Tetelo</b> in 1810 after she betrayed his love and committed identical murders using a stolen <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>family talisman</b>.<br>Embrace your destiny as a <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>Schattenjäger</b>—Shadow Hunter—defending the innocent from <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>supernatural evil</b> in this <b style='color: #708090; text-shadow: 0 0 8px #708090;'>atmospheric point-and-click mystery</b> where family secrets and ancient magic collide.",
+    "DescriptionArabic": "<div dir='rtl'>العب دور <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>غابرييل نايت</b>، روائي رعب يكافح ومالك متجر كتب في <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>نيو أورلينز</b>، مطارد من <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>كوابيس غريبة</b> تجبرك على التحقيق في سلسلة من <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>جرائم قتل الفودو</b> الوحشية التي تصيب المدينة.<br>اكتشف ضحايا بلا قلوب، قُتلوا بواسطة <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>كارتل الفودو</b> الغامض، محاطين بـ<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>ريش الدجاج</b>، <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>دم الماعز</b>، و<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الفيفيس</b> القديمة، بينما المحقق <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>فرانك موزلي</b> يرفض الصلات الخارقة.<br>اكشف مؤامرة مظلمة تربط جرائم القتل الحالية بسلفك <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>غونتر ريتر</b>، الذي أعدم ممارسة الفودو <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>تيتيلو</b> في 1810 بعد أن خانت حبه وارتكبت جرائم قتل مماثلة باستخدام <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>تميمة عائلية</b> مسروقة.<br>احتضن مصيرك كـ<b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>شاتنيجير</b>—صياد الظل—مدافعاً عن الأبرياء من <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الشر الخارق</b> في هذا <b style='color: #708090; text-shadow: 0 0 8px #708090;'>غموض التأشير والنقر الجوي</b> حيث تصطدم أسرار العائلة والسحر القديم.</div>",
+    "ReleaseDate": "2014",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Gabriel%20Knight%20Sins%20of%20the%20Fathers%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Gabriel%20Knight%20Sins%20of%20the%20Fathers%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Gabriel%20Knight%20Sins%20of%20the%20Fathers%20Trailer.mp4",
+    "videoStart": 1.2,
+    "videoEnd": 72.7,
+    "MusicUrl": "https://archive.org/download/RPRM001/Gabriel%20Knight%20Sins%20of%20the%20Fathers%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Pinkerton Road Studios"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "GK1.exe",
+            "arguments": [],
+            "buildID": "28 October 2017",
+            "filename": "00214.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765265458339_2",
+    "Name": "Indika",
+    "SortingName": "",
+    "Description": "Embark on a journey of self-discovery as <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Indika</b>, a young nun in an alternative <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>19th-century Russia</b>, tormented by a mysterious voice—<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>the devil himself</b>—whispering doubts directly into her mind.<br>Traverse the bleak <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Russian countryside</b> as your <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>faith</b> crumbles with each step, questioning everything you've been taught while <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>demonic whispers</b> challenge your deepest <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>beliefs</b> about morality, <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>religion</b>, and reality itself.<br>Experience a <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>thought-provoking narrative</b> that blends <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>psychological horror</b> with <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>philosophical exploration</b>, featuring <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>surreal imagery</b> and moments that blur the line between <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>divine revelation</b> and <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>spiritual madness</b>.<br>Confront your own <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>inner demons</b> in this hauntingly atmospheric <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>third-person adventure</b> where every choice questions the nature of good and evil.",
+    "DescriptionArabic": "<div dir='rtl'>ابدأ رحلة اكتشاف الذات كـ<b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>إنديكا</b>، راهبة شابة في <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>روسيا القرن التاسع عشر</b> البديلة، معذبة بصوت غامض—<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الشيطان نفسه</b>—يهمس بالشكوك مباشرة في عقلها.<br>اعبر <b style='color: #708090; text-shadow: 0 0 8px #708090;'>الريف الروسي</b> القاحل بينما تتحطم <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>إيمانك</b> مع كل خطوة، مشككةً في كل ما عُلّمتِ إياه بينما <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الهمسات الشيطانية</b> تتحدى أعمق <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>معتقداتك</b> حول الأخلاق، <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>الدين</b>، والواقع نفسه.<br>اختبر <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>سرداً يثير التفكير</b> يمزج <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الرعب النفسي</b> مع <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>الاستكشاف الفلسفي</b>، ويتضمن <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>صوراً سريالية</b> ولحظات تطمس الخط بين <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>الوحي الإلهي</b> و<b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>الجنون الروحي</b>.<br>واجه <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>شياطينك الداخلية</b> في هذه <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>المغامرة من منظور الشخص الثالث</b> المرعبة جوياً حيث كل خيار يشكك في طبيعة الخير والشر.</div>",
+    "ReleaseDate": "2024",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Indika%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Indika%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Indika%20Trailer.mp4",
+    "videoStart": 2.765024,
+    "videoEnd": 72.435289,
+    "MusicUrl": "https://archive.org/download/RPRM001/Indika%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Odd Meter"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "49 GB",
+            "executable": "Indika.exe",
+            "arguments": [],
+            "buildID": "21 October 2024",
+            "filename": "00213.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765265458339_3",
+    "Name": "Northern Journey",
+    "SortingName": "",
+    "Description": "Venture through a <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>melancholic Norwegian landscape</b> in this atmospheric adventure described as a <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Norwegian happysad game</b> filled with <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>dark humor</b> and creeping <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>dread</b>.<br>Explore vast <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>interconnected levels</b> that unfold like a <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Metroidvania</b>, diving underwater, soaring through the air with <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>ziplines</b>, and wielding <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>creative medieval weapons</b> against over <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>50 unique bosses</b> and enemy types.<br>Experience <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>hypnotic music</b> that perfectly captures the <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>northern atmosphere</b> as you traverse a <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>linear journey</b> without bloat or grinding—just pure exploration and discovery.<br>Immerse yourself in <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>stunning world-building</b> and <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>atmospheric level design</b> that creates a <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>unique Nordic adventure</b> where beauty and darkness intertwine.",
+    "DescriptionArabic": "<div dir='rtl'>غامر عبر <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>مشهد نرويجي كئيب</b> في هذه المغامرة الجوية الموصوفة بأنها <b style='color: #708090; text-shadow: 0 0 8px #708090;'>لعبة نرويجية سعيدة حزينة</b> مليئة بـ<b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الفكاهة المظلمة</b> و<b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>الرهبة</b> الزاحفة.<br>استكشف <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>مستويات مترابطة</b> شاسعة تتكشف مثل <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>ميترويدفانيا</b>، غوصاً تحت الماء، محلقاً في الهواء بـ<b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>حبال الانزلاق</b>، ومستخدماً <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>أسلحة العصور الوسطى الإبداعية</b> ضد أكثر من <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>50 زعيماً فريداً</b> ونوع عدو.<br>اختبر <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>موسيقى منومة</b> تلتقط تماماً <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الجو الشمالي</b> بينما تعبر <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>رحلة خطية</b> بدون حشو أو طحن—مجرد استكشاف واكتشاف نقي.<br>انغمس في <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>بناء عالم مذهل</b> و<b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>تصميم مستوى جوي</b> يخلق <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>مغامرة نوردية فريدة</b> حيث يتشابك الجمال والظلام.</div>",
+    "ReleaseDate": "2021",
+    "CriticScore": 60,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Northern%20Journey%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Northern%20Journey%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Northern%20Journey%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Northern%20Journey%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Slid Studio"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "executable": "Skog.exe",
+            "arguments": [],
+            "buildID": "15 June 2023",
+            "filename": "00212.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765265458339_4",
+    "Name": "Sorry We're Closed",
+    "SortingName": "",
+    "Description": "Play as <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Michelle</b>, a convenience store worker still reeling from a <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>three-year breakup</b>, whose life spirals into supernatural chaos when the seductive demon <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Duchess</b> curses her in a desperate search for love.<br>Race against a <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>three-day deadline</b> to break the curse or face death, wielding <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Hellhound</b>—a growling red pistol with teeth—and the mystical <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Third Eye</b> that lets you peer between <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>worlds</b> and see demons' <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>hearts</b>.<br>Navigate a <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>PS1-style horror aesthetic</b> blending <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>fixed-camera exploration</b> with <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>arcade shooting</b>, uncovering secrets about your neighborhood's <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>hidden denizens</b> while confronting the Duchess's twisted understanding of <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>love</b>.<br>Experience a quirky collision of <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>demons</b> and <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>angels</b> in this <b style='color: #708090; text-shadow: 0 0 8px #708090;'>LGBTQIA+ survival horror</b> where romance and terror intertwine.",
+    "DescriptionArabic": "<div dir='rtl'>العب دور <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>ميشيل</b>، عاملة في متجر صغير لا تزال تترنح من <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>انفصال استمر ثلاث سنوات</b>، والتي تنحدر حياتها إلى فوضى خارقة عندما تلعنها الشيطانة المغرية <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>دوقة</b> في بحث يائس عن الحب.<br>سابق <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>موعداً نهائياً لثلاثة أيام</b> لكسر اللعنة أو واجه الموت، مستخدمةً <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>هيلهاوند</b>—مسدساً أحمر هادراً بأسنان—و<b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>العين الثالثة</b> الصوفية التي تتيح لك النظر بين <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>العوالم</b> ورؤية <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>قلوب</b> الشياطين.<br>تنقل في <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>جمالية رعب بأسلوب بلاي ستيشن 1</b> تمزج <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>استكشاف الكاميرا الثابتة</b> مع <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>إطلاق النار الأركيد</b>، كاشفةً الأسرار عن <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>السكان المخفيين</b> في حيّك بينما تواجه فهم الدوقة الملتوي لـ<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>الحب</b>.<br>اختبر اصطداماً غريباً بين <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>الشياطين</b> و<b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>الملائكة</b> في هذا <b style='color: #708090; text-shadow: 0 0 8px #708090;'>رعب البقاء للمثليين</b> حيث تتشابك الرومانسية والإرهاب.</div>",
+    "ReleaseDate": "2024",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Sorry%20We're%20Closed%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Sorry%20We're%20Closed%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Sorry%20We're%20Closed%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": 66.598319,
+    "MusicUrl": "https://archive.org/download/RPRM001/Sorry%20We're%20Closed%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "à la mode games"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "Sorry We're Closed.exe",
+            "arguments": [],
+            "buildID": "19 June 2025",
+            "filename": "00211.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
