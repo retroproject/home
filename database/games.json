@@ -10887,13 +10887,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC03",
+            "identifier": "RPRP008",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "3GB",
             "arguments": [],
             "executable": "SNB.exe",
-            "filename": "Sanabi.zip"
+            "buildID": "8 December 2025",
+            "filename": "00216.zip"
           }
         ]
       }
@@ -136483,9 +136484,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1765265458339_0",
@@ -136612,9 +136611,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1765265458339_3",
@@ -136655,9 +136652,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1765265458339_4",
@@ -136694,6 +136689,56 @@
             "arguments": [],
             "buildID": "19 June 2025",
             "filename": "00211.zip"
+          }
+        ]
+      }
+    },
+    "Tags": []
+  },
+  {
+    "_id": "game_1765273078102_0",
+    "Name": "Battle Stadium D.O.N",
+    "SortingName": "",
+    "Description": "Battle across <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>11 dynamic stages</b> in this explosive <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Shonen Jump crossover</b> bringing together legendary heroes from <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Dragon Ball Z</b>, <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>One Piece</b>, and <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Naruto</b> in chaotic <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>4-player platform battles</b>.<br>Master the unique <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>tug-of-war orb system</b> where attacking opponents releases <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>glowing orbs</b> to collect—gather the majority to activate <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Burst Mode</b>, dramatically increasing your speed and attack power.<br>Unleash iconic <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>special moves</b> like <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>Kamehameha</b>, <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Gomu Gomu attacks</b>, and <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>Summoning Jutsu</b> with each character's 6 basic attacks and 7 powerful techniques.<br>Experience <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>free-roaming 2D combat</b> with <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>cel-shaded anime visuals</b> in this <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Japan-exclusive party fighter</b> where three anime universes collide.",
+    "DescriptionArabic": "<div dir='rtl'>قاتل عبر <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>11 مرحلة ديناميكية</b> في هذا <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الكروس أوفر الانفجاري لشونن جامب</b> الذي يجمع الأبطال الأسطوريين من <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>دراغون بول زد</b>، <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>ون بيس</b>، و<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>ناروتو</b> في <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>معارك منصات فوضوية لـ4 لاعبين</b>.<br>أتقن <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>نظام الكرات شد الحبل</b> الفريد حيث مهاجمة الخصوم تطلق <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>كرات متوهجة</b> لجمعها—اجمع الأغلبية لتفعيل <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>وضع الانفجار</b>، مما يزيد بشكل كبير من سرعتك وقوة هجومك.<br>أطلق <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الحركات الخاصة</b> الأيقونية مثل <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>كاميهاميها</b>، <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>هجمات غومو غومو</b>، و<b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>جتسو الاستدعاء</b> مع 6 هجمات أساسية و7 تقنيات قوية لكل شخصية.<br>اختبر <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>قتال ثنائي الأبعاد حر الحركة</b> مع <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>رسومات أنمي مظللة بالخلايا</b> في هذا <b style='color: #708090; text-shadow: 0 0 8px #708090;'>المقاتل الحفلي الحصري لليابان</b> حيث تتصادم ثلاثة أكوان أنمي.</div>",
+    "ReleaseDate": "2006",
+    "CriticScore": 70,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Battle%20Stadium%20D.O.N%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Battle%20Stadium%20D.O.N%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Battle%20Stadium%20D.O.N%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo GameCube"
+    ],
+    "GenreNames": [
+      "Fighting"
+    ],
+    "DeveloperNames": [
+      "Eighting"
+    ],
+    "downloadInfo": {
+      "Nintendo GameCube": {
+        "versions": [
+          {
+            "identifier": "retro-dolphin",
+            "name": "Japanese",
+            "platform": "Nintendo GameCube",
+            "fileSize": "280 MB",
+            "arguments": [],
+            "romFile": "Battle Stadium D.O.N (Japanese).rvz",
+            "emulator": "Dolphin",
+            "filename": "Battle Stadium D.O.N (Japanese).rvz"
+          },
+          {
+            "identifier": "retro-dolphin",
+            "name": "HD Textures",
+            "platform": "Nintendo GameCube",
+            "fileSize": "500MB",
+            "arguments": [],
+            "emulator": "Dolphin",
+            "filename": "Battle Stadium D.O.N HD Textures.zip"
           }
         ]
       }
