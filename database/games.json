@@ -24963,7 +24963,7 @@
     "_id": "32728948-4f32-4ca1-96fc-4c77b062812c",
     "GameId": "2d90b1c04c2bc760ebef27596929b17e",
     "Name": "Yakuza 0",
-    "SortingName": "Yakuza 01.01",
+    "SortingName": "Yakuza 01.00",
     "Description": "In 1988 <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Kamurocho</span>, where neon lights reflect off rain-slicked streets and the bubble economy masks deeper corruption, two men's destinies intertwine in a web of betrayal that will define their lives forever. <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Kazuma Kiryu</span>, a young yakuza framed for murder, must navigate the treacherous underworld politics while maintaining his code of honor even as the organization he serves abandons him. Meanwhile, in <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>Sotenbori</span>, the charismatic <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Goro Majima</span> finds himself caged by obligation, forced to abandon his wild nature to earn his freedom through a task that will test his humanity. As both men pursue the truth behind the <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Empty Lot</span>—a small piece of land worth billions—they discover that in the criminal underworld, <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>money</span> can buy anything except <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>redemption</span>. This tale of brotherhood and sacrifice unfolds through brutal street fights and unexpected moments of tenderness, proving that even in the darkest corners of society, <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>human connection</span> remains the most valuable currency.",
     "DescriptionArabic": "<div dir='rtl'>في 1988 <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>كاموروتشو</span>، حيث تنعكس الأضواء النيونية على الشوارع المبللة بالمطر ويقنع اقتصاد الفقاعة فساداً أعمق، تتشابك أقدار رجلين في شبكة من الخيانة ستحدد حياتهما إلى الأبد. <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>كازوما كيريو</span>، ياكوزا شاب ملفق عليه جريمة قتل، يجب أن يتنقل في سياسات العالم السفلي الغادرة بينما يحافظ على قانونه الشرفي حتى لو تخلت عنه المنظمة التي يخدمها. في الوقت نفسه، في <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>سوتينبوري</span>، يجد الكاريزمي <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>غورو ماجيما</span> نفسه محبوساً بالالتزام، مجبر على التخلي عن طبيعته البرية لكسب حريته من خلال مهمة ستختبر إنسانيته. بينما يطارد كلا الرجلين الحقيقة وراء <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>القطعة الفارغة</span>—قطعة أرض صغيرة تساوي مليارات—يكتشفان أنه في العالم السفلي الإجرامي، <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>المال</span> يمكن أن يشتري أي شيء عدا <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>الفداء</span>. تتكشف هذه الحكاية عن الأخوة والتضحية من خلال قتالات شوارع وحشية ولحظات غير متوقعة من الحنان، مثبتة أنه حتى في أحلك زوايا المجتمع، يبقى <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>التواصل الإنساني</span> العملة الأكثر قيمة.</div>",
     "ReleaseDate": "2015-3-12",
@@ -136443,5 +136443,48 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1765238227819_0",
+    "Name": "Yakuza 0 Directors Cut",
+    "SortingName": "Yakuza 01.01",
+    "Description": "Experience the origin story set in <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>1988 Japan's neon-soaked bubble era</b> as <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Kazuma Kiryu</b>, a promising young yakuza framed for murder, and <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Goro Majima</b>, a disgraced former enforcer working as a cabaret manager to regain his honor.<br>Navigate the criminal underworld of <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Kamurochō</b> and <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Sotenbori</b> as rival yakuza factions wage war over <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>the Empty Lot</b>, a seemingly worthless patch of land that holds the key to controlling billions in <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>real estate development</b>.<br>Master <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>three dynamic fighting styles</b> per character—switching between <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>brutal brawler techniques</b>, <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>lightning-fast rush combos</b>, and <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>weapon-based beast mode</b> to demolish enemies in bone-crushing street fights.<br>Build your fortune through <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>property management</b>, run a thriving <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>cabaret club empire</b>, and explore hundreds of <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>bizarre side stories</b> while uncovering who's orchestrating a conspiracy that threatens the entire <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Tojo Clan</b>.",
+    "DescriptionArabic": "<div dir='rtl'>اختبر قصة الأصل المحددة في <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>حقبة الفقاعة الاقتصادية لليابان 1988 المضاءة بالنيون</b> بصفتك <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>كازوما كيريو</b>، ياكوزا شاب واعد اتُهم زورًا بالقتل، و <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>جورو ماجيما</b>، مُنفذ سابق ساقط يعمل كمدير ملهى ليلي لاستعادة شرفه.<br>تنقل عبر العالم السفلي الإجرامي في <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>كاموروتشو</b> و <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>سوتنبوري</b> بينما تشن فصائل الياكوزا المتنافسة حربًا على <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>القطعة الفارغة</b>، قطعة أرض تبدو عديمة القيمة تحمل مفتاح السيطرة على مليارات من <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>تطوير العقارات</b>.<br>أتقن <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>ثلاثة أنماط قتالية ديناميكية</b> لكل شخصية—التبديل بين <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>تقنيات المشاجرة الوحشية</b>، <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>كومبو الاندفاع السريع كالبرق</b>، و <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>وضع الوحش القائم على الأسلحة</b> لسحق الأعداء في معارك الشوارع المحطمة للعظام.<br>ابنِ ثروتك من خلال <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>إدارة الممتلكات</b>، أدر <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>إمبراطورية ملهى ليلي مزدهرة</b>، واستكشف مئات <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>القصص الجانبية الغريبة</b> بينما تكشف عمن يدبر مؤامرة تهدد <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>عشيرة توجو</b> بأكملها.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Yakuza%200%20Directors%20Cut%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Yakuza%200%20Directors%20Cut%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Yakuza%200%20Directors%20Cut%20Trailer.mp4",
+    "videoStart": 3.8,
+    "videoEnd": 104.436767,
+    "MusicUrl": "https://archive.org/download/RPRM001/Yakuza%200%20Directors%20Cut%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Open World"
+    ],
+    "DeveloperNames": [
+      "Ryu Ga Gotoku Studios"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP007",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "90GB",
+            "executable": "yakuza0_dc.exe",
+            "arguments": [],
+            "buildID": "8 December 2025",
+            "filename": "00210.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
