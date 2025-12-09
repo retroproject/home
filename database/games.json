@@ -712,8 +712,8 @@
               "plutonium.exe"
             ],
             "executableLabels": [
-              "Story Mode",
-              "Online Mode"
+              "Single Player",
+              "Multiplayer"
             ],
             "filename": "Call of Duty Modern Warfare 3.zip"
           }
@@ -10887,7 +10887,7 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP008",
+            "identifier": "RPRP009",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "3GB",
@@ -136513,7 +136513,7 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP008",
+            "identifier": "RPRP009",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "8 GB",
@@ -136556,7 +136556,7 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP008",
+            "identifier": "RPRP009",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "3 GB",
@@ -136599,7 +136599,7 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP008",
+            "identifier": "RPRP009",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "49 GB",
@@ -136746,5 +136746,125 @@
     "Tags": [
       "Hide"
     ]
+  },
+  {
+    "_id": "game_1765299876812_0",
+    "Name": "Ball X Pit",
+    "SortingName": "",
+    "Description": "Survive waves of <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>relentless monsters</b> by bouncing an ever-growing arsenal of <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>colorful balls</b> in this addictive <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>roguelike bullet hell</b> that blends <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Arkanoid-style action</b> with strategic <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>city-building</b>.<br>Ricochet <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>explosive projectiles</b> against hordes of enemies, creating <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>devastating chain reactions</b> and <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>spectacular combos</b> that rain destruction across the battlefield.<br>Between runs, construct <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>powerful buildings</b> that unlock <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>unique characters</b> with game-changing <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>special abilities</b>, discovering <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>synergistic combinations</b> that transform each run into <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>chaotic perfection</b>.<br>Master the delicate balance of <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>offensive mayhem</b> and <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>strategic evolution</b> in this wildly creative roguelite.",
+    "DescriptionArabic": "<div dir='rtl'>انجُ من موجات <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الوحوش المتواصلة</b> من خلال قذف ترسانة متنامية من <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الكرات الملونة</b> في هذا <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الروغ لايك المدمن للجحيم الرصاصي</b> الذي يمزج <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>حركة أركانويد</b> مع <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>بناء المدن الاستراتيجي</b>.<br>اقذف <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>القذائف المتفجرة</b> ضد حشود الأعداء، خالقاً <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>ردود فعل متسلسلة مدمرة</b> و<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>كومبوهات مذهلة</b> تمطر الدمار عبر ساحة المعركة.<br>بين المحاولات، ابنِ <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>مباني قوية</b> تفتح <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>شخصيات فريدة</b> بـ<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>قدرات خاصة</b> تغير اللعبة، مكتشفاً <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>مجموعات تآزرية</b> تحول كل محاولة إلى <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>كمال فوضوي</b>.<br>أتقن التوازن الدقيق بين <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>الفوضى الهجومية</b> و<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>التطور الاستراتيجي</b> في هذا الروغ لايت الإبداعي البري.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 100,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Ball%20X%20Pit%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Ball%20X%20Pit%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Ball%20X%20Pit%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Roguelike"
+    ],
+    "DeveloperNames": [
+      "Kenny Sun"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP009",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "550 MB",
+            "executable": "Balls.exe",
+            "arguments": [],
+            "buildID": "6 November 2025",
+            "filename": "00219.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765299876812_1",
+    "Name": "Skate Story",
+    "SortingName": "",
+    "Description": "Play as a <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>demon made of glass</b> skateboarding through a <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>grungy underworld</b> on a surreal journey to reach <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>the Moon</b> and achieve freedom from damnation.<br>Grind across <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>otherworldly rails</b>, launch <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>gravity-defying kickflips</b>, and flow through <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>dreamlike landscapes</b> rendered in stunning <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>stylized visuals</b> that blur reality and nightmare.<br>Master <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>poetic trick sequences</b> that shatter your <b style='color: #00BFFF; text-shadow: 0 0 8px #00BFFF;'>fragile glass body</b>, only to reform and continue your <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>transcendent quest</b> through <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>hellish terrain</b>.<br>Experience a <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>hypnotic soundtrack</b> that pulses alongside your movements in this <b style='color: #708090; text-shadow: 0 0 8px #708090;'>atmospheric skateboarding odyssey</b> where every <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>trick</b> brings you closer to salvation.",
+    "DescriptionArabic": "<div dir='rtl'>العب دور <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>شيطان مصنوع من الزجاج</b> يتزلج عبر <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>عالم سفلي قذر</b> في رحلة سريالية للوصول إلى <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>القمر</b> وتحقيق الحرية من اللعنة.<br>اطحن عبر <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>قضبان أثيرية</b>، أطلق <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>كيك فليبس تتحدى الجاذبية</b>، وتدفق عبر <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>مناظر طبيعية حالمة</b> مقدمة في <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>مرئيات أنيقة</b> مذهلة تطمس الواقع والكابوس.<br>أتقن <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>تسلسلات الحيل الشاعرية</b> التي تحطم <b style='color: #00BFFF; text-shadow: 0 0 8px #00BFFF;'>جسدك الزجاجي الهش</b>، فقط لتعيد التشكيل وتواصل <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>بحثك المتسامي</b> عبر <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>تضاريس جهنمية</b>.<br>اختبر <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>موسيقى تصويرية منومة</b> تنبض جنباً إلى جنب مع حركاتك في هذه <b style='color: #708090; text-shadow: 0 0 8px #708090;'>ملحمة التزلج الجوية</b> حيث كل <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>حيلة</b> تقربك من الخلاص.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 100,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Skate%20Story%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Skate%20Story%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Skate%20Story%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Action"
+    ],
+    "DeveloperNames": [
+      "Sam Eng"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP009",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "11 GB",
+            "executable": "SkateStory.exe",
+            "arguments": [],
+            "buildID": "8 December 2025",
+            "filename": "00218.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765299876812_2",
+    "Name": "Sleep Awake",
+    "SortingName": "",
+    "Description": "Navigate the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>last city on Earth</b> as <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Katja</b>, desperately staying awake during <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>The Hush</b>—a mysterious crisis where anyone who falls <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>asleep vanishes forever</b> into the void.<br>Traverse <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>psychedelic dreamscapes</b> that blur the line between <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>waking reality</b> and <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>nightmarish visions</b>, where <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>consciousness itself</b> becomes your most fragile resource.<br>Evade <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>lurking horrors</b> through tense <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>stealth sequences</b>, uncover the truth behind <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>The Hush's origin</b>, and fight to stay <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>awake</b> as exhaustion and <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>creeping madness</b> threaten your sanity.<br>Experience an <b style='color: #708090; text-shadow: 0 0 8px #708090;'>unsettling psychological journey</b> through a world where <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>sleep means death</b>.",
+    "DescriptionArabic": "<div dir='rtl'>تنقل عبر <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>آخر مدينة على الأرض</b> بصفتك <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>كاتيا</b>، تبقى مستيقظةً بشدة أثناء <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الصمت</b>—أزمة غامضة حيث أي شخص <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>ينام يختفي للأبد</b> في الفراغ.<br>عبر <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>مناظر الأحلام المخدرة</b> التي تطمس الخط بين <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>الواقع المستيقظ</b> و<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الرؤى الكابوسية</b>، حيث <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>الوعي نفسه</b> يصبح موردك الأكثر هشاشة.<br>تهرب من <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الأهوال الكامنة</b> عبر <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>تسلسلات التسلل</b> المتوترة، اكشف الحقيقة وراء <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>أصل الصمت</b>، وقاتل للبقاء <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>مستيقظةً</b> بينما الإرهاق و<b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>الجنون الزاحف</b> يهددان سلامتك العقلية.<br>اختبر <b style='color: #708090; text-shadow: 0 0 8px #708090;'>رحلة نفسية مقلقة</b> عبر عالم حيث <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>النوم يعني الموت</b>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 60,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Sleep%20Awake%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Sleep%20Awake%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Sleep%20Awake%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "EYES OUT"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP009",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "47 GB",
+            "executable": "ProjectHProd.exe",
+            "arguments": [],
+            "buildID": "2 December 2025",
+            "filename": "00217.zip"
+          }
+        ]
+      }
+    }
   }
 ]
