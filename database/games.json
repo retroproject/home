@@ -135067,7 +135067,7 @@
       "PC Game"
     ],
     "GenreNames": [
-      "Beat 'Em Up"
+      "Beat 'em Up"
     ],
     "DeveloperNames": [
       "Tribute Games"
@@ -136785,7 +136785,10 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Hide"
+    ]
   },
   {
     "_id": "game_1765299876812_1",
@@ -136825,7 +136828,10 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Hide"
+    ]
   },
   {
     "_id": "game_1765299876812_2",
@@ -136865,6 +136871,52 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765325759825_0",
+    "Name": "Unbeatable",
+    "SortingName": "",
+    "Description": "Fight against <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>music prohibition</b> in a dystopian world where <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>H.A.R.M.</b> enforces brutal laws against sound, and you rebel by creating <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>illegal rhythms</b> in this electrifying <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>rhythm-adventure</b>.<br>Hit <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>70+ tracks</b> spanning diverse genres as you master <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>precise timing</b> and <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>combo chains</b>, each beat a revolutionary act against the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>authoritarian regime</b>.<br>Immerse yourself in <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>stunning anime-inspired visuals</b> and an <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>exceptional soundtrack</b> that pulses with <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>punk energy</b>, where every note you play is an act of <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>defiance</b>.<br>Experience a <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>rhythm revolution</b> where <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>music becomes rebellion</b> in this stylish fusion of rhythm gameplay and narrative adventure.",
+    "DescriptionArabic": "<div dir='rtl'>قاتل ضد <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>حظر الموسيقى</b> في عالم ديستوبي حيث <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>H.A.R.M.</b> تفرض قوانين وحشية ضد الصوت، وتتمرد بإنشاء <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>إيقاعات غير قانونية</b> في هذه <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>مغامرة الإيقاع</b> المثيرة.<br>اعزف <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>أكثر من 70 مقطوعة</b> تمتد عبر أنواع متنوعة بينما تتقن <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>التوقيت الدقيق</b> و<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>سلاسل الكومبو</b>، كل إيقاع عمل ثوري ضد <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>النظام الاستبدادي</b>.<br>انغمس في <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>مرئيات مستوحاة من الأنمي</b> المذهلة و<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>موسيقى تصويرية استثنائية</b> تنبض بـ<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>طاقة البانك</b>، حيث كل نغمة تعزفها هي فعل من <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>التحدي</b>.<br>اختبر <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>ثورة إيقاعية</b> حيث <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>تصبح الموسيقى تمرداً</b> في هذا الدمج الأنيق بين لعبة الإيقاع ومغامرة السرد.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 100,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Unbeatable%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Unbeatable%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Unbeatable%20Trailer.mp4",
+    "videoStart": 1.2,
+    "videoEnd": 55.2,
+    "MusicUrl": "https://archive.org/download/RPRM001/Unbeatable%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Music"
+    ],
+    "DeveloperNames": [
+      "D-CELL GAMES"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "33 GB",
+            "executable": "steamclient_loader_x64.exe",
+            "arguments": [],
+            "buildID": "9 December 2025",
+            "filename": "00220.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
