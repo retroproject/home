@@ -136513,7 +136513,7 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP009",
+            "identifier": "RPRP008",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "8 GB",
@@ -136554,7 +136554,7 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP009",
+            "identifier": "RPRP008",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "3 GB",
@@ -136595,7 +136595,7 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP009",
+            "identifier": "RPRP008",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "49 GB",
@@ -136768,7 +136768,7 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP009",
+            "identifier": "RPRP008",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "550 MB",
@@ -136809,7 +136809,7 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP009",
+            "identifier": "RPRP008",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "11 GB",
@@ -136903,8 +136903,6 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   }
 ]
