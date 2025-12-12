@@ -37001,7 +37001,7 @@
             "platform": "PC Game",
             "executable": "FATAL FURY City of the Wolves.exe",
             "fileSize": "30GB",
-            "buildID": "5 November 2025",
+            "buildID": "9 December 2025",
             "filename": "00154.zip"
           }
         ]
@@ -88056,12 +88056,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC34",
-            "filename": "Disney Dreamlight Valley.zip",
+            "identifier": "RPRP008",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "ddv.exe",
-            "fileSize": "15GB"
+            "fileSize": "22GB",
+            "buildID": "10 December 2025",
+            "filename": "00221.zip"
           }
         ]
       }
@@ -133180,6 +133181,7 @@
             "fileSize": "45GB",
             "executable": "SILENT HILL f Launcher.bat",
             "arguments": [],
+            "buildID": "9 December 2025",
             "filename": "00096.zip"
           }
         ]
@@ -135611,7 +135613,7 @@
             "fileSize": "51 GB",
             "executable": "TheAlters.exe",
             "arguments": [],
-            "buildID": "15 September 2025",
+            "buildID": "8 December 2025",
             "filename": "00192.zip"
           }
         ]
@@ -136701,9 +136703,9 @@
     "CriticScore": 70,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Battle%20Stadium%20D.O.N%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Battle%20Stadium%20D.O.N%20Cover.jpg",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Battle%20Stadium%20D.O.N%20Trailer.mp4",
     "videoStart": null,
-    "videoEnd": null,
+    "videoEnd": 79.8,
     "MusicUrl": "https://archive.org/download/RPRM001/Battle%20Stadium%20D.O.N%20Theme.mp3",
     "PlatformNames": [
       "Nintendo GameCube"
@@ -136751,9 +136753,9 @@
     "CriticScore": 100,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Ball%20X%20Pit%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Ball%20X%20Pit%20Cover.jpg",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Ball%20X%20Pit%20Trailer.mp4",
     "videoStart": null,
-    "videoEnd": null,
+    "videoEnd": 84.288835,
     "MusicUrl": "https://archive.org/download/RPRM001/Ball%20X%20Pit%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -136792,9 +136794,9 @@
     "CriticScore": 100,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Skate%20Story%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Skate%20Story%20Cover.jpg",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Skate%20Story%20Trailer.mp4",
     "videoStart": null,
-    "videoEnd": null,
+    "videoEnd": 79.301568,
     "MusicUrl": "https://archive.org/download/RPRM001/Skate%20Story%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -136833,9 +136835,9 @@
     "CriticScore": 60,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Sleep%20Awake%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Sleep%20Awake%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Sleep%20Awake%20Trailer.mp4",
+    "videoStart": 1,
+    "videoEnd": 79.644444,
     "MusicUrl": "https://archive.org/download/RPRM001/Sleep%20Awake%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -136904,5 +136906,522 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1765535516990_0",
+    "Name": "Cozy Caravan",
+    "SortingName": "",
+    "Description": "Embark on a <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>wholesome adventure</b> with <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Bubba</b>, your giant bee companion, traveling through <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>vibrant hand-drawn realms</b> aboard your trusty <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>caravan home</b>.<br>Explore diverse <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>magical biomes</b>, gathering <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>rare resources</b> to craft <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>unique items</b> and trade with <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>quirky characters</b> you meet on your journey.<br>Customize your <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>mobile sanctuary</b> with collected treasures, cultivate <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>garden plots</b>, and build meaningful <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>friendships</b> in this <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>relaxing life-sim</b>.<br>Experience <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>pure vibes</b> and <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>cozy gameplay</b> in this charming Australian indie that celebrates the joy of exploration and discovery.",
+    "DescriptionArabic": "<div dir='rtl'>ابدأ <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>مغامرة صحية</b> مع <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>بوبا</b>، رفيقك النحلة العملاقة، مسافراً عبر <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>عوالم مرسومة يدوياً نابضة</b> على متن <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>منزلك الكارافان</b> الموثوق.<br>استكشف <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>بيئات سحرية</b> متنوعة، جامعاً <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>موارد نادرة</b> لصنع <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>أغراض فريدة</b> والتجارة مع <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>شخصيات غريبة</b> تقابلها في رحلتك.<br>خصّص <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>ملاذك المتنقل</b> بالكنوز المجموعة، ازرع <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>قطع الحديقة</b>، وابنِ <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>صداقات</b> مفيدة في هذا <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>المحاكي الحياتي المريح</b>.<br>اختبر <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>أجواء نقية</b> و<b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>لعب مريح</b> في هذا الإندي الأسترالي الساحر الذي يحتفل بفرحة الاستكشاف والاكتشاف.</div>",
+    "ReleaseDate": "2024",
+    "CriticScore": 70,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Cozy%20Caravan%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Cozy%20Caravan%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Cozy%20Caravan%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Cozy"
+    ],
+    "DeveloperNames": [
+      "5 Lives Studios"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "CozyCaravan.exe",
+            "arguments": [],
+            "buildID": "1 December 2025",
+            "filename": "00229.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765535516990_1",
+    "Name": "Hunting Simulator",
+    "SortingName": "Hunting Simulator 01",
+    "Description": "Pursue wildlife across <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>iconic hunting regions</b> including the <b style='color: #708090; text-shadow: 0 0 8px #708090;'>mountains of Colorado</b>, <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>French oak forests</b>, and <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>snowy Alaskan plains</b> in this <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Unreal Engine 4</b> hunting experience.<br>Choose from an <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>arsenal of authentic weapons</b> and <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>specialized gadgets</b> as you stalk <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>diverse game animals</b> through <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>varied biomes</b>.<br>Experience <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>realistic ballistics</b> and <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>animal behavior</b> while tracking your prey through <b style='color: #8B8B00; text-shadow: 0 0 8px #8B8B00;'>challenging terrain</b>.<br>Hunt solo or with friends in this <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>ambitious simulation</b> that brings <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>global hunting destinations</b> to life.",
+    "DescriptionArabic": "<div dir='rtl'>طارد الحياة البرية عبر <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>مناطق صيد أيقونية</b> بما في ذلك <b style='color: #708090; text-shadow: 0 0 8px #708090;'>جبال كولورادو</b>، <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>غابات البلوط الفرنسية</b>، و<b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>سهول ألاسكا الثلجية</b> في هذه تجربة الصيد بـ<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>محرك أنريل 4</b>.<br>اختر من <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ترسانة أسلحة أصلية</b> و<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>أدوات متخصصة</b> بينما تتعقب <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>حيوانات صيد متنوعة</b> عبر <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>بيئات متنوعة</b>.<br>اختبر <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>باليستيات واقعية</b> و<b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>سلوك حيواني</b> أثناء تتبع فريستك عبر <b style='color: #8B8B00; text-shadow: 0 0 8px #8B8B00;'>تضاريس صعبة</b>.<br>اصطد منفرداً أو مع الأصدقاء في هذه <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>المحاكاة الطموحة</b> التي تحيي <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>وجهات الصيد العالمية</b>.</div>",
+    "ReleaseDate": "2017",
+    "CriticScore": 60,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Hunting%20Simulator%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Hunting%20Simulator%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Hunting%20Simulator%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Simulation"
+    ],
+    "DeveloperNames": [
+      "Neopica"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "12 GB",
+            "executable": "Hunter.exe",
+            "arguments": [],
+            "buildID": "26 October 2017",
+            "filename": "00228.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765535516990_2",
+    "Name": "Hunting Simulator 2",
+    "SortingName": "Hunting Simulator 02",
+    "Description": "Return to the wild in this refined <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>hunting simulation</b> that improves upon its predecessor with enhanced <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>animal AI</b> and more <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>detailed environments</b>.<br>Track wildlife through <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>six vast reserves</b> with your loyal <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>hunting dog</b>, reading <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>subtle clues</b> and following <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>fresh tracks</b> in this <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>slow-paced experience</b>.<br>Master <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>authentic hunting techniques</b> with improved <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>weapon handling</b> and <b style='color: #8B8B00; text-shadow: 0 0 8px #8B8B00;'>realistic ballistics</b>, waiting patiently for <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>perfect shots</b>.<br>Experience <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>relaxing gameplay</b> punctuated by <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>bursts of excitement</b> in this methodical hunting adventure.",
+    "DescriptionArabic": "<div dir='rtl'>عد إلى البرية في هذه <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>محاكاة الصيد</b> المحسنة التي تطور من سابقتها بـ<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>ذكاء اصطناعي حيواني</b> محسّن و<b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>بيئات أكثر تفصيلاً</b>.<br>تتبع الحياة البرية عبر <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>ست محميات شاسعة</b> مع <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>كلب الصيد</b> المخلص، قارئاً <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الأدلة الدقيقة</b> ومتابعاً <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>الآثار الطازجة</b> في هذه <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>التجربة البطيئة الوتيرة</b>.<br>أتقن <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>تقنيات الصيد الأصلية</b> مع <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>التعامل مع الأسلحة</b> المحسن و<b style='color: #8B8B00; text-shadow: 0 0 8px #8B8B00;'>باليستيات واقعية</b>، منتظراً بصبر <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>التسديدات المثالية</b>.<br>اختبر <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>لعباً مريحاً</b> متقطعاً بـ<b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>انفجارات من الإثارة</b> في هذه مغامرة الصيد المنهجية.</div>",
+    "ReleaseDate": "2020",
+    "CriticScore": 60,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Hunting%20Simulator%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Hunting%20Simulator%202%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Hunting%20Simulator%202%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Simulation"
+    ],
+    "DeveloperNames": [
+      "Neopica"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "15 GB",
+            "executable": "Hunter.exe",
+            "arguments": [],
+            "buildID": "25 March 2021",
+            "filename": "00227.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765535516990_3",
+    "Name": "Preserve",
+    "SortingName": "",
+    "Description": "Cultivate thriving <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>ecosystems</b> on <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>hexagonal tiles</b>, strategically placing <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>plants</b> and <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>animals</b> to create <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>perfect symbiosis</b> in this <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>relaxing puzzle game</b>.<br>Balance <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>delicate food chains</b> and <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>habitat requirements</b> as you watch your <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>vibrant nature reserve</b> flourish with life.<br>Master <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>clever placement mechanics</b> that offer more <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>design freedom</b> than typical puzzle games, creating <b style='color: #8B8B00; text-shadow: 0 0 8px #8B8B00;'>unique biomes</b> with each playthrough.<br>Experience a <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>chilled puzzle experience</b> with a <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>strict moral compass</b> celebrating <b style='color: #708090; text-shadow: 0 0 8px #708090;'>environmental harmony</b>.",
+    "DescriptionArabic": "<div dir='rtl'>ازرع <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>أنظمة بيئية</b> مزدهرة على <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>بلاطات سداسية</b>، واضعاً <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>النباتات</b> و<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الحيوانات</b> بشكل استراتيجي لخلق <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>تعايش مثالي</b> في هذه <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>لعبة الألغاز المريحة</b>.<br>وازن <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>سلاسل الغذاء الحساسة</b> و<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>متطلبات الموطن</b> بينما تشاهد <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>محميتك الطبيعية النابضة</b> تزدهر بالحياة.<br>أتقن <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>ميكانيكيات الوضع الذكية</b> التي تقدم المزيد من <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>حرية التصميم</b> من ألعاب الألغاز النموذجية، خالقاً <b style='color: #8B8B00; text-shadow: 0 0 8px #8B8B00;'>بيئات فريدة</b> مع كل تشغيلة.<br>اختبر <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>تجربة ألغاز باردة</b> مع <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>بوصلة أخلاقية صارمة</b> تحتفل بـ<b style='color: #708090; text-shadow: 0 0 8px #708090;'>التناغم البيئي</b>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 70,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Preserve%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Preserve%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Preserve%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Puzzle"
+    ],
+    "DeveloperNames": [
+      "Bitmap Galaxy"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Preserve.exe",
+            "arguments": [],
+            "buildID": "9 December 2025",
+            "filename": "00226.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765535516990_4",
+    "Name": "Rhythm Doctor",
+    "SortingName": "",
+    "Description": "Heal <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>cardiac patients</b> by pressing a <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>single button</b> on every <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>seventh beat</b>, mastering complex musical concepts in this minimalist <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>rhythm masterpiece</b>.<br>Navigate intricate <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>polyrhythms</b> and challenging <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>irregular time signatures</b> as you <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>defibrillate hearts</b> with perfect timing, each level teaching real <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>music theory</b> through gameplay.<br>Experience an <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>exceptional soundtrack</b> that blends diverse genres while you treat patients with unique <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>rhythm disorders</b>, building from <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>simple patterns</b> to mind-bending <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>musical chaos</b>.<br>Master this award-winning <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>one-button challenge</b> where <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>precision</b> and <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>musical understanding</b> become life-saving skills.",
+    "DescriptionArabic": "<div dir='rtl'>عالج <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>مرضى القلب</b> بالضغط على <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>زر واحد</b> في كل <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>إيقاع سابع</b>، متقناً المفاهيم الموسيقية المعقدة في هذه <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>تحفة الإيقاع البسيطة</b>.<br>تنقل عبر <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>الإيقاعات المتعددة</b> المعقدة و<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>التوقيعات الزمنية غير المنتظمة</b> الصعبة بينما <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>تزيل الرجفان من القلوب</b> بتوقيت مثالي، كل مستوى يعلّم <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>نظرية الموسيقى</b> الحقيقية من خلال اللعب.<br>اختبر <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>موسيقى تصويرية استثنائية</b> تمزج أنواعاً متنوعة بينما تعالج المرضى بـ<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>اضطرابات إيقاعية</b> فريدة، بناءً من <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>أنماط بسيطة</b> إلى <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>فوضى موسيقية</b> مذهلة.<br>أتقن هذا <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>تحدي الزر الواحد</b> الحائز على جوائز حيث <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>الدقة</b> و<b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>الفهم الموسيقي</b> يصبحان مهارات منقذة للحياة.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 100,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Rhythm%20Doctor%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Rhythm%20Doctor%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Rhythm%20Doctor%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Music"
+    ],
+    "DeveloperNames": [
+      "7th Beat Games"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Rhythm Doctor.exe",
+            "arguments": [],
+            "buildID": "8 December 2025",
+            "filename": "00225.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765535516990_5",
+    "Name": "Storm Lancers",
+    "SortingName": "",
+    "Description": "Blast through <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>80s-infused action</b> in this vibrant <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>roguelite shooter</b> where <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>co-op chaos</b> transforms simple runs into spectacular <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>power-up mayhem</b>.<br>Collect hundreds of <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>upgrades</b> and <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>synergistic combinations</b> as you mow down waves of enemies in <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>frenetic battles</b>, each run offering new <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>build possibilities</b>.<br>Experience <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>retro-styled visuals</b> that pop with <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>neon energy</b>, enhanced by <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>pulsing synthwave beats</b> that capture the glory of <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>arcade classics</b>.<br>Whether solo or with friends, unleash <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>devastating attacks</b> in this <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>nostalgic action romp</b> that shines brightest in multiplayer madness.",
+    "DescriptionArabic": "<div dir='rtl'>انفجر عبر <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>حركة مشبعة بالثمانينات</b> في هذا <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الروغ لايت المطلق</b> النابض حيث <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>فوضى التعاون</b> تحول المحاولات البسيطة إلى <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>فوضى التعزيزات</b> المذهلة.<br>اجمع مئات <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الترقيات</b> و<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>المجموعات التآزرية</b> بينما تحصد موجات الأعداء في <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>معارك محمومة</b>، كل محاولة تقدم <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>إمكانيات بناء</b> جديدة.<br>اختبر <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>مرئيات على طراز الريترو</b> التي تظهر بـ<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>طاقة نيون</b>، معززة بـ<b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>إيقاعات سينث ويف نابضة</b> التي تلتقط مجد <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>كلاسيكيات الأركيد</b>.<br>سواء منفرداً أو مع الأصدقاء، أطلق <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>هجمات مدمرة</b> في هذه <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>مغامرة الحركة الحنينية</b> التي تتألق بشدة في جنون اللاعبين المتعددين.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 60,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Storm%20Lancers%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Storm%20Lancers%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Storm%20Lancers%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "ProbablyMonsters"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "StormLancers.exe",
+            "arguments": [],
+            "buildID": "9 December 2025",
+            "filename": "00224.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765535516990_6",
+    "Name": "theHunter Call of the Wild",
+    "SortingName": "theHunter 02",
+    "Description": "Track wildlife through <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>vast open wilderness</b> spanning diverse ecosystems from <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>dense forests</b> to <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>arid plains</b>, experiencing the most <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>realistic hunting simulation</b> available.<br>Master <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>tracking skills</b> by reading <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>animal signs</b>, following <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>fresh tracks</b>, and understanding <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>wind direction</b> as you pursue <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>majestic animals</b> with authentic <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>hunting equipment</b>.<br>Immerse yourself in <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>atmospheric environments</b> with dynamic <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>weather systems</b> and <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>day-night cycles</b> that affect animal behavior in this <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>detailed simulation</b>.<br>Hunt solo or join friends in <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>multiplayer expeditions</b> across beautifully rendered <b style='color: #708090; text-shadow: 0 0 8px #708090;'>natural reserves</b>.",
+    "DescriptionArabic": "<div dir='rtl'>تتبع الحياة البرية عبر <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>البرية المفتوحة الشاسعة</b> الممتدة عبر نظم بيئية متنوعة من <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>الغابات الكثيفة</b> إلى <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>السهول القاحلة</b>، مختبراً <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>محاكاة الصيد الأكثر واقعية</b> المتاحة.<br>أتقن <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>مهارات التتبع</b> بقراءة <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>علامات الحيوانات</b>، متابعة <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الآثار الطازجة</b>، وفهم <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>اتجاه الرياح</b> بينما تطارد <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الحيوانات المهيبة</b> بـ<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>معدات صيد أصلية</b>.<br>انغمس في <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>بيئات جوية</b> مع <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>أنظمة طقس</b> ديناميكية و<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>دورات النهار والليل</b> التي تؤثر على سلوك الحيوانات في هذه <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>المحاكاة التفصيلية</b>.<br>اصطد منفرداً أو انضم للأصدقاء في <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>رحلات استكشافية متعددة اللاعبين</b> عبر <b style='color: #708090; text-shadow: 0 0 8px #708090;'>المحميات الطبيعية</b> المقدمة بشكل جميل.</div>",
+    "ReleaseDate": "2017",
+    "CriticScore": 70,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/theHunter%20Call%20of%20the%20Wild%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/theHunter%20Call%20of%20the%20Wild%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/theHunter%20Call%20of%20the%20Wild%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Simulation"
+    ],
+    "DeveloperNames": [
+      "Expansive Worlds"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "109 GB",
+            "executable": "theHunterCotW_F.exe",
+            "arguments": [],
+            "buildID": "9 December 2025",
+            "filename": "00223.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765535516990_7",
+    "Name": "theHunter Primal",
+    "SortingName": "theHunter 01",
+    "Description": "Hunt prehistoric beasts on <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Planet Primal Eden</b>, a <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>Cretaceous environment</b> teeming with <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>terrifying dinosaurs</b> including the mighty <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Tyrannosaurus Rex</b> and deadly <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Velociraptors</b>.<br>Stalk <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>five unique species</b> like the armored <b style='color: #8B8B00; text-shadow: 0 0 8px #8B8B00;'>Triceratops</b> and swift <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Utahraptor</b>, while dodging the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Menace of the Skies</b>—the massive <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Quetzalcoatlus</b>.<br>Master <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>survival tactics</b> in this <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>prehistoric hunting experience</b> where every encounter with <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>ancient predators</b> tests your skills.<br>Team up with friends in <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>co-op mode</b> to take down <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>apex dinosaurs</b> in this thrilling <b style='color: #708090; text-shadow: 0 0 8px #708090;'>time-travel hunting adventure</b>.",
+    "DescriptionArabic": "<div dir='rtl'>اصطد الوحوش ما قبل التاريخ على <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>كوكب إيدن البدائي</b>، <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>بيئة العصر الطباشيري</b> المليئة بـ<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الديناصورات المرعبة</b> بما في ذلك <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>تيرانوصور ريكس</b> العظيم و<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الفيلوسيرابتور</b> القاتل.<br>تعقب <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>خمسة أنواع فريدة</b> مثل <b style='color: #8B8B00; text-shadow: 0 0 8px #8B8B00;'>الترايسيراتوبس</b> المدرع و<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>اليوتارابتور</b> السريع، بينما تتفادى <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>تهديد السماء</b>—<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>الكيتزالكواتلوس</b> الهائل.<br>أتقن <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>تكتيكات البقاء</b> في هذه <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>تجربة الصيد ما قبل التاريخ</b> حيث كل مواجهة مع <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>المفترسات القديمة</b> تختبر مهاراتك.<br>تعاون مع الأصدقاء في <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>وضع التعاون</b> لإسقاط <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>ديناصورات القمة</b> في هذه <b style='color: #708090; text-shadow: 0 0 8px #708090;'>مغامرة الصيد عبر الزمن</b> المثيرة.</div>",
+    "ReleaseDate": "2015",
+    "CriticScore": 40,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/theHunter%20Primal%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/theHunter%20Primal%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/theHunter%20Primal%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Shooter"
+    ],
+    "DeveloperNames": [
+      "Expansive Worlds"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "game\\theHunterPrimal.exe",
+            "arguments": [],
+            "buildID": "21 February 2017",
+            "filename": "00222.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765538303520_0",
+    "Name": "GNOSIA",
+    "SortingName": "",
+    "Description": "Trapped in a <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>time loop</b> aboard a drifting spaceship, identify the <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>alien Gnosia</b> hiding among your <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>crew members</b> before they eliminate everyone in this single-player <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>social deduction RPG</b>.<br>Participate in <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>tense discussions</b> where you debate, accuse, and vote to place <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>suspicious individuals</b> into <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>cold sleep</b>, with each <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>unique role</b> offering different abilities and strategies.<br>Evolve your <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>character stats</b> across hundreds of <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>loop cycles</b>, building relationships with <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>14 distinct characters</b> while gradually uncovering the <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>deeper mystery</b> behind the loops.<br>Experience an <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>intriguing narrative</b> that slowly reveals its <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>profound truths</b> in this innovative blend of <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>werewolf-style gameplay</b> and visual novel storytelling.",
+    "DescriptionArabic": "<div dir='rtl'>محاصر في <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>حلقة زمنية</b> على متن سفينة فضاء تائهة، حدد <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الغنوسيا الفضائيين</b> المختبئين بين <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>أفراد الطاقم</b> قبل أن يقضوا على الجميع في هذه <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>لعبة تقمص أدوار الاستنتاج الاجتماعي</b> للاعب واحد.<br>شارك في <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>مناقشات متوترة</b> حيث تناقش، تتهم، وتصوت لوضع <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الأفراد المشبوهين</b> في <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>النوم البارد</b>، مع كل <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>دور فريد</b> يقدم قدرات واستراتيجيات مختلفة.<br>طور <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>إحصائيات شخصيتك</b> عبر مئات <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>دورات الحلقة</b>، بانياً علاقات مع <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>14 شخصية مميزة</b> بينما تكشف تدريجياً <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>الغموض الأعمق</b> وراء الحلقات.<br>اختبر <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>سرداً مثيراً</b> يكشف ببطء <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>حقائقه العميقة</b> في هذا المزيج المبتكر من <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>لعب على طراز الذئب</b> وسرد الرواية المرئية.</div>",
+    "ReleaseDate": "2022",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/GNOSIA%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/GNOSIA%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/GNOSIA%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Visual Novel"
+    ],
+    "DeveloperNames": [
+      "Petit Depotto"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "800 MB",
+            "executable": "Gnosia.exe",
+            "arguments": [],
+            "buildID": "7 October 2025",
+            "filename": "00230.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765538524226_0",
+    "Name": "Trauma Center Under the Knife 2",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Trauma%20Center%20Under%20the%20Knife%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Trauma%20Center%20Under%20the%20Knife%202%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Trauma%20Center%20Under%20the%20Knife%202%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo DS"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo DS": {
+        "versions": [
+          {
+            "identifier": "retro-nitro",
+            "name": "Vanilla",
+            "platform": "Nintendo DS",
+            "fileSize": "120 MB",
+            "arguments": [
+              "-L",
+              ".\\cores\\melonds_libretro.dll"
+            ],
+            "emulator": "RetroArch",
+            "romFiles": [
+              "Trauma Center Under the Knife 2.nds",
+              "Trauma Center Under The Knife 2 [Japanese VA].nds"
+            ],
+            "romLabels": [
+              "English VA",
+              "Japanese VA"
+            ],
+            "filename": "Trauma Center Under the Knife 2.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765538524226_1",
+    "Name": "Trauma Center Under the Knife",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Trauma%20Center%20Under%20the%20Knife%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Trauma%20Center%20Under%20the%20Knife%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Trauma%20Center%20Under%20the%20Knife%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo DS"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo DS": {
+        "versions": [
+          {
+            "identifier": "retro-nitro",
+            "name": "Vanilla",
+            "platform": "Nintendo DS",
+            "fileSize": "20 MB",
+            "arguments": [
+              "-L",
+              ".\\cores\\melonds_libretro.dll"
+            ],
+            "romFile": "Trauma Center Under the Knife.nds",
+            "emulator": "RetroArch",
+            "filename": "Trauma Center Under the Knife.nds"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765539312866_0",
+    "Name": "Trauma Center New Blood",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Trauma%20Center%20New%20Blood%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Trauma%20Center%20New%20Blood%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Trauma%20Center%20New%20Blood%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo Wii"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Wii": {
+        "versions": [
+          {
+            "identifier": "W05E05",
+            "name": "Vanilla",
+            "platform": "Nintendo Wii",
+            "fileSize": "3 GB",
+            "arguments": [],
+            "emulator": "Dolphin",
+            "romFile": "Trauma Center New Blood.rvz",
+            "filename": "Trauma Center New Blood.rvz"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765539312866_1",
+    "Name": "Trauma Center Second Opinion",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Trauma%20Center%20Second%20Opinion%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Trauma%20Center%20Second%20Opinion%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Trauma%20Center%20Second%20Opinion%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo Wii"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Wii": {
+        "versions": [
+          {
+            "identifier": "W05E05",
+            "name": "Vanilla",
+            "platform": "Nintendo Wii",
+            "fileSize": "710 MB",
+            "arguments": [],
+            "emulator": "Dolphin",
+            "romFile": "Trauma Center Second Opinion.rvz",
+            "filename": "Trauma Center Second Opinion.rvz"
+          }
+        ]
+      }
+    }
   }
 ]
