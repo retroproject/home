@@ -137506,9 +137506,9 @@
     "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Demonschool%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Demonschool%20Cover.jpg",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Demonschool%20Trailer.mp4",
     "videoStart": null,
-    "videoEnd": null,
+    "videoEnd": 84.133021,
     "MusicUrl": "https://archive.org/download/RPRM001/Demonschool%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -137545,9 +137545,9 @@
     "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Terminator%202D%20NO%20FATE%20Background.jpeg",
     "CoverUrl": "https://archive.org/download/RPRM001/Terminator%202D%20NO%20FATE%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Terminator%202D%20NO%20FATE%20Trailer.mp4",
+    "videoStart": 7.3,
+    "videoEnd": 58.715639,
     "MusicUrl": "https://archive.org/download/RPRM001/Terminator%202D%20NO%20FATE%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
