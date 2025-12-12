@@ -137206,10 +137206,10 @@
     "CriticScore": 40,
     "BackgroundUrl": "https://archive.org/download/RPRM001/theHunter%20Primal%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/theHunter%20Primal%20Cover.jpg",
-    "YouTubeUrl": "https://archive.org/download/RPRM001/theHunter%20Primal%20Trailer.mp4",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/TheHunter%20Primal%20Trailer.mp4",
     "videoStart": 9,
     "videoEnd": null,
-    "MusicUrl": "https://archive.org/download/RPRM001/theHunter%20Primal%20Theme.mp3",
+    "MusicUrl": "https://archive.org/download/RPRM001/TheHunter%20Primal%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
     ],
@@ -137495,5 +137495,83 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1765577271898_0",
+    "Name": "Demonschool",
+    "SortingName": "",
+    "Description": "Join <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Faye</b>, an enthusiastic <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>demon hunter</b> arriving at the mysterious academy on <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Hemsk Island</b> with only <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>11 weeks</b> to prevent an impending <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>apocalypse</b>.<br>The year is 1999, and as <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Y2K</b> approaches, <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>demon portals</b> are tearing through reality across the island.<br>Command your squad of <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>misfit students</b> through <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>tactical battles</b> that blend <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>strategic planning</b> with simultaneous execution.<br>Navigate the <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>dual worlds</b> between human reality and <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>demonic dimensions</b> as ancient conspiracies unravel.<br>Build relationships with fellow demon hunters while balancing university life and world-saving missions.<br>Each combat encounter requires careful positioning and timing as you coordinate attacks across <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>gridded battlefields</b>.<br>Uncover the truth behind Hemsk Island's dark history and the forces orchestrating the <b style='color: #C71585; text-shadow: 0 0 8px #C71585;'>dimensional collapse</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>انضم إلى <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>فاي</b>، <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>صائدة الشياطين</b> المتحمسة التي تصل إلى الأكاديمية الغامضة في <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>جزيرة هيمسك</b> مع <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>11 أسبوعاً</b> فقط لمنع <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>نهاية العالم</b> الوشيكة.<br>العام هو 1999، ومع اقتراب <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Y2K</b>، تمزق <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>بوابات الشياطين</b> الواقع عبر الجزيرة.<br>قُد فريقك من <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الطلاب المنبوذين</b> عبر <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>معارك تكتيكية</b> تمزج <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>التخطيط الاستراتيجي</b> مع التنفيذ المتزامن.<br>اجتز <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>العالمين المزدوجين</b> بين الواقع البشري و<b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>الأبعاد الشيطانية</b> بينما تتكشف المؤامرات القديمة.<br>ابنِ علاقات مع زملائك صائدي الشياطين بينما توازن بين الحياة الجامعية ومهام إنقاذ العالم.<br>كل مواجهة قتالية تتطلب تموضعاً وتوقيتاً دقيقاً بينما تنسق الهجمات عبر <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>ساحات المعارك الشبكية</b>.<br>اكتشف الحقيقة وراء تاريخ جزيرة هيمسك المظلم والقوى التي تنسق <b style='color: #C71585; text-shadow: 0 0 8px #C71585;'>انهيار الأبعاد</b>.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Demonschool%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Demonschool%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Demonschool%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Strategy"
+    ],
+    "DeveloperNames": [
+      "Necrosoft Games"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "00231.zip",
+            "executable": "Demonschool.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765577271898_1",
+    "Name": "Terminator 2D NO FATE",
+    "SortingName": "",
+    "Description": "Battle through the apocalyptic war between humanity and <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Skynet</b> in this intense side-scrolling action experience.<br>Navigate high-speed <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>car chases</b> evading the relentless <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>T-1000</b> <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>liquid metal assassin</b> across Los Angeles highways.<br>Switch between run-and-gun shooting segments and brutal <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>beat-em-up brawls</b> in dingy bars and industrial facilities.<br>Command powerful weapons to blast through waves of <b style='color: #708090; text-shadow: 0 0 8px #708090;'>endoskeletons</b> and <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>future war machines</b>.<br>The missions span both the present-day struggle and the devastated <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>future battlefields</b> of <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>2029</b>.<br>Protect <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>John Connor</b> from the <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>unstoppable killing machine</b> hunting him through time.<br>Face off against the T-1000 in explosive <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>boss encounters</b> that test your reflexes and pattern recognition.<br>Commandeer vehicles and unleash <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>vehicular destruction</b> while fleeing from pursuing <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Terminators</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>قاتل عبر الحرب المروعة بين البشرية و<b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>سكاينت</b> في هذه التجربة الجانبية المكثفة.<br>اجتز <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>مطاردات السيارات</b> عالية السرعة متهرباً من <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>T-1000</b> <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>القاتل المعدني السائل</b> اللا هوادة له عبر طرق لوس أنجلوس السريعة.<br>تبديل بين مقاطع إطلاق النار و<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>معارك الضرب</b> الوحشية في الحانات القذرة والمنشآت الصناعية.<br>تحكم في أسلحة قوية لتفجير موجات من <b style='color: #708090; text-shadow: 0 0 8px #708090;'>الهياكل العظمية الآلية</b> و<b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>آلات الحرب المستقبلية</b>.<br>تمتد المهام بين الصراع في الوقت الحاضر و<b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>ساحات المعارك المستقبلية</b> المدمرة في <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>2029</b>.<br>احمِ <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>جون كونور</b> من <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>آلة القتل التي لا تُوقف</b> التي تطارده عبر الزمن.<br>واجه T-1000 في <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>مواجهات الزعماء</b> المتفجرة التي تختبر ردود أفعالك وتمييز الأنماط.<br>استولِ على المركبات وأطلق <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>الدمار المركبي</b> أثناء الفرار من <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>المدمرين</b> المطاردين.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Terminator%202D%20NO%20FATE%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Terminator%202D%20NO%20FATE%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Terminator%202D%20NO%20FATE%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Run and Gun"
+    ],
+    "DeveloperNames": [
+      "Bitmap Bureau"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "620 MB",
+            "filename": "00232.zip",
+            "executable": "Terminator 2D NO FATE.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
