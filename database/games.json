@@ -137084,8 +137084,8 @@
     "BackgroundUrl": "https://archive.org/download/RPRM001/Rhythm%20Doctor%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Rhythm%20Doctor%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Rhythm%20Doctor%20Trailer.mp4",
-    "videoStart": null,
-    "videoEnd": 79.748657,
+    "videoStart": 38.7,
+    "videoEnd": 79.4,
     "MusicUrl": "https://archive.org/download/RPRM001/Rhythm%20Doctor%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
