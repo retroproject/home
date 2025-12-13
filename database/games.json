@@ -137617,5 +137617,520 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1765622684035_0",
+    "Name": "Alisa",
+    "SortingName": "",
+    "Description": "Play as <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Alisa</b>, an <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Elite Royal Agent</b> pursuing a dangerous criminal into a decrepit <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Victorian mansion</b> filled with horrifying <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>mechanized dolls</b>.<br>Navigate through candlelit halls using <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>fixed camera perspectives</b> while solving <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>intricate puzzles</b> to unlock new areas of the sprawling estate.<br>Manage <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>limited resources</b> including ammunition and healing items as grotesque <b style='color: #708090; text-shadow: 0 0 8px #708090;'>humanoid automatons</b> hunt you relentlessly.<br>Face deadly encounters requiring precise aim and strategic decision-making about when to fight or flee through <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>interconnected rooms</b>.<br>Uncover <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>dark secrets</b> through <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>environmental storytelling</b> that reveals the mansion's twisted history.<br>Confront <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>nightmarish bosses</b> in pulse-pounding battles testing your survival skills and resourcefulness.<br>",
+    "DescriptionArabic": "<div dir='rtl'>العب دور <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>أليسا</b>، <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>عميلة ملكية نخبوية</b> تطارد مجرماً خطيراً إلى <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>قصر فيكتوري</b> متداعٍ مليء بـ<b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>دمى آلية</b> مرعبة.<br>اجتز القاعات المضاءة بالشموع باستخدام <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>كاميرات ثابتة</b> بينما تحل <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>ألغازاً معقدة</b> لفتح مناطق جديدة من العقار الشاسع.<br>أدر <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>موارد محدودة</b> تشمل الذخيرة وأدوات الشفاء بينما <b style='color: #708090; text-shadow: 0 0 8px #708090;'>آليات بشرية</b> بشعة تطاردك بلا هوادة.<br>واجه مواجهات قاتلة تتطلب تصويباً دقيقاً واتخاذ قرارات استراتيجية حول متى تقاتل أو تهرب عبر <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>غرف مترابطة</b>.<br>اكتشف <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>أسراراً مظلمة</b> من خلال <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>السرد البيئي</b> الذي يكشف تاريخ القصر الملتوي.<br>واجه <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>زعماء كابوسيين</b> في معارك نابضة تختبر مهارات البقاء وسعة الحيلة لديك.<br></div>",
+    "ReleaseDate": "2024",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Alisa%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Alisa%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Alisa%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": 45.92907,
+    "MusicUrl": "https://archive.org/download/RPRM001/Alisa%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "Casper Croes"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "550 MB",
+            "executable": "Alisa.exe",
+            "arguments": [],
+            "buildID": "16 August 2023",
+            "filename": "00234.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765622684035_1",
+    "Name": "Lost in Vivo",
+    "SortingName": "",
+    "Description": "Chase your beloved <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>service dog</b> into <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>storm-flooded sewers</b> as the environment transforms into a surreal and unwelcoming nightmare realm.<br>Navigate <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>claustrophobic corridors</b> and <b style='color: #708090; text-shadow: 0 0 8px #708090;'>rusty hallways</b> rendered in haunting <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>low-poly visuals</b> that evoke deep psychological dread.<br>Solve environmental puzzles while managing <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>limited ammunition</b> for your firearms and utilizing <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>melee weapons</b> against grotesque threats.<br>Experience oppressive atmosphere through <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>brutal sound design</b> and <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>haunting musical scores</b> that amplify the terror.<br>Uncover hidden <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>VHS tapes</b> offering optional levels and discover <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>multiple endings</b> based on your choices.<br>Confront your deepest fears in this <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>psychological nightmare</b> where reality fractures and nothing is as it seems.<br>",
+    "DescriptionArabic": "<div dir='rtl'>طارد <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>كلب الخدمة</b> الحبيب إلى <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>مجارٍ غمرتها العاصفة</b> بينما تتحول البيئة إلى عالم كابوسي سريالي وغير مرحب.<br>اجتز <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>ممرات ضيقة</b> و<b style='color: #708090; text-shadow: 0 0 8px #708090;'>ممرات صدئة</b> مقدمة في <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>رسومات منخفضة البوليجون</b> مخيفة تثير رهبة نفسية عميقة.<br>حل الألغاز البيئية مع إدارة <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>ذخيرة محدودة</b> لأسلحتك النارية واستخدام <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>أسلحة قتالية</b> ضد تهديدات بشعة.<br>اختبر أجواءً قمعية من خلال <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>تصميم صوتي وحشي</b> و<b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>موسيقى تصويرية مخيفة</b> تضخم الرعب.<br>اكتشف <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>أشرطة VHS</b> مخفية تقدم مستويات اختيارية واكتشف <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>نهايات متعددة</b> بناءً على اختياراتك.<br>واجه أعمق مخاوفك في هذا <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الكابوس النفسي</b> حيث يتصدع الواقع ولا شيء كما يبدو.<br></div>",
+    "ReleaseDate": "2018",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Lost%20in%20Vivo%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Lost%20in%20Vivo%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Lost%20in%20Vivo%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Lost%20in%20Vivo%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "KIRA"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "950 MB",
+            "executable": "LIV.exe",
+            "arguments": [],
+            "buildID": "8 May 2023",
+            "filename": "00235.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765622684035_2",
+    "Name": "Metro Gravity",
+    "SortingName": "",
+    "Description": "Traverse <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>zero-gravity environments</b> where walls become floors and ceilings become platforms in this mind-bending <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>3D platformer</b>.<br>Navigate <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>interconnected map design</b> by walking on any surface, defying conventional physics in surreal <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>retro-inspired visuals</b>.<br>Engage in <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>rhythm-based combat</b> that forces you to move and attack to the beat, combining <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>high-precision timing</b> with acrobatic movement.<br>Explore sprawling locations rendered in a <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>low-poly aesthetic</b> enhanced with <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>real-time lighting</b> and <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>volumetric fog</b>.<br>Uncover <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>compelling lore</b> scattered throughout the world while mastering <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>fluid movement mechanics</b>.<br>Experience this <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>musical adventure</b> where every action synchronizes with the soundtrack in perfect harmony.<br>",
+    "DescriptionArabic": "<div dir='rtl'>اجتز <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>بيئات انعدام الجاذبية</b> حيث تصبح الجدران أرضيات والأسقف منصات في هذه <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>لعبة منصات ثلاثية الأبعاد</b> المذهلة.<br>تنقل عبر <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>تصميم خريطة مترابطة</b> بالمشي على أي سطح، متحدياً الفيزياء التقليدية في <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>رسومات ريترو سريالية</b>.<br>شارك في <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>قتال قائم على الإيقاع</b> يجبرك على التحرك والهجوم على الإيقاع، مع الجمع بين <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>توقيت عالي الدقة</b> وحركة بهلوانية.<br>استكشف مواقع شاسعة مقدمة في <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>جماليات منخفضة البوليجون</b> معززة بـ<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>إضاءة في الوقت الفعلي</b> و<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>ضباب حجمي</b>.<br>اكتشف <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>قصة مقنعة</b> منتشرة في جميع أنحاء العالم بينما تتقن <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>آليات حركة متدفقة</b>.<br>اختبر هذه <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>المغامرة الموسيقية</b> حيث يتزامن كل إجراء مع الموسيقى التصويرية في انسجام تام.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Metro%20Gravity%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Metro%20Gravity%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Metro%20Gravity%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Metro%20Gravity%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Platformer"
+    ],
+    "DeveloperNames": [
+      "Atrium Interactive"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "960 MB",
+            "executable": "MetroGravia.exe",
+            "arguments": [],
+            "buildID": "23 September 2025",
+            "filename": "00236.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765622684035_3",
+    "Name": "Mirthwood",
+    "SortingName": "",
+    "Description": "Build your homestead in a <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>hand-drawn fantasy world</b> that unfolds like a <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>pop-up storybook</b>, blending cozy life simulation with adventure.<br>Cultivate <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>bountiful crops</b>, raise livestock, and craft essential goods while managing your <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>thriving farm</b> through changing seasons.<br>Venture into the <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>open wilderness</b> to engage in <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>tactical combat</b>, hunt dangerous beasts, and gather rare resources.<br>Forge meaningful <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>relationships</b> with colorful villagers, each with their own stories, while uncovering <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>dark secrets</b> lurking beneath the surface.<br>Explore <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>mysterious dungeons</b>, complete <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>village quests</b>, and shape your own story in this <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>sandbox RPG</b>.<br>Experience true freedom as you balance <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>peaceful farming</b> with thrilling adventures in a world that reacts to your choices.<br>",
+    "DescriptionArabic": "<div dir='rtl'>ابنِ منزلك في <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>عالم خيالي مرسوم يدوياً</b> ينكشف مثل <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>كتاب قصص منبثق</b>، يمزج محاكاة الحياة المريحة مع المغامرة.<br>ازرع <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>محاصيل وفيرة</b>، وربِّ الماشية، واصنع السلع الأساسية بينما تدير <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>مزرعتك المزدهرة</b> عبر المواسم المتغيرة.<br>اغامر في <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>البرية المفتوحة</b> للانخراط في <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>قتال تكتيكي</b>، واصطد الوحوش الخطيرة، واجمع موارد نادرة.<br>اصنع <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>علاقات</b> ذات معنى مع القرويين الملونين، كل منهم له قصصه الخاصة، بينما تكشف <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>أسراراً مظلمة</b> كامنة تحت السطح.<br>استكشف <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>زنزانات غامضة</b>، أكمل <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>مهام القرية</b>، واصنع قصتك الخاصة في هذه <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>لعبة آر بي جي الرملية</b>.<br>اختبر الحرية الحقيقية بينما توازن بين <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الزراعة السلمية</b> والمغامرات المثيرة في عالم يتفاعل مع اختياراتك.<br></div>",
+    "ReleaseDate": "2024",
+    "CriticScore": 60,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Mirthwood%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Mirthwood%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Mirthwood%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": 87.026657,
+    "MusicUrl": "https://archive.org/download/RPRM001/Mirthwood%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "RPG"
+    ],
+    "DeveloperNames": [
+      "Bad Ridge Games"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "Mirthwood.exe",
+            "arguments": [],
+            "buildID": "8 December 2025",
+            "filename": "00237.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765622684035_4",
+    "Name": "Plants vs Zombies Replanted",
+    "SortingName": "",
+    "Description": "Defend your backyard from relentless <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>zombie hordes</b> using an arsenal of powerful <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>defensive plants</b> in this beloved <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>lane-based strategy</b> classic.<br>Plant <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>sunflower gardens</b> to generate resources, deploy <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>peashooters</b>, and strategically place <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>explosive plants</b> to halt the undead invasion.<br>Experience the battle bigger and brighter with stunning <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>upscaled HD graphics</b>, <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>bonus levels</b>, and fresh twists on the classic formula.<br>Team up in <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>local co-op mode</b> to defend together, coordinating plant placement across shared lawns.<br>Unlock <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>never-before-seen content</b> including concept art, pre-production sketches, and 15 years of franchise history.<br>Master diverse strategies across <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>varied environments</b> from front lawns to rooftops in this definitive edition.<br>",
+    "DescriptionArabic": "<div dir='rtl'>دافع عن حديقتك الخلفية من <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>حشود الزومبي</b> اللا هوادة فيها باستخدام ترسانة من <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>النباتات الدفاعية</b> القوية في هذه <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الاستراتيجية القائمة على المسارات</b> الكلاسيكية المحبوبة.<br>ازرع <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>حدائق عباد الشمس</b> لتوليد الموارد، وانشر <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>رماة البازلاء</b>، وضع بشكل استراتيجي <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>نباتات متفجرة</b> لوقف غزو الموتى الأحياء.<br>اختبر المعركة بشكل أكبر وأكثر إشراقاً مع <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>رسومات HD محسّنة</b> مذهلة و<b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>مستويات إضافية</b> ولمسات جديدة على الصيغة الكلاسيكية.<br>تعاون في <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>وضع التعاون المحلي</b> للدفاع معاً، بتنسيق وضع النباتات عبر المروج المشتركة.<br>افتح <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>محتوى لم يُشاهد من قبل</b> بما في ذلك فنون المفاهيم والرسومات التحضيرية و15 عاماً من تاريخ السلسلة.<br>أتقن استراتيجيات متنوعة عبر <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>بيئات متنوعة</b> من المروج الأمامية إلى الأسطح في هذه النسخة النهائية.<br></div>",
+    "ReleaseDate": "2024",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Plants%20vs%20Zombies%20Replanted%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Plants%20vs%20Zombies%20Replanted%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Plants%20vs%20Zombies%20Replanted%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": 86.308571,
+    "MusicUrl": "https://archive.org/download/RPRM001/Plants%20vs%20Zombies%20Replanted%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Tower Defense"
+    ],
+    "DeveloperNames": [
+      "PopCap Games"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Replanted.exe",
+            "arguments": [],
+            "buildID": "10 December 2025",
+            "filename": "00238.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765622684035_5",
+    "Name": "Total Chaos",
+    "SortingName": "",
+    "Description": "Awaken in a <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>desolate post-apocalyptic wasteland</b> with no memory, armed only with <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>makeshift weapons</b> and your wits.<br>Scavenge through <b style='color: #708090; text-shadow: 0 0 8px #708090;'>decaying industrial facilities</b> and <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>abandoned structures</b> searching for resources, answers, and a way to survive.<br>Face <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>psychological horrors</b> that blur the line between reality and nightmare as you uncover the truth behind the <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>catastrophic event</b>.<br>Manage <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>limited ammunition</b> and health while navigating through nine chapters of <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>oppressive atmosphere</b> and relentless tension.<br>Experience <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>environmental storytelling</b> that reveals a haunting narrative through <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>decayed remnants</b> of civilization.<br>Confront grotesque threats in this <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>survival horror</b> journey where every shadow hides danger and every sound signals dread.<br>",
+    "DescriptionArabic": "<div dir='rtl'>استيقظ في <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>قفر ما بعد نهاية العالم</b> المقفر بدون ذاكرة، مسلحاً فقط بـ<b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>أسلحة مؤقتة</b> وذكائك.<br>ابحث عن الموارد في <b style='color: #708090; text-shadow: 0 0 8px #708090;'>منشآت صناعية متحللة</b> و<b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>هياكل مهجورة</b> بحثاً عن الموارد والإجابات وطريقة للبقاء.<br>واجه <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>أهوال نفسية</b> تطمس الخط الفاصل بين الواقع والكابوس بينما تكتشف الحقيقة وراء <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الحدث الكارثي</b>.<br>أدر <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>ذخيرة محدودة</b> وصحة بينما تتنقل عبر تسعة فصول من <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>الأجواء القمعية</b> والتوتر المستمر.<br>اختبر <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>السرد البيئي</b> الذي يكشف قصة مؤلمة من خلال <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>بقايا متحللة</b> من الحضارة.<br>واجه تهديدات بشعة في رحلة <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>رعب البقاء</b> هذه حيث كل ظل يخفي خطراً وكل صوت يشير إلى الرهبة.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Total%20Chaos%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Total%20Chaos%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Total%20Chaos%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": 92.78156,
+    "MusicUrl": "https://archive.org/download/RPRM001/Total%20Chaos%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "Trigger Happy Interactive"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "22 GB",
+            "executable": "Total Chaos.exe",
+            "arguments": [],
+            "buildID": "12 December 2025",
+            "filename": "00239.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765624019294_0",
+    "Name": "Heartworm",
+    "SortingName": "",
+    "Description": "In Heartworm, grief-stricken <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Sam</b> searches for a way to reconnect with her deceased <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>grandfather</b>.<br>Her desperate quest leads her into a dark <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>internet rabbit hole</b>, where she discovers a <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>mysterious forum</b> claiming to offer contact with the dead.<br>Armed only with a <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>camera</b>, Sam must confront <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>malevolent entities</b> in this retro-styled <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>psychological survival horror</b>.<br>Navigate through <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>shadowy environments</b> with <b style='color: #696969; text-shadow: 0 0 8px #696969;'>fixed camera angles</b> that evoke '90s classics.<br>Your photographic weapon captures and dispels <b style='color: #800080; text-shadow: 0 0 8px #800080;'>supernatural threats</b> as you uncover dark truths.<br>Explore a world where <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>grief</b> and <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>terror</b> intertwine, leading to <b style='color: #483D8B; text-shadow: 0 0 8px #483D8B;'>multiple endings</b> based on your choices.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في لعبة Heartworm، تبحث <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>سام</b> المكلومة عن طريقة للتواصل مع <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>جدها</b> المتوفى.<br>تقودها رحلتها اليائسة إلى <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>أعماق الإنترنت المظلمة</b>، حيث تكتشف <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>منتدى غامضاً</b> يزعم إمكانية الاتصال بالموتى.<br>مسلحة فقط <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>بكاميرا</b>، على سام مواجهة <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>كيانات شريرة</b> في هذا <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>الرعب النفسي الكلاسيكي</b>.<br>تجول عبر <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>بيئات مظلمة</b> مع <b style='color: #696969; text-shadow: 0 0 8px #696969;'>زوايا كاميرا ثابتة</b> تستحضر كلاسيكيات التسعينات.<br>سلاحك الفوتوغرافي يلتقط ويبدد <b style='color: #800080; text-shadow: 0 0 8px #800080;'>التهديدات الخارقة</b> بينما تكشف حقائق مظلمة.<br>استكشف عالماً يتشابك فيه <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>الحزن</b> و<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الرعب</b>، مما يؤدي إلى <b style='color: #483D8B; text-shadow: 0 0 8px #483D8B;'>نهايات متعددة</b> بناءً على اختياراتك.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Heartworm%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Heartworm%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Heartworm%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": 71.354921,
+    "MusicUrl": "https://archive.org/download/RPRM001/Heartworm%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "Vincent Adinolfi"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "8 GB",
+            "filename": "00240.zip",
+            "executable": "Heartworm.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765629185726_0",
+    "Name": "Dreamfall Chapters",
+    "SortingName": "The Longest Journey 03",
+    "Description": "<b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Zoe Castillo</b> awakens from her coma to find herself thrust into a world of <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>political intrigue</b> and <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>magical conflicts</b>.<br>This episodic conclusion follows Zoe and <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Kian Alvane</b> as they navigate the aftermath of previous events.<br>In <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Europolis</b>, Zoe joins a <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>resistance movement</b> fighting corporate tyranny.<br>Meanwhile in <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Arcadia</b>, Kian questions his faith as the magical realm faces its <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>darkest hour</b>.<br>Make meaningful choices that shape the <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>branching narrative</b> across five episodic books.<br>Explore themes of <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>identity</b>, <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>freedom</b>, and <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>sacrifice</b> in this emotionally rich finale.<br>Witness the <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>Balance</b> restored as multiple storylines converge in an <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>epic conclusion</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>تستيقظ <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>زوي كاستيلو</b> من غيبوبتها لتجد نفسها في عالم من <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>المؤامرات السياسية</b> و<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>الصراعات السحرية</b>.<br>هذه النهاية التسلسلية تتبع زوي و<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>كيان ألفان</b> وهما يتنقلان في أعقاب الأحداث السابقة.<br>في <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>يوروبوليس</b>، تنضم زوي إلى <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>حركة مقاومة</b> تحارب الطغيان المؤسسي.<br>في الوقت نفسه في <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>أركاديا</b>، يشكك كيان في إيمانه بينما يواجه العالم السحري <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>أحلك ساعاته</b>.<br>اتخذ خيارات ذات مغزى تشكل <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>السرد المتفرع</b> عبر خمسة كتب تسلسلية.<br>استكشف موضوعات <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>الهوية</b> و<b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>الحرية</b> و<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>التضحية</b> في هذه النهاية الغنية عاطفياً.<br>شاهد <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>التوازن</b> يُستعاد بينما تتلاقى خطوط القصة المتعددة في <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>نهاية ملحمية</b>.<br></div>",
+    "ReleaseDate": "2014",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Dreamfall%20Chapters%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Dreamfall%20Chapters%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Dreamfall%20Chapters%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Red Thread Games"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "20 GB",
+            "executable": "Dreamfall Chapters.exe",
+            "arguments": [],
+            "buildID": "12 October 2018",
+            "filename": "00241.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765629185726_1",
+    "Name": "Dreamfall The Longest Journey",
+    "SortingName": "The Longest Journey 02",
+    "Description": "Former student <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Zoe Castillo</b> is drawn into a <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>dark conspiracy</b> while searching for her missing ex-boyfriend.<br>Her desperate investigation leads her to cross paths with <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>April Ryan</b>, now living in hiding in magical <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Arcadia</b>.<br>Experience the story through three distinct perspectives: Zoe in futuristic <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Stark</b>, April in Arcadia, and <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Kian Alvane</b>, a conflicted <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>Azadi assassin</b>.<br>Navigate through surreal <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>dreamlike sequences</b>, uncovering a sinister plot involving mysterious <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>dream machines</b>.<br>Blend exploration, challenging puzzles, and <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>stealth gameplay</b> in this cinematic continuation.<br>The fate of <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>parallel worlds</b> hangs in the balance as <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>ancient powers</b> awaken and <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>dangerous secrets</b> threaten reality.<br>",
+    "DescriptionArabic": "<div dir='rtl'>تنجذب الطالبة السابقة <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>زوي كاستيلو</b> إلى <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>مؤامرة مظلمة</b> أثناء بحثها عن صديقها السابق المفقود.<br>يقودها تحقيقها اليائس إلى التقاطع مع <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>أبريل رايان</b>، التي تعيش الآن مختبئة في <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>أركاديا</b> السحرية.<br>عش القصة من خلال ثلاث وجهات نظر متميزة: زوي في <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>ستارك</b> المستقبلية، أبريل في أركاديا، و<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>كيان ألفان</b>، <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>قاتل الأزادي</b> المتضارب.<br>تنقل عبر <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>تسلسلات تشبه الأحلام</b> السريالية، لتكشف عن مؤامرة شريرة تنطوي على <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>آلات الأحلام</b> الغامضة.<br>امزج الاستكشاف والألغاز الصعبة و<b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>أسلوب اللعب التخفي</b> في هذا الاستمرار السينمائي.<br>مصير <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>العوالم المتوازية</b> معلق في الميزان بينما تستيقظ <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>القوى القديمة</b> وتهدد <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>الأسرار الخطيرة</b> الواقع.<br></div>",
+    "ReleaseDate": "2006",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Dreamfall%20The%20Longest%20Journey%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Dreamfall%20The%20Longest%20Journey%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Dreamfall%20The%20Longest%20Journey%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Funcom"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "executable": "dreamfall.exe",
+            "arguments": [],
+            "buildID": "1 May 2014",
+            "filename": "00242.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765629185726_2",
+    "Name": "Still Life",
+    "SortingName": "Still Life 01",
+    "Description": "FBI agent <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Victoria McPherson</b> investigates a chilling <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>serial killer</b> who meticulously poses victims as macabre works of art.<br>The investigation intertwines with haunting flashbacks to her grandfather <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>Gustav McPherson</b>, a detective in 1920s <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Prague</b> hunting a strikingly similar murderer.<br>Alternate between two timelines, uncovering disturbing connections between past and present <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>murder cases</b>.<br>Examine gruesome <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>crime scenes</b>, meticulously analyze evidence, and interrogate suspects in this dark <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>noir thriller</b>.<br>Navigate through <b style='color: #483D8B; text-shadow: 0 0 8px #483D8B;'>atmospheric locations</b> spanning modern Chicago and historical Prague.<br>Solve intricate puzzles while racing against time to prevent another victim.<br>Experience a gripping <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>detective narrative</b> exploring themes of <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>obsession</b>, <b style='color: #696969; text-shadow: 0 0 8px #696969;'>legacy</b>, and <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>artistic madness</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>تحقق عميلة الـFBI <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>فيكتوريا ماكفرسون</b> في <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>قاتل متسلسل</b> مخيف يرتب الضحايا بدقة كأعمال فنية مروعة.<br>يتشابك التحقيق مع ذكريات مؤلمة لجدها <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>غوستاف ماكفرسون</b>، محقق في عشرينيات القرن العشرين في <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>براغ</b> يطارد قاتلاً مشابهاً بشكل مذهل.<br>تناوب بين خطين زمنيين، كاشفاً عن روابط مزعجة بين <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>قضايا القتل</b> في الماضي والحاضر.<br>افحص <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>مسارح الجريمة</b> المروعة، حلل الأدلة بدقة، واستجوب المشتبه بهم في هذا <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>الإثارة النوار</b> المظلم.<br>تنقل عبر <b style='color: #483D8B; text-shadow: 0 0 8px #483D8B;'>مواقع جوية</b> تمتد من شيكاغو الحديثة إلى براغ التاريخية.<br>حل ألغازاً معقدة بينما تسابق الزمن لمنع ضحية أخرى.<br>اختبر <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>سرداً بوليسياً</b> مثيراً يستكشف موضوعات <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>الهوس</b> و<b style='color: #696969; text-shadow: 0 0 8px #696969;'>الإرث</b> و<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الجنون الفني</b>.<br></div>",
+    "ReleaseDate": "2005",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Still%20Life%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Still%20Life%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Still%20Life%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Microids"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Game.exe",
+            "arguments": [],
+            "buildID": "8 October 2025",
+            "filename": "00243.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765629185726_3",
+    "Name": "Still Life 2",
+    "SortingName": "Still Life 02",
+    "Description": "Journalist <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Paloma Hernandez</b> becomes dangerously entangled in a terrifying kidnapping case in remote, fog-shrouded <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Maine</b>.<br>What begins as a routine investigation transforms into a personal nightmare when she becomes the killer's next target.<br>Navigate through <b style='color: #483D8B; text-shadow: 0 0 8px #483D8B;'>isolated locations</b>, uncovering disturbing connections to the <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>serial murders</b> from the first game.<br>Experience dual perspectives as both hunter and hunted in this intense psychological <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>thriller</b>.<br>Examine gruesome <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>crime scenes</b>, meticulously gather evidence, and solve challenging puzzles while evading a <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>relentless predator</b>.<br>The investigation delves into <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>dark secrets</b> and <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>twisted minds</b>.<br>Survive harrowing encounters in this continuation of the <b style='color: #696969; text-shadow: 0 0 8px #696969;'>noir detective</b> saga where <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>danger</b> and <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>terror</b> lurk everywhere.<br>",
+    "DescriptionArabic": "<div dir='rtl'>تتورط الصحفية <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>بالوما هيرنانديز</b> بشكل خطير في قضية اختطاف مروعة في <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>مين</b> النائية المكسوة بالضباب.<br>ما يبدأ كتحقيق روتيني يتحول إلى كابوس شخصي عندما تصبح الهدف التالي للقاتل.<br>تنقل عبر <b style='color: #483D8B; text-shadow: 0 0 8px #483D8B;'>مواقع معزولة</b>، كاشفة عن روابط مقلقة بـ<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>جرائم القتل المتسلسلة</b> من اللعبة الأولى.<br>عش وجهات نظر مزدوجة كصياد ومطارد في هذا <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الإثارة</b> النفسية المكثفة.<br>افحص <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>مسارح الجريمة</b> المروعة، اجمع الأدلة بدقة، وحل ألغازاً صعبة بينما تتهرب من <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>مفترس لا يهدأ</b>.<br>يتعمق التحقيق في <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>الأسرار المظلمة</b> و<b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>العقول الملتوية</b>.<br>انجُ من مواجهات مروعة في هذا الاستمرار لملحمة <b style='color: #696969; text-shadow: 0 0 8px #696969;'>المحقق النوار</b> حيث يكمن <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الخطر</b> و<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الرعب</b> في كل مكان.<br></div>",
+    "ReleaseDate": "2009",
+    "CriticScore": 60,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Still%20Life%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Still%20Life%202%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Still%20Life%202%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "GameCo Studios"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "SL2.exe",
+            "buildID": "8 October 2025",
+            "arguments": [],
+            "filename": "00244.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765629185726_4",
+    "Name": "The Longest Journey",
+    "SortingName": "The Longest Journey 01",
+    "Description": "Art student <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>April Ryan</b> discovers she possesses the rare ability to <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>shift between two parallel worlds</b>.<br><b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Stark</b>, a futuristic realm dominated by science and technology, contrasts sharply with <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Arcadia</b>, a mystical world of magic and chaos.<br>As the delicate <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Balance</b> between these realms begins to crumble, April learns she is the prophesied <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Guardian</b> destined to restore cosmic harmony.<br>Journey through <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>breathtaking locations</b> across both dimensions, meeting <b style='color: #DA70D6; text-shadow: 0 0 8px #DA70D6;'>enigmatic characters</b> and solving intricate, challenging puzzles.<br>This beloved <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>point-and-click adventure</b> masterfully weaves together themes of <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>destiny</b>, <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>interdimensional travel</b>, and <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>ancient prophecies</b>.<br>Uncover dark conspiracies and hidden truths threatening the very fabric of reality in this <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>epic narrative journey</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>تكتشف طالبة الفن <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>أبريل رايان</b> أنها تمتلك القدرة النادرة على <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>التنقل بين عالمين متوازيين</b>.<br><b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>ستارك</b>، عالم مستقبلي يسيطر عليه العلم والتكنولوجيا، يتناقض بشدة مع <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>أركاديا</b>، عالم سحري من السحر والفوضى.<br>مع بدء <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>التوازن</b> الدقيق بين هذه العوالم في الانهيار، تتعلم أبريل أنها <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الحارسة</b> المتنبأ بها والمقدر لها استعادة الانسجام الكوني.<br>سافر عبر <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>مواقع خلابة</b> في كلا البعدين، والتق <b style='color: #DA70D6; text-shadow: 0 0 8px #DA70D6;'>بشخصيات غامضة</b> وحل ألغازاً معقدة ومليئة بالتحديات.<br>هذه <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>مغامرة التأشير والنقر</b> المحبوبة تنسج ببراعة موضوعات <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>القدر</b> و<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>السفر بين الأبعاد</b> و<b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>النبوءات القديمة</b>.<br>اكشف المؤامرات المظلمة والحقائق الخفية التي تهدد نسيج الواقع ذاته في هذه <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>الرحلة السردية الملحمية</b>.<br></div>",
+    "ReleaseDate": "1999",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Longest%20Journey%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Longest%20Journey%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/The%20Longest%20Journey%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Funcom"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "game.exe",
+            "arguments": [],
+            "buildID": "16 November 2016",
+            "filename": "00245.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
