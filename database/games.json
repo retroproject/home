@@ -19248,6 +19248,7 @@
             "platform": "PC Game",
             "executable": "Expedition33_Steam.exe",
             "fileSize": "40GB",
+            "buildID": "12 December 2025",
             "filename": "00165.zip"
           },
           {
@@ -41976,7 +41977,7 @@
     "_id": "579b90e2-a267-4159-b312-58c601c16a0e",
     "GameId": "424f0eac-a9f0-48ab-ac37-7e2dad857af4",
     "Name": "Dragon Quest I.II",
-    "SortingName": "Dragon Quest 01",
+    "SortingName": "Dragon Quest 01.01",
     "Description": "The descendant of <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Erdrick</span> journeys from <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>Tantegel Castle</span> to face the <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Dragonlord</span> who has plunged <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Alefgard</span> into darkness, rescuing <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>Princess Laura</span> from the <span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>Green Dragon's</span> cave and recovering the <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>Ball of Light</span>.<br>A century later, the <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Prince of Midenhall</span> witnesses <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>Hargon</span> destroy <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>Moonbrooke Castle</span>, prompting him to unite with his cousins—the <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>Prince of Cannock</span> and <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>Princess of Moonbrooke</span>—to gather the <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>Crests of Erdrick</span>.<br>Armed with legendary equipment, the trio storms <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>Hargon's fortress</span>, only to discover that defeating him unleashes <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>Malroth</span>, the true God of Destruction threatening both worlds.",
     "DescriptionArabic": "سليل <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>إردريك</span> يسافر من <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>قلعة تانتيجيل</span> لمواجهة <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>سيد التنانين</span> الذي غرق <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>أليفغارد</span> في الظلام، منقذاً <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>الأميرة لورا</span> من كهف <span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>التنين الأخضر</span> ومستعيداً <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>كرة النور</span>.<br>بعد قرن، يشهد <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>أمير ميدينهال</span> تدمير <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>هارجون</span> لـ<span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>قلعة مونبروك</span>، مما يدفعه للاتحاد مع أبناء عمومته—<span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>أمير كانوك</span> و<span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>أميرة مونبروك</span>—لجمع <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>شعارات إردريك</span>.<br>مسلحين بمعدات أسطورية، يقتحم الثلاثي <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>حصن هارجون</span>، ليكتشفوا أن هزيمته تطلق <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>مالروث</span>، إله الدمار الحقيقي الذي يهدد كلا العالمين.",
     "ReleaseDate": "1993-12-18",
@@ -100468,13 +100469,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC31",
+            "identifier": "RPRP008",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "14GB",
             "arguments": [],
             "executable": "lollipop.exe",
-            "filename": "LOLLIPOP CHAINSAW RePOP.zip"
+            "buildID": "12 December 2025",
+            "filename": "00233.zip"
           }
         ]
       }
@@ -126874,7 +126876,7 @@
   {
     "_id": "fb023865-a29b-4fcd-802d-b5269ad9bfd2",
     "GameId": "ab38cee319e1e36d0ea8c1c6260a702a",
-    "Name": "Lords of the Fallen",
+    "Name": "Lords of the Fallen 2023",
     "SortingName": "Lords of the Fallen 02",
     "Description": "The enigmatic <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>Dark Crusader</span> awakens in the twisted realm of <span style='color:#2F2F2F; font-weight:bold; text-shadow: 0 0 8px #2F2F2F;'>Mournstead</span>, where the boundary between life and death has shattered, allowing souls to traverse between <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Axiom</span> and the spectral <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>Umbral realm</span>.<br>Armed with the mystical <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Umbral Lamp</span>, the Crusader must navigate horrifying landscapes where <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>fallen gods</span> rule over legions of tortured spirits and <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>demonic aberrations</span>.<br>Each death casts the warrior into the nightmarish <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Umbral</span> dimension, where reality becomes fluid and <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>twisted horrors</span> stalk between the worlds of the living and the damned.<br>Through cathedral ruins and <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>corrupted forests</span>, the Crusader discovers that redemption may require embracing the very <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>darkness</span> that threatens to consume what remains of <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>humanity's soul</span>.",
     "DescriptionArabic": "<div dir='rtl'>يستيقظ <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>الصليبي المظلم</span> الغامض في عالم <span style='color:#2F2F2F; font-weight:bold; text-shadow: 0 0 8px #2F2F2F;'>مورنستيد</span> الملتوي، حيث تحطمت الحدود بين الحياة والموت، مما يسمح للأرواح بالتنقل بين <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>أكسيوم</span> وعالم <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>أمبرال</span> الطيفي.<br>مسلح بـ<span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>مصباح أمبرال</span> الصوفي، يجب على الصليبي أن يتنقل عبر مناظر طبيعية مرعبة حيث يحكم <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الآلهة الساقطة</span> على جحافل من الأرواح المعذبة و<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>الانحرافات الشيطانية</span>.<br>كل موت يرمي بالمحارب في بعد <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>أمبرال</span> الكابوسي، حيث يصبح الواقع سائلاً و<span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>أهوال ملتوية</span> تتربص بين عوالم الأحياء والملعونين.<br>عبر أطلال الكاتدرائية و<span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>الغابات الفاسدة</span>، يكتشف الصليبي أن الخلاص قد يتطلب احتضان <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>الظلام</span> ذاته الذي يهدد بابتلاع ما تبقى من <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>روح الإنسانية</span>.</div>",
@@ -126907,7 +126909,7 @@
             "fileSize": "35GB",
             "arguments": [],
             "executable": "LOTF2.exe",
-            "buildID": "31 October 2025",
+            "buildID": "12 December 2025",
             "filename": "00153.zip"
           }
         ]
@@ -135639,7 +135641,7 @@
       "Nintendo Switch"
     ],
     "GenreNames": [
-      "Action"
+      "Metroidvania"
     ],
     "DeveloperNames": [
       "Retro Studios"
@@ -135766,7 +135768,7 @@
       "PC Game"
     ],
     "GenreNames": [
-      "Action"
+      "Metroidvania"
     ],
     "DeveloperNames": [
       "btf"
@@ -135847,7 +135849,7 @@
       "PC Game"
     ],
     "GenreNames": [
-      "Action"
+      "Beat 'em Up"
     ],
     "DeveloperNames": [
       "Ubisoft Montreal"
@@ -136761,7 +136763,7 @@
       "PC Game"
     ],
     "GenreNames": [
-      "Roguelike"
+      "Roguelite"
     ],
     "DeveloperNames": [
       "Kenny Sun"
@@ -136802,7 +136804,7 @@
       "PC Game"
     ],
     "GenreNames": [
-      "Action"
+      "Sports"
     ],
     "DeveloperNames": [
       "Sam Eng"
@@ -137192,9 +137194,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1765535516990_7",
@@ -137569,6 +137569,50 @@
             "filename": "00232.zip",
             "executable": "Terminator 2D NO FATE.exe",
             "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1765611049028_0",
+    "Name": "Dragon Quest I and II HD 2D",
+    "SortingName": "Dragon Quest 01.02",
+    "Description": "Embark on the legendary <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Erdrick Trilogy</b> beginning with a solo hero's quest to rescue <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Princess Gwaelin</b> and defeat the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Dragonlord</b> threatening the kingdom of <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Alefgard</b>.<br>Journey across a vast fantasy realm encountering monsters, gathering powerful equipment, and uncovering ancient secrets through classic <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>turn-based battles</b>.<br>The adventure continues as <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>three descendants of Erdrick</b> unite to stop <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>malevolent wizards</b> and collect <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>mystical crests</b> to save the world.<br>Explore <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>perilous dungeons</b> filled with deadly traps, face formidable monsters in <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>strategic combat</b>, and save kingdoms from destruction.<br>Navigate beautifully rendered towns and wilderness areas brought to life with stunning <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>pixel-art aesthetics</b> blended with <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>modern lighting</b>.<br>Experience enhanced <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>storytelling</b> that expands the original tales while maintaining their classic charm and timeless appeal.<br>Master traditional <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>JRPG mechanics</b> refined with modern conveniences for smoother exploration and progression.<br>Two complete adventures chronicling the rise and legacy of <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>legendary heroes</b> await in this definitive collection.<br>",
+    "DescriptionArabic": "<div dir='rtl'>ابدأ <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ثلاثية إردريك</b> الأسطورية بدءاً من مهمة بطل منفرد لإنقاذ <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>الأميرة غواليِن</b> وهزيمة <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>سيد التنين</b> الذي يهدد مملكة <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>أليفغارد</b>.<br>اجتز عالماً خيالياً شاسعاً تواجه فيه الوحوش، وتجمع المعدات القوية، وتكشف الأسرار القديمة من خلال <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>معارك دورية</b> كلاسيكية.<br>تستمر المغامرة بينما يتحد <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>ثلاثة أحفاد لإردريك</b> لإيقاف <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>السحرة الأشرار</b> وجمع <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>الشعارات السحرية</b> لإنقاذ العالم.<br>استكشف <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>الزنزانات الخطرة</b> المليئة بالفخاخ القاتلة، واجه وحوش هائلة في <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>قتال استراتيجي</b>، وأنقذ الممالك من الدمار.<br>اجتز المدن والمناطق البرية المقدمة بشكل جميل والتي تنبض بالحياة مع <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>جماليات البكسل آرت</b> المذهلة الممزوجة مع <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>الإضاءة الحديثة</b>.<br>اختبر <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>السرد القصصي</b> المحسّن الذي يوسع الحكايات الأصلية مع الحفاظ على سحرها الكلاسيكي وجاذبيتها الخالدة.<br>أتقن <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>آليات الجي آر بي جي</b> التقليدية المصقولة مع وسائل راحة حديثة لاستكشاف وتقدم أكثر سلاسة.<br>مغامرتان كاملتان تروي صعود وإرث <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>الأبطال الأسطوريين</b> في انتظارك في هذه المجموعة النهائية.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Dragon%20Quest%20I%20and%20II%20HD%202D%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Dragon%20Quest%20I%20and%20II%20HD%202D%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Dragon%20Quest%20I%20and%20II%20HD%202D%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": 118.886168,
+    "MusicUrl": "https://archive.org/download/RPRM001/Dragon%20Quest%20I%20and%20II%20HD%202D%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo Switch"
+    ],
+    "GenreNames": [
+      "Japanese Role-Playing"
+    ],
+    "DeveloperNames": [
+      "Artdink"
+    ],
+    "downloadInfo": {
+      "Nintendo Switch": {
+        "versions": [
+          {
+            "identifier": "E0701",
+            "name": "Vanilla",
+            "platform": "Nintendo Switch",
+            "fileSize": "7 GB",
+            "arguments": [],
+            "filenames": [
+              "Dragon Quest I and II HD 2D.nsp",
+              "Dragon Quest I and II HD 2D Citron Update.zip"
+            ],
+            "buildID": "1.0.1",
+            "emulator": "Citron",
+            "romFile": "Dragon Quest I and II HD 2D.nsp"
           }
         ]
       }
