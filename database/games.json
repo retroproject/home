@@ -137928,9 +137928,9 @@
     "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Dreamfall%20Chapters%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Dreamfall%20Chapters%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Dreamfall%20Chapters%20Trailer.mp4",
+    "videoStart": 3.7,
+    "videoEnd": 105.025031,
     "MusicUrl": "https://archive.org/download/RPRM001/Dreamfall%20Chapters%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -137971,8 +137971,8 @@
     "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Dreamfall%20The%20Longest%20Journey%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Dreamfall%20The%20Longest%20Journey%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Dreamfall%20The%20Longest%20Journey%20Trailer.mp4",
+    "videoStart": 6.5,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/RPRM001/Dreamfall%20The%20Longest%20Journey%20Theme.mp3",
     "PlatformNames": [
@@ -138014,8 +138014,8 @@
     "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Still%20Life%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Still%20Life%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Still%20Life%20Trailer.mp4",
+    "videoStart": 3.460324,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/RPRM001/Still%20Life%20Theme.mp3",
     "PlatformNames": [
@@ -138057,8 +138057,8 @@
     "CriticScore": 60,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Still%20Life%202%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Still%20Life%202%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Still%20Life%202%20Trailer.mp4",
+    "videoStart": 7.9,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/RPRM001/Still%20Life%202%20Theme.mp3",
     "PlatformNames": [
@@ -138100,9 +138100,9 @@
     "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Longest%20Journey%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Longest%20Journey%20Cover.jpg",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Longest%20Journey%20Trailer.mp4",
     "videoStart": null,
-    "videoEnd": null,
+    "videoEnd": 141.033329,
     "MusicUrl": "https://archive.org/download/RPRM001/The%20Longest%20Journey%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
