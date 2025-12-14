@@ -65136,7 +65136,6 @@
         "versions": [
           {
             "identifier": "retro-psx",
-            "filename": "Parasite Eve 1.zip",
             "name": "Vanilla",
             "platform": "Sony PlayStation 1",
             "emulator": "DuckStation",
@@ -65147,16 +65146,17 @@
             ],
             "romLabels": [
               "Disc 1",
-              "Disc "
-            ]
+              "Disc 2"
+            ],
+            "filename": "Parasite Eve 1.zip"
           },
           {
             "identifier": "retro-psx",
-            "filename": "Parasite Eve 1 Duckstation HD Textures.zip",
             "name": "HD Textures",
             "platform": "Sony PlayStation 1",
             "emulator": "DuckStation",
-            "fileSize": "4GB"
+            "fileSize": "4GB",
+            "filename": "Parasite Eve 1 Duckstation HD Textures.zip"
           }
         ]
       }
