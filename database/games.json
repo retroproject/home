@@ -23257,7 +23257,18 @@
             "fileSize": "12GB",
             "arguments": [],
             "executable": "Towers.exe",
+            "buildID": "07052025",
             "filename": "Revenge of the Savage Planet.zip"
+          },
+          {
+            "identifier": "RPRP008",
+            "name": "Offline",
+            "platform": "PC Game",
+            "fileSize": "12GB",
+            "arguments": [],
+            "executable": "Towers.exe",
+            "buildID": "12 December 2025",
+            "filename": "00248.zip"
           }
         ]
       }
@@ -138427,6 +138438,123 @@
             "emulator": "Cemu",
             "romFile": "code\\rgm012.rpx",
             "filename": "Dr. Luigi.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765690006181_0",
+    "Name": "Godbreakers",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Godbreakers%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Godbreakers%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Godbreakers%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "13 GB",
+            "executable": "Godbreakers.exe",
+            "arguments": [],
+            "buildID": "11 December 2025",
+            "filename": "00249.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765690006181_1",
+    "Name": "Once Upon a KATAMARI",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Once%20Upon%20a%20KATAMARI%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Once%20Upon%20a%20KATAMARI%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Once%20Upon%20a%20KATAMARI%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "OnceUponaKATAMARI.exe",
+            "arguments": [],
+            "buildID": "25 November 2025",
+            "filename": "00250.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765690006181_2",
+    "Name": "Tiny Terrys Turbo Trip",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Tiny%20Terrys%20Turbo%20Trip%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Tiny%20Terrys%20Turbo%20Trip%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Tiny%20Terrys%20Turbo%20Trip%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Tiny Terry's Turbo Trip.exe",
+            "arguments": [],
+            "buildID": "3 December 2025",
+            "filename": "00251.zip"
           }
         ]
       }
