@@ -138146,5 +138146,293 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1765685247507_0",
+    "Name": "Dr. Mario",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo Entertainment System",
+      "Nintendo Super Entertainment System",
+      "Nintendo Game Boy Color"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Cross-Platform": {
+        "versions": [
+          {
+            "identifier": "retro-nes",
+            "filename": "",
+            "platform": "Nintendo Entertainment System",
+            "name": "Nintendo Entertainment System",
+            "emulator": "RetroArch",
+            "fileSize": "256KB",
+            "arguments": [
+              "-L",
+              ".\\cores\\mesen_libretro.dll"
+            ],
+            "filenames": [
+              "Dr. Mario.nes"
+            ],
+            "romFiles": [
+              "Dr. Mario.nes"
+            ]
+          },
+          {
+            "identifier": "retro-snes",
+            "filename": "",
+            "platform": "Nintendo Super Entertainment System",
+            "name": "Nintendo Super Entertainment System",
+            "emulator": "RetroArch",
+            "fileSize": "2MB",
+            "arguments": [
+              "-L",
+              ".\\cores\\snes9x_libretro.dll"
+            ],
+            "filenames": [
+              "Dr. Mario.sfc"
+            ],
+            "romFiles": [
+              "Dr. Mario.sfc"
+            ]
+          },
+          {
+            "identifier": "retrod2",
+            "filename": "",
+            "platform": "Nintendo Game Boy Color",
+            "name": "Nintendo Game Boy Color",
+            "emulator": "RetroArch",
+            "fileSize": "512KB",
+            "arguments": [
+              "-L",
+              ".\\cores\\gambatte_libretro.dll"
+            ],
+            "filenames": [
+              "Dr. Mario DX.gbc"
+            ],
+            "romFiles": [
+              "Dr. Mario DX.gbc"
+            ],
+            "mods": "Dr. Mario DX",
+            "buildID": "2.1"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765685863849_0",
+    "Name": "Dr. Mario 64",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%2064%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%2064%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%2064%20Trailer.mp4",
+    "videoStart": 3.1,
+    "videoEnd": 33.459574,
+    "MusicUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%2064%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo 64"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo 64": {
+        "versions": [
+          {
+            "identifier": "e03e03",
+            "name": "Vanilla",
+            "platform": "Nintendo 64",
+            "fileSize": "10 MB",
+            "arguments": [
+              "-L",
+              ".\\cores\\mupen64plus_next_libretro.dll"
+            ],
+            "emulator": "RetroArch",
+            "romFile": "Dr. Mario 64.z64",
+            "filename": "Dr. Mario 64.z64"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765686292548_0",
+    "Name": "Dr. Mario Online RX",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Online%20RX%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Online%20RX%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Online%20RX%20Trailer.mp4",
+    "videoStart": 6.1,
+    "videoEnd": 77.719842,
+    "MusicUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Online%20RX%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo Wii"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Wii": {
+        "versions": [
+          {
+            "identifier": "W05E05",
+            "name": "Vanilla",
+            "platform": "Nintendo Wii",
+            "fileSize": "20 MB",
+            "arguments": [],
+            "emulator": "Dolphin",
+            "romFile": "Dr. Mario Online RX.wad",
+            "filename": "Dr. Mario Online RX.wad"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765687090430_0",
+    "Name": "Dr. Mario Express",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Express%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Express%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Express%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo DS"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo DS": {
+        "versions": [
+          {
+            "identifier": "retro-nitro",
+            "name": "Vanilla",
+            "platform": "Nintendo DS",
+            "fileSize": "10 MB",
+            "arguments": [
+              "-L",
+              ".\\cores\\melonds_libretro.dll"
+            ],
+            "emulator": "RetroArch",
+            "romFile": "Dr. Mario Express.nds",
+            "filename": "Dr. Mario Express.nds"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765687324913_0",
+    "Name": "Dr. Mario Miracle Cure",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Miracle%20Cure%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Miracle%20Cure%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Miracle%20Cure%20Trailer.mp4",
+    "videoStart": 5.8,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Miracle%20Cure%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo 3DS"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo 3DS": {
+        "versions": [
+          {
+            "identifier": "retro-3ds",
+            "name": "Vanilla",
+            "platform": "Nintendo 3DS",
+            "fileSize": "70 MB",
+            "arguments": [],
+            "emulator": "Citra",
+            "romFile": "Dr. Mario Miracle Cure.cci",
+            "filename": "Dr. Mario Miracle Cure.cci"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765687499300_0",
+    "Name": "Dr. Luigi",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Dr.%20Luigi%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Dr.%20Luigi%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Dr.%20Luigi%20Trailer.mp4",
+    "videoStart": 6.3,
+    "videoEnd": 76,
+    "MusicUrl": "https://archive.org/download/RPRM001/Dr.%20Luigi%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo Wii U"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Wii U": {
+        "versions": [
+          {
+            "identifier": "retro-cafe",
+            "name": "Vanilla",
+            "platform": "Nintendo Wii U",
+            "fileSize": "110 MB",
+            "arguments": [],
+            "emulator": "Cemu",
+            "romFile": "code\\rgm012.rpx",
+            "filename": "Dr. Luigi.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
