@@ -11278,12 +11278,12 @@
         "versions": [
           {
             "identifier": "retro-nx",
-            "filename": "Super Mario Maker 2.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "3GB",
-            "romFile": "Super Mario Maker 2.nsp"
+            "romFile": "Super Mario Maker 2.nsp",
+            "filename": "Super Mario Maker 2.nsp"
           }
         ]
       }
@@ -41105,7 +41105,8 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/55dce3a8-0590-437e-a72d-edf0af71626c.mp3",
     "PlatformNames": [
-      "Nintendo Switch"
+      "Nintendo Switch",
+      "PC Game"
     ],
     "GenreNames": [
       "Japanese Role-Playing"
@@ -41114,16 +41115,35 @@
       "Atlus"
     ],
     "downloadInfo": {
-      "Nintendo Switch": {
+      "Cross-Platform": {
         "versions": [
           {
+            "identifier": "RPRP008",
+            "filename": "",
+            "platform": "PC Game",
+            "name": "Steam",
+            "fileSize": "50GB",
+            "filenames": [
+              "00252.zip"
+            ],
+            "executableFiles": [
+              "P5R.exe"
+            ],
+            "buildID": "6 September 2024"
+          },
+          {
             "identifier": "retro-nx",
-            "filename": "Shin Megami Tensei Persona 5 Royal.nsp",
-            "name": "Vanilla",
+            "filename": "",
             "platform": "Nintendo Switch",
+            "name": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "15GB",
-            "romFile": "Shin Megami Tensei Persona 5 Royal.nsp"
+            "filenames": [
+              "Shin Megami Tensei Persona 5 Royal.nsp"
+            ],
+            "romFiles": [
+              "Shin Megami Tensei Persona 5 Royal.nsp"
+            ]
           }
         ]
       }
@@ -138152,6 +138172,16 @@
             "arguments": [],
             "buildID": "1.1.0",
             "filename": "00247.zip"
+          },
+          {
+            "identifier": "RPRP008",
+            "name": "Offline",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "Section13.exe",
+            "arguments": [],
+            "buildID": "1.1.0",
+            "filename": "00253.zip"
           }
         ]
       }
