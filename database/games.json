@@ -89226,7 +89226,6 @@
         "versions": [
           {
             "identifier": "retro-nx",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Ryujinx",
@@ -89234,7 +89233,8 @@
             "filenames": [
               "The Legend of Zelda Echoes of Wisdom.xci",
               "The Legend of Zelda Echoes of Wisdom Ryujinx Update.zip"
-            ]
+            ],
+            "romFile": "The Legend of Zelda Echoes of Wisdom.xci"
           }
         ]
       }
