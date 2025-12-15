@@ -73542,19 +73542,21 @@
         "versions": [
           {
             "identifier": "CPCAR04",
-            "filename": "Dragon Quest III HD-2D.zip",
             "name": "Arabic",
             "platform": "PC Game",
             "executable": "DQIIIHD2DRemake.exe",
-            "fileSize": "15GB"
+            "fileSize": "15GB",
+            "buildID": "29 August 2025",
+            "filename": "Dragon Quest III HD-2D.zip"
           },
           {
             "identifier": "CPC44",
-            "filename": "Dragon Quest III HD-2D.zip",
             "name": "English",
             "platform": "PC Game",
             "executable": "DQIIIHD2DRemake.exe",
-            "fileSize": "15GB"
+            "fileSize": "15GB",
+            "buildID": "29 August 2025",
+            "filename": "Dragon Quest III HD-2D.zip"
           }
         ]
       }
@@ -86528,7 +86530,6 @@
         "versions": [
           {
             "identifier": "retro-nitro",
-            "filename": "The Legend of Zelda Phantom Hourglass.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
             "emulator": "RetroArch",
@@ -86537,7 +86538,32 @@
               "-L",
               ".\\cores\\melonds_libretro.dll"
             ],
-            "romFile": "The Legend of Zelda Phantom Hourglass.nds"
+            "romFile": "The Legend of Zelda Phantom Hourglass.nds",
+            "filename": "The Legend of Zelda Phantom Hourglass.nds"
+          },
+          {
+            "identifier": "retro-nitro",
+            "name": "Enhanced",
+            "platform": "Nintendo DS",
+            "emulator": "RetroArch",
+            "fileSize": "60MB",
+            "arguments": [
+              "-L",
+              ".\\cores\\melonds_libretro.dll"
+            ],
+            "romFile": "The Legend of Zelda Phantom Hourglass [DPAD-Patch].nds",
+            "notes": [
+              "D-Pad Move",
+              "Y+Dpad Move slower",
+              "B Wide slash",
+              "B+Dpad Long slash",
+              "Y+B Spin Attack",
+              "A Interact",
+              "A+Dpad Roll",
+              "A Advance Dialogs"
+            ],
+            "buildID": "1.0",
+            "filename": "The Legend of Zelda Phantom Hourglass [DPAD-Patch].nds"
           }
         ]
       }
@@ -100717,7 +100743,6 @@
         "versions": [
           {
             "identifier": "retro-nitro",
-            "filename": "The Legend of Zelda Spirit Tracks.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
             "emulator": "RetroArch",
@@ -100726,7 +100751,37 @@
               "-L",
               ".\\cores\\melonds_libretro.dll"
             ],
-            "romFile": "The Legend of Zelda Spirit Tracks.nds"
+            "romFile": "The Legend of Zelda Spirit Tracks.nds",
+            "filename": "The Legend of Zelda Spirit Tracks.nds"
+          },
+          {
+            "identifier": "retro-nitro",
+            "name": "Enhanced",
+            "platform": "Nintendo DS",
+            "emulator": "RetroArch",
+            "fileSize": "130MB",
+            "arguments": [
+              "-L",
+              ".\\cores\\melonds_libretro.dll"
+            ],
+            "romFile": "The Legend of Zelda Spirit Tracks [DPAD Patched].nds",
+            "notes": [
+              "D-Pad=Run",
+              "Y+Dpad=Walk",
+              "B=Wide slash",
+              "B+Dpad=Long slash",
+              "Y+B=Spin Attack",
+              "A=Interact",
+              "A+Dpad=Roll"
+            ],
+            "mods": [
+              "1.5x faster train speeds in 2nd gear and reverse",
+              "Boost mode (4x speed) by holding L or R, 8x speed with both L & R in 2nd gear",
+              "Mic-blowing replaced by button input (L or R for flute, A everywhere else)",
+              "Full D-Pad controls for movement, swordplay, and rolling"
+            ],
+            "buildID": "0.9c",
+            "filename": "The Legend of Zelda Spirit Tracks [DPAD Patched].nds"
           }
         ]
       }
