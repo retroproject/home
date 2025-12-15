@@ -97787,7 +97787,8 @@
           }
         ]
       }
-    }
+    },
+    "Tags": []
   },
   {
     "_id": "c2774aab-9b1c-4382-9588-3d23371a7393",
@@ -138200,10 +138201,10 @@
     "_id": "game_1765650028560_0",
     "Name": "Section 13",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "As an elite agent of the <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>S2P Corporation</b>, investigate a catastrophic outbreak at the top-secret <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Section 13 facility</b>.<br>Terrifying <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>paranormal entities</b> have overtaken the <b style='color: #696969; text-shadow: 0 0 8px #696969;'>research complex</b>, brutally infecting and killing staff.<br>Battle through <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>procedurally generated floors</b> in this intense <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>twin-stick shooter roguelite</b>, venturing alone or with allies.<br>Manage your escalating <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Fear level</b> carefully—succumb to overwhelming terror and suffer debilitating <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>panic attacks</b> mid-mission.<br>Collect powerful weapons, upgrade abilities, and adapt strategies through the <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>corrupted laboratories</b>.<br>Face increasingly dangerous <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>supernatural threats</b>.<br>Cooperative <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>tactical combat</b> combines with <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>horror atmosphere</b> and <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>sci-fi action</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>كعميل نخبة في <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>شركة S2P</b>، حقق في تفشي كارثي في منشأة <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>القسم 13</b> السرية.<br><b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>كيانات خارقة</b> مرعبة استولت على <b style='color: #696969; text-shadow: 0 0 8px #696969;'>المجمع البحثي</b>، تصيب وتقتل الموظفين بوحشية.<br>قاتل عبر <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>طوابق مولدة إجرائياً</b> في هذه <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>لعبة التصويب المزدوج روجلايت</b> المكثفة، منفرداً أو مع حلفاء.<br>أدر <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>مستوى الخوف</b> المتصاعد بحذر—استسلم للرعب الساحق وعانِ من <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>نوبات الهلع</b> المنهكة أثناء المهمة.<br>اجمع أسلحة قوية، طور القدرات، وكيّف الاستراتيجيات عبر <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>المختبرات الفاسدة</b>.<br>واجه <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>تهديدات خارقة</b> متزايدة الخطورة.<br><b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>القتال التكتيكي</b> التعاوني يجمع بين <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>أجواء الرعب</b> و<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>الحركة الخيالية العلمية</b>.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 60,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Section%2013%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Section%2013%20Cover.jpg",
     "YouTubeUrl": "",
@@ -138213,8 +138214,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "Ocean Drive Studio"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -138246,11 +138251,11 @@
   {
     "_id": "game_1765685247507_0",
     "Name": "Dr. Mario",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Super Mario Puzzle 01",
+    "Description": "Step into the lab coat of <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Dr. Mario</b> and eliminate <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>infectious viruses</b> using <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>colored capsules</b>.<br>Align four or more objects of the same color—horizontally or vertically—to clear them from the <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>medicine bottle</b>.<br>Three <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>virus types</b> await elimination: red, blue, and yellow, each requiring <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>strategic placement</b>.<br>Drop <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>two-toned capsules</b> carefully, rotating them to create perfect color matches.<br>Clear all viruses to advance through increasingly challenging <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>difficulty levels</b>.<br>Master the <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>puzzle mechanics</b> in this tile-matching classic combining quick thinking with precise timing.<br>Challenge friends in <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>competitive multiplayer</b>.<br>The iconic <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Fever and Chill themes</b> accompany your <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>medical mission</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>ادخل معطف المختبر للـ<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>دكتور ماريو</b> وتخلص من <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الفيروسات المعدية</b> باستخدام <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الكبسولات الملونة</b>.<br>رتب أربعة عناصر أو أكثر من نفس اللون—أفقياً أو عمودياً—لإزالتها من <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>قنينة الدواء</b>.<br>ثلاثة <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>أنواع من الفيروسات</b> تنتظر الإزالة: الأحمر والأزرق والأصفر، كل منها يتطلب <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>وضعاً استراتيجياً</b>.<br>أسقط <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الكبسولات ثنائية اللون</b> بحذر، وقم بتدويرها لإنشاء تطابقات ألوان مثالية.<br>امسح جميع الفيروسات للتقدم عبر <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>مستويات صعوبة</b> متزايدة التحدي.<br>أتقن <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>آليات الألغاز</b> في هذه الكلاسيكية التي تجمع التفكير السريع مع التوقيت الدقيق.<br>تحدى الأصدقاء في <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>اللعب التنافسي متعدد اللاعبين</b>.<br>موضوعات <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Fever وChill</b> الأيقونية ترافق <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>مهمتك الطبية</b>.<br></div>",
+    "ReleaseDate": "1990",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Trailer.mp4",
@@ -138262,8 +138267,12 @@
       "Nintendo Super Entertainment System",
       "Nintendo Game Boy Color"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Puzzle"
+    ],
+    "DeveloperNames": [
+      "Nintendo"
+    ],
     "downloadInfo": {
       "Cross-Platform": {
         "versions": [
@@ -138326,18 +138335,16 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1765685863849_0",
     "Name": "Dr. Mario 64",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Super Mario Puzzle 02",
+    "Description": "The classic <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>virus-elimination puzzle</b> returns with enhanced graphics and expanded multiplayer features.<br>Match <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>colored capsules</b> with <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>infectious viruses</b> to clear the bottle and advance through stages.<br>The Story Mode follows <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Wario</b> as he attempts to create his own miracle cure, adding narrative context.<br>Four-player <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>competitive battles</b> bring intense multiplayer action where the last player standing wins.<br>Flash Mode introduces <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>special flashing viruses</b> that must be eliminated within time limits.<br>Score Attack challenges players to achieve the highest possible scores through <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>strategic combos</b>.<br>Refined controls and <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>polished mechanics</b> make this the definitive <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>N64 puzzle experience</b>.<br>Classic <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>Fever music</b> returns alongside new <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>remixed themes</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>تعود لعبة <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>الألغاز الكلاسيكية للقضاء على الفيروسات</b> برسومات محسّنة وميزات متعددة اللاعبين موسعة.<br>طابق <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الكبسولات الملونة</b> مع <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الفيروسات المعدية</b> لتنظيف القنينة والتقدم عبر المراحل.<br>يتبع وضع القصة <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>واريو</b> وهو يحاول إنشاء علاجه المعجزة الخاص، مضيفاً سياقاً سردياً.<br><b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>المعارك التنافسية</b> لأربعة لاعبين تجلب حركة متعددة اللاعبين المكثفة حيث يفوز آخر لاعب واقف.<br>يقدم وضع Flash <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>فيروسات وامضة خاصة</b> يجب القضاء عليها ضمن حدود زمنية.<br>تحدي النقاط يتحدى اللاعبين لتحقيق أعلى النقاط الممكنة من خلال <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>السلاسل الاستراتيجية</b>.<br>التحكم المحسّن و<b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>الآليات المصقولة</b> تجعل هذه <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>تجربة الألغاز النهائية على N64</b>.<br>موسيقى <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>Fever</b> الكلاسيكية تعود جنباً إلى جنب مع <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>موضوعات معاد مزجها</b> جديدة.<br></div>",
+    "ReleaseDate": "2001",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%2064%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%2064%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%2064%20Trailer.mp4",
@@ -138347,8 +138354,12 @@
     "PlatformNames": [
       "Nintendo 64"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Puzzle"
+    ],
+    "DeveloperNames": [
+      "Nintendo"
+    ],
     "downloadInfo": {
       "Nintendo 64": {
         "versions": [
@@ -138368,18 +138379,16 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1765686292548_0",
     "Name": "Dr. Mario Online RX",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Super Mario Puzzle 03",
+    "Description": "The timeless <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>puzzle classic</b> arrives on WiiWare with <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>online multiplayer</b> and innovative Wii Remote controls.<br>Match <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>colored capsules</b> to eliminate <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>stubborn viruses</b> in classic Dr. Mario mode.<br>The revolutionary <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>Virus Buster</b> mode uses pointer controls, flipping the bottle vertically for unique gameplay.<br>Drag and drop capsules with the Wii Remote, creating an intuitive <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>touch-based experience</b>.<br>Compete against players worldwide through <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>WiFi Connection</b> in ranked matches.<br>Flash Mode returns with <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>timed challenges</b> requiring quick reflexes.<br>Local multiplayer supports competitive <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>two-player battles</b>.<br>Beloved remixes of <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Fever and Chill</b> provide the perfect <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>musical backdrop</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>تصل <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>لعبة الألغاز الكلاسيكية</b> الخالدة إلى WiiWare مع <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>متعدد اللاعبين عبر الإنترنت</b> وتحكم Wii Remote المبتكر.<br>طابق <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الكبسولات الملونة</b> للقضاء على <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الفيروسات العنيدة</b> في وضع Dr. Mario الكلاسيكي.<br>وضع <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>Virus Buster</b> الثوري يستخدم تحكم المؤشر، قالباً القنينة عمودياً لطريقة لعب فريدة.<br>اسحب وأفلت الكبسولات باستخدام Wii Remote، مما ينشئ <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>تجربة قائمة على اللمس</b> بديهية.<br>تنافس ضد لاعبين في جميع أنحاء العالم من خلال <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>اتصال WiFi</b> في مباريات مصنفة.<br>يعود وضع Flash مع <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>تحديات موقوتة</b> تتطلب ردود فعل سريعة.<br>يدعم متعدد اللاعبين المحلي <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>معارك لاعبين</b> تنافسية.<br>الريمكسات المحبوبة لـ<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Fever وChill</b> توفر <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>الخلفية الموسيقية</b> المثالية.<br></div>",
+    "ReleaseDate": "2008",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Online%20RX%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Online%20RX%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Online%20RX%20Trailer.mp4",
@@ -138389,8 +138398,12 @@
     "PlatformNames": [
       "Nintendo Wii"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Puzzle"
+    ],
+    "DeveloperNames": [
+      "Nintendo"
+    ],
     "downloadInfo": {
       "Nintendo Wii": {
         "versions": [
@@ -138407,18 +138420,16 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1765687090430_0",
     "Name": "Dr. Mario Express",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Super Mario Puzzle 04",
+    "Description": "The essential <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>puzzle experience</b> arrives on DSiWare as a portable, streamlined version of the classic.<br>Eliminate <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>colorful viruses</b> by matching them with <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>falling capsules</b> in addictive puzzle action.<br>The core <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>virus-matching gameplay</b> remains intact, offering pure Dr. Mario fundamentals.<br>Three <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>speed settings</b> let players customize difficulty from relaxed to frantic.<br>Twenty <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>virus levels</b> provide escalating challenges as capsules fall faster.<br>Touch screen or button controls offer flexible <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>input options</b>.<br>The focused <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>single-player experience</b> makes this perfect for quick gaming sessions.<br>Classic <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Fever music</b> accompanies your <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>medical puzzle-solving</b>.<br>Ideal <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>portable puzzle fun</b> for on-the-go gaming.<br>",
+    "DescriptionArabic": "<div dir='rtl'>تصل <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>تجربة الألغاز الأساسية</b> إلى DSiWare كنسخة محمولة مبسطة من الكلاسيكية.<br>تخلص من <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الفيروسات الملونة</b> من خلال مطابقتها مع <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الكبسولات الساقطة</b> في حركة ألغاز إدمانية.<br><b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>طريقة اللعب الأساسية لمطابقة الفيروسات</b> تبقى سليمة، وتقدم أساسيات Dr. Mario النقية.<br>ثلاثة <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>إعدادات سرعة</b> تسمح للاعبين بتخصيص الصعوبة من مريحة إلى محمومة.<br>عشرون <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>مستوى فيروسات</b> توفر تحديات متصاعدة بينما تسقط الكبسولات بشكل أسرع.<br>تحكم شاشة اللمس أو الأزرار يوفر <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>خيارات إدخال</b> مرنة.<br><b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>تجربة لاعب واحد</b> المركزة تجعل هذا مثالياً لجلسات الألعاب السريعة.<br>موسيقى <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Fever</b> الكلاسيكية ترافق <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>حل الألغاز الطبية</b>.<br><b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>متعة الألغاز المحمولة</b> المثالية للألعاب أثناء التنقل.<br></div>",
+    "ReleaseDate": "2008",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Express%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Express%20Cover.jpg",
     "YouTubeUrl": "",
@@ -138428,8 +138439,12 @@
     "PlatformNames": [
       "Nintendo DS"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Puzzle"
+    ],
+    "DeveloperNames": [
+      "Nintendo"
+    ],
     "downloadInfo": {
       "Nintendo DS": {
         "versions": [
@@ -138449,18 +138464,16 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1765687324913_0",
     "Name": "Dr. Mario Miracle Cure",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Super Mario Puzzle 05",
+    "Description": "The puzzle series evolves with game-changing <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Miracle Cures</b> that dramatically alter the playing field.<br>Match <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>colored viruses</b> with <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>falling capsules</b> in classic mode or experiment with new mechanics.<br>Collect powerful <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>Miracle Cure items</b> that clear entire rows, columns, or specific virus colors instantly.<br>Strategic deployment of cures at crucial moments turns desperate situations into triumphant <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>comebacks</b>.<br>Virus Buster returns with <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>touch screen controls</b> for intuitive capsule placement.<br>Story Mode presents <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>200 unique challenges</b> across varied objectives.<br><b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>Online multiplayer</b> lets you compete globally with ranking systems.<br>Custom Match allows setting your preferred <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>rules and speed</b> for personalized <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>puzzle battles</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>تتطور سلسلة الألغاز مع <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>العلاجات المعجزة</b> التي تغير قواعد اللعب بشكل جذري.<br>طابق <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الفيروسات الملونة</b> مع <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>الكبسولات الساقطة</b> في الوضع الكلاسيكي أو جرب آليات جديدة.<br>اجمع <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>عناصر العلاج المعجزة</b> القوية التي تمسح صفوفاً أو أعمدة أو ألوان فيروسات محددة على الفور.<br>النشر الاستراتيجي للعلاجات في اللحظات الحاسمة يحول المواقف اليائسة إلى <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>انتصارات</b> مظفرة.<br>يعود Virus Buster مع <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>تحكم شاشة اللمس</b> لوضع الكبسولات البديهي.<br>يقدم وضع القصة <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>200 تحدٍ فريد</b> عبر أهداف متنوعة.<br><b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>متعدد اللاعبين عبر الإنترنت</b> يتيح لك المنافسة عالمياً مع أنظمة التصنيف.<br>تتيح المباراة المخصصة تعيين <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>القواعد والسرعة</b> المفضلة لديك لـ<b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>معارك الألغاز</b> الشخصية.<br></div>",
+    "ReleaseDate": "2015",
+    "CriticScore": 60,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Miracle%20Cure%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Miracle%20Cure%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Dr.%20Mario%20Miracle%20Cure%20Trailer.mp4",
@@ -138470,8 +138483,12 @@
     "PlatformNames": [
       "Nintendo 3DS"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Puzzle"
+    ],
+    "DeveloperNames": [
+      "Nintendo"
+    ],
     "downloadInfo": {
       "Nintendo 3DS": {
         "versions": [
@@ -138488,18 +138505,16 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1765687499300_0",
     "Name": "Dr. Luigi",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Super Mario Puzzle 06",
+    "Description": "Celebrate the Year of Luigi with this unique twist on classic <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>virus-elimination gameplay</b>.<br>The revolutionary <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Operation L</b> mode introduces L-shaped capsules that change strategic possibilities dramatically.<br>Match <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>colored viruses</b> with specially shaped capsules in this <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>Luigi-themed puzzle adventure</b>.<br>Traditional Dr. Mario mode returns alongside the new mechanics for <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>classic gameplay</b>.<br>Virus Buster makes a comeback with <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>touchscreen controls</b> optimized for the GamePad.<br>Online battles let you compete against players worldwide in <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>ranked matches</b>.<br>Four-player local multiplayer delivers intense <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>competitive action</b>.<br>Unlock <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Luigi-inspired music</b> and celebrate with <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>green-themed visuals</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>احتفل بعام لويجي مع هذا التطور الفريد على <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>طريقة اللعب الكلاسيكية للقضاء على الفيروسات</b>.<br>وضع <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Operation L</b> الثوري يقدم كبسولات على شكل حرف L تغير الإمكانيات الاستراتيجية بشكل كبير.<br>طابق <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الفيروسات الملونة</b> مع كبسولات ذات أشكال خاصة في هذه <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>مغامرة الألغاز بموضوع لويجي</b>.<br>يعود وضع Dr. Mario التقليدي إلى جانب الآليات الجديدة لـ<b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>طريقة اللعب الكلاسيكية</b>.<br>يعود Virus Buster مع <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>تحكم شاشة اللمس</b> محسّن لـGamePad.<br>المعارك عبر الإنترنت تتيح لك المنافسة ضد لاعبين في جميع أنحاء العالم في <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>مباريات مصنفة</b>.<br>متعدد اللاعبين المحلي لأربعة لاعبين يوفر <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>حركة تنافسية</b> مكثفة.<br>افتح <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>موسيقى مستوحاة من لويجي</b> واحتفل مع <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>المرئيات ذات الطابع الأخضر</b>.<br></div>",
+    "ReleaseDate": "2013",
+    "CriticScore": 60,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Dr.%20Luigi%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Dr.%20Luigi%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Dr.%20Luigi%20Trailer.mp4",
@@ -138509,8 +138524,12 @@
     "PlatformNames": [
       "Nintendo Wii U"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Puzzle"
+    ],
+    "DeveloperNames": [
+      "Arika"
+    ],
     "downloadInfo": {
       "Nintendo Wii U": {
         "versions": [
@@ -138527,29 +138546,31 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1765690006181_0",
     "Name": "Godbreakers",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Defy divine beings in this chaotic <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>third-person action roguelite</b> where you steal the powers of gods.<br>Execute the signature <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Godbreak mechanic</b>, absorbing enemy abilities mid-combat to turn their strength against them.<br>Master <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>slick kinetic combat</b> with snappy dodge canceling that keeps action fluid and rewarding.<br>Face increasingly brutal challenges through <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>difficulty modifiers</b> that push your skills to the limit.<br>Team up in <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>cooperative multiplayer</b> to topple divine adversaries together.<br>Experience one of the most <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>vibrant visual styles</b> in modern roguelites.<br>Each run offers <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>procedural encounters</b> demanding strategic adaptation.<br>Wield stolen <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>divine abilities</b> in <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>fast-paced battles</b> against <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>overwhelming odds</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>تحدى الكائنات الإلهية في هذه <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>لعبة الحركة روجلايت من منظور الشخص الثالث</b> الفوضوية حيث تسرق قوى الآلهة.<br>نفذ آلية <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Godbreak</b> المميزة، ممتصاً قدرات الأعداء أثناء القتال لتحويل قوتهم ضدهم.<br>أتقن <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>القتال الحركي الأنيق</b> مع إلغاء التفادي السريع الذي يحافظ على سلاسة وإثابة الحركة.<br>واجه تحديات متزايدة الوحشية من خلال <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>معدلات الصعوبة</b> التي تدفع مهاراتك إلى الحد الأقصى.<br>تعاون في <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>اللعب التعاوني متعدد اللاعبين</b> لإسقاط الخصوم الإلهيين معاً.<br>اختبر أحد أكثر <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>الأساليب البصرية نابضة بالحياة</b> في الروجلايت الحديثة.<br>كل جولة تقدم <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>مواجهات إجرائية</b> تتطلب التكيف الاستراتيجي.<br>استخدم <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>القدرات الإلهية</b> المسروقة في <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>معارك سريعة الوتيرة</b> ضد <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>احتمالات ساحقة</b>.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Godbreakers%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Godbreakers%20Cover.jpg",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Godbreakers%20Trailer.mp4",
     "videoStart": null,
-    "videoEnd": null,
+    "videoEnd": 62.2,
     "MusicUrl": "https://archive.org/download/RPRM001/Godbreakers%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "To The Sky"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -138566,29 +138587,31 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1765690006181_1",
     "Name": "Once Upon a KATAMARI",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Roll through time itself in the first new <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Katamari</b> entry in 14 years.<br>Guide your <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>katamari ball</b> across the <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Jurassic Period</b>, <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>Ice Age</b>, historic Japan, and beyond.<br>Collect everything from tiny objects to massive structures, watching your ball grow exponentially with each item absorbed.<br>Rebuild the <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>glittering night sky</b> by rolling up enough mass to create celestial bodies.<br>New mechanics like the <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>magnet ability</b> provide fresh strategic possibilities.<br>Choose from <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>69 playable characters</b> including the Prince and various cousins.<br>Customize unique avatars for the new <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>KatamariBall multiplayer mode</b>.<br>Experience exhilarating stages with <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>never-before-seen items</b> and <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>memorable music</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>تدحرج عبر الزمن نفسه في أول إدخال جديد لـ<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Katamari</b> منذ 14 عاماً.<br>وجه <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>كرة الكاتاماري</b> عبر <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>العصر الجوراسي</b> و<b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>العصر الجليدي</b> واليابان التاريخية وما بعدها.<br>اجمع كل شيء من الأشياء الصغيرة إلى الهياكل الضخمة، شاهد كرتك تنمو بشكل هائل مع كل عنصر تمتصه.<br>أعد بناء <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>السماء الليلية المتلألئة</b> من خلال تجميع كتلة كافية لإنشاء أجرام سماوية.<br>آليات جديدة مثل <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>قدرة المغناطيس</b> توفر إمكانيات استراتيجية جديدة.<br>اختر من بين <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>69 شخصية قابلة للعب</b> بما في ذلك الأمير ومختلف الأقارب.<br>خصص أفاتارات فريدة لوضع <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>KatamariBall متعدد اللاعبين</b> الجديد.<br>اختبر مراحل مبهجة مع <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>عناصر لم تُر من قبل</b> و<b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>موسيقى لا تُنسى</b>.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Once%20Upon%20a%20KATAMARI%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Once%20Upon%20a%20KATAMARI%20Cover.jpg",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Once%20Upon%20a%20KATAMARI%20Trailer.mp4",
     "videoStart": null,
-    "videoEnd": null,
+    "videoEnd": 153.334534,
     "MusicUrl": "https://archive.org/download/RPRM001/Once%20Upon%20a%20KATAMARI%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Puzzle"
+    ],
+    "DeveloperNames": [
+      "RENGAME"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -138605,29 +138628,31 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1765690006181_2",
     "Name": "Tiny Terrys Turbo Trip",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Pursue the absurd dream of driving a car into space in this <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>surreal open-world adventure</b>.<br>Play as <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Terry</b>, navigating bizarre encounters with <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>grotesque clay-like characters</b> following dream logic.<br>Explore a <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>hilariously heartfelt sandbox</b> that simplifies the genre's scope for maximum impact.<br>Experience some of the best <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>game-feel of the decade</b> with incredibly responsive controls.<br>The quirky narrative follows <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>absurdist humor</b> that never takes itself seriously.<br>Complete the journey in 2-8 hours depending on your exploration style and <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>completionist tendencies</b>.<br>Cartoony visuals feature characters like <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>rushed clay figurines</b>.<br>This award-winning indie delivers an experience <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>unlike any other</b> with its <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>unique charm</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>اسعَ وراء الحلم العبثي بقيادة سيارة إلى الفضاء في هذه <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>المغامرة السريالية ذات العالم المفتوح</b>.<br>العب دور <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>تيري</b>، متنقلاً عبر لقاءات غريبة مع <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>شخصيات مروعة تشبه الطين</b> تتبع منطق الأحلام.<br>استكشف <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>صندوق رمل مضحك ومؤثر</b> يبسط نطاق النوع لتحقيق أقصى تأثير.<br>اختبر بعضاً من أفضل <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>إحساس اللعبة في العقد</b> مع تحكم سريع الاستجابة بشكل لا يصدق.<br>السرد الغريب يتبع <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>الفكاهة العبثية</b> التي لا تأخذ نفسها على محمل الجد أبداً.<br>أكمل الرحلة في 2-8 ساعات اعتماداً على أسلوب الاستكشاف و<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>نزعات الإكمالية</b>.<br>المرئيات الكرتونية تتميز بشخصيات مثل <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>تماثيل طينية متسرعة</b>.<br>هذه اللعبة المستقلة الحائزة على جوائز تقدم تجربة <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>لا مثيل لها</b> مع <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>سحرها الفريد</b>.<br></div>",
+    "ReleaseDate": "2024",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Tiny%20Terrys%20Turbo%20Trip%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Tiny%20Terrys%20Turbo%20Trip%20Cover.jpg",
-    "YouTubeUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Tiny%20Terrys%20Turbo%20Trip%20Trailer.mp4",
     "videoStart": null,
-    "videoEnd": null,
+    "videoEnd": 68.057687,
     "MusicUrl": "https://archive.org/download/RPRM001/Tiny%20Terrys%20Turbo%20Trip%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "snekflat"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -138644,8 +138669,6 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   }
 ]
