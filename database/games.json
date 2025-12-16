@@ -85076,12 +85076,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC29",
-            "filename": "Dragon Ball FighterZ.zip",
+            "identifier": "RPRP008",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "RED\\Binaries\\Win64\\RED-Win64-Shipping.exe",
-            "fileSize": "6GB"
+            "fileSize": "6GB",
+            "buildID": "5 December 2025",
+            "filename": "00254.zip"
           }
         ]
       }
@@ -129974,7 +129975,7 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "44 GB",
-            "buildID": "28 August 2025",
+            "buildID": "6 November 2025",
             "arguments": [],
             "executable": "TheDarken.exe",
             "filename": "00011.zip"
@@ -130442,7 +130443,7 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "490MB",
-            "buildID": "28 August 2025",
+            "buildID": "7 October 2025",
             "arguments": [],
             "executable": "tower-dominion.exe",
             "filename": "00026.zip"
@@ -132606,7 +132607,7 @@
             "platform": "PC Game",
             "fileSize": "35 GB",
             "executable": "Fall of Avalon.exe",
-            "buildID": "11 September 2025",
+            "buildID": "15 December 2025",
             "arguments": [],
             "filename": "00078.zip"
           }
@@ -135791,7 +135792,7 @@
             "fileSize": "8 GB",
             "executable": "SoV.exe",
             "arguments": [],
-            "buildID": "5 December 2025",
+            "buildID": "13 December 2025",
             "filename": "00193.zip"
           }
         ]
@@ -138670,5 +138671,781 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1765865586838_2",
+    "Name": "Age of Wonders III",
+    "SortingName": "Age of Wonders 03",
+    "Description": "The <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Commonwealth Empire</b> marches across ancient lands, crushing <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>sacred traditions</b> beneath its banners of progress.<br><b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Elven courts</b> rally against this tide, defending <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>mystical forests</b> and <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>ancient magic</b> from extinction.<br>Command vast <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>armies</b> across <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>sprawling battlefields</b>, where tactical brilliance determines the fate of <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>kingdoms</b>.<br>Master unique <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>leader classes</b> and forge powerful <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>alliances</b> between diverse races.<br>Explore <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>underground caverns</b> and <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>floating islands</b>, claiming legendary <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>artifacts</b> and building an empire that spans <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>multiple realms</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>تسير <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>إمبراطورية الكومنولث</b> عبر الأراضي القديمة، ساحقة <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>التقاليد المقدسة</b> تحت رايات التقدم.<br>تتحد <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>بلاطات الإلف</b> ضد هذا المد، مدافعة عن <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الغابات الغامضة</b> و<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>السحر القديم</b> من الانقراض.<br>قُد <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>جيوشاً شاسعة</b> عبر <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>ساحات المعارك الواسعة</b>، حيث التألق التكتيكي يحدد مصير <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>الممالك</b>.<br>أتقن <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>فئات القادة</b> الفريدة واصنع <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>تحالفات</b> قوية بين الأعراق المتنوعة.<br>استكشف <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>الكهوف تحت الأرض</b> و<b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>الجزر العائمة</b>، مطالباً بـ<b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>القطع الأثرية</b> الأسطورية وبناء إمبراطورية تمتد عبر <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>عوالم متعددة</b>.<br></div>",
+    "ReleaseDate": "2014",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Age%20of%20Wonders%20III%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Age%20of%20Wonders%20III%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Age%20of%20Wonders%20III%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Age%20of%20Wonders%20III%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Strategy"
+    ],
+    "DeveloperNames": [
+      "Triumph Studios"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "AoW3.exe",
+            "arguments": [],
+            "buildID": "10 April 2019",
+            "filename": "00257.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765865586838_3",
+    "Name": "Age of Wonders Planetfall",
+    "SortingName": "Age of Wonders 04",
+    "Description": "The <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Star Union</b> lies shattered, its <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>galactic empire</b> reduced to whispers across dead worlds.<br>From the <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>cosmic dark age</b>, six factions rise: the militant <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Vanguard</b>, dinosaur-riding <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Amazons</b>, and cyborg-zombie <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>Assembly</b>.<br>Command <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>advanced technology</b> and tactical armies across alien landscapes where <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>forgotten colonies</b> hold secrets of the old empire.<br>Forge <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>interstellar alliances</b> or conquer through brutal <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>warfare</b>, building a new civilization from empire's ashes.<br>Master <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>sci-fi warfare</b>, researching powerful <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>weapons</b> and commanding <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>unique units</b> in strategic turn-based battles across <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>planetary battlegrounds</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>تحطم <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>اتحاد النجوم</b>، و<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>إمبراطوريته المجرّية</b> تحولت إلى همسات عبر عوالم ميتة.<br>من <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>العصر المظلم الكوني</b>، تنهض ستة فصائل: <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الطليعة</b> العسكرية، <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الأمازون</b> راكبات الديناصورات، و<b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>التجمع</b> السايبورغ-زومبي.<br>قُد <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>التكنولوجيا المتقدمة</b> والجيوش التكتيكية عبر المناظر الغريبة حيث تحمل <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>المستعمرات المنسية</b> أسرار الإمبراطورية القديمة.<br>اصنع <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>تحالفات نجمية</b> أو اغزُ عبر <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الحرب</b> الوحشية، بانياً حضارة جديدة من رماد الإمبراطورية.<br>أتقن <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>الحرب الخيالية العلمية</b>، باحثاً عن <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>أسلحة</b> قوية وقائداً <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>وحدات فريدة</b> في معارك استراتيجية قائمة على الأدوار عبر <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>ساحات المعارك الكوكبية</b>.<br></div>",
+    "ReleaseDate": "2019",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Age%20of%20Wonders%20Planetfall%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Age%20of%20Wonders%20Planetfall%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Age%20of%20Wonders%20Planetfall%20Trailer.mp4",
+    "videoStart": 2.4,
+    "videoEnd": 85.356964,
+    "MusicUrl": "https://archive.org/download/RPRM001/Age%20of%20Wonders%20Planetfall%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Strategy"
+    ],
+    "DeveloperNames": [
+      "Triumph Studios"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "16 GB",
+            "executable": "AowPF.exe",
+            "arguments": [],
+            "buildID": "3 June 2021",
+            "filename": "00258.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765865586838_4",
+    "Name": "Age of Wonders Shadow Magic",
+    "SortingName": "Age of Wonders 02",
+    "Description": "The eerie <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Shadow World</b> bleeds into reality, bringing <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>dark magic</b> and twisted creatures to flourishing kingdoms.<br><b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Shadow Demons</b> and <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Dark Elves</b> join the fray alongside classic races, each wielding unique <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>magical abilities</b> and tactical strengths.<br>Build <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>mighty empires</b> through strategic <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>city management</b>, researching arcane <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>spells</b> that reshape battlefields.<br>Command diverse <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>armies</b> in deep tactical combat where terrain and unit positioning decide <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>victory or defeat</b>.<br>Explore <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>randomly generated worlds</b> filled with <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ancient treasures</b>, mythical creatures, and the looming threat of <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>shadow corruption</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>ينزف <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>عالم الظلال</b> المخيف إلى الواقع، جالباً <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>السحر المظلم</b> والمخلوقات الملتوية إلى الممالك المزدهرة.<br><b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>شياطين الظل</b> و<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الإلف المظلمون</b> ينضمون إلى المعركة إلى جانب الأعراق الكلاسيكية، كلٌ يملك <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>قدرات سحرية</b> فريدة ونقاط قوة تكتيكية.<br>ابنِ <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>إمبراطوريات عظيمة</b> من خلال <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>إدارة المدن</b> الاستراتيجية، باحثاً عن <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>تعاويذ</b> غامضة تعيد تشكيل ساحات المعارك.<br>قُد <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>جيوشاً</b> متنوعة في قتال تكتيكي عميق حيث التضاريس ووضعية الوحدات تقرر <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>النصر أو الهزيمة</b>.<br>استكشف <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>عوالم مُولَّدة عشوائياً</b> مليئة بـ<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الكنوز القديمة</b> والمخلوقات الأسطورية والتهديد المحدق لـ<b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>فساد الظل</b>.<br></div>",
+    "ReleaseDate": "2003",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Age%20of%20Wonders%20Shadow%20Magic%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Age%20of%20Wonders%20Shadow%20Magic%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Age%20of%20Wonders%20Shadow%20Magic%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Strategy"
+    ],
+    "DeveloperNames": [
+      "Triumph Studios"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "790 MB",
+            "executable": "AoWSM.exe",
+            "arguments": [],
+            "buildID": "9 November 2016",
+            "filename": "00259.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765865586839_5",
+    "Name": "Anima Gate of Memories I and II",
+    "SortingName": "",
+    "Description": "A <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>girl without memories</b> and an <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>immortal being</b> cursed to walk eternity become trapped in a <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>shadow war</b> that threatens to consume reality.<br>Explore a <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>vast fantasy world</b> filled with <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>dangerous creatures</b> and forgotten <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>ancient secrets</b>.<br>Switch between two characters, each wielding unique <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>combat abilities</b> and <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>mystical powers</b> in fast-paced action.<br>Unravel the mysteries of <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>Arcane</b>, a dimension where past and present collide through <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>platforming challenges</b> and environmental puzzles.<br>Experience <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>intense boss battles</b> that demand skill mastery in this <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>remastered collection</b> of two interconnected <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>action RPG adventures</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>فتاة بلا ذكريات</b> و<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>كائن خالد</b> ملعون بالسير للأبد يُحبسان في <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>حرب الظل</b> التي تهدد بالتهام الواقع.<br>استكشف <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>عالماً خيالياً شاسعاً</b> مليئاً بـ<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>المخلوقات الخطرة</b> و<b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>الأسرار القديمة</b> المنسية.<br>تبديل بين شخصيتين، كل منهما يملك <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>قدرات قتالية</b> فريدة و<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>قوى غامضة</b> في حركة سريعة الوتيرة.<br>فك ألغاز <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>أركين</b>، بُعد حيث الماضي والحاضر يتصادمان من خلال <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>تحديات المنصات</b> والألغاز البيئية.<br>اختبر <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>معارك الزعماء</b> المكثفة التي تتطلب إتقان المهارة في هذه <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>المجموعة المُحسَّنة</b> من <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>مغامرتي آر بي جي الحركة</b> المترابطتين.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 60,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Anima%20Gate%20of%20Memories%20I%20and%20II%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Anima%20Gate%20of%20Memories%20I%20and%20II%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Anima%20Gate%20of%20Memories%20I%20and%20II%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": 113.615238,
+    "MusicUrl": "https://archive.org/download/RPRM001/Anima%20Gate%20of%20Memories%20I%20and%20II%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Hack and Slash"
+    ],
+    "DeveloperNames": [
+      "Anima Project"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "19 GB",
+            "executable": "Anima Gate of Memories I&II Remaster.exe",
+            "arguments": [],
+            "buildID": "21 November 2025",
+            "filename": "00260.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765865586839_6",
+    "Name": "Barbie Horse Trails",
+    "SortingName": "",
+    "Description": "Join <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Barbie</b> as Junior Ranger-in-Training at the beautiful <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Canterbury Trails Park</b>, working alongside <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Lady Carson</b> to revitalize this natural paradise.<br>Bond with <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Lucky</b>, your loyal companion horse, through gentle grooming sessions and customizing her with stylish <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>accessories</b>.<br>Explore serene <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>forests</b>, majestic <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>mountains</b>, and sparkling <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>lakes</b> on horseback at your own peaceful pace.<br>Capture the park's beauty through <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>photography</b>, documenting <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>wildlife</b> and flora in your personal journal.<br>Complete fun <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>side missions</b> with friends like <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Ken</b>, Teresa, and Nikki while discovering hidden <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>treasure chests</b> filled with <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>unlockable items</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>انضم إلى <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>باربي</b> كمتدربة حارسة في <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>منتزه كانتربري تريلز</b> الجميل، عاملة جنباً إلى جنب مع <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الليدي كارسون</b> لتنشيط هذا الفردوس الطبيعي.<br>ارتبط مع <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>لاكي</b>، حصانك الرفيق المخلص، من خلال جلسات العناية اللطيفة وتخصيصها مع <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الإكسسوارات</b> الأنيقة.<br>استكشف <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>الغابات</b> الهادئة و<b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>الجبال</b> المهيبة و<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>البحيرات</b> المتلألئة على ظهر الحصان بوتيرتك السلمية.<br>التقط جمال المنتزه من خلال <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>التصوير الفوتوغرافي</b>، موثقاً <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الحياة البرية</b> والنباتات في مجلتك الشخصية.<br>أكمل <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>المهام الجانبية</b> الممتعة مع الأصدقاء مثل <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>كين</b> وتيريزا ونيكي أثناء اكتشاف <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>صناديق الكنز</b> المخفية المليئة بـ<b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>العناصر القابلة للفتح</b>.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 60,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Barbie%20Horse%20Trails%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Barbie%20Horse%20Trails%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Barbie%20Horse%20Trails%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Barbie%20Horse%20Trails%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Cozy"
+    ],
+    "DeveloperNames": [
+      "PHL Collective"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "8 GB",
+            "executable": "barbie.exe",
+            "arguments": [],
+            "buildID": "10 October 2025",
+            "filename": "00261.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765865586839_7",
+    "Name": "Bearly Brave",
+    "SortingName": "",
+    "Description": "Innocent teddy bears come alive each night in a sinister <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>toy shop</b>, forced to fight in brutal <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>tournaments</b> for shelf placement.<br>Play as <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Toby</b>, a gentle bear trapped in <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Boris's</b> sadistic competition, fighting for freedom and a loving home.<br>Craft devastating <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>one-turn combos</b> through strategic <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>deck-building</b>, mixing fast-paced tactics with roguelite progression.<br>Collect unique <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>patches</b> to customize builds, creating powerful synergies between <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>abilities</b> and cards.<br>Each run presents fresh <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>tactical challenges</b> as you navigate the deceptively charming <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>plushie world</b> hiding dark <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>secrets</b> beneath its cuddly exterior.<br>",
+    "DescriptionArabic": "<div dir='rtl'>دببة تيدي بريئة تنبض بالحياة كل ليلة في <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>متجر ألعاب</b> شرير، مُجبرة على القتال في <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>بطولات</b> وحشية من أجل وضعها على الرف.<br>العب دور <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>توبي</b>، دب لطيف محاصر في منافسة <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>بوريس</b> السادية، يقاتل من أجل الحرية ومنزل محب.<br>اصنع <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>تركيبات دورة واحدة</b> مدمرة من خلال <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>بناء المجموعة</b> الاستراتيجي، مازجاً التكتيكات السريعة مع تقدم الروجلايت.<br>اجمع <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>رقعاً</b> فريدة لتخصيص البنى، منشئاً تآزرات قوية بين <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>القدرات</b> والبطاقات.<br>كل جولة تقدم <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>تحديات تكتيكية</b> جديدة بينما تتنقل في <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>عالم الدمى</b> الساحر خادعاً الذي يخفي <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>أسراراً</b> مظلمة تحت مظهره المحبوب.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 60,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Bearly%20Brave%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Bearly%20Brave%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Bearly%20Brave%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": 53.267738,
+    "MusicUrl": "",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "Barbaric Games"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "630 MB",
+            "executable": "Bearly Brave.exe",
+            "arguments": [],
+            "buildID": "15 December 2025",
+            "filename": "00262.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Need Music",
+      "Has Issues",
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765865586839_8",
+    "Name": "BROK the InvestiGator The Brawl Bar",
+    "SortingName": "",
+    "Description": "Step into the <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Brawl Bar</b>, where underground <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>boxing tournaments</b> determine champions in a dystopian world of anthropomorphic animals.<br>Play as <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>BROK</b>, the tough-as-nails alligator detective, throwing powerful <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>punches</b> and executing devastating <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>combos</b> in intense fights.<br>This boxing-themed spin-off delivers 80% pure <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>action</b> and 20% compelling <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>visual novel</b> storytelling.<br>Master rhythmic <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>combat mechanics</b> while uncovering the dark mysteries behind the <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>fighting ring</b>.<br>Face challenging <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>opponents</b> in this standalone adventure that brings <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>hand-drawn graphics</b> and <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>beat 'em up</b> action to the noir detective universe.<br>",
+    "DescriptionArabic": "<div dir='rtl'>ادخل <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>حانة القتال</b>، حيث <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>بطولات الملاكمة</b> السرية تحدد الأبطال في عالم ديستوبي من الحيوانات البشرية.<br>العب دور <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>بروك</b>، المحقق التمساح القاسي، مُلقياً <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>لكمات</b> قوية ومنفذاً <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>تركيبات</b> مدمرة في معارك مكثفة.<br>هذا الجزء الجانبي بموضوع الملاكمة يقدم 80% <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>حركة</b> نقية و20% سرد <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>رواية مرئية</b> مقنع.<br>أتقن <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>آليات القتال</b> الإيقاعية بينما تكشف الألغاز المظلمة وراء <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>حلبة القتال</b>.<br>واجه <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>خصوماً</b> صعبين في هذه المغامرة المستقلة التي تجلب <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>رسومات مرسومة يدوياً</b> وحركة <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Beat 'em Up</b> إلى عالم التحقيق النوار.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 60,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/BROK%20the%20InvestiGator%20The%20Brawl%20Bar%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/BROK%20the%20InvestiGator%20The%20Brawl%20Bar%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/BROK%20the%20InvestiGator%20The%20Brawl%20Bar%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/BROK%20the%20InvestiGator%20The%20Brawl%20Bar%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Beat 'em Up"
+    ],
+    "DeveloperNames": [
+      "COWCAT Games"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "Brokgame.exe",
+            "arguments": [],
+            "buildID": "29 November 2025",
+            "filename": "00263.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765865586839_9",
+    "Name": "Deep Sleep Labyrinth of the Forsaken",
+    "SortingName": "",
+    "Description": "Awaken in an endless <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>labyrinth</b> where reality bleeds into <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>nightmares</b> and escape seems impossible.<br>Navigate through <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>shadowy corridors</b> filled with unsettling whispers and lurking <b style='color: #696969; text-shadow: 0 0 8px #696969;'>entities</b> from the darkest dreams.<br>Solve intricate <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>point-and-click puzzles</b> while uncovering the tragic stories of the <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>forsaken souls</b> trapped within.<br>Experience atmospheric <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>horror</b> through haunting visuals and an oppressive sense of <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>dread</b>.<br>This standalone entry in the cult <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Deep Sleep</b> series delivers psychological terror through <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>exploration</b>, eerie <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>atmosphere</b>, and mind-bending <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>mysteries</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>استيقظ في <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>متاهة</b> لا نهاية لها حيث الواقع ينزف إلى <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الكوابيس</b> والهروب يبدو مستحيلاً.<br>تنقل عبر <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>ممرات مظلمة</b> مليئة بالهمسات المقلقة و<b style='color: #696969; text-shadow: 0 0 8px #696969;'>الكيانات</b> الكامنة من أحلك الأحلام.<br>حل <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>ألغاز النقر والتأشير</b> المعقدة بينما تكشف القصص المأساوية للـ<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>أرواح المنسيين</b> المحاصرين بالداخل.<br>اختبر <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>الرعب</b> الجوي من خلال المرئيات المسكونة والشعور القمعي بـ<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الرهبة</b>.<br>هذا الإدخال المستقل في سلسلة <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Deep Sleep</b> المثيرة يقدم رعباً نفسياً من خلال <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الاستكشاف</b> و<b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>الأجواء</b> المخيفة و<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الألغاز</b> المثيرة للعقل.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 60,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Deep%20Sleep%20Labyrinth%20of%20the%20Forsaken%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Deep%20Sleep%20Labyrinth%20of%20the%20Forsaken%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Deep%20Sleep%20Labyrinth%20of%20the%20Forsaken%20Trailer.mp4",
+    "videoStart": 1.9,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Deep%20Sleep%20Labyrinth%20of%20the%20Forsaken%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "scriptwelder"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "Deep Sleep - Labyrinth of the Forsaken.exe",
+            "arguments": [],
+            "buildID": "20 November 2025",
+            "filename": "00264.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765865586839_10",
+    "Name": "Flesh Made Fear",
+    "SortingName": "",
+    "Description": "Classic <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>survival horror</b> returns with <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>fixed camera angles</b> and precise <b style='color: #696969; text-shadow: 0 0 8px #696969;'>tank controls</b> that recall gaming's golden terror era.<br>Navigate claustrophobic <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>environments</b> where every <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>bullet</b> counts and <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>death</b> lurks around shadowed corners.<br>Manage scarce <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>resources</b> while solving environmental <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>puzzles</b> and confronting grotesque <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>creatures</b>.<br>Experience nostalgic <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>gameplay</b> that feels fresh without feeling dated, honoring <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Resident Evil</b> and <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Silent Hill</b> origins.<br>Face mounting <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>dread</b> in this love letter to classic horror that proves old-school <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>terror</b> still holds power.<br>",
+    "DescriptionArabic": "<div dir='rtl'>يعود <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>رعب البقاء</b> الكلاسيكي مع <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>زوايا الكاميرا الثابتة</b> و<b style='color: #696969; text-shadow: 0 0 8px #696969;'>تحكم الدبابة</b> الدقيق الذي يذكّر بعصر الرعب الذهبي للألعاب.<br>تنقل في <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>بيئات</b> ضيقة حيث كل <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>رصاصة</b> مهمة و<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الموت</b> يكمن حول الزوايا المظلمة.<br>أدِر <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الموارد</b> النادرة بينما تحل <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>ألغازاً</b> بيئية وتواجه <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>مخلوقات</b> مشوهة.<br>اختبر <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>طريقة لعب</b> حنينية تبدو طازجة دون أن تكون قديمة، مُكرّمة أصول <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Resident Evil</b> و<b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Silent Hill</b>.<br>واجه <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>الرهبة</b> المتصاعدة في هذه الرسالة الحب للرعب الكلاسيكي التي تثبت أن <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>الرعب</b> القديم لا يزال يحمل قوة.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 60,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Flesh%20Made%20Fear%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Flesh%20Made%20Fear%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Flesh%20Made%20Fear%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Flesh%20Made%20Fear%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "Tainted Pact"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "FleshMadeFear.exe",
+            "arguments": [],
+            "buildID": "27 October 2025",
+            "filename": "00265.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765865586839_11",
+    "Name": "Heading Out",
+    "SortingName": "",
+    "Description": "Hit the <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>open road</b> in a mythic take on <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Americana</b>, where every mile brings branching <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>story choices</b> and consequences.<br>Experience stunning <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>black-and-white</b> visuals splashed with vivid <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>color</b> at key narrative moments.<br>Race through <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>roguelite</b> road trips where failure means starting over with new <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>paths</b> to discover.<br>Navigate high-speed <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>chases</b> while making split-second decisions that shape your <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>destiny</b>.<br>Immerse yourself in an eclectic <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>soundtrack</b> blending jazz and rock across the <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>American highways</b>, inspired by cult road movies like <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>Thelma & Louise</b> and <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Vanishing Point</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>اضرب <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الطريق المفتوح</b> في منظور أسطوري لـ<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>أمريكانا</b>، حيث كل ميل يجلب <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>خيارات قصة</b> متشعبة وعواقب.<br>اختبر مرئيات <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>بالأبيض والأسود</b> مذهلة متناثرة بـ<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الألوان</b> الحية في لحظات السرد الرئيسية.<br>تسابق عبر رحلات طريق <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>روجلايت</b> حيث الفشل يعني البدء من جديد مع <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>مسارات</b> جديدة للاكتشاف.<br>تنقل في <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>مطاردات</b> عالية السرعة بينما تتخذ قرارات لحظية تشكل <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>مصيرك</b>.<br>انغمس في <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>موسيقى تصويرية</b> انتقائية تمزج الجاز والروك عبر <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>الطرق السريعة الأمريكية</b>، مستوحاة من أفلام الطريق الكلاسيكية مثل <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>Thelma & Louise</b> و<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Vanishing Point</b>.<br></div>",
+    "ReleaseDate": "2024",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Heading%20Out%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Heading%20Out%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Heading%20Out%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Heading%20Out%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Racing"
+    ],
+    "DeveloperNames": [
+      "Serious Sim"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "20 GB",
+            "executable": "Heading Out.exe",
+            "arguments": [],
+            "buildID": "7 November 2025",
+            "filename": "00266.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765865586839_12",
+    "Name": "Legends of Dragaea Idle Dungeons",
+    "SortingName": "",
+    "Description": "Delve into mysterious <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>dungeons</b> where progress continues even when you're away from the game.<br>Build a powerful <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>party</b> of heroes, each with unique <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>abilities</b> and customizable <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>equipment</b>.<br>Watch your adventurers automatically battle through <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>monster-infested</b> halls while collecting <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>loot</b> and experience.<br>Strategic <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>party composition</b> and thoughtful <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>upgrades</b> determine success in deeper dungeon floors.<br>Enjoy relaxing <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>idle gameplay</b> that rewards both active play and passive <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>progression</b>, perfect for <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>fantasy RPG</b> fans seeking a laid-back <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>dungeon crawling</b> experience.<br>",
+    "DescriptionArabic": "<div dir='rtl'>تعمق في <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>زنزانات</b> غامضة حيث التقدم يستمر حتى عندما تكون بعيداً عن اللعبة.<br>ابنِ <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>فريقاً</b> قوياً من الأبطال، كل منهم لديه <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>قدرات</b> فريدة و<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>معدات</b> قابلة للتخصيص.<br>شاهد مغامريك يقاتلون تلقائياً عبر قاعات <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>موبوءة بالوحوش</b> بينما يجمعون <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>الغنائم</b> والخبرة.<br><b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>تكوين الفريق</b> الاستراتيجي و<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>التحسينات</b> المدروسة تحدد النجاح في طوابق الزنزانات الأعمق.<br>استمتع بـ<b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>طريقة لعب خاملة</b> مريحة تكافئ كلاً من اللعب النشط و<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>التقدم</b> السلبي، مثالية لمحبي <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>آر بي جي الخيالي</b> الباحثين عن تجربة <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>زحف الزنزانات</b> الهادئة.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 60,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Legends%20of%20Dragaea%20Idle%20Dungeons%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Legends%20of%20Dragaea%20Idle%20Dungeons%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Legends%20of%20Dragaea%20Idle%20Dungeons%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": 60.9,
+    "MusicUrl": "https://archive.org/download/RPRM001/Legends%20of%20Dragaea%20Idle%20Dungeons%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "RPG"
+    ],
+    "DeveloperNames": [
+      "Blast Programming"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "600 MB",
+            "executable": "Legends Of Dragaea Idle Dungeons.exe",
+            "arguments": [],
+            "buildID": "15 December 2025",
+            "filename": "00267.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765865586839_13",
+    "Name": "Mostroscopy",
+    "SortingName": "",
+    "Description": "Enter the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>lucha libre</b> ring where masked <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>luchadores</b> face off in stylized <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>fighting action</b>.<br>Experience stunning visuals inspired by 1950s <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Mexican cinema</b>, blending <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>horror</b> aesthetics with vibrant <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>wrestling culture</b>.<br>Master simplified <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>controls</b> that make fights accessible while maintaining tactical <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>depth</b>.<br>Choose from sixteen unique <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>fighters</b>, each with distinct <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>fighting styles</b> and signature <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>moves</b>.<br>Enjoy retro <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>pixel art</b> presentation with carefully chosen <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>color palettes</b> that celebrate <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Mexican lucha</b> traditions.<br>",
+    "DescriptionArabic": "<div dir='rtl'>ادخل حلبة <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>لوتشا ليبري</b> حيث <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>المصارعون المقنعون</b> يواجهون بعضهم في <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>حركة قتالية</b> أسلوبية.<br>اختبر مرئيات مذهلة مستوحاة من <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>السينما المكسيكية</b> في الخمسينيات، تمزج جماليات <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الرعب</b> مع <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>ثقافة المصارعة</b> النابضة بالحياة.<br>أتقن <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>التحكمات</b> المبسطة التي تجعل القتال سهلاً مع الحفاظ على <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>العمق</b> التكتيكي.<br>اختر من بين ستة عشر <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>مقاتلاً</b> فريداً، كل منهم لديه <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>أساليب قتالية</b> مميزة و<b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>حركات</b> مميزة.<br>استمتع بعرض <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>فن البيكسل</b> الرجعي مع <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>لوحات ألوان</b> مختارة بعناية تحتفي بتقاليد <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>اللوتشا المكسيكية</b>.<br></div>",
+    "ReleaseDate": "2023",
+    "CriticScore": 60,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Mostroscopy%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Mostroscopy%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Mostroscopy%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Mostroscopy%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Fighting"
+    ],
+    "DeveloperNames": [
+      "Oribe Ware Games"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "Mostroscopy.exe",
+            "arguments": [],
+            "buildID": "11 November 2025",
+            "filename": "00268.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765865586839_14",
+    "Name": "Vivid Knight",
+    "SortingName": "",
+    "Description": "Your <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>friends</b> have been transformed into precious <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>gems</b>, and only you can free them from this curse.<br>Build a unique <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>party</b> by strategically arranging jewels in your <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>inventory grid</b>, combining their powers in creative ways.<br>Navigate procedurally generated <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>dungeons</b> where every run presents fresh <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>challenges</b> and opportunities.<br>Discover powerful <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>synergies</b> as you mix and match gem <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>abilities</b>, creating devastating <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>combinations</b>.<br>This <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>party-building roguelike</b> blends <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>inventory management</b> with tactical <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>combat</b> in an adorable yet challenging <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>adventure</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>لقد تحول <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>أصدقاؤك</b> إلى <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>جواهر</b> ثمينة، وأنت وحدك من يمكنه تحريرهم من هذه اللعنة.<br>ابنِ <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>فريقاً</b> فريداً من خلال ترتيب الجواهر استراتيجياً في <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>شبكة المخزون</b>، مدمجاً قواهم بطرق إبداعية.<br>تنقل في <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>زنزانات</b> مُولدة إجرائياً حيث كل جولة تقدم <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>تحديات</b> وفرص جديدة.<br>اكتشف <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>تآزرات</b> قوية بينما تمزج وتطابق <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>قدرات</b> الجوهرة، منشئاً <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>تركيبات</b> مدمرة.<br>هذا <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>الروجلايك لبناء الفريق</b> يمزج <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>إدارة المخزون</b> مع <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>القتال</b> التكتيكي في <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>مغامرة</b> جذابة لكن صعبة.<br></div>",
+    "ReleaseDate": "2021",
+    "CriticScore": 60,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Vivid%20Knight%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Vivid%20Knight%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Vivid%20Knight%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": 99.9,
+    "MusicUrl": "https://archive.org/download/RPRM001/Vivid%20Knight%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "Asobism"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "380 MB",
+            "executable": "VividKnight.exe",
+            "arguments": [],
+            "buildID": "10 October 2025",
+            "filename": "00269.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765865586839_15",
+    "Name": "Vivid World",
+    "SortingName": "",
+    "Description": "The sequel to <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Vivid Knight</b> expands the party-building formula with deeper <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>story elements</b> and enhanced mechanics.<br>Revamped <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>party-building systems</b> offer even more strategic <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>customization</b> and powerful <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>combinations</b>.<br>Explore a vibrant <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>world</b> filled with new <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>challenges</b>, <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>enemies</b>, and <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>treasures</b> to discover.<br>Experience evolved <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>roguelite gameplay</b> with refined <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>combat mechanics</b> and progression systems.<br>Build the ultimate <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>team</b> through strategic <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>party composition</b> in this charming <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>strategy roguelite</b> adventure.<br>",
+    "DescriptionArabic": "<div dir='rtl'>يوسع التكملة لـ<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Vivid Knight</b> صيغة بناء الفريق مع <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>عناصر قصة</b> أعمق وآليات محسّنة.<br><b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>أنظمة بناء الفريق</b> المُحدّثة تقدم <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>تخصيصاً</b> استراتيجياً أكثر و<b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>تركيبات</b> قوية.<br>استكشف <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>عالماً</b> نابضاً مليئاً بـ<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>التحديات</b> و<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الأعداء</b> و<b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>الكنوز</b> الجديدة للاكتشاف.<br>اختبر <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>طريقة لعب الروجلايت</b> المتطورة مع <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>آليات قتالية</b> وأنظمة تقدم محسّنة.<br>ابنِ <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>الفريق</b> النهائي من خلال <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>تكوين الفريق</b> الاستراتيجي في هذه مغامرة <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>الروجلايت الاستراتيجية</b> الساحرة.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 60,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Vivid%20World%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Vivid%20World%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Vivid%20World%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Vivid%20World%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "Asobism"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "VividWorld.exe",
+            "arguments": [],
+            "buildID": "12 December 2025",
+            "filename": "00255.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765865586839_16",
+    "Name": "Wall World 2",
+    "SortingName": "",
+    "Description": "Pilot a mechanical <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>robospider</b> scaling massive <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>vertical walls</b> filled with procedural <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>mines</b> and dangers.<br>Mine precious <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>resources</b> while battling aggressive <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>monsters</b> in this expanded mining <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>roguelite</b> experience.<br>Upgrade your <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>mech</b> with powerful <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>weapons</b> and essential <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>tools</b> between increasingly challenging runs.<br>Explore diverse <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>biomes</b> with unique challenges and manage your <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>hub base</b> for strategic progression.<br>Uncover deep <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>mysteries</b> and defend against waves in this improved sequel that takes core mining gameplay and climbs to new <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>heights</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>قُد <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>عنكبوتاً آلياً</b> يتسلق <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>جدراناً عمودية</b> ضخمة مليئة بـ<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>المناجم</b> الإجرائية والأخطار.<br>نقّب عن <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>الموارد</b> الثمينة بينما تقاتل <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الوحوش</b> العدوانية في هذه تجربة <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الروجلايت</b> التعدينية الموسعة.<br>طوّر <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>ميكاك</b> مع <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>أسلحة</b> قوية و<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>أدوات</b> أساسية بين الجولات الصعبة بشكل متزايد.<br>استكشف <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>بيئات حيوية</b> متنوعة مع تحديات فريدة وأدِر <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>قاعدتك المحورية</b> للتقدم الاستراتيجي.<br>اكتشف <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>الألغاز</b> العميقة ودافع ضد الموجات في هذا التكملة المحسّنة التي تأخذ طريقة لعب التعدين الأساسية وتتسلق إلى <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>ارتفاعات</b> جديدة.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 60,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Wall%20World%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Wall%20World%202%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Wall%20World%202%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Wall%20World%202%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "Alawar"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "390 MB",
+            "executable": "WallWorld2.exe",
+            "arguments": [],
+            "buildID": "21 November 2025",
+            "filename": "00256.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765874289637_0",
+    "Name": "Syberia Remastered",
+    "SortingName": "",
+    "Description": "Follow <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Kate Walker</b>, a New York lawyer, on an extraordinary journey across <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>forgotten Europe</b> seeking the last heir of a toy factory.<br>Explore hauntingly beautiful <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Eastern European</b> landscapes filled with <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>automatons</b> and <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>steampunk marvels</b>.<br>Solve intricate <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>puzzles</b> woven into the environment while uncovering the <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Voralberg family</b> secrets.<br>Experience fully modernized visuals with redesigned <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>character models</b> and rebuilt <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>environments</b> honoring <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Benoît Sokal's</b> artistic vision.<br>Immerse yourself in this poignant <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>adventure</b> about dreams, destiny, and the mysterious land of <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Syberia</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>تابع <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>كيت ووكر</b>، محامية من نيويورك، في رحلة استثنائية عبر <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>أوروبا المنسية</b> باحثة عن الوريث الأخير لمصنع ألعاب.<br>استكشف مناظر <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>شرق أوروبا</b> الطبيعية المسكونة الجميلة المليئة بـ<b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>الآليين</b> و<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>عجائب الستيمبانك</b>.<br>حل <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>ألغازاً</b> معقدة منسوجة في البيئة بينما تكشف أسرار <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>عائلة فورالبيرغ</b>.<br>اختبر مرئيات محدثة بالكامل مع <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>نماذج الشخصيات</b> المعاد تصميمها و<b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>البيئات</b> المعاد بناؤها مُكرّمة رؤية <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>بينوا سوكال</b> الفنية.<br>انغمس في هذه <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>المغامرة</b> المؤثرة حول الأحلام والمصير وأرض <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>سيبيريا</b> الغامضة.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 60,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Syberia%20Remastered%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Syberia%20Remastered%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Syberia%20Remastered%20Trailer.mp4",
+    "videoStart": 2.6,
+    "videoEnd": 91.806469,
+    "MusicUrl": "https://archive.org/download/RPRM001/Syberia%20Remastered%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Virtuallyz Gaming"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "20 GB",
+            "executable": "SyberiaHD.exe",
+            "arguments": [],
+            "buildID": "28 November 2025",
+            "filename": "00270.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765874289637_1",
+    "Name": "Vampiress Eternal Duet",
+    "SortingName": "",
+    "Description": "Master the deadly duality of a <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>vampire lady</b> switching between <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>vampiric</b> and <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>human forms</b> mid-combat.<br>Engage in high-speed <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>3D side-scrolling action</b> where <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>blood</b> serves as your ultimate resource.<br>Execute devastating <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>combos</b> while managing the delicate balance between power and <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>vulnerability</b>.<br>Experience noir-style <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>atmosphere</b> through striking <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>visuals</b> and fluid <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>animations</b>.<br>Face relentless <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>enemies</b> in this high-risk combat system that rewards precise <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>timing</b> and strategic <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>form-switching</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>أتقن الثنائية المميتة لـ<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>سيدة مصاصة دماء</b> تتبدل بين <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الأشكال مصاصة الدماء</b> و<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>البشرية</b> أثناء القتال.<br>انخرط في <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>حركة ثلاثية الأبعاد جانبية</b> عالية السرعة حيث <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الدم</b> هو موردك النهائي.<br>نفّذ <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>تركيبات</b> مدمرة بينما تدير التوازن الدقيق بين القوة و<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الضعف</b>.<br>اختبر <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>أجواء</b> نوار من خلال <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>مرئيات</b> مذهلة و<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>رسوم متحركة</b> سلسة.<br>واجه <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>أعداءً</b> لا يرحمون في نظام قتال عالي المخاطر يكافئ <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>التوقيت</b> الدقيق و<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>تبديل الأشكال</b> الاستراتيجي.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 60,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Vampiress%20Eternal%20Duet%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Vampiress%20Eternal%20Duet%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Vampiress%20Eternal%20Duet%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Vampiress%20Eternal%20Duet%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Hack and Slash"
+    ],
+    "DeveloperNames": [
+      "Realm Weaver Studio"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP008",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "18 GB",
+            "executable": "blood.exe",
+            "arguments": [],
+            "buildID": "14 December 2025",
+            "filename": "00271.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1765875827495_0",
+    "Name": "Age of Wonders 4",
+    "SortingName": "Age of Wonders 05",
+    "Description": "Forge <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>custom factions</b> from the ground up, designing their culture, appearance, and <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>magical affinities</b>.<br>Rule vast <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>fantasy realms</b> through strategic <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>empire building</b>, tactical <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>combat</b>, and <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>diplomatic</b> cunning.<br>Master powerful <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>magic tomes</b> to unlock devastating <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>spells</b> and shape the world to your will.<br>Command diverse <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>armies</b> featuring unique units tailored to your faction's strengths and <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>playstyle</b>.<br>Create endless <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>strategic possibilities</b> by mixing races, traits, and doctrines in this definitive <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>4X strategy</b> experience where imagination defines your <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>empire</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>اصنع <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>فصائل مخصصة</b> من الصفر، مصمماً ثقافتهم ومظهرهم و<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>انتماءاتهم السحرية</b>.<br>احكم <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>عوالم خيالية</b> شاسعة من خلال <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>بناء الإمبراطورية</b> الاستراتيجي و<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>القتال</b> التكتيكي والمكر <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>الدبلوماسي</b>.<br>أتقن <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>مجلدات السحر</b> القوية لإطلاق <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>تعاويذ</b> مدمرة وشكّل العالم بإرادتك.<br>قُد <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>جيوشاً</b> متنوعة تتميز بوحدات فريدة مصممة خصيصاً لنقاط قوة فصيلتك و<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>أسلوب لعبك</b>.<br>اخلق <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>إمكانيات استراتيجية</b> لا نهائية من خلال مزج الأعراق والسمات والمذاهب في هذه تجربة <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>استراتيجية 4X</b> النهائية حيث الخيال يحدد <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>إمبراطوريتك</b>.<br></div>",
+    "ReleaseDate": "2023",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Age%20of%20Wonders%204%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Age%20of%20Wonders%204%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Age%20of%20Wonders%204%20Trailer.mp4",
+    "videoStart": 2.1,
+    "videoEnd": 84.4,
+    "MusicUrl": "https://archive.org/download/RPRM001/Age%20of%20Wonders%204%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Strategy"
+    ],
+    "DeveloperNames": [
+      "Triumph Studios"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP009",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "30 GB",
+            "executable": "AOW4.exe",
+            "arguments": [],
+            "buildID": "9 December 2025",
+            "filename": "00272.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
