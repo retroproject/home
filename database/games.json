@@ -118525,7 +118525,8 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/ea228dd5-43e5-4cda-95a5-d1fb51c68674.mp3",
     "PlatformNames": [
-      "Nintendo Switch"
+      "Nintendo Switch",
+      "Nintendo DS"
     ],
     "GenreNames": [
       "Platformer"
@@ -118534,16 +118535,39 @@
       "Blind Squirrel Entertainment"
     ],
     "downloadInfo": {
-      "Nintendo Switch": {
+      "Cross-Platform": {
         "versions": [
           {
+            "identifier": "retro-nitro",
+            "filename": "",
+            "platform": "Nintendo DS",
+            "name": "DS",
+            "emulator": "RetroArch",
+            "fileSize": "64MB",
+            "arguments": [
+              "-L",
+              ".\\cores\\melonds_libretro.dll"
+            ],
+            "romFiles": [
+              "Sonic Colors.nds"
+            ],
+            "filenames": [
+              "Sonic Colors.nds"
+            ]
+          },
+          {
             "identifier": "retro-nx",
-            "filename": "Sonic Colors Ultimate.nsp",
-            "name": "Vanilla",
+            "filename": "",
             "platform": "Nintendo Switch",
+            "name": "Switch",
             "emulator": "Yuzu",
             "fileSize": "8GB",
-            "romFile": "Sonic Colors Ultimate.nsp"
+            "romFiles": [
+              "Sonic Colors Ultimate.nsp"
+            ],
+            "filenames": [
+              "Sonic Colors Ultimate.nsp"
+            ]
           }
         ]
       }
