@@ -139436,5 +139436,40 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1766033601431_0",
+    "Name": "Wall World",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Wall%20World%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Wall%20World%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Wall%20World%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Wall%20World%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP009",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "00273.zip",
+            "executable": "WallWorld.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
