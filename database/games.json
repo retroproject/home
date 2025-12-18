@@ -139441,10 +139441,10 @@
     "_id": "game_1766033601431_0",
     "Name": "Wall World",
     "SortingName": "Wall World 01",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "After a catastrophic <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>apocalypse</b>, humanity clings to existence on an endless vertical <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Wall</b> that stretches infinitely upward and downward.<br><b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Ben</b>, a lone explorer piloting a mechanical <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>robospider</b>, ventures out when nearby <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>mines</b> run dry, desperate to gather resources and perhaps reach the Wall's mysterious <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>top</b>.<br>Hostile creatures known as the <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>Zyrex</b> infest the Wall, attacking anyone who dares traverse these forgotten heights.<br>Hidden within <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>secret chambers</b> lie scattered <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>notes</b> and enigmatic <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>artifacts</b>, fragments of truth about humanity's fall and the Wall's origins.<br>Ben's ultimate quest: collect all five <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>encryption keys</b> to unlock the <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>core structure</b> waiting at the summit, where answers to this shattered world's deepest <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>mysteries</b> await.<br>",
+    "DescriptionArabic": "<div dir='rtl'>بعد <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>نهاية العالم</b> الكارثية، تتشبث البشرية بالوجود على <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>جدار</b> عمودي لا نهائي يمتد إلى ما لا نهاية للأعلى والأسفل.<br><b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>بن</b>، مستكشف وحيد يقود <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>عنكبوتاً آلياً</b>، يغامر بالخروج عندما تنضب <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>المناجم</b> القريبة، يائساً لجمع الموارد وربما الوصول إلى <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>قمة</b> الجدار الغامضة.<br>مخلوقات عدائية تُعرف باسم <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الزيريكس</b> تغزو الجدار، مهاجمة أي شخص يجرؤ على عبور هذه الارتفاعات المنسية.<br>مخفية داخل <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>غرف سرية</b> تكمن <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>ملاحظات</b> متناثرة و<b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>قطع أثرية</b> لغزية، شظايا الحقيقة عن سقوط البشرية وأصول الجدار.<br>مهمة بن النهائية: جمع <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>مفاتيح التشفير</b> الخمسة لفتح <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>البنية الأساسية</b> التي تنتظر عند القمة، حيث إجابات <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>ألغاز</b> هذا العالم المحطم الأعمق تنتظر.<br></div>",
+    "ReleaseDate": "2023",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Wall%20World%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Wall%20World%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Wall%20World%20Trailer.mp4",
@@ -139454,8 +139454,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "Alawar"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -139464,9 +139468,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
-            "filename": "00273.zip",
             "executable": "WallWorld.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "5 October 2023",
+            "filename": "00273.zip"
           }
         ]
       }
