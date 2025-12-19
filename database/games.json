@@ -73273,11 +73273,11 @@
         "versions": [
           {
             "identifier": "CPC25",
-            "filename": "Half-Life 2.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "hl2.exe",
-            "fileSize": "10GB"
+            "fileSize": "10GB",
+            "filename": "Half-Life 2.zip"
           }
         ]
       }
@@ -114510,11 +114510,19 @@
         "versions": [
           {
             "identifier": "CPC33",
-            "filename": "Kingdom Come Deliverance 1.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "bin\\Win64\\KingdomCome.exe",
-            "fileSize": "70GB"
+            "fileSize": "70GB",
+            "filename": "Kingdom Come Deliverance 1.zip"
+          },
+          {
+            "identifier": "RPRP009",
+            "name": "Enhanced",
+            "platform": "PC Game",
+            "executable": "bin\\Win64\\KingdomCome.exe",
+            "fileSize": "90GB",
+            "filename": "00274.zip"
           }
         ]
       }
