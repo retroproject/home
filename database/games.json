@@ -41360,13 +41360,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "retro-pc",
-            "name": "Vanilla",
+            "identifier": "RPRP009",
+            "name": "Enhanced",
             "platform": "PC Game",
             "fileSize": "2GB",
             "arguments": [],
             "executable": "sm64.us.f3dex2e.exe",
-            "filename": "Super Mario 64.zip"
+            "buildID": "1.21.3",
+            "filename": "00275.zip"
           }
         ]
       }
@@ -87854,7 +87855,7 @@
     "DescriptionArabic": "في عالم <span style='color:#32CD32; font-weight:bold;'>سبيرا</span> الساحر، يجد <span style='color:#4169E1; font-weight:bold;'>تيدوس</span> نجم رياضة البليتزبول نفسه بعيداً عن موطنه <span style='color:#32CD32; font-weight:bold;'>زاناركاند</span>، وسط أسرار قد تكشف أن ماضيه كله مجرد وهم.<br>يرافق الاستدعائية الشابة <span style='color:#FF69B4; font-weight:bold;'>يونا</span> في رحلتها المقدسة لاستدعاء <span style='color:#FFD700; font-weight:bold;'>الإيون الأخير</span> والقضاء على الوحش المرعب <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>سِن</span> الذي يعيث فساداً في العالم منذ ألف عام.<br>لكن مع تقدم الرحلة، يكتشف تيدوس حقيقة مؤلمة: إنقاذ العالم من سِن يتطلب <span style='color:#9370DB; font-weight:bold;'>التضحية بحياة يونا</span>، في دورة لا تنتهي من الموت والدمار.<br>في قصة حب تتحدى قوانين الوجود، عليه أن يختار بين <span style='color:#DC143C; font-weight:bold;'>حلم جميل</span> و<span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>واقع قاسٍ</span> قد يدمر كل ما يؤمن به.",
     "ReleaseDate": "2001-7-19",
     "CriticScore": 100,
-    "Length": 70,
+    "Length": 60,
     "BackgroundImage": "327cfd77-6ee9-439b-b9c7-8a3287615028.jpeg",
     "CoverImage": "a80c8e1f-0f86-4ade-8f50-ddc73e7449d8.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/327cfd77-6ee9-439b-b9c7-8a3287615028.jpeg",
@@ -92620,6 +92621,7 @@
     "DescriptionArabic": "<div dir='rtl'>يرث الباحث الشاب <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>شلك</span> <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>سيف مونادو</span> الأسطوري عندما تهاجم الغزاة الآليون المعروفون باسم <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الميكون</span> مستعمرته وتقتل صديقة طفولته <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>فيورا</span>.<br> بحثاً عن الانتقام من <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>الوجه المعدني</span>، يكتشف <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>شلك</span> أن عالمه يوجد على جثتين متجمدتين لإلهين عملاقين، <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>بيونيس</span> و<span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>ميكونيس</span>، مغلقين في صراع أبدي.<br> يتلاعب <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>زانزا</span> الغامض بالأحداث من الظلال، بينما يتعلم <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>شلك</span> أن قوة مونادو الحقيقية يمكنها إعادة تشكيل الواقع نفسه وأن وجوده الخاص مرتبط بقوى تفوق فهمه.<br> بينما تنكشف الحقيقة حول دورة الدمار والولادة الجديدة، يجب على <span style='color:#8B008B; font-weight:bold; text-shadow: 0 0 8px #8B008B;'>شلك</span> أن يختار بين قبول دوره المحدد مسبقاً كوعاء لإله أو صياغة مصير جديد حيث يمكن للحياة العضوية والآلية أن تتعايش، حتى لو كان ذلك يعني تحدي <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>خالقي</span> كونه ذاتهم.</div>",
     "ReleaseDate": "2020-5-29",
     "CriticScore": 100,
+    "Length": 110,
     "BackgroundImage": "12a603ac-bc23-47ef-ab4e-7b0c0fa2cc90.jpg",
     "CoverImage": "9cd425a7-8d66-4767-921b-abc5135feb15.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/12a603ac-bc23-47ef-ab4e-7b0c0fa2cc90.jpg",
