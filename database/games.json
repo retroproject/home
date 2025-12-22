@@ -61071,7 +61071,7 @@
             "platform": "PC Game",
             "fileSize": "27GB",
             "arguments": [],
-            "buildID": "1.02.4 & 1.0.6",
+            "buildID": "1.03.1 & 1.0.9",
             "executable": "nrsc_launcher.exe",
             "filename": "00049.zip"
           },
@@ -89233,7 +89233,7 @@
             "identifier": "retro-nx",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
-            "emulator": "Ryujinx",
+            "emulator": "Eden",
             "fileSize": "6GB",
             "filenames": [
               "The Legend of Zelda Echoes of Wisdom.xci",
