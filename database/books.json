@@ -10097,5 +10097,38 @@
       }
     ],
     "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1766464098331_0",
+    "Title": "It",
+    "SortingTitle": "",
+    "Author": "Stephen King",
+    "Description": "In the quiet town of <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Derry, Maine</b>, an ancient evil awakens every twenty-seven years to feed on children.<br> When young <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Georgie Denbrough</b> is murdered by a creature disguised as <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Pennywise the Dancing Clown</b>, his brother Bill and six outcast friends form <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>the Losers Club</b>.<br> This <b style='color: #800080; text-shadow: 0 0 8px #800080;'>shapeshifting entity</b> exploits each child's deepest <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>fears</b>, manifesting as their worst nightmares.<br> The seven friends—<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>Bill, Ben, Beverly, Richie, Eddie, Stan, and Mike</b>—must confront this <b style='color: #A52A2A; text-shadow: 0 0 8px #A52A2A;'>trans-dimensional horror</b> in <b style='color: #696969; text-shadow: 0 0 8px #696969;'>the sewers beneath Derry</b>.<br> After their battle, they make a <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>blood oath</b> to return if It resurfaces.<br> Twenty-seven years later, the killings begin again, and <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>the Losers</b> must honor their childhood promise to face <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>Pennywise</b> once more.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في بلدة <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>ديري الهادئة</b>، يستيقظ شر قديم كل سبعة وعشرين عاماً ليتغذى على الأطفال.<br> عندما يُقتل الصغير <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>جورجي دينبرو</b> على يد مخلوق متنكر بهيئة <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>بينيوايز المهرج الراقص</b>، يشكل شقيقه بيل وستة أصدقاء منبوذين <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>نادي الخاسرين</b>.<br> هذا <b style='color: #800080; text-shadow: 0 0 8px #800080;'>الكيان المتحول</b> يستغل أعمق <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>مخاوف</b> كل طفل، متجسداً في صورة كوابيسهم المرعبة.<br> الأصدقاء السبعة—<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>بيل، بن، بيفرلي، ريتشي، إيدي، ستان، ومايك</b>—يجب عليهم مواجهة هذا <b style='color: #A52A2A; text-shadow: 0 0 8px #A52A2A;'>الرعب متعدد الأبعاد</b> في <b style='color: #696969; text-shadow: 0 0 8px #696969;'>مجاري ديري</b>.<br> بعد معركتهم، يقطعون <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>قسم دم</b> بالعودة إذا ظهر الشر مجدداً.<br> بعد سبعة وعشرين عاماً، تبدأ عمليات القتل من جديد، و<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الخاسرون</b> يجب أن يفوا بوعدهم لمواجهة <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>بينيوايز</b> مرة أخرى.<br></div>",
+    "ReleaseDate": "1986",
+    "CoverUrl": "https://archive.org/download/RPRM001/It%20Cover.jpg",
+    "Genre": [
+      "Horror"
+    ],
+    "Tags": [
+      "English Novels"
+    ],
+    "CriticScore": 80,
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB002",
+        "filename": "00318.epub",
+        "fileSize": "3 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB002",
+        "filename": "00318.mp3",
+        "fileSize": "4 GB"
+      }
+    ]
   }
 ]
