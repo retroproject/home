@@ -66241,6 +66241,7 @@
     "DescriptionArabic": "<div dir='rtl'>يخرج <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>الجوال الوحيد</span> من <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 6px #4169E1;'>القبو 101</span> إلى أنقاض <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>واشنطن العاصمة</span> المشعة، باحثاً عن والده المفقود في أرض قاحلة مدمرة.<br>يتنقل عبر أنفاق المترو المشعة والنصب التذكارية المدمرة والمستوطنات المعادية، يكشف عن <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>مشروع النقاء</span>، خطة تنقية مياه ضخمة يمكنها إنقاذ <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 6px #228B22;'>أرض العاصمة القاحلة</span>.<br>بينما يتصادم <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>المعقل</span> الفاشي و<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>أخوية الفولاذ</span> النبيلة على السيطرة، يجب على الجوال التنقل عبر الأنقاض الموبوءة بالمسوخ، واتخاذ خيارات أخلاقية تؤثر على مجتمعات بأكملها، وتحديد مصير البشرية. اكتشاف صلة والده بجهاز <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 6px #9370DB;'>جي.إي.سي.كي</span> الغامض والحقيقة حول تجارب <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>فولت-تك</span> يؤدي إلى تضحية ستحدد ما إذا كانت الأرض القاحلة سترى <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>ولادة جديدة</span> أم <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 6px #8B0000;'>انقراضاً</span>.</div>",
     "ReleaseDate": "2008-10-28",
     "CriticScore": 90,
+    "Length": 50,
     "BackgroundImage": "2a4714d9-da40-49e4-b430-2fc1e93364ce.jpeg",
     "CoverImage": "56c83e96-d4d4-499a-8227-76d37572eb87.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/2a4714d9-da40-49e4-b430-2fc1e93364ce.jpeg",
@@ -66263,16 +66264,23 @@
         "versions": [
           {
             "identifier": "CPC19",
-            "filename": "Fallout 3.zip",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "Fallout3.exe",
-            "fileSize": "7GB"
+            "fileSize": "7GB",
+            "executableFiles": [
+              "Fallout3.exe",
+              "FalloutLauncher.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "buildID": "4 June 2024",
+            "filename": "Fallout 3.zip"
           }
         ]
       }
-    },
-    "Length": 50
+    }
   },
   {
     "_id": "832c3c35-a39b-43c1-bad5-5ba842b7fc3b",
