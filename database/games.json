@@ -33951,6 +33951,7 @@
     "DescriptionArabic": "<div dir='rtl'>يصل فيزيائي نظري <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>جوردون فريمان</span> إلى عمله في صباح يوم ثلاثاء عادي في <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>مرفق بحوث بلاك ميسا</span>، غير مدرك أن تجربته الروتينية ستمزق نسيج الواقع نفسه.<br>عندما تحول كارثة <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>التردد المتزايد</span> المختبرات المعقمة إلى ساحة معركة كابوسية، يجب على جوردون أن يتنقل عبر <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>أهوال فضائية</span> من بعد آخر و<span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>فرق تنظيف عسكرية</span> عازمة على إسكات جميع الشهود.<br>مسلح بلا شيء سوى <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>بذلته الواقية</span> وأي أسلحة يمكنه جمعها، يقاتل هذا البطل غير المتوقع عبر الممرات المنهارة حيث تكمن <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>قبعات الرؤوس</span> في كل ظل و<span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>حراس الأمن</span> أصبحوا حلفاءه الوحيدين.<br>تثبت هذه الحكاية الرائدة للبقاء والاكتشاف أن أخطر تجربة أحياناً ليست التي تفشل—إنها التي تنجح بشكل مفرط، فاتحة أبواباً إلى عوالم حيث يلتقي <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>العلم بالرعب</span> والناس العاديون يصبحون <span style='color:#8B008B; font-weight:bold; text-shadow: 0 0 8px #8B008B;'>أبطالاً غير متوقعين</span>.</div>",
     "ReleaseDate": "1998-11-19",
     "CriticScore": 90,
+    "Length": 15,
     "BackgroundImage": "dd0d0ab4-0dec-4843-bb0e-d4e0c2915414.jpeg",
     "CoverImage": "498c4399-820c-425d-aae7-84ab88087ddf.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/dd0d0ab4-0dec-4843-bb0e-d4e0c2915414.jpeg",
@@ -33973,16 +33974,16 @@
         "versions": [
           {
             "identifier": "CPC25",
-            "filename": "Black Mesa.zip",
             "name": "Enhanced",
             "platform": "PC Game",
             "executable": "bms.exe",
-            "fileSize": "16GB"
+            "fileSize": "16GB",
+            "buildID": "1 July 2025",
+            "filename": "Black Mesa.zip"
           }
         ]
       }
-    },
-    "Length": 15
+    }
   },
   {
     "_id": "43ac7b23-f6a7-4a20-9a5a-c10ed28d6318",
@@ -44023,6 +44024,7 @@
     "DescriptionArabic": "عندما تخنق سلاسل الاستبداد جنة البحر المتوسط، تصبح عودة رجل واحد الشرارة التي تشعل ثورة مكتوبة <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>بالنار والفوضى</span>.<br>يعود <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>ريكو رودريجز</span> إلى وطنه <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>ميديتشي</span>، دولة الجزيرة الجميلة التي سحقت تحت القبضة الحديدية <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>للجنرال سيباستيانو دي رافيلو</span>، الذي حول نظامه العسكري الجنة إلى سجن من القهر.<br>مسلح <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>بخطافه الأسطوري</span> وترسانة من الإبداع المتفجر، على ريكو أن يهدم رموز الدكتاتورية التي تندب المناظر الطبيعية كنصب تذكارية للخوف.<br>كل <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>قاعدة عسكرية</span> مدمرة، وكل <span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>تمثال منهار</span>، وكل جسر منهار يرسل رسالة تتردد عبر الجبال والشواطئ: الحرية لا يمكن حبسها إلى الأبد.<br>بينما يحلق ريكو عبر السماء الزرقاء تاركاً وراءه الدخان والدمار، يكتشف أن التحرير له ثمن لا يقاس فقط بالانفجارات، بل بالشجاعة للوقوف ضد الاحتمالات المستحيلة عندما يصرخ وطنك طلباً للخلاص.",
     "ReleaseDate": "2015-11-30",
     "CriticScore": 85,
+    "Length": 25,
     "BackgroundImage": "e9b4e0eb-0af6-47c2-bb72-6945fd3d9fb5.jpeg",
     "CoverImage": "1c8de467-1fb0-423d-a43a-d425c798571a.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/e9b4e0eb-0af6-47c2-bb72-6945fd3d9fb5.jpeg",
@@ -44045,16 +44047,16 @@
         "versions": [
           {
             "identifier": "CPC14",
-            "filename": "Just Cause 3.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "JustCause3.exe",
-            "fileSize": "49GB"
+            "fileSize": "49GB",
+            "buildID": "17 December 2025",
+            "filename": "Just Cause 3.zip"
           }
         ]
       }
-    },
-    "Length": 25
+    }
   },
   {
     "_id": "5956db14-2a7c-4972-8978-1519c0a6499b",
@@ -55159,6 +55161,7 @@
     "DescriptionArabic": "<div dir='rtl'>في قارة <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>فالانديس</span> الممزقة بالحروب، حيث تصطدم <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 6px #9370DB;'>الآلات القديمة</span> مع <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>السحر الصوفي</span>، تقف ثلاث ممالك محبوسة في صراع أبدي حتى تنهار معاهدة سلام هشة عندما تظهر <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 6px #DC143C;'>أسطولة السماء</span> بشكل غامض، تمطر الدمار من السماوات العالية.<br>الفارس الشجاع <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>غلين</span> يقود فرقة متنوعة من الأبطال تشمل <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 6px #FF6347;'>كيليان</span> الشرس، <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 8px #FFB6C1;'>لين</span> الصوفية، و<span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 6px #2F4F4F;'>فيكتور</span> الغامض عبر عالم حيث <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>المؤامرات السياسية</span> تتنسج عبر كل تحالف والخيانة تكمن وراء كل ابتسامة.<br>من الجزر العائمة لـ<span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 6px #00CED1;'>شامبالا</span> إلى المدن الميكانيكية حيث <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>عمالقة البخار</span> تسير جنباً إلى جنب مع <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 6px #FFD700;'>محاربي السيوف</span>، يجب عليهم كشف الحقيقة وراء أصول الأسطول أثناء منع عالمهم من الاستهلاك بالحرب اللانهائية.<br>في هذه الحكاية الملحمية حيث الصداقة تتجاوز الحدود والأمل ينتصر على الكراهية، يكتشف أبطالنا أن حتى <span style='color:#8B008B; font-weight:bold; text-shadow: 0 0 8px #8B008B;'>أعمق جراح</span> التاريخ يمكن أن تشفى عندما يختار الناس كسر <span style='color:#696969; font-weight:bold; text-shadow: 0 0 6px #696969;'>سلاسل ماضيهم</span>.</div>",
     "ReleaseDate": "2022-12-8",
     "CriticScore": 100,
+    "Length": 35,
     "BackgroundImage": "0cdc5c60-07a9-4492-86fb-6402495f9749.jpg",
     "CoverImage": "b5dc9286-a160-432b-8bf4-e9a9d08c52cb.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/0cdc5c60-07a9-4492-86fb-6402495f9749.jpg",
@@ -55185,13 +55188,12 @@
             "platform": "PC Game",
             "executable": "Chained Echoes.exe",
             "fileSize": "630MB",
-            "buildID": "14 August 2025",
+            "buildID": "11 December 2025",
             "filename": "00070.zip"
           }
         ]
       }
-    },
-    "Length": 35
+    }
   },
   {
     "_id": "6d91471d-9f9e-4a53-a4b5-bd10a6c8f60d",
@@ -115546,6 +115548,7 @@
     "DescriptionArabic": "<div dir='rtl'>يكتشف طفل فضولي أن <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>العالم وراء نافذته</span> يحمل أسراراً أغرب بكثير من أي شيء في <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>غرفة نومه الدافئة</span>.<br><span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>ظلال</span> غريبة ترقص عبر <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 6px #FFD700;'>الفناء المضاء بضوء القمر</span>، و<span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>عيون متوهجة</span> ترقب من <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>الغابة المظلمة</span>.<br>كل لمحة عبر <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>الزجاج</span> تكشف عجائب و<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>أهوال</span> جديدة، تعلم أن <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>الفضول</span> و<span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 6px #DDA0DD;'>الخيال</span> يمكن أن يحوّلا <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>ليلة</span> عادية إلى مغامرة استثنائية.</div>",
     "ReleaseDate": "2025-3-21",
     "CriticScore": 85,
+    "Length": 5,
     "BackgroundImage": "a0c2a85c-6864-4023-8804-d72641ccdcaf.jpeg",
     "CoverImage": "a94dc03f-956f-4964-945d-819f8c66b51f.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/a0c2a85c-6864-4023-8804-d72641ccdcaf.jpeg",
@@ -115574,13 +115577,12 @@
             "fileSize": "550MB",
             "arguments": [],
             "executable": "Game.exe",
-            "buildID": "1 November 2025",
+            "buildID": "27 November 2025",
             "filename": "00161.zip"
           }
         ]
       }
-    },
-    "Length": 5
+    }
   },
   {
     "_id": "ded485b9-6d8c-483a-b84c-2bcb4e5aee56",
@@ -135623,6 +135625,7 @@
     "DescriptionArabic": "<div dir='rtl'><span style=\"color: #8B0000; font-weight: bold; text-shadow: 0 0 8px #8B0000;\">كايل كرين</span> يستيقظ مقيداً بالسلاسل، وعروقه تحترق بـ<span style=\"color: #FF4500; font-weight: bold; text-shadow: 0 0 8px #FF4500;\">الحمض النووي للزومبي</span> بعد سنوات من <span style=\"color: #B22222; font-weight: bold; text-shadow: 0 0 8px #B22222;\">تجارب البارون القاسية</span> التي حولته إلى كائن ليس بشرياً ولا ميتاً حياً.<br> هارباً إلى <span style=\"color: #2F4F4F; font-weight: bold; text-shadow: 0 0 8px #2F4F4F;\">غابات كاستور</span> الشاسعة، عليه أن يسيطر على <span style=\"color: #800020; font-weight: bold; text-shadow: 0 0 8px #800020;\">الوحش بداخله</span> بينما يصطاد عبر المدن السياحية والمستنقعات والأراضي الزراعية حيث <span style=\"color: #CD5C5C; font-weight: bold; text-shadow: 0 0 8px #CD5C5C;\">جحافل المصابين</span> تصبح أكثر فتكاً عندما <span style=\"color: #483D8B; font-weight: bold; text-shadow: 0 0 8px #483D8B;\">يحل الليل</span>.<br> كل مواجهة وحشية تدفع كرين أعمق نحو <span style=\"color: #8B4513; font-weight: bold; text-shadow: 0 0 8px #8B4513;\">تحوله الرهيب</span>، مجبراً إياه على الموازنة بين إنسانيته المتلاشية و<span style=\"color: #A52A2A; font-weight: bold; text-shadow: 0 0 8px #A52A2A;\">القوة الهمجية</span> اللازمة للانتقام.<br> عندما <span style=\"color: #696969; font-weight: bold; text-shadow: 0 0 8px #696969;\">تنتشر العدوى</span> و<span style=\"color: #DC143C; font-weight: bold; text-shadow: 0 0 8px #DC143C;\">يسيطر الوحش</span>، هل سيصبح كرين منقذ المنطقة أم أكثر مفترسيها رعباً؟<br></div>",
     "ReleaseDate": "2025",
     "CriticScore": 85,
+    "Length": 25,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Dying%20Light%20The%20Beast.jpeg",
     "CoverUrl": "https://archive.org/download/RPRM001/Dying%20Light%20The%20Beast%20Cover.png",
     "YouTubeUrl": "https://archive.org/download/RPRV001/Dying%20Light%20The%20Beast%20Trailer.mp4",
@@ -135657,14 +135660,13 @@
             "platform": "PC Game",
             "fileSize": "60GB",
             "executable": "ph_ft\\work\\bin\\x64\\DyingLightGame_TheBeast_x64_rwdi.exe",
-            "buildID": "18 September 2025",
+            "buildID": "17 December 2025",
             "arguments": [],
             "filename": "00081.zip"
           }
         ]
       }
-    },
-    "Length": 25
+    }
   },
   {
     "_id": "game_1758272065222_1",
@@ -142529,5 +142531,128 @@
       }
     },
     "Length": 20
+  },
+  {
+    "_id": "game_1766606487500_0",
+    "Name": "MediEvil II",
+    "SortingName": "MediEvil 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2000",
+    "CriticScore": 80,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/MediEvil%20II%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/MediEvil%20II%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/MediEvil%20II%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/MediEvil%20II%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation"
+    ],
+    "GenreNames": [
+      "Platformer"
+    ],
+    "DeveloperNames": [
+      "SCEE Cambridge Studio"
+    ],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "retro-psx",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 1",
+            "fileSize": "260 MB",
+            "arguments": [],
+            "emulator": "DuckStation",
+            "romFile": "MediEvil II.chd",
+            "filename": "MediEvil II.chd"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1766606487500_1",
+    "Name": "MediEvil",
+    "SortingName": "MediEvil 01.00",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "1998",
+    "CriticScore": 80,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/MediEvil%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/MediEvil%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/MediEvil%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 170.062948,
+    "MusicUrl": "https://archive.org/download/RPRM001/MediEvil%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation"
+    ],
+    "GenreNames": [
+      "Platformer"
+    ],
+    "DeveloperNames": [
+      "SCEE Cambridge Studio"
+    ],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "retro-psx",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 1",
+            "fileSize": "320 MB",
+            "arguments": [],
+            "emulator": "DuckStation",
+            "romFile": "MediEvil.chd",
+            "filename": "MediEvil.chd"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1766606759528_0",
+    "Name": "MediEvil Resurrection PSP",
+    "SortingName": "MediEvil 01.01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2005",
+    "CriticScore": 80,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/MediEvil%20Resurrection%20PSP%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/MediEvil%20Resurrection%20PSP%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/MediEvil%20Resurrection%20PSP%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/MediEvil%20Resurrection%20PSP%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation Portable"
+    ],
+    "GenreNames": [
+      "Platformer"
+    ],
+    "DeveloperNames": [
+      "SCEE Cambridge Studio"
+    ],
+    "downloadInfo": {
+      "Sony PlayStation Portable": {
+        "versions": [
+          {
+            "identifier": "retro-psp",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation Portable",
+            "fileSize": "2 GB",
+            "arguments": [],
+            "emulator": "PPSSPP",
+            "romFile": "MediEvil Resurrection PSP.iso",
+            "filename": "MediEvil Resurrection PSP.iso"
+          }
+        ]
+      }
+    }
   }
 ]
