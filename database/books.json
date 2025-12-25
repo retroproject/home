@@ -10143,13 +10143,38 @@
     "CriticScore": 100,
     "CoverUrl": "https://archive.org/download/RPRM001/Devil%20May%20Cry%205%20Before%20the%20Nightmare%20Cover.jpg",
     "Genre": [],
-    "Tags": [],
+    "Tags": [
+      "Japanese Novels"
+    ],
     "booksUrl": [
       {
         "format": "EPUB",
         "identifier": "RBRB002",
         "filename": "00319.epub",
         "fileSize": "2 MB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1766657585805_0",
+    "Title": "Devil May Cry 3 Manga",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/Devil%20May%20Cry%203%20Manga%20Cover.jpg",
+    "Genre": [],
+    "Tags": [
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00320.zip",
+        "fileSize": "500MB"
       }
     ],
     "audiobooksUrl": []
