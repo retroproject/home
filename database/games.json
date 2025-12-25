@@ -142654,5 +142654,73 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1766642940047_0",
+    "Name": "Dino Stalker",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Dino%20Stalker%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Dino%20Stalker%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Dino%20Stalker%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 66.896689,
+    "MusicUrl": "https://archive.org/download/RPRM001/Dino%20Stalker%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 2"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "2 GB",
+            "filename": "Dino Stalker.iso",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1766642940047_1",
+    "Name": "Resident Evil Survivor 2",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Resident%20Evil%20Survivor%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Resident%20Evil%20Survivor%202%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Resident%20Evil%20Survivor%202%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Resident%20Evil%20Survivor%202%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 2"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "2 GB",
+            "filename": "Resident Evil Survivor 2.iso",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
