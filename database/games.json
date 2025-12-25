@@ -65846,6 +65846,7 @@
     "DescriptionArabic": "<div dir='rtl'>ينضم الصياد المبتدئ <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>أكسل</span> إلى المخضرمين <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 6px #4169E1;'>إكس</span> و<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>زيرو</span> لإيقاف <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>نقابة الإنذار الأحمر</span> الضخمة.<br>يقاتلون عبر <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 6px #228B22;'>المدن الإلكترونية</span> و<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>مصانع الروبوتات</span>، يحاربون جيش <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الميكانيلويد</span> الشاهق.<br>بينما ينكشف ماضي أكسل الغامض، يكتشف الفريق أن هزيمة <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 6px #B22222;'>الأحمر</span> تتطلب إتقان <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>قدرات التحول</span> الجديدة ومواجهة الخيانة في صفوفهم.</div>",
     "ReleaseDate": "2003-7-17",
     "CriticScore": 65,
+    "Length": 10,
     "BackgroundImage": "d86aaf24-0c4d-4763-93b9-aecdfda655af.jpg",
     "CoverImage": "66dbd3ab-4098-4062-9642-3b0a30a49f5a.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/d86aaf24-0c4d-4763-93b9-aecdfda655af.jpg",
@@ -65868,17 +65869,17 @@
         "versions": [
           {
             "identifier": "P0201",
-            "filename": "Mega Man X7 Ns Edition.iso",
             "name": "Vanilla",
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "2GB",
-            "romFile": "Mega Man X7 Ns Edition.iso"
+            "romFile": "Mega Man X7 Ns Edition.iso",
+            "mods": "N Edition 1.4",
+            "filename": "Mega Man X7 Ns Edition.iso"
           }
         ]
       }
-    },
-    "Length": 10
+    }
   },
   {
     "_id": "8230bb92-1f93-4721-8cea-151b2d9c403a",
