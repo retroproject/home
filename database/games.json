@@ -30948,6 +30948,7 @@
     "DescriptionArabic": "<div dir='rtl'>في أعقاب <span style='color:#FF0000; font-weight:bold; text-shadow: 0 0 8px #FF0000;'>تضحية زيرو</span>، يكافح العالم للبناء من جديد بينما يطلق عالم غامض يدعى <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>جيت</span> <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>فيروسات الكابوس</span> المريعة التي تفسد الريبلويدز بما يتجاوز التعرف عليها.<br>يجب على <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>ميجا مان إكس</span> أن يتنقل عبر <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>مناطق موبوءة بالكوابيس</span> حيث ينحني الواقع نفسه وينكسر، مواجهاً <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>أشكال ريبلويد ملتوية</span> ولدت من الفساد الرقمي.<br>بينما يدفع هوس جيت بـ<span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>الحمض النووي لزيرو</span> إلى خلق السلاح النهائي، يكتشف إكس أن بعض الروابط تتجاوز حتى الموت عندما تعود <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>روح</span> صديقه الساقط إلى السطح في الفراغ الرقمي.<br>يتضبب الخط بين <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>الأحلام والكوابيس</span> بينما يقاتل إكس ليس فقط من أجل المستقبل، بل من أجل ذكرى أولئك الذين أعطوا كل شيء لحمايته.</div>",
     "ReleaseDate": "2001-11-29",
     "CriticScore": 80,
+    "Length": 10,
     "BackgroundImage": "38f32116-3913-4115-af6f-90e832344adb.jpg",
     "CoverImage": "f23e99fc-508e-4af2-b3a4-d76a92b65083.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/38f32116-3913-4115-af6f-90e832344adb.jpg",
@@ -30971,17 +30972,29 @@
         "versions": [
           {
             "identifier": "retro-psx",
-            "filename": "Mega Man X6.img",
-            "name": "Vanilla",
+            "name": "Collection",
             "platform": "Sony PlayStation 1",
             "emulator": "DuckStation",
-            "fileSize": "600MB",
-            "romFile": "Mega Man X6.img"
+            "fileSize": "1GB",
+            "romFiles": [
+              "Mega Man X6.img",
+              "Mega Man X6 [N Edition].chd",
+              "Mega Man X6 [Tweaks].chd"
+            ],
+            "mods": [
+              "N Edition 1.8.6",
+              "Tweaks 2.6"
+            ],
+            "romLabels": [
+              "Vanilla",
+              "N Edition",
+              "Tweaks"
+            ],
+            "filename": "Mega Man X6.zip"
           }
         ]
       }
-    },
-    "Length": 10
+    }
   },
   {
     "_id": "3d22c58c-1d1b-4e44-909b-b5b84354c38e",
@@ -50865,6 +50878,7 @@
     "DescriptionArabic": "<div dir='rtl'>تندفع <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>مستعمرة يوراسيا</span> نحو الأرض بينما ينتشر <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>فيروس سيغما</span> عبر الشبكة العالمية.<br>يواجه <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>إكس</span> و<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>زيرو</span> أعظم محنة لهما حيث يهدد <span style='color:#8B008B; font-weight:bold; text-shadow: 0 0 8px #8B008B;'>فساد الفيروس</span> بتحويل زيرو إلى المدمر الذي كان مقدراً له أن يكون.<br>يستسلم <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>أصدقاء الصيادين</span> للفيروس واحداً تلو الآخر، وتتحول قلوبهم النبيلة إلى <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>كوابيس ميكانيكية</span>.<br>كل معركة تثقل على روح إكس، عالماً أن تحت الدرع الفاسد يكمن شخص كان يدعوه <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>أخاً</span> ذات يوم.<br>مع بدء <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>العد التنازلي</span>، تواجه الصداقة اختبارها الأقسى بين <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>الواجب</span> و<span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>التضحية</span>.<br>يصبح المعنى الحقيقي لكونك <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>صياد المارقين</span> واضحاً بشكل مؤلم.</div>",
     "ReleaseDate": "2000-11-30",
     "CriticScore": 85,
+    "Length": 10,
     "BackgroundImage": "4ec9d340-fed9-4776-b1c3-34cc36fe9ddd.jpg",
     "CoverImage": "a62136fb-c86b-4190-8b81-544262628795.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/4ec9d340-fed9-4776-b1c3-34cc36fe9ddd.jpg",
@@ -50892,17 +50906,24 @@
         "versions": [
           {
             "identifier": "retro-psx",
-            "filename": "Mega Man X5.img",
-            "name": "Vanilla",
+            "name": "Collection",
             "platform": "Sony PlayStation 1",
             "emulator": "DuckStation",
             "fileSize": "700MB",
-            "romFile": "Mega Man X5.img"
+            "romFiles": [
+              "Mega Man X5.img",
+              "Mega Man X5 [Improvement Project Addendum].chd"
+            ],
+            "romLabels": [
+              "Vanilla",
+              "Project Addendum"
+            ],
+            "mods": "Project Addendum 2.6",
+            "filename": "Mega Man X5.zip"
           }
         ]
       }
-    },
-    "Length": 10
+    }
   },
   {
     "_id": "662f3989-f14d-40ec-8974-775d247e1a3a",
