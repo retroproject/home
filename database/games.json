@@ -46105,6 +46105,7 @@
     "DescriptionArabic": "في <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>نهضة القرن الحادي والعشرين التكنولوجية</span>، يتشوش الخط الفاصل بين الريبلويد والمتمرد بينما يُعلن <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>الكولونيل</span> و<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>قوة الريبلي</span> أعداء للبشرية<br>يجب على كل من <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>إكس</span> و<span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>زيرو</span> اختيار مساراتهما عبر هذه الحرب الأهلية، بينما يشهر إكس <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>مدفع البلازما</span> ويتقن زيرو <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>سيف الزد</span> القاتل<br>بينما ينشر <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>ثمانية متمردين أقوياء</span> الفوضى عبر العالم، يجب على كل صياد مواجهة أعمق مخاوفه حول طبيعة العدالة والتضحية<br>في هذه <span style='color:#DA70D6; font-weight:bold; text-shadow: 0 0 8px #DA70D6;'>الحكاية المزدوجة</span> حيث <span style='color:#20B2AA; font-weight:bold; text-shadow: 0 0 8px #20B2AA;'>تتخذ البطولة أشكالاً عديدة</span>، أعظم المعارك ليست ضد الآلات، بل ضد <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>الظلام الكامن</span> في برمجة الذات",
     "ReleaseDate": "1997-8-1",
     "CriticScore": 100,
+    "Length": 5,
     "BackgroundImage": "6aa69cde-32c5-4dd0-b5b9-9d830d81bb44.jpg",
     "CoverImage": "8f6a4e86-90df-42d3-841c-82bed41fadcb.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/6aa69cde-32c5-4dd0-b5b9-9d830d81bb44.jpg",
@@ -46130,17 +46131,24 @@
         "versions": [
           {
             "identifier": "retro-psx",
-            "filename": "Mega Man X4.img",
-            "name": "Vanilla",
+            "name": "Collection",
             "platform": "Sony PlayStation 1",
             "emulator": "DuckStation",
-            "fileSize": "600MB",
-            "romFile": "Mega Man X4.img"
+            "fileSize": "1GB",
+            "romFiles": [
+              "Mega Man X4.img",
+              "Mega Man X4 [Undub+Retranslation].chd"
+            ],
+            "romLabels": [
+              "Vanilla",
+              "Enhanced"
+            ],
+            "buildID": "1.14",
+            "filename": "Mega Man X4.zip"
           }
         ]
       }
-    },
-    "Length": 5
+    }
   },
   {
     "_id": "5daac8e0-80a4-4a8e-963a-f3514191c411",
