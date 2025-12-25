@@ -138445,6 +138445,7 @@
     "DescriptionArabic": "<div dir='rtl'><b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>لقب الإطلاق</b> من Konami لـXbox يجلب <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>قتال قمرة القيادة</b> المكثف إلى جهاز Microsoft الأول مع أكثر من <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>سبعين طائرة عسكرية</b> مصممة من مقاتلات حقيقية.<br>تنقل عبر <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>خريطة العالم</b> الاستراتيجية، محركاً سربك عبر <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>نقاط تفتيش</b> مختلفة قبل الانطلاق إلى مهام مليئة بالأدرينالين مع <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>نيران المدافع الرشاشة</b> و<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>معارك جوية</b> وحشية.<br>أتقن كل شيء من <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>البراميل الدوارة</b> الدقيقة إلى <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>مناورات التهرب</b> المعقدة بينما تواجه مقاتلين معاديين في <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>معارك السيادة الجوية</b> عبر مناطق قتالية متنوعة.<br>ثلاثة مستويات صعوبة تستوعب الجميع من <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>الطيارين المبتدئين</b> الذين يمكنهم الطيران دون إتقان الميل والانعراج إلى المحترفين الذين يسعون لعمق <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>محاكاة الطيران</b> الأصيل.<br>بينما لاحظ النقاد هيكل المهام المتكرر، أظهر <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>قائمة الطائرات</b> الضخمة والمرئيات المذهلة قوة Xbox في تجربة الطيران القتالي هذه من <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>نوفمبر 2001</b>.</div>",
     "ReleaseDate": "2001",
     "CriticScore": 60,
+    "Length": 15,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Xbox%20Games%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Airforce%20Delta%20Storm%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRV001/Airforce%20Delta%20Storm%20Trailer.mp4",
@@ -138468,15 +138469,14 @@
             "name": "Vanilla",
             "platform": "Microsoft Xbox",
             "fileSize": "2 GB",
-            "arguments": [],
+            "arguments": "-dvd_path",
             "emulator": "Xemu",
             "romFile": "AirForce Delta Storm.iso",
             "filename": "AirForce Delta Storm.iso"
           }
         ]
       }
-    },
-    "Length": 15
+    }
   },
   {
     "_id": "game_1764783629529_0",
@@ -142730,6 +142730,86 @@
             "emulator": "PCSX2",
             "romFile": "Resident Evil Survivor 2.iso",
             "filename": "Resident Evil Survivor 2.iso"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1766650080438_0",
+    "Name": "Crimson Sea",
+    "SortingName": "Crimson Sea 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2002",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Crimson%20Sea%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Crimson%20Sea%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Crimson%20Sea%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 66.31619,
+    "MusicUrl": "https://archive.org/download/RPRM001/Crimson%20Sea%20Theme.mp3",
+    "PlatformNames": [
+      "Microsoft Xbox"
+    ],
+    "GenreNames": [
+      "Japanese Role-Playing"
+    ],
+    "DeveloperNames": [
+      "Koei"
+    ],
+    "downloadInfo": {
+      "Microsoft Xbox": {
+        "versions": [
+          {
+            "identifier": "X00X00",
+            "name": "Vanilla",
+            "platform": "Microsoft Xbox",
+            "fileSize": "3 GB",
+            "arguments": "-dvd_path",
+            "emulator": "Xemu",
+            "romFile": "Crimson Sea.iso",
+            "filename": "Crimson Sea.iso"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1766650093036_0",
+    "Name": "Crimson Sea 2",
+    "SortingName": "Crimson Sea 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2004",
+    "CriticScore": 80,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Crimson%20Sea%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Crimson%20Sea%202%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Crimson%20Sea%202%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Crimson%20Sea%202%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 2"
+    ],
+    "GenreNames": [
+      "Japanese Role-Playing"
+    ],
+    "DeveloperNames": [
+      "Koei"
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "5 GB",
+            "arguments": [],
+            "emulator": "PCSX2",
+            "romFile": "Crimson Sea 2.iso",
+            "filename": "Crimson Sea 2.iso"
           }
         ]
       }
