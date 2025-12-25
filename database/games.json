@@ -27556,11 +27556,12 @@
     "_id": "35ffc1c4-56d8-4424-a4db-dcb09fce10d0",
     "GameId": "8b467f2f-6025-4e58-8da2-34cb6e23e711",
     "Name": "Resident Evil: Dead Aim",
-    "SortingName": "Resident Evil 31",
+    "SortingName": "Resident Evil 30.03",
     "Description": "🎯 Target acquired! Agent <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>Bruce McGivern</span> thought he was signing up for a routine anti-bioterrorism mission aboard the luxury cruise ship <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Spencer Rain</span>, but surprise!—it's actually a floating <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>zombie buffet</span> courtesy of <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>Umbrella Corporation's</span> latest bioweapon experiment. Teaming up with the mysterious government agent <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>Fong Ling</span>, Bruce must navigate through <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>cramped ship corridors</span> filled with <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>mutated passengers</span> and <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>grotesque sea creatures</span>. Armed with a trusty <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>handgun</span> and an impressive supply of <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>ammunition</span> (because apparently survival horror means never running out of bullets), Bruce discovers that the real enemy isn't just the <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>T-Virus</span>—it's the awkward camera angles.",
     "DescriptionArabic": "<div dir='rtl'>🎯 تم تحديد الهدف! اعتقد العميل <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>بروس ماكجيفيرن</span> أنه يسجل في مهمة مكافحة الإرهاب البيولوجي روتينية على متن سفينة الرحلات الفاخرة <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>سبينسر رين</span>، لكن مفاجأة!—هي في الواقع <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>بوفيه زومبي عائم</span> بلطف من <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>شركة أمبريلا</span> وتجربتها الأحدث في الأسلحة البيولوجية. بالتعاون مع عميلة الحكومة الغامضة <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>فونغ لينغ</span>، يجب على بروس أن يتنقل عبر <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>ممرات السفينة الضيقة</span> المليئة بـ<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>ركاب متحولين</span> و<span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>مخلوقات بحرية بشعة</span>. مسلح بـ<span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>مسدس موثوق</span> ومخزون مثير للإعجاب من <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>الذخيرة</span> (لأن رعب البقاء يعني على ما يبدو عدم نفاد الرصاص أبداً)، يكتشف بروس أن العدو الحقيقي ليس فقط <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>فيروس تي</span>—بل زوايا الكاميرا المحرجة.</div>",
     "ReleaseDate": "2003-2-13",
     "CriticScore": 80,
+    "Length": 10,
     "BackgroundImage": "5cd5ee53-9bd0-4f3a-b58b-8c544d1f3d29.jpg",
     "CoverImage": "90c29608-fa25-4cb8-b62c-c654ec26c803.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/5cd5ee53-9bd0-4f3a-b58b-8c544d1f3d29.jpg",
@@ -27600,8 +27601,7 @@
           }
         ]
       }
-    },
-    "Length": 10
+    }
   },
   {
     "_id": "3601a606-1c38-4a8c-a55d-fcb06c47e479",
@@ -50175,11 +50175,12 @@
     "_id": "65641c4f-07f2-4409-bc83-9a40bf6acd5a",
     "GameId": "43747e99-8ab4-4dde-98a7-8d10821b3c2c",
     "Name": "Resident Evil Survivor",
-    "SortingName": "Resident Evil 30",
+    "SortingName": "Resident Evil 30.01",
     "Description": "When amnesiac survivor <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Ark Thompson</span> awakens on cursed <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 6px #4B0082;'>Sheena Island</span>, he discovers <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Umbrella Corporation</span> has transformed this facility into a nightmare laboratory.<br>As <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 6px #DC143C;'>T-Virus</span> infected monsters stalk abandoned corridors, Ark must piece together fragments of his identity while uncovering horrific experiments that created <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Hypnos-T Type</span>.<br>With the island's automated systems sealing escape routes, he faces twisted <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 6px #9370DB;'>Commander Vincent</span> and discovers his own dark connection to Umbrella's biological weapons program.<br>In this isolated tale of <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>survival and revelation</span>, one man's journey through hell becomes a fight for <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 6px #1E90FF;'>redemption and escape</span>.",
     "DescriptionArabic": "<div dir='rtl'>عندما يستيقظ الناجي المصاب بفقدان الذاكرة <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>آرك طومسون</span> على <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 6px #4B0082;'>جزيرة شينا</span> الملعونة، يكتشف أن <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>شركة أمبريلا</span> حولت هذه المنشأة إلى مختبر كابوس<br>بينما تطارد الوحوش المصابة بـ<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 6px #DC143C;'>فيروس تي</span> عبر الممرات المهجورة، يجب على آرك تجميع شظايا هويته بينما يكشف التجارب المرعبة التي خلقت <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>نوع هيبنوس-تي</span><br>مع أنظمة الجزيرة الآلية تغلق طرق الهروب، يواجه <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 6px #9370DB;'>القائد فينسنت</span> الملتوي ويكتشف ارتباطه المظلم ببرنامج الأسلحة البيولوجية لأمبريلا<br>في هذه الحكاية المعزولة عن <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>البقاء والوحي</span>، تصبح رحلة رجل واحد عبر الجحيم معركة من أجل <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 6px #1E90FF;'>الفداء والهروب</span></div>",
     "ReleaseDate": "2000-1-27",
     "CriticScore": 80,
+    "Length": 5,
     "BackgroundImage": "167cc308-740a-463f-a424-383e1874d4cb.jpg",
     "CoverImage": "4434b2af-1e44-4485-a350-a40f925c0363.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/167cc308-740a-463f-a424-383e1874d4cb.jpg",
@@ -50211,8 +50212,7 @@
           }
         ]
       }
-    },
-    "Length": 5
+    }
   },
   {
     "_id": "6564a68d-d2fb-4087-ace1-1e73a87e0de2",
@@ -107395,11 +107395,12 @@
     "_id": "ce5847d4-39b3-4c44-86ed-44d3aea0d036",
     "GameId": "25579d7874bd3c49680c622af8b2a029",
     "Name": "Dino Crisis 2",
-    "SortingName": "Dino Crisis 02",
+    "SortingName": "Dino Crisis 02.01",
     "Description": "Prehistoric nightmares return with vengeance as <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>Regina</span> and her tactical team are transported to a twisted future where a failed time experiment has created a world where <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 6px #228B22;'>dinosaurs rule</span> and humanity clings to survival in fortified settlements.<br>The military facility <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>Edward City</span> stands as humanity's last bastion against prehistoric predators, while massive <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 6px #8B0000;'>Tyrannosaurus Rex</span> and cunning <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Velociraptors</span> hunt through streets that once belonged to civilization.<br>Armed with advanced weaponry, Regina partners with soldier <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 6px #4169E1;'>Dylan Morton</span> as they battle through <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>jungle ruins</span> and <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 6px #DC143C;'>research laboratories</span> overrun by prehistoric horrors that shouldn't exist.<br>As the truth behind the <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Third Energy</span> experiment unfolds, they discover that escaping this dinosaur-infested hellscape requires confronting the <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 6px #B22222;'>ultimate alpha predator</span> in a final battle for humanity's future.",
     "DescriptionArabic": "<div dir='rtl'>كوابيس ما قبل التاريخ تعود بانتقام بينما <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>ريجينا</span> وفريقها التكتيكي يُنقلون إلى مستقبل ملتوٍ حيث تجربة زمنية فاشلة خلقت عالماً <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 6px #228B22;'>تحكمه الديناصورات</span> والبشرية تتشبث بالبقاء في مستوطنات محصنة.<br>المنشأة العسكرية <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>مدينة إدوارد</span> تقف كآخر معاقل البشرية ضد المفترسات من عصور ما قبل التاريخ، بينما <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 6px #8B0000;'>التيرانوصور ريكس</span> الضخم و<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>الفيلوسيرابتور</span> الماكر يتصيدان عبر شوارع كانت ملكاً للحضارة يوماً.<br>مسلحة بأسلحة متقدمة، ريجينا تتشارك مع الجندي <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 6px #4169E1;'>ديلان مورتون</span> بينما يقاتلان عبر <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>أطلال الأدغال</span> و<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 6px #DC143C;'>المختبرات البحثية</span> التي اجتاحتها أهوال ما قبل التاريخ التي لا يجب أن توجد.<br>بينما الحقيقة وراء تجربة <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>الطاقة الثالثة</span> تتكشف، يكتشفان أن الهروب من هذا الجحيم المليء بالديناصورات يتطلب مواجهة <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 6px #B22222;'>المفترس الألفا الأعظم</span> في معركة أخيرة لمستقبل البشرية.</div>",
     "ReleaseDate": "2000-9-13",
     "CriticScore": 100,
+    "Length": 10,
     "BackgroundImage": "6e4aee6e-e83e-4b92-9aaf-d3e218f71b5f.jpeg",
     "CoverImage": "d2c14b7b-c278-4d7f-812c-012b3019bd5c.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/6e4aee6e-e83e-4b92-9aaf-d3e218f71b5f.jpeg",
@@ -107430,8 +107431,7 @@
           }
         ]
       }
-    },
-    "Length": 10
+    }
   },
   {
     "_id": "ce8ca408-0035-429d-84eb-00b7b3e904d8",
@@ -142658,7 +142658,7 @@
   {
     "_id": "game_1766642940047_0",
     "Name": "Dino Stalker",
-    "SortingName": "",
+    "SortingName": "Dino Crisis 02.02",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -142694,7 +142694,7 @@
   {
     "_id": "game_1766642940047_1",
     "Name": "Resident Evil Survivor 2",
-    "SortingName": "",
+    "SortingName": "Resident Evil 30.02",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
