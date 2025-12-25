@@ -142682,8 +142682,10 @@
             "name": "Vanilla",
             "platform": "Sony PlayStation 2",
             "fileSize": "2 GB",
-            "filename": "Dino Stalker.iso",
-            "arguments": []
+            "arguments": [],
+            "emulator": "PCSX2",
+            "romFile": "Dino Stalker.iso",
+            "filename": "Dino Stalker.iso"
           }
         ]
       }
@@ -142716,8 +142718,10 @@
             "name": "Vanilla",
             "platform": "Sony PlayStation 2",
             "fileSize": "2 GB",
-            "filename": "Resident Evil Survivor 2.iso",
-            "arguments": []
+            "arguments": [],
+            "emulator": "PCSX2",
+            "romFile": "Resident Evil Survivor 2.iso",
+            "filename": "Resident Evil Survivor 2.iso"
           }
         ]
       }
