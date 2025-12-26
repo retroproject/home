@@ -142844,5 +142844,46 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1766754700410_0",
+    "Name": "Ys vs Trails in the Sky Alternative Saga",
+    "SortingName": "Ys 50",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Ys%20vs%20Trails%20in%20the%20Sky%20Alternative%20Saga%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Ys%20vs%20Trails%20in%20the%20Sky%20Alternative%20Saga%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Ys%20vs%20Trails%20in%20the%20Sky%20Alternative%20Saga%20Trailer.mp4",
+    "videoStart": 11.3,
+    "videoEnd": 103.185464,
+    "MusicUrl": "https://archive.org/download/RPRM001/Ys%20vs%20Trails%20in%20the%20Sky%20Alternative%20Saga%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Fighting"
+    ],
+    "DeveloperNames": [
+      "Nihon Falcom"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP009",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "6 GB",
+            "executable": "ys_vs_ed.exe",
+            "arguments": [],
+            "buildID": "12 October 2025",
+            "filename": "00276.zip"
+          }
+        ]
+      }
+    }
   }
 ]
