@@ -8608,6 +8608,7 @@
     "DescriptionArabic": "<div dir='rtl'>تستيقظ الأسطورة بينما ينبثق البطل الشاب <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>لينك</span> من البرية القديمة لـ<span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>هايرول</span>، مسلح بلا شيء سوى الشجاعة و<span style='color:#C0C0C0; font-weight:bold; text-shadow: 0 0 8px #C0C0C0;'>سيف خشبي</span> ضد <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>الظلام</span> الزاحف.<br><span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>أمير الظلام غانون</span> الخبيث حطم <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>ترايفورس الحكمة</span> المقدس إلى ثمان قطع، وسجن <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>الأميرة زيلدا</span> داخل <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>قلعة الشر</span>.<br>عبر <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>الأبراج المحصنة الخطيرة</span> المأهولة بالحراس القديمين والفخاخ القاتلة، يجب على لينك جمع القطع الأثرية السحرية بما في ذلك <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>الأسهم الفضية</span> و<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>السيف السحري</span>.<br>تؤسس هذه المهمة الخالدة أساس ملحمة أسطورية، حيث كل كهف سري و<span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>شجيرة محترقة</span> قد تخفي القوة المطلوبة لاستعادة السلام للمملكة.</div>",
     "ReleaseDate": "1986-02-21",
     "CriticScore": 85,
+    "Length": 10,
     "BackgroundImage": "ecb3a06e-a2a0-4ad7-b8f9-959352c45a6a.jpg",
     "CoverImage": "a8387f23-866a-45d7-bc68-67d0753b013d.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/ecb3a06e-a2a0-4ad7-b8f9-959352c45a6a.jpg",
@@ -8630,34 +8631,46 @@
         "versions": [
           {
             "identifier": "retro-nes",
-            "filename": "The Legend of Zelda.nes",
             "name": "Vanilla",
             "platform": "Nintendo Entertainment System",
             "emulator": "RetroArch",
-            "romFile": "The Legend of Zelda.nes",
             "fileSize": "130KB",
             "arguments": [
               "-L",
               ".\\cores\\mesen_libretro.dll"
-            ]
+            ],
+            "romFiles": [
+              "The Legend of Zelda.nes",
+              "The Legend of Zelda [Mirror of Worlds].nes",
+              "The Legend of Zelda [Perils of Darkness].nes"
+            ],
+            "romLabels": [
+              "Vanilla",
+              "Mirror of Worlds",
+              "Perils of Darkness"
+            ],
+            "mods": [
+              "Mirror of Worlds 1.9",
+              "Perils of Darkness 2.0"
+            ],
+            "filename": "The Legend of Zelda.zip"
           },
           {
             "identifier": "retro-nes",
-            "filename": "The Legend of Zelda RetroArch HD Textures.zip",
             "name": "HD Textures",
             "platform": "Nintendo Entertainment System",
             "emulator": "RetroArch",
-            "romFile": "",
             "fileSize": "40MB",
             "arguments": [
               "-L",
               ".\\cores\\mesen_libretro.dll"
-            ]
+            ],
+            "notes": "For Vanilla Only",
+            "filename": "The Legend of Zelda RetroArch HD Textures.zip"
           }
         ]
       }
-    },
-    "Length": 10
+    }
   },
   {
     "_id": "11a212a8-3745-4444-abff-9f70a57caa48",
