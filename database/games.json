@@ -125025,6 +125025,7 @@
     "DescriptionArabic": "<div dir='rtl'>الفارس المتدرب <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>لينك</span> ينزل من الجزيرة العائمة <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>سكايلوفت</span> لإنقاذ حبيبته <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 8px #FFB6C1;'>زيلدا</span> من سيد الشياطين القديم <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>غيراهيم</span>، مكتشفاً أصول الدورة الأبدية التي تربط أرواحهم عبر الزمن.<br> موجهاً من روح سيفه الواعي <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>في</span>، يتعلم أن زيلدا هي التجسد البشري لـ<span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الإلهة هايليا</span>، مقدرة لإغلاق الشر البدائي <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>ديمايز</span>.<br> عبر المعابد القديمة وسطح العالم، يصوغ لينك <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>السيف الرئيسي</span> الأسطوري بينما يشهد تضحية زيلدا المؤلمة لإيقاظ ذكرياتها الإلهية.<br> في هذه الحكاية عن الحب الذي يتجاوز الأعمار، إخلاص بطل واحد يؤسس أساس هايرول ويبدأ صراعاً لا نهائياً بين <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>النور والظلام</span>.</div>",
     "ReleaseDate": "2011-11-18",
     "CriticScore": 100,
+    "Length": 40,
     "BackgroundImage": "ccd2412a-ead4-4222-8602-f88cd0bbc4c6.jpg",
     "CoverImage": "e1b23c5c-f9a0-44e8-a1a1-24c562c17766.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/ccd2412a-ead4-4222-8602-f88cd0bbc4c6.jpg",
@@ -125047,17 +125048,20 @@
         "versions": [
           {
             "identifier": "retro-nx",
-            "filename": "The Legend of Zelda Skyward Sword HD.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
-            "emulator": "Ryujinx",
+            "emulator": "Yuzu",
             "fileSize": "7GB",
-            "romFile": "The Legend of Zelda Skyward Sword HD.nsp"
+            "romFile": "The Legend of Zelda Skyward Sword HD.nsp",
+            "filenames": [
+              "The Legend of Zelda Skyward Sword HD.nsp",
+              "The Legend of Zelda Skyward Sword HD Yuzu Update.zip"
+            ],
+            "buildID": "1.0.1"
           }
         ]
       }
-    },
-    "Length": 40
+    }
   },
   {
     "_id": "f0605657-cb76-4c10-988a-055e90ece5b6",
