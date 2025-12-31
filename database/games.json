@@ -36018,6 +36018,7 @@
     "DescriptionArabic": "<div dir='rtl'>المحارب المخضرم <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>وكيل B.S.A.A. كريس ريدفيلد</span> يغامر في قلب أفريقيا جنباً إلى جنب مع شريكته الجديدة <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>شيفا ألومار</span> للتحقيق في تقارير عن أسلحة بيولوجية عضوية يتم بيعها في السوق السوداء، ليكتشفا فقط مؤامرة تهدد بإطلاق سلالة جديدة من <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>فيروس T</span> على العالم.<br>المناظر الطبيعية المحروقة بالشمس في <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>كيجوجو</span> تصبح ساحة معركة كابوسية بينما يقع السكان المحليون ضحية لكائن طفيلي يُدعى <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>أوروبوروس</span>، محولاً إياهم إلى مخلوقات عدوانية ذات عقل جماعي تصطاد في مجموعات منسقة عبر القرى القبلية في المنطقة ومصافي النفط والأطلال القديمة.<br>تصبح مهمة كريس شخصية بعمق عندما يواجه شريكته السابقة <span style='color:#8B008B; font-weight:bold; text-shadow: 0 0 8px #8B008B;'>جيل فالنتاين</span>، الآن تحت سيطرة العدو المتكرر للسلسلة <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>ألبرت ويسكر</span>، الذي يدفعه عقدة الإله وقدراته الخارقة لإعادة تشكيل البشرية وفقاً لرؤيته الملتوية لـ<span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>التطور العالمي</span>.<br>في هذا الإدخال الثقيل بالحركة الذي يؤكد على <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>اللعب التعاوني</span> وتبادل إطلاق النار المكثف، يعتمد البقاء ليس فقط على الحفاظ على الذخيرة وإدارة المخزون، بل على العمل الجماعي السلس بين كريس وشيفا بينما يواجهان احتمالات ساحقة، ويحلان ألغاز بيئية، ويواجهان <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>السلاح البيولوجي النهائي</span> في معركة ذروية ستحدد مصير <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>الحضارة البشرية</span>.</div>",
     "ReleaseDate": "2009-3-5",
     "CriticScore": 80,
+    "Length": 15,
     "BackgroundImage": "29f2bb9c-811d-4405-b3f1-18ab399b0dcb.jpeg",
     "CoverImage": "3f67412d-ff2e-44e1-9eac-dc021656bfac.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/29f2bb9c-811d-4405-b3f1-18ab399b0dcb.jpeg",
@@ -36045,6 +36046,7 @@
             "fileSize": "9GB",
             "arguments": [],
             "executable": "re5dx9.exe",
+            "buildID": "1.1.0",
             "filename": "Resident Evil 5.zip"
           },
           {
@@ -36054,12 +36056,26 @@
             "fileSize": "9GB",
             "arguments": [],
             "executable": "re5dx9.exe",
+            "buildID": "1.1.0",
             "filename": "Resident Evil 5.zip"
+          },
+          {
+            "identifier": "RPRP009",
+            "name": "Enhanced Online",
+            "platform": "PC Game",
+            "fileSize": "35GB",
+            "arguments": [],
+            "executable": "re5dx9.exe",
+            "buildID": "1.1.0",
+            "mods": [
+              "4K Texture Pack AI-Enhanced",
+              "NEGAARMAX Reshade and Lyall Fixes"
+            ],
+            "filename": "00277.zip"
           }
         ]
       }
-    },
-    "Length": 15
+    }
   },
   {
     "_id": "47cc3e13-d33c-4f02-b3f0-6cdbd8ad2eb0",
@@ -90163,6 +90179,7 @@
     "DescriptionArabic": "<div dir='rtl'>الإرهاب البيولوجي العالمي يصل ذروته حيث تدمر <span style='color: #8b0000; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>تفشيات فيروس سي</span> المدن الكبرى حول العالم، دافعة البشرية إلى حافة الانقراض.<br><span style='color: #4169e1; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>ليون كينيدي</span> و<span style='color: #32cd32; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>كريس ريدفيلد</span> و<span style='color: #9370db; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>جيك مولر</span> يتنقلون عبر حملات مترابطة بينما يواجهون أعمق مخاوفهم.<br><span style='color: #dc143c; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>شركة نيو-أمبريلا</span> الشريرة تنسق الفوضى من الظلال، مستخدمة <span style='color: #ffd700; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>آدا وونغ</span> كعميلتها الغامضة.<br>حيث يسقط <span style='color: #ff6b47; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>الرئيس غراهام</span> ضحية للتفشي ويكشف <span style='color: #00ced1; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>سيمونز</span> أجندته الحقيقية، على الأبطال التوحد لمنع <span style='color: #ff8c00; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);'>الفناء العالمي الكامل</span>.</div>",
     "ReleaseDate": "2012-10-2",
     "CriticScore": 80,
+    "Length": 25,
     "BackgroundImage": "0da5093c-7f95-414f-89cc-3fbbd47288a0.jpeg",
     "CoverImage": "e3c02664-3fea-4b43-8a60-efd713d3faab.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/0da5093c-7f95-414f-89cc-3fbbd47288a0.jpeg",
@@ -90199,12 +90216,26 @@
             "fileSize": "16GB",
             "arguments": [],
             "executable": "BH6.exe",
+            "buildID": "1.0.6",
             "filename": "Resident Evil 6.zip"
+          },
+          {
+            "identifier": "RPRP009",
+            "name": "Enhanced Online",
+            "platform": "PC Game",
+            "fileSize": "55GB",
+            "arguments": [],
+            "executable": "BH6.exe",
+            "buildID": "1.0.6",
+            "mods": [
+              "4K Texture Pack AI-Enhanced",
+              "QHD Upscaled Pre-Rendered Cutscenes"
+            ],
+            "filename": "00278.zip"
           }
         ]
       }
-    },
-    "Length": 25
+    }
   },
   {
     "_id": "b0b94c21-d78f-4821-9ca9-9c974fe1d3db",
