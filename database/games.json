@@ -67782,11 +67782,12 @@
     "_id": "8520947b-ddbc-426f-9b61-5435e8bfb43f",
     "GameId": "028abfb3710ee3a083a97c6261c48823",
     "Name": "Spider-Man 3",
-    "SortingName": "Spider-Man 07",
+    "SortingName": "Spider-Man 07.01",
     "Description": "When a mysterious <span style='color:#000000; font-weight:bold; text-shadow: 0 0 8px #000000;'>black symbiote</span> from outer space bonds with <span style='color:#FF0000; font-weight:bold; text-shadow: 0 0 8px #FF0000;'>Peter Parker</span>, it amplifies not only his powers but also his darkest impulses and inner rage.<br>As <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>New York City</span> faces threats from the vengeful <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>Sandman</span> and the lethal <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>New Goblin</span>, Spider-Man must battle enemies both external and internal.<br>The alien suit promises unlimited power but slowly corrupts his soul, turning the beloved hero into something <span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>aggressive</span> and <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>ruthless</span> that threatens everything he holds dear.<br>Torn between the intoxicating strength of the symbiote and his responsibility to protect the innocent, Peter must find the courage to reject the darkness and prove that true heroism comes from <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>choosing compassion</span> over <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>vengeance</span>, even when the <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>easier path</span> beckons.<br>",
     "DescriptionArabic": "<div dir='rtl'>عندما يرتبط <span style='color:#000000; font-weight:bold; text-shadow: 0 0 8px #000000;'>سيمبيوت أسود</span> غامض من الفضاء الخارجي مع <span style='color:#FF0000; font-weight:bold; text-shadow: 0 0 8px #FF0000;'>بيتر باركر</span>، فإنه يضخم ليس فقط قواه بل أيضاً نزعاته المظلمة وغضبه الداخلي.<br>بينما تواجه <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>مدينة نيويورك</span> تهديدات من <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>رجل الرمل</span> المنتقم و<span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>الغوبلن الجديد</span> المميت، يجب على سبايدر مان أن يحارب أعداء خارجيين وداخليين.<br>البدلة الفضائية تعد بقوة لا محدودة لكنها تفسد روحه ببطء، محولة البطل المحبوب إلى شيء <span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>عدواني</span> و<span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>قاسٍ</span> يهدد كل ما يعتز به.<br>ممزق بين القوة المسكرة للسيمبيوت ومسؤوليته لحماية الأبرياء، يجب على بيتر أن يجد الشجاعة لرفض الظلام ويثبت أن البطولة الحقيقية تأتي من <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>اختيار الرحمة</span> على <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>الانتقام</span>، حتى عندما <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>الطريق الأسهل</span> يناديه.<br></div>",
     "ReleaseDate": "2007-5-4",
     "CriticScore": 80,
+    "Length": 15,
     "BackgroundImage": "216c669f-633d-4be1-8d20-5663e60527d7.jpeg",
     "CoverImage": "b8abecaf-07bb-4570-a586-09b119941f10.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/216c669f-633d-4be1-8d20-5663e60527d7.jpeg",
@@ -67818,8 +67819,7 @@
           }
         ]
       }
-    },
-    "Length": 15
+    }
   },
   {
     "_id": "8540f97f-1472-4ffb-92f6-f05137058d65",
@@ -143008,7 +143008,7 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP009",
+            "identifier": "RPRP010",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "8 GB",
@@ -143023,6 +143023,47 @@
               "Configure"
             ],
             "filename": "00283.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1767291428327_0",
+    "Name": "Spider Man Friend or Foe",
+    "SortingName": "Spider-Man 07.02",
+    "Description": "After defeating <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>Green Goblin</b>, <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Doctor Octopus</b>, <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Sandman</b>, and <b style='color: #000000; text-shadow: 0 0 8px #8B008B;'>Venom</b>, <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Spider-Man</b> faces a new threat.<br> Mysterious creatures called <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>P.H.A.N.T.O.M.s</b> attack the heroes, teleporting away the villains before vanishing themselves.<br> <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Nick Fury</b> and <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>S.H.I.E.L.D.</b> rescue Spider-Man, revealing these are Perpetual Holographic Avatar Nano-Tech Offensive Monsters.<br> A <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>meteor</b> that brought the Venom symbiote to Earth shattered into shards scattered across the globe.<br> A mysterious villain has collected one shard to create the P.H.A.N.T.O.M.s and seeks the rest to conquer the world.<br> Spider-Man must travel internationally, retrieving <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>meteor shards</b> before they fall into enemy hands.<br> He recruits unlikely allies along the way, defeating and reforming <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>brainwashed villains</b> to join his cause.<br> The mastermind behind the scheme is revealed to be <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Mysterio</b>, who has been controlling Spider-Man's enemies to build his army of <b style='color: #800080; text-shadow: 0 0 8px #800080;'>symbiote creatures</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>بعد هزيمة <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>القزم الأخضر</b> و<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الدكتور أوكتوبوس</b> و<b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>ساندمان</b> و<b style='color: #000000; text-shadow: 0 0 8px #8B008B;'>فينوم</b>، يواجه <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الرجل العنكبوت</b> تهديداً جديداً.<br> مخلوقات غامضة تُدعى <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>الأشباح</b> تهاجم الأبطال، ناقلة الأشرار بعيداً قبل أن تختفي.<br> <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>نيك فيوري</b> و<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>شيلد</b> ينقذون الرجل العنكبوت، كاشفين أن هذه وحوش تقنية نانوية هولوغرافية هجومية دائمة.<br> <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>نيزك</b> أحضر تكافل فينوم إلى الأرض تحطم إلى شظايا متناثرة عبر الكوكب.<br> شرير غامض جمع شظية واحدة لخلق الأشباح ويسعى للباقي لغزو العالم.<br> يجب على الرجل العنكبوت السفر دولياً، مستعيداً <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>شظايا النيزك</b> قبل أن تقع في أيدي الأعداء.<br> يجند حلفاء غير متوقعين على طول الطريق، هازماً ومصلحاً <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الأشرار المغسولي الدماغ</b> للانضمام لقضيته.<br> يُكشف أن العقل المدبر وراء المؤامرة هو <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>ميستيريو</b>، الذي كان يتحكم بأعداء الرجل العنكبوت لبناء جيشه من <b style='color: #800080; text-shadow: 0 0 8px #800080;'>مخلوقات التكافل</b>.<br></div>",
+    "ReleaseDate": "2007",
+    "CriticScore": 60,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Spider%20Man%20Friend%20or%20Foe%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Spider%20Man%20Friend%20or%20Foe%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Spider%20Man%20Friend%20or%20Foe%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Spider%20Man%20Friend%20or%20Foe%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 2"
+    ],
+    "GenreNames": [
+      "Platformer"
+    ],
+    "DeveloperNames": [
+      "Next Level Games"
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "4 GB",
+            "arguments": [],
+            "emulator": "PCSX2",
+            "romFile": "Spider Man Friend or Foe.iso",
+            "filename": "Spider Man Friend or Foe.iso"
           }
         ]
       }
