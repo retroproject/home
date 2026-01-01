@@ -143012,9 +143012,16 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "8 GB",
-            "executable": "D4.exe",
             "arguments": [],
             "buildID": "28 August 2015",
+            "executableFiles": [
+              "Binaries\\Win64\\D4Game.exe",
+              "D4.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
             "filename": "00283.zip"
           }
         ]
