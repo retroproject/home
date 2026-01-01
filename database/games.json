@@ -34000,13 +34000,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC25",
+            "identifier": "RPRP009",
             "name": "Enhanced",
             "platform": "PC Game",
             "executable": "bms.exe",
             "fileSize": "16GB",
             "buildID": "1 July 2025",
-            "filename": "Black Mesa.zip"
+            "filename": "00281.zip"
           }
         ]
       }
@@ -44089,13 +44089,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC14",
+            "identifier": "RPRP009",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "JustCause3.exe",
             "fileSize": "49GB",
             "buildID": "17 December 2025",
-            "filename": "Just Cause 3.zip"
+            "filename": "00282.zip"
           }
         ]
       }
@@ -142975,6 +142975,47 @@
             "arguments": [],
             "buildID": "27 February 2023",
             "filename": "00279.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1767272503059_0",
+    "Name": "D4 Dark Dreams Don't Die",
+    "SortingName": "",
+    "Description": "Former <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Boston PD</b> narcotics detective <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>David Young</b> possesses a supernatural ability to <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>dive into the past</b> by touching objects called <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>mementos</b>.<br> Two years ago, he came home to find his wife dying, her <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>final words</b> a cryptic whisper: <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Look for D</b>.<br> David awakens in the ICU with a <b style='color: #696969; text-shadow: 0 0 8px #696969;'>bullet lodged in his skull</b>, unable to recall what happened that tragic day.<br> Now working as a private detective, he investigates a case that might connect to the mysterious <b style='color: #800080; text-shadow: 0 0 8px #800080;'>D</b>.<br> A courier for the dangerous drug <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Real Blood</b> vanished impossibly from thin air while on a guarded airplane.<br> The courier was set to testify against a powerful drug lord known only as <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>D</b>.<br> Using his time-diving powers and the <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>fourth dimension</b>, David must unravel the connection between this disappearance and his wife's <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>murder</b>, piecing together fragments of <b style='color: #191970; text-shadow: 0 0 8px #191970;'>dark dreams</b> and forgotten <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>memories</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>المحقق السابق في <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>شرطة بوسطن</b> لمكافحة المخدرات <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>ديفيد يونغ</b> يمتلك قدرة خارقة على <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الغوص في الماضي</b> من خلال لمس أشياء تُدعى <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>التذكارات</b>.<br> قبل عامين، عاد للمنزل ليجد زوجته تحتضر، <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>كلماتها الأخيرة</b> كانت همسة غامضة: <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>ابحث عن D</b>.<br> يستيقظ ديفيد في العناية المركزة مع <b style='color: #696969; text-shadow: 0 0 8px #696969;'>رصاصة عالقة في جمجمته</b>، غير قادر على تذكر ما حدث في ذلك اليوم المأساوي.<br> يعمل الآن كمحقق خاص، يحقق في قضية قد تكون مرتبطة <b style='color: #800080; text-shadow: 0 0 8px #800080;'>بـ D</b> الغامض.<br> ساعي لمخدر خطير يُدعى <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الدم الحقيقي</b> اختفى بشكل مستحيل من الهواء بينما كان على متن طائرة محروسة.<br> كان الساعي سيشهد ضد تاجر مخدرات قوي يُعرف فقط باسم <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>D</b>.<br> باستخدام قواه للغوص عبر الزمن و<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>البعد الرابع</b>، يجب على ديفيد كشف العلاقة بين هذا الاختفاء و<b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>مقتل</b> زوجته، مجمعاً شظايا من <b style='color: #191970; text-shadow: 0 0 8px #191970;'>الأحلام المظلمة</b> و<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الذكريات</b> المنسية.<br></div>",
+    "ReleaseDate": "2014",
+    "CriticScore": 80,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/D4%20Dark%20Dreams%20Don't%20Die%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/D4%20Dark%20Dreams%20Don't%20Die%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/D4%20Dark%20Dreams%20Don't%20Die%20Trailer.mp4",
+    "videoStart": 5.091383,
+    "videoEnd": 93.4,
+    "MusicUrl": "https://archive.org/download/RPRM001/D4%20Dark%20Dreams%20Don't%20Die%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Access Games"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP009",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "8 GB",
+            "executable": "D4.exe",
+            "arguments": [],
+            "buildID": "28 August 2015",
+            "filename": "00283.zip"
           }
         ]
       }
