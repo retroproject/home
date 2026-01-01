@@ -29449,6 +29449,7 @@
     "DescriptionArabic": "<div dir='rtl'>في عالم يحتضر حيث تندمج التكنولوجيا القديمة مع الصوفية الروحية، يستيقظ المحارب <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>يي</span> من سبات امتد قروناً ليجد وطنه مستهلكاً بوباء يحوّل الأحياء إلى وحوش مشوهة بشعة.<br>تسعة حكام خالدين يُعرفون باسم <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الشموس</span> استولوا على هذا المطهر السايبربنكي، كل منهم يملك قوة إلهية بينما تتشبث بقايا البشرية بالبقاء في ظلال المباني الشاهقة.<br>مسلحاً بتقنيات <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>السيف الطاوية</span> الأسطورية ومدفوعاً بعطش لا يروى للانتقام، يجب على يي أن يتسلل إلى مملكة كل شمس ويكشف الحقيقة وراء الحدث النهائي المعروف بـ<span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>تيانهو</span>.<br>بينما يغوص أعمق في هذا المزج الكابوسي بين الفلسفة الشرقية والخيال العلمي الديستوبي، يكتشف يي أن ماضيه مرتبط بلا عودة بالكارثة، وأن الخلاص قد يتطلب التضحية العظمى لاستعادة التوازن بين <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>السماء</span> و<span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>الأرض</span>.</div>",
     "ReleaseDate": "2024-5-29",
     "CriticScore": 90,
+    "Length": 25,
     "BackgroundImage": "f1061637-b5eb-486d-91e2-291993584b77.jpeg",
     "CoverImage": "c203e28a-5b6c-42e2-9c02-d5f148a71c89.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/f1061637-b5eb-486d-91e2-291993584b77.jpeg",
@@ -29470,18 +29471,18 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC28",
+            "identifier": "RPRP009",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "4GB",
             "arguments": [],
             "executable": "NineSols.exe",
-            "filename": "Nine Sols Battle Memories.zip"
+            "buildID": "31 December 2025",
+            "filename": "00280.zip"
           }
         ]
       }
-    },
-    "Length": 25
+    }
   },
   {
     "_id": "399eca13-daac-45ca-b62a-e2a1fd436c63",
@@ -142970,9 +142971,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "37 GB",
-            "filename": "00279.zip",
             "executable": "Dead Space.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "27 February 2023",
+            "filename": "00279.zip"
           }
         ]
       }
