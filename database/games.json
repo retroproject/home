@@ -41233,6 +41233,7 @@
     "DescriptionArabic": "غضب <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>جيمس هيلر</span> يصبح سلاحه عندما يحوله <span style='color:#228B22; font-weight:bold;'>فايروس بلاكلايت</span> إلى ترسانة حية من اللحم والغضب في الأرض المهجورة المحجورة <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>نيويورك زيرو</span>.<br>مستهلكاً بالكراهية تجاه <span style='color:#4169E1; font-weight:bold;'>أليكس ميرسر</span>، مهندس دمار عائلته، يقطع هيلر طريقه عبر <span style='color:#8B4513; font-weight:bold;'>الحصارات العسكرية</span> و<span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>الوحوش المتحولة</span> بمخالب تستطيع تمزيق دروع الدبابات وعروق تلتهم الذكريات من الأحياء.<br>أصبحت المدينة <span style='color:#DC143C; font-weight:bold;'>ساحة معركة فايروسية</span> حيث تتقيح <span style='color:#FFD700; font-weight:bold;'>المؤامرات الشركاتية</span> تحت طبقات من <span style='color:#2F4F4F; font-weight:bold;'>الرعب البيولوجي</span>، وكل عدو مستهلك يضيف معرفته إلى ترسانة انتقام هيلر.<br>في هذه الحكاية عن <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>العدالة الوحشية</span>، يذوب الخط الفاصل بين البطل والوحش بشكل تام مثل <span style='color:#00CED1; font-weight:bold;'>اللحم</span> الذي يعيد هيلر تشكيله مع كل <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>تحول مدمر</span>.",
     "ReleaseDate": "2012-4-24",
     "CriticScore": 85,
+    "Length": 15,
     "BackgroundImage": "97a19040-e0dc-4312-ad3a-1df66c3fc57a.jpg",
     "CoverImage": "5584c439-8b3e-41c5-973f-6cdc1e72eb35.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/97a19040-e0dc-4312-ad3a-1df66c3fc57a.jpg",
@@ -41254,18 +41255,18 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC06",
+            "identifier": "CPC46",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "9GB",
             "arguments": [],
             "executable": "prototype2.exe",
+            "mods": "Prototype 2 Crash Fix",
             "filename": "Prototype 2.zip"
           }
         ]
       }
-    },
-    "Length": 15
+    }
   },
   {
     "_id": "5489bdff-ae2a-489f-90a8-701551590be5",
