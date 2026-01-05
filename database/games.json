@@ -54945,6 +54945,7 @@
     "DescriptionArabic": "<div dir='rtl'>اختبر ثلاث ملاحم إجرامية أسطورية تمتد عبر عقود من العنف والخيانة والسعي اللا هوادة فيه لـ<span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الحلم الأمريكي</span> عبر شوارع <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>فايس سيتي</span> المشبعة بالنيون والأحياء الممزقة بالعصابات في <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>سان أندرياس</span> والعالم السفلي الفاسد لـ<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>ليبرتي سيتي</span>.<br>تابع سعي <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>كلود</span> الصامت للانتقام وصعود <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>تومي فيرسيتي</span> للسلطة في الثمانينيات المشحونة بالكوكايين وكفاح <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>كارل جونسون</span> اليائس لإنقاذ عائلته من الشوارع التي ولدته.<br>تنقل عبر التحالفات الغادرة مع <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>الشرطة الفاسدة</span> وزعماء المخدرات الوحشيين وعائلات الجريمة الخائنة بينما يحارب كل بطل طريقه عبر عوالم مفتوحة شاسعة مليئة بالخطر والفرص والانحلال الأخلاقي.<br>من المشاغبات الصغيرة إلى السطو على بناء الإمبراطوريات، اشهد كيف يحول السعي للسلطة و<span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>المال السهل</span> المجرمين العاديين إلى <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>زعماء أسطوريين</span> في أكثر <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>العوالم السفلية الإجرامية</span> شهرة في أمريكا.</div>",
     "ReleaseDate": "2021-11-11",
     "CriticScore": 90,
+    "Length": 45,
     "BackgroundImage": "9f0dcf8d-b8af-481f-b0df-af4ca3b7ae32.jpeg",
     "CoverImage": "39f63af3-3b83-4041-af90-4ed88aee6555.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/9f0dcf8d-b8af-481f-b0df-af4ca3b7ae32.jpeg",
@@ -54967,32 +54968,24 @@
         "versions": [
           {
             "identifier": "CPC34",
-            "filename": "Grand Theft Auto Definitive Edition.zip",
-            "name": "Grand Theft Auto III",
+            "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "Grand Theft Auto III\\re3.exe",
-            "fileSize": "19GB"
-          },
-          {
-            "identifier": "CPC34",
-            "filename": "Grand Theft Auto Definitive Edition.zip",
-            "name": "Grand Theft Auto Vice City",
-            "platform": "PC Game",
-            "executable": "Grand Theft Auto Vice City\\reVC.exe",
-            "fileSize": "19GB"
-          },
-          {
-            "identifier": "CPC34",
-            "filename": "Grand Theft Auto Definitive Edition.zip",
-            "name": "Grand Theft Auto San Andreas",
-            "platform": "PC Game",
-            "executable": "Grand Theft Auto San Andreas\\gta-sa.exe",
-            "fileSize": "19GB"
+            "fileSize": "20GB",
+            "executableFiles": [
+              "Grand Theft Auto III\\re3.exe",
+              "Grand Theft Auto Vice City\\reVC.exe",
+              "Grand Theft Auto San Andreas\\gta-sa.exe"
+            ],
+            "executableLabels": [
+              "III",
+              "Vice City",
+              "San Andreas"
+            ],
+            "filename": "Grand Theft Auto Definitive Edition.zip"
           }
         ]
       }
-    },
-    "Length": 45
+    }
   },
   {
     "_id": "6cd8a61f-2907-4cbd-b3e5-f2c89c261055",
