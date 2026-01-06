@@ -24484,6 +24484,7 @@
     "DescriptionArabic": "<div dir='rtl'>يغامر <span style='color:#FFD700;font-weight:bold;text-shadow:2px 2px 8px #FFD700'>كلاود سترايف</span> ورفاقه خارج أسوار <span style='color:#4169E1;font-weight:bold;text-shadow:2px 2px 6px #4169E1'>ميدجار</span> إلى عالم شاسع حيث يخيم <span style='color:#DC143C;font-weight:bold;text-shadow:2px 2px 8px #DC143C'>ظل سيفيروث</span> أكبر من أي وقت مضى، مهدداً بتفكيك نسيج الواقع برؤيته الملتوية للولادة الجديدة.<br>بينما تصارع <span style='color:#FF69B4;font-weight:bold;text-shadow:2px 2px 6px #FF69B4'>إيريث</span> مع مصيرها كآخر <span style='color:#32CD32;font-weight:bold;text-shadow:2px 2px 8px #32CD32'>سيترا</span>، وتكافح <span style='color:#9370DB;font-weight:bold;text-shadow:2px 2px 6px #9370DB'>تيفا</span> لجمع شظايا ذكريات كلاود المحطمة، تكتشف المجموعة أن رحلتهم أكثر من مطاردة—إنها سباق ضد <span style='color:#8B0000;font-weight:bold;text-shadow:2px 2px 8px #8B0000'>أنفاس الكوكب المحتضرة</span>.<br>مطارداً برؤى خطوط زمنية متعددة وثقل <span style='color:#00CED1;font-weight:bold;text-shadow:2px 2px 8px #00CED1'>خيارات مستحيلة</span>، يجب على كلاود مواجهة ليس فقط التهديد الخارجي لـ<span style='color:#4B0082;font-weight:bold;text-shadow:2px 2px 8px #4B0082'>آلة حرب شينرا</span> بل المعركة الداخلية بين ذاته الحقيقية والبطل المصطنع الذي يعتقد أنه هو.<br>في هذه الملحمة عن <span style='color:#B8860B;font-weight:bold;text-shadow:2px 2px 8px #B8860B'>الحب والفقدان</span>، يتشوش الخط الفاصل بين الخلاص والدمار حين يدرك الفريق أن إنقاذ العالم قد يتطلب <span style='color:#2F4F4F;font-weight:bold;text-shadow:2px 2px 10px #2F4F4F'>التضحية بكل ما يحبونه</span>.</div>",
     "ReleaseDate": "2024-2-29",
     "CriticScore": 100,
+    "Length": 90,
     "BackgroundImage": "9219579c-61f2-4013-b824-7e6e227ecefd.jpeg",
     "CoverImage": "afc5a100-53ae-4c29-a174-33033273bb46.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/9219579c-61f2-4013-b824-7e6e227ecefd.jpeg",
@@ -24505,17 +24506,17 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC30",
-            "filename": "Final Fantasy VII Rebirth.zip",
+            "identifier": "RPRP009",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "ff7rebirth.exe",
-            "fileSize": "153GB"
+            "fileSize": "153GB",
+            "buildID": "4 November 2025",
+            "filename": "00284.zip"
           }
         ]
       }
-    },
-    "Length": 90
+    }
   },
   {
     "_id": "314e6f09-8ca9-418d-8242-85c9fffe1b7d",
