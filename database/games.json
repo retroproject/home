@@ -143062,5 +143062,50 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1767657878271_0",
+    "Name": "Hello Kitty Island Adventure",
+    "SortingName": "",
+    "Description": "<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>My Melody</b> invites <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Hello Kitty</b> and friends to a <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>tropical island</b> paradise to help open a gift shop at <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Big Adventures Park</b>.<br> During the flight, the airplane suddenly malfunctions, forcing all passengers to <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>evacuate</b> in a frantic scramble.<br> Upon landing on <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Friendship Island</b>, the group discovers the once-thriving amusement park now lies completely <b style='color: #696969; text-shadow: 0 0 8px #696969;'>abandoned</b>.<br> Friends become <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>scattered</b> across the mysterious island, separated in the chaos of arrival.<br> Players join Hello Kitty on a cozy adventure to restore the island to its <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>former glory</b> through crafting, building, and exploration.<br> Activities range from braving dangerous <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>volcanic caverns</b> filled with treacherous lava to organizing cheerful <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>birthday parties</b> for new friends.<br> As the island comes back to life, players piece together clues about the <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>ultimate secret</b> hidden within Friendship Island.<br> Can you solve the <b style='color: #800080; text-shadow: 0 0 8px #800080;'>mystery</b> and reunite everyone in this heartwarming <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>island adventure</b>?<br>",
+    "DescriptionArabic": "<div dir='rtl'>تدعو <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>ماي ميلودي</b> <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>هيلو كيتي</b> والأصدقاء إلى جنة <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>جزيرة استوائية</b> للمساعدة في فتح متجر هدايا في <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>منتزه المغامرات الكبرى</b>.<br> خلال الرحلة، تتعطل الطائرة فجأة، مجبرة جميع الركاب على <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>الإخلاء</b> في تدافع محموم.<br> عند الهبوط على <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>جزيرة الصداقة</b>، تكتشف المجموعة أن المنتزه الترفيهي المزدهر سابقاً أصبح الآن <b style='color: #696969; text-shadow: 0 0 8px #696969;'>مهجوراً</b> تماماً.<br> يصبح الأصدقاء <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>متفرقين</b> عبر الجزيرة الغامضة، منفصلين في فوضى الوصول.<br> ينضم اللاعبون إلى هيلو كيتي في مغامرة مريحة لاستعادة <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>المجد السابق</b> للجزيرة من خلال الصياغة والبناء والاستكشاف.<br> تتراوح الأنشطة من مواجهة <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>كهوف بركانية</b> خطرة مليئة بالحمم البركانية الغادرة إلى تنظيم <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>حفلات أعياد ميلاد</b> مبهجة للأصدقاء الجدد.<br> بينما تعود الجزيرة للحياة، يجمع اللاعبون القرائن حول <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>السر النهائي</b> المخفي داخل جزيرة الصداقة.<br> هل يمكنك حل <b style='color: #800080; text-shadow: 0 0 8px #800080;'>اللغز</b> ولم شمل الجميع في <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>مغامرة الجزيرة</b> الدافئة هذه؟<br></div>",
+    "ReleaseDate": "2023",
+    "CriticScore": 80,
+    "Length": 20,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Hello%20Kitty%20Island%20Adventure%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Hello%20Kitty%20Island%20Adventure%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Hello%20Kitty%20Island%20Adventure%20Trailer.mp4",
+    "videoStart": 2.007743,
+    "videoEnd": 96.58158,
+    "MusicUrl": "https://archive.org/download/RPRM001/Hello%20Kitty%20Island%20Adventure%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo Switch"
+    ],
+    "GenreNames": [
+      "Cozy"
+    ],
+    "DeveloperNames": [
+      "Sunblink Entertainment"
+    ],
+    "downloadInfo": {
+      "Nintendo Switch": {
+        "versions": [
+          {
+            "identifier": "E0701",
+            "name": "Vanilla",
+            "platform": "Nintendo Switch",
+            "fileSize": "2 GB",
+            "arguments": [],
+            "filenames": [
+              "Hello Kitty Island Adventure.nsp",
+              "Hello Kitty Island Adventure Citron Update.zip"
+            ],
+            "emulator": "Citron",
+            "romFile": "Hello Kitty Island Adventure.nsp",
+            "buildID": "2.9.0"
+          }
+        ]
+      }
+    }
   }
 ]
