@@ -15862,6 +15862,7 @@
     "DescriptionArabic": "<div dir='rtl'>يعتني الشاب <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>نير</span> بأخته الحبيبة <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 8px #FFB6C1;'>يونا</span> في منزلهما الهادئ بالقرية، مراقباً بعجز بينما يلتهم داء <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الخط الأسود</span> الغامض حياتها ببطء، مما يدفعه إلى اتخاذ تدابير يائسة للعثور على <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الآيات المختومة</span> الأسطورية التي قد تنقذها.<br>مرافقاً بكتاب السحر اللاذع <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>ويس</span>، والمحاربة الشرسة لكن الهشة <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>كايني</span>، والفتى المتفاني <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>إميل</span> الذي يخفي لعنة مروعة، يشكل نير روابط صداقة تصبح أعظم قوة له في عالم نسي الرحمة.<br>بينما يطارد مخلوقات الظل المسماة <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>الظلال</span> عبر المناظر الطبيعية المقفرة، يعتقد نير أنه يحمي البشرية من وحوش بلا عقل، دون أن يشك أبداً أن كل انتصار يقربه من حقيقة لا تُحتمل حول طبيعة <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>أعدائه</span>.<br>في سعيه لإنقاذ الشخص الوحيد الذي يعطي حياته معنى، يجب على نير أن يواجه السؤال الأسمى: ما الثمن الذي يعتبر مرتفعاً جداً من أجل <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>الحب</span>، وهل يمكن لتفاني الأخ أن يبرر أن يصبح <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>الشر</span> الذي أقسم على <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>تدميره</span>؟</div>",
     "ReleaseDate": "2021-4-22",
     "CriticScore": 90,
+    "Length": 45,
     "BackgroundImage": "eb0e4d2e-bdd4-40ff-9c9f-8ad70bf9f09d.jpg",
     "CoverImage": "af09743d-cfb7-4d44-8a90-a15e24233b73.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/eb0e4d2e-bdd4-40ff-9c9f-8ad70bf9f09d.jpg",
@@ -15894,6 +15895,7 @@
             "arguments": [],
             "executable": "NieR Replicant ver.1.22474487139.exe",
             "buildID": "20 October 2021 & 28 April 2025",
+            "notes": "Install AV1 Video Extension",
             "filename": "00058.zip"
           },
           {
@@ -15904,6 +15906,7 @@
             "arguments": [],
             "executable": "NieR Replicant ver.1.22474487139.exe",
             "buildID": "20 October 2021",
+            "notes": "Install AV1 Video Extension",
             "filename": "00059.zip"
           },
           {
@@ -15918,12 +15921,12 @@
               "4K 60 FPS Remastered FMVs"
             ],
             "executable": "NieR Replicant ver.1.22474487139.exe",
+            "notes": "Install AV1 Video Extension",
             "filename": "NieR Replicant ver1 22474487139.zip"
           }
         ]
       }
-    },
-    "Length": 45
+    }
   },
   {
     "_id": "1f6ec77a-fc1a-41d6-99fb-da0ab84a7a39",
@@ -135204,7 +135207,7 @@
   {
     "_id": "game_1757797808359_2",
     "Name": "DiRT 4",
-    "SortingName": "Colin Mcrae 09",
+    "SortingName": "Colin Mcrae 09.01",
     "Description": "Generate infinite rallying possibilities with the revolutionary <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Your Stage</span> system, creating over a billion unique stage variations across <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>Australia</span>, <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>Spain</span>, <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Michigan</span>, <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Sweden</span>, and <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Wales</span>. Master <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Group B legends</span> and modern rally machines while building your team empire with hired mechanics and strategic <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>sponsor deals</span>. Share custom stages with friends and challenge them to beat your times in this acclaimed simulation that perfectly balances <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>accessibility</span> with authentic <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>rally punishment</span>.",
     "DescriptionArabic": "<div dir='rtl'>ولّد إمكانيات رالي لا نهائية مع نظام <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>مرحلتك الخاصة</span> الثوري، منشئاً أكثر من مليار تنويع فريد للمراحل عبر <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>أستراليا</span> و<span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>إسبانيا</span> و<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>ميشيغان</span> و<span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>السويد</span> و<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>ويلز</span>. أتقن <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>أساطير المجموعة ب</span> وآلات الرالي العصرية بينما تبني إمبراطورية فريقك مع ميكانيكيين مستأجرين و<span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>صفقات رعاية</span> استراتيجية. شارك المراحل المخصصة مع الأصدقاء وتحداهم لهزيمة أوقاتك في هذه المحاكاة المشيد بها التي توازن بشكل مثالي بين <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>سهولة الوصول</span> و<span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>عقاب الرالي</span> الأصيل.</div>",
     "ReleaseDate": "2017",
@@ -143104,6 +143107,47 @@
             "emulator": "Citron",
             "romFile": "Hello Kitty Island Adventure.nsp",
             "buildID": "2.9.0"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1767740832302_0",
+    "Name": "DIRT 5",
+    "SortingName": "Colin Mcrae 09.02",
+    "Description": "You are a rising <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>off-road racer</b> who catches the eye of legendary driver <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Alex AJ Janiček</b>, voiced by Troy Baker.<br> AJ takes you under his wing as <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>mentor</b>, guiding you through the world-renowned <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>off-road racing series</b>.<br> Your journey leads toward an <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>epic showdown</b> between AJ and his bitter rival <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Bruno Durand</b>, a veteran racer voiced by Nolan North.<br> The explosive <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>fallout</b> from their clash creates the foundation for you to forge your own <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>legacy</b> in the sport.<br> Experience the story through the energetic <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>DIRT Podcast</b>, hosted by James Pumphrey and Nolan Sykes from Donut Media.<br> Navigate five chapters of career mode, choosing your path through over <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>130 events</b> across nine different race types.<br> Compete in <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>throwdown events</b>, unlock dozens of liveries, and prove yourself against tougher <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>rival drivers</b>.<br> Build your reputation and create your <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>own story</b> in the <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>mud, snow, and sand</b> of extreme racing.<br>",
+    "DescriptionArabic": "<div dir='rtl'>أنت <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>متسابق طرق وعرة</b> صاعد تلفت انتباه السائق الأسطوري <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>أليكس AJ يانيتشيك</b>، بصوت تروي بيكر.<br> يأخذك AJ تحت جناحه <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>كمرشد</b>، موجهاً إياك عبر <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>سلسلة سباقات الطرق الوعرة</b> المشهورة عالمياً.<br> تقودك رحلتك نحو <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>مواجهة ملحمية</b> بين AJ وغريمه اللدود <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>برونو دوراند</b>، المتسابق المخضرم بصوت نولان نورث.<br> <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>التداعيات</b> المتفجرة من صدامهما تخلق الأساس لتشكيل <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>إرثك</b> الخاص في الرياضة.<br> اختبر القصة من خلال <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>بودكاست DIRT</b> النشط، الذي يقدمه جيمس بامفري ونولان سايكس من دونات ميديا.<br> تنقل عبر خمسة فصول من وضع المسيرة، اختر مسارك عبر أكثر من <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>130 حدثاً</b> عبر تسعة أنواع سباقات مختلفة.<br> تنافس في <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>أحداث المواجهة</b>، افتح عشرات الألوان، وأثبت نفسك ضد <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>السائقين المنافسين</b> الأقوى.<br> ابن سمعتك واصنع <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>قصتك الخاصة</b> في <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>الطين والثلج والرمال</b> للسباقات المتطرفة.<br></div>",
+    "ReleaseDate": "2020",
+    "CriticScore": 70,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/DIRT%205%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/DIRT%205%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/DIRT%205%20Trailer.mp4",
+    "videoStart": 2.1,
+    "videoEnd": 62.9,
+    "MusicUrl": "https://archive.org/download/RPRM001/DIRT%205%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Racing"
+    ],
+    "DeveloperNames": [
+      "Codemasters"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP009",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "39 GB",
+            "executable": "game_release.exe",
+            "arguments": [],
+            "buildID": "19 October 2022",
+            "filename": "00285.zip"
           }
         ]
       }
