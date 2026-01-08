@@ -124073,6 +124073,7 @@
     "DescriptionArabic": "<div dir='rtl'>تنطلق بعثات الأقزام الطموحة إلى برية غير مروضة لإقامة <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>قلاع جبلية</span> جوفية رائعة، نحت قاعات وغرف واسعة من الصخر الحي بينما تدير مجتمعات معقدة من حرفيين محبي اللحى ومحاربين ونبلاء ذوي شخصيات وعلاقات معقدة.<br>يجب على هؤلاء المستوطنين الشجعان موازنة إدارة الموارد ومفاوضات التجارة والدفاع العسكري والديناميوات الاجتماعية بينما يواجهون تهديدات تتراوح من <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>حصار العفاريت</span> إلى <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>وحوش منسية</span> كامنة في الأعماق، بالإضافة إلى <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>حلزونات نوبات غضب</span> عارضة عندما تفتقر <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 6px #32CD32;'>غرفة طعام</span> شخص ما المفضلة إلى نقوش.<br>من خلال محاكاة مفصلة بشكل لا يصدق لكل شيء من <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>علم الجيولوجيا</span> إلى <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 6px #4169E1;'>علم النفس</span>، تحكي كل قلعة قصة فريدة حيث <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>الانتصار المجيد</span> و<span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 6px #2F4F4F;'>الفشل المذهل</span> متساويان في الذاكرة في هذه المحاكاة الأسطورية حيث تأتي المتعة حقاً من الخسارة بأكثر الطرق إبداعاً.</div>",
     "ReleaseDate": "2022-12-6",
     "CriticScore": 85,
+    "Length": 50,
     "BackgroundImage": "9a3c403b-d150-461b-ab5b-f3c03c03bc31.jpeg",
     "CoverImage": "1841043e-1e19-4d75-8e82-53c99db99db9.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/9a3c403b-d150-461b-ab5b-f3c03c03bc31.jpeg",
@@ -124094,17 +124095,17 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC39",
-            "filename": "Dwarf Fortress.zip",
+            "identifier": "RPRP009",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Dwarf Fortress.exe",
-            "fileSize": "1GB"
+            "fileSize": "1GB",
+            "buildID": "7 January 2026",
+            "filename": "00286.zip"
           }
         ]
       }
-    },
-    "Length": 50
+    }
   },
   {
     "_id": "eea1c72c-f6e1-4ee9-8256-6f0d7d17e603",
