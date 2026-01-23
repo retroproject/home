@@ -143154,5 +143154,46 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1769157068580_0",
+    "Name": "Bratz Forever Diamondz",
+    "SortingName": "Bratz 00",
+    "Description": "<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Cloe</b>, <b style='color: #9B59B6; text-shadow: 0 0 8px #9B59B6;'>Jade</b>, <b style='color: #E67E22; text-shadow: 0 0 8px #E67E22;'>Sasha</b>, and <b style='color: #F1C40F; text-shadow: 0 0 8px #F1C40F;'>Yasmin</b> embark on an exciting cross-country adventure as contestants on the <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>America Rocks Fashion</b> TV show.<br>Representing <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Bratz Magazine</b>, the girls must compete against their rivals from <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Your Thing Magazine</b> in a fierce race to <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>New York City</b> for the ultimate fashion showdown.<br>Traveling in their customizable <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>fashion truck</b>, they journey through <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>iconic American locations</b> while hunting for the hottest young <b style='color: #DA70D6; text-shadow: 0 0 8px #DA70D6;'>fashion designers</b>.<br>Their road trip takes unexpected turns with encounters involving <b style='color: #7CFC00; text-shadow: 0 0 8px #7CFC00;'>aliens</b>, <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>rednecks</b>, and <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>con artists</b>.<br>The ultimate prize awaits: a pair of stunning <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>diamond-studded go-go boots</b> that will crown the winner as the true fashion queen.",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>كلوي</b> و<b style='color: #9B59B6; text-shadow: 0 0 8px #9B59B6;'>جايد</b> و<b style='color: #E67E22; text-shadow: 0 0 8px #E67E22;'>ساشا</b> و<b style='color: #F1C40F; text-shadow: 0 0 8px #F1C40F;'>ياسمين</b> ينطلقن في مغامرة مثيرة عبر البلاد كمتسابقات في برنامج <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>أمريكا تهز الموضة</b> التلفزيوني.<br>تمثل الفتيات <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>مجلة براتز</b> وعليهن التنافس ضد منافساتهن من <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>مجلة يور ثينج</b> في سباق حماسي نحو <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>مدينة نيويورك</b> للمواجهة النهائية في عالم الأزياء.<br>يسافرن في <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>شاحنة الأزياء</b> القابلة للتخصيص عبر <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>المواقع الأمريكية الشهيرة</b> بحثاً عن أروع <b style='color: #DA70D6; text-shadow: 0 0 8px #DA70D6;'>مصممي الأزياء</b> الشباب.<br>تأخذ رحلتهن منعطفات غير متوقعة مع مواجهات تشمل <b style='color: #7CFC00; text-shadow: 0 0 8px #7CFC00;'>كائنات فضائية</b> و<b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>ريفيين</b> و<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>محتالين</b>.<br>الجائزة الكبرى بانتظارهن: زوج من <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>أحذية الغوغو المرصعة بالألماس</b> التي ستتوج الفائزة كملكة حقيقية للأزياء.</div>",
+    "ReleaseDate": "2006",
+    "CriticScore": 40,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Bratz%20Forever%20Diamondz%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Bratz%20Forever%20Diamondz%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Bratz%20Forever%20Diamondz%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 45.549529,
+    "MusicUrl": "https://archive.org/download/RPRM001/Bratz%20Forever%20Diamondz%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 2"
+    ],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Blitz Games"
+    ],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "2 GB",
+            "arguments": [],
+            "emulator": "PCSX2",
+            "romFile": "Bratz Forever Diamondz.iso",
+            "filename": "Bratz Forever Diamondz.iso"
+          }
+        ]
+      }
+    }
   }
 ]
