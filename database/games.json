@@ -3964,7 +3964,7 @@
             "platform": "PC Game",
             "executable": "CONSCRIPT.exe",
             "fileSize": "760MB",
-            "buildID": "4 December 2025",
+            "buildID": "21 January 2026",
             "filename": "00196.zip"
           }
         ]
@@ -4836,6 +4836,7 @@
             "fileSize": "12GB",
             "arguments": [],
             "executable": "Launcher.exe",
+            "buildID": "1.2.3",
             "filename": "We Were Here Forever.zip"
           }
         ]
@@ -17307,12 +17308,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC29",
-            "filename": "Dave the Diver.zip",
+            "identifier": "RPRP010",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "DaveTheDiver.exe",
-            "fileSize": "4GB"
+            "fileSize": "4GB",
+            "buildID": "21 January 2026",
+            "filename": "00300.zip"
           }
         ]
       }
@@ -18964,13 +18966,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC42",
+            "identifier": "RPRP010",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "33GB",
             "arguments": [],
             "executable": "Soulslinger.exe",
-            "filename": "Soulslinger Envoy of Death.zip"
+            "buildID": "20 January 2026",
+            "filename": "00303.zip"
           }
         ]
       }
@@ -23807,7 +23810,7 @@
             "fileSize": "12GB",
             "arguments": [],
             "executable": "Towers.exe",
-            "buildID": "12 December 2025",
+            "buildID": "13 January 2026",
             "filename": "00248.zip"
           }
         ]
@@ -34642,12 +34645,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC30",
-            "filename": "Coral Island.zip",
+            "identifier": "RPRP010",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "ProjectCoral.exe",
-            "fileSize": "11GB"
+            "fileSize": "11GB",
+            "buildID": "16 December 2025",
+            "filename": "00299.zip"
           }
         ]
       }
@@ -34677,7 +34681,9 @@
     "GenreNames": [
       "Japanese Role-Playing"
     ],
-    "DeveloperNames": [],
+    "DeveloperNames": [
+      "Capcom"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -37896,7 +37902,7 @@
             "platform": "PC Game",
             "executable": "FATAL FURY City of the Wolves.exe",
             "fileSize": "30GB",
-            "buildID": "9 December 2025",
+            "buildID": "22 January 2026",
             "filename": "00154.zip"
           }
         ]
@@ -63982,12 +63988,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC09",
-            "filename": "Disco Elysium.zip",
+            "identifier": "RPRP010",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Disco Elysium.exe",
-            "fileSize": "9GB"
+            "fileSize": "9GB",
+            "buildID": "23 January 2026",
+            "filename": "00301.zip"
           }
         ]
       }
@@ -109066,11 +109073,20 @@
         "versions": [
           {
             "identifier": "COPC05",
-            "filename": "Forever Skies.zip",
             "name": "Online",
             "platform": "PC Game",
             "executable": "ForeverSkies.exe",
-            "fileSize": "10GB"
+            "fileSize": "10GB",
+            "filename": "Forever Skies.zip"
+          },
+          {
+            "identifier": "RPRP010",
+            "name": "Offline",
+            "platform": "PC Game",
+            "executable": "ForeverSkies.exe",
+            "fileSize": "10GB",
+            "buildID": "22 January 2026",
+            "filename": "00302.zip"
           }
         ]
       }
@@ -112946,7 +112962,7 @@
             "fileSize": "2GB",
             "arguments": [],
             "executable": "OxygenNotIncluded.exe",
-            "buildID": "20 November 2025",
+            "buildID": "16 January 2026",
             "filename": "00163.zip"
           }
         ]
@@ -124183,13 +124199,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC10",
+            "identifier": "RPRP010",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2GB",
             "arguments": [],
             "executable": "The Last Faith.exe",
-            "filename": "The Last Faith.zip"
+            "buildID": "19 January 2026",
+            "filename": "00289.zip"
           }
         ]
       }
@@ -124886,7 +124903,8 @@
     "videoEnd": 64.9,
     "MusicUrl": "https://archive.org/download/retromusic/f00b2d8c-79cf-45a8-81db-95466f6b50ec.mp3",
     "PlatformNames": [
-      "Nintendo 64"
+      "Nintendo 64",
+      "PC Game"
     ],
     "GenreNames": [
       "Platformer"
@@ -124895,20 +124913,40 @@
       "Rare"
     ],
     "downloadInfo": {
-      "Nintendo 64": {
+      "Cross-Platform": {
         "versions": [
           {
+            "identifier": "RPRP010",
+            "filename": "",
+            "platform": "PC Game",
+            "name": "Enhanced",
+            "fileSize": "100MB",
+            "executableFiles": [
+              "BanjoRecompiled.exe"
+            ],
+            "filenames": [
+              "00288.zip"
+            ],
+            "buildID": "1.0.0",
+            "mods": "BK Reloaded 0.1.1"
+          },
+          {
             "identifier": "e03e03",
-            "name": "Vanilla",
+            "filename": "",
             "platform": "Nintendo 64",
+            "name": "Vanilla",
             "emulator": "RetroArch",
-            "romFile": "Banjo-Kazooie.z64",
             "fileSize": "20MB",
             "arguments": [
-              "-L\t",
+              "-L",
               ".\\cores\\mupen64plus_next_libretro.dll"
             ],
-            "filename": "Banjo-Kazooie.zip"
+            "romFiles": [
+              "Banjo-Kazooie.z64"
+            ],
+            "filenames": [
+              "Banjo-Kazooie.zip"
+            ]
           }
         ]
       }
@@ -133642,7 +133680,7 @@
             "platform": "PC Game",
             "fileSize": "21 GB",
             "executable": "HellIsUs.exe",
-            "buildID": "1 September 2025",
+            "buildID": "13 January 2026",
             "arguments": [],
             "filename": "00028.zip"
           }
@@ -137894,7 +137932,7 @@
             "platform": "PC Game",
             "fileSize": "15 GB",
             "executable": "Escape Simulator 2.exe",
-            "buildID": "16494r",
+            "buildID": "17323r",
             "arguments": [],
             "filename": "00150.zip"
           }
@@ -143233,6 +143271,435 @@
             "arguments": [],
             "buildID": "22 January 2026",
             "filename": "00287.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769327431485_0",
+    "Name": "Adventure Time Explore the Dungeon Because I DON’T KNOW!",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20Explore%20the%20Dungeon%20Because%20I%20DON%E2%80%99T%20KNOW!%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20Explore%20the%20Dungeon%20Because%20I%20DON%E2%80%99T%20KNOW!%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20Explore%20the%20Dungeon%20Because%20I%20DON%E2%80%99T%20KNOW!%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "850 MB",
+            "filename": "00290.zip",
+            "executable": "executable\\AdventureTime.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769327431486_1",
+    "Name": "Adventure Time Pirates of the Enchiridion",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20Pirates%20of%20the%20Enchiridion%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20Pirates%20of%20the%20Enchiridion%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20Pirates%20of%20the%20Enchiridion%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "00291.zip",
+            "executable": "Adventure Time Pirates of the Enchiridion.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769327431486_2",
+    "Name": "Adventure Time The Secret Of The Nameless Kingdom",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20The%20Secret%20Of%20The%20Nameless%20Kingdom%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20The%20Secret%20Of%20The%20Nameless%20Kingdom%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20The%20Secret%20Of%20The%20Nameless%20Kingdom%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "370 MB",
+            "filename": "00292.zip",
+            "executable": "executable\\AT3.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769327431486_3",
+    "Name": "Captain Wayne Vacation Desperation",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Captain%20Wayne%20Vacation%20Desperation%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Captain%20Wayne%20Vacation%20Desperation%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Captain%20Wayne%20Vacation%20Desperation%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "600 MB",
+            "filename": "00293.zip",
+            "executable": "CaptainWayne.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769327431486_4",
+    "Name": "Escape from Ever After",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Escape%20from%20Ever%20After%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Escape%20from%20Ever%20After%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Escape%20from%20Ever%20After%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "filename": "00294.zip",
+            "executable": "FlyntBuckler.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769327431486_5",
+    "Name": "Finn and Jake's Epic Quest",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Finn%20and%20Jake's%20Epic%20Quest%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Finn%20and%20Jake's%20Epic%20Quest%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Finn%20and%20Jake's%20Epic%20Quest%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "filename": "00295.zip",
+            "executable": "FJEpicQuest.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769327431486_6",
+    "Name": "Hotel Barcelona",
+    "SortingName": "",
+    "Description": "<cite index='3-5,6-4,22-25,25-22,25-23'>A mysterious <b style='color: #800000; text-shadow: 0 0 8px #800000;'>hotel</b> stands on the border of Pennsylvania and West Virginia, serving as a cursed trap for America's most dangerous <b style='color: #660000; text-shadow: 0 0 8px #660000;'>serial killers</b>.</cite><br><cite index='3-6,22-25,25-25'>You are <b style='color: #cc6600; text-shadow: 0 0 8px #cc6600;'>Justine</b>, a novice federal marshal with a deadly secret – your mind is shared with <b style='color: #990000; text-shadow: 0 0 8px #990000;'>Dr. Carnival</b>, a deranged murderer with a violent past.</cite><br><cite index='25-21,37-6'>The game takes place across <b style='color: #4d0000; text-shadow: 0 0 8px #4d0000;'>seven different sections</b> inspired by classic <b style='color: #1a0000; text-shadow: 0 0 8px #1a0000;'>horror films</b>.</cite><br><cite index='1-28,1-30,1-31'>The more you fight, the more you're covered in <b style='color: #cc0000; text-shadow: 0 0 8px #cc0000;'>blood</b> – blood fuels your power and fills the <b style='color: #800080; text-shadow: 0 0 8px #800080;'>Skull Gauge</b>.</cite><br><cite index='1-31'>When it reaches its peak, unleash <b style='color: #ff6600; text-shadow: 0 0 8px #ff6600;'>Carnival Awakening</b>: a devastating special attack that unleashes something unstoppable but monstrous.</cite><br><cite index='1-24,1-25,1-26'>Every time you die, a memory of your past self is born – these echoes, known as <b style='color: #4d4d4d; text-shadow: 0 0 8px #4d4d4d;'>Slasher Phantoms</b>, repeat your exact movements from the previous run.</cite><br><cite index='3-14'>When rookie U.S. Marshal <b style='color: #cc6600; text-shadow: 0 0 8px #cc6600;'>Justine</b> crashes near the hotel grounds, she's pulled into a terrifying reality – and forced to unleash the monster lurking inside her mind: <b style='color: #990000; text-shadow: 0 0 8px #990000;'>Dr. Carnival</b>.</cite>",
+    "DescriptionArabic": "<div dir='rtl'><cite index='3-5,6-4,22-25,25-22,25-23'>يقف <b style='color: #800000; text-shadow: 0 0 8px #800000;'>فندق</b> غامض على حدود بنسلفانيا وفرجينيا الغربية، ليكون بمثابة فخ ملعون لأخطر <b style='color: #660000; text-shadow: 0 0 8px #660000;'>القتلة المتسلسلين</b> في أمريكا.</cite><br><cite index='3-6,22-25,25-25'>أنت <b style='color: #cc6600; text-shadow: 0 0 8px #cc6600;'>جستين</b>، مارشال فدرالي مبتدئ لديك سر قاتل – عقلك يتقاسمه <b style='color: #990000; text-shadow: 0 0 8px #990000;'>دكتور كارنيفال</b>، قاتل مجنون بماض عنيف.</cite><br><cite index='25-21,37-6'>تدور اللعبة عبر <b style='color: #4d0000; text-shadow: 0 0 8px #4d0000;'>سبعة أقسام مختلفة</b> مستوحاة من <b style='color: #1a0000; text-shadow: 0 0 8px #1a0000;'>أفلام الرعب</b> الكلاسيكية.</cite><br><cite index='1-28,1-30,1-31'>كلما قاتلت أكثر، كلما تغطيت بـ<b style='color: #cc0000; text-shadow: 0 0 8px #cc0000;'>الدم</b> – الدم يغذي قوتك ويملأ <b style='color: #800080; text-shadow: 0 0 8px #800080;'>مقياس الجمجمة</b>.</cite><br><cite index='1-31'>عندما يصل لذروته، أطلق <b style='color: #ff6600; text-shadow: 0 0 8px #ff6600;'>يقظة الكرنفال</b>: هجوم خاص مدمر يطلق شيئاً لا يمكن إيقافه ولكنه وحشي.</cite><br><cite index='1-24,1-25,1-26'>في كل مرة تموت فيها، تولد ذكرى من نفسك الماضية – هذه الأصداء، المعروفة باسم <b style='color: #4d4d4d; text-shadow: 0 0 8px #4d4d4d;'>أشباح السفاح</b>، تكرر حركاتك الدقيقة من الجولة السابقة.</cite><br><cite index='3-14'>عندما تتحطم المارشال الأمريكي المبتدئ <b style='color: #cc6600; text-shadow: 0 0 8px #cc6600;'>جستين</b> بالقرب من أراضي الفندق، تُسحب إلى واقع مرعب – وتُجبر على إطلاق الوحش الكامن داخل عقلها: <b style='color: #990000; text-shadow: 0 0 8px #990000;'>دكتور كارنيفال</b>.</cite></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 60,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Hotel%20Barcelona%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Hotel%20Barcelona%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Hotel%20Barcelona%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "White Owls Inc."
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "9 GB",
+            "filename": "00296.zip",
+            "executable": "HOTEL BARCELONA.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769327523360_0",
+    "Name": "Fighting Force Collection",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Fighting%20Force%20Collection%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Fighting%20Force%20Collection%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Fighting%20Force%20Collection%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "fighting-force.exe",
+            "arguments": [],
+            "filename": "00297.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769327523360_1",
+    "Name": "Pathologic 3",
+    "SortingName": "",
+    "Description": "You are <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Daniil Dankovsky</b>, a brilliant physician obsessed with conquering <b style='color: #800080; text-shadow: 0 0 8px #800080;'>death</b> itself.<br> Your search for the secret of <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>immortality</b> brings you to a remote <b style='color: #654321; text-shadow: 0 0 8px #654321;'>steppe town</b> gripped by a mysterious <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>plague</b>.<br> The <b style='color: #2E2E2E; text-shadow: 0 0 8px #2E2E2E;'>immortal man</b> you sought is dead, and you have failed to stop the outbreak.<br> With only <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>12 days</b> before the town's destruction, you must use <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>time manipulation</b> to return to the beginning.<br> Fix your mistakes, save the <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>town</b>, and discover the dark secrets of <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>immortality</b>.<br> Every minute counts as you diagnose patients, impose <b style='color: #A52A2A; text-shadow: 0 0 8px #A52A2A;'>quarantines</b>, and make brutal decisions that determine the fate of every soul.<br> But beware—in your quest to defeat death, you may lose your <b style='color: #6A0DAD; text-shadow: 0 0 8px #6A0DAD;'>sanity</b> in the process.",
+    "DescriptionArabic": "<div dir='rtl'>أنت <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>دانييل دانكوفسكي</b>، طبيب بارع مهووس بقهر <b style='color: #800080; text-shadow: 0 0 8px #800080;'>الموت</b> ذاته.<br> جلبك بحثك عن سر <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الخلود</b> إلى بلدة نائية في <b style='color: #654321; text-shadow: 0 0 8px #654321;'>السهول</b> يقبض عليها <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>طاعون</b> غامض.<br> إن <b style='color: #2E2E2E; text-shadow: 0 0 8px #2E2E2E;'>الرجل الخالد</b> الذي كنت تبحث عنه قد مات، وقد فشلت في وقف تفشي المرض.<br> مع <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>١٢ يوماً</b> فقط قبل دمار البلدة، عليك استخدام <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>التلاعب بالزمن</b> للعودة إلى البداية.<br> اصلح أخطاءك، أنقذ <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>البلدة</b>، واكتشف أسرار <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الخلود</b> المظلمة.<br> كل دقيقة مهمة بينما تشخص المرضى، وتفرض <b style='color: #A52A2A; text-shadow: 0 0 8px #A52A2A;'>الحجر الصحي</b>، وتتخذ قرارات وحشية تحدد مصير كل روح.<br> لكن احذر—في سعيك لهزيمة الموت، قد تفقد <b style='color: #6A0DAD; text-shadow: 0 0 8px #6A0DAD;'>عقلك</b> في العملية.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
+    "Length": 45,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Pathologic%203%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Pathologic%203%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Pathologic%203%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "Ice-Pick Lodge"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "41 GB",
+            "executable": "Pathologic3.exe",
+            "arguments": [],
+            "filename": "00298.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769328146221_0",
+    "Name": "Shadow Labyrinth",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Shadow%20Labyrinth%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Shadow%20Labyrinth%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Shadow%20Labyrinth%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "Shadow Labyrinth.exe",
+            "arguments": [],
+            "buildID": "11 November 2025",
+            "filename": "00304.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769337557691_0",
+    "Name": "Cartoon Network Punch Time Explosion",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Cartoon%20Network%20Punch%20Time%20Explosion%20Background.jpeg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Cartoon%20Network%20Punch%20Time%20Explosion%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Cartoon%20Network%20Punch%20Time%20Explosion%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Cartoon%20Network%20Punch%20Time%20Explosion%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 3"
+    ],
+    "GenreNames": [
+      "Fighting"
+    ],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0302",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "fileSize": "4 GB",
+            "arguments": [],
+            "emulator": "RPCS3",
+            "romFile": "PS3_GAME\\USRDIR\\EBOOT.BIN",
+            "filename": "Cartoon Network Punch Time Explosion.zip"
           }
         ]
       }
