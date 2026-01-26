@@ -120711,7 +120711,7 @@
             "platform": "PC Game",
             "executable": "Hollowbody.exe",
             "fileSize": "8GB",
-            "buildID": "27 October 2025",
+            "buildID": "23 January 2026",
             "filename": "00148.zip"
           }
         ]
@@ -143766,5 +143766,161 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1769424750115_0",
+    "Name": "Lost Ember",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Lost%20Ember%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Lost%20Ember%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Lost%20Ember%20Trailer.mp4",
+    "videoStart": 3.2,
+    "videoEnd": 148.1,
+    "MusicUrl": "https://archive.org/download/RPRM001/Lost%20Ember%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "12 GB",
+            "executable": "LostEmberRekindledSteam.exe",
+            "arguments": [],
+            "buildID": "21 October 2022",
+            "filename": "00306.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769424750116_1",
+    "Name": "My Friendly Neighborhood",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/My%20Friendly%20Neighborhood%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/My%20Friendly%20Neighborhood%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/My%20Friendly%20Neighborhood%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 58.284706,
+    "MusicUrl": "https://archive.org/download/RPRM001/My%20Friendly%20Neighborhood%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "9 GB",
+            "executable": "My Friendly Neighborhood.exe",
+            "arguments": [],
+            "buildID": "8 January 2026",
+            "filename": "00307.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769424750116_2",
+    "Name": "Ratopia",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Ratopia%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Ratopia%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Ratopia%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Ratopia%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "Ratopia.exe",
+            "arguments": [],
+            "buildID": "20 January 2026",
+            "filename": "00308.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769424750116_3",
+    "Name": "Tavern Talk",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Tavern%20Talk%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Tavern%20Talk%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Tavern%20Talk%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Tavern%20Talk%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "Tavern Talk.exe",
+            "arguments": [],
+            "buildID": "4 December 2025",
+            "filename": "00309.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
