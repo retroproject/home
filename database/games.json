@@ -18371,9 +18371,9 @@
     "CoverImage": "c32b8c2e-d4a5-4ae5-95da-a5aa835e6d12.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/f2888044-ee69-45fe-a659-e5d16002b4a3.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/c32b8c2e-d4a5-4ae5-95da-a5aa835e6d12.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Chrono%20Trigger%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/retromusic/24c9f8a8-6e23-418b-8cd9-8f78e1f59590.mp3",
     "PlatformNames": [
       "PC Game"
@@ -31293,9 +31293,9 @@
     "CoverImage": "9178a3d8-2e7f-42ef-ba45-9a0f1b5b20a5.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/2264bf9e-d1cf-4728-b9af-240ebc7ea0c7.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/9178a3d8-2e7f-42ef-ba45-9a0f1b5b20a5.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Chaos%20Legion%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/retromusic/3d93c60f-53ce-4827-aa8f-5abb4c73c0d4.mp3",
     "PlatformNames": [
       "Sony PlayStation 2"
@@ -42460,9 +42460,9 @@
     "CoverImage": "5cd53bd0-cd41-449c-832d-782a47bdae71.jpeg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/ced7a9e8-dc1b-43be-ad7a-e90e32e385f1.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/5cd53bd0-cd41-449c-832d-782a47bdae71.jpeg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Chaos%20Rings%20II%20Trailer.mp4",
+    "videoStart": 4.214019,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/retromusic/5690a105-e9ea-4c15-b41b-679f4bd5cdee.mp3",
     "PlatformNames": [
       "Sony Playstation Vita"
@@ -59720,9 +59720,9 @@
     "CoverImage": "8bb9e0ff-bea6-414f-9864-262962f655c9.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/bf5dca46-6e96-44f0-8865-e8494e913c1e.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/8bb9e0ff-bea6-414f-9864-262962f655c9.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Chaos%20Rings%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/retromusic/764594f1-288f-45d4-8123-c73b3b6cb9d2.mp3",
     "PlatformNames": [
       "Sony Playstation Vita"
@@ -60610,7 +60610,7 @@
   {
     "_id": "77a1e922-71fd-412e-9d05-3fad864843f0",
     "GameId": "c20f795f-0d5e-4569-8efc-6377e2b29db8",
-    "Name": "Castlevania",
+    "Name": "Castlevania 64",
     "SortingName": "Castlevania 12.01",
     "Description": "Vampire hunter <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Reinhardt Schneider</span> and sorceress <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Carrie Fernandez</span> are called to <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Dracula's castle</span> in 1852 to prevent the Dark Lord's resurrection. The ancient fortress has transformed into a nightmarish maze of shifting corridors, where <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>undead horrors</span> and demonic servants guard the path to Dracula's inner sanctum.<br>As they venture deeper into the castle's <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>Gothic halls</span> and <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>crumbling towers</span>, both hunters discover that Dracula's influence has begun seeping into the surrounding countryside, turning innocent villagers into <span style='color:#000000; font-weight:bold; text-shadow: 0 0 8px #696969;'>vampiric thralls</span>. Their separate journeys through parallel dimensions of the castle reveal that only by combining their unique abilities can they hope to destroy the source of this <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>ancient evil</span> before it consumes the world.",
     "DescriptionArabic": "<div dir='rtl'>يُستدعى صائد مصاصي الدماء <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>راينهاردت شنايدر</span> والساحرة <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>كاري فيرنانديز</span> إلى <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>قلعة دراكولا</span> في عام 1852 لمنع بعث السيد المظلم. تحولت القلعة القديمة إلى متاهة كابوسية من الممرات المتبدلة، حيث تحرس <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>أهوال الأموات الأحياء</span> والخدم الشيطانيون الطريق إلى معقل دراكولا الداخلي.<br>بينما يغامران في أعماق <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>قاعات القلعة القوطية</span> و<span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>أبراجها المتهدمة</span>، يكتشف كلا الصائدين أن تأثير دراكولا قد بدأ يتسرب إلى الريف المحيط، محولاً القرويين الأبرياء إلى <span style='color:#000000; font-weight:bold; text-shadow: 0 0 8px #696969;'>عبيد مصاصي دماء</span>. رحلاتهما المنفصلة عبر أبعاد متوازية من القلعة تكشف أنه فقط بدمج قدراتهما الفريدة يمكنهما أن يأملا في تدمير مصدر هذا <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>الشر القديم</span> قبل أن يبتلع العالم.</div>",
@@ -80845,9 +80845,9 @@
     "CoverImage": "d4a91f54-a79a-4022-be21-518f8f87b0d3.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/a99b146b-8051-4159-8ed9-28b3f35fba9a.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/d4a91f54-a79a-4022-be21-518f8f87b0d3.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Captain%20Tsubasa%20RISE%20OF%20NEW%20CHAMPIONS%20Trailer.mp4",
+    "videoStart": 3.9,
+    "videoEnd": 74.987004,
     "MusicUrl": "https://archive.org/download/retromusic/a0a1cd36-3325-4b00-8ec9-b0e12f8e1e92.mp3",
     "PlatformNames": [
       "PC Game"
@@ -104137,9 +104137,9 @@
     "CoverImage": "5d7a16f9-a071-4a0a-bea6-64906b9e6b43.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/3640f8ee-0b97-4e73-af5a-05b3456b334e.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/5d7a16f9-a071-4a0a-bea6-64906b9e6b43.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Castlevania%20The%20Dracula%20X%20Chronicles%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 136.3,
     "MusicUrl": "https://archive.org/download/retromusic/c880866d-a598-4f6d-b605-0c07dd93e34f.mp3",
     "PlatformNames": [
       "Sony PlayStation Portable"
@@ -105210,9 +105210,9 @@
     "CoverImage": "569c0f48-ec14-4c96-8f82-b6b7c244ad46.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/6f141ee3-47e3-42c7-a328-a5db32a742c2.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/569c0f48-ec14-4c96-8f82-b6b7c244ad46.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Call%20of%20Duty%20Modern%20Warfare%202%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/retromusic/cad344ca-7a34-40cf-a8cd-308522cc1f98.mp3",
     "PlatformNames": [
       "PC Game"
@@ -109796,9 +109796,9 @@
     "CoverImage": "b4af2868-2d3b-4392-8ec3-2b631396e4c7.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/fb3bb83c-ca15-462b-a1ed-e9f79e3b6398.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/b4af2868-2d3b-4392-8ec3-2b631396e4c7.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Chaos%20Rings%20Omega%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/retromusic/d2370780-cfdd-4aae-9154-279d1719812c.mp3",
     "PlatformNames": [
       "Sony Playstation Vita"
@@ -127003,9 +127003,9 @@
     "CoverImage": "10098cd5-1958-4620-8a59-024ae666a751.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/069064ef-c236-45ec-9b15-91486f81b4c4.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/10098cd5-1958-4620-8a59-024ae666a751.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Castlevania%20Trailer.mp4",
+    "videoStart": 4.7,
+    "videoEnd": 38.527865,
     "MusicUrl": "https://archive.org/download/retromusic/f3bd51d5-302a-4aab-a7ad-92650aa69839.mp3",
     "PlatformNames": [
       "PC Game"
@@ -129932,9 +129932,9 @@
     "CoverImage": "3ac2e02d-4278-4ea4-98fc-0bb57668e71c",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/1ee23b1b-9d2d-45fa-9899-afbd87747ef6.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/3ac2e02d-4278-4ea4-98fc-0bb57668e71c",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Capcom%20vs.%20SNK%202%20Mark%20of%20the%20Millennium%202001%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/retromusic/fad779a3-87d6-4915-8e27-b62d7d737a50.mp3",
     "PlatformNames": [
       "Sega Dreamcast"
