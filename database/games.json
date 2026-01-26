@@ -143279,16 +143279,16 @@
   {
     "_id": "game_1769327431485_0",
     "Name": "Adventure Time Explore the Dungeon Because I DON’T KNOW!",
-    "SortingName": "",
+    "SortingName": "Adventure Time 02",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20Explore%20the%20Dungeon%20Because%20I%20DON%E2%80%99T%20KNOW!%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20Explore%20the%20Dungeon%20Because%20I%20DON%E2%80%99T%20KNOW!%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20Explore%20the%20Dungeon%20Because%20I%20DON%E2%80%99T%20KNOW!%20Trailer.mp4",
+    "videoStart": 6.1,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20Explore%20the%20Dungeon%20Because%20I%20DON%E2%80%99T%20KNOW!%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -143303,30 +143303,29 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "850 MB",
-            "filename": "00290.zip",
             "executable": "executable\\AdventureTime.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "20 November 2013",
+            "filename": "00290.zip"
           }
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769327431486_1",
     "Name": "Adventure Time Pirates of the Enchiridion",
-    "SortingName": "",
+    "SortingName": "Adventure Time 05",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20Pirates%20of%20the%20Enchiridion%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20Pirates%20of%20the%20Enchiridion%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20Pirates%20of%20the%20Enchiridion%20Trailer.mp4",
+    "videoStart": 4.2,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20Pirates%20of%20the%20Enchiridion%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -143341,30 +143340,29 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
-            "filename": "00291.zip",
             "executable": "Adventure Time Pirates of the Enchiridion.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "24 October 2018",
+            "filename": "00291.zip"
           }
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769327431486_2",
     "Name": "Adventure Time The Secret Of The Nameless Kingdom",
-    "SortingName": "",
+    "SortingName": "Adventure Time 03.01",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20The%20Secret%20Of%20The%20Nameless%20Kingdom%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20The%20Secret%20Of%20The%20Nameless%20Kingdom%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20The%20Secret%20Of%20The%20Nameless%20Kingdom%20Trailer.mp4",
+    "videoStart": 5.5,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20The%20Secret%20Of%20The%20Nameless%20Kingdom%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -143386,9 +143384,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769327431486_3",
@@ -143400,9 +143396,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Captain%20Wayne%20Vacation%20Desperation%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Captain%20Wayne%20Vacation%20Desperation%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Captain%20Wayne%20Vacation%20Desperation%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 104.017382,
     "MusicUrl": "https://archive.org/download/RPRM001/Captain%20Wayne%20Vacation%20Desperation%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -143417,16 +143413,15 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "600 MB",
-            "filename": "00293.zip",
             "executable": "CaptainWayne.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "19 December 2025",
+            "filename": "00293.zip"
           }
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769327431486_4",
@@ -143438,9 +143433,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Escape%20from%20Ever%20After%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Escape%20from%20Ever%20After%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Escape%20from%20Ever%20After%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/RPRM001/Escape%20from%20Ever%20After%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -143455,30 +143450,29 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "3 GB",
-            "filename": "00294.zip",
             "executable": "FlyntBuckler.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "25 January 2026",
+            "filename": "00294.zip"
           }
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769327431486_5",
-    "Name": "Finn and Jake's Epic Quest",
-    "SortingName": "",
+    "Name": "Adventure Time Finn and Jake's Epic Quest",
+    "SortingName": "Adventure Time 03.02",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Finn%20and%20Jake's%20Epic%20Quest%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Finn%20and%20Jake's%20Epic%20Quest%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Finn%20and%20Jake's%20Epic%20Quest%20Trailer.mp4",
+    "videoStart": 5.2,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/RPRM001/Finn%20and%20Jake's%20Epic%20Quest%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -143493,16 +143487,15 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "5 GB",
-            "filename": "00295.zip",
             "executable": "FJEpicQuest.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "25 April 2014",
+            "filename": "00295.zip"
           }
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769327431486_6",
@@ -143515,9 +143508,9 @@
     "Length": 10,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Hotel%20Barcelona%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Hotel%20Barcelona%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Hotel%20Barcelona%20Trailer.mp4",
+    "videoStart": 2.1,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/RPRM001/Hotel%20Barcelona%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -143536,16 +143529,15 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "9 GB",
-            "filename": "00296.zip",
             "executable": "HOTEL BARCELONA.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "20 January 2026",
+            "filename": "00296.zip"
           }
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769327523360_0",
@@ -143557,9 +143549,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Fighting%20Force%20Collection%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Fighting%20Force%20Collection%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Fighting%20Force%20Collection%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/RPRM001/Fighting%20Force%20Collection%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -143576,14 +143568,13 @@
             "fileSize": "2 GB",
             "executable": "fighting-force.exe",
             "arguments": [],
+            "buildID": "23 January 2026",
             "filename": "00297.zip"
           }
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769327523360_1",
@@ -143619,6 +143610,7 @@
             "fileSize": "41 GB",
             "executable": "Pathologic3.exe",
             "arguments": [],
+            "buildID": "23 January 2026",
             "filename": "00298.zip"
           }
         ]
@@ -143638,9 +143630,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Shadow%20Labyrinth%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Shadow%20Labyrinth%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Shadow%20Labyrinth%20Trailer.mp4",
+    "videoStart": 3.1,
+    "videoEnd": 72.390405,
     "MusicUrl": "https://archive.org/download/RPRM001/Shadow%20Labyrinth%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -143663,9 +143655,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769337557691_0",
@@ -143700,6 +143690,42 @@
             "emulator": "RPCS3",
             "romFile": "PS3_GAME\\USRDIR\\EBOOT.BIN",
             "filename": "Cartoon Network Punch Time Explosion.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769393120144_0",
+    "Name": "Adventure Time Hey Ice King! Whyd You Steal Our Garbage!!",
+    "SortingName": "Adventure Time 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20Hey%20Ice%20King!%20Whyd%20You%20Steal%20Our%20Garbage!!%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20Hey%20Ice%20King!%20Whyd%20You%20Steal%20Our%20Garbage!!%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20Hey%20Ice%20King!%20Whyd%20You%20Steal%20Our%20Garbage!!%20Trailer.mp4",
+    "videoStart": 9.472145,
+    "videoEnd": 53.496293,
+    "MusicUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20Hey%20Ice%20King!%20Whyd%20You%20Steal%20Our%20Garbage!!%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo 3DS"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo 3DS": {
+        "versions": [
+          {
+            "identifier": "retro-3ds",
+            "name": "Vanilla",
+            "platform": "Nintendo 3DS",
+            "fileSize": "110 MB",
+            "arguments": [],
+            "emulator": "Citra",
+            "romFile": "Adventure Time Hey Ice King! Whyd You Steal Our Garbage!!.3ds",
+            "filename": "Adventure Time Hey Ice King! Whyd You Steal Our Garbage!!.3ds"
           }
         ]
       }
