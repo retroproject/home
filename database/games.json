@@ -144408,8 +144408,8 @@
     "_id": "game_1769506697563_3",
     "Name": "In Sound Mind",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
+    "Description": "<cite index=\"1-7,2-13\">You awaken as <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Desmond Wales</b>, a therapist trapped in a mysterious <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>apartment building</b> where reality bends and warps around you.</cite><br><cite index=\"2-13,6-5\">As you explore, you discover a series of victims all exposed to the same <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>experimental chemical</b>, triggering terrifying visions and imposing horrors.</cite><br><cite index=\"1-7,32-2\">You can enter alternate dimensions by listening to <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>tape recordings</b> of your clients, exploring their deepest fears and psychoses.</cite><br><cite index=\"1-8,32-6\">Each client has their own unique level based on their <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>fears and psychoses</b>, where you must fight monsters and solve puzzles.</cite><br><cite index=\"2-14,6-1\">In your search for answers, bizarre visions emerge and introduce a host of imposing horrors… and a <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>cat named Tonia</b>.</cite><br><cite index=\"1-10,32-8\">Your ultimate goal is to solve Wales' own <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>amnesia</b> and uncover the truth behind these twisted realities.</cite><br><cite index=\"24-13\">A strange man called <b style='color: #800080; text-shadow: 0 0 8px #800080;'>Agent Rainbow</b> persistently hounds you, making threatening phone calls throughout your journey.</cite>",
+    "DescriptionArabic": "<div dir='rtl'><cite index=\"1-7,2-13\">تستيقظ كـ <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>ديزموند ويلز</b>، معالج نفسي محاصر في <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>مبنى سكني</b> غامض حيث الواقع ينحني ويلتوي من حولك.</cite><br><cite index=\"2-13,6-5\">بينما تستكشف، تكتشف سلسلة من الضحايا جميعهم تعرضوا لنفس <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>المادة الكيميائية التجريبية</b>، مما يؤدي إلى رؤى مرعبة وأهوال مهيبة.</cite><br><cite index=\"1-7,32-2\">يمكنك دخول أبعاد بديلة من خلال الاستماع إلى <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>تسجيلات شريطية</b> لمرضاك، واستكشاف أعمق مخاوفهم واضطراباتهم النفسية.</cite><br><cite index=\"1-8,32-6\">كل مريض له مستوى فريد يعتمد على <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>مخاوفه واضطراباته النفسية</b>، حيث يجب عليك محاربة الوحوش وحل الألغاز.</cite><br><cite index=\"2-14,6-1\">في بحثك عن الإجابات، تظهر رؤى غريبة وتقدم مجموعة من الأهوال المهيبة… و<b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>قط يُدعى تونيا</b>.</cite><br><cite index=\"1-10,32-8\">هدفك النهائي هو حل <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>فقدان الذاكرة</b> الذي يعاني منه ويلز وكشف الحقيقة وراء هذه الحقائق الملتوية.</cite><br><cite index=\"24-13\">رجل غريب يُدعى <b style='color: #800080; text-shadow: 0 0 8px #800080;'>العميل رينبو</b> يطاردك باستمرار، ويقوم بمكالمات هاتفية مهددة طوال رحلتك.</cite></div>",
     "ReleaseDate": null,
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/In%20Sound%20Mind%20Background.jpg",
@@ -144446,7 +144446,7 @@
   {
     "_id": "game_1769506697563_4",
     "Name": "Lost in Random The Eternal Die",
-    "SortingName": "",
+    "SortingName": "Lost in Random 02",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -144941,6 +144941,52 @@
             "arguments": [],
             "buildID": "21 May 2024",
             "filename": "00336.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769526327155_0",
+    "Name": "Heart of Darkness",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Heart%20of%20Darkness%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Heart%20of%20Darkness%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Heart%20of%20Darkness%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Heart%20of%20Darkness%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "retro-psx",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 1",
+            "fileSize": "2 GB",
+            "arguments": [],
+            "romFiles": [
+              "Heart of Darkness [Disc 1].img",
+              "Heart of Darkness [Disc 2].img"
+            ],
+            "romLabels": [
+              "Disc 1",
+              "Disc 2"
+            ],
+            "emulator": "DuckStation",
+            "filename": "Heart of Darkness.zip"
           }
         ]
       }
