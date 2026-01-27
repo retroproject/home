@@ -144220,7 +144220,7 @@
     "YouTubeUrl": "https://archive.org/download/RPRM001/Second%20Sun%20Trailer.mp4",
     "videoStart": 0,
     "videoEnd": 0,
-    "MusicUrl": "",
+    "MusicUrl": "https://archive.org/download/RPRM001/Second%20Sun%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
     ],
@@ -144244,7 +144244,6 @@
     },
     "Tags": [
       "Need Music",
-      "Has Issues",
       "Hide"
     ]
   },
@@ -144261,7 +144260,7 @@
     "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Fortress%20Trailer.mp4",
     "videoStart": 0,
     "videoEnd": 0,
-    "MusicUrl": "https://archive.org/download/RPRM001/The%20Fortress%20Theme.mp3",
+    "MusicUrl": "",
     "PlatformNames": [
       "PC Game"
     ],
@@ -144284,7 +144283,8 @@
       }
     },
     "Tags": [
-      "Hide"
+      "Hide",
+      "Has Issues"
     ]
   },
   {
