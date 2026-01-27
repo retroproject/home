@@ -44945,7 +44945,7 @@
     "_id": "5aaed7b1-984c-46c6-baf2-31abad2470a2",
     "GameId": "f19ecd68-5efc-44bd-8b1a-2fb68b9875c8",
     "Name": "Lost In Random",
-    "SortingName": "",
+    "SortingName": "Lost in Random 01",
     "Description": "In the twisted realm of <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Random</span>, young <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Even</span> embarks on a desperate quest to rescue her sister <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Odd</span> from the tyrannical <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Queen of Random</span> who controls fate through cursed dice.<br>Armed with her mystical companion <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Dicey</span>, Even must navigate six surreal kingdoms where everything is determined by the roll of enchanted <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>dice</span> and nothing follows conventional logic.<br>Each battle becomes a strategic card game where collecting <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>energy crystals</span> allows Even to craft powerful spells that can shift <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>probability itself</span>.<br>Success depends on mastering the delicate balance between <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>chance</span> and <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>strategy</span> in a world where <span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>randomness reigns supreme</span>.",
     "DescriptionArabic": "في عالم <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>العشوائية</span> الملتوي، تشرع الفتاة الصغيرة <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>إيفن</span> في مهمة يائسة لإنقاذ شقيقتها <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>أود</span> من <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>ملكة العشوائية</span> الطاغية التي تتحكم في القدر عبر النرد الملعون.<br>مسلحة برفيقها الصوفي <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>دايسي</span>، يجب على إيفن أن تتنقل عبر ست ممالك سريالية حيث كل شيء يُحدد برمي <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>النرد المسحور</span> ولا شيء يتبع المنطق التقليدي.<br>تصبح كل معركة لعبة ورق استراتيجية حيث جمع <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>بلورات الطاقة</span> يتيح لإيفن صياغة تعاويذ قوية يمكنها تغيير <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>الاحتمالية ذاتها</span>.<br>النجاح يعتمد على إتقان التوازن الدقيق بين <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>الصدفة</span> و<span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>الاستراتيجية</span> في عالم تحكمه <span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>العشوائية المطلقة</span>.",
     "ReleaseDate": "2021-9-10",
@@ -62507,7 +62507,7 @@
             "platform": "PC Game",
             "fileSize": "27GB",
             "arguments": [],
-            "buildID": "1.03.1 & 1.0.9",
+            "buildID": "1.03.2 & 1.1.0",
             "executable": "nrsc_launcher.exe",
             "filename": "00049.zip"
           },
@@ -138771,7 +138771,7 @@
             "fileSize": "10 GB",
             "executable": "Routine.exe",
             "arguments": [],
-            "buildID": "4 December 2025",
+            "buildID": "19 January 2026",
             "filename": "00189.zip"
           }
         ]
@@ -144089,5 +144089,864 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1769505264301_0",
+    "Name": "7 Days to Die",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/7%20Days%20to%20Die%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/7%20Days%20to%20Die%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/7%20Days%20to%20Die%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/7%20Days%20to%20Die%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "19 GB",
+            "executable": "7DaysToDie.exe",
+            "arguments": [],
+            "buildID": "26 January 2026",
+            "filename": "00315.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769505264301_1",
+    "Name": "Bye Sweet Carole",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Bye%20Sweet%20Carole%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Bye%20Sweet%20Carole%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Bye%20Sweet%20Carole%20Trailer.mp4",
+    "videoStart": 2.8,
+    "videoEnd": 91.157664,
+    "MusicUrl": "https://archive.org/download/RPRM001/Bye%20Sweet%20Carole%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "15 GB",
+            "executable": "Bye Sweet Carole.exe",
+            "arguments": [],
+            "buildID": "12 December 2025",
+            "filename": "00316.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769505264301_2",
+    "Name": "Grow Up",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Grow%20Up%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Grow%20Up%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Grow%20Up%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 49.964069,
+    "MusicUrl": "https://archive.org/download/RPRM001/Grow%20Up%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "930 MB",
+            "executable": "GrowUP.exe",
+            "arguments": [],
+            "buildID": "19 August 2016",
+            "filename": "00317.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769505264301_3",
+    "Name": "Second Sun",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Second%20Sun%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Second%20Sun%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Second%20Sun%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "15 GB",
+            "executable": "Second Sun.exe",
+            "arguments": [],
+            "buildID": "26 January 2026",
+            "filename": "00318.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Need Music",
+      "Has Issues",
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769505264301_4",
+    "Name": "The Fortress",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Fortress%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Fortress%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Fortress%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/The%20Fortress%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "The Fortress.exe",
+            "arguments": [],
+            "buildID": "24 January 2026",
+            "filename": "00319.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769506697562_0",
+    "Name": "Abyssus",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Abyssus%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Abyssus%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Abyssus%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Abyssus%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "RGame.exe",
+            "arguments": [],
+            "buildID": "16 January 2026",
+            "filename": "00320.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769506697562_1",
+    "Name": "Daemon X Machina Titanic Scion",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Daemon%20X%20Machina%20Titanic%20Scion%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Daemon%20X%20Machina%20Titanic%20Scion%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Daemon%20X%20Machina%20Titanic%20Scion%20Trailer.mp4",
+    "videoStart": 3.8,
+    "videoEnd": 92.465515,
+    "MusicUrl": "https://archive.org/download/RPRM001/Daemon%20X%20Machina%20Titanic%20Scion%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "49 GB",
+            "executable": "Game.exe",
+            "arguments": [],
+            "buildID": "19 December 2025",
+            "filename": "00321.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769506697563_2",
+    "Name": "Drill Core",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Drill%20Core%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Drill%20Core%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Drill%20Core%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Drill%20Core%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "Drill Core.exe",
+            "arguments": [],
+            "buildID": "14 November 2025",
+            "filename": "00322.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769506697563_3",
+    "Name": "In Sound Mind",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/In%20Sound%20Mind%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/In%20Sound%20Mind%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/In%20Sound%20Mind%20Trailer.mp4",
+    "videoStart": 2.8,
+    "videoEnd": 98.603228,
+    "MusicUrl": "https://archive.org/download/RPRM001/In%20Sound%20Mind%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "17 GB",
+            "executable": "In Sound Mind.exe",
+            "arguments": [],
+            "buildID": "11 October 2022",
+            "filename": "00323.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769506697563_4",
+    "Name": "Lost in Random The Eternal Die",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Lost%20in%20Random%20The%20Eternal%20Die%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Lost%20in%20Random%20The%20Eternal%20Die%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Lost%20in%20Random%20The%20Eternal%20Die%20Trailer.mp4",
+    "videoStart": 2.272037,
+    "videoEnd": 68.499788,
+    "MusicUrl": "https://archive.org/download/RPRM001/Lost%20in%20Random%20The%20Eternal%20Die%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "TheEternalDie.exe",
+            "arguments": [],
+            "buildID": "29 October 2025",
+            "filename": "00324.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769506697563_5",
+    "Name": "Magicraft",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Magicraft%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Magicraft%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Magicraft%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Magicraft%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Magicraft.exe",
+            "arguments": [],
+            "buildID": "21 January 2026",
+            "filename": "00325.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769506697563_6",
+    "Name": "Netherworld Covenant",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Netherworld%20Covenant%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Netherworld%20Covenant%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Netherworld%20Covenant%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Netherworld%20Covenant%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "executable": "Netherworld Covenant.exe",
+            "arguments": [],
+            "buildID": "31 December 2025",
+            "filename": "00326.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769506697563_7",
+    "Name": "Onirism",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Onirism%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Onirism%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Onirism%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Onirism%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "61 GB",
+            "executable": "Onirism.exe",
+            "arguments": [],
+            "buildID": "20 January 2026",
+            "filename": "00327.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769506697563_8",
+    "Name": "Promise Mascot Agency",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Promise%20Mascot%20Agency%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Promise%20Mascot%20Agency%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Promise%20Mascot%20Agency%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Promise%20Mascot%20Agency%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "executable": "MM.exe",
+            "arguments": [],
+            "buildID": "3 December 2025",
+            "filename": "00328.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769506697563_9",
+    "Name": "Songs of Silence",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Songs%20of%20Silence%20Celestial%20Church%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Songs%20of%20Silence%20Celestial%20Church%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Songs%20of%20Silence%20Celestial%20Church%20Trailer.mp4",
+    "videoStart": 2.1,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Songs%20of%20Silence%20Celestial%20Church%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "executable": "SongsOfSilence.exe",
+            "arguments": [],
+            "buildID": "18 December 2025",
+            "filename": "00329.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769506697563_10",
+    "Name": "SpongeBob SquarePants Titans of the Tide",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/SpongeBob%20SquarePants%20Titans%20of%20the%20Tide%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/SpongeBob%20SquarePants%20Titans%20of%20the%20Tide%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/SpongeBob%20SquarePants%20Titans%20of%20the%20Tide%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 86.369778,
+    "MusicUrl": "https://archive.org/download/RPRM001/SpongeBob%20SquarePants%20Titans%20of%20the%20Tide%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "10 GB",
+            "executable": "Ghost.exe",
+            "arguments": [],
+            "buildID": "27 November 2025",
+            "filename": "00330.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769506697563_11",
+    "Name": "Surfpunk",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Surfpunk%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Surfpunk%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Surfpunk%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Surfpunk%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Saltwind.exe",
+            "arguments": [],
+            "buildID": "27 January 2026",
+            "filename": "00331.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769506697563_12",
+    "Name": "Victoria",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Victoria%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Victoria%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Victoria%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Victoria%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "560 MB",
+            "filename": "00332.zip",
+            "executable": "Victoria.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769506697563_13",
+    "Name": "Victoria II",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Victoria%20II%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Victoria%20II%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Victoria%20II%20Trailer.mp4",
+    "videoStart": 6.968402,
+    "videoEnd": 63.898183,
+    "MusicUrl": "https://archive.org/download/RPRM001/Victoria%20II%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "960 MB",
+            "filename": "00333.zip",
+            "executable": "victoria2.exe",
+            "buildID": "STEAM_time",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769506697563_14",
+    "Name": "Victoria III",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Victoria%20III%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Victoria%20III%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Victoria%20III%20Trailer.mp4",
+    "videoStart": 2.1,
+    "videoEnd": 84.380615,
+    "MusicUrl": "https://archive.org/download/RPRM001/Victoria%20III%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "15 GB",
+            "executable": "binaries\\victoria3.exe",
+            "arguments": [],
+            "buildID": "20 January 2026",
+            "filename": "00334.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769506697563_15",
+    "Name": "Winter Burrow",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Winter%20Burrow%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Winter%20Burrow%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Winter%20Burrow%20Trailer.mp4",
+    "videoStart": 1.8,
+    "videoEnd": 63.055954,
+    "MusicUrl": "https://archive.org/download/RPRM001/Winter%20Burrow%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Winter Burrow.exe",
+            "arguments": [],
+            "buildID": "17 December 2025",
+            "filename": "00335.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769506697563_16",
+    "Name": "Wizard With a Gun",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Wizard%20With%20a%20Gun%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Wizard%20With%20a%20Gun%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Wizard%20With%20a%20Gun%20Trailer.mp4",
+    "videoStart": 2.2,
+    "videoEnd": 113.662898,
+    "MusicUrl": "https://archive.org/download/RPRM001/Wizard%20With%20a%20Gun%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "wizardwithagun.exe",
+            "arguments": [],
+            "buildID": "21 May 2024",
+            "filename": "00336.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
