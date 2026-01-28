@@ -39536,7 +39536,7 @@
     "CoverImage": "7c58bb0d-dd42-4c94-981a-0fa70630720a.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/a2feec93-4bee-42cb-839d-0e8f80c84ce2.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/7c58bb0d-dd42-4c94-981a-0fa70630720a.jpg",
-    "YouTubeUrl": "https://archive.org/download/RPRV001/Infinity%20Strash%20Dragon%20Quest%20-%20The%20Adventure%20of%20Dai%20Trailer.mp4",
+    "YouTubeUrl": "https://archive.org/download/RPRV001/Infinity%20Strash%20Dragon%20Quest%20The%20Adventure%20of%20Dai%20Trailer.mp4",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/4f6bdb87-9bc1-4ed7-a662-915d3f616c5b.mp3",
@@ -138321,7 +138321,7 @@
     "Length": 10,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Umineko%20Golden%20Fantasia%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Umineko%20Golden%20Fantasia%20Cover.jpg",
-    "YouTubeUrl": "https://archive.org/download/RPRV001/Umineko%20Golden%20Fantasia%20Trailer.mp4",
+    "YouTubeUrl": "",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/RPRM001/Umineko%20Golden%20Fantasia%20Theme.mp3",
@@ -138368,7 +138368,7 @@
     "Length": 70,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Umineko%20When%20They%20Cry%20Answer%20Arcs%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Umineko%20When%20They%20Cry%20Answer%20Arcs%20Cover.jpg",
-    "YouTubeUrl": "https://archive.org/download/RPRV001/Umineko%20When%20They%20Cry%20Answer%20Arcs%20Trailer.mp4",
+    "YouTubeUrl": "",
     "videoStart": null,
     "videoEnd": 107.36666666666666,
     "MusicUrl": "https://archive.org/download/RPRM001/Umineko%20When%20They%20Cry%20Answer%20Arcs%20Theme.mp3",
@@ -138408,7 +138408,7 @@
     "Length": 70,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Umineko%20When%20They%20Cry%20Question%20Arcs%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Umineko%20When%20They%20Cry%20Question%20Arcs%20Cover.jpg",
-    "YouTubeUrl": "https://archive.org/download/RPRV001/Umineko%20When%20They%20Cry%20Question%20Arcs%20Trailer.mp4",
+    "YouTubeUrl": "",
     "videoStart": null,
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/RPRM001/Umineko%20When%20They%20Cry%20Question%20Arcs%20Theme.mp3",
@@ -145226,8 +145226,9 @@
             "name": "Vanilla",
             "platform": "Sony PlayStation 2",
             "fileSize": "90 MB",
-            "filename": "Harvest Moon Save the Homeland.iso",
-            "arguments": []
+            "arguments": [],
+            "romFile": "Harvest Moon Save the Homeland.iso",
+            "filename": "Harvest Moon Save the Homeland.iso"
           }
         ]
       }
@@ -145306,5 +145307,116 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1769596659600_0",
+    "Name": "Skate",
+    "SortingName": "Skate 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Skate%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Skate%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Skate%20Trailer.mp4",
+    "videoStart": 4.3,
+    "videoEnd": 93.08756,
+    "MusicUrl": "https://archive.org/download/RPRM001/Skate%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 3"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0302",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "fileSize": "5 GB",
+            "arguments": [],
+            "emulator": "RPCS3",
+            "romFile": "PS3_GAME\\USRDIR\\EBOOT.BIN",
+            "filename": "Skate.zip"
+          }
+        ]
+      }
+    },
+    "Tags": []
+  },
+  {
+    "_id": "game_1769596659600_1",
+    "Name": "Skate 2",
+    "SortingName": "Skate 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Skate%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Skate%202%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Skate%202%20Trailer.mp4",
+    "videoStart": 4.099999,
+    "videoEnd": 67.931189,
+    "MusicUrl": "https://archive.org/download/RPRM001/Skate%202%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 3"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0302",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "fileSize": "8 GB",
+            "arguments": [],
+            "emulator": "RPCS3",
+            "romFile": "PS3_GAME\\USRDIR\\EBOOT.BIN",
+            "filename": "Skate 2.zip"
+          }
+        ]
+      }
+    },
+    "Tags": []
+  },
+  {
+    "_id": "game_1769596659600_2",
+    "Name": "Skate 3",
+    "SortingName": "Skate 03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Skate%203%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Skate%203%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Skate%203%20Trailer.mp4",
+    "videoStart": 10.130478,
+    "videoEnd": 82.945969,
+    "MusicUrl": "https://archive.org/download/RPRM001/Skate%203%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 3"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0302",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "fileSize": "7 GB",
+            "arguments": [],
+            "emulator": "RPCS3",
+            "romFile": "PS3_GAME\\USRDIR\\EBOOT.BIN",
+            "filename": "Skate 3.zip"
+          }
+        ]
+      }
+    },
+    "Tags": []
   }
 ]
