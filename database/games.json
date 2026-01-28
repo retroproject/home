@@ -23163,11 +23163,13 @@
         "versions": [
           {
             "identifier": "P0201",
-            "filename": "Mystic Night.iso",
             "name": "Vanilla",
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
-            "fileSize": "2GB"
+            "fileSize": "2GB",
+            "buildID": "1.2.2",
+            "romFile": "Mystic Night.iso",
+            "filename": "Mystic Night.iso"
           }
         ]
       }
@@ -62522,14 +62524,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP002",
+            "identifier": "RPRP010",
             "name": "Online",
             "platform": "PC Game",
             "fileSize": "27GB",
             "arguments": [],
             "buildID": "1.03.2 & 1.1.0",
             "executable": "nrsc_launcher.exe",
-            "filename": "00049.zip"
+            "filename": "00344.zip"
           },
           {
             "identifier": "RPRP007",
@@ -144995,9 +144997,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Battle%20Chasers%20Nightwar%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Battle%20Chasers%20Nightwar%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Battle%20Chasers%20Nightwar%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/RPRM001/Battle%20Chasers%20Nightwar%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -145034,9 +145036,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Chaser%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Chaser%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Chaser%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/RPRM001/Chaser%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -145073,10 +145075,10 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Crime%20Simulator%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Crime%20Simulator%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
-    "MusicUrl": "https://archive.org/download/RPRM001/Crime%20Simulator%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Crime%20Simulator%20Trailer.mp4",
+    "videoStart": 1.719511,
+    "videoEnd": 109.564743,
+    "MusicUrl": "",
     "PlatformNames": [
       "PC Game"
     ],
@@ -145099,7 +145101,8 @@
       }
     },
     "Tags": [
-      "Hide"
+      "Hide",
+      "Need Music"
     ]
   },
   {
@@ -145112,9 +145115,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Perception%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Perception%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Perception%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 231.211867,
     "MusicUrl": "https://archive.org/download/RPRM001/Perception%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -145151,9 +145154,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Seance%20of%20Blake%20Manor%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Seance%20of%20Blake%20Manor%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Seance%20of%20Blake%20Manor%20Trailer.mp4",
+    "videoStart": 2.1,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/RPRM001/The%20Seance%20of%20Blake%20Manor%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -145190,10 +145193,10 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Viractal%20Will%20You%20Trust%20Your%20Party%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Viractal%20Will%20You%20Trust%20Your%20Party%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
-    "MusicUrl": "https://archive.org/download/RPRM001/Viractal%20Will%20You%20Trust%20Your%20Party%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Viractal%20Will%20You%20Trust%20Your%20Party%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "",
     "PlatformNames": [
       "PC Game"
     ],
@@ -145216,7 +145219,8 @@
       }
     },
     "Tags": [
-      "Hide"
+      "Hide",
+      "Need Music"
     ]
   }
 ]
