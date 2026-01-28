@@ -145502,5 +145502,43 @@
     "Tags": [
       "Hide"
     ]
+  },
+  {
+    "_id": "game_1769622254226_0",
+    "Name": "MineMogul",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/MineMogul%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/MineMogul%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/MineMogul%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/MineMogul%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "00350.zip",
+            "executable": "Play - MineMogul.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Need Music"
+    ]
   }
 ]
