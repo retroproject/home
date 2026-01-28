@@ -145462,5 +145462,42 @@
     "Tags": [
       "Hide"
     ]
+  },
+  {
+    "_id": "game_1769621092805_0",
+    "Name": "Kururin Squash!",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Kururin%20Squash!%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Kururin%20Squash!%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Kururin%20Squash!%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Kururin%20Squash!%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo GameCube"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo GameCube": {
+        "versions": [
+          {
+            "identifier": "retro-dolphin",
+            "name": "Vanilla",
+            "platform": "Nintendo GameCube",
+            "fileSize": "2 GB",
+            "arguments": [],
+            "emulator": "Dolphin",
+            "buildID": "2.0.1",
+            "romFile": "Kururin Squash!.iso",
+            "filename": "Kururin Squash!.iso"
+          }
+        ]
+      }
+    }
   }
 ]
