@@ -144261,8 +144261,7 @@
       }
     },
     "Tags": [
-      "Need Music",
-      "Hide"
+      "Need Music"
     ]
   },
   {
@@ -144300,9 +144299,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769506697562_0",
@@ -144339,9 +144336,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769506697562_1",
@@ -144415,9 +144410,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769506697563_3",
@@ -144676,9 +144669,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769506697563_10",
@@ -144715,9 +144706,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769506697563_11",
@@ -145019,9 +145008,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769567129072_1",
@@ -145058,9 +145045,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769567129072_2",
@@ -145098,7 +145083,6 @@
       }
     },
     "Tags": [
-      "Hide",
       "Need Music"
     ]
   },
@@ -145137,9 +145121,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769567129072_4",
@@ -145176,9 +145158,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769567129072_5",
@@ -145216,7 +145196,6 @@
       }
     },
     "Tags": [
-      "Hide",
       "Need Music"
     ]
   },
@@ -145289,8 +145268,43 @@
       }
     },
     "Tags": [
-      "Need Music",
-      "Hide"
+      "Need Music"
     ]
+  },
+  {
+    "_id": "game_1769590588712_0",
+    "Name": "Everybodys Gone to the Rapture",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Everybodys%20Gone%20to%20the%20Rapture%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Everybodys%20Gone%20to%20the%20Rapture%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Everybodys%20Gone%20to%20the%20Rapture%20Trailer.mp4",
+    "videoStart": 3,
+    "videoEnd": 131.990394,
+    "MusicUrl": "https://archive.org/download/RPRM001/Everybodys%20Gone%20to%20the%20Rapture%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "executable": "Bin64\\Rapture_Release.exe",
+            "arguments": [],
+            "buildID": "24 June 2016",
+            "filename": "00347.zip"
+          }
+        ]
+      }
+    }
   }
 ]
