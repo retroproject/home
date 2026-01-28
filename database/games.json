@@ -145412,7 +145412,11 @@
             "arguments": [],
             "emulator": "RPCS3",
             "romFile": "PS3_GAME\\USRDIR\\EBOOT.BIN",
-            "filename": "Skate 3.zip"
+            "filenames": [
+              "Skate 3.zip",
+              "Skate 3 Update.zip"
+            ],
+            "buildID": "1.0.5"
           }
         ]
       }
