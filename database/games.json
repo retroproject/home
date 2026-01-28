@@ -145524,13 +145524,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP010",
+            "identifier": "RPRP011",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
-            "filename": "00350.zip",
             "executable": "Play - MineMogul.exe",
-            "arguments": []
+            "arguments": [],
+            "filename": "00350.zip"
           }
         ]
       }
