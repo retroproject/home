@@ -30715,7 +30715,8 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/3c870361-b238-40aa-8e34-1de8124a88e7.mp3",
     "PlatformNames": [
-      "Sony PlayStation"
+      "Sony PlayStation",
+      "PC Game"
     ],
     "GenreNames": [
       "Platformer"
@@ -30727,16 +30728,35 @@
       "Hall of Fame"
     ],
     "downloadInfo": {
-      "Sony PlayStation": {
+      "Cross-Platform": {
         "versions": [
           {
             "identifier": "retro-psx",
-            "filename": "Tomba! 2 The Evil Swine Return.img",
-            "name": "Vanilla",
+            "filename": "",
             "platform": "Sony PlayStation 1",
+            "name": "Playstation 1",
             "emulator": "DuckStation",
             "fileSize": "400MB",
-            "romFile": "Tomba! 2 The Evil Swine Return.img"
+            "romFiles": [
+              "Tomba! 2 The Evil Swine Return.img"
+            ],
+            "filenames": [
+              "Tomba! 2 The Evil Swine Return.img"
+            ]
+          },
+          {
+            "identifier": "RPRP010",
+            "filename": "",
+            "platform": "PC Game",
+            "name": "PC Game",
+            "fileSize": "7GB",
+            "executableFiles": [
+              "Tomba2.exe"
+            ],
+            "filenames": [
+              "00337.zip"
+            ],
+            "buildID": "31 December 2025"
           }
         ]
       }
@@ -144203,9 +144223,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769505264301_3",
@@ -144361,9 +144379,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769506697563_2",
@@ -144439,9 +144455,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769506697563_4",
@@ -144478,9 +144492,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769506697563_5",
@@ -144517,9 +144529,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769506697563_6",
@@ -144556,9 +144566,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769506697563_7",
@@ -144595,9 +144603,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769506697563_8",
@@ -144634,9 +144640,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769506697563_9",
@@ -144751,9 +144755,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769506697563_12",
@@ -144789,9 +144791,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769506697563_13",
@@ -144828,9 +144828,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769506697563_14",
@@ -144867,9 +144865,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769506697563_15",
@@ -144906,9 +144902,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769506697563_16",
@@ -144945,9 +144939,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769526327155_0",
@@ -144991,8 +144983,222 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
+  },
+  {
+    "_id": "game_1769567129072_0",
+    "Name": "Battle Chasers Nightwar",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Battle%20Chasers%20Nightwar%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Battle%20Chasers%20Nightwar%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Battle%20Chasers%20Nightwar%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "BC.exe",
+            "arguments": [],
+            "buildID": "15 November 2018",
+            "filename": "00343.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769567129072_1",
+    "Name": "Chaser",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Chaser%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Chaser%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Chaser%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Chaser.exe",
+            "arguments": [],
+            "buildID": "22 August 2016",
+            "filename": "00338.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769567129072_2",
+    "Name": "Crime Simulator",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Crime%20Simulator%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Crime%20Simulator%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Crime%20Simulator%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "18 GB",
+            "executable": "Launcher.exe",
+            "arguments": [],
+            "buildID": "1.21",
+            "filename": "00339.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769567129072_3",
+    "Name": "Perception",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Perception%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Perception%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Perception%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "executable": "Perception.exe",
+            "arguments": [],
+            "buildID": "4 December 2018",
+            "filename": "00340.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769567129072_4",
+    "Name": "The Seance of Blake Manor",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Seance%20of%20Blake%20Manor%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Seance%20of%20Blake%20Manor%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/The%20Seance%20of%20Blake%20Manor%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "11 GB",
+            "executable": "The Seance of Blake Manor.exe",
+            "arguments": [],
+            "buildID": "21 January 2026",
+            "filename": "00341.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769567129072_5",
+    "Name": "Viractal Will You Trust Your Party",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Viractal%20Will%20You%20Trust%20Your%20Party%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Viractal%20Will%20You%20Trust%20Your%20Party%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Viractal%20Will%20You%20Trust%20Your%20Party%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "VIractal.exe",
+            "arguments": [],
+            "buildID": "26 January 2026",
+            "filename": "00342.zip"
+          }
+        ]
+      }
+    }
   }
 ]
