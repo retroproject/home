@@ -86585,13 +86585,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC36",
+            "identifier": "RPRP010",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "42GB",
+            "fileSize": "65GB",
             "arguments": [],
             "executable": "Sources\\Bin\\SnowRunner.exe",
-            "filename": "SnowRunner.zip"
+            "buildID": "27 January 2026",
+            "filename": "00345.zip"
           }
         ]
       }
@@ -137540,8 +137541,7 @@
       }
     },
     "Tags": [
-      "Need Music",
-      "Has Issues"
+      "Need Music"
     ]
   },
   {
@@ -138005,8 +138005,7 @@
       }
     },
     "Tags": [
-      "Need Music",
-      "Has Issues"
+      "Need Music"
     ]
   },
   {
@@ -142121,8 +142120,7 @@
       }
     },
     "Tags": [
-      "Need Music",
-      "Has Issues"
+      "Need Music"
     ]
   },
   {
@@ -144303,8 +144301,7 @@
       }
     },
     "Tags": [
-      "Hide",
-      "Has Issues"
+      "Hide"
     ]
   },
   {
@@ -145221,6 +145218,79 @@
     "Tags": [
       "Hide",
       "Need Music"
+    ]
+  },
+  {
+    "_id": "game_1769579962005_0",
+    "Name": "Harvest Moon Save the Homeland",
+    "SortingName": "Harvest Moon 04.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Harvest%20Moon%20Save%20the%20Homeland%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Harvest%20Moon%20Save%20the%20Homeland%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Harvest%20Moon%20Save%20the%20Homeland%20Trailer.mp4",
+    "videoStart": 8.1,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Harvest%20Moon%20Save%20the%20Homeland%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 2"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "90 MB",
+            "filename": "Harvest Moon Save the Homeland.iso",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769582186126_0",
+    "Name": "Earth Must Die",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Earth%20Must%20Die%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Earth%20Must%20Die%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Earth%20Must%20Die%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "33 GB",
+            "filename": "00346.zip",
+            "executable": "Earth Must Die.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Need Music",
+      "Hide"
     ]
   }
 ]
