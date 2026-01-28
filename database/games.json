@@ -7309,12 +7309,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC08",
-            "filename": "Anno Mutationem.zip",
+            "identifier": "RPRP010",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Anno.exe",
-            "fileSize": "9GB"
+            "fileSize": "9GB",
+            "buildID": "27 January 2026",
+            "filename": "00348.zip"
           }
         ]
       }
@@ -145343,9 +145344,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769596659600_1",
@@ -145382,9 +145381,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769596659600_2",
@@ -145421,6 +145418,43 @@
               "Skate 3 Update.zip"
             ],
             "buildID": "1.0.5"
+          }
+        ]
+      }
+    },
+    "Tags": []
+  },
+  {
+    "_id": "game_1769609393260_0",
+    "Name": "WWE 2K25",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/WWE%202K25%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/WWE%202K25%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/WWE%202K25%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/WWE%202K25%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP011",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "103 GB",
+            "executable": "WWE2K25_x64.exe",
+            "arguments": [],
+            "buildID": "5 December 2025",
+            "filename": "00349.zip"
           }
         ]
       }
