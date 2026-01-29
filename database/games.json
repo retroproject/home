@@ -145575,5 +145575,44 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1769665909526_0",
+    "Name": "The Legend of Heroes Trails beyond the Horizon",
+    "SortingName": "The Legend of Heroes 18",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Legend%20of%20Heroes%20Trails%20beyond%20the%20Horizon%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Legend%20of%20Heroes%20Trails%20beyond%20the%20Horizon%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Legend%20of%20Heroes%20Trails%20beyond%20the%20Horizon%20Trailer.mp4",
+    "videoStart": 0.6,
+    "videoEnd": 70.240127,
+    "MusicUrl": "https://archive.org/download/RPRM001/The%20Legend%20of%20Heroes%20Trails%20beyond%20the%20Horizon%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP011",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "26 GB",
+            "executable": "kai.exe",
+            "arguments": [],
+            "buildID": "28 January 2026",
+            "filename": "00353.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
