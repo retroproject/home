@@ -145538,5 +145538,41 @@
     "Tags": [
       "Need Music"
     ]
+  },
+  {
+    "_id": "game_1769631704861_0",
+    "Name": "Supraworld",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Supraworld%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Supraworld%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Supraworld%20Trailer.mp4",
+    "videoStart": 2.7,
+    "videoEnd": 52.618988,
+    "MusicUrl": "https://archive.org/download/RPRM001/Supraworld%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP011",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "Supraworld.exe",
+            "arguments": [],
+            "buildID": "14 November 2025",
+            "filename": "00351.zip"
+          }
+        ]
+      }
+    }
   }
 ]
