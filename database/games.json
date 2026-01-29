@@ -4250,7 +4250,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/07d0eea3-bf35-49bf-971e-6adb19368eb0.mp3",
     "PlatformNames": [
-      "Nintendo Switch"
+      "PC Game"
     ],
     "GenreNames": [
       "Open World"
@@ -4259,16 +4259,17 @@
       "Sonic Team"
     ],
     "downloadInfo": {
-      "Nintendo Switch": {
+      "PC Game": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Sonic Frontiers.nsp",
+            "identifier": "RPRP011",
             "name": "Vanilla",
-            "platform": "Nintendo Switch",
-            "emulator": "Yuzu",
-            "fileSize": "16GB",
-            "romFile": "Sonic Frontiers.nsp"
+            "platform": "PC Game",
+            "fileSize": "40GB",
+            "arguments": [],
+            "buildID": "24 January 2025",
+            "executable": "SonicFrontiers.exe",
+            "filename": "00352.zip"
           }
         ]
       }
