@@ -145627,7 +145627,7 @@
   {
     "_id": "game_1769687327688_0",
     "Name": "Fist of the North Star Lost Paradise",
-    "SortingName": "",
+    "SortingName": "Fist of the North Star 03",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -145651,8 +145651,11 @@
             "name": "Vanilla",
             "platform": "Sony PlayStation 4",
             "fileSize": "37 GB",
-            "filename": "Fist of the North Star Lost Paradise.zip",
-            "arguments": []
+            "arguments": [],
+            "emulator": "ShadPS4",
+            "buildID": "1.0.9",
+            "romFile": "eboot.bin",
+            "filename": "Fist of the North Star Lost Paradise.zip"
           }
         ]
       }
