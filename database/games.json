@@ -76831,7 +76831,6 @@
         "versions": [
           {
             "identifier": "P0201",
-            "filename": "Dark Cloud 2.zip",
             "name": "Vanilla",
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
@@ -76843,15 +76842,17 @@
             "romLabels": [
               "English VA",
               "Japanese VA"
-            ]
+            ],
+            "buildID": "1.0a",
+            "filename": "Dark Cloud 2.zip"
           },
           {
             "identifier": "retro-ps2",
-            "filename": "Dark Cloud 2 HD Textures.zip",
             "name": "HD Textures",
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
-            "fileSize": "3GB"
+            "fileSize": "3GB",
+            "filename": "Dark Cloud 2 HD Textures.zip"
           }
         ]
       }
@@ -128370,6 +128371,16 @@
             "romFile": "eboot.bin",
             "mods": "Shadows of the Hunt 0.97.5",
             "filename": "Bloodborne [Enhanced].zip"
+          },
+          {
+            "identifier": "P0400",
+            "name": "Crash Fix",
+            "platform": "Sony PlayStation 4",
+            "emulator": "ShadPS4",
+            "fileSize": "90MB",
+            "mods": "v28",
+            "buildID": "v28 Final Fixed Crashless",
+            "filename": "Bloodborne Crash Fix.zip"
           }
         ]
       }
