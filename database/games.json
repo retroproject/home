@@ -145655,5 +145655,40 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1769707312746_0",
+    "Name": "Slots and Daggers",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Slots%20and%20Daggers%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Slots%20and%20Daggers%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Slots%20and%20Daggers%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Slots%20and%20Daggers%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP010",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "230 MB",
+            "filename": "00354.zip",
+            "executable": "Slots and Daggers.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
