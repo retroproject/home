@@ -146131,9 +146131,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769762542978_0",
@@ -146510,5 +146508,45 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1769797446091_0",
+    "Name": "Valiant Hearts Coming Home",
+    "SortingName": "Valiant Hearts 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Valiant%20Hearts%20Coming%20Home%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Valiant%20Hearts%20Coming%20Home%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Valiant%20Hearts%20Coming%20Home%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 87.9,
+    "MusicUrl": "https://archive.org/download/RPRM001/Valiant%20Hearts%20Coming%20Home%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo Switch"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Switch": {
+        "versions": [
+          {
+            "identifier": "E0701",
+            "name": "Vanilla",
+            "platform": "Nintendo Switch",
+            "fileSize": "2 GB",
+            "filenames": [
+              "Valiant Hearts Coming Home.nsp",
+              "Valiant Hearts Coming Home Citron Update.zip"
+            ],
+            "romFile": "Valiant Hearts Coming Home.nsp",
+            "emulator": "Citron",
+            "arguments": [],
+            "buildID": "1.0.1"
+          }
+        ]
+      }
+    }
   }
 ]
