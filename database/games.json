@@ -146473,5 +146473,44 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1769794343549_0",
+    "Name": "The Spirit Lift",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Spirit%20Lift%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Spirit%20Lift%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Spirit%20Lift%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 59.52107,
+    "MusicUrl": "https://archive.org/download/RPRM001/The%20Spirit%20Lift%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP011",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "THE SPIRIT LIFT.exe",
+            "arguments": [],
+            "buildID": "26 January 2026",
+            "filename": "00373.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
