@@ -146013,7 +146013,7 @@
         "versions": [
           {
             "identifier": "retro-snes",
-            "name": "Vanilla",
+            "name": "Enhanced",
             "platform": "Nintendo Super Entertainment System",
             "fileSize": "10 MB",
             "arguments": [
@@ -146022,6 +146022,7 @@
             ],
             "emulator": "RetroArch",
             "romFile": "Treasure of the Rudras.sfc",
+            "buildID": "2.10 Edited Version",
             "filename": "Treasure of the Rudras.sfc"
           }
         ]
