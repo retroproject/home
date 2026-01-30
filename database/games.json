@@ -145912,5 +145912,109 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1769748041640_0",
+    "Name": "Magenta Horizon Neverending Harvest",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Magenta%20Horizon%20Neverending%20Harvest%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Magenta%20Horizon%20Neverending%20Harvest%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Magenta%20Horizon%20Neverending%20Harvest%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Magenta%20Horizon%20Neverending%20Harvest%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP011",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "filename": "00363.zip",
+            "executable": "Magenta Horizon.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769748041640_1",
+    "Name": "Shatterline",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Shatterline%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Shatterline%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Shatterline%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Shatterline%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP011",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "28 GB",
+            "filename": "00364.zip",
+            "executable": "Bin\\Shatterline.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769750284204_0",
+    "Name": "Treasure of the Rudras",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Treasure%20of%20the%20Rudras%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Treasure%20of%20the%20Rudras%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Treasure%20of%20the%20Rudras%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Treasure%20of%20the%20Rudras%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo Super Entertainment System"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Super Entertainment System": {
+        "versions": [
+          {
+            "identifier": "retro-snes",
+            "name": "Vanilla",
+            "platform": "Nintendo Super Entertainment System",
+            "fileSize": "10 MB",
+            "filename": "Treasure of the Rudras.sfc",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
