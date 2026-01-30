@@ -146239,5 +146239,45 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1769773130788_0",
+    "Name": "Marvel Ultimate Alliance 3 The Black Order",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Marvel%20Ultimate%20Alliance%203%20The%20Black%20Order%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Marvel%20Ultimate%20Alliance%203%20The%20Black%20Order%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Marvel%20Ultimate%20Alliance%203%20The%20Black%20Order%20Trailer.mp4",
+    "videoStart": 5,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Marvel%20Ultimate%20Alliance%203%20The%20Black%20Order%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo Switch"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Switch": {
+        "versions": [
+          {
+            "identifier": "E0701",
+            "name": "Vanilla",
+            "platform": "Nintendo Switch",
+            "fileSize": "14 GB",
+            "arguments": [],
+            "filenames": [
+              "Marvel Ultimate Alliance 3 The Black Order.nsp",
+              "Marvel Ultimate Alliance 3 The Black Order Citron Update.nsp"
+            ],
+            "emulator": "Citron",
+            "buildID": "4.0.1",
+            "romFile": "Marvel Ultimate Alliance 3 The Black Order.nsp"
+          }
+        ]
+      }
+    }
   }
 ]
