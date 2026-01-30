@@ -43878,9 +43878,9 @@
     "CoverImage": "94abe2d6-7852-43d1-b039-3b26d7e9dd42.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/4689e8df-e3f9-4652-b7da-9cb52e6a819f.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/94abe2d6-7852-43d1-b039-3b26d7e9dd42.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Crash%20Bash%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 39.386014,
     "MusicUrl": "https://archive.org/download/retromusic/58736285-7daa-4988-9c04-49e4a6c9a982.mp3",
     "PlatformNames": [
       "Sony PlayStation"
@@ -63728,9 +63728,9 @@
     "CoverImage": "394ec838-203a-474c-a4db-5a1ee357e075.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/70b6b5e6-3a61-42d4-87ad-717840ca80aa.jpg",
     "CoverUrl": "https://archive.org/download/retrocovers/394ec838-203a-474c-a4db-5a1ee357e075.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Crash%20Mind%20Over%20Mutant%20Trailer.mp4",
+    "videoStart": 4.4,
+    "videoEnd": 58.6,
     "MusicUrl": "https://archive.org/download/retromusic/7d761a02-5bea-46c4-bcaa-dc0449e1fe81.mp3",
     "PlatformNames": [
       "Sony PlayStation 2"
@@ -146123,7 +146123,7 @@
             "identifier": "RPRP011",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "7 GB",
+            "fileSize": "50GB",
             "arguments": [],
             "executable": "TheQuarry.exe",
             "filename": "00367.zip"
