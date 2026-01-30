@@ -146280,5 +146280,125 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1769778849202_0",
+    "Name": "Afro Samurai",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Afro%20Samurai%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Afro%20Samurai%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Afro%20Samurai%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 29.7,
+    "MusicUrl": "https://archive.org/download/RPRM001/Afro%20Samurai%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 3"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0302",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "fileSize": "4 GB",
+            "arguments": [],
+            "emulator": "RPCS3",
+            "romFile": "PS3_GAME\\USRDIR\\EBOOT.BIN",
+            "filenames": [
+              "Afro Samurai.zip",
+              "Afro Samurai Update.zip"
+            ],
+            "buildID": "1.0.1"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769778849202_1",
+    "Name": "Dark Sector",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Dark%20Sector%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Dark%20Sector%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Dark%20Sector%20Trailer.mp4",
+    "videoStart": 8.552048,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Dark%20Sector%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 3"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0302",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "fileSize": "2 GB",
+            "arguments": [],
+            "emulator": "RPCS3",
+            "romFile": "PS3_GAME\\USRDIR\\EBOOT.BIN",
+            "filenames": [
+              "Dark Sector.zip",
+              "Dark Sector Update.zip"
+            ],
+            "buildID": "1.0.1"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769778849202_2",
+    "Name": "Natural Doctrine",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Natural%20Doctrine%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Natural%20Doctrine%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Natural%20Doctrine%20Trailer.mp4",
+    "videoStart": 10.2,
+    "videoEnd": 99.486281,
+    "MusicUrl": "https://archive.org/download/RPRM001/Natural%20Doctrine%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 3"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0302",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "fileSize": "7 GB",
+            "arguments": [],
+            "romFile": "PS3_GAME\\USRDIR\\EBOOT.BIN",
+            "emulator": "RPCS3",
+            "filenames": [
+              "Natural Doctrine.zip",
+              "Natural Doctrine Update.zip"
+            ],
+            "buildID": "1.0.1"
+          }
+        ]
+      }
+    }
   }
 ]
