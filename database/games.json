@@ -145726,5 +145726,81 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1769733305466_0",
+    "Name": "Cairn",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Cairn%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Cairn%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Cairn%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Cairn%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP011",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "11 GB",
+            "filename": "00356.zip",
+            "executable": "Cairn.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769733305466_1",
+    "Name": "City Tales Medieval Era",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/City%20Tales%20Medieval%20Era%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/City%20Tales%20Medieval%20Era%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/City%20Tales%20Medieval%20Era%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/City%20Tales%20Medieval%20Era%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP011",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "filename": "00357.zip",
+            "executable": "City Tales.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
