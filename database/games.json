@@ -146018,7 +146018,7 @@
             "fileSize": "10 MB",
             "arguments": [
               "-L",
-              ".\\cores\\mesen_libretro.dll"
+              ".\\cores\\snes9x_libretro.dll"
             ],
             "emulator": "RetroArch",
             "romFile": "Treasure of the Rudras.sfc",
