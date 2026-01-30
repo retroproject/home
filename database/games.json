@@ -146016,7 +146016,10 @@
             "name": "Vanilla",
             "platform": "Nintendo Super Entertainment System",
             "fileSize": "10 MB",
-            "arguments": [],
+            "arguments": [
+              "-L",
+              ".\\cores\\mesen_libretro.dll"
+            ],
             "emulator": "RetroArch",
             "romFile": "Treasure of the Rudras.sfc",
             "filename": "Treasure of the Rudras.sfc"
