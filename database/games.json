@@ -146022,5 +146022,224 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1769761170128_0",
+    "Name": "Feastopia",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Feastopia%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Feastopia%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Feastopia%20Trailer.mp4",
+    "videoStart": 3.1,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Feastopia%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP011",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "00365.zip",
+            "executable": "Feastopia.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769761170128_1",
+    "Name": "The Perfect Pencil",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Perfect%20Pencil%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Perfect%20Pencil%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Perfect%20Pencil%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP011",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "filename": "00366.zip",
+            "executable": "The Perfect Pencil.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Need Music"
+    ]
+  },
+  {
+    "_id": "game_1769761170128_2",
+    "Name": "The Quarry",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Quarry%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Quarry%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Quarry%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/The%20Quarry%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP011",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "arguments": [],
+            "executable": "TheQuarry.exe",
+            "filename": "00367.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769762542978_0",
+    "Name": "Crusader Kings Complete",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Crusader%20Kings%20Complete%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Crusader%20Kings%20Complete%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Crusader%20Kings%20Complete%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP011",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "400 MB",
+            "filename": "00368.zip",
+            "executable": "Crusaders.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769762542978_1",
+    "Name": "Crusader Kings II",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Crusader%20Kings%20II%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Crusader%20Kings%20II%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Crusader%20Kings%20II%20Trailer.mp4",
+    "videoStart": 3.2,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Crusader%20Kings%20II%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP011",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "filename": "00369.zip",
+            "executable": "CK2game.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769762542978_2",
+    "Name": "Crusader Kings III",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Crusader%20Kings%20III%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Crusader%20Kings%20III%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Crusader%20Kings%20III%20Trailer.mp4",
+    "videoStart": 2.1,
+    "videoEnd": 85.25665,
+    "MusicUrl": "https://archive.org/download/RPRM001/Crusader%20Kings%20III%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP011",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "18 GB",
+            "filename": "00370.zip",
+            "executable": "binaries\\ck3.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
