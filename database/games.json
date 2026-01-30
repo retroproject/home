@@ -143310,12 +143310,12 @@
   },
   {
     "_id": "game_1769327431485_0",
-    "Name": "Adventure Time Explore the Dungeon Because I DON’T KNOW!",
+    "Name": "Adventure Time Explore the Dungeon Because I DON'T KNOW!",
     "SortingName": "Adventure Time 02",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Princess Bubblegum</b> discovers that prisoners are mysteriously escaping from the secret <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Royal Dungeon</b> beneath the <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Land of Ooo</b>.<br>She sends <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Finn</b> and <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Jake</b> deep underground to uncover the truth behind the <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>breakouts</b>.<br>Descending through <b style='color: #9B59B6; text-shadow: 0 0 8px #9B59B6;'>one hundred floors</b> of dangerous foes, they encounter <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Ice King</b> secretly crafting <b style='color: #E0FFFF; text-shadow: 0 0 8px #E0FFFF;'>Fionna and Cake ice statues</b> in the depths.<br>At the bottom, a terrifying revelation awaits: a massive <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>pink blob</b> has been growing uncontrollably, freeing <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>prisoners</b> as it expands.<br>This ancient creature is none other than <b style='color: #DA70D6; text-shadow: 0 0 8px #DA70D6;'>Bubblegum's parents</b>, the very mass from which she was born over a <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>thousand years</b> ago.<br>Now the heroes must confront this <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>living origin</b> before it consumes the entire kingdom.",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>الأميرة بابلغام</b> تكتشف أن السجناء يهربون بشكل غامض من <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>الزنزانة الملكية</b> السرية تحت <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>أرض أوو</b>.<br>ترسل <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>فين</b> و<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>جيك</b> إلى الأعماق لكشف حقيقة <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الهروب</b>.<br>أثناء نزولهم عبر <b style='color: #9B59B6; text-shadow: 0 0 8px #9B59B6;'>مئة طابق</b> من الأعداء الخطرين، يصادفون <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>ملك الجليد</b> وهو ينحت سراً <b style='color: #E0FFFF; text-shadow: 0 0 8px #E0FFFF;'>تماثيل جليدية لفيونا وكيك</b> في الأعماق.<br>في القاع، ينتظرهم كشف مرعب: <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>كتلة وردية</b> ضخمة تنمو دون توقف وتحرر <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>السجناء</b> أثناء تمددها.<br>هذا المخلوق القديم ليس سوى <b style='color: #DA70D6; text-shadow: 0 0 8px #DA70D6;'>والدي بابلغام</b>، الكتلة ذاتها التي ولدت منها قبل <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>ألف عام</b>.<br>الآن على الأبطال مواجهة هذا <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الأصل الحي</b> قبل أن يبتلع المملكة بأكملها.</div>",
+    "ReleaseDate": "2013",
+    "CriticScore": 40,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20Explore%20the%20Dungeon%20Because%20I%20DON%E2%80%99T%20KNOW!%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20Explore%20the%20Dungeon%20Because%20I%20DON%E2%80%99T%20KNOW!%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Adventure%20Time%20Explore%20the%20Dungeon%20Because%20I%20DON%E2%80%99T%20KNOW!%20Trailer.mp4",
@@ -146016,8 +146016,10 @@
             "name": "Vanilla",
             "platform": "Nintendo Super Entertainment System",
             "fileSize": "10 MB",
-            "filename": "Treasure of the Rudras.sfc",
-            "arguments": []
+            "arguments": [],
+            "emulator": "RetroArch",
+            "romFile": "Treasure of the Rudras.sfc",
+            "filename": "Treasure of the Rudras.sfc"
           }
         ]
       }
