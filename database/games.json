@@ -28595,9 +28595,9 @@
     "CoverImage": "41a625a3-331c-45bb-bcb8-2b47c06742d8.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/834b4447-6499-4fbe-a5e0-f3e07466b403.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/41a625a3-331c-45bb-bcb8-2b47c06742d8.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Zone%20of%20the%20Enders%20The%202nd%20Runner%20Trailer.mp4",
+    "videoStart": 4.602321,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/retromusic/378be5ae-e1a8-418e-a911-c8605f20045a.mp3",
     "PlatformNames": [
       "Sony PlayStation 2"
@@ -40449,9 +40449,9 @@
     "CoverImage": "2996255b-1e41-4300-ac00-30968881cc26.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/b6f2cc2d-40a2-4efd-894f-b5be488f108a.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/2996255b-1e41-4300-ac00-30968881cc26.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Zone%20of%20the%20Enders%20Trailer.mp4",
+    "videoStart": 1.773496,
+    "videoEnd": 332.177423,
     "MusicUrl": "https://archive.org/download/retromusic/51b96014-8f01-4d10-b726-13f2bced3e96.mp3",
     "PlatformNames": [
       "Sony PlayStation 2"
@@ -63056,9 +63056,9 @@
     "CoverImage": "24e53451-e5aa-46f7-a78f-9c72274cb76a.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/90146a1c-e50d-42b2-94fd-b184ec49c8e1.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/24e53451-e5aa-46f7-a78f-9c72274cb76a.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Zombie%20Army%204%20Dead%20War%20Trailer.mp4",
+    "videoStart": 2.111422,
+    "videoEnd": 151.600563,
     "MusicUrl": "https://archive.org/download/retromusic/7c5a0d9b-5cd7-4862-8bf0-9e81696a05ca.mp3",
     "PlatformNames": [
       "PC Game"
@@ -68042,9 +68042,9 @@
     "CoverImage": "1ffe586a-c6b1-4483-9255-577a02b04115.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/cff7dcfc-fd23-4a9b-bd67-04562c02547a.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/1ffe586a-c6b1-4483-9255-577a02b04115.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Zombie%20Revenge%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/retromusic/8628d6a6-b26b-4935-990d-382446dba7ee.mp3",
     "PlatformNames": [
       "Sega Dreamcast"
@@ -125989,9 +125989,9 @@
     "CoverImage": "f175252f-3bd8-4291-ac00-edfb870b80f2.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/0af439b1-a492-41f4-af10-4d4135f7b0fe.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/f175252f-3bd8-4291-ac00-edfb870b80f2.png",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Zombie%20Army%20Trilogy%20Trailer.mp4",
+    "videoStart": 5.359215,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/retromusic/f2744495-80fb-4e9d-b14a-d5aa2bec5555.mp3",
     "PlatformNames": [
       "PC Game"
@@ -146926,5 +146926,157 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1769844658660_0",
+    "Name": "Company of Heroes",
+    "SortingName": "Company of Heroes 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Company%20of%20Heroes%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Company%20of%20Heroes%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Company%20of%20Heroes%20Trailer.mp4",
+    "videoStart": 5.811006,
+    "videoEnd": 130.297435,
+    "MusicUrl": "https://archive.org/download/RPRM001/Company%20of%20Heroes%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP011",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "9 GB",
+            "executable": "RelicCOH.exe",
+            "arguments": [],
+            "filename": "00378.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769844658660_1",
+    "Name": "Company of Heroes 2",
+    "SortingName": "Company of Heroes 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Company%20of%20Heroes%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Company%20of%20Heroes%202%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Company%20of%20Heroes%202%20Trailer.mp4",
+    "videoStart": 5.831284,
+    "videoEnd": 114.3,
+    "MusicUrl": "https://archive.org/download/RPRM001/Company%20of%20Heroes%202%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP011",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "32 GB",
+            "filename": "00379.zip",
+            "executable": "RelicCoH2.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769844658660_2",
+    "Name": "Company of Heroes 3",
+    "SortingName": "Company of Heroes 03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Company%20of%20Heroes%203%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Company%20of%20Heroes%203%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Company%20of%20Heroes%203%20Trailer.mp4",
+    "videoStart": 12.9,
+    "videoEnd": 242.80498,
+    "MusicUrl": "https://archive.org/download/RPRM001/Company%20of%20Heroes%203%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP011",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "31 GB",
+            "filename": "00380.zip",
+            "executable": "RelicCoH3.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769844658660_3",
+    "Name": "World War Z",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/World%20War%20Z%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/World%20War%20Z%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/World%20War%20Z%20Trailer.mp4",
+    "videoStart": 2.2,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/World%20War%20Z%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP011",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "73 GB",
+            "filename": "00381.zip",
+            "executable": "en_us\\client\\bin\\pc\\wwzRetail.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
