@@ -146576,9 +146576,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "15 GB",
-            "filename": "00374.zip",
             "executable": "RelicHuntersLegend.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "8 January 2026",
+            "filename": "00374.zip"
           }
         ]
       }
@@ -146611,9 +146612,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
-            "filename": "00375.zip",
             "executable": "slime_warrior.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "31 May 2025",
+            "filename": "00375.zip"
           }
         ]
       }
@@ -146646,9 +146648,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
-            "filename": "00376.zip",
             "executable": "SlimeRancher.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "16 October 2025",
+            "filename": "00376.zip"
           }
         ]
       }
@@ -146681,9 +146684,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "4 GB",
-            "filename": "00377.zip",
             "executable": "SlimeRancher2.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "22 January 2026",
+            "filename": "00377.zip"
           }
         ]
       }
@@ -146956,6 +146960,7 @@
             "fileSize": "9 GB",
             "executable": "RelicCOH.exe",
             "arguments": [],
+            "buildID": "1 June 2017",
             "filename": "00378.zip"
           }
         ]
@@ -146990,9 +146995,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "32 GB",
-            "filename": "00379.zip",
             "executable": "RelicCoH2.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "20 June 2022",
+            "filename": "00379.zip"
           }
         ]
       }
@@ -147026,9 +147032,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "31 GB",
-            "filename": "00380.zip",
             "executable": "RelicCoH3.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "29 January 2026",
+            "filename": "00380.zip"
           }
         ]
       }
@@ -147062,9 +147069,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "73 GB",
-            "filename": "00381.zip",
             "executable": "en_us\\client\\bin\\pc\\wwzRetail.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "29 January 2026",
+            "filename": "00381.zip"
           }
         ]
       }
