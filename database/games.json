@@ -146961,9 +146961,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769844658660_1",
@@ -146999,9 +146997,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769844658660_2",
@@ -147037,9 +147033,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769844658660_3",
@@ -147078,5 +147072,336 @@
     "Tags": [
       "Hide"
     ]
+  },
+  {
+    "_id": "game_1769853412836_0",
+    "Name": "Ace Combat 2",
+    "SortingName": "Ace Combat 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Ace%20Combat%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Ace%20Combat%202%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Ace%20Combat%202%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Ace%20Combat%202%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "retro-psx",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 1",
+            "fileSize": "560 MB",
+            "filename": "Ace Combat 2.img",
+            "romFile": "Ace Combat 2.img",
+            "emulator": "DuckStation",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769853412837_1",
+    "Name": "Ace Combat 3 Electrosphere",
+    "SortingName": "Ace Combat 03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Ace%20Combat%203%20Electrosphere%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Ace%20Combat%203%20Electrosphere%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Ace%20Combat%203%20Electrosphere%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Ace%20Combat%203%20Electrosphere%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "retro-psx",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 1",
+            "fileSize": "2 GB",
+            "filename": "Ace Combat 3 Electrosphere.zip",
+            "romFiles": [
+              "Ace Combat 3 Electrosphere [Disc 1].img",
+              "Ace Combat 3 Electrosphere [Disc 2].img"
+            ],
+            "romLabels": [
+              "Disc 1",
+              "Disc 2"
+            ],
+            "emulator": "DuckStation",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769853412837_2",
+    "Name": "Air Combat",
+    "SortingName": "Ace Combat 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Air%20Combat%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Air%20Combat%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Air%20Combat%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Air%20Combat%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "retro-psx",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 1",
+            "fileSize": "340 MB",
+            "filename": "Air Combat.chd",
+            "romFile": "Air Combat.chd",
+            "emulator": "DuckStation",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769853412837_3",
+    "Name": "Evil Zone",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Evil%20Zone%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Evil%20Zone%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Evil%20Zone%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Evil%20Zone%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "retro-psx",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 1",
+            "fileSize": "580 MB",
+            "filename": "Evil Zone [Uncensored].img",
+            "romFile": "Evil Zone [Uncensored].img",
+            "emulator": "DuckStation",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769853412837_5",
+    "Name": "Medal of Honor Underground",
+    "SortingName": "Medal of Honor 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Medal%20of%20Honor%20Underground%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Medal%20of%20Honor%20Underground%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Medal%20of%20Honor%20Underground%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Medal%20of%20Honor%20Underground%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "retro-psx",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 1",
+            "fileSize": "470 MB",
+            "filename": "Medal of Honor Underground.chd",
+            "romFile": "Medal of Honor Underground.chd",
+            "emulator": "DuckStation",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769853412837_6",
+    "Name": "Medal of Honor",
+    "SortingName": "Medal of Honor 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Medal%20of%20Honor%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Medal%20of%20Honor%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Medal%20of%20Honor%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Medal%20of%20Honor%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "retro-psx",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 1",
+            "fileSize": "450 MB",
+            "filename": "Medal of Honor.chd",
+            "romFile": "Medal of Honor.chd",
+            "emulator": "DuckStation",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769853412837_7",
+    "Name": "PoPoLoCrois Monogatari",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/PoPoLoCrois%20Monogatari%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/PoPoLoCrois%20Monogatari%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/PoPoLoCrois%20Monogatari%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/PoPoLoCrois%20Monogatari%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "retro-psx",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 1",
+            "fileSize": "660 MB",
+            "filename": "PoPoLoCrois Monogatari.img",
+            "romFile": "PoPoLoCrois Monogatari.img",
+            "emulator": "DuckStation",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769853412837_8",
+    "Name": "PoPoRoGue",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/PoPoRoGue%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/PoPoRoGue%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/PoPoRoGue%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 83.940648,
+    "MusicUrl": "https://archive.org/download/RPRM001/PoPoRoGue%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "retro-psx",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 1",
+            "fileSize": "680 MB",
+            "filename": "PoPoRoGue.img",
+            "romFile": "PoPoRoGue.img",
+            "emulator": "DuckStation",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769853412837_9",
+    "Name": "The City of Lost Children",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/The%20City%20of%20Lost%20Children%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20City%20of%20Lost%20Children%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/The%20City%20of%20Lost%20Children%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/The%20City%20of%20Lost%20Children%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "retro-psx",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 1",
+            "fileSize": "220 MB",
+            "filename": "The City of Lost Children.chd",
+            "romFile": "The City of Lost Children.chd",
+            "emulator": "DuckStation",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
