@@ -146559,9 +146559,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Relic%20Hunters%20Legend%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Relic%20Hunters%20Legend%20Cover.jpg",
-    "YouTubeUrl": "https://archive.org/download/RPRM001/Relic%20Hunters%20Legend%20Trailer.mp4",
-    "videoStart": 0,
-    "videoEnd": 0,
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
     "MusicUrl": "https://archive.org/download/RPRM001/Relic%20Hunters%20Legend%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -146576,10 +146576,9 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "15 GB",
+            "filename": "00374.zip",
             "executable": "RelicHuntersLegend.exe",
-            "arguments": [],
-            "buildID": "8 January 2026",
-            "filename": "00374.zip"
+            "arguments": []
           }
         ]
       }
@@ -146595,9 +146594,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Slime%20Heroes%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Slime%20Heroes%20Cover.jpg",
-    "YouTubeUrl": "https://archive.org/download/RPRM001/Slime%20Heroes%20Trailer.mp4",
-    "videoStart": 2.7,
-    "videoEnd": 109.231649,
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
     "MusicUrl": "https://archive.org/download/RPRM001/Slime%20Heroes%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -146612,10 +146611,9 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
+            "filename": "00375.zip",
             "executable": "slime_warrior.exe",
-            "arguments": [],
-            "buildID": "31 May 2025",
-            "filename": "00375.zip"
+            "arguments": []
           }
         ]
       }
@@ -146631,9 +146629,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Slime%20Rancher%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Slime%20Rancher%20Cover.jpg",
-    "YouTubeUrl": "https://archive.org/download/RPRM001/Slime%20Rancher%20Trailer.mp4",
-    "videoStart": 0,
-    "videoEnd": 0,
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
     "MusicUrl": "https://archive.org/download/RPRM001/Slime%20Rancher%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -146648,10 +146646,9 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
+            "filename": "00376.zip",
             "executable": "SlimeRancher.exe",
-            "arguments": [],
-            "buildID": "16 October 2025",
-            "filename": "00376.zip"
+            "arguments": []
           }
         ]
       }
@@ -146667,9 +146664,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Slime%20Rancher%202%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Slime%20Rancher%202%20Cover.jpg",
-    "YouTubeUrl": "https://archive.org/download/RPRM001/Slime%20Rancher%202%20Trailer.mp4",
-    "videoStart": 0,
-    "videoEnd": 0,
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
     "MusicUrl": "https://archive.org/download/RPRM001/Slime%20Rancher%202%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -146684,10 +146681,247 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "4 GB",
+            "filename": "00377.zip",
             "executable": "SlimeRancher2.exe",
-            "arguments": [],
-            "buildID": "22 January 2026",
-            "filename": "00377.zip"
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769832594403_0",
+    "Name": "Mega Man Star Force",
+    "SortingName": "Mega Man Z 03.01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Mega%20Man%20Star%20Force%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Mega%20Man%20Star%20Force%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Mega%20Man%20Star%20Force%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 40.623215,
+    "MusicUrl": "https://archive.org/download/RPRM001/Mega%20Man%20Star%20Force%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo DS"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo DS": {
+        "versions": [
+          {
+            "identifier": "retro-nitro",
+            "name": "Collection",
+            "platform": "Nintendo DS",
+            "fileSize": "130 MB",
+            "filename": "Mega Man Star Force.zip",
+            "romFiles": [
+              "Mega Man Star Force Dragon.nds",
+              "Mega Man Star Force Pegasus.nds",
+              "Mega Man Star Force Leo.nds",
+              "Mega Man Star Force DX.nds"
+            ],
+            "romLabels": [
+              "Dragon",
+              "Pegasus",
+              "Leo",
+              "Enhanced DX"
+            ],
+            "emulator": "RetroArch",
+            "arguments": [
+              "-L",
+              ".\\cores\\melonds_libretro.dll"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769832594951_1",
+    "Name": "Mega Man Star Force 2 Zerker x Ninja",
+    "SortingName": "Mega Man Z 03.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Mega%20Man%20Star%20Force%202%20Zerker%20x%20Ninja%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Mega%20Man%20Star%20Force%202%20Zerker%20x%20Ninja%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Mega%20Man%20Star%20Force%202%20Zerker%20x%20Ninja%20Trailer.mp4",
+    "videoStart": 21.3,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Mega%20Man%20Star%20Force%202%20Zerker%20x%20Ninja%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo DS"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo DS": {
+        "versions": [
+          {
+            "identifier": "retro-nitro",
+            "name": "Collection",
+            "platform": "Nintendo DS",
+            "fileSize": "80 MB",
+            "filename": "Mega Man Star Force 2 Zerker x Ninja.zip",
+            "romFiles": [
+              "Mega Man Star Force 2 Zerker x Ninja.nds",
+              "Mega Man Star Force 2 Zerker x Ninja [Japanese VA].nds",
+              "Mega Man Star Force 2 Zerker x Ninja [Not Quite DX].nds"
+            ],
+            "romLabels": [
+              "English VA",
+              "Japanese VA",
+              "Not Quite DX"
+            ],
+            "emulator": "RetroArch",
+            "arguments": [
+              "-L",
+              ".\\cores\\melonds_libretro.dll"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769832594951_2",
+    "Name": "Mega Man Star Force 2 Zerker x Saurian",
+    "SortingName": "Mega Man Z 03.03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Mega%20Man%20Star%20Force%202%20Zerker%20x%20Saurian%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Mega%20Man%20Star%20Force%202%20Zerker%20x%20Saurian%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Mega%20Man%20Star%20Force%202%20Zerker%20x%20Saurian%20Trailer.mp4",
+    "videoStart": 21.532684,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Mega%20Man%20Star%20Force%202%20Zerker%20x%20Saurian%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo DS"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo DS": {
+        "versions": [
+          {
+            "identifier": "retro-nitro",
+            "name": "Collection",
+            "platform": "Nintendo DS",
+            "fileSize": "80 MB",
+            "filename": "Mega Man Star Force 2 Zerker x Saurian.zip",
+            "romFiles": [
+              "Mega Man Star Force 2 Zerker x Saurian.nds",
+              "Mega Man Star Force 2 Zerker x Saurian [Japanese VA].nds",
+              "Mega Man Star Force 2 Zerker x Saurian [Not Quite DX].nds"
+            ],
+            "romLabels": [
+              "English VA",
+              "Japanese VA",
+              "Not Quite DX"
+            ],
+            "emulator": "RetroArch",
+            "arguments": [
+              "-L",
+              ".\\cores\\melonds_libretro.dll"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769832594951_3",
+    "Name": "Mega Man Star Force 3 Black Ace",
+    "SortingName": "Mega Man Z 03.04",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Mega%20Man%20Star%20Force%203%20Black%20Ace%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Mega%20Man%20Star%20Force%203%20Black%20Ace%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Mega%20Man%20Star%20Force%203%20Black%20Ace%20Trailer.mp4",
+    "videoStart": 5.2,
+    "videoEnd": 91.8,
+    "MusicUrl": "https://archive.org/download/RPRM001/Mega%20Man%20Star%20Force%203%20Black%20Ace%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo DS"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo DS": {
+        "versions": [
+          {
+            "identifier": "retro-nitro",
+            "name": "Collection",
+            "platform": "Nintendo DS",
+            "fileSize": "60 MB",
+            "romFiles": [
+              "Mega Man Star Force 3 Black Ace.nds",
+              "Mega Man Star Force 3 Black Ace [Japanese VA].nds"
+            ],
+            "romLabels": [
+              "English VA",
+              "Japanese VA"
+            ],
+            "emulator": "RetroArch",
+            "arguments": [
+              "-L",
+              ".\\cores\\melonds_libretro.dll"
+            ],
+            "filename": "Mega Man Star Force 3 Black Ace.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769832594951_4",
+    "Name": "Mega Man Star Force 3 Red Joker",
+    "SortingName": "Mega Man Z 03.05",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Mega%20Man%20Star%20Force%203%20Red%20Joker%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Mega%20Man%20Star%20Force%203%20Red%20Joker%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Mega%20Man%20Star%20Force%203%20Red%20Joker%20Trailer.mp4",
+    "videoStart": 5.109706,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Mega%20Man%20Star%20Force%203%20Red%20Joker%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo DS"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo DS": {
+        "versions": [
+          {
+            "identifier": "retro-nitro",
+            "name": "Collection",
+            "platform": "Nintendo DS",
+            "fileSize": "60 MB",
+            "filename": "Mega Man Star Force 3 Red Joker.zip",
+            "romFiles": [
+              "Mega Man Star Force 3 Red Joker.nds",
+              "Mega Man Star Force 3 Red Joker [Japanese VA].nds"
+            ],
+            "romLabels": [
+              "English VA",
+              "Japanese VA"
+            ],
+            "emulator": "RetroArch",
+            "arguments": [
+              "-L",
+              ".\\cores\\melonds_libretro.dll"
+            ]
           }
         ]
       }
