@@ -147601,5 +147601,125 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1769884320671_0",
+    "Name": "Hearts of Iron",
+    "SortingName": "Hearts of Iron 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Hearts%20of%20Iron%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Hearts%20of%20Iron%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Hearts%20of%20Iron%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP011",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "380 MB",
+            "arguments": [],
+            "executableFiles": [
+              "HoI.exe",
+              "HoI_Settings.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Configure"
+            ],
+            "filename": "00385.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769884320671_1",
+    "Name": "Hearts of Iron 2",
+    "SortingName": "Hearts of Iron 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Hearts%20of%20Iron%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Hearts%20of%20Iron%202%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Hearts%20of%20Iron%202%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Hearts%20of%20Iron%202%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP011",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "arguments": [],
+            "executableFiles": [
+              "Hearts of Iron 2\\HoI2.exe",
+              "Doomsday and Armageddon\\Hoi2.exe"
+            ],
+            "executableLabels": [
+              "Heart of Iron 2",
+              "Doomsday and Armageddon"
+            ],
+            "filename": "00386.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1769884320671_2",
+    "Name": "Hearts of Iron III",
+    "SortingName": "Hearts of Iron 03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Hearts%20of%20Iron%20III%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Hearts%20of%20Iron%20III%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Hearts%20of%20Iron%20III%20Trailer.mp4",
+    "videoStart": 6.8,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Hearts%20of%20Iron%20III%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP011",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "hoi3.exe",
+            "arguments": [],
+            "buildID": "4 May 2020",
+            "filename": "00387.zip"
+          }
+        ]
+      }
+    }
   }
 ]
