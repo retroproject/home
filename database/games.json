@@ -147799,5 +147799,120 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1769922198726_0",
+    "Name": "Hearts of Iron IV",
+    "SortingName": "Hearts of Iron 04",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Hearts%20of%20Iron%20IV%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Hearts%20of%20Iron%20IV%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Hearts%20of%20Iron%20IV%20Trailer.mp4",
+    "videoStart": 2.1,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Hearts%20of%20Iron%20IV%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP011",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "11 GB",
+            "filename": "00388.zip",
+            "executable": "hoi4.exe",
+            "buildID": "run_hoi4",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769922198726_1",
+    "Name": "Killer Instinct",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Killer%20Instinct%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Killer%20Instinct%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Killer%20Instinct%20Trailer.mp4",
+    "videoStart": 9.695253,
+    "videoEnd": 118.278071,
+    "MusicUrl": "https://archive.org/download/RPRM001/Killer%20Instinct%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP011",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "50 GB",
+            "filename": "00389.zip",
+            "executable": "KILLERINSTINCTX64_R.EXE",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1769922198726_2",
+    "Name": "The Riftbreaker",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Riftbreaker%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Riftbreaker%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Riftbreaker%20Trailer.mp4",
+    "videoStart": 2.1,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/The%20Riftbreaker%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP011",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "13 GB",
+            "filename": "00390.zip",
+            "executable": "bin\\riftbreaker_win_release.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
