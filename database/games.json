@@ -147827,17 +147827,15 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "11 GB",
-            "filename": "00388.zip",
             "executable": "hoi4.exe",
-            "buildID": "run_hoi4",
-            "arguments": []
+            "buildID": "10 December 2025",
+            "arguments": [],
+            "filename": "00388.zip"
           }
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769922198726_1",
@@ -147862,13 +147860,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP011",
+            "identifier": "RPRP012",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "50 GB",
-            "filename": "00389.zip",
             "executable": "KILLERINSTINCTX64_R.EXE",
-            "arguments": []
+            "arguments": [],
+            "buildID": "14 May 2024",
+            "filename": "00389.zip"
           }
         ]
       }
@@ -147900,13 +147899,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP011",
+            "identifier": "RPRP012",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "13 GB",
-            "filename": "00390.zip",
             "executable": "bin\\riftbreaker_win_release.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "17 December 2025",
+            "filename": "00390.zip"
           }
         ]
       }
