@@ -145770,8 +145770,8 @@
     "SortingName": "",
     "Description": "Become the ultimate <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>mining tycoon</b> by excavating resources from <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>underground caverns</b> and building massive interconnected <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>factory systems</b>.<br> Design and construct intricate <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>production chains</b> using realistic <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>physics-based mechanics</b> where every resource tumbles and flows authentically.<br> Wind <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>conveyor belts</b> through twisting <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>mineshafts</b>, connect specialized <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>machinery</b>, and harness chaos through <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>automation</b>.<br> Mine diverse <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ores and resources</b>, purchase advanced <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>equipment</b>, and optimize your <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>mining operations</b> for maximum profit.<br> Discover <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>ancient mysteries</b> and rebuild among <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>forgotten facilities</b> while mastering physics-driven factory building.",
     "DescriptionArabic": "<div dir='rtl'>كن <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ملك التعدين</b> النهائي بعن طريق استخراج الموارد من <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>الكهوف تحت الأرض</b> وبناء <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>أنظمة مصانع</b> ضخمة.<br> صمم وشيّد <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>سلاسل إنتاج</b> معقدة باستخدام <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>الميكانيكا القائمة على الفيزياء</b> الواقعية.<br> لف <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>أحزمة ناقلة</b> عبر <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>أنفاق معقدة</b>، وصل <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>الآلات المتخصصة</b>، وسيطر على الفوضى من خلال <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الأتمتة</b>.<br> احفر <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الخام والموارد</b> المتنوعة، اشترِ <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>معدات متقدمة</b>، وحسّن <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>عمليات التعدين</b>.<br> اكتشف <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>الألغاز القديمة</b> وأعد البناء بين <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>المنشآت المنسية</b>.</div>",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/MineMogul%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/MineMogul%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/MineMogul%20Trailer.mp4",
@@ -145781,8 +145781,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Simulation"
+    ],
+    "DeveloperNames": [
+      "NoodleForge"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -145800,16 +145804,17 @@
     },
     "Tags": [
       "Need Music"
-    ]
+    ],
+    "Length": 15
   },
   {
     "_id": "game_1769631704861_0",
     "Name": "Supraworld",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Explore an intricate <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>toy world</b> as a tiny figurine in this <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>interconnected metroidvania</b> adventure where size changes everything.<br> Navigate a <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>handcrafted landscape</b> filled with <b style='color: #3CB371; text-shadow: 0 0 8px #3CB371;'>secrets and mysteries</b>, unraveling puzzles while investigating a <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>criminal conspiracy</b> that threatens the world.<br> Discover <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>powerful abilities</b> that unlock <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>hidden paths</b> and let you escape <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>intended boundaries</b>.<br> Solve <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>intricate puzzles</b> at every turn, find <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>secret areas</b>, and convict <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>murderers</b> through clever investigation.<br> Ignore the <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>main quest</b> and get out of <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>bounds</b> in this <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>colorful, boundless exploration</b> game.",
+    "DescriptionArabic": "<div dir='rtl'>استكشف <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>عالم لعبة</b> معقد كتمثال صغير في هذه مغامرة <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>ميتروفانيا متصلة</b> حيث يغير الحجم كل شيء.<br> تنقل عبر <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>منظر طبيعي محرر يدويا</b> مليء بـ <b style='color: #3CB371; text-shadow: 0 0 8px #3CB371;'>الأسرار والألغاز</b>، وكشف الألغاز أثناء التحقيق من <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>مؤامرة إجرامية</b>.<br> اكتشف <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>قدرات قوية</b> تفتح <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>مسارات مخفية</b> وتتيح لك الهروب من <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الحدود المقصودة</b>.<br> حل <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>ألغاز معقدة</b> في كل منعطف، ابحث عن <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>مناطق سرية</b>، والقِ <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>القاتلين</b> من خلال التحقيق الذكي.<br> تجاهل <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>البحث الرئيسي</b> والخروج عن <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>الحدود</b> في لعبة <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>استكشاف ملونة وبلا حدود</b>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Supraworld%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Supraworld%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Supraworld%20Trailer.mp4",
@@ -145819,8 +145824,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Metroidvania"
+    ],
+    "DeveloperNames": [
+      "Supra Games"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -145836,16 +145845,18 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [],
+    "Length": 10
   },
   {
     "_id": "game_1769665909526_0",
     "Name": "The Legend of Heroes Trails beyond the Horizon",
     "SortingName": "The Legend of Heroes 18",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Face the prophesied <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>end of the Zemurian continent</b> as humanity launches its <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>first foray into space</b> amidst ancient secrets.<br> Experience three intertwined story routes: <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Van Arkride</b> and the <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Arkride Solutions crew</b> navigate Calvardian struggles, <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>Rean Schwarzer</b> leads the <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Thors Academy</b> with international perspectives, and <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Father Kevin</b> reveals the <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Septian Church's</b> mysterious motives.<br> Uncover <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>core secrets</b> hidden within a <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>high-tech training exercise</b> orchestrated by <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Marduk</b>.<br> Build <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>meaningful relationships</b> with <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>memorable characters</b> while confronting <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>apocalyptic threats</b>.<br> Immerse yourself in an <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>epic narrative</b> spanning <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>hundreds of hours</b>.",
+    "DescriptionArabic": "<div dir='rtl'>واجه <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>النهاية المتنبأ بها للقارة الزيمورية</b> بينما يطلق البشرية <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>أول مغامرة في الفضاء</b> وسط الأسرار القديمة.<br> اختبر ثلاث طرق قصة متشابكة: <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>فان أركريد</b> و <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>طاقم أركرايد</b> يتنقلون صراعات كالفارد، <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>ريان شفارتسر</b> يقود <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>أكاديمية ثورس</b>، و <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الأب كيفن</b> يكشف <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>دوافع الكنيسة السيبتيان</b> الغامضة.<br> اكتشف <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>الأسرار الأساسية</b> المخفية في <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>تمرين تدريبي عالي التقنية</b> نظمه <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>مردوك</b>.<br> بناء <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>علاقات ذات معنى</b> مع <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>شخصيات لا تنسى</b> أثناء مواجهة <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>تهديدات نهاية العالم</b>.<br> انغمس في <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>سرد ملحمي</b> يمتد <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>مئات الساعات</b>.</div>",
+    "ReleaseDate": "2024",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Legend%20of%20Heroes%20Trails%20beyond%20the%20Horizon%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Legend%20of%20Heroes%20Trails%20beyond%20the%20Horizon%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Legend%20of%20Heroes%20Trails%20beyond%20the%20Horizon%20Trailer.mp4",
@@ -145855,8 +145866,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Role-Playing"
+    ],
+    "DeveloperNames": [
+      "Nihon Falcom"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -145873,16 +145888,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 100
   },
   {
     "_id": "game_1769687327688_0",
     "Name": "Fist of the North Star Lost Paradise",
     "SortingName": "Fist of the North Star 03",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Follow <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Kenshiro's</b> quest to find his beloved <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Yuria</b> across a <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>post-apocalyptic wasteland</b>, leading him to the mysterious city of <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Eden</b>.<br> Victory over his ancient rival <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>Shin</b> was only the beginning of a greater journey through <b style='color: #696969; text-shadow: 0 0 8px #696969;'>dangerous territories</b> and <b style='color: #808080; text-shadow: 0 0 8px #808080;'>deadly encounters</b>.<br> Navigate a <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>settlement of survivors</b> who have recreated <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>pre-war civilization</b>, uncovering secrets within its walls.<br> Engage in brutal <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>hand-to-hand combat</b> and master the legendary <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Hokuto Shinken martial art</b> to overcome <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>countless enemies</b>.<br> Discover the <b style='color: #696969; text-shadow: 0 0 8px #696969;'>truth hidden in Eden</b> while <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>pursuing Yuria</b>.",
+    "DescriptionArabic": "<div dir='rtl'>اتبع سعي <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>كينشيرو</b> للعثور على حبيبته <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>يوريا</b> عبر <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>أرض مدمرة بعد الحروب</b>، مما يقوده إلى مدينة <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>إيدن</b> الغامضة.<br> الانتصار على منافسه القديم <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>شين</b> كان فقط بداية رحلة أكبر عبر <b style='color: #696969; text-shadow: 0 0 8px #696969;'>أراضي خطرة</b> و <b style='color: #808080; text-shadow: 0 0 8px #808080;'>مواجهات قاتلة</b>.<br> تنقل عبر <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>مستوطنة الناجين</b> الذين أعادوا بناء <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الحضارة قبل الحرب</b>، وكشف الأسرار داخل جدرانها.<br> شارك في <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>القتال اليدوي الوحشي</b> وأتقن <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>فن الهوكوتو شينكن</b> الأسطوري للتغلب على <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>عدد لا يحصى من الأعداء</b>.<br> اكتشف <b style='color: #696969; text-shadow: 0 0 8px #696969;'>الحقيقة المخفية في إيدن</b> بينما <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>تطارد يوريا</b>.</div>",
+    "ReleaseDate": "2018",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Fist%20of%20the%20North%20Star%20Lost%20Paradise%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Fist%20of%20the%20North%20Star%20Lost%20Paradise%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Fist%20of%20the%20North%20Star%20Lost%20Paradise%20Trailer.mp4",
@@ -145892,8 +145908,12 @@
     "PlatformNames": [
       "Sony PlayStation 4"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Beat 'em Up"
+    ],
+    "DeveloperNames": [
+      "Ryu Ga Gotoku Studio"
+    ],
     "downloadInfo": {
       "Sony PlayStation 4": {
         "versions": [
@@ -145911,7 +145931,8 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 40
   },
   {
     "_id": "game_1769707312746_0",
