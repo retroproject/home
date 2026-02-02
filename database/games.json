@@ -57319,13 +57319,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP004",
+            "identifier": "RPRP012",
             "name": "Online",
             "platform": "PC Game",
-            "executable": "ForzaHorizon5_loader.exe",
+            "executable": "FH5Launcher.exe",
             "fileSize": "180GB",
-            "buildID": "1.685.421.0",
-            "filename": "00115.zip"
+            "buildID": "1.687.302.0",
+            "filename": "00391.zip"
           }
         ]
       }
@@ -148074,9 +148074,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1769922198726_2",
@@ -148150,7 +148148,8 @@
       }
     },
     "Tags": [
-      "Hide"
+      "Hide",
+      "Has Issues"
     ]
   },
   {
