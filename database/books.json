@@ -10224,5 +10224,129 @@
       }
     ],
     "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1770061986505_0",
+    "Title": "Malice",
+    "Series": "The Faithful and the Fallen",
+    "SortingTitle": "The Faithful and the Fallen 01",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Faithful%20and%20the%20Fallen%20Cover.jpg",
+    "Genre": [],
+    "Tags": [
+      "English Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00323.epub",
+        "fileSize": "3.9 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00323.m4b",
+        "fileSize": "654 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1770061986505_1",
+    "Title": "Valour",
+    "Series": "The Faithful and the Fallen",
+    "SortingTitle": "The Faithful and the Fallen 02",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Faithful%20and%20the%20Fallen%20Cover.jpg",
+    "Genre": [],
+    "Tags": [
+      "English Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00324.epub",
+        "fileSize": "875.4 KB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00324.m4b",
+        "fileSize": "649 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1770061986505_2",
+    "Title": "Ruin",
+    "Series": "The Faithful and the Fallen",
+    "SortingTitle": "The Faithful and the Fallen 03",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Faithful%20and%20the%20Fallen%20Cover.jpg",
+    "Genre": [],
+    "Tags": [
+      "English Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00325.epub",
+        "fileSize": "1.2 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00325.m4b",
+        "fileSize": "771.5 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1770061986505_3",
+    "Title": "Wrath",
+    "Series": "The Faithful and the Fallen",
+    "SortingTitle": "The Faithful and the Fallen 04",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Faithful%20and%20the%20Fallen%20Cover.jpg",
+    "Genre": [],
+    "Tags": [
+      "English Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00326.epub",
+        "fileSize": "4.6 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00326.m4b",
+        "fileSize": "1.2 GB"
+      }
+    ]
   }
 ]
