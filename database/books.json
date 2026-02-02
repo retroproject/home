@@ -10178,5 +10178,47 @@
       }
     ],
     "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1770042617365_7rpjz2emc",
+    "Title": "I am a Hero",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/I%20am%20a%20Hero%20Cover.jpg",
+    "Genre": [],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00321.zip",
+        "fileSize": "3 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1770042935336_pccye98le",
+    "Title": "See Only Me Me Me Me Me",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/See%20Only%20Me%20Me%20Me%20Me%20Me%20Cover.jpg",
+    "Genre": [],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00322.zip",
+        "fileSize": "673 MB"
+      }
+    ],
+    "audiobooksUrl": []
   }
 ]
