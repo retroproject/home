@@ -10189,7 +10189,9 @@
     "ReleaseDate": "",
     "CoverUrl": "https://archive.org/download/RPRM001/I%20am%20a%20Hero%20Cover.jpg",
     "Genre": [],
-    "Tags": [],
+    "Tags": [
+      "Manga"
+    ],
     "booksUrl": [
       {
         "format": "ZIP",
@@ -10210,7 +10212,9 @@
     "ReleaseDate": "",
     "CoverUrl": "https://archive.org/download/RPRM001/See%20Only%20Me%20Me%20Me%20Me%20Me%20Cover.jpg",
     "Genre": [],
-    "Tags": [],
+    "Tags": [
+      "Manga"
+    ],
     "booksUrl": [
       {
         "format": "ZIP",
