@@ -64607,8 +64607,8 @@
     "GameId": "65802be2-7760-48f2-9730-106a3ed51f9c",
     "Name": "The Retro Project",
     "SortingName": "|The Retro Project|",
-    "Description": "",
-    "DescriptionArabic": "",
+    "Description": "The Retro Project is a comprehensive <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>digital archive</b> dedicated to preserving and cataloging <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>classic video games</b> from multiple generations and platforms. <br> This interactive <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>museum database</b> meticulously documents each <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>game's history</b>, providing detailed information about <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>developers</b>, <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>release dates</b>, and <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>gameplay narratives</b>. <br> Access <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>multilingual descriptions</b> in English and <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>Arabic</b>, complemented by <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>critic scores</b> and <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>completion times</b>. <br> Browse through hundreds of <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>gaming masterpieces</b>, discover forgotten <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>classics</b>, and explore the <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>evolution of interactive entertainment</b> across <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>retro platforms</b>.",
+    "DescriptionArabic": "<div dir='rtl'>The Retro Project هو <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>أرشيف رقمي</b> شامل مكرس لحفظ وتوثيق <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>ألعاب الفيديو الكلاسيكية</b> من عدة <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>أجيال وأنظمة</b>. <br> يوثق هذا <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>قاموس الألعاب</b> بعناية <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>تاريخ كل لعبة</b>، مع معلومات مفصلة عن <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>المطورين</b> و<b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>تاريخ الإصدار</b> و<b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>السرديات</b>. <br> ادخل إلى <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>أوصاف متعددة اللغات</b> باللغة <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>الإنجليزية والعربية</b>، مع <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>تقييمات ناقدة</b> و<b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>أوقات الإكمال</b>. <br> تصفح مئات <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>روائع الألعاب</b>، واكتشف <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>الكلاسيكيات المنسية</b>، واستكشف <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>تطور الترفيه التفاعلي</b> عبر منصات الأنظمة القديمة.</div>",
     "ReleaseDate": "2025-1-31",
     "CriticScore": 100,
     "Length": 10,
@@ -64623,7 +64623,9 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
+    "GenreNames": [
+      "Simulation"
+    ],
     "DeveloperNames": [
       "Dark1Vergil"
     ],
@@ -144131,10 +144133,10 @@
     "_id": "game_1769484940562_1",
     "Name": "Dark Seed II",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Mike Dawson</b> has recovered from the alien <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>embryo</b>, but the <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Ancients</b> pull him into a <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>dream world</b> inspired by <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Twin Peaks</b> surrealism.<br>Reality bends where <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>nightmares</b> take physical form and <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>impossible logic</b> governs all.<br>Trapped in twisted realms, Mike encounters <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>mysterious characters</b> and grotesque creatures between consciousness and madness.<br>The Ancients intend to use Mike's <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>mind</b> as a <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>gateway</b> for invasion, each puzzle drawing him deeper into their scheme.<br>With <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>sanity unraveling</b> in this <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>psychological nightmare</b>, Mike must escape before the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>dark plan</b> reaches fruition.",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>مايك داوسون</b> تعافى من <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>الجنين</b> الفضائي، لكن <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>القدماء</b> يجره إلى <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>عالم حلمي</b> مستوحى من سوريالية <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>توين بيكس</b>.<br>الواقع ينحني حيث <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الكوابيس</b> تأخذ شكلاً مادياً و<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>المنطق المستحيل</b> يحكم الكل.<br>محاصراً في أعوالم ملتوية، يلتقي مايك <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>شخصيات غامضة</b> وكائنات مروعة بين الوعي والجنون.<br>ينوي القدماء استخدام <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>عقل</b> مايك كـ<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>بوابة</b> للغزو، كل لغز يدفعه أعمق في خطتهم.<br>مع <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>تفكك العقل</b> في هذا <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الكابوس النفسي</b>، على مايك الهروب قبل أن تصل <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الخطة المظلمة</b> إلى النهاية.</div>",
+    "ReleaseDate": "1995",
+    "CriticScore": 60,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Dark%20Seed%20II%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Dark%20Seed%20II%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Dark%20Seed%20II%20Trailer.mp4",
@@ -144144,8 +144146,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Cyberdreams"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -144160,16 +144166,18 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [],
+    "Length": 5
   },
   {
     "_id": "game_1769484940562_2",
     "Name": "Octodad Dadliest Catch",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "<b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Octodad</b>, an <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>octopus</b> with <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>deadly secrets</b>, disguises himself as a <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>human father</b> to live with his <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>wife and children</b>.<br>He must maintain his cover by performing <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>everyday tasks</b>, but his <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>clumsy octopus behavior</b> constantly threatens exposure.<br>With no bones and eight tentacles, each <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>mundane task</b> becomes hilariously awkward.<br>A <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>mysterious stranger</b> hunts Octodad while his family faces danger.<br>Navigate <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>absurd scenarios</b> from <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>shopping malls</b> to <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>wedding receptions</b> while keeping his <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>identity secret</b>.",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>أوكتودادو</b>، <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>أخطبوط</b> بـ<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>أسرار قاتلة</b>، يتنكر في زي <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>أب بشري</b> للعيش مع <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>زوجته وأطفاله</b>.<br>عليه الحفاظ على تنكره بتنفيذ <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>المهام اليومية</b>، لكن <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>سلوكه الأخرق كأخطبوط</b> يهدد باستمرار بفضح هويته.<br>بدون عظام وثمانية أذرع، كل <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>مهمة عادية</b> تصبح محرجة بشكل فاضح.<br><b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>غريب غامض</b> يطارد أوكتودادو بينما تواجه عائلته الخطر.<br>تنقل عبر <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>سيناريوهات سخيفة</b> من <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>مراكز التسوق</b> إلى <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>حفلات الزفاف</b> بينما تحتفظ بـ<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>سريتك</b>.</div>",
+    "ReleaseDate": "2014",
+    "CriticScore": 60,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Octodad%20Dadliest%20Catch%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Octodad%20Dadliest%20Catch%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Octodad%20Dadliest%20Catch%20Trailer.mp4",
@@ -144179,8 +144187,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Young Horses"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -144196,16 +144208,18 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [],
+    "Length": 5
   },
   {
     "_id": "game_1769505264301_0",
     "Name": "7 Days to Die",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "After nuclear <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>apocalypse</b>, you awaken in a <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>post-apocalyptic world</b> infested with <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>undead</b> growing more aggressive every seven days.<br>Gather <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>resources</b> from <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>abandoned buildings</b>, scavenging for food, water, weapons, and <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>crafting materials</b>.<br>Build and reinforce your <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>base</b> with defensive structures, traps, and <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>fortifications</b> against <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>zombie hordes</b>.<br>Craft everything from <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>weapons</b> and armor to medical supplies, creating <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>synergies</b> for survival.<br>Prepare mentally and tactically for <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>blood moon</b> events where <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>undead waves</b> are most <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>dangerous</b>.",
+    "DescriptionArabic": "<div dir='rtl'>بعد <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>الكارثة النووية</b>، تستيقظ في <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>عالم ما بعد الكارثة</b> مأهول بـ<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الموتى</b> الذين يصبحون أكثر عدوانية كل سبعة أيام.<br>اجمع <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الموارد</b> من <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>المباني المهجورة</b>، ابحث عن الطعام والماء والأسلحة و<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>مواد الصنع</b>.<br>ابنِ حصّن <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>قاعدتك</b> بهياكل دفاعية وفخاخ و<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>تحصينات</b> ضد <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>حشود الزومبي</b>.<br>اصنع كل شيء من <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الأسلحة</b> والدروع إلى الإمدادات الطبية، مما يخلق <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>تآزرات</b> للبقاء.<br>استعد نفسياً وتكتيكياً لأحداث <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>قمر الدم</b> حيث <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>موجات الموتى</b> الأكثر <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>خطورة</b>.</div>",
+    "ReleaseDate": "2024",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/7%20Days%20to%20Die%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/7%20Days%20to%20Die%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/7%20Days%20to%20Die%20Trailer.mp4",
@@ -144215,8 +144229,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Survival"
+    ],
+    "DeveloperNames": [
+      "The Fun Pimps"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -144233,16 +144251,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 50
   },
   {
     "_id": "game_1769505264301_1",
     "Name": "Bye Sweet Carole",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "In a <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>storybook world</b> with classic animation beauty, <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Carole</b> is trapped in a <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>cursed castle</b> filled with <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>twisted creatures</b>.<br>Navigate <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>hand-drawn environments</b> solving intricate <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>puzzles</b> while uncovering the <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>tragic backstory</b> of cursed inhabitants.<br>The castle's <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>corrupted residents</b> hold pieces of the puzzle needed to break the <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>curse</b>.<br>Descend deeper into <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>darkness</b> as the contrast between beauty and <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>horror</b> grows apparent.<br>Survive encounters with <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>supernatural guardians</b> and discover how to <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>return home</b>.",
+    "DescriptionArabic": "<div dir='rtl'>في <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>عالم قصة</b> برسوم متحركة كلاسيكية جميلة، <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>كارول</b> محاصرة في <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>قلعة ملعونة</b> مليئة بـ<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>كائنات ملتوية</b>.<br>تنقلي عبر <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>بيئات مرسومة يدوياً</b> حل <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>ألغاز معقدة</b> بينما تكتشفي <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>القصة المأساوية</b> للسكان الملعونين.<br><b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>السكان الفاسدون</b> يحملون أجزاء من اللغز المطلوب لكسر <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الملعة</b>.<br>انزلي أعمق في <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>الظلام</b> مع بروز التباين بين الجمال و<b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الرعب</b>.<br>نجي من لقاءات <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>الحراس الخارقين</b> واكتشفي كيفية <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>العودة للوطن</b>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 60,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Bye%20Sweet%20Carole%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Bye%20Sweet%20Carole%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Bye%20Sweet%20Carole%20Trailer.mp4",
@@ -144252,8 +144271,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "Glitch Studio"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -144270,16 +144293,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 5
   },
   {
     "_id": "game_1769505264301_2",
     "Name": "Grow Up",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "A young <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>alien creature</b> awakens on an unfamiliar <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>planet</b>, separated from its <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>mother plant</b>.<br>To reunite, it must <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>climb</b> across expansive worlds filled with <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>plants and natural structures</b> as pathways.<br>Using <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>vines and gravity-defying mechanics</b>, navigate through <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>lush environments</b> while <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>growing larger</b> by solving <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>environmental puzzles</b>.<br>Each area presents new <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>challenges</b> requiring newly acquired <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>abilities</b>.<br>The journey becomes one of <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>self-discovery</b> and embracing the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>bonds of family</b>.",
+    "DescriptionArabic": "<div dir='rtl'>كائن فضائي صغير <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>يستيقظ</b> على <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>كوكب</b> غريب، مفصول عن <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>النبات الأم</b>.<br>للعودة، عليه أن <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>يتسلق</b> عبر عوالم واسعة مليئة بـ<b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>النباتات والهياكل الطبيعية</b> كمسارات.<br>باستخدام <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>الكروم وميكانيكا مضادة للجاذبية</b>، تنقل عبر <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>بيئات خضراء</b> بينما <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>ينمو</b> بحل <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الألغاز البيئية</b>.<br>تقدم كل منطقة <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>تحديات</b> جديدة تتطلب <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>قدرات</b> مكتسبة حديثاً.<br>تصبح الرحلة واحدة من <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>اكتشاف الذات</b> وقبول <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>روابط الأسرة</b>.</div>",
+    "ReleaseDate": "2016",
+    "CriticScore": 60,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Grow%20Up%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Grow%20Up%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Grow%20Up%20Trailer.mp4",
@@ -144289,8 +144313,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Platformer"
+    ],
+    "DeveloperNames": [
+      "Reflections"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -144307,16 +144335,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 10
   },
   {
     "_id": "game_1769505264301_3",
     "Name": "Second Sun",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "In a <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>post-war wasteland</b>, mercenaries search <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>procedural dungeons</b> for riches and <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>enemies</b>.<br>Armed with <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>powerful weapons</b>, gun down waves in <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>fast-paced combat</b>.<br>Each run is unique with <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>randomized layouts</b> and <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>surprise encounters</b>.<br>Loot drops grant <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>better equipment</b> as you delve deeper.<br>The thrill of <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>satisfying gunplay</b> combined with <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>strategic exploration</b> creates <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>adrenaline-filled</b> expeditions.",
+    "DescriptionArabic": "<div dir='rtl'>في <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>أرض خراب ما بعد الحرب</b>، يبحث المرتزقة في <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>أبراج إجرائية</b> عن الثروات و<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الأعداء</b>.<br>مسلحين بـ<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>أسلحة قوية</b>، أطلقوا النار على موجات في <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>قتال سريع</b>.<br>كل محاولة فريدة مع <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>تخطيطات عشوائية</b> و<b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>لقاءات مفاجئة</b>.<br>تسقط الغنيمة <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>معدات أفضل</b> مع تعمقك.<br>إثارة <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>لعب الأسلحة المرضي</b> مع <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>الاستكشاف الاستراتيجي</b> تخلق حملات <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>مليئة بالأدرينالين</b>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 60,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Second%20Sun%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Second%20Sun%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Second%20Sun%20Trailer.mp4",
@@ -144326,8 +144355,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Shooter"
+    ],
+    "DeveloperNames": [
+      "SUPERDUMB GAMES"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -144346,16 +144379,17 @@
     },
     "Tags": [
       "Need Music"
-    ]
+    ],
+    "Length": 15
   },
   {
     "_id": "game_1769505264301_4",
     "Name": "The Fortress",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "A <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>fortress</b> stands at the edge of <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>cursed darkness</b>, besieged by <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>undead</b>.<br>Lead your hero into <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>dark chambers</b> battling <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>monstrous foes</b> in <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>turn-based combat</b>.<br>Roll <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>cursed dice</b> to determine actions, blending <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>strategy</b> and chance.<br>Deeper dungeons yield <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>deadlier enemies</b> and <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>precious treasures</b>, but failure means <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>death</b>.<br>Each run is <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>unique</b> with different <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>enemies and layouts</b>.",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>حصن</b> يقف على حافة <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>ظلام ملعون</b>، محاصر بـ<b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الموتى</b>.<br>قد بطلك إلى <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الغرف المظلمة</b> قاتلاً <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>أعداء وحشية</b> في <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>قتال يعتمد الأدوار</b>.<br>ارمِ <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>نرداً ملعونة</b> لتحديد الإجراءات، ممزجاً <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الاستراتيجية</b> والصدفة.<br>الأبراج الأعمق تحقق <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>أعداء أشد</b> و<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>كنوز ثمينة</b>، لكن الفشل يعني <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>الموت</b>.<br>كل محاولة <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>فريدة</b> مع <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>أعداء وتخطيطات</b> مختلفة.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Fortress%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Fortress%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Fortress%20Trailer.mp4",
@@ -144365,8 +144399,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Strategy"
+    ],
+    "DeveloperNames": [
+      "Pixel Loft"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -144383,16 +144421,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 15
   },
   {
     "_id": "game_1769506697562_0",
     "Name": "Abyssus",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "In <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>deep ocean trenches</b>, a strange ecosystem thrives in darkness with <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>alien-like creatures</b>.<br>You are a <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>deep-sea explorer</b> tasked with surviving in this <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>chaotic undersea world</b>.<br>Every encounter with fauna presents <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>deadly threats</b>.<br>Pressure, darkness, and <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>bioluminescent dangers</b> test your will to survive.<br>Delve deeper uncovering <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ancient ruins</b> and discover what truly lurks below.<br>The journey is <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>wondrous</b> and <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>terrifying</b> confronting <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>incomprehensible</b> inhabitants.",
+    "DescriptionArabic": "<div dir='rtl'>في <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>أعمق الخنادق البحرية</b>، توجد نظام بيئي غريب في الظلام مع <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>كائنات شبيهة بالفضائيين</b>.<br>أنت <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>مستكشف أعماق</b> مكلف بالبقاء في هذا <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>العالم المائي الفوضوي</b>.<br>كل لقاء مع الحيوانات يمثل <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>تهديدات قاتلة</b>.<br>الضغط والظلام و<b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>الأخطار المضيئة</b> تختبر إرادتك.<br>انحدر أعمق كاشفاً <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>أطلالاً قديمة</b> واكتشف ما يكمن بحقاً.<br>الرحلة <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>رائعة</b> و<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>مرعبة</b> تواجه السكان <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>غير القابلين للفهم</b>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Abyssus%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Abyssus%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Abyssus%20Trailer.mp4",
@@ -144402,8 +144441,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Shooter"
+    ],
+    "DeveloperNames": [
+      "Drakengard"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -144420,16 +144463,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 20
   },
   {
     "_id": "game_1769506697562_1",
     "Name": "Daemon X Machina Titanic Scion",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "In a world decimated by <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>alien invasion</b>, humanity pilots massive <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>mecha</b> to reclaim their planet.<br>As a rookie pilot, customize your <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>mecha suit</b> with <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>weapons and armor</b> before intense <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>aerial combat</b> missions.<br>Navigate an <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>open-world battlefield</b> with <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>destructible environments</b> and formidable <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>alien forces</b>.<br>The story unfolds as you complete missions, uncover the <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>invasion's origin</b>, and forge alliances.<br>With deeply <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>customizable mecha</b> and frenetic <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>dogfighting</b>, become humanity's <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>salvation</b>.",
+    "DescriptionArabic": "<div dir='rtl'>في عالم دمره <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>غزو فضائي</b>، تقود البشرية <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>آليات</b> ضخمة لاستعادة كوكبهم.<br>كطيار مبتدئ، خصص <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>بدلتك</b> بـ<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>الأسلحة والدروع</b> قبل مهام <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>القتال الجوي</b> المكثفة.<br>تنقل عبر <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>ساحة معركة مفتوحة</b> مع <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>بيئات قابلة للتدمير</b> و<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>قوى فضائية</b> هائلة.<br>القصة تتكشف مع إكمالك المهام واكتشاف <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>أصل الغزو</b> وتشكيل تحالفات.<br>مع <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>آليات قابلة للتخصيص</b> و<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>قتال جوي</b> جامح، كن <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>خلاص</b> البشرية.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 60,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Daemon%20X%20Machina%20Titanic%20Scion%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Daemon%20X%20Machina%20Titanic%20Scion%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Daemon%20X%20Machina%20Titanic%20Scion%20Trailer.mp4",
@@ -144463,10 +144507,10 @@
     "_id": "game_1769506697563_2",
     "Name": "Drill Core",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Greedy <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>corporations</b> strip planets bare, but now YOU conquer them for profit.<br>As a <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>mining magnate</b>, <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>drill deep</b> extracting <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>wealth</b> while defending against <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>alien invaders</b>.<br>Manage your <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>mining workforce</b>, research <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>technologies</b>, and build <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>defensive structures</b>.<br>Blend strategy with resource management deciding where to drill and what to build.<br>The deeper you dig, the richer the rewards — but also more <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>dangerous</b> threats in this satirical <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>corporate greed</b> tale.",
+    "DescriptionArabic": "<div dir='rtl'>الشركات الجشعة تجرد الكواكب، لكن الآن أنت تفتحها للربح.<br>كملك تعدين، <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>احفر بعمق</b> مستخرجاً <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الثروة</b> بينما تدافع ضد <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الغزاة الفضائيين</b>.<br>أدر <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>القوى العاملة</b>، ابحث عن <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>التقنيات</b>، وابنِ <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>هياكل دفاعية</b>.<br>امزج الاستراتيجية مع إدارة الموارد قررت أين تحفر وماذا تبني.<br>كلما حفرت أعمق، كلما كانت المكافآت أعظم — لكن أيضاً تهديدات أكثر <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>خطورة</b> في هذه قصة <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>الجشع الشركاتي</b> الساخرة.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Drill%20Core%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Drill%20Core%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Drill%20Core%20Trailer.mp4",
@@ -144500,8 +144544,8 @@
     "_id": "game_1769506697563_3",
     "Name": "In Sound Mind",
     "SortingName": "",
-    "Description": "<cite index=\"1-7,2-13\">You awaken as <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Desmond Wales</b>, a therapist trapped in a mysterious <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>apartment building</b> where reality bends and warps around you.</cite><br><cite index=\"2-13,6-5\">As you explore, you discover a series of victims all exposed to the same <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>experimental chemical</b>, triggering terrifying visions and imposing horrors.</cite><br><cite index=\"1-7,32-2\">You can enter alternate dimensions by listening to <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>tape recordings</b> of your clients, exploring their deepest fears and psychoses.</cite><br><cite index=\"1-8,32-6\">Each client has their own unique level based on their <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>fears and psychoses</b>, where you must fight monsters and solve puzzles.</cite><br><cite index=\"2-14,6-1\">In your search for answers, bizarre visions emerge and introduce a host of imposing horrors… and a <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>cat named Tonia</b>.</cite><br><cite index=\"1-10,32-8\">Your ultimate goal is to solve Wales' own <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>amnesia</b> and uncover the truth behind these twisted realities.</cite><br><cite index=\"24-13\">A strange man called <b style='color: #800080; text-shadow: 0 0 8px #800080;'>Agent Rainbow</b> persistently hounds you, making threatening phone calls throughout your journey.</cite>",
-    "DescriptionArabic": "<div dir='rtl'><cite index=\"1-7,2-13\">تستيقظ كـ <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>ديزموند ويلز</b>، معالج نفسي محاصر في <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>مبنى سكني</b> غامض حيث الواقع ينحني ويلتوي من حولك.</cite><br><cite index=\"2-13,6-5\">بينما تستكشف، تكتشف سلسلة من الضحايا جميعهم تعرضوا لنفس <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>المادة الكيميائية التجريبية</b>، مما يؤدي إلى رؤى مرعبة وأهوال مهيبة.</cite><br><cite index=\"1-7,32-2\">يمكنك دخول أبعاد بديلة من خلال الاستماع إلى <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>تسجيلات شريطية</b> لمرضاك، واستكشاف أعمق مخاوفهم واضطراباتهم النفسية.</cite><br><cite index=\"1-8,32-6\">كل مريض له مستوى فريد يعتمد على <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>مخاوفه واضطراباته النفسية</b>، حيث يجب عليك محاربة الوحوش وحل الألغاز.</cite><br><cite index=\"2-14,6-1\">في بحثك عن الإجابات، تظهر رؤى غريبة وتقدم مجموعة من الأهوال المهيبة… و<b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>قط يُدعى تونيا</b>.</cite><br><cite index=\"1-10,32-8\">هدفك النهائي هو حل <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>فقدان الذاكرة</b> الذي يعاني منه ويلز وكشف الحقيقة وراء هذه الحقائق الملتوية.</cite><br><cite index=\"24-13\">رجل غريب يُدعى <b style='color: #800080; text-shadow: 0 0 8px #800080;'>العميل رينبو</b> يطاردك باستمرار، ويقوم بمكالمات هاتفية مهددة طوال رحلتك.</cite></div>",
+    "Description": "",
+    "DescriptionArabic": "",
     "ReleaseDate": null,
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/In%20Sound%20Mind%20Background.jpg",
@@ -144537,10 +144581,10 @@
     "_id": "game_1769506697563_4",
     "Name": "Lost in Random The Eternal Die",
     "SortingName": "Lost in Random 02",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "After the first game's events, <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Even</b> and her <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>magical dice companion Dicey</b> find themselves in a new world where an <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Eternal Die</b> wields unfathomable power.<br>They journey through <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>fantastical realms</b> filled with <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>quirky characters</b>, <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>dangerous enemies</b>, and <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>impossible odds</b>.<br>Combat blends <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>card-based strategy</b> with <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>roguelike mechanics</b> where each <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>dice roll</b> determines your fate.<br>Uncover the truth about the Eternal Die and decide whether to <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>destroy it or harness</b> its power.<br>With every run unique and meaningful decisions, the <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>bond</b> between them becomes the true heart of adventure.",
+    "DescriptionArabic": "<div dir='rtl'>بعد أحداث اللعبة الأولى، تجد <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>إيفن</b> و<b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>رفيقتها السحرية ديسي</b> نفسيهما في عالم جديد حيث <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>نرد أبدي</b> يمتلك قوة فائقة.<br>تسافران عبر <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>أعوالم خيالية</b> مليئة بـ<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>شخصيات غريبة</b>، <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>أعداء خطرين</b>، و<b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>احتمالات مستحيلة</b>.<br>القتال يمزج <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>استراتيجية البطاقات</b> مع <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>ميكانيكا الروجليك</b> حيث كل <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>رمية نرد</b> تحدد المصير.<br>اكتشفي الحقيقة عن النرد الأبدي وقرري ما إذا كنتِ <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>ستدمرانه أو تستغلان</b> قوته.<br>مع كل محاولة فريدة وقرارات ذات مغزى، تصبح <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الرابطة</b> بينهما القلب الحقيقي للمغامرة.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Lost%20in%20Random%20The%20Eternal%20Die%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Lost%20in%20Random%20The%20Eternal%20Die%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Lost%20in%20Random%20The%20Eternal%20Die%20Trailer.mp4",
@@ -144574,10 +144618,10 @@
     "_id": "game_1769506697563_5",
     "Name": "Magicraft",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Magicraft is a magical action roguelike where you wield the <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>legendary staff</b> against <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>ancient gods</b> invading a <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>fantastical world</b>. <br> Combine hundreds of unique <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>spell combinations</b> using procedurally generated <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>staffs and relics</b> to create entirely new playstyles with each run. <br> Battle through <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>procedurally generated levels</b> in <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>twin-stick shooter</b> combat, adapting your strategy against <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>monsters</b> and bosses. <br> With <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>100 staffs</b>, <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>80 relics</b>, <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>9 character sets</b>, and randomized dungeons, no two runs feel identical. <br> Master <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>spell-crafting</b> by mixing <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>magical attributes</b> to build devastating combinations, then face epic <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>boss battles</b> as you climb toward <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>victory</b>.",
+    "DescriptionArabic": "<div dir='rtl'>ماجيكرافت لعبة أكشن سحرية روج لايك حيث تحمل <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>العصا الأسطورية</b> ضد <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>الآلهة القديمة</b> التي تغزو <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>عالماً خيالياً</b> ساحراً. <br> ادمج مئات <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>التركيبات السحرية</b> الفريدة باستخدام <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>عصى وتمائم</b> عشوائية لإنشاء أسلوب لعب جديد تماماً. <br> قاتل عبر <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>مستويات مولدة عشوائياً</b> في قتال <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>بنمط الذراعين المرتبطين</b>، محتفظاً باستراتيجيتك ضد <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>الوحوش</b> والأعداء. <br> مع <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>100 عصا</b>، و<b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>80 تميمة</b>، و<b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>9 شخصيات</b> مختلفة، وأبراج عشوائية، لا تشعر أي جولتان متطابقتان. <br> أتقن <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>صناعة التعاويذ</b> بخلط <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>الخصائص السحرية</b> لبناء توليفات مدمرة، ثم واجه <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>معارك الزعماء</b> الملحمية حتى تحقق <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>النصر</b>.</div>",
+    "ReleaseDate": "2024",
+    "CriticScore": 100,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Magicraft%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Magicraft%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Magicraft%20Trailer.mp4",
@@ -144587,8 +144631,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "Wave Games"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -144605,16 +144653,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 25
   },
   {
     "_id": "game_1769506697563_6",
     "Name": "Netherworld Covenant",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "You awaken as the sole survivor of a catastrophic mission to recover the <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>legendary Nether Lantern</b>, surrounded by the corpses of fallen comrades in the demon-ravaged continent of <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Langreg</b>. <br> The mysterious <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Black Knight</b> emerges from the shadows, commanding you to prevent the collapse of both <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>mortal and netherworlds</b> using the forbidden <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>artifact</b> that bridges these realms. <br> Forge dark pacts with the <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>spectral souls</b> of your deceased allies, cleansing their <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>tainted spirits</b> while uncovering the truth behind this <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>calamity</b>. <br> Explore a procedurally generated <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>demon-infested landscape</b>, gather <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>demonic allies</b>, and forge <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>otherworldly weapons</b> in your desperate struggle. <br> Each fallen comrade's fate intertwines with your own as you unravel the <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>dark mystery</b> binding the <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>two worlds</b>, facing increasingly treacherous trials in this dread-soaked <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>supernatural nightmare</b>.",
+    "DescriptionArabic": "<div dir='rtl'>تستيقظ كناجي وحيد من مهمة كارثية لاستعادة <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>فانوس الشيول الأسطوري</b>، محاطاً بجثث رفاقك الساقطين في قارة <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>لانجريج</b> المحطمة بالشياطين. <br> يظهر <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الفارس الأسود</b> الغامض من الظلام، آمراً إياك بمنع انهيار <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>العالمين المادي والسفلي</b> باستخدام <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>الأثر المحرم</b> الذي يربط هذه الأبعاد. <br> اعقد عهود مظلمة مع <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>أرواح حلفائك المتوفين</b>، وطهّر <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>أرواحهم الملوثة</b> بينما تكتشف حقيقة هذه <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الكارثة</b>. <br> استكشف <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>أراضي الشياطين المولدة عشوائياً</b>، واجمع <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>حلفاء شيطانيين</b>، واصنع <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>أسلحة خارقة</b> في نضالك اليائس. <br> يتشابك مصير كل رفيق ساقط مع مصيرك الخاص وأنت تفك <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>اللغز المظلم</b> الذي يربط <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>العالمين</b>، مواجهاً محاولات متزايدة الصعوبة في هذا <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>الكابوس الخارق</b>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Netherworld%20Covenant%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Netherworld%20Covenant%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Netherworld%20Covenant%20Trailer.mp4",
@@ -144624,8 +144673,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "MadGoat Game Studio"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -144642,16 +144695,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 30
   },
   {
     "_id": "game_1769506697563_7",
     "Name": "Onirism",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "<b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>Little Carol</b> awakens to discover her beloved <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>plushy bunny</b> has vanished, spirited away by a mysterious shadow figure that retreats into an otherworldly <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>portal</b>. <br> Without hesitation, she plunges into <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>Crearia</b>, a surreal <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>dreamscape</b> where whimsy and danger coexist in equal measure. <br> Across <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>ten enchanted chapters</b>, Carol battles <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>twisted creatures</b> and navigates death-defying obstacles—from <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>haunted trains</b> to perilous <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>swamps</b> and crumbling <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>soda factories</b>. <br> She must collect six <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>sacred dream catchers</b> scattered throughout this <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>nightmarish realm</b>, each granting her <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>new strength</b> and understanding. <br> Carol's courage must grow to face the terrifying <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Nightmare</b> that threatens both worlds, all to reclaim <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>her precious Bunbun</b>.",
+    "DescriptionArabic": "<div dir='rtl'>تستيقظ <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>كارول الصغيرة</b> لتكتشف أن <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>دمية الأرنب</b> المفضلة لديها اختفت، خاطفتها شخصية غامضة تختفي عبر <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>بوابة خارقة</b>. <br> بدون تردد، تغوص في <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>كريريا</b>، حيث توجد <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ساحة الأحلام</b> السريالية. <br> عبر <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>عشرة فصول مسحورة</b>، تقاتل كارول <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>المخلوقات الملتوية</b> وتتنقل عبر عقبات تهدد الحياة—من <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>قطارات مسكونة</b> إلى <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>مستنقعات خطرة</b> ومصانع <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>صودا</b> متداعية. <br> يجب عليها جمع ستة <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>صائدي أحلام مقدسين</b> متناثرة عبر هذا <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>العالم الكابوسي</b>، كل واحد يمنحها <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>قوة جديدة</b> وحكمة. <br> يجب أن تنمو شجاعة كارول لمواجهة <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>الكابوس</b> المرعب الذي يهدد العالمين، كل هذا لاستعادة <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>أرنبها الثمين</b>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Onirism%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Onirism%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Onirism%20Trailer.mp4",
@@ -144661,8 +144715,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Shooter"
+    ],
+    "DeveloperNames": [
+      "Crimson Tales"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -144679,16 +144737,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 30
   },
   {
     "_id": "game_1769506697563_8",
     "Name": "Promise Mascot Agency",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Michi, known only as <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>The Janitor</b>, is a disgraced <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>yakuza fixer</b> whose failed job has left him drowning in <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>debt</b>. <br> Exiled to the rural countryside of <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>Kyushu</b>, Japan, he must revive an abandoned <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>mascot agency</b> and complete increasingly bizarre jobs before a <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>supernatural curse</b> claims his life. <br> Recruit a colorful cast of <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>mascot misfits</b>, each with their own stories and quirks, then deploy them on missions across the <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>vibrant community</b>. <br> Uncover the mysteries behind their <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>exile</b> and restoration as you restore hope to a forgotten town, one chaotic job at a time. <br> Juggle <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>quirky assignments</b>, build relationships with the <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>townsfolk</b>, manage your agency's reputation, and race against <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>the curse</b> to bring warmth and laughter back to <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>rural Japan</b>.",
+    "DescriptionArabic": "<div dir='rtl'>ميتشي، المعروف باسم <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>الحارس</b>، هو <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>رجل ياكوزا منبوذ</b> تركه عمل فاشل يغرق في <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الديون</b>. <br> منفي إلى الريف في <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>كيوشو</b>، اليابان، يجب عليه إحياء <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>وكالة الشخصيات</b> المهجورة وإكمال مهام غريبة متزايدة قبل أن يُدعيه <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>لعنة خارقة</b>. <br> استقطب فريقاً من <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>الشخصيات الشاذة</b>، لكل واحد منهم قصته وغرائبه، ثم نشرهم في مهام عبر <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>المجتمع النابض بالحياة</b>. <br> اكتشف الأسرار وراء <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>نفيهم</b> واستعادتهم بينما تعيد الأمل إلى بلدة منسية، مهمة واحدة فوضوية تلو الأخرى. <br> تعامل مع <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>المهام الغريبة</b>، وبناء العلاقات مع <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>أهل البلدة</b>، وإدارة سمعة وكالتك، والتسابق ضد <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>اللعنة</b> لإعادة الدفء والضحك إلى <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>ريف اليابان</b>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 100,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Promise%20Mascot%20Agency%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Promise%20Mascot%20Agency%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Promise%20Mascot%20Agency%20Trailer.mp4",
@@ -144698,8 +144757,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Simulation"
+    ],
+    "DeveloperNames": [
+      "Kaizen Game Works"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -144716,16 +144779,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 25
   },
   {
     "_id": "game_1769506697563_9",
     "Name": "Songs of Silence",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Two hostile civilizations clash in a fractured world threatened by the all-consuming <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Silence</b>, an existential force erasing all life in its wake. <br> Lead <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>Queen Lorelai</b> and her desperate people through a harrowing journey to escape the <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Crusade's wrath</b> and discover a new home beyond the <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>fractured worldsplit</b> in two. <br> Navigate treacherous politics and ancient grudges as you attempt to bridge the chasm between <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>rival factions</b>, each harboring their own <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>secrets and ambitions</b>. <br> Command diverse <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>heroes and units</b> in turn-based strategy, utilizing <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>powerful artifacts</b> and <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>mystical abilities</b> to overcome impossible odds. <br> Across eight monumental campaigns, forge alliances, make impossible choices, and uncover the truth behind the <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>world's division</b> while humanity itself hangs in <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>the balance</b>.",
+    "DescriptionArabic": "<div dir='rtl'>تتصادم حضارتان معاديتان في عالم مقسم يهدده <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الصمت</b> الشامل، قوة وجودية تمحو كل حياة في طريقها. <br> قادت <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>الملكة لوريلاي</b> وشعبها اليائس في رحلة مرعبة للهروب من <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>غضب الحملة</b> واكتشاف وطن جديد وراء <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>العالم المقسم</b>. <br> تنقل في السياسة الخطرة والضغائن القديمة وأنت تحاول بناء جسر فوق الهوة بين <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الفصائل المتنافسة</b>، كل منها يخفي <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>أسراره وطموحاته</b>. <br> قيادة <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>الأبطال والوحدات</b> في الاستراتيجية التي تعتمد على الأدوار، باستخدام <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>القطع الأثرية القوية</b> و<b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>القدرات الغامضة</b> للتغلب على الصعاب المستحيلة. <br> عبر ثمان حملات ضخمة، اصنع التحالفات، اتخذ خيارات مستحيلة، واكتشف الحقيقة وراء <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>تقسيم العالم</b> بينما يتعلق مصير الإنسانية <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>بخيط رقيق</b>.</div>",
+    "ReleaseDate": "2024",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Songs%20of%20Silence%20Celestial%20Church%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Songs%20of%20Silence%20Celestial%20Church%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Songs%20of%20Silence%20Celestial%20Church%20Trailer.mp4",
@@ -144735,8 +144799,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Strategy"
+    ],
+    "DeveloperNames": [
+      "Chimera Entertainment"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -144753,16 +144821,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 35
   },
   {
     "_id": "game_1769506697563_10",
     "Name": "SpongeBob SquarePants Titans of the Tide",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "A catastrophic clash between the fearsome <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Flying Dutchman</b> and the mighty <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>King Neptune</b> unleashes <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>ghostly mayhem</b> across <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>Bikini Bottom</b>. <br> Switch seamlessly between the optimistic <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>SpongeBob SquarePants</b> and his loyal best friend <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>Patrick Star</b>, combining their unique talents and abilities. <br> Navigate through <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>iconic locations</b> of the beloved underwater city, from <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>coral walls</b> to the mysterious <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>Kelp Forest</b>. <br> Solve creative <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>environmental puzzles</b> and overcome <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>spectral obstacles</b> while reuniting with <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>beloved friends</b> like Squidward and Mr. Krabs. <br> Race against <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>total ghostification</b> in this <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>whimsical adventure</b> to restore peace to <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>the underwater realm</b>.",
+    "DescriptionArabic": "<div dir='rtl'>تتسبب المواجهة الكارثية بين <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الهولندي الطائر</b> الرهيب والملك البحري القوي <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>نبتون</b> في إطلاق <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>الفوضى الشبحية</b> عبر <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>بيكيني بوتم</b>. <br> تبديل بسلاسة بين <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>سبونجبوب SquarePants</b> المتفائل و<b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>باتريك ستار</b> صديقه الوفي، معتمداً على مواهبهم الفريدة. <br> تنقل عبر <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>المواقع الشهيرة</b> للمدينة المحبوبة تحت الماء، من <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>جدران المرجان</b> إلى <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>غابة الأعشاب</b> الغامضة. <br> حل <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>الألغاز البيئية الإبداعية</b> وتغلب على <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>العقبات الشبحية</b> بينما تعيد الاتصال مع <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>الأصدقاء المحبوبين</b> مثل سكويدوارد و السيد كراب. <br> تسابق ضد <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>التشبح الكامل</b> في هذه <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>المغامرة الخيالية</b> لاستعادة السلام في <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>العالم تحت الماء</b>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/SpongeBob%20SquarePants%20Titans%20of%20the%20Tide%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/SpongeBob%20SquarePants%20Titans%20of%20the%20Tide%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/SpongeBob%20SquarePants%20Titans%20of%20the%20Tide%20Trailer.mp4",
@@ -144772,8 +144841,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Platformer"
+    ],
+    "DeveloperNames": [
+      "Purple Lamp"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -144790,16 +144863,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 15
   },
   {
     "_id": "game_1769506697563_11",
     "Name": "Surfpunk",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "In the aftermath of a <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>global cataclysm</b> that drowned ancient cities beneath rising seas, you and your crew of <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>free-spirited Raiders</b> explore <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>The Fallen World</b>, a tropical archipelago reshaped by catastrophe. <br> Navigate treacherous islands on high-speed <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Rushboards</b>, scavenging for precious <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>resources</b> while battling the terrifying <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>Sumi swarms</b>, monstrous creatures spawned by the <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>otherworldly force</b> threatening all survivors. <br> Wield four unique weapon styles—swift <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>swords</b>, rapid-fire <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>pistols</b>, massive <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>anchors</b>, and melodic <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>guitars</b>—each offering distinct combat approaches. <br> Work together with up to three companions in intense <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>co-op combat</b>, crafting gadgets mid-run to open new paths or escape overwhelming <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>enemy threats</b>. <br> Brave the <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>extraction challenge</b> to bring your hard-earned loot home while surviving increasingly <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>dangerous encounters</b>.",
+    "DescriptionArabic": "<div dir='rtl'>في أعقاب <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>كارثة عالمية</b> غرقت المدن القديمة تحت البحار المرتفعة، أنت وفريقك من <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>الغزاة الأحرار</b> تستكشفان <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>العالم الساقط</b>، أرخبيل استوائي أعاد تشكيله الخراب. <br> تنقل عبر الجزر الخطرة على <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ألواح السرعة</b> العالية، وتجميع <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>الموارد الثمينة</b> أثناء محاربة <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>أسراب سومي</b> المرعبة، مخلوقات وحشية ولدتها <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>القوة الخارقة</b> التي تهدد جميع الناجين. <br> استخدم أربعة أنماط أسلحة فريدة—<b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>سيوف</b> سريعة، <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>مسدسات</b> ناريه، <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>مراسي</b> ضخمة، و<b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>جيتارات</b> موسيقية—كل واحد يقدم نهج قتالي فريد. <br> اعمل مع ثلاثة أصدقاء حتى في قتال <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>تعاوني</b> مكثف، صنع الأدوات أثناء السير لفتح مسارات جديدة أو الهروب من تهديدات العدو <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>المتزايدة</b>. <br> تجرأ على <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>تحدي الاستخراج</b> لإحضار الغنائم التي حصلت عليها بصعوبة إلى الوطن أثناء البقاء على قيد الحياة في المواجهات <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>الخطرة المتزايدة</b>.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Surfpunk%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Surfpunk%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Surfpunk%20Trailer.mp4",
@@ -144809,8 +144883,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Shooter"
+    ],
+    "DeveloperNames": [
+      "Double Stallion"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -144827,16 +144905,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 20
   },
   {
     "_id": "game_1769506697563_12",
     "Name": "Victoria",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Victoria 3",
+    "Description": "Build and guide your <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ideal nation</b> through a turbulent century spanning <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>1836 to 1936</b>, navigating the complexities of the modern world as it transforms. <br> Manage your <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>population's desires</b>, balance competing <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>political interests</b>, and lead any of dozens of <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>world nations</b> through technological advancement and social reform. <br> Master complex <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>economic systems</b>, deciding on <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>tax policies</b>, managing <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>imports and exports</b>, and ensuring your <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>industries</b> thrive through realistic simulation. <br> Navigate <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>international diplomacy</b>, forge <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>alliances</b>, expand <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>colonial empires</b>, and engage in <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>strategic warfare</b>. <br> Each decision shapes your nation's <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>destiny</b>, determining whether you'll emerge as a <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>global superpower</b> or struggle amid the <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>chaos of history</b>.",
+    "DescriptionArabic": "<div dir='rtl'>بناء وتوجيه <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>أمتك المثالية</b> عبر قرن اضطراب يمتد من <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>1836 إلى 1936</b>، محتفلاً بتعقيدات العالم الحديث أثناء تحوله. <br> إدارة <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>رغبات السكان</b>، موازنة <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>المصالح السياسية</b> المتنافسة، وقيادة أي من عشرات <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>الأمم العالمية</b> عبر التقدم التكنولوجي والإصلاح الاجتماعي. <br> إتقان <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>الأنظمة الاقتصادية</b> المعقدة، اتخاذ قرار بشأن <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>سياسات الضرائب</b>، إدارة <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>الواردات والصادرات</b>، وضمان ازدهار <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>صناعتك</b> من خلال محاكاة واقعية. <br> تنقل في <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>الدبلوماسية الدولية</b>، بناء <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>التحالفات</b>، توسيع <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>الإمبراطوريات الاستعمارية</b>، والانخراط في <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>الحرب الاستراتيجية</b>. <br> كل قرار يشكل <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>مصير أمتك</b>، محدداً ما إذا كنت ستظهر كـ <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>قوة عظمى عالمية</b> أم تناضل وسط <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>فوضى التاريخ</b>.</div>",
+    "ReleaseDate": "2022",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Victoria%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Victoria%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Victoria%20Trailer.mp4",
@@ -144846,8 +144925,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Strategy"
+    ],
+    "DeveloperNames": [
+      "Paradox Development Studio"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -144863,16 +144946,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 40
   },
   {
     "_id": "game_1769506697563_13",
     "Name": "Victoria II",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Victoria 2",
+    "Description": "Govern one of over <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>200 playable nations</b> through a transformative century from <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>1836 to 1936</b>, witnessing sweeping <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>industrialization</b> and dramatic <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>social upheaval</b>. <br> Master complex <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>internal management</b> systems, balancing <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>economics, politics, and population</b> while choosing between <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>eight government types</b>. <br> Navigate intricate <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>diplomatic relations</b>, forge <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>strategic alliances</b>, and manage <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>industrial development</b> to drive your nation toward prosperity and influence. <br> When necessary, engage in <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>tactical warfare</b> and territorial conquest, though military success depends on diplomatic finesse and economic strength. <br> Experience <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>unparalleled depth</b> in political and economic simulation, where your choices echo across <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>global events</b> and shape <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>world history</b>.",
+    "DescriptionArabic": "<div dir='rtl'>حكم أحد أكثر من <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>200 دولة قابلة للعب</b> عبر قرن تحويلي من <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>1836 إلى 1936</b>، شاهداً <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>التصنيع السريع</b> و<b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>الاضطرابات الاجتماعية</b> الدرامية. <br> أتقن أنظمة <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>الإدارة الداخلية</b> المعقدة، وازن <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>الاقتصاد والسياسة والسكان</b> أثناء الاختيار بين <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>ثمانية أنواع حكومية</b>. <br> تنقل في <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>العلاقات الدبلوماسية</b> المعقدة، بناء <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>التحالفات الاستراتيجية</b>، وإدارة <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>التنمية الصناعية</b> لدفع أمتك نحو الازدهار والنفوذ. <br> عند الضرورة، انخرط في <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الحرب التكتيكية</b> والفتح الإقليمي، رغم أن النجاح العسكري يعتمد على الخفة الدبلوماسية والقوة الاقتصادية. <br> اختبر <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>عمق لا مثيل له</b> في محاكاة سياسية واقتصادية، حيث تتردد اختياراتك عبر <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>الأحداث العالمية</b> وتشكل <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>التاريخ العالمي</b>.</div>",
+    "ReleaseDate": "2010",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Victoria%20II%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Victoria%20II%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Victoria%20II%20Trailer.mp4",
@@ -144882,8 +144966,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Strategy"
+    ],
+    "DeveloperNames": [
+      "Paradox Development Studio"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -144900,16 +144988,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 40
   },
   {
     "_id": "game_1769506697563_14",
     "Name": "Victoria III",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Victoria 3",
+    "Description": "Construct your <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ideal society</b> across a century of profound change, from <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>1836 to 1936</b>, as you guide any of over <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>100 nations</b> through history. <br> Manage diverse <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>Pops</b>—individual population groups with distinct needs and ideologies—from industrialists to devout farmers, each shaping your nation's destiny. <br> Navigate intricate <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>interest group politics</b> where you must appeal to multiple factions with competing demands and desires. <br> Master sophisticated <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>economic</b> and <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>demographic systems</b>, implementing policies on <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>industrialization</b>, <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>education</b>, and <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>social reform</b>. <br> Experience the most <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>realistic</b> and <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>dynamic</b> simulation of a complex society, where every decision ripples through your <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>nation's future</b> and shapes the <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>course of history</b>.",
+    "DescriptionArabic": "<div dir='rtl'>بناء <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>مجتمعك المثالي</b> عبر قرن من التغيير الشامل، من <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>1836 إلى 1936</b>، بينما توجه أي من أكثر من <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>100 دولة</b> عبر التاريخ. <br> إدارة <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>مجموعات السكان</b> المتنوعة—مع احتياجاتها وأيديولوجياتها المختلفة—من الصناعيين إلى المزارعين المتدينين، كل منهم يشكل مصير أمتك. <br> تنقل في <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>سياسة مجموعات الاهتمام</b> المعقدة حيث يجب عليك جذب فصائل متعددة بمطالب ورغبات متنافسة. <br> أتقن <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>الاقتصاد</b> و<b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>الأنظمة الديموغرافية</b> المتطورة، بتطبيق سياسات <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>التصنيع</b> و<b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>التعليم</b> و<b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>الإصلاح الاجتماعي</b>. <br> اختبر المحاكاة الأكثر <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>واقعية</b> و<b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>ديناميكية</b> لمجتمع معقد، حيث تتردد كل قرار عبر <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>مستقبل أمتك</b> وتشكل <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>مسار التاريخ</b>.</div>",
+    "ReleaseDate": "2022",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Victoria%20III%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Victoria%20III%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Victoria%20III%20Trailer.mp4",
@@ -144919,8 +145008,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Strategy"
+    ],
+    "DeveloperNames": [
+      "Paradox Development Studio"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -144937,16 +145030,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 40
   },
   {
     "_id": "game_1769506697563_15",
     "Name": "Winter Burrow",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Return to your <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>childhood burrow</b> as a <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>little mouse</b> seeking to rebuild your life after years away in the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>big city</b>. <br> Explore the beautiful yet harsh <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>winter woodland</b> surrounding your home, gathering <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>precious resources</b> and <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>crafting tools</b> to survive the freezing <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>seasons</b>. <br> Knit cozy <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>sweaters</b> and bake delicious <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>pies</b>, transforming simple ingredients into warmth and comfort. <br> Meet charming <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>woodland locals</b> and restore your <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>ancestral home</b>, breathing new life into rooms filled with <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>cherished memories</b>. <br> Experience a heartwarming tale of belonging, featuring <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>zero combat</b>, no time pressure, and pure <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>peaceful exploration</b> in this <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>enchanting cozy adventure</b>.",
+    "DescriptionArabic": "<div dir='rtl'>العودة إلى <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>حفرة طفولتك</b> كـ <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>فأرة صغيرة</b> تسعى لإعادة بناء حياتك بعد سنوات بعيداً في <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>المدينة الكبيرة</b>. <br> استكشف <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>غابة الشتاء</b> الجميلة والقاسية المحيطة بمنزلك، جمع <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الموارد الثمينة</b> و<b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>صنع الأدوات</b> للبقاء على قيد الحياة في الفصول <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>المجمدة</b>. <br> اصنع <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>الفئات الدافئة</b> واخبز <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>الفطائر</b> اللذيذة، تحويل المكونات البسيطة إلى دفء وراحة. <br> التقي بـ <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>السكان الساحرين</b> واستعد <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>منزل أجدادك</b>، منحياً الحياة الجديدة للغرف المليئة بـ <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>الذكريات العزيزة</b>. <br> اختبر قصة مؤثرة عن الانتماء، بدون <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>قتال</b>، بلا ضغط زمني، و<b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>استكشاف سلمي</b> محض في هذه <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>المغامرة المريحة الساحرة</b>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 100,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Winter%20Burrow%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Winter%20Burrow%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Winter%20Burrow%20Trailer.mp4",
@@ -144956,8 +145050,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Cozy"
+    ],
+    "DeveloperNames": [
+      "Pine Creek Games"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -144974,16 +145072,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 15
   },
   {
     "_id": "game_1769506697563_16",
     "Name": "Wizard With a Gun",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Armed with a magical <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>gun</b> of untold power, journey through fractured <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>dimensions</b> twisted by the mysterious force known as <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>the Shatter</b>. <br> Unearth ancient <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>lore</b> about the nature of <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>Chaos</b> and the true purpose of your quest while battling <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>otherworldly creatures</b>. <br> Craft powerful <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>spells</b> and devastating <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>gun mods</b>, constantly pushing toward <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>bigger and better gear</b> through a tight, rewarding gameplay loop. <br> Build and upgrade your <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>sanctuary base</b>, collect rare <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>bounty enemies</b>, and gather materials to rebuild the legendary <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>Voidskimmer sky ship</b>. <br> Progress toward the ultimate goal: opening the <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Oculus gateway</b> and facing the thrilling <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>conclusion</b> to this world's mysteries, alone or with up to <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>three companions</b>.",
+    "DescriptionArabic": "<div dir='rtl'>مسلحاً بـ <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>بندقية سحرية</b> ذات قوة لا حدود لها، انطلق عبر <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>أبعاد مكسورة</b> ملتوية بواسطة القوة الغامضة المعروفة بـ <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الكسر</b>. <br> كشف <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>الحكمة القديمة</b> حول طبيعة <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>الفوضى</b> والغرض الحقيقي لرحلتك أثناء محاربة <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>المخلوقات الخارقة</b>. <br> صنع <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>تعاويذ قوية</b> و<b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>تعديلات بندقية</b> مدمرة، دفع مستمر نحو <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>معدات أفضل وأضخم</b> من خلال حلقة لعب محكمة ومجزية. <br> بناء وترقية <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>ملاذك الأساسي</b>، جمع <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الأعداء الثمينة</b>، وجمع المواد لإعادة بناء <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>سفينة Voidskimmer السماوية</b> الأسطورية. <br> التقدم نحو الهدف النهائي: فتح بوابة <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Oculus</b> ومواجهة <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>الخاتمة</b> المثيرة لأسرار هذا العالم، بمفردك أو مع حتى <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>ثلاثة رفقاء</b>.</div>",
+    "ReleaseDate": "2023",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Wizard%20With%20a%20Gun%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Wizard%20With%20a%20Gun%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Wizard%20With%20a%20Gun%20Trailer.mp4",
@@ -144993,8 +145092,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Shooter"
+    ],
+    "DeveloperNames": [
+      "Galvanic Games"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -145011,16 +145114,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 25
   },
   {
     "_id": "game_1769526327155_0",
     "Name": "Heart of Darkness",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Young <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>Andy</b> must embark on a perilous journey into a <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>dark realm</b> to rescue his beloved <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>dog Whisky</b>, kidnapped by malevolent <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>shadow creatures</b>. <br> Navigate a stunningly animated <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>cinematic world</b> filled with <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>hostile enemies</b> and treacherous <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>environmental puzzles</b> that demand both skill and strategy. <br> Master precision <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>platform navigation</b>, carefully timing <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>jumps</b> and utilizing <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>weapons</b> when available, or employ cunning to turn your enemies' <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>designs against them</b>. <br> Uncover the mysteries of the <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Heart of Darkness</b> itself as you progress through increasingly challenging <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>dark landscapes</b>. <br> Experience a haunting yet memorable adventure where <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>love for a pet</b> drives you through impossible odds, combining <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>cinematic presentation</b> with challenging <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>platformer gameplay</b>.",
+    "DescriptionArabic": "<div dir='rtl'>يجب على الصبي الصغير <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>آندي</b> الشروع في رحلة خطرة إلى <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>عالم مظلم</b> لإنقاذ كلبه المحبوب <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ويسكي</b>، المخطوف من قبل مخلوقات <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>الظل الخبيثة</b>. <br> تنقل عبر <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>عالم سينمائي</b> مذهل مليء بـ <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>الأعداء العدائيين</b> و<b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>الألغاز البيئية</b> الخطرة التي تتطلب المهارة والاستراتيجية. <br> أتقن دقيق <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>التنقل في المنصات</b>، توقيت <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>القفزات</b> بعناية واستخدم <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>الأسلحة</b> عند توفرها، أو استخدم الحيلة لتحويل <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>خطط أعدائك</b> ضدهم. <br> كشف أسرار <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>قلب الظلام</b> نفسه أثناء تقدمك عبر <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>المناظر المظلمة</b> الصعبة بشكل متزايد. <br> اختبر مغامرة محبطة لكن لا تُنسى حيث <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>الحب للحيوان الأليف</b> يدفعك عبر صعاب مستحيلة، يجمع بين <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>العرض السينمائي</b> و<b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>لعبة منصات صعبة</b>.</div>",
+    "ReleaseDate": "1998",
+    "CriticScore": 100,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Heart%20of%20Darkness%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Heart%20of%20Darkness%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Heart%20of%20Darkness%20Trailer.mp4",
@@ -145030,8 +145134,12 @@
     "PlatformNames": [
       "Sony PlayStation"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Platformer"
+    ],
+    "DeveloperNames": [
+      "Amazing Studio"
+    ],
     "downloadInfo": {
       "Sony PlayStation": {
         "versions": [
@@ -145055,16 +145163,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 10
   },
   {
     "_id": "game_1769567129072_0",
     "Name": "Battle Chasers Nightwar",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "After their <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>airship is attacked by pirates</b>, the legendary <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Battle Chasers</b>—Gully, Garrison, Knolan, Calibretto, and Red Monika—crash-land on the mysterious <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>Crescent Isles</b>. <br> Stranded in a hostile land, the party must navigate dangerous <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>randomly-generated dungeons</b> and confront an <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>evil sorceress</b> determined to prevent their escape. <br> Assemble your team and master <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>turn-based combat</b> strategy, combining each character's unique <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>abilities and skills</b> to overcome increasingly powerful <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>enemies</b>. <br> Uncover the secrets of the <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>island's ancient curse</b> and face off against <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>formidable foes</b> in thrilling boss encounters. <br> Experience a gorgeous <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>visual adventure</b> with an <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>amazing soundtrack</b>, exploring vast dungeons and discovering the <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>truth behind your predicament</b>.",
+    "DescriptionArabic": "<div dir='rtl'>بعد أن تتعرض <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>سفينتهم الجوية لهجوم القراصنة</b>، يتحطم <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>صائدو المعارك الأسطوريون</b>—جولي وجاريسون وكنولان وكاليبريتو وريد مونيكا—على <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>جزر الهلال</b> الغامضة. <br> عالقين في أرض معادية، يجب على الفريق التنقل عبر <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>الأبراج المولدة عشوائياً</b> ومواجهة <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>ساحرة خبيثة</b> مصممة على منع هروبهم. <br> اجمع فريقك وأتقن <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>استراتيجية القتال بالأدوار</b>، مما يجمع <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>القدرات والمهارات الفريدة</b> لكل شخصية للتغلب على <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>الأعداء</b> الأقوياء بشكل متزايد. <br> اكتشف أسرار <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>لعنة الجزيرة القديمة</b> وواجه <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>الخصوم الهائلين</b> في المعارك المثيرة ضد الزعماء. <br> اختبر <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>مغامرة بصرية جميلة</b> مع <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>موسيقى ممتازة</b>، استكشف الأبراج الشاسعة واكتشف <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>الحقيقة وراء محنتك</b>.</div>",
+    "ReleaseDate": "2017",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Battle%20Chasers%20Nightwar%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Battle%20Chasers%20Nightwar%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Battle%20Chasers%20Nightwar%20Trailer.mp4",
@@ -145074,8 +145183,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Japanese Role-Playing"
+    ],
+    "DeveloperNames": [
+      "Airship Syndicate"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -145092,16 +145205,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 30
   },
   {
     "_id": "game_1769567129072_1",
     "Name": "Chaser",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "In a <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>dystopian future</b> where humanity has colonized <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>Mars</b>, you awaken as <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>John Chaser</b>, an amnesiac soldier with a <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>dangerous price on your head</b>. <br> Navigate vast, oppressive <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>levels</b> across a ravaged <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>Earth</b>, caught between the tyrannical <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>MARSCORP MegaCorp</b> and the desperate <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>Martian resistance</b>. <br> Wield an impressive arsenal of <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>real-world firearms</b>, each with authentic handling and devastating power as you engage in <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>intense firefights</b>. <br> Master the <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>adrenaline mode</b> mechanic, slowing time itself to execute thrilling <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>bullet-time sequences</b> and tactical strikes. <br> Uncover the mystery of your identity while exploring <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>massive industrial zones</b>, corporate facilities, and <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>war-torn landscapes</b>, all in thrilling <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>old-school shooter action</b>.",
+    "DescriptionArabic": "<div dir='rtl'>في <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>مستقبل كئيب</b> حيث استعمرت الإنسانية <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>المريخ</b>، تستيقظ باسم <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>جون تشيسر</b>، جندي فاقد الذاكرة مع <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>سعر خطير على رأسك</b>. <br> تنقل عبر <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>مستويات شاسعة</b> وقاتمة في <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>الأرض المدمرة</b>، محصوراً بين <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>شركة MARSCORP المستبدة</b> و<b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>المقاومة المريخية</b> اليائسة. <br> استخدم ترسانة إثارة من <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>الأسلحة الحقيقية</b>، كل واحد بمعالجة أصلية وقوة مدمرة وأنت تنخرط في <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>حرائق مكثفة</b>. <br> أتقن آلية <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>وضع الأدرينالين</b>، إبطاء الزمن نفسه لتنفيذ <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>تسلسلات الوقت النقصي</b> والضربات التكتيكية المثيرة. <br> اكتشف لغز هويتك أثناء استكشاف <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>المناطق الصناعية الضخمة</b> و<b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>المناظر الطبيعية المحطمة بالحرب</b>، كل ذلك في <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>حركة إطلاق نار قديمة الطراز مثيرة</b>.</div>",
+    "ReleaseDate": "2003",
+    "CriticScore": 60,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Chaser%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Chaser%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Chaser%20Trailer.mp4",
@@ -145111,8 +145225,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Shooter"
+    ],
+    "DeveloperNames": [
+      "Cauldron"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -145129,16 +145247,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 10
   },
   {
     "_id": "game_1769567129072_2",
     "Name": "Crime Simulator",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Released from prison with <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>crushing debt</b> hanging over your head, you must steal, infiltrate, and break into homes across the city to make your fortune. <br> Master the art of <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>heisting</b> using <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>lockpicks, sleeping gas</b>, and <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>brute force</b> tactics to outsmart sophisticated <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>security systems</b> and steal <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>valuable loot</b>. <br> Deploy high-tech <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>gadgets</b> including <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>reconnaissance drones</b>, <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>zip ties</b> for controlling targets, and <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>loot scanners</b>. <br> Discover over <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>15 unique skills</b> that completely transform your playstyle, balancing <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>risk and reward</b> in each mission. <br> Experience fast-paced <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>roguelite action</b> solo or with up to <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>3 co-op partners</b>, where every heist brings you closer to <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>financial freedom</b>.",
+    "DescriptionArabic": "<div dir='rtl'>بعد الإفراج عنك من السجن مع <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>ديون سحاقة</b> معلقة فوق رأسك، يجب عليك السرقة والتسلل والاقتحام إلى المنازل عبر المدينة لتحقيق ثروتك. <br> أتقن فن <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>السطو</b> باستخدام <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>أقفال الاختراق والغاز المنوم</b> و<b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>تكتيكات الهجوم الغاشم</b> للتغلب على <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>أنظمة الأمان الراقية</b> وسرقة <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>الكنوز الثمينة</b>. <br> نشر <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>أدوات عالية التقنية</b> بما في ذلك <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>الطائرات بدون طيار للاستطلاع</b> و<b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>ربطات الأسلاك</b> و<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>أجهزة المسح الضوئي</b>. <br> اكتشف أكثر من <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>15 مهارة فريدة</b> تحول أسلوب لعبك تماماً، موازنة <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>المخاطرة والمكافأة</b> في كل مهمة. <br> اختبر <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>حركة روج لايت سريعة</b> بمفردك أو مع حتى <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>3 شركاء تعاوني</b>، حيث تحضرك كل عملية سطو أقرب إلى <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>الحرية المالية</b>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Crime%20Simulator%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Crime%20Simulator%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Crime%20Simulator%20Trailer.mp4",
@@ -145148,8 +145267,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Simulation"
+    ],
+    "DeveloperNames": [
+      "CookieDev"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -145168,16 +145291,17 @@
     },
     "Tags": [
       "Need Music"
-    ]
+    ],
+    "Length": 25
   },
   {
     "_id": "game_1769567129072_3",
     "Name": "Perception",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Play as <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>Cassie Thornton</b>, a <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>blind woman</b> who perceives the world through <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>echolocation</b>, and explore a mysterious <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>haunted mansion</b> in Gloucester, Massachusetts. <br> Use sounds like footsteps, dripping water, and wind to create a mental picture of your surroundings in this unique <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>first-person perspective</b>. <br> Uncover the <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>mansion's dark secrets</b> while avoiding <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>the Presence</b>—a malevolent <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>supernatural entity</b> that hunts any who make too much noise. <br> Balance exploration with stealth, as excessive sound draws the attention of this <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>unkillable threat</b>. <br> Experience a <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>memorable horror adventure</b> that redefines how we perceive disability and survival, combining <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>innovative gameplay</b> with <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>psychological terror</b> in a <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>deeply atmospheric</b> setting.",
+    "DescriptionArabic": "<div dir='rtl'>العب دور <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>كاسي ثورنتون</b>، <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>امرأة عمياء</b> ترى العالم من خلال <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>تحديد الموقع بالصدى</b>، واستكشف <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>قصراً مسكوناً</b> غامضاً في جلوستر بولاية ماساتشوستس. <br> استخدم الأصوات مثل خطواتك والمياه المتقطرة والرياح لإنشاء صورة ذهنية لمحيطك في هذا <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>المنظور الفريد</b>. <br> اكتشف <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>أسرار القصر المظلمة</b> مع تجنب <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>الحضور</b>—<b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>كيان خارق</b> خبيث يصطاد أي شخص يصدر الكثير من الضوضاء. <br> وازن بين الاستكشاف والتسلل، حيث تجذب الأصوات المفرطة انتباه هذا <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>التهديد الذي لا يمكن قتله</b>. <br> اختبر <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>مغامرة رعب لا تُنسى</b> تعيد تعريف كيفية تصورنا للإعاقة والبقاء على قيد الحياة، مع الجمع بين <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>لعبة مبتكرة</b> و<b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>الإرهاب النفسي</b> في بيئة <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>جوية عميقة</b>.</div>",
+    "ReleaseDate": "2017",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Perception%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Perception%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Perception%20Trailer.mp4",
@@ -145187,8 +145311,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "The Deep End Games"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -145205,16 +145333,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 10
   },
   {
     "_id": "game_1769567129072_4",
     "Name": "The Seance of Blake Manor",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "In the misty wilds of <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>western Ireland</b>, a group of <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>mystics from across the globe</b> gather to pierce the veil between worlds during a séance. But 48 hours before the ritual, <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>Evelyn Deane vanishes</b> without a trace. <br> Assume the role of investigator and unravel this <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>supernatural mystery</b> inspired by <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>Irish mythology</b> and <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Victorian spiritualism</b>. <br> Interview suspects, meticulously record <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>evidence, clues, and motivations</b> in your journal, and confront them when you've uncovered their secrets. <br> Navigate the creaking halls of <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>Blake Manor</b> in a race against time—each action counts the day down, and you must be in the right place at the right moment to witness critical events. <br> Solve this <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>gothic whodunit</b> through detective work and deduction, uncovering what truly transpired at Blake Manor in this <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>atmospheric</b>, <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>comic-book styled</b> <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>supernatural mystery</b>.",
+    "DescriptionArabic": "<div dir='rtl'>في برية <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>أيرلندا الغربية</b> الضبابية، يجتمع <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>صوفيون من جميع أنحاء العالم</b> لاختراق الحجاب بين العوالم أثناء جلسة استحضار الأرواح. لكن قبل 48 ساعة من الطقسة، <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>تختفي إيفيلين ديان</b> دون أثر. <br> تولي دور المحقق وحل هذا <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>اللغز الخارق</b> المستوحى من <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>الأساطير الأيرلندية</b> و<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الروحانية الفيكتورية</b>. <br> اجمع المشتبهين بهم، وسجل بعناية <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>الأدلة والتلميحات والدوافع</b> في دفتر يومياتك، واواجههم عندما تكشف أسرارهم. <br> تنقل عبر الممرات المؤرقة <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>لقصر بليك</b> في سباق مع الزمن—كل إجراء يحسب اليوم، ويجب أن تكون في المكان المناسب في اللحظة الصحيحة لشهود الأحداث الحرجة. <br> حل هذا <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>لغز المحقق القوطي</b> من خلال عمل المحقق والاستنتاج، وكشف ما حدث فعلاً في قصر بليك في هذا <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>اللغز الجوي</b> و<b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>الأسلوب الفني</b> <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>الخارق</b>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 100,
     "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Seance%20of%20Blake%20Manor%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Seance%20of%20Blake%20Manor%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Seance%20of%20Blake%20Manor%20Trailer.mp4",
@@ -145224,8 +145353,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "Spooky Doorway"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -145242,16 +145375,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 10
   },
   {
     "_id": "game_1769567129072_5",
     "Name": "Viractal Will You Trust Your Party",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Embark on a <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>roguelike board game adventure</b> where <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>dice rolls</b> determine your fate and <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>strategic decisions</b> shape your journey. <br> Build your <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>custom deck</b>, explore <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>procedurally-generated maps</b>, and face <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>events shaped by chance and choice</b>. <br> Master <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>deckbuilding strategy</b> with dozens of <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>unique cards</b> and <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>character abilities</b> to craft powerful combinations. <br> Play <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>solo</b> or team up with friends in <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>online co-op</b> for entirely different experiences each playthrough. <br> Experience <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>turn-based tactical combat</b>, where every roll and card choice matters in this <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>blend of board game</b> and <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>card game mechanics</b>—with <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>infinite replayability</b>.",
+    "DescriptionArabic": "<div dir='rtl'>انطلق في <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>مغامرة لعبة البطاقات roguelike</b> حيث <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>رمي الزهر</b> يحدد مصيرك و<b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>القرارات الاستراتيجية</b> تشكل رحلتك. <br> بناء <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>مجموعتك المخصصة</b>، استكشف <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>الخرائط المولدة إجرائياً</b>، واجه <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>الأحداث المشكلة بالفرصة والاختيار</b>. <br> أتقن <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>استراتيجية بناء المجموعة</b> مع عشرات <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>البطاقات الفريدة</b> و<b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>قدرات الشخصيات</b> لصنع مجموعات قوية. <br> لعب <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>بمفردك</b> أو تعاون مع الأصدقاء في <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>تعاون عبر الإنترنت</b> لتجارب مختلفة تماماً في كل جولة. <br> اختبر <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>القتال التكتيكي بالأدوار</b>، حيث كل رمي وخيار بطاقة أهمية في هذا <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>الخليط من لعبة البطاقات</b> و<b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;'>ميكانيكا لعبة المجلس</b>—مع <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>قابلية لعب لا نهائية</b>.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Viractal%20Will%20You%20Trust%20Your%20Party%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Viractal%20Will%20You%20Trust%20Your%20Party%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Viractal%20Will%20You%20Trust%20Your%20Party%20Trailer.mp4",
@@ -145261,8 +145395,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Strategy"
+    ],
+    "DeveloperNames": [
+      "Sting"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -145281,16 +145419,17 @@
     },
     "Tags": [
       "Need Music"
-    ]
+    ],
+    "Length": 25
   },
   {
     "_id": "game_1769579962005_0",
     "Name": "Harvest Moon Save the Homeland",
     "SortingName": "Harvest Moon 04.02",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Your <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>family farm</b> and the entire <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>village</b> face destruction as <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>corporations plan to build a resort</b> on your homeland. <br> You have <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;;'>one year</b> to save everything by cultivating your <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>thriving farm</b>, growing <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>crops</b>, and tending to your <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>animals</b>. <br> Build meaningful <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;'>relationships with townspeople</b> to unlock <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>multiple ending paths</b>—the first Harvest Moon to prioritize <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;;'>connections over profit</b>. <br> Experience farming in a <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>stunning 3D world</b> that retains the <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>charm and cuteness</b> the series is known for. <br> Unlock <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;;'>nine different successful endings</b> through your choices and efforts, proving that <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>relationships are the true harvest</b>.",
+    "DescriptionArabic": "<div dir='rtl'>يواجه <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>مزرعة عائلتك</b> والقرية بأكملها <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;;'>الدمار مع خطط الشركات</b> لبناء <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;;'>منتجع على أرضك</b>. <br> لديك <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>سنة واحدة</b> لإنقاذ كل شيء من خلال <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;;'>زراعة مزرعتك المزدهرة</b>، وزراعة <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;;'>المحاصيل</b>، والعناية بـ <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;;'>الحيوانات</b>. <br> بناء <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;;'>علاقات ذات مغزى مع سكان البلدة</b> لفتح <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;;'>مسارات نهاية متعددة</b>—أول Harvest Moon يعطي الأولوية <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;;'>للاتصالات على الربح</b>. <br> اختبر الزراعة في <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;;'>عالم 3D مذهل</b> يحافظ على <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;;'>السحر واللطف</b> المعروف عن السلسلة. <br> افتح <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;;'>تسعة نهايات ناجحة مختلفة</b> من خلال اختياراتك وجهودك، مما يثبت أن <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;;'>العلاقات هي الحصاد الحقيقي</b>.</div>",
+    "ReleaseDate": "2001",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Harvest%20Moon%20Save%20the%20Homeland%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Harvest%20Moon%20Save%20the%20Homeland%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Harvest%20Moon%20Save%20the%20Homeland%20Trailer.mp4",
@@ -145300,8 +145439,12 @@
     "PlatformNames": [
       "Sony PlayStation 2"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Simulation"
+    ],
+    "DeveloperNames": [
+      "Victor Interactive Software"
+    ],
     "downloadInfo": {
       "Sony PlayStation 2": {
         "versions": [
@@ -145317,16 +145460,18 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [],
+    "Length": 25
   },
   {
     "_id": "game_1769582186126_0",
     "Name": "Earth Must Die",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Witness the <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>glorious rise to power</b> of a character who inherits an empire following their <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>father's tragic passing</b>. <br> But fate has other plans—an accidental diplomatic blunder leads to <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>surrender to the Terranoids</b>, an alien menace threatening all of <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;;'>Earth</b>. <br> Execute an elaborate <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;'>revenge campaign</b> against your own planet in this <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;;'>over-the-top sci-fi adventure</b> featuring <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;;'>brilliant British comedy talent</b>. <br> Solve elaborate <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;;'>point-and-click puzzles</b>, engage in <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;;'>witty dialogue</b>, and make absurd decisions in this <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;;'>90s-inspired adventure</b>. <br> Starring an <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;;'>all-star voice cast</b> of comedians and actors, this <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;;'>cinematic romp</b> blends <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;;'>hilarious humor</b> with <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;;'>genuine adventure</b> and <b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;;'>surprising heart</b>.",
+    "DescriptionArabic": "<div dir='rtl'>شاهد <b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;;'>الصعود المجيد للسلطة</b> لشخصية ترث إمبراطورية بعد <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;;'>وفاة والدهما المأساوية</b>. <br> لكن القدر له خطط أخرى—يؤدي خطأ دبلوماسي عرضي إلى <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;;'>الاستسلام للتيرانويدز</b>، تهديد غريب الأطوار يهدد <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;;'>الأرض</b> كله. <br> نفذ <b style='color: #9D00FF; text-shadow: 0 0 8px #9D00FF;;'>حملة انتقام معقدة</b> ضد كوكبك الخاص في هذه <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;;'>مغامرة خيال علمي مفرطة</b> تضم <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;;'>موهبة كوميديا بريطانية ممتازة</b>. <br> حل <b style='color: #FF6B9D; text-shadow: 0 0 8px #FF6B9D;;'>ألغاز نقطة وانقر معقدة</b>، تنخرط في <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;;'>حوار ذكي</b>، واتخذ قرارات سخيفة في هذه <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;;'>مغامرة مستوحاة من التسعينيات</b>. <br> بطولة <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;;'>فريق صوتي من نجوم</b> من الممثلين والممثلين، هذا <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;;'>الاستعراض السينمائي</b> يمزج <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;;'>الفكاهة الهلاريه</b> مع <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;;'>المغامرة الحقيقية</b> و<b style='color: #ADFF2F; text-shadow: 0 0 8px #ADFF2F;;'>القلب المفاجئ</b>.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 100,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Earth%20Must%20Die%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Earth%20Must%20Die%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Earth%20Must%20Die%20Trailer.mp4",
@@ -145336,8 +145481,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Size Five Games"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -145355,16 +145504,17 @@
     },
     "Tags": [
       "Need Music"
-    ]
+    ],
+    "Length": 10
   },
   {
     "_id": "game_1769590588712_0",
     "Name": "Everybodys Gone to the Rapture",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Explore a remote <b style='color: #6B4C9A; text-shadow: 0 0 8px #6B4C9A;'>English village</b> in the summer of 1984 where all inhabitants have mysteriously vanished.<br> As <b style='color: #8B3A62; text-shadow: 0 0 8px #8B3A62;'>Kate and Stephen</b> search for answers about the unprecedented <b style='color: #5C4A7F; text-shadow: 0 0 8px #5C4A7F;'>disappearance</b>, you uncover fragments through <b style='color: #7A5C8F; text-shadow: 0 0 8px #7A5C8F;'>supernatural lights</b> carrying their stories.<br> The pair's scientific research into an <b style='color: #6C4D88; text-shadow: 0 0 8px #6C4D88;'>unknown form of life</b> takes a sinister turn when ethereal <b style='color: #5D3E6F; text-shadow: 0 0 8px #5D3E6F;'>patterns descend from the skies</b>, bringing both revelation and <b style='color: #704D8A; text-shadow: 0 0 8px #704D8A;'>extinction</b>.<br> Navigate through <b style='color: #6A4B87; text-shadow: 0 0 8px #6A4B87;'>abandoned homes</b> and discover poignant <b style='color: #8C4A68; text-shadow: 0 0 8px #8C4A68;'>human connections</b> in this tale of <b style='color: #6F4C86; text-shadow: 0 0 8px #6F4C86;'>communication and consequence</b>.<br> Piece together what transformed peaceful <b style='color: #7B5D92; text-shadow: 0 0 8px #7B5D92;'>Yaughton</b> into a place of <b style='color: #5E4070; text-shadow: 0 0 8px #5E4070;'>haunting silence</b> as inhabitants face their <b style='color: #7D5E94; text-shadow: 0 0 8px #7D5E94;'>ultimate fate</b>.",
+    "DescriptionArabic": "<div dir='rtl'>استكشف <b style='color: #6B4C9A; text-shadow: 0 0 8px #6B4C9A;'>قرية إنجليزية</b> نائية في صيف عام 1984 حيث اختفى جميع <b style='color: #8B3A62; text-shadow: 0 0 8px #8B3A62;'>السكان</b> بشكل <b style='color: #5C4A7F; text-shadow: 0 0 8px #5C4A7F;'>غامض</b>.<br> بينما يبحث <b style='color: #7A5C8F; text-shadow: 0 0 8px #7A5C8F;'>كيت وستيفن</b> عن إجابات حول الاختفاء <b style='color: #6C4D88; text-shadow: 0 0 8px #6C4D88;'>غير المسبوق</b>، تكتشف شظايا الحكايات من خلال <b style='color: #5D3E6F; text-shadow: 0 0 8px #5D3E6F;'>أضواء خارقة</b> تحمل قصصهم.<br> ينقلب البحث العلمي للثنائي عن <b style='color: #704D8A; text-shadow: 0 0 8px #704D8A;'>شكل حياة مجهول</b> عندما تنحدر <b style='color: #6A4B87; text-shadow: 0 0 8px #6A4B87;'>أنماط غريبة من السماء</b>، محضرة الكشف <b style='color: #8C4A68; text-shadow: 0 0 8px #8C4A68;'>والانقراض</b>.<br> تنقل عبر <b style='color: #6F4C86; text-shadow: 0 0 8px #6F4C86;'>البيوت المهجورة</b> واكتشف <b style='color: #7B5D92; text-shadow: 0 0 8px #7B5D92;'>الارتباطات الإنسانية</b> الحزينة في هذه قصة من <b style='color: #5E4070; text-shadow: 0 0 8px #5E4070;'>التواصل والعواقب</b>.<br> اجمع ما حول <b style='color: #7D5E94; text-shadow: 0 0 8px #7D5E94;'>يوتن الهادئة</b> إلى مكان من <b style='color: #6B4C9A; text-shadow: 0 0 8px #6B4C9A;'>الصمت المرعب</b> حيث يواجه السكان <b style='color: #8B3A62; text-shadow: 0 0 8px #8B3A62;'>مصيرهم النهائي</b>.</div>",
+    "ReleaseDate": "2015",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Everybodys%20Gone%20to%20the%20Rapture%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Everybodys%20Gone%20to%20the%20Rapture%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Everybodys%20Gone%20to%20the%20Rapture%20Trailer.mp4",
@@ -145374,8 +145524,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "The Chinese Room"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -145391,16 +145545,18 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [],
+    "Length": 5
   },
   {
     "_id": "game_1769596659600_0",
     "Name": "Skate",
     "SortingName": "Skate 01",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Follow an <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>ordinary skater's</b> incredible journey in the urban skate paradise of <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>San Vanelona</b>.<br> After a devastating <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>bus accident</b> leaves your character fighting for recovery in the hospital, you begin a grueling rehabilitation process to return to the streets.<br> With your loyal <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>filmer Reda</b> documenting every moment, climb through the <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>ranks of professional skateboarding</b>, impressing legendary <b style='color: #A0826D; text-shadow: 0 0 8px #A0826D;'>pro skaters</b> like Chris Cole and Rob Dyrdek.<br> Complete challenging <b style='color: #8B7355; text-shadow: 0 0 8px #8B7355;'>missions and contests</b>, earn <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>sponsorships</b> from major brands, and establish yourself as a legendary skater.<br> Experience the progression from <b style='color: #DEB887; text-shadow: 0 0 8px #DEB887;'>street unknown to skating icon</b> through dedication and <b style='color: #8B7765; text-shadow: 0 0 8px #8B7765;'>perseverance</b>.",
+    "DescriptionArabic": "<div dir='rtl'>تابع رحلة <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>متزحلق عادي</b> المذهلة في جنة <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>سان فانيلونا</b> الحضرية.<br> بعد حادثة <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>حافلة مدمرة</b> تترك شخصيتك تحارب من أجل التعافي في المستشفى، تبدأ عملية <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>إعادة تأهيل</b> شاقة للعودة إلى الشارع.<br> مع <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>محاربك الوفي رضا</b> يوثق كل لحظة، تسلق <b style='color: #A0826D; text-shadow: 0 0 8px #A0826D;'>رتب التزحلق الاحترافي</b> وأثر <b style='color: #8B7355; text-shadow: 0 0 8px #8B7355;'>محترفي التزحلق</b> الأسطوريين.<br> أكمل <b style='color: #8B7765; text-shadow: 0 0 8px #8B7765;'>المهام والمسابقات</b> الصعبة، واكسب <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>الرعاية</b> من العلامات التجارية الكبرى، وأسس نفسك كأسطورة متزحلق.<br> اختبر الانتقال من <b style='color: #DEB887; text-shadow: 0 0 8px #DEB887;'>مجهول الشارع إلى رمز التزحلق</b> من خلال التفاني و<b style='color: #8B7765; text-shadow: 0 0 8px #8B7765;'>المثابرة</b>.</div>",
+    "ReleaseDate": "2007",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Skate%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Skate%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Skate%20Trailer.mp4",
@@ -145410,8 +145566,12 @@
     "PlatformNames": [
       "Sony PlayStation 3"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Sports"
+    ],
+    "DeveloperNames": [
+      "EA Black Box"
+    ],
     "downloadInfo": {
       "Sony PlayStation 3": {
         "versions": [
@@ -145428,16 +145588,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 20
   },
   {
     "_id": "game_1769596659600_1",
     "Name": "Skate 2",
     "SortingName": "Skate 02",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Return to <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>New San Vanelona</b> as a skater released from <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>jail after five years</b> to find the city transformed by <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>Mongocorp</b>.<br> Once-thriving skate spots now lie behind <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>private barriers</b>, guarded by relentless security determined to crush the skating culture.<br> Gather a <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>crew of local rebels</b> and embark on a mission to <b style='color: #8B7355; text-shadow: 0 0 8px #8B7355;'>reclaim the city's soul</b> one skate spot at a time.<br> With unprecedented freedom to <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>dismount and manipulate your surroundings</b>, orchestrate an urban skateboarding revolution against corporate oppression.<br> Expand your <b style='color: #A0826D; text-shadow: 0 0 8px #A0826D;'>arsenal of tricks</b> and rebuild your <b style='color: #8B7765; text-shadow: 0 0 8px #8B7765;'>legendary status</b> as you <b style='color: #DEB887; text-shadow: 0 0 8px #DEB887;'>restore freedom</b> to the streets.",
+    "DescriptionArabic": "<div dir='rtl'>عد إلى <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>سان فانيلونا الجديدة</b> كمتزحلق أطلق من <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>السجن بعد خمس سنوات</b> لتجد المدينة تحولت بواسطة <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>مونجوكورب</b>.<br> تقع المناطق التي كانت تزدهر بالتزحلق الآن خلف <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>حواجز خاصة</b>، يحرسها أمن لا يرحم يصمم على سحق ثقافة التزحلق.<br> اجمع <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>طاقم من المتمردين المحليين</b> وابدأ مهمة <b style='color: #8B7355; text-shadow: 0 0 8px #8B7355;'>استعادة روح المدينة</b> موقعاً للتزحلق واحداً تلو الآخر.<br> بحرية غير مسبوقة لـ <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>النزول والتعامل مع محيطك</b>، نظم ثورة حضرية للتزحلق ضد القمع الشركاتي.<br> وسع <b style='color: #A0826D; text-shadow: 0 0 8px #A0826D;'>ترسانة الحيل</b> وأعد بناء <b style='color: #8B7765; text-shadow: 0 0 8px #8B7765;'>مكانتك الأسطورية</b> بينما <b style='color: #DEB887; text-shadow: 0 0 8px #DEB887;'>تعيد الحرية</b> إلى الشوارع.</div>",
+    "ReleaseDate": "2009",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Skate%202%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Skate%202%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Skate%202%20Trailer.mp4",
@@ -145447,8 +145608,12 @@
     "PlatformNames": [
       "Sony PlayStation 3"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Sports"
+    ],
+    "DeveloperNames": [
+      "EA Black Box"
+    ],
     "downloadInfo": {
       "Sony PlayStation 3": {
         "versions": [
@@ -145465,16 +145630,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 30
   },
   {
     "_id": "game_1769596659600_2",
     "Name": "Skate 3",
     "SortingName": "Skate 03",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Meet <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>The Legend</b>, a skater with a grand ambition to build a <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>championship skateboarding team</b> in the progressive city of <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>Port Carverton</b>.<br> After an embarrassing failure attempting to <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>Jump The Shark</b>, redirect your ambitions toward conquering the <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>skateboarding industry</b> with an audacious goal: sell <b style='color: #8B7355; text-shadow: 0 0 8px #8B7355;'>one million boards</b>.<br> Recruit talented <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>skaters</b> to your <b style='color: #A0826D; text-shadow: 0 0 8px #A0826D;'>team</b>, lead them through intense <b style='color: #8B7765; text-shadow: 0 0 8px #8B7765;'>competitions</b>, and expand your <b style='color: #DEB887; text-shadow: 0 0 8px #DEB887;'>trick repertoire</b>.<br> Build your own <b style='color: #D2B48C; text-shadow: 0 0 8px #D2B48C;'>custom skateparks</b> and design <b style='color: #BC8F8F; text-shadow: 0 0 8px #BC8F8F;'>unique skate spots</b> where anything is possible.<br> Navigate challenges in both <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>Easy and Hardcore modes</b>, transforming a failed shark jumper into a skateboarding <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>empire builder</b>.",
+    "DescriptionArabic": "<div dir='rtl'>تقابل <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>الأسطورة</b>، متزحلق لديه طموح كبير لبناء <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>فريق تزحلق بطل</b> في مدينة <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>بورت كارفيرتون</b> التقدمية.<br> بعد فشل محرج في محاولة <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>قفز القرش</b>، أعد تصحيح طموحاتك نحو الفتح في <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>صناعة التزحلق</b> بهدف جريء: بيع <b style='color: #8B7355; text-shadow: 0 0 8px #8B7355;'>مليون لوح</b>.<br> استقطب <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>متزحلقين</b> موهوبين إلى <b style='color: #A0826D; text-shadow: 0 0 8px #A0826D;'>فريقك</b>، قودهم عبر <b style='color: #8B7765; text-shadow: 0 0 8px #8B7765;'>مسابقات شديدة</b>، وسع <b style='color: #DEB887; text-shadow: 0 0 8px #DEB887;'>مجموعة الحيل</b>.<br> بناء <b style='color: #D2B48C; text-shadow: 0 0 8px #D2B48C;'>حدائق تزحلق مخصصة</b> و <b style='color: #BC8F8F; text-shadow: 0 0 8px #BC8F8F;'>تصميم مناطق تزحلق فريدة</b> حيث كل شيء ممكن.<br> تنقل عبر التحديات في كل من <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>أوضاع سهلة وقاسية</b>، تحويل متزحلق فاشل في قفز القرش إلى <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>صاحب إمبراطورية تزحلق</b>.</div>",
+    "ReleaseDate": "2010",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Skate%203%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Skate%203%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Skate%203%20Trailer.mp4",
@@ -145484,8 +145650,12 @@
     "PlatformNames": [
       "Sony PlayStation 3"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Sports"
+    ],
+    "DeveloperNames": [
+      "EA Black Box"
+    ],
     "downloadInfo": {
       "Sony PlayStation 3": {
         "versions": [
@@ -145506,16 +145676,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 10
   },
   {
     "_id": "game_1769609393260_0",
     "Name": "WWE 2K25",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Create your own <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>superstar</b> and journey through <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>WWE glory</b> in the compelling <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>MyRISE</b> story mode.<br> Start as an <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>unknown competitor</b> and climb the ranks, forging <b style='color: #CD5C5C; text-shadow: 0 0 8px #CD5C5C;'>alliances and rivalries</b> with legendary <b style='color: #F08080; text-shadow: 0 0 8px #F08080;'>WWE Superstars</b>.<br> Alternatively, explore <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>The Bloodline</b> dynasty through an immersive <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Showcase mode</b>, experiencing the <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Anoaʻi family</b> legacy with <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>Roman Reigns</b>, <b style='color: #CD5C5C; text-shadow: 0 0 8px #CD5C5C;'>The Rock</b>, and wrestling icons.<br> Master the new <b style='color: #F08080; text-shadow: 0 0 8px #F08080;'>Giant wrestler class</b> with unique mechanics, engage in <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>intense multi-gender matches</b>, and dominate revolutionary <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>gimmick matches</b>.<br> Rise to become a <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>WWE Champion</b> and cement your place in <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>wrestling immortality</b>.",
+    "DescriptionArabic": "<div dir='rtl'>أنشئ <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>نجماً خاصاً</b> بك وقم برحلة عبر <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>مجد WWE</b> في وضع قصة <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>MyRISE</b> المقنع.<br> ابدأ كـ <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>متنافس مجهول</b> وتسلق الرتب، وشكل <b style='color: #CD5C5C; text-shadow: 0 0 8px #CD5C5C;'>التحالفات والعداوات</b> مع <b style='color: #F08080; text-shadow: 0 0 8px #F08080;'>نجوم WWE الأسطوريين</b>.<br> وبدلاً من ذلك، اكتشف <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>عائلة The Bloodline</b> من خلال وضع <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Showcase</b> المنغمس، واختبر إرث عائلة <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Anoaʻi</b> مع <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>Roman Reigns</b> و <b style='color: #CD5C5C; text-shadow: 0 0 8px #CD5C5C;'>The Rock</b>.<br> أتقن فئة <b style='color: #F08080; text-shadow: 0 0 8px #F08080;'>مصارع جيانت</b> الجديدة بآليات فريدة، وشارك في <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>مباريات متعددة الجنسين مكثفة</b>، وهيمن على <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>مباريات خدعة</b> ثورية.<br> ارتفع لتصبح <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>بطل WWE</b> وأرسخ مكانك في <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الخلود الرياضي</b>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/WWE%202K25%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/WWE%202K25%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/WWE%202K25%20Trailer.mp4",
@@ -145525,8 +145696,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Sports"
+    ],
+    "DeveloperNames": [
+      "Visual Concepts"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -145543,16 +145718,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 5
   },
   {
     "_id": "game_1769621092805_0",
     "Name": "Kururin Squash!",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Control <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Kururin</b> through <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>challenging maze courses</b> with his spinning <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>Helicompter-like stick</b> after his siblings are captured.<br> <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Professor Isogashima</b> and his <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>robot army</b> stand in your way as you navigate <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>intricate puzzles</b> and <b style='color: #CD5C5C; text-shadow: 0 0 8px #CD5C5C;'>obstacles</b> to rescue them.<br> Discover <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>water levels with submarines</b>, wield <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>powerful weapons</b> including <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>guns and boxing gloves</b>, and master <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>bounce pads</b> that alter your trajectory.<br> Engage in <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>epic boss battles</b> and unlock <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>multiplayer modes</b> featuring four-player split-screen chaos.<br> Experience a <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>unique cardboard puppet art style</b> and <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>vibrant 3D environments</b>.",
+    "DescriptionArabic": "<div dir='rtl'>السيطرة على <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>كورورين</b> عبر <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>دورات متاهة صعبة</b> مع <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>عصاه الهليكوبتر الدوارة</b> بعد اختطاف إخوته.<br> <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>البروفيسور إيسوجاشيما</b> و <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>جيشه الروبوتي</b> يقفان في طريقك بينما تتنقل عبر <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>ألغاز معقدة</b> و <b style='color: #CD5C5C; text-shadow: 0 0 8px #CD5C5C;'>عقبات</b>.<br> اكتشف <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>مستويات مائية مع الغواصات</b>، واستخدم <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>أسلحة قوية</b> بما في ذلك <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>الأسلحة وقفازات الملاكمة</b>، واتقن <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>الوسائد الارتدادية</b>.<br> اشترك في <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>معارك زعيم ملحمية</b> وفتح <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>أوضاع متعددة اللاعبين</b>.<br> اختبر <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>أسلوب فني فريد من نوعه من الدمى الورقية</b> و <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>بيئات ثلاثية الأبعاد نابضة بالحياة</b>.</div>",
+    "ReleaseDate": "2004",
+    "CriticScore": 60,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Kururin%20Squash!%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Kururin%20Squash!%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Kururin%20Squash!%20Trailer.mp4",
@@ -145562,8 +145738,12 @@
     "PlatformNames": [
       "Nintendo GameCube"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Puzzle"
+    ],
+    "DeveloperNames": [
+      "Eighting"
+    ],
     "downloadInfo": {
       "Nintendo GameCube": {
         "versions": [
@@ -145581,14 +145761,15 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 5
   },
   {
     "_id": "game_1769622254226_0",
     "Name": "MineMogul",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
+    "Description": "Become the ultimate <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>mining tycoon</b> by excavating resources from <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>underground caverns</b> and building massive interconnected <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>factory systems</b>.<br> Design and construct intricate <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>production chains</b> using realistic <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>physics-based mechanics</b> where every resource tumbles and flows authentically.<br> Wind <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>conveyor belts</b> through twisting <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>mineshafts</b>, connect specialized <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>machinery</b>, and harness chaos through <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>automation</b>.<br> Mine diverse <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ores and resources</b>, purchase advanced <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>equipment</b>, and optimize your <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>mining operations</b> for maximum profit.<br> Discover <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>ancient mysteries</b> and rebuild among <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>forgotten facilities</b> while mastering physics-driven factory building.",
+    "DescriptionArabic": "<div dir='rtl'>كن <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ملك التعدين</b> النهائي بعن طريق استخراج الموارد من <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>الكهوف تحت الأرض</b> وبناء <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>أنظمة مصانع</b> ضخمة.<br> صمم وشيّد <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>سلاسل إنتاج</b> معقدة باستخدام <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>الميكانيكا القائمة على الفيزياء</b> الواقعية.<br> لف <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>أحزمة ناقلة</b> عبر <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>أنفاق معقدة</b>، وصل <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>الآلات المتخصصة</b>، وسيطر على الفوضى من خلال <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الأتمتة</b>.<br> احفر <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الخام والموارد</b> المتنوعة، اشترِ <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>معدات متقدمة</b>، وحسّن <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>عمليات التعدين</b>.<br> اكتشف <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>الألغاز القديمة</b> وأعد البناء بين <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>المنشآت المنسية</b>.</div>",
     "ReleaseDate": null,
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/MineMogul%20Background.jpg",
@@ -147950,5 +148131,81 @@
     "Tags": [
       "Hide"
     ]
+  },
+  {
+    "_id": "game_1770015267740_0",
+    "Name": "Octopath Traveler 0",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Octopath%20Traveler%200%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Octopath%20Traveler%200%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Octopath%20Traveler%200%20Trailer.mp4",
+    "videoStart": 3.9,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Octopath%20Traveler%200%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo Switch"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Switch": {
+        "versions": [
+          {
+            "identifier": "E0701",
+            "name": "Vanilla",
+            "platform": "Nintendo Switch",
+            "fileSize": "4 GB",
+            "filename": "Octopath Traveler 0.xci",
+            "filenames": [
+              "Octopath Traveler 0.xci"
+            ],
+            "romFile": "Octopath Traveler 0.xci",
+            "emulator": "Citron",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770015267740_1",
+    "Name": "Pokemon Legends Z A",
+    "SortingName": "Pokemon 22.23",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Pokemon%20Legends%20Z%20A%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Pokemon%20Legends%20Z%20A%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Pokemon%20Legends%20Z%20A%20Trailer.mp4",
+    "videoStart": 1.8,
+    "videoEnd": 253.986984,
+    "MusicUrl": "https://archive.org/download/RPRM001/Pokemon%20Legends%20Z%20A%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo Switch"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Switch": {
+        "versions": [
+          {
+            "identifier": "E0701",
+            "name": "Vanilla",
+            "platform": "Nintendo Switch",
+            "fileSize": "5 GB",
+            "romFile": "Pokémon Legends Z A.nsp",
+            "emulator": "Citron",
+            "arguments": [],
+            "buildID": "2.0.0",
+            "filename": "Pokémon Legends Z A.nsp"
+          }
+        ]
+      }
+    }
   }
 ]
