@@ -10472,5 +10472,150 @@
         "fileSize": "647.1 MB"
       }
     ]
+  },
+  {
+    "_id": "book_1770086150298_0",
+    "Title": "Sabriel",
+    "Series": "Old Kingdom",
+    "SortingTitle": "Old Kingdom 01",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/Sabriel%20Cover.jpg",
+    "Genre": [],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00331.epub",
+        "fileSize": "357.6 KB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00331.mp3",
+        "fileSize": "147.4 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1770086150298_1",
+    "Title": "Lirael",
+    "Series": "Old Kingdom",
+    "SortingTitle": "Old Kingdom 02",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/Lirael%20Cover.jpg",
+    "Genre": [],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00332.epub",
+        "fileSize": "474.4 KB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00332.mp3",
+        "fileSize": "202.6 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1770086150298_2",
+    "Title": "Abhorsen",
+    "Series": "Old Kingdom",
+    "SortingTitle": "Old Kingdom 03",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/Abhorsen%20Cover.jpg",
+    "Genre": [],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00333.epub",
+        "fileSize": "350.6 KB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00333.mp3",
+        "fileSize": "154.4 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1770086150298_3",
+    "Title": "Clariel",
+    "Series": "Old Kingdom",
+    "SortingTitle": "Old Kingdom 04",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/Clariel%20Cover.jpg",
+    "Genre": [],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00334.epub",
+        "fileSize": "1.6 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00334.mp3",
+        "fileSize": "163.8 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1770086150298_4",
+    "Title": "Goldenhand",
+    "Series": "Old Kingdom",
+    "SortingTitle": "Old Kingdom 05",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/Goldenhand%20Cover.jpg",
+    "Genre": [],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00335.epub",
+        "fileSize": "2.6 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00335.mp3",
+        "fileSize": "314.7 MB"
+      }
+    ]
   }
 ]
