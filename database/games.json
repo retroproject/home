@@ -51723,20 +51723,20 @@
       "Role-Playing"
     ],
     "DeveloperNames": [
-      "Aspyr Media",
       "Obsidian Entertainment"
     ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC44",
+            "identifier": "RPRP012",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "8GB",
+            "fileSize": "35GB",
             "arguments": [],
             "executable": "nwn2.exe",
-            "filename": "Neverwinter Nights 2.zip"
+            "buildID": "2 February 2026",
+            "filename": "00393.zip"
           }
         ]
       }
@@ -114463,13 +114463,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC29",
+            "identifier": "RPRP012",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "56GB",
             "arguments": [],
             "executable": "re4.exe",
-            "filename": "Resident Evil 4 Remake.zip"
+            "buildID": "3 February 2026",
+            "filename": "00394.zip"
           }
         ]
       }
@@ -148146,19 +148147,6 @@
     ],
     "GenreNames": [],
     "DeveloperNames": [],
-    "downloadInfo": {
-      "PC Game": {
-        "versions": [
-          {
-            "identifier": "RPRP012",
-            "name": "Vanilla",
-            "platform": "PC Game",
-            "fileSize": "63 GB",
-            "arguments": []
-          }
-        ]
-      }
-    },
     "Tags": [
       "Hide",
       "Has Issues"
@@ -148274,6 +148262,114 @@
             "romFile": "DRAGON QUEST VII Reimagined.nsp",
             "emulator": "Citron",
             "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770144778164_0",
+    "Name": "Fear The Timeloop",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Fear%20The%20Timeloop%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Fear%20The%20Timeloop%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Fear%20The%20Timeloop%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "20 GB",
+            "executable": "FearTheTimeloop.exe",
+            "arguments": [],
+            "buildID": "3 February 2026",
+            "filename": "00395.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770144778164_1",
+    "Name": "Sworn",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Sworn%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Sworn%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Sworn%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "6 GB",
+            "arguments": [],
+            "buildID": "2 February 2026",
+            "executable": "SWORN.exe",
+            "filename": "00396.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770144778164_2",
+    "Name": "Wolfstride",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Wolfstride%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Wolfstride%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Wolfstride%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "arguments": [],
+            "buildID": "29 August 2022",
+            "executable": "Wolfstride.exe",
+            "filename": "00397.zip"
           }
         ]
       }
