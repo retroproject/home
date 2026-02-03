@@ -120781,12 +120781,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC43",
-            "filename": "FANTASY LIFE i The Girl Who Steals Time.zip",
+            "identifier": "RPRP012",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "NFL1.exe",
-            "fileSize": "11GB"
+            "fileSize": "11GB",
+            "buildID": "13 January 2026",
+            "filename": "00392.zip"
           }
         ]
       }
@@ -144547,10 +144548,10 @@
     "_id": "game_1769506697563_3",
     "Name": "In Sound Mind",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "<b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Dr. Desmond Wales</b> awakens in a <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>decaying building</b> with <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>fractured memories</b> and overwhelming dread consuming his mind.<br>Through <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>haunted tape recordings</b>, he enters the <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>twisted psyches</b> of former patients consumed by <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>experimental chemicals</b> in the cursed town of <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Milton Haven</b>.<br>Each victim's fears manifest as <b style='color: #191970; text-shadow: 0 0 8px #191970;'>nightmarish dimensions</b> where <b style='color: #696969; text-shadow: 0 0 8px #696969;'>shadow creatures</b> hunt relentlessly without mercy.<br><b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>Virginia</b>'s shattered reflection stalks through <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>cursed mirrors</b> while the sinister <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Agent Rainbow</b> embodies all of Desmond's crushing <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>self-doubt</b>.<br>With only <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Tonia</b>, a spectral cat companion, this tormented therapist must confront the horrors born from <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>failed therapy sessions</b> and uncover the devastating truth.",
+    "DescriptionArabic": "<div dir='rtl'>يستيقظ <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الدكتور ديزموند ويلز</b> في <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>مبنى متهالك</b> مع <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>ذكريات محطمة</b> ورهبة طاغية تلتهم عقله.<br>عبر <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>تسجيلات مسكونة</b>، يدخل إلى <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>النفوس الملتوية</b> لمرضاه السابقين الذين استهلكتهم <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>المواد الكيميائية التجريبية</b> في بلدة <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>ميلتون هيفن</b> الملعونة.<br>تتجسد مخاوف كل ضحية في <b style='color: #191970; text-shadow: 0 0 8px #191970;'>أبعاد كابوسية</b> حيث تصطاد <b style='color: #696969; text-shadow: 0 0 8px #696969;'>مخلوقات الظل</b> بلا رحمة.<br>انعكاس <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>فيرجينيا</b> المحطم يتربص عبر <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>المرايا الملعونة</b> بينما يجسد <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>العميل قوس قزح</b> الشرير كل <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>شكوك ديزموند</b> الساحقة.<br>برفقة <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>تونيا</b> فقط، قطة شبحية، يجب على هذا المعالج المعذب مواجهة الرعب المولود من <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>جلسات العلاج الفاشلة</b> وكشف الحقيقة المدمرة.</div>",
+    "ReleaseDate": "2021",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/In%20Sound%20Mind%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/In%20Sound%20Mind%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/In%20Sound%20Mind%20Trailer.mp4",
@@ -144560,8 +144561,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "We Create Stuff"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -144578,7 +144583,8 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 15
   },
   {
     "_id": "game_1769506697563_4",
@@ -145941,10 +145947,10 @@
     "_id": "game_1769707312746_0",
     "Name": "Slots and Daggers",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "The <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>reels of fate</b> spin as you embark on a whimsical crusade against the vile <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Lord Slothor</b>.<br>Each pull of the <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>slot machine</b> summons <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>weapons</b>, <b style='color: #708090; text-shadow: 0 0 8px #708090;'>shields</b>, and <b style='color: #DA70D6; text-shadow: 0 0 8px #DA70D6;'>mystical symbols</b> that determine your combat prowess.<br>Land matching icons to unleash devastating <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>critical hits</b> upon <b style='color: #556B2F; text-shadow: 0 0 8px #556B2F;'>grotesque monsters</b> lurking across <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>corrupted lands</b>.<br>Earn <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>shimmering tokens</b> from victorious spins to upgrade your gear and unlock <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>powerful abilities</b>.<br>Strategic mastery determines survival as you grow from <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>rusty daggers</b> to <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>legendary blades</b>.<br>This addictive fusion delivers endless <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>roguelite thrills</b> where every spin could mean triumph or doom.",
+    "DescriptionArabic": "<div dir='rtl'>تدور <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>بكرات القدر</b> بينما تنطلق في حملة غريبة ضد <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>اللورد سلوثور</b> الشرير.<br>كل سحبة من <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>آلة السلوت</b> تستدعي <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>الأسلحة</b> و<b style='color: #708090; text-shadow: 0 0 8px #708090;'>الدروع</b> و<b style='color: #DA70D6; text-shadow: 0 0 8px #DA70D6;'>الرموز السحرية</b> التي تحدد براعتك القتالية.<br>حقق تطابق الرموز لإطلاق <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>ضربات حاسمة</b> مدمرة على <b style='color: #556B2F; text-shadow: 0 0 8px #556B2F;'>الوحوش البشعة</b> الكامنة عبر <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>الأراضي الفاسدة</b>.<br>اكسب <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>الرموز اللامعة</b> من الدورات المنتصرة لترقية عتادك وفتح <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>قدرات قوية</b>.<br>الإتقان الاستراتيجي يحدد البقاء وأنت تنمو من <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>الخناجر الصدئة</b> إلى <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>النصال الأسطورية</b>.<br>هذا المزيج الإدماني يقدم <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>متعة روجلايت</b> لا نهائية حيث كل دورة قد تعني النصر أو الهلاك.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Slots%20and%20Daggers%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Slots%20and%20Daggers%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Slots%20and%20Daggers%20Trailer.mp4",
@@ -145954,8 +145960,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "Friedemann"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -145971,7 +145981,8 @@
           }
         ]
       }
-    }
+    },
+    "Length": 5
   },
   {
     "_id": "game_1769731797931_0",
