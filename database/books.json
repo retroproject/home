@@ -10348,5 +10348,129 @@
         "fileSize": "1.2 GB"
       }
     ]
+  },
+  {
+    "_id": "book_1770082225074_0",
+    "Title": "Between Two Fires",
+    "Series": "Between Two Fires",
+    "SortingTitle": "Between Two Fires 01",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/Between%20Two%20Fires%20Cover.jpg",
+    "Genre": [],
+    "Tags": [
+      "English Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00327.epub",
+        "fileSize": "417.6 KB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00327.mp3",
+        "fileSize": "396.5 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1770083448012_0",
+    "Title": "The Lies of Locke Lamora",
+    "Series": "The Lies of Locke Lamora",
+    "SortingTitle": "The Lies of Locke Lamora 01",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Lies%20of%20Locke%20Lamora%20Cover.jpg",
+    "Genre": [],
+    "Tags": [
+      "English Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00328.epub",
+        "fileSize": "612.4 KB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00328.m4b",
+        "fileSize": "600 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1770083448012_1",
+    "Title": "Red Seas Under Red Skies",
+    "Series": "The Lies of Locke Lamora",
+    "SortingTitle": "The Lies of Locke Lamora 02",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Lies%20of%20Locke%20Lamora%20Cover.jpg",
+    "Genre": [],
+    "Tags": [
+      "English Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00329.epub",
+        "fileSize": "544.1 KB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00329.m4b",
+        "fileSize": "697.4 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1770083448012_2",
+    "Title": "The Republic of Thieves",
+    "Series": "The Lies of Locke Lamora",
+    "SortingTitle": "The Lies of Locke Lamora 03",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Lies%20of%20Locke%20Lamora%20Cover.jpg",
+    "Genre": [],
+    "Tags": [
+      "English Novels"
+    ],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00330.epub",
+        "fileSize": "2.6 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00330.m4b",
+        "fileSize": "647.1 MB"
+      }
+    ]
   }
 ]
