@@ -148227,5 +148227,44 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1770082597657_0",
+    "Name": "DRAGON QUEST VII Reimagined",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/DRAGON%20QUEST%20VII%20Reimagined%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/DRAGON%20QUEST%20VII%20Reimagined%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/DRAGON%20QUEST%20VII%20Reimagined%20Trailer.mp4",
+    "videoStart": 7.313018,
+    "videoEnd": 121.1,
+    "MusicUrl": "https://archive.org/download/RPRM001/DRAGON%20QUEST%20VII%20Reimagined%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo Switch"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Switch": {
+        "versions": [
+          {
+            "identifier": "E0701",
+            "name": "Vanilla",
+            "platform": "Nintendo Switch",
+            "fileSize": "5 GB",
+            "filename": "DRAGON QUEST VII Reimagined.nsp",
+            "filenames": [
+              "DRAGON QUEST VII Reimagined.nsp"
+            ],
+            "romFile": "DRAGON QUEST VII Reimagined.nsp",
+            "emulator": "Citron",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
