@@ -10627,5 +10627,295 @@
         "fileSize": "314.7 MB"
       }
     ]
+  },
+  {
+    "_id": "book_1770111729081_0",
+    "Title": "Gardens of the Moon",
+    "Series": "The Malazan Book of the Fallen",
+    "SortingTitle": "The Malazan Book of the Fallen 01",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/Gardens%20of%20the%20Moon%20Cover.jpg",
+    "Genre": [],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00336.epub",
+        "fileSize": "1.4 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00336.m4b",
+        "fileSize": "710 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1770111729081_1",
+    "Title": "Deadhouse Gates",
+    "Series": "The Malazan Book of the Fallen",
+    "SortingTitle": "The Malazan Book of the Fallen 02",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/Deadhouse%20Gates%20Cover.jpg",
+    "Genre": [],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00337.epub",
+        "fileSize": "1.3 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00337.m4b",
+        "fileSize": "928.9 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1770111729081_2",
+    "Title": "Memories of Ice",
+    "Series": "The Malazan Book of the Fallen",
+    "SortingTitle": "The Malazan Book of the Fallen 03",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/Memories%20of%20Ice%20Cover.jpg",
+    "Genre": [],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00338.epub",
+        "fileSize": "1 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00338.m4b",
+        "fileSize": "1.2 GB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1770111729081_3",
+    "Title": "House of Chains",
+    "Series": "The Malazan Book of the Fallen",
+    "SortingTitle": "The Malazan Book of the Fallen 04",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/House%20of%20Chains%20Cover.jpg",
+    "Genre": [],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00339.epub",
+        "fileSize": "2.2 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00339.m4b",
+        "fileSize": "956.1 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1770111729081_4",
+    "Title": "Midnight Tides",
+    "Series": "The Malazan Book of the Fallen",
+    "SortingTitle": "The Malazan Book of the Fallen 05",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/Midnight%20Tides%20Cover.jpg",
+    "Genre": [],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00340.epub",
+        "fileSize": "1.1 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00340.m4b",
+        "fileSize": "846.7 MB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1770111729081_5",
+    "Title": "The Bonehunters",
+    "Series": "The Malazan Book of the Fallen",
+    "SortingTitle": "The Malazan Book of the Fallen 06",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Bonehunters%20Cover.jpg",
+    "Genre": [],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00341.epub",
+        "fileSize": "933.5 KB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00341.m4b",
+        "fileSize": "1.1 GB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1770111729081_6",
+    "Title": "Reaper's Gale",
+    "Series": "The Malazan Book of the Fallen",
+    "SortingTitle": "The Malazan Book of the Fallen 07",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/Reaper's%20Gale%20Cover.jpg",
+    "Genre": [],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00342.epub",
+        "fileSize": "1.1 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00342.m4b",
+        "fileSize": "1.2 GB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1770111729081_7",
+    "Title": "Toll the Hounds",
+    "Series": "The Malazan Book of the Fallen",
+    "SortingTitle": "The Malazan Book of the Fallen 08",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/Toll%20the%20Hounds%20Cover.jpg",
+    "Genre": [],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00343.epub",
+        "fileSize": "1.1 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00343.m4b",
+        "fileSize": "1.2 GB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1770111729081_8",
+    "Title": "Dust of Dreams",
+    "Series": "The Malazan Book of the Fallen",
+    "SortingTitle": "The Malazan Book of the Fallen 09",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/Dust%20of%20Dreams%20Cover.jpg",
+    "Genre": [],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00344.epub",
+        "fileSize": "996.9 KB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00344.m4b",
+        "fileSize": "1.2 GB"
+      }
+    ]
+  },
+  {
+    "_id": "book_1770111729081_9",
+    "Title": "The Crippled God",
+    "Series": "The Malazan Book of the Fallen",
+    "SortingTitle": "The Malazan Book of the Fallen 10",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Crippled%20God%20Cover.jpg",
+    "Genre": [],
+    "Tags": [],
+    "booksUrl": [
+      {
+        "format": "EPUB",
+        "identifier": "RBRB001",
+        "filename": "00345.epub",
+        "fileSize": "1.1 MB"
+      }
+    ],
+    "audiobooksUrl": [
+      {
+        "narrator": "",
+        "identifier": "RBRB001",
+        "filename": "00345.m4b",
+        "fileSize": "1.2 GB"
+      }
+    ]
   }
 ]
