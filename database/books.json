@@ -10484,7 +10484,9 @@
     "ReleaseDate": "",
     "CoverUrl": "https://archive.org/download/RPRM001/Sabriel%20Cover.jpg",
     "Genre": [],
-    "Tags": [],
+    "Tags": [
+      "English Novels"
+    ],
     "booksUrl": [
       {
         "format": "EPUB",
@@ -10513,7 +10515,9 @@
     "ReleaseDate": "",
     "CoverUrl": "https://archive.org/download/RPRM001/Lirael%20Cover.jpg",
     "Genre": [],
-    "Tags": [],
+    "Tags": [
+      "English Novels"
+    ],
     "booksUrl": [
       {
         "format": "EPUB",
@@ -10542,7 +10546,9 @@
     "ReleaseDate": "",
     "CoverUrl": "https://archive.org/download/RPRM001/Abhorsen%20Cover.jpg",
     "Genre": [],
-    "Tags": [],
+    "Tags": [
+      "English Novels"
+    ],
     "booksUrl": [
       {
         "format": "EPUB",
@@ -10571,7 +10577,9 @@
     "ReleaseDate": "",
     "CoverUrl": "https://archive.org/download/RPRM001/Clariel%20Cover.jpg",
     "Genre": [],
-    "Tags": [],
+    "Tags": [
+      "English Novels"
+    ],
     "booksUrl": [
       {
         "format": "EPUB",
@@ -10600,7 +10608,9 @@
     "ReleaseDate": "",
     "CoverUrl": "https://archive.org/download/RPRM001/Goldenhand%20Cover.jpg",
     "Genre": [],
-    "Tags": [],
+    "Tags": [
+      "English Novels"
+    ],
     "booksUrl": [
       {
         "format": "EPUB",
