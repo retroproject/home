@@ -148277,9 +148277,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Fear%20The%20Timeloop%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Fear%20The%20Timeloop%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Fear%20The%20Timeloop%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 97.1,
     "MusicUrl": "https://archive.org/download/RPRM001/Fear%20The%20Timeloop%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -148313,9 +148313,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Sworn%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Sworn%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Sworn%20Trailer.mp4",
+    "videoStart": 2.6,
+    "videoEnd": 92.8,
     "MusicUrl": "https://archive.org/download/RPRM001/Sworn%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -148349,9 +148349,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Wolfstride%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Wolfstride%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Wolfstride%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 48.4,
     "MusicUrl": "https://archive.org/download/RPRM001/Wolfstride%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -148374,5 +148374,28 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1770187316041_0",
+    "Name": "Digimon Story Time Stranger",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Digimon%20Story%20Time%20Stranger%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Digimon%20Story%20Time%20Stranger%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Digimon%20Story%20Time%20Stranger%20Trailer.mp4",
+    "videoStart": 5.5,
+    "videoEnd": 228.808738,
+    "MusicUrl": "https://archive.org/download/RPRM001/Digimon%20Story%20Time%20Stranger%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
