@@ -148474,5 +148474,44 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1770244748724_0",
+    "Name": "Blade Dancer Lineage of Light",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Blade%20Dancer%20Lineage%20of%20Light%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Blade%20Dancer%20Lineage%20of%20Light%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Blade%20Dancer%20Lineage%20of%20Light%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Blade%20Dancer%20Lineage%20of%20Light%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation Portable"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation Portable": {
+        "versions": [
+          {
+            "identifier": "retro-psp",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation Portable",
+            "fileSize": "380 MB",
+            "filename": "Blade Dancer Lineage of Light.iso",
+            "filenames": [
+              "Blade Dancer Lineage of Light.iso"
+            ],
+            "romFile": "Blade Dancer Lineage of Light.iso",
+            "emulator": "PPSSPP",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
