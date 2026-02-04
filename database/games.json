@@ -127349,7 +127349,7 @@
     "_id": "f4472e3c-6b64-4e8a-8f1e-107336f3f313",
     "GameId": "6574a929-e344-40ba-9e48-e8e285217aa3",
     "Name": "Tales of Phantasia",
-    "SortingName": "Tales of 01",
+    "SortingName": "Tales of 01.01",
     "Description": "<span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Flames consume</span> the peaceful village of <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>Toltus</span> as young <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Cress Alvein</span> witnesses the destruction of everything he holds dear at the hands of the dark sorcerer <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>Dhaos</span>.<br>Thrust across time itself by ancient <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>elven magic</span>, he must gather heroes from different eras including the half-elf mage <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>Arche Klein</span> and the mysterious summoner <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Klarth</span>.<br>Journey through past, present, and future to uncover <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Dhaos's true motives</span> while mastering the revolutionary <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>Linear Motion Battle System</span> that brings <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>real-time strategy</span> to traditional RPG combat.<br>Discover that the line between <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>hero</span> and <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>villain</span> blurs when <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>environmental destruction</span> threatens not just one world, but the fabric of <span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>time itself</span>.",
     "DescriptionArabic": "<div dir='rtl'>تلتهم <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>النيران</span> قرية <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>تولتوس</span> المسالمة بينما يشهد <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>كريس ألفين</span> الشاب تدمير كل ما يحبه على يد الساحر المظلم <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>ضاوس</span>.<br>مدفوعاً عبر الزمن نفسه بواسطة <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>السحر الجني</span> القديم، عليه أن يجمع أبطالاً من عصور مختلفة بما في ذلك الساحرة نصف الجنية <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>أرش كلاين</span> والمستدعي الغامض <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>كلارث</span>.<br>ارحل عبر الماضي والحاضر والمستقبل لكشف <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>دوافع ضاوس الحقيقية</span> أثناء إتقان <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>نظام المعركة الخطية</span> الثوري الذي يجلب <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>الاستراتيجية الفورية</span> لقتال آر بي جي التقليدي.<br>اكتشف أن الخط بين <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>البطل</span> و<span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>الشرير</span> يتضبب عندما يهدد <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>التدمير البيئي</span> ليس فقط عالماً واحداً، بل نسيج <span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>الزمن نفسه</span>.</div>",
     "ReleaseDate": "1995-12-15",
@@ -148315,8 +148315,8 @@
     "BackgroundUrl": "https://archive.org/download/RPRM001/Sworn%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Sworn%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Sworn%20Trailer.mp4",
-    "videoStart": 2.6,
-    "videoEnd": 92.8,
+    "videoStart": null,
+    "videoEnd": null,
     "MusicUrl": "https://archive.org/download/RPRM001/Sworn%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -148389,8 +148389,8 @@
     "BackgroundUrl": "https://archive.org/download/RPRM001/Digimon%20Story%20Time%20Stranger%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Digimon%20Story%20Time%20Stranger%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Digimon%20Story%20Time%20Stranger%20Trailer.mp4",
-    "videoStart": 5.5,
-    "videoEnd": 228.808738,
+    "videoStart": null,
+    "videoEnd": null,
     "MusicUrl": "https://archive.org/download/RPRM001/Digimon%20Story%20Time%20Stranger%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -148400,5 +148400,81 @@
     "Tags": [
       "Hide"
     ]
+  },
+  {
+    "_id": "game_1770211191473_0",
+    "Name": "Bakemonogatari Portable",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Bakemonogatari%20Portable%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Bakemonogatari%20Portable%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Bakemonogatari%20Portable%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Bakemonogatari%20Portable%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation Portable"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation Portable": {
+        "versions": [
+          {
+            "identifier": "retro-psp",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation Portable",
+            "fileSize": "2 GB",
+            "filename": "Bakemonogatari Portable.iso",
+            "filenames": [
+              "Bakemonogatari Portable.iso"
+            ],
+            "romFile": "Bakemonogatari Portable.iso",
+            "emulator": "PPSSPP",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770211191474_1",
+    "Name": "Tales of Phantasia X",
+    "SortingName": "Tales of 01.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/retrobackgrounds/f2890cb0-a018-458f-9136-02ba3658e0b3.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Tales%20of%20Phantasia%20X%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Tales%20of%20Phantasia%20X%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Tales%20of%20Phantasia%20X%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation Portable"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation Portable": {
+        "versions": [
+          {
+            "identifier": "retro-psp",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation Portable",
+            "fileSize": "340 MB",
+            "filename": "Tales of Phantasia X.iso",
+            "romFile": "Tales of Phantasia X.iso",
+            "emulator": "PPSSPP",
+            "arguments": [],
+            "mods": "English 1.0 LifeBottle"
+          }
+        ]
+      }
+    }
   }
 ]
