@@ -148566,5 +148566,40 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1770303745142_0",
+    "Name": "Kingdoms of the Dump",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Kingdoms%20of%20the%20Dump%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Kingdoms%20of%20the%20Dump%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Kingdoms%20of%20the%20Dump%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Kingdoms%20of%20the%20Dump%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "940 MB",
+            "filename": "Kingdoms of the Dump.zip",
+            "executable": "kingdoms_of_the_dump.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
