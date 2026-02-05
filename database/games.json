@@ -132670,7 +132670,7 @@
             "platform": "PC Game",
             "fileSize": "120GB",
             "arguments": [],
-            "buildID": "20 November 2025",
+            "buildID": "26 January 2026",
             "executable": "MGSDelta.exe",
             "filename": "00002.zip"
           }
@@ -148594,9 +148594,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "940 MB",
-            "filename": "Kingdoms of the Dump.zip",
             "executable": "kingdoms_of_the_dump.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "22 January 2026",
+            "filename": "Kingdoms of the Dump.zip"
           }
         ]
       }
