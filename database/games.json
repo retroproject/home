@@ -84746,13 +84746,27 @@
             "filename": "Resident Evil HD Remaster.zip"
           },
           {
-            "identifier": "CPC41",
-            "name": "English",
+            "identifier": "RPRP012",
+            "name": "English Enhanced",
             "platform": "PC Game",
-            "fileSize": "23GB",
+            "fileSize": "30GB",
             "arguments": [],
-            "executable": "bhd.exe",
-            "filename": "Resident Evil HD Remaster.zip"
+            "buildID": "5 February 2025",
+            "executableFiles": [
+              "bhd.exe",
+              "2K.bat",
+              "4K.bat"
+            ],
+            "mods": [
+              "4K Texture Pack AI-Enhanced",
+              "Retcon Pack (REmaster)"
+            ],
+            "executableLabels": [
+              "Game",
+              "2K Patch",
+              "4K Patch"
+            ],
+            "filename": "00398.zip"
           }
         ]
       }
