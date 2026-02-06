@@ -14666,7 +14666,7 @@
     "CoverImage": "b68cc8af-4674-4c0e-a283-273474c0ca6d",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/2b32dd17-7241-4471-9c58-a6571dc486f3.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/b68cc8af-4674-4c0e-a283-273474c0ca6d",
-    "YouTubeUrl": "https://archive.org/download/RPRV001/Another%20Code%20Recollection%20Trailer.mp4",
+    "YouTubeUrl": "",
     "videoStart": 2.7333333333333334,
     "videoEnd": 159.06666666666666,
     "MusicUrl": "https://archive.org/download/retromusic/1ca88b9e-1ffb-4437-b484-f9062688a0db.mp3",
@@ -47367,7 +47367,7 @@
     "CoverImage": "3ee9bddf-a1d1-48ea-ad76-a71512e80f2a.png",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/5a86f8a1-6744-4b16-b639-0ab434f115d9.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/3ee9bddf-a1d1-48ea-ad76-a71512e80f2a.png",
-    "YouTubeUrl": "https://archive.org/download/RPRM001/Burnout%20Revenge%20Trailer.mp4",
+    "YouTubeUrl": "",
     "videoStart": 2,
     "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/retromusic/600836a3-3584-42b9-8b8f-fc77120818ed.mp3",
@@ -60748,7 +60748,7 @@
     "YouTubeUrl": "https://archive.org/download/RPRM001/Chains%20of%20Freedom%20Trailer.mp4",
     "videoStart": 0,
     "videoEnd": 0,
-    "MusicUrl": "https://archive.org/download/retromusic/77ddb08e-bbdc-43ff-877f-2350abf2c3f1.mp3",
+    "MusicUrl": "",
     "PlatformNames": [
       "PC Game"
     ],
@@ -72400,7 +72400,7 @@
     "YouTubeUrl": "",
     "videoStart": null,
     "videoEnd": null,
-    "MusicUrl": "https://archive.org/download/retromusic/8f17ee26-b83f-416e-98a0-1d1b95c2a4ec.mp3",
+    "MusicUrl": "",
     "PlatformNames": [
       "PC Game"
     ],
@@ -74159,7 +74159,7 @@
     "YouTubeUrl": "",
     "videoStart": null,
     "videoEnd": null,
-    "MusicUrl": "https://archive.org/download/retromusic/9284e3a4-18d2-4831-a566-54413ed96bbe.mp3",
+    "MusicUrl": "",
     "PlatformNames": [
       "PC Game"
     ],
@@ -97366,7 +97366,7 @@
     "YouTubeUrl": "",
     "videoStart": null,
     "videoEnd": null,
-    "MusicUrl": "https://archive.org/download/retromusic/bc8cf6b0-2ad1-46af-8da9-46b24811d62f.mp3",
+    "MusicUrl": "",
     "PlatformNames": [
       "PC Game"
     ],
