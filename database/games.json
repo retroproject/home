@@ -149008,9 +149008,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
-            "filename": "00413.zip",
             "executable": "ANTHEM9.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "30 January 2026",
+            "filename": "00413.zip"
           }
         ]
       }
@@ -149045,10 +149046,11 @@
             "identifier": "RPRP012",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "114 GB",
-            "filename": "00414.zip",
+            "fileSize": "115GB",
             "executable": "Nioh3.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "6 February 2026",
+            "filename": "00414.zip"
           }
         ]
       }
@@ -149084,12 +149086,89 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
-            "filename": "00415.zip",
             "executable": "jackal.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "6 February 2026",
+            "filename": "00415.zip"
           }
         ]
       }
     }
+  },
+  {
+    "_id": "game_1770410948168_0",
+    "Name": "Carmageddon Rogue Shift",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Carmageddon%20Rogue%20Shift%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Carmageddon%20Rogue%20Shift%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Carmageddon%20Rogue%20Shift%20Trailer.mp4",
+    "videoStart": 2.2,
+    "videoEnd": 67.535499,
+    "MusicUrl": "https://archive.org/download/RPRM001/Carmageddon%20Rogue%20Shift%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "31 GB",
+            "filename": "00416.zip",
+            "executable": "Carma.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1770410948169_1",
+    "Name": "Super Bomberman Collection",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Super%20Bomberman%20Collection%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Super%20Bomberman%20Collection%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Super%20Bomberman%20Collection%20Trailer.mp4",
+    "videoStart": 4.25232,
+    "videoEnd": 101.932861,
+    "MusicUrl": "https://archive.org/download/RPRM001/Super%20Bomberman%20Collection%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "00417.zip",
+            "executable": "SUPER BOMBERMAN COLLECTION.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
