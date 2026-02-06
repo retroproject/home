@@ -19286,13 +19286,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC12",
+            "identifier": "RPRP012",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2GB",
             "arguments": [],
             "executable": "The Last Spell.exe",
-            "filename": "The Last Spell.zip"
+            "buildID": "5 February 2026",
+            "filename": "00412.zip"
           }
         ]
       }
@@ -148979,5 +148980,78 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1770392016163_0",
+    "Name": "ANTHEM 9",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/ANTHEM%209%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/ANTHEM%209%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/ANTHEM%209%20Trailer.mp4",
+    "videoStart": 1.390574,
+    "videoEnd": 76.138231,
+    "MusicUrl": "https://archive.org/download/RPRM001/ANTHEM%209%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "00413.zip",
+            "executable": "ANTHEM9.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770392016164_1",
+    "Name": "Nioh 3",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Nioh%203%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Nioh%203%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Nioh%203%20Trailer.mp4",
+    "videoStart": 4.4,
+    "videoEnd": 55.022737,
+    "MusicUrl": "https://archive.org/download/RPRM001/Nioh%203%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "114 GB",
+            "filename": "00414.zip",
+            "executable": "Nioh3.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
