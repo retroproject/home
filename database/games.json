@@ -38948,13 +38948,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "COPC04",
+            "identifier": "RPRP012",
             "name": "Online",
             "platform": "PC Game",
             "fileSize": "530MB",
             "arguments": [],
             "executable": "Terraria.exe",
-            "filename": "Terraria.zip"
+            "buildID": "February 3, 2026 [1.4.5.3]",
+            "filename": "00401.zip"
           }
         ]
       }
@@ -139260,10 +139261,10 @@
             "name": "Offline",
             "platform": "PC Game",
             "fileSize": "10 GB",
-            "executable": "EOSAuthLauncher.exe",
+            "executable": "Popucom.exe",
             "arguments": [],
             "buildID": "4 February 2026",
-            "filename": "00203.zip"
+            "filename": "00400.zip"
           }
         ]
       }
@@ -148608,6 +148609,332 @@
             "arguments": [],
             "buildID": "22 January 2026",
             "filename": "00399.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770354181348_0",
+    "Name": "American McGees Alice",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/American%20McGees%20Alice%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/American%20McGees%20Alice%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/American%20McGees%20Alice%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/American%20McGees%20Alice%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Enhanced",
+            "platform": "PC Game",
+            "fileSize": "6 GB",
+            "arguments": [],
+            "executableFiles": [
+              "2000\\alice.exe",
+              "2011\\bin\\alice.bat"
+            ],
+            "executableLabels": [
+              "2000 Version",
+              "2011 Version"
+            ],
+            "mods": [
+              "VorpalFix QOL",
+              "American McGee's Alice HD"
+            ],
+            "filename": "00402.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770354181348_1",
+    "Name": "Carmageddon 2 Carpocalypse Now",
+    "SortingName": "Carmageddon 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Carmageddon%202%20Carpocalypse%20Now%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Carmageddon%202%20Carpocalypse%20Now%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Carmageddon%202%20Carpocalypse%20Now%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Carmageddon%202%20Carpocalypse%20Now%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "320 MB",
+            "filename": "00403.zip",
+            "executable": "carma2.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770354181348_2",
+    "Name": "Carmageddon TDR2K",
+    "SortingName": "Carmageddon 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Carmageddon%20TDR2K%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Carmageddon%20TDR2K%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Carmageddon%20TDR2K%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Carmageddon%20TDR2K%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "550 MB",
+            "filename": "00404.zip",
+            "executable": "TDR2000.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770354181348_3",
+    "Name": "Carmageddon Max Damage",
+    "SortingName": "Carmageddon 03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/CarmageddonMaxDamage%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/CarmageddonMaxDamage%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/CarmageddonMaxDamage%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/CarmageddonMaxDamage%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "12 GB",
+            "filename": "00405.zip",
+            "executable": "bin\\Carmageddon_Max_Damage.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770354181348_4",
+    "Name": "Cultic",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Cultic%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Cultic%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Cultic%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Cultic%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "8 GB",
+            "filename": "00406.zip",
+            "executable": "CULTIC.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770354181348_5",
+    "Name": "Duke Nukem 3D",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Duke%20Nukem%203D%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Duke%20Nukem%203D%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Duke%20Nukem%203D%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Duke%20Nukem%203D%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "00407.zip",
+            "executable": "duke3d.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770354181348_6",
+    "Name": "My Hero Academia Alls Justice",
+    "SortingName": "My Hero Academia 03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/My%20Hero%20Academia%20Alls%20Justice%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/My%20Hero%20Academia%20Alls%20Justice%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/My%20Hero%20Academia%20Alls%20Justice%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/My%20Hero%20Academia%20Alls%20Justice%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "14 GB",
+            "filename": "00408.zip",
+            "executable": "HeroGame\\Binaries\\Win64\\AJGAME.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770354181348_7",
+    "Name": "My Hero One's Justice",
+    "SortingName": "My Hero Academia 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/My%20Hero%20Academia%20Justice%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/My%20Hero%20Academia%20Justice%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/My%20Hero%20Academia%20Justice%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/My%20Hero%20Academia%20Justice%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "12 GB",
+            "filename": "00409.zip",
+            "executable": "HeroGame\\Binaries\\Win64\\MHOJ.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770354181348_8",
+    "Name": "My Hero One's Justice 2",
+    "SortingName": "My Hero Academia 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/My%20Hero%20Academia%20Justice%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/My%20Hero%20Academia%20Justice%202%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/My%20Hero%20Academia%20Justice%202%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/My%20Hero%20Academia%20Justice%202%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "13 GB",
+            "filename": "00410.zip",
+            "executable": "HeroGame\\Binaries\\Win64\\MHOJ2.exe",
+            "arguments": []
           }
         ]
       }
