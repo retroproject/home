@@ -139252,7 +139252,17 @@
             "fileSize": "10 GB",
             "executable": "EOSAuthLauncher.exe",
             "arguments": [],
-            "buildID": "1.0.3",
+            "buildID": "June 16, 2025 [1.0.3]",
+            "filename": "00203.zip"
+          },
+          {
+            "identifier": "RPRP012",
+            "name": "Offline",
+            "platform": "PC Game",
+            "fileSize": "10 GB",
+            "executable": "EOSAuthLauncher.exe",
+            "arguments": [],
+            "buildID": "4 February 2026",
             "filename": "00203.zip"
           }
         ]
@@ -148597,7 +148607,7 @@
             "executable": "kingdoms_of_the_dump.exe",
             "arguments": [],
             "buildID": "22 January 2026",
-            "filename": "Kingdoms of the Dump.zip"
+            "filename": "00399.zip"
           }
         ]
       }
