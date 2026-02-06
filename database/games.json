@@ -149014,12 +149014,15 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Need Music"
+    ]
   },
   {
     "_id": "game_1770392016164_1",
     "Name": "Nioh 3",
-    "SortingName": "",
+    "SortingName": "Nioh 03",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -149053,5 +149056,40 @@
     "Tags": [
       "Hide"
     ]
+  },
+  {
+    "_id": "game_1770398986415_0",
+    "Name": "Jackal",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Jackal%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Jackal%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Jackal%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Jackal%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "00415.zip",
+            "executable": "jackal.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
