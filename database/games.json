@@ -50249,13 +50249,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC13",
+            "identifier": "RPRP012",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "630MB",
             "arguments": [],
             "executable": "unmetal.exe",
-            "filename": "UnMetal.zip"
+            "buildID": "15 December 2021",
+            "filename": "00419.zip"
           }
         ]
       }
@@ -57332,9 +57333,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "70fb5207-c567-4fca-ae56-99de5e9d0f71",
@@ -91130,16 +91129,28 @@
               "-L",
               ".\\cores\\mgba_libretro.dll"
             ],
-            "romFile": "Teenage Mutant Ninja Turtles.gba"
+            "romFile": "Teenage Mutant Ninja Turtles.gba",
+            "filenames": [
+              "Teenage Mutant Ninja Turtles.gba"
+            ],
+            "romFiles": [
+              "Teenage Mutant Ninja Turtles.gba"
+            ]
           },
           {
-            "identifier": "",
+            "identifier": "P0201",
             "filename": "Teenage Mutant Ninja Turtles.iso",
             "platform": "Sony PlayStation 2",
             "name": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "2GB",
-            "romFile": "Teenage Mutant Ninja Turtles.iso"
+            "romFile": "Teenage Mutant Ninja Turtles.iso",
+            "filenames": [
+              "Teenage Mutant Ninja Turtles.iso"
+            ],
+            "romFiles": [
+              "Teenage Mutant Ninja Turtles.iso"
+            ]
           }
         ]
       }
@@ -100395,7 +100406,7 @@
       "Nintendo Game Boy Color": {
         "versions": [
           {
-            "identifier": "",
+            "identifier": "retrod2",
             "name": "Collection",
             "platform": "Nintendo Game Boy Color",
             "emulator": "RetroArch",
@@ -102318,13 +102329,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC12",
+            "identifier": "RPRP012",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "4GB",
             "arguments": [],
             "executable": "JH.exe",
-            "filename": "Wandering Sword.zip"
+            "buildID": "6 February 2026",
+            "filename": "00418.zip"
           }
         ]
       }
