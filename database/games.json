@@ -101904,13 +101904,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC37",
+            "identifier": "RPRP012",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "4GB",
             "arguments": [],
             "executable": "RiftOfTheNecroDancer.exe",
-            "filename": "Rift of the NecroDancer.zip"
+            "buildID": "6 February 2026",
+            "filename": "00420.zip"
           }
         ]
       }
@@ -149249,6 +149250,147 @@
             ],
             "romFile": "Chili Con Carnage.iso",
             "emulator": "PPSSPP",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770544599783_0",
+    "Name": "Deck of Haunts",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Deck%20of%20Haunts%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Deck%20of%20Haunts%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Deck%20of%20Haunts%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Deck%20of%20Haunts%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "00421.zip",
+            "executable": "DeckOfHaunts.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770544599783_1",
+    "Name": "Luma Island",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Luma%20Island%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Luma%20Island%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Luma%20Island%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Luma%20Island%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "filename": "00422.zip",
+            "executable": "Luma Island.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770544599783_2",
+    "Name": "MIO Memories in Orbit",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/MIO%20Memories%20in%20Orbit%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/MIO%20Memories%20in%20Orbit%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/MIO%20Memories%20in%20Orbit%20Trailer.mp4",
+    "videoStart": 3.223265,
+    "videoEnd": 83.41124,
+    "MusicUrl": "https://archive.org/download/RPRM001/MIO%20Memories%20in%20Orbit%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "filename": "00423.zip",
+            "executable": "mio.exe",
+            "buildID": "shader_list",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770544599783_3",
+    "Name": "Shape of Dreams",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Shape%20of%20Dreams%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Shape%20of%20Dreams%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Shape%20of%20Dreams%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 81.463798,
+    "MusicUrl": "https://archive.org/download/RPRM001/Shape%20of%20Dreams%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "11 GB",
+            "filename": "00424.zip",
+            "executable": "Shape of Dreams.exe",
             "arguments": []
           }
         ]
