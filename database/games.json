@@ -149176,5 +149176,83 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1770542769967_0",
+    "Name": "Total Overdose A Gunslinger's Tale in Mexico",
+    "SortingName": "Total Overdose 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Total%20Overdose%20A%20Gunslinger's%20Tale%20in%20Mexico%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Total%20Overdose%20A%20Gunslinger's%20Tale%20in%20Mexico%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Total%20Overdose%20A%20Gunslingers%20Tale%20in%20Mexico%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 109.514394,
+    "MusicUrl": "https://archive.org/download/RPRM001/Total%20Overdose%20A%20Gunslinger's%20Tale%20in%20Mexico%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 2"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "5 GB",
+            "filename": "Total Overdose A Gunslinger's Tale in Mexico.iso",
+            "filenames": [
+              "Total Overdose A Gunslinger's Tale in Mexico.iso"
+            ],
+            "romFile": "Total Overdose A Gunslinger's Tale in Mexico.iso",
+            "emulator": "PCSX2",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770542780329_0",
+    "Name": "Chili Con Carnage",
+    "SortingName": "Total Overdose 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Chili%20Con%20Carnage%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Chili%20Con%20Carnage%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Chili%20Con%20Carnage%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 59.015326,
+    "MusicUrl": "https://archive.org/download/RPRM001/Chili%20Con%20Carnage%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation Portable"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation Portable": {
+        "versions": [
+          {
+            "identifier": "retro-psp",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation Portable",
+            "fileSize": "820 MB",
+            "filename": "Chili Con Carnage.iso",
+            "filenames": [
+              "Chili Con Carnage.iso"
+            ],
+            "romFile": "Chili Con Carnage.iso",
+            "emulator": "PPSSPP",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
