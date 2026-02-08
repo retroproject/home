@@ -149283,9 +149283,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
-            "filename": "00421.zip",
             "executable": "DeckOfHaunts.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "5 February 2026",
+            "filename": "00421.zip"
           }
         ]
       }
@@ -149318,9 +149319,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "7 GB",
-            "filename": "00422.zip",
             "executable": "Luma Island.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "5 February 2026",
+            "filename": "00422.zip"
           }
         ]
       }
@@ -149353,10 +149355,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "4 GB",
-            "filename": "00423.zip",
             "executable": "mio.exe",
-            "buildID": "shader_list",
-            "arguments": []
+            "buildID": "6 February 2026",
+            "arguments": [],
+            "filename": "00423.zip"
           }
         ]
       }
@@ -149370,7 +149372,7 @@
     "DescriptionArabic": "",
     "ReleaseDate": null,
     "CriticScore": null,
-    "BackgroundUrl": "https://archive.org/download/RPRM001/Shape%20of%20Dreams%20Background.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Shape%20of%20Dreams%20Background.jpeg",
     "CoverUrl": "https://archive.org/download/RPRM001/Shape%20of%20Dreams%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Shape%20of%20Dreams%20Trailer.mp4",
     "videoStart": 0,
@@ -149389,9 +149391,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "11 GB",
-            "filename": "00424.zip",
             "executable": "Shape of Dreams.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "17 December 2025",
+            "filename": "00424.zip"
           }
         ]
       }
