@@ -149399,5 +149399,188 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1770624503982_0",
+    "Name": "Age of Empires",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Age%20of%20Empires%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Age%20of%20Empires%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Age%20of%20Empires%20Trailer.mp4",
+    "videoStart": 18.720495,
+    "videoEnd": 201.3,
+    "MusicUrl": "https://archive.org/download/RPRM001/Age%20of%20Empires%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "13 GB",
+            "executable": "AoEDE_s.exe",
+            "arguments": [],
+            "buildID": "12 December 2023",
+            "filename": "00425.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770624503982_1",
+    "Name": "Age of Empires II",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Age%20of%20Empires%20II%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Age%20of%20Empires%20II%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Age%20of%20Empires%20II%20Trailer.mp4",
+    "videoStart": 1.453573,
+    "videoEnd": 58.718053,
+    "MusicUrl": "https://archive.org/download/RPRM001/Age%20of%20Empires%20II%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "23 GB",
+            "executable": "AoE2DE_s.exe",
+            "arguments": [],
+            "buildID": "2 December 2025",
+            "filename": "00426.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770624503982_2",
+    "Name": "Age of Empires III",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Age%20of%20Empires%20III%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Age%20of%20Empires%20III%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Age%20of%20Empires%20III%20Trailer.mp4",
+    "videoStart": 1.131507,
+    "videoEnd": 26.8,
+    "MusicUrl": "https://archive.org/download/RPRM001/Age%20of%20Empires%20III%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "51 GB",
+            "executable": "AoE3DE_s.exe",
+            "arguments": [],
+            "buildID": "31 January 2024",
+            "filename": "00427.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770624503982_3",
+    "Name": "Age of Empires IV",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Age%20of%20Empires%20IV%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Age%20of%20Empires%20IV%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Age%20of%20Empires%20IV%20Trailer.mp4",
+    "videoStart": 0.99675,
+    "videoEnd": 65.053149,
+    "MusicUrl": "https://archive.org/download/RPRM001/Age%20of%20Empires%20IV%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "100GB",
+            "executable": "RelicCardinal.exe",
+            "arguments": [],
+            "buildID": "4 February 2026",
+            "filename": "00428.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1770624503982_4",
+    "Name": "Astria Ascending",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Astria%20Ascending%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Astria%20Ascending%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Astria%20Ascending%20Trailer.mp4",
+    "videoStart": 3.570307,
+    "videoEnd": 90.743409,
+    "MusicUrl": "https://archive.org/download/RPRM001/Astria%20Ascending%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "21 GB",
+            "executable": "Astria Ascending.exe",
+            "arguments": [],
+            "buildID": "10 October 2025",
+            "filename": "00429.zip"
+          }
+        ]
+      }
+    }
   }
 ]
