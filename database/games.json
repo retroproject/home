@@ -149729,5 +149729,149 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1770753815426_0",
+    "Name": "Crisol Theater of Idols",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Crisol%20Theater%20of%20Idols%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Crisol%20Theater%20of%20Idols%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Crisol%20Theater%20of%20Idols%20Trailer.mp4",
+    "videoStart": 0.875945,
+    "videoEnd": 89.304647,
+    "MusicUrl": "https://archive.org/download/RPRM001/Crisol%20Theater%20of%20Idols%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "16 GB",
+            "executable": "CrisolTheaterOfIdols.exe",
+            "arguments": [],
+            "buildID": "10 February 2026",
+            "filename": "00436.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770753815426_1",
+    "Name": "Relooted",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Relooted%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Relooted%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Relooted%20Trailer.mp4",
+    "videoStart": 3.202331,
+    "videoEnd": 75.050421,
+    "MusicUrl": "https://archive.org/download/RPRM001/Relooted%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "13 GB",
+            "executable": "Relooted.exe",
+            "arguments": [],
+            "buildID": "10 February 2026",
+            "filename": "00437.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770753815426_2",
+    "Name": "ROMEO IS A DEAD MAN",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/ROMEO%20IS%20A%20DEAD%20MAN%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/ROMEO%20IS%20A%20DEAD%20MAN%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/ROMEO%20IS%20A%20DEAD%20MAN%20Trailer.mp4",
+    "videoStart": 5.776915,
+    "videoEnd": 126.564275,
+    "MusicUrl": "https://archive.org/download/RPRM001/ROMEO%20IS%20A%20DEAD%20MAN%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "34 GB",
+            "executable": "SevGame.exe",
+            "arguments": [],
+            "buildID": "10 February 2026",
+            "filename": "00438.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770760207087_0",
+    "Name": "Mewgenics",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Mewgenics%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Mewgenics%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Mewgenics%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Mewgenics%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "executable": "Mewgenics.exe",
+            "arguments": [],
+            "buildID": "10 February 2026",
+            "filename": "00439.zip"
+          }
+        ]
+      }
+    }
   }
 ]
