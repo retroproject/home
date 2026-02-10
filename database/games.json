@@ -120386,12 +120386,10 @@
         "versions": [
           {
             "identifier": "retro-psp",
-            "filename": "Brave Story New Traveler.zip",
             "name": "Vanilla",
             "platform": "Sony PlayStation Portable",
             "emulator": "PPSSPP",
-            "fileSize": "200GB",
-            "romFile": "",
+            "fileSize": "200MB",
             "romFiles": [
               "Brave Story New Traveler.iso",
               "Brave Story New Traveler (Japanese VA).iso"
@@ -120399,15 +120397,16 @@
             "romLabels": [
               "English VA",
               "Japanese VA"
-            ]
+            ],
+            "filename": "Brave Story New Traveler.zip"
           },
           {
             "identifier": "retro-psp",
-            "filename": "Brave Story New Traveler HD Textures.zip",
             "name": "HD Textures",
             "platform": "Sony PlayStation Portable",
             "emulator": "PPSSPP",
-            "fileSize": "2GB"
+            "fileSize": "2GB",
+            "filename": "Brave Story New Traveler HD Textures.zip"
           }
         ]
       }
@@ -149543,9 +149542,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1770624503982_4",
