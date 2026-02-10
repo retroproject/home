@@ -110191,12 +110191,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC34",
-            "filename": "Granblue Fantasy Versus Rising.zip",
+            "identifier": "RPRP013",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "GBVSR.exe",
-            "fileSize": "21GB"
+            "fileSize": "25GB",
+            "buildID": "10 February 2026",
+            "filename": "00431.zip"
           }
         ]
       }
@@ -140213,9 +140214,9 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "33 GB",
-            "executable": "steamclient_loader_x64.exe",
+            "executable": "UNBEATABLE.exe",
             "arguments": [],
-            "buildID": "9 December 2025",
+            "buildID": "23 December 2025",
             "filename": "00220.zip"
           }
         ]
@@ -149584,6 +149585,146 @@
             "arguments": [],
             "buildID": "10 October 2025",
             "filename": "00429.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770726538811_0",
+    "Name": "Alien Rogue Incursion",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Alien%20Rogue%20Incursion%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Alien%20Rogue%20Incursion%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Alien%20Rogue%20Incursion%20Trailer.mp4",
+    "videoStart": 5.623677,
+    "videoEnd": 124.10008,
+    "MusicUrl": "https://archive.org/download/RPRM001/Alien%20Rogue%20Incursion%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "20 GB",
+            "filename": "00432.zip",
+            "executable": "Midnight.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770726538811_1",
+    "Name": "BeanMeetsPaw",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/BeanMeetsPaw%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/BeanMeetsPaw%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/BeanMeetsPaw%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/BeanMeetsPaw%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "960 MB",
+            "filename": "00433.zip",
+            "executable": "CatRestaurant.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770726538811_2",
+    "Name": "Lost Eidolons Veil of the Witch",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Lost%20Eidolons%20Veil%20of%20the%20Witch%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Lost%20Eidolons%20Veil%20of%20the%20Witch%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Lost%20Eidolons%20Veil%20of%20the%20Witch%20Trailer.mp4",
+    "videoStart": 3.120017,
+    "videoEnd": 96.142149,
+    "MusicUrl": "https://archive.org/download/RPRM001/Lost%20Eidolons%20Veil%20of%20the%20Witch%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "filename": "00434.zip",
+            "executable": "Launcher.bat",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770726538811_3",
+    "Name": "Machine Tower 2984",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Machine%20Tower%202984%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Machine%20Tower%202984%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Machine%20Tower%202984%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Machine%20Tower%202984%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP012",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "00435.zip",
+            "executable": "Game00.exe",
+            "arguments": []
           }
         ]
       }
