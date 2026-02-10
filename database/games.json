@@ -149613,13 +149613,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP012",
+            "identifier": "RPRP013",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "20 GB",
-            "filename": "00432.zip",
             "executable": "Midnight.exe",
-            "arguments": []
+            "arguments": [],
+            "filename": "00432.zip"
           }
         ]
       }
@@ -149648,13 +149648,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP012",
+            "identifier": "RPRP013",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "960 MB",
-            "filename": "00433.zip",
             "executable": "CatRestaurant.exe",
-            "arguments": []
+            "arguments": [],
+            "filename": "00433.zip"
           }
         ]
       }
@@ -149683,13 +149683,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP012",
+            "identifier": "RPRP013",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "5 GB",
-            "filename": "00434.zip",
             "executable": "Launcher.bat",
-            "arguments": []
+            "arguments": [],
+            "filename": "00434.zip"
           }
         ]
       }
@@ -149718,13 +149718,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP012",
+            "identifier": "RPRP013",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
-            "filename": "00435.zip",
             "executable": "Game00.exe",
-            "arguments": []
+            "arguments": [],
+            "filename": "00435.zip"
           }
         ]
       }
@@ -149836,7 +149836,10 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Hide"
+    ]
   },
   {
     "_id": "game_1770760207087_0",
@@ -149872,6 +149875,9 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
