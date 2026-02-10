@@ -70553,13 +70553,22 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC03",
+            "identifier": "RPRP013",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "210MB",
             "arguments": [],
-            "executable": "SonicMania.exe",
-            "filename": "Sonic Mania.zip"
+            "buildID": "12 March 2019",
+            "executableFiles": [
+              "SonicMania.exe",
+              "ManiaModManager.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Mods Manager"
+            ],
+            "mods": "Sonic Megamix Mania 1.0",
+            "filename": "00430.zip"
           }
         ]
       }
