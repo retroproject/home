@@ -149982,5 +149982,42 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1770811500816_0",
+    "Name": "Moons of Madness",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Moons%20of%20Madness%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Moons%20of%20Madness%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Moons%20of%20Madness%20Trailer.mp4",
+    "videoStart": 2.28301,
+    "videoEnd": 71.885432,
+    "MusicUrl": "https://archive.org/download/RPRM001/Moons%20of%20Madness%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "15 GB",
+            "executable": "MoonsOfMadness.exe",
+            "arguments": [],
+            "buildID": "21 September 2020",
+            "filename": "00444.zip"
+          }
+        ]
+      }
+    },
+    "Tags": []
   }
 ]
