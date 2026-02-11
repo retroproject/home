@@ -150019,5 +150019,355 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1770835770298_0",
+    "Name": "Alien Breed 1 Impact",
+    "SortingName": "Aliens 00.01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Alien%20Breed%201%20Impact%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Alien%20Breed%201%20Impact%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Alien%20Breed%201%20Impact%20Trailer.mp4",
+    "videoStart": 14.004135,
+    "videoEnd": 74.729969,
+    "MusicUrl": "https://archive.org/download/RPRM001/Alien%20Breed%201%20Impact%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "880 MB",
+            "filename": "00445.zip",
+            "executable": "SmartSteamLoader.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770835770298_1",
+    "Name": "Alien Breed 2 Assault",
+    "SortingName": "Aliens 00.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Alien%20Breed%202%20Assault%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Alien%20Breed%202%20Assault%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Alien%20Breed%202%20Assault%20Trailer.mp4",
+    "videoStart": 17.8,
+    "videoEnd": 79.689854,
+    "MusicUrl": "https://archive.org/download/RPRM001/Alien%20Breed%202%20Assault%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "780 MB",
+            "filename": "00446.zip",
+            "executable": "SmartSteamLoader.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770835770298_2",
+    "Name": "Alien Breed 3 Descent",
+    "SortingName": "Aliens 00.03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Alien%20Breed%203%20Descent%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Alien%20Breed%203%20Descent%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Alien%20Breed%203%20Descent%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "980 MB",
+            "filename": "00447.zip",
+            "executable": "SmartSteamLoader.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770835770298_3",
+    "Name": "Alien Isolation",
+    "SortingName": "Aliens 04",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Alien%20Isolation%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Alien%20Isolation%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Alien%20Isolation%20Trailer.mp4",
+    "videoStart": 13.650189,
+    "videoEnd": 149.558583,
+    "MusicUrl": "https://archive.org/download/RPRM001/Alien%20Isolation%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "30 GB",
+            "filename": "00448.zip",
+            "executable": "AI.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770835770298_4",
+    "Name": "Alien Rage Unlimited",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Alien%20Rage%20Unlimited%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Alien%20Rage%20Unlimited%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Alien%20Rage%20Unlimited%20Trailer.mp4",
+    "videoStart": 9.7,
+    "videoEnd": 90.308686,
+    "MusicUrl": "https://archive.org/download/RPRM001/Alien%20Rage%20Unlimited%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "filename": "00449.zip",
+            "executable": "Singleplayer\\Binaries\\Win32\\ShippingPC-AFEARGame.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770835770298_5",
+    "Name": "Aliens Colonial Marines",
+    "SortingName": "Aliens 03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Aliens%20Colonial%20Marines%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Aliens%20Colonial%20Marines%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Aliens%20Colonial%20Marines%20Trailer.mp4",
+    "videoStart": 11.104893,
+    "videoEnd": 148.501463,
+    "MusicUrl": "https://archive.org/download/RPRM001/Aliens%20Colonial%20Marines%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "14 GB",
+            "filename": "00450.zip",
+            "executable": "Binaries\\Win32\\ACM.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770835770298_6",
+    "Name": "Aliens Dark Descent",
+    "SortingName": "Aliens 06",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Aliens%20Dark%20Descent%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Aliens%20Dark%20Descent%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Aliens%20Dark%20Descent%20Trailer.mp4",
+    "videoStart": 5.5,
+    "videoEnd": 157.089839,
+    "MusicUrl": "https://archive.org/download/RPRM001/Aliens%20Dark%20Descent%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "56 GB",
+            "filename": "00451.zip",
+            "executable": "AliensDarkDescentGameSteam-Win64-Shipping.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770835770298_7",
+    "Name": "Aliens Fireteam Elite",
+    "SortingName": "Aliens 05",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Aliens%20Fireteam%20Elite%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Aliens%20Fireteam%20Elite%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Aliens%20Fireteam%20Elite%20Trailer.mp4",
+    "videoStart": 2.477726,
+    "videoEnd": 76.00107,
+    "MusicUrl": "https://archive.org/download/RPRM001/Aliens%20Fireteam%20Elite%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "36 GB",
+            "filename": "00452.zip",
+            "executable": "Endeavor.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770835770298_8",
+    "Name": "Aliens vs Predator 2010",
+    "SortingName": "Aliens 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Aliens%20vs%20Predator%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Aliens%20vs%20Predator%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Aliens%20vs%20Predator%20Trailer.mp4",
+    "videoStart": 10.5,
+    "videoEnd": 164.08912,
+    "MusicUrl": "https://archive.org/download/RPRM001/Aliens%20vs%20Predator%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "20 GB",
+            "filename": "00453.zip",
+            "executable": "AvP.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770835770298_9",
+    "Name": "Aliens vs Predator 2000",
+    "SortingName": "Aliens 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Aliens%20vs%20Predator%202000%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Aliens%20vs%20Predator%202000%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Aliens%20vs%20Predator%202000%20Trailer.mp4",
+    "videoStart": 1,
+    "videoEnd": 41.9,
+    "MusicUrl": "https://archive.org/download/RPRM001/Aliens%20vs%20Predator%202000%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "380 MB",
+            "filename": "00454.zip",
+            "executable": "AvP_Classic.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
