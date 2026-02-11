@@ -105609,9 +105609,9 @@
     "CoverImage": "c683f8d9-fa71-4a8f-99cf-a598cf252a10.jpg",
     "BackgroundUrl": "https://archive.org/download/retrobackgrounds/c61fbb24-35de-4211-913d-06c1ff905228.jpeg",
     "CoverUrl": "https://archive.org/download/retrocovers/c683f8d9-fa71-4a8f-99cf-a598cf252a10.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Iron%20Saga%20VS%20Trailer.mp4",
+    "videoStart": 2.220479,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/retromusic/cb6fa80f-97fa-4196-ae43-a9075982015c.mp3",
     "PlatformNames": [
       "PC Game"
@@ -149875,5 +149875,149 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1770781363600_0",
+    "Name": "Drop Duchy",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Drop%20Duchy%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Drop%20Duchy%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Drop%20Duchy%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Drop%20Duchy%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "DropDuchy.exe",
+            "arguments": [],
+            "buildID": "23 December 2025",
+            "filename": "00440.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770781363600_1",
+    "Name": "Iron Saga VS",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Iron%20Saga%20VS%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Iron%20Saga%20VS%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Iron%20Saga%20VS%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Iron%20Saga%20VS%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "6 GB",
+            "executable": "IronSagaVS.exe",
+            "arguments": [],
+            "buildID": "10 February 2026",
+            "filename": "00441.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770781363600_2",
+    "Name": "Shadows of the Afterland",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Shadows%20of%20the%20Afterland%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Shadows%20of%20the%20Afterland%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Shadows%20of%20the%20Afterland%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 48.067797,
+    "MusicUrl": "https://archive.org/download/RPRM001/Shadows%20of%20the%20Afterland%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "670 MB",
+            "executable": "ShadowsOfTheAfterland.exe",
+            "arguments": [],
+            "buildID": "10 February 2026",
+            "filename": "00442.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770781363600_3",
+    "Name": "The Bleakest Keep",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Bleakest%20Keep%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Bleakest%20Keep%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Bleakest%20Keep%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 42.5,
+    "MusicUrl": "https://archive.org/download/RPRM001/The%20Bleakest%20Keep%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "300 MB",
+            "executable": "TheBleakestKeep.exe",
+            "arguments": [],
+            "buildID": "10 February 2026",
+            "filename": "00443.zip"
+          }
+        ]
+      }
+    }
   }
 ]
