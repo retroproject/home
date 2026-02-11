@@ -3008,7 +3008,7 @@
     "_id": "05717647-0b52-40f1-8b6d-9bad21f7cac5",
     "GameId": "fcac11b9c005f8d4845ff6f4044d4fb2",
     "Name": "Alien: Isolation",
-    "SortingName": "",
+    "SortingName": "Aliens 04",
     "Description": "Fifteen years after her mother's <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>disappearance</span>, <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 6px #FFB6C1;'>Amanda Ripley</span> boards the remote space station <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Sevastopol</span> seeking answers about the fate of <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 6px #DDA0DD;'>Ellen Ripley</span> and the crew of the Nostromo.<br>What she finds is a <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>dying station</span> stalked by a single, perfect organism—a <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 6px #DC143C;'>xenomorph</span> that learns, adapts, and hunts with terrifying intelligence.<br>Armed with only her wits and improvised tools, Amanda must navigate the station's <span style='color:#191970; font-weight:bold; text-shadow: 0 0 8px #191970;'>dark corridors</span> while avoiding both the alien predator and the increasingly unstable <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 6px #FFD700;'>Working Joe</span> androids.<br>In this claustrophobic tale of <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>survival horror</span>, uncovering a conspiracy threatens to repeat her mother's <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 6px #4B0082;'>nightmare</span> across the <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>cosmos</span>.",
     "DescriptionArabic": "<div dir='rtl'>بعد خمسة عشر عاماً من <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>اختفاء</span> والدتها، تصعد <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 6px #FFB6C1;'>أماندا ريبلي</span> إلى محطة الفضاء النائية <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>سيفاستوبول</span> باحثة عن إجابات حول مصير <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 6px #DDA0DD;'>إيلين ريبلي</span> وطاقم نوسترومو.<br>ما تجده هو <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>محطة محتضرة</span> يطاردها كائن واحد مثالي—<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 6px #DC143C;'>زينومورف</span> يتعلم ويتكيف ويصطاد بذكاء مرعب.<br>مسلحة فقط بذكائها وأدوات بدائية، على أماندا أن تتنقل عبر <span style='color:#191970; font-weight:bold; text-shadow: 0 0 8px #191970;'>ممرات مظلمة</span> بالمحطة بينما تتجنب المفترس الفضائي والآلات البشرية <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 6px #FFD700;'>جو العامل</span> الغير مستقرة بشكل متزايد.<br>في هذه الحكاية المخنقة من <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>رعب البقاء</span>، يهدد اكتشاف مؤامرة بتكرار <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 6px #4B0082;'>كابوس</span> والدتها عبر <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>الكون</span>.</div>",
     "ReleaseDate": "2014-10-6",
@@ -150119,41 +150119,6 @@
             "fileSize": "980 MB",
             "filename": "00447.zip",
             "executable": "SmartSteamLoader.exe",
-            "arguments": []
-          }
-        ]
-      }
-    }
-  },
-  {
-    "_id": "game_1770835770298_3",
-    "Name": "Alien Isolation",
-    "SortingName": "Aliens 04",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
-    "BackgroundUrl": "https://archive.org/download/RPRM001/Alien%20Isolation%20Background.jpg",
-    "CoverUrl": "https://archive.org/download/RPRM001/Alien%20Isolation%20Cover.jpg",
-    "YouTubeUrl": "https://archive.org/download/RPRM001/Alien%20Isolation%20Trailer.mp4",
-    "videoStart": 13.650189,
-    "videoEnd": 149.558583,
-    "MusicUrl": "https://archive.org/download/RPRM001/Alien%20Isolation%20Theme.mp3",
-    "PlatformNames": [
-      "PC Game"
-    ],
-    "GenreNames": [],
-    "DeveloperNames": [],
-    "downloadInfo": {
-      "PC Game": {
-        "versions": [
-          {
-            "identifier": "RPRP013",
-            "name": "Vanilla",
-            "platform": "PC Game",
-            "fileSize": "30 GB",
-            "filename": "00448.zip",
-            "executable": "AI.exe",
             "arguments": []
           }
         ]
