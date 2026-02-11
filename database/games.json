@@ -105596,48 +105596,6 @@
     }
   },
   {
-    "_id": "cb6fa80f-97fa-4196-ae43-a9075982015c",
-    "GameId": "ed5e193a75d795495fd13f331384b79c",
-    "Name": "Iron Saga VS",
-    "SortingName": "",
-    "Description": "Massive <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>mecha titans</span> crash into the arena as pilots channel their burning souls into <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>legendary war machines</span>, each strike echoing with the thunderous power of <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 6px #4169E1;'>ancient technology</span>.<br>The <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 6px #8B0000;'>Iron Federation</span> wages relentless warfare against the <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Shadow Empire</span>, their massive mechanical warriors clashing in explosive battles that shake the very foundations of <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 6px #228B22;'>devastated Earth</span>.<br>Elite ace pilots like <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 6px #DAA520;'>Commander Steel</span> command towering <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>assault mechs</span> armed with <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 6px #32CD32;'>plasma cannons</span> and <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>energy blades</span>.<br>Victory demands not just raw firepower but tactical mastery as <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 6px #8B4513;'>metal giants</span> dance their deadly <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>ballet of destruction</span>.",
-    "DescriptionArabic": "<div dir='rtl'>تتصادم <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>جبابرة الميكا</span> الضخمة في الحلبة بينما الطيارون يوجهون أرواحهم المتقدة إلى <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>آلات الحرب الأسطورية</span>، كل ضربة تتردد بقوة الرعد من <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 6px #4169E1;'>التكنولوجيا القديمة</span>.<br><span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 6px #8B0000;'>الاتحاد الحديدي</span> يشن حرباً لا تهدأ ضد <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>إمبراطورية الظل</span>، محاربيهم الآليين الضخام يتصارعون في معارك متفجرة تهز الأسس ذاتها <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 6px #228B22;'>للأرض المدمرة</span>.<br>الطيارون النخبة مثل <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 6px #DAA520;'>القائد ستيل</span> يقودون <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>ميكات الهجوم</span> الشامخة المسلحة <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 6px #32CD32;'>بمدافع البلازما</span> و<span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>نصال الطاقة</span>.<br>النصر يتطلب ليس فقط القوة النارية الخام بل إتقان التكتيك بينما <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 6px #8B4513;'>العمالقة المعدنية</span> ترقص <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>باليه الدمار</span> المميت.</div>",
-    "ReleaseDate": "2025-3-21",
-    "CriticScore": 60,
-    "Length": 15,
-    "BackgroundImage": "c61fbb24-35de-4211-913d-06c1ff905228.jpeg",
-    "CoverImage": "c683f8d9-fa71-4a8f-99cf-a598cf252a10.jpg",
-    "BackgroundUrl": "https://archive.org/download/retrobackgrounds/c61fbb24-35de-4211-913d-06c1ff905228.jpeg",
-    "CoverUrl": "https://archive.org/download/retrocovers/c683f8d9-fa71-4a8f-99cf-a598cf252a10.jpg",
-    "YouTubeUrl": "https://archive.org/download/RPRM001/Iron%20Saga%20VS%20Trailer.mp4",
-    "videoStart": 2.220479,
-    "videoEnd": 0,
-    "MusicUrl": "https://archive.org/download/retromusic/cb6fa80f-97fa-4196-ae43-a9075982015c.mp3",
-    "PlatformNames": [
-      "PC Game"
-    ],
-    "GenreNames": [
-      "Fighting"
-    ],
-    "DeveloperNames": [
-      "Gameduchy"
-    ],
-    "downloadInfo": {
-      "PC Game": {
-        "versions": [
-          {
-            "identifier": "CPC37",
-            "filename": "Iron Saga VS.zip",
-            "name": "Vanilla",
-            "platform": "PC Game",
-            "executable": "IronSagaVS.exe",
-            "fileSize": "4GB"
-          }
-        ]
-      }
-    }
-  },
-  {
     "_id": "cb7fa08c-aecc-4ae4-a0e9-aebd0f5341d1",
     "GameId": "e77a5251-b7f6-4fd9-bd6c-b85ec917e765",
     "Name": "Fire Emblem The Binding Blade",
@@ -149916,10 +149874,11 @@
     "_id": "game_1770781363600_1",
     "Name": "Iron Saga VS",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Massive <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>mecha titans</span> crash into the arena as pilots channel their burning souls into <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>legendary war machines</span>, each strike echoing with the thunderous power of <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 6px #4169E1;'>ancient technology</span>.<br>The <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 6px #8B0000;'>Iron Federation</span> wages relentless warfare against the <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Shadow Empire</span>, their massive mechanical warriors clashing in explosive battles that shake the very foundations of <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 6px #228B22;'>devastated Earth</span>.<br>Elite ace pilots like <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 6px #DAA520;'>Commander Steel</span> command towering <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>assault mechs</span> armed with <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 6px #32CD32;'>plasma cannons</span> and <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>energy blades</span>.<br>Victory demands not just raw firepower but tactical mastery as <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 6px #8B4513;'>metal giants</span> dance their deadly <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>ballet of destruction</span>.",
+    "DescriptionArabic": "<div dir='rtl'>تتصادم <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>جبابرة الميكا</span> الضخمة في الحلبة بينما الطيارون يوجهون أرواحهم المتقدة إلى <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>آلات الحرب الأسطورية</span>، كل ضربة تتردد بقوة الرعد من <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 6px #4169E1;'>التكنولوجيا القديمة</span>.<br><span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 6px #8B0000;'>الاتحاد الحديدي</span> يشن حرباً لا تهدأ ضد <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>إمبراطورية الظل</span>، محاربيهم الآليين الضخام يتصارعون في معارك متفجرة تهز الأسس ذاتها <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 6px #228B22;'>للأرض المدمرة</span>.<br>الطيارون النخبة مثل <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 6px #DAA520;'>القائد ستيل</span> يقودون <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>ميكات الهجوم</span> الشامخة المسلحة <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 6px #32CD32;'>بمدافع البلازما</span> و<span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>نصال الطاقة</span>.<br>النصر يتطلب ليس فقط القوة النارية الخام بل إتقان التكتيك بينما <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 6px #8B4513;'>العمالقة المعدنية</span> ترقص <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>باليه الدمار</span> المميت.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 60,
+    "Length": 15,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Iron%20Saga%20VS%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Iron%20Saga%20VS%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Iron%20Saga%20VS%20Trailer.mp4",
@@ -149929,8 +149888,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Fighting"
+    ],
+    "DeveloperNames": [
+      "Gameduchy"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
