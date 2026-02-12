@@ -1542,8 +1542,8 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "BlazblueEntropyEffect.exe",
-            "fileSize": "9GB",
-            "buildID": "18 September 2025",
+            "fileSize": "15GB",
+            "buildID": "12 February 2026",
             "filename": "00100.zip"
           }
         ]
@@ -150329,6 +150329,77 @@
             "fileSize": "380 MB",
             "filename": "00454.zip",
             "executable": "AvP_Classic.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770905548430_0",
+    "Name": "Supercat Survivors",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Supercat%20Survivors%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Supercat%20Survivors%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Supercat%20Survivors%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "00455.zip",
+            "executable": "CatAdventure.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1770905548430_1",
+    "Name": "The Amazing Crackpots Club",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Amazing%20Crackpots%20Club%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Amazing%20Crackpots%20Club%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Amazing%20Crackpots%20Club%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 74.073287,
+    "MusicUrl": "",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "730 MB",
+            "filename": "00456.zip",
+            "executable": "The Amazing Crackpots Club.exe",
+            "buildID": "AnimPoints",
             "arguments": []
           }
         ]
