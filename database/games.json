@@ -107002,13 +107002,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC41",
+            "identifier": "RPRP013",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "4GB",
             "arguments": [],
             "executable": "WARRIORSAbyss.exe",
-            "filename": "Warriors Abyss.zip"
+            "buildID": "13 February 2026",
+            "filename": "00475.zip"
           }
         ]
       }
@@ -120649,12 +120650,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC09",
-            "filename": "Doom Eternal.zip",
+            "identifier": "RPRP013",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "idTechLauncher.exe",
-            "fileSize": "85GB"
+            "executable": "DOOMEternalx64vk.exe",
+            "fileSize": "85GB",
+            "buildID": "12 February 2026",
+            "filename": "00474.zip"
           }
         ]
       }
@@ -134209,7 +134211,7 @@
             "platform": "PC Game",
             "fileSize": "23GB",
             "executable": "Cronos.exe",
-            "buildID": "3 September 2025",
+            "buildID": "13 February 2026",
             "arguments": [],
             "filename": "00044.zip"
           }
@@ -150049,9 +150051,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "880 MB",
-            "filename": "00445.zip",
             "executable": "SmartSteamLoader.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "30 October 2013",
+            "filename": "00445.zip"
           }
         ]
       }
@@ -150084,9 +150087,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "780 MB",
-            "filename": "00446.zip",
             "executable": "SmartSteamLoader.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "30 October 2013",
+            "filename": "00446.zip"
           }
         ]
       }
@@ -150119,9 +150123,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "980 MB",
-            "filename": "00447.zip",
             "executable": "SmartSteamLoader.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "30 October 2013",
+            "filename": "00447.zip"
           }
         ]
       }
@@ -150154,9 +150159,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "5 GB",
-            "filename": "00449.zip",
             "executable": "Singleplayer\\Binaries\\Win32\\ShippingPC-AFEARGame.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "10 October 2013",
+            "filename": "00449.zip"
           }
         ]
       }
@@ -150189,9 +150195,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "14 GB",
-            "filename": "00450.zip",
             "executable": "Binaries\\Win32\\ACM.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "22 July 2013",
+            "filename": "00450.zip"
           }
         ]
       }
@@ -150224,9 +150231,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "56 GB",
-            "filename": "00451.zip",
             "executable": "AliensDarkDescentGameSteam-Win64-Shipping.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "23 November 2023",
+            "filename": "00451.zip"
           }
         ]
       }
@@ -150259,9 +150267,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "36 GB",
-            "filename": "00452.zip",
             "executable": "Endeavor.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "26 April 2024",
+            "filename": "00452.zip"
           }
         ]
       }
@@ -150294,9 +150303,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "20 GB",
-            "filename": "00453.zip",
             "executable": "AvP.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "25 February 2015",
+            "filename": "00453.zip"
           }
         ]
       }
@@ -150329,9 +150339,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "380 MB",
-            "filename": "00454.zip",
             "executable": "AvP_Classic.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "25 February 2015",
+            "filename": "00454.zip"
           }
         ]
       }
@@ -150364,9 +150375,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
-            "filename": "00455.zip",
             "executable": "CatAdventure.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "28 October 2025",
+            "filename": "00455.zip"
           }
         ]
       }
@@ -150399,10 +150411,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "730 MB",
-            "filename": "00456.zip",
             "executable": "The Amazing Crackpots Club.exe",
-            "buildID": "AnimPoints",
-            "arguments": []
+            "buildID": "11 February 2026",
+            "arguments": [],
+            "filename": "00456.zip"
           }
         ]
       }
@@ -150435,9 +150447,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "15 GB",
-            "filename": "00457.zip",
             "executable": "Everholm\\Binaries\\Win64\\REANIMAL.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "13 February 2026",
+            "filename": "00457.zip"
           }
         ]
       }
@@ -150470,9 +150483,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "4 GB",
-            "filename": "00458.zip",
             "executable": "Back To The Dawn.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "13 February 2026",
+            "filename": "00458.zip"
           }
         ]
       }
@@ -150505,9 +150519,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "690 MB",
-            "filename": "00459.zip",
             "executable": "Crimson Capes.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "14 February 2026",
+            "filename": "00459.zip"
           }
         ]
       }
@@ -150540,9 +150555,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "15 GB",
-            "filename": "00460.zip",
             "executable": "DeadReset.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "12 February 2026",
+            "filename": "00460.zip"
           }
         ]
       }
@@ -150575,9 +150591,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "15 GB",
-            "filename": "00461.zip",
             "executable": "HeartOfTheForest.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "12 February 2026",
+            "filename": "00461.zip"
           }
         ]
       }
@@ -150610,9 +150627,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "88 GB",
-            "filename": "00462.zip",
             "executable": "HighOnLife2.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "13 February 2026",
+            "filename": "00462.zip"
           }
         ]
       }
@@ -150645,9 +150663,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "5 GB",
-            "filename": "00463.zip",
             "executable": "HordesOfHunger.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "12 February 2026",
+            "filename": "00463.zip"
           }
         ]
       }
@@ -150682,6 +150701,7 @@
             "fileSize": "4 GB",
             "executable": "Kara no Shoujo HD.exe",
             "arguments": [],
+            "buildID": "22 October 2018",
             "filename": "00464.zip"
           },
           {
@@ -150691,6 +150711,7 @@
             "fileSize": "6GB",
             "executable": "Kara no Shoujo 2 RE.exe",
             "arguments": [],
+            "buildID": "22 October 2018",
             "filename": "00465.zip"
           },
           {
@@ -150700,6 +150721,7 @@
             "fileSize": "6GB",
             "executable": "kns3_trial.exe",
             "arguments": [],
+            "buildID": "22 October 2018",
             "filename": "00466.zip"
           }
         ]
@@ -150733,9 +150755,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "7 GB",
-            "filename": "00467.zip",
             "executable": "LateShift.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "27 September 2023",
+            "filename": "00467.zip"
           }
         ]
       }
@@ -150743,7 +150766,7 @@
   },
   {
     "_id": "game_1771029762078_10",
-    "Name": "Lil Gator Game In the Dark",
+    "Name": "Lil Gator Game",
     "SortingName": "",
     "Description": "",
     "DescriptionArabic": "",
@@ -150768,9 +150791,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "520 MB",
-            "filename": "00468.zip",
             "executable": "Lil Gator Game.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "12 February 2026",
+            "filename": "00468.zip"
           }
         ]
       }
@@ -150803,9 +150827,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "11 GB",
-            "filename": "00469.zip",
             "executable": "StarsandIsland.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "13 February 2026",
+            "filename": "00469.zip"
           }
         ]
       }
@@ -150838,9 +150863,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "10 GB",
-            "filename": "00470.zip",
             "executable": "TheComplex.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "12 February 2026",
+            "filename": "00470.zip"
           }
         ]
       }
@@ -150875,6 +150901,7 @@
             "fileSize": "3 GB",
             "executable": "The Shell Part I.exe",
             "arguments": [],
+            "buildID": "29 January 2025",
             "filename": "00471.zip"
           },
           {
@@ -150884,6 +150911,7 @@
             "fileSize": "6GB",
             "executable": "TheShell2.exe",
             "arguments": [],
+            "buildID": "29 January 2025",
             "filename": "00472.zip"
           },
           {
@@ -150893,7 +150921,80 @@
             "fileSize": "6GB",
             "executable": "TheShell3.exe",
             "arguments": [],
+            "buildID": "29 January 2025",
             "filename": "00473.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771095973878_0",
+    "Name": "Crime Scene Cleaner",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Crime%20Scene%20Cleaner%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Crime%20Scene%20Cleaner%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Crime%20Scene%20Cleaner%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Crime%20Scene%20Cleaner%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "41 GB",
+            "executable": "CrimeCleaner.exe",
+            "arguments": [],
+            "buildID": "13 November 2025",
+            "filename": "00476.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771095973879_1",
+    "Name": "Rayman 30th Anniversary Edition",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Rayman%2030th%20Anniversary%20Edition%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Rayman%2030th%20Anniversary%20Edition%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Rayman%2030th%20Anniversary%20Edition%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Rayman%2030th%20Anniversary%20Edition%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "rayman30th.exe",
+            "arguments": [],
+            "buildID": "13 February 2026",
+            "filename": "00477.zip"
           }
         ]
       }
