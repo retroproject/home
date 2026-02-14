@@ -100129,7 +100129,9 @@
               "English VA",
               "Japanese VA"
             ],
-            "filename": "10,000 Bullets.zip"
+            "filenames": [
+              "10,000 Bullets.zip"
+            ]
           }
         ]
       }
@@ -150400,6 +150402,41 @@
             "filename": "00456.zip",
             "executable": "The Amazing Crackpots Club.exe",
             "buildID": "AnimPoints",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771026219956_0",
+    "Name": "REANIMAL",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/REANIMAL%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/REANIMAL%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/REANIMAL%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/REANIMAL%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "15 GB",
+            "filename": "00457.zip",
+            "executable": "Everholm\\Binaries\\Win64\\REANIMAL.exe",
             "arguments": []
           }
         ]
