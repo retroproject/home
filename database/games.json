@@ -150999,5 +150999,110 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1771168828488_0",
+    "Name": "Dear Me I Was",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Dear%20Me%20I%20Was%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Dear%20Me%20I%20Was%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Dear%20Me%20I%20Was%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Dear%20Me%20I%20Was%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "filename": "00478.zip",
+            "executable": "Dear me, I was.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771168828488_1",
+    "Name": "Escape from Duckov",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Escape%20from%20Duckov%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Escape%20from%20Duckov%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Escape%20from%20Duckov%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Escape%20from%20Duckov%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "filename": "00479.zip",
+            "executable": "Duckov.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771168828488_2",
+    "Name": "Neon Inferno",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Neon%20Inferno%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Neon%20Inferno%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Neon%20Inferno%20Trailer.mp4",
+    "videoStart": 2.6,
+    "videoEnd": 109.05517,
+    "MusicUrl": "https://archive.org/download/RPRM001/Neon%20Inferno%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "filename": "00480.zip",
+            "executable": "NEON INFERNO.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
