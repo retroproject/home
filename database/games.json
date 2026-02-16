@@ -150444,13 +150444,23 @@
         "versions": [
           {
             "identifier": "RPRP013",
-            "name": "Vanilla",
+            "name": "Offline",
             "platform": "PC Game",
             "fileSize": "15 GB",
             "executable": "Everholm\\Binaries\\Win64\\REANIMAL.exe",
             "arguments": [],
             "buildID": "13 February 2026",
             "filename": "00457.zip"
+          },
+          {
+            "identifier": "RPRP013",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "15 GB",
+            "executable": "Everholm\\Binaries\\Win64\\REANIMAL.exe",
+            "arguments": [],
+            "buildID": "13022026",
+            "filename": "00482.zip"
           }
         ]
       }
