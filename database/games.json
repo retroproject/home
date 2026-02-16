@@ -150460,6 +150460,10 @@
             "executable": "Everholm\\Binaries\\Win64\\REANIMAL.exe",
             "arguments": [],
             "buildID": "13022026",
+            "notes": [
+              "Steam must be running",
+              "add REANIMAL Friend's Pass to your steam account"
+            ],
             "filename": "00482.zip"
           }
         ]
