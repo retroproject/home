@@ -151618,15 +151618,13 @@
             "name": "Vanilla",
             "platform": "Sony PlayStation 3",
             "fileSize": "11 GB",
-            "filename": "Anarchy Reigns.zip",
             "filenames": [
-              "Anarchy Reigns.zip"
-            ],
-            "romFiles": [
-              "PS3_GAME/USRDIR/EBOOT.BIN"
+              "Anarchy Reigns.zip",
+              "Anarchy Reigns Update.zip"
             ],
             "emulator": "RPCS3",
-            "arguments": []
+            "arguments": [],
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
           }
         ]
       }
