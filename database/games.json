@@ -151590,5 +151590,46 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1771499965047_0",
+    "Name": "Anarchy Reigns",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Anarchy%20Reigns%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Anarchy%20Reigns%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Anarchy%20Reigns%20Trailer.mp4",
+    "videoStart": 13.9,
+    "videoEnd": 94.615293,
+    "MusicUrl": "https://archive.org/download/RPRM001/Anarchy%20Reigns%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 3"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0302",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "fileSize": "11 GB",
+            "filename": "Anarchy Reigns.zip",
+            "filenames": [
+              "Anarchy Reigns.zip"
+            ],
+            "romFiles": [
+              "PS3_GAME/USRDIR/EBOOT.BIN"
+            ],
+            "emulator": "RPCS3",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
