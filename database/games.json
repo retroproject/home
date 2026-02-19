@@ -45127,12 +45127,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC37",
-            "filename": "Diablo II Resurrected.zip",
-            "name": "Enhanced",
+            "identifier": "RPRP013",
+            "name": "Vanilla",
             "platform": "PC Game",
             "executable": "D2R.exe",
-            "fileSize": "28GB"
+            "fileSize": "39GB",
+            "buildID": "11 February 2026",
+            "filename": "00483.zip"
           }
         ]
       }
@@ -124689,7 +124690,7 @@
             "platform": "PC Game",
             "executable": "Avowed.exe",
             "fileSize": "71GB",
-            "buildID": "11 December 2025",
+            "buildID": "17 February 2026",
             "filename": "00246.zip"
           }
         ]
@@ -151151,6 +151152,440 @@
             "filename": "00481.zip",
             "executable": "AdInfinitum.exe",
             "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771450081455_0",
+    "Name": "Frozen Flame",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Frozen%20Flame%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Frozen%20Flame%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Frozen%20Flame%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Frozen%20Flame%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "9 GB",
+            "executable": "FrozenFlame.exe",
+            "arguments": [],
+            "buildID": "22 May 2023",
+            "filename": "00484.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771450081455_1",
+    "Name": "Hellscreen",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Hellscreen%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Hellscreen%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Hellscreen%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Hellscreen%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "1 GB",
+            "executable": "Hellscreen.exe",
+            "arguments": [],
+            "buildID": "13 February 2026",
+            "filename": "00485.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771450081455_2",
+    "Name": "NORSE Oath of Blood",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/NORSE%20Oath%20of%20Blood%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/NORSE%20Oath%20of%20Blood%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/NORSE%20Oath%20of%20Blood%20Trailer.mp4",
+    "videoStart": 2.409415,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/NORSE%20Oath%20of%20Blood%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "50 GB",
+            "executable": "Norse.exe",
+            "arguments": [],
+            "buildID": "17 February 2026",
+            "filename": "00486.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771450081455_3",
+    "Name": "Rune Factory Guardians of Azuma",
+    "SortingName": "Rune Factory 12",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Rune%20Factory%20Guardians%20of%20Azuma%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Rune%20Factory%20Guardians%20of%20Azuma%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Rune%20Factory%20Guardians%20of%20Azuma%20Trailer.mp4",
+    "videoStart": 1.842731,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Rune%20Factory%20Guardians%20of%20Azuma%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "12 GB",
+            "executable": "Game.exe",
+            "arguments": [],
+            "buildID": "13 February 2026",
+            "filename": "00487.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771450081455_4",
+    "Name": "STORY OF SEASONS Grand Bazaar",
+    "SortingName": "Harvest Moon B 06",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/STORY%20OF%20SEASONS%20Grand%20Bazaar%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/STORY%20OF%20SEASONS%20Grand%20Bazaar%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/STORY%20OF%20SEASONS%20Grand%20Bazaar%20Trailer.mp4",
+    "videoStart": 1.775739,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/STORY%20OF%20SEASONS%20Grand%20Bazaar%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "executable": "SOSGrandBazaar.exe",
+            "arguments": [],
+            "buildID": "10 February 2026",
+            "filename": "00488.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771450081455_5",
+    "Name": "Styx Blades of Greed",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Styx%20Blades%20of%20Greed%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Styx%20Blades%20of%20Greed%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Styx%20Blades%20of%20Greed%20Trailer.mp4",
+    "videoStart": 2.68356,
+    "videoEnd": 98.990417,
+    "MusicUrl": "https://archive.org/download/RPRM001/Styx%20Blades%20of%20Greed%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "23 GB",
+            "executable": "Styx3.exe",
+            "arguments": [],
+            "buildID": "16 February 2026",
+            "filename": "00489.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771450081455_6",
+    "Name": "The Ascent",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Ascent%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Ascent%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Ascent%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/The%20Ascent%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "20 GB",
+            "executable": "TheAscent.exe",
+            "arguments": [],
+            "buildID": "18 August 2022",
+            "filename": "00490.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771450890359_0",
+    "Name": "Under The Island",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Under%20The%20Island%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Under%20The%20Island%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Under%20The%20Island%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "544 MB",
+            "executable": "UnderTheIsland.exe",
+            "arguments": [],
+            "buildID": "17 February 2026",
+            "filename": "00491.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Need Music"
+    ]
+  },
+  {
+    "_id": "game_1771466897605_0",
+    "Name": "Bloodthief",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Bloodthief%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Bloodthief%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Bloodthief%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Bloodthief%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "filename": "00492.zip",
+            "executable": "bloodthief.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771466897605_1",
+    "Name": "Green Hell",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Green%20Hell%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Green%20Hell%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Green%20Hell%20Trailer.mp4",
+    "videoStart": 2.722574,
+    "videoEnd": 130.336331,
+    "MusicUrl": "https://archive.org/download/RPRM001/Green%20Hell%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "8 GB",
+            "executable": "GH.exe",
+            "arguments": [],
+            "buildID": "2.7.2",
+            "filename": "00493.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771466897605_2",
+    "Name": "Guilty as Sock",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Guilty%20as%20Sock%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Guilty%20as%20Sock%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Guilty%20as%20Sock%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Guilty%20as%20Sock%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "executable": "StandaloneWindows64.exe",
+            "arguments": [],
+            "buildID": "1.0",
+            "filename": "00494.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771466897605_3",
+    "Name": "Valheim",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Valheim%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Valheim%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Valheim%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Valheim%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "valheim.exe",
+            "arguments": [],
+            "buildID": "0.221.4",
+            "filename": "00495.zip"
           }
         ]
       }
