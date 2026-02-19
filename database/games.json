@@ -42029,7 +42029,7 @@
             "identifier": "CPCAR01",
             "name": "Arabic",
             "platform": "PC Game",
-            "executable": "CodeVein/Binaries/Win64/CodeVein-Win64-Shipping.exe",
+            "executable": "CodeVein\\Binaries\\Win64\\CodeVein-Win64-Shipping.exe",
             "fileSize": "31GB",
             "filename": "Code Vein.zip"
           },
