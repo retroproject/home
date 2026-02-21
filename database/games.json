@@ -151918,5 +151918,53 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1771687927456_0",
+    "Name": "Blue Dragon",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Blue%20Dragon%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Blue%20Dragon%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Blue%20Dragon%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 141.5,
+    "MusicUrl": "https://archive.org/download/RPRM001/Blue%20Dragon%20Theme.mp3",
+    "PlatformNames": [
+      "Microsoft Xbox 360"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Microsoft Xbox 360": {
+        "versions": [
+          {
+            "identifier": "X01X01",
+            "name": "Vanilla",
+            "platform": "Microsoft Xbox 360",
+            "fileSize": "22 GB",
+            "filename": "Blue Dragon.zip",
+            "filenames": [
+              "Blue Dragon.zip"
+            ],
+            "romFiles": [
+              "Blue Dragon [Disc 1].iso",
+              "Blue Dragon [Disc 2].iso",
+              "Blue Dragon [Disc 3].iso"
+            ],
+            "romLabels": [
+              "Disc 1",
+              "Disc 2",
+              "Disc 3"
+            ],
+            "emulator": "Xenia",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
