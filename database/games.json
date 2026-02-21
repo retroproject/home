@@ -78486,7 +78486,7 @@
     "_id": "9b3fc945-56aa-4294-a45e-dcd82614ceff",
     "GameId": "f80e15fbd24b1d45ea7c420e8924ec7c",
     "Name": "Ys X: Nordics",
-    "SortingName": "Ys 10",
+    "SortingName": "Ys 10.01",
     "Description": "Young adventurer <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>Adol Christin</span> sets sail for the treacherous <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 6px #4682B4;'>Obelia Gulf</span> where ancient <span style='color:#8B008B; font-weight:bold; text-shadow: 0 0 8px #8B008B;'>Norman pirates</span> guard secrets buried beneath storm-lashed seas.<br>Joined by the fierce warrior maiden <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 6px #FFD700;'>Karja Balta</span>, Adol discovers that the legendary <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Sandras</span> hold the key to preventing an apocalyptic curse from consuming both land and ocean.<br>Their unlikely partnership evolves through naval battles and mystical island exploration as they uncover connections between <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 6px #9370DB;'>ancient magic</span> and the barbaric <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Norman raids</span> terrorizing coastal settlements.<br>In this maritime adventure where <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 6px #00CED1;'>friendship transcends blood feuds</span>, the greatest treasures lie not in gold but in understanding between <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>warring cultures</span>.",
     "DescriptionArabic": "<div dir='rtl'>يبحر المغامر الشاب <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>أدول كريستين</span> نحو <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 6px #4682B4;'>خليج أوبيليا</span> الغادر حيث يحرس <span style='color:#8B008B; font-weight:bold; text-shadow: 0 0 8px #8B008B;'>قراصنة النورمان</span> القدماء أسراراً مدفونة تحت البحار المضطربة.<br>إلى جانب المحاربة الشرسة <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 6px #FFD700;'>كاريا بالتا</span>، يكتشف أدول أن <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>الساندراس</span> الأسطوريين يحملون مفتاح منع لعنة نهاية العالم من التهام البر والبحر معاً.<br>تتطور شراكتهما غير المتوقعة عبر المعارك البحرية واستكشاف الجزر الصوفية بينما يكشفان الروابط بين <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 6px #9370DB;'>السحر القديم</span> و<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>غارات النورمان</span> الهمجية التي ترعب المستوطنات الساحلية.<br>في هذه المغامرة البحرية حيث تتجاوز <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 6px #00CED1;'>الصداقة العداوات الدموية</span>، تكمن أعظم الكنوز ليس في الذهب بل في التفاهم بين <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>الثقافات المتحاربة</span>.</div>",
     "ReleaseDate": "2023-9-28",
@@ -151850,7 +151850,7 @@
   {
     "_id": "game_1771633492545_1",
     "Name": "Ys X Proud Nordics",
-    "SortingName": "",
+    "SortingName": "Ys 10.02",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
