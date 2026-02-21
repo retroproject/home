@@ -45763,13 +45763,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC25",
+            "identifier": "RPRP013",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "7GB",
+            "fileSize": "25GB",
             "arguments": [],
             "executable": "Neva.exe",
-            "filename": "Neva.zip"
+            "buildID": "19 February 2026",
+            "filename": "00496.zip"
           }
         ]
       }
@@ -112464,7 +112465,7 @@
             "platform": "PC Game",
             "executable": "ersc_launcher.exe",
             "fileSize": "66GB",
-            "buildID": "1.16.1",
+            "buildID": "1.16.1 & 1.9.3",
             "filename": "00194.zip"
           },
           {
@@ -151625,6 +151626,294 @@
             "emulator": "RPCS3",
             "arguments": [],
             "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771611769710_0",
+    "Name": "Dark Envoy",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Dark%20Envoy%20Directors%20Cut%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Dark%20Envoy%20Directors%20Cut%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Dark%20Envoy%20Directors%20Cut%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Dark%20Envoy%20Directors%20Cut%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "40 GB",
+            "executable": "DarkEnvoy.exe",
+            "arguments": [],
+            "buildID": "19 February 2026",
+            "filename": "00497.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771611769710_1",
+    "Name": "FlyKnight",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/FlyKnight%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/FlyKnight%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/FlyKnight%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/FlyKnight%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "637 MB",
+            "executable": "FlyKnightPrelude.exe",
+            "arguments": [],
+            "buildID": "27 October 2025",
+            "filename": "00498.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771611769710_2",
+    "Name": "LOVE ETERNAL",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/LOVE%20ETERNAL%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/LOVE%20ETERNAL%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/LOVE%20ETERNAL%20Trailer.mp4",
+    "videoStart": 0.928708,
+    "videoEnd": 116.123776,
+    "MusicUrl": "https://archive.org/download/RPRM001/LOVE%20ETERNAL%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "LoveEternal.exe",
+            "arguments": [],
+            "buildID": "4 February 2026",
+            "filename": "00499.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771611769710_3",
+    "Name": "Placid Plastic Deck A Quiet Quest",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Placid%20Plastic%20Deck%20A%20Quiet%20Quest%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Placid%20Plastic%20Deck%20A%20Quiet%20Quest%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Placid%20Plastic%20Deck%20A%20Quiet%20Quest%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Placid%20Plastic%20Deck%20A%20Quiet%20Quest%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "1 GB",
+            "executable": "PlacidPlasticDeck.exe",
+            "arguments": [],
+            "buildID": "18 February 2026",
+            "filename": "00500.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771611769710_4",
+    "Name": "The Last Citadel",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Last%20Citadel%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Last%20Citadel%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Last%20Citadel%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/The%20Last%20Citadel%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "TheLastCitadel.exe",
+            "arguments": [],
+            "buildID": "20 February 2026",
+            "filename": "00501.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771633492545_0",
+    "Name": "Wayblazer Dammerung",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Wayblazer%20Dammerung%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Wayblazer%20Dammerung%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Wayblazer%20Dammerung%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Wayblazer%20Dammerung%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "executable": "AGE.exe",
+            "arguments": [],
+            "buildID": "20 February 2026",
+            "filename": "00502.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771633492545_1",
+    "Name": "Ys X Proud Nordics",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Ys%20X%20Proud%20Nordics%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Ys%20X%20Proud%20Nordics%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Ys%20X%20Proud%20Nordics%20Trailer.mp4",
+    "videoStart": 0.827684,
+    "videoEnd": 68.84433,
+    "MusicUrl": "https://archive.org/download/RPRM001/Ys%20X%20Proud%20Nordics%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP013",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "8 GB",
+            "executable": "ysx_pn.exe",
+            "arguments": [],
+            "buildID": "21 September 2025",
+            "filename": "00503.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771652704967_0",
+    "Name": "The Knightling",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Knightling%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Knightling%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Knightling%20Trailer.mp4",
+    "videoStart": 2.501162,
+    "videoEnd": 60.744888,
+    "MusicUrl": "https://archive.org/download/RPRM001/The%20Knightling%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP014",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "executable": "Knightling.exe",
+            "arguments": [],
+            "buildID": "18 December 2025",
+            "filename": "00504.zip"
           }
         ]
       }
