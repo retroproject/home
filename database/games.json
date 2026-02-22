@@ -151595,11 +151595,12 @@
   {
     "_id": "game_1771499965047_0",
     "Name": "Anarchy Reigns",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Anarchy Reigns",
+    "Description": "In the crumbling ruins of <span style='color:#708090; font-weight:bold; text-shadow: 0 0 8px #708090;'>Altambra</span>, a city swallowed by <span style='color:#CD5C5C; font-weight:bold; text-shadow: 0 0 8px #CD5C5C;'>post-apocalyptic</span> decay, feared super-soldier <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Maximillian Caxton</span> escapes captivity after being accused of murdering his wife.<br>Hardened <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>Chaser Guild</span> operative <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Jack Cayman</span> is hired by Max's daughter <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 8px #FFB6C1;'>Jeannie</span> to bring him back alive — though Jack carries a deep grudge, as Max once accidentally shot his adopted child <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>Stela</span>.<br>Simultaneously, the merciless <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Strike One Unit</span> descends on Altambra with kill orders, led by the cold-blooded <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>Nikolai Bulygin</span>.<br>Splitting from his squad, agent <span style='color:#6495ED; font-weight:bold; text-shadow: 0 0 8px #6495ED;'>Leonhardt Victorion</span> refuses to believe his <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>mentor</span> turned murderer.<br>As both hunters clash through Altambra's <span style='color:#A0522D; font-weight:bold; text-shadow: 0 0 8px #A0522D;'>lawless streets</span>, a far darker <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>conspiracy</span> behind Max's escape begins to bleed through the cracks.",
+    "DescriptionArabic": "<div dir='rtl'>في أنقاض <span style='color:#708090; font-weight:bold; text-shadow: 0 0 8px #708090;'>ألتامبرا</span> المتداعية، المدينة التي ابتلعها الانهيار <span style='color:#CD5C5C; font-weight:bold; text-shadow: 0 0 8px #CD5C5C;'>ما بعد الكارثة</span>، يفرّ الجندي الأسطوري <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>ماكسيميليان كاكستون</span> من معتقله متهماً بقتل زوجته.<br>يُكلَّف المقاتل المخضرم في <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>نقابة المطاردين</span>، <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>جاك كايمان</span>، من ابنة ماكس <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 8px #FFB6C1;'>جيني</span> بإعادة والدها حياً، رغم أن جاك يحمل ضغينة عميقة إذ أصابت رصاصة طائشة من ماكس طفلته المتبناة <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>ستيلا</span> يوماً ما.<br>في الوقت ذاته، تهبط <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>وحدة سترايك ون</span> الرهيبة على ألتامبرا بأوامر قتل، بقيادة الدموي <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>نيكولاي بولوجين</span>.<br>ينشق العميل <span style='color:#6495ED; font-weight:bold; text-shadow: 0 0 8px #6495ED;'>ليونهارت فيكتوريون</span> عن فرقته، رافضاً الإيمان بأن <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>معلمه</span> أصبح قاتلاً.<br>وبينما يشق كلا الصيادين طريقيهما عبر <span style='color:#A0522D; font-weight:bold; text-shadow: 0 0 8px #A0522D;'>الأزقة الفوضوية</span> لألتامبرا، تبدأ <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>مؤامرة</span> أعمق بكثير تقبع خلف فرار ماكس بالظهور من بين الشقوق.</div>",
+    "ReleaseDate": "2013",
+    "CriticScore": 80,
+    "Length": 10,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Anarchy%20Reigns%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Anarchy%20Reigns%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Anarchy%20Reigns%20Trailer.mp4",
@@ -151609,8 +151610,12 @@
     "PlatformNames": [
       "Sony PlayStation 3"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Beat 'em Up"
+    ],
+    "DeveloperNames": [
+      "PlatinumGames"
+    ],
     "downloadInfo": {
       "Sony PlayStation 3": {
         "versions": [
