@@ -146000,11 +146000,12 @@
   {
     "_id": "game_1769731797931_0",
     "Name": "Asura The Striker",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Asura The Striker",
+    "Description": "Harness the raw fury of <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>ASURA</span>, a battle-hardened <span style='color:#00BFFF; font-weight:bold; text-shadow: 0 0 8px #00BFFF;'>humanoid combat weapon</span> engineered to obliterate a relentless <span style='color:#FF0066; font-weight:bold; text-shadow: 0 0 8px #FF0066;'>alien invasion</span> threatening every corner of the galaxy.<br> Tear through waves of <span style='color:#9400D3; font-weight:bold; text-shadow: 0 0 8px #9400D3;'>cosmic enemies</span> at breakneck speed in a blazing <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>3D rail shooter</span> that pays homage to the golden age of <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>arcade classics</span>.<br> Unleash explosive <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>melee strikes</span>, pinpoint <span style='color:#00FF7F; font-weight:bold; text-shadow: 0 0 8px #00FF7F;'>plasma barrages</span>, and breathtaking <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>slow-motion finishers</span> that transform each confrontation into a spectacle of destruction.<br> Master the <span style='color:#7CFC00; font-weight:bold; text-shadow: 0 0 8px #7CFC00;'>insectoid hordes</span> swarming from deep space, conquer increasingly punishing <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>combat gauntlets</span>, and etch your name onto the <span style='color:#DA70D6; font-weight:bold; text-shadow: 0 0 8px #DA70D6;'>global leaderboards</span> for all time.<br>",
+    "DescriptionArabic": "<div dir='rtl'>يُجسّد <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>أسورا</span> <span style='color:#00BFFF; font-weight:bold; text-shadow: 0 0 8px #00BFFF;'>سلاح القتال الآدمي</span> المُصنَّع لإبادة <span style='color:#FF0066; font-weight:bold; text-shadow: 0 0 8px #FF0066;'>الغزو الفضائي</span> الذي يُهدِّد كل زاوية في المجرة.<br> شقّ طريقك عبر موجات من <span style='color:#9400D3; font-weight:bold; text-shadow: 0 0 8px #9400D3;'>الأعداء الكونيين</span> بسرعة خاطفة في <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>لعبة إطلاق نار ثلاثية الأبعاد</span> تحتفي بعصر ذهبي من <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>ألعاب الأركيد الكلاسيكية</span>.<br> أطلق <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>ضربات قريبة</span> مُدمِّرة و<span style='color:#00FF7F; font-weight:bold; text-shadow: 0 0 8px #00FF7F;'>وابلاً من البلازما</span> و<span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>لقطات بطيئة مُميتة</span> تُحيل كل مواجهة إلى عرض مُبهر من الدمار.<br> أخضع <span style='color:#7CFC00; font-weight:bold; text-shadow: 0 0 8px #7CFC00;'>قطعان الحشرات الفضائية</span> المُهاجمة، وتخطَّ <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>حلبات القتال</span> المُتصاعدة الصعوبة، وانقش اسمك خالداً في <span style='color:#DA70D6; font-weight:bold; text-shadow: 0 0 8px #DA70D6;'>لوحات المتصدرين العالمية</span>.<br></div>",
+    "ReleaseDate": "2025-4-24",
+    "CriticScore": 80,
+    "Length": 5,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Asura%20The%20Striker%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Asura%20The%20Striker%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Asura%20The%20Striker%20Trailer.mp4",
@@ -146014,8 +146015,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Arcade"
+    ],
+    "DeveloperNames": [
+      "LeftOver"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -146036,11 +146041,12 @@
   {
     "_id": "game_1769733305466_0",
     "Name": "Cairn",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Cairn",
+    "Description": "Driven by an unyielding obsession with the treacherous <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>Mount Kami</span>, seasoned mountaineer <span style='color:#E0E0E0; font-weight:bold; text-shadow: 0 0 8px #E0E0E0;'>Aava</span> undertakes a perilous <span style='color:#B0C4DE; font-weight:bold; text-shadow: 0 0 8px #B0C4DE;'>solo ascent</span> into one of the world's most <span style='color:#708090; font-weight:bold; text-shadow: 0 0 8px #708090;'>hostile peaks</span>.<br> High above the clouds, the mountain hides the ruins of a <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>lost civilization</span> and the frozen traces of <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>doomed expeditions</span> that vanished without explanation.<br> As punishing <span style='color:#A9A9A9; font-weight:bold; text-shadow: 0 0 8px #A9A9A9;'>alpine storms</span> close in and trembling hands grip the edge of <span style='color:#8B7355; font-weight:bold; text-shadow: 0 0 8px #8B7355;'>vertical rock faces</span>, the <span style='color:#C0C0C0; font-weight:bold; text-shadow: 0 0 8px #C0C0C0;'>ancient summit</span> begins to whisper terrifying secrets.<br> Between surviving the <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>merciless cold</span> and decoding what <span style='color:#6A5ACD; font-weight:bold; text-shadow: 0 0 8px #6A5ACD;'>past climbers</span> feared to discover, Aava must confront the mountain's dark truth — and her own <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>breaking point</span>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>مدفوعةً بهوسٍ لا يُقهر بتسلق أعلى قمم <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>جبل كامي</span> المرهوب، تشرع المتسلقة المحترفة <span style='color:#E0E0E0; font-weight:bold; text-shadow: 0 0 8px #E0E0E0;'>آفا</span> في <span style='color:#B0C4DE; font-weight:bold; text-shadow: 0 0 8px #B0C4DE;'>صعودٍ منفرد</span> شاق نحو أحد أشد <span style='color:#708090; font-weight:bold; text-shadow: 0 0 8px #708090;'>القمم عدائيةً</span> في العالم.<br> يُخفي الجبل فوق الغيوم أنقاض <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>حضارة مفقودة</span> وآثاراً جليدية من <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>بعثاتٍ منكوبة</span> اختفت دون أثر.<br> حين تُسدل <span style='color:#A9A9A9; font-weight:bold; text-shadow: 0 0 8px #A9A9A9;'>عواصف جبلية</span> ستارها وتتشبث الأصابع المرتجفة بحافة <span style='color:#8B7355; font-weight:bold; text-shadow: 0 0 8px #8B7355;'>جدرانٍ صخرية شاهقة</span>، يبدأ <span style='color:#C0C0C0; font-weight:bold; text-shadow: 0 0 8px #C0C0C0;'>القمة الأثرية</span> بهمس أسرار مُرعبة.<br> بين مواجهة <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>البرد القارس</span> وفكّ شفرة ما خشي <span style='color:#6A5ACD; font-weight:bold; text-shadow: 0 0 8px #6A5ACD;'>المتسلقون السابقون</span> اكتشافه، تجد آفا نفسها في مواجهة الحقيقة المُظلمة — و<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>حدودها الإنسانية</span>.<br></div>",
+    "ReleaseDate": "2026-1-29",
+    "CriticScore": 80,
+    "Length": 15,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Cairn%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Cairn%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Cairn%20Trailer.mp4",
@@ -146050,8 +146056,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "The Game Bakers"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -146073,11 +146083,12 @@
   {
     "_id": "game_1769733305466_1",
     "Name": "City Tales Medieval Era",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "City Tales Medieval Era",
+    "Description": "Shape a breathtaking <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>medieval kingdom</span> from the ground up, shattering the constraints of a <span style='color:#808080; font-weight:bold; text-shadow: 0 0 8px #808080;'>rigid grid</span> to build cities of organic beauty that sprawl naturally across rolling lands.<br> Layer vibrant <span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>merchant districts</span>, towering <span style='color:#A9A9A9; font-weight:bold; text-shadow: 0 0 8px #A9A9A9;'>stone keeps</span>, and winding <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>cobblestone alleys</span> as humble <span style='color:#6B8E23; font-weight:bold; text-shadow: 0 0 8px #6B8E23;'>frontier villages</span> transform into magnificent thriving metropolises connected by <span style='color:#D2691E; font-weight:bold; text-shadow: 0 0 8px #D2691E;'>trade routes</span>.<br> Charming <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>town companions</span> with distinct personalities bring life to your streets, adding warmth and stakes to every <span style='color:#BDB76B; font-weight:bold; text-shadow: 0 0 8px #BDB76B;'>architectural decision</span> and seasonal challenge.<br> Balance <span style='color:#8FBC8F; font-weight:bold; text-shadow: 0 0 8px #8FBC8F;'>scarce resources</span>, tend to the needs of growing <span style='color:#F4A460; font-weight:bold; text-shadow: 0 0 8px #F4A460;'>citizen populations</span>, and sculpt breathtaking <span style='color:#778899; font-weight:bold; text-shadow: 0 0 8px #778899;'>city skylines</span> in this cozy and deeply satisfying medieval builder.<br>",
+    "DescriptionArabic": "<div dir='rtl'>شيّد <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>مملكة قروسطية</span> مذهلة من الصفر، مُحطِّماً قيود <span style='color:#808080; font-weight:bold; text-shadow: 0 0 8px #808080;'>الشبكة الصارمة</span> لبناء مدن ذات جمال عضوي تمتد بحرية عبر الأراضي الخضراء.<br> أقم <span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>أحياء التجار</span> الصاخبة وابنِ <span style='color:#A9A9A9; font-weight:bold; text-shadow: 0 0 8px #A9A9A9;'>الحصون الشاهقة</span> وعبّد <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>الأزقة المرصوفة</span> بينما تتحول <span style='color:#6B8E23; font-weight:bold; text-shadow: 0 0 8px #6B8E23;'>القرى الحدودية</span> إلى عواصم مزدهرة تربطها <span style='color:#D2691E; font-weight:bold; text-shadow: 0 0 8px #D2691E;'>طرق التجارة</span>.<br> يُضفي <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>رفاق البلدة</span> المميزون الدفءَ على شوارعك، مُضيفين حيوية وأهمية لكل <span style='color:#BDB76B; font-weight:bold; text-shadow: 0 0 8px #BDB76B;'>قرارٍ معماري</span> وتحدٍّ موسمي.<br> وازن <span style='color:#8FBC8F; font-weight:bold; text-shadow: 0 0 8px #8FBC8F;'>الموارد الشحيحة</span>، واعتنِ باحتياجات <span style='color:#F4A460; font-weight:bold; text-shadow: 0 0 8px #F4A460;'>سكانك المتنامين</span>، وانحت <span style='color:#778899; font-weight:bold; text-shadow: 0 0 8px #778899;'>أفقاً مدينياً</span> رائعاً في هذه التجربة البنائية القروسطية الأكثر إمتاعاً.<br></div>",
+    "ReleaseDate": "2026-1-29",
+    "CriticScore": 80,
+    "Length": 20,
     "BackgroundUrl": "https://archive.org/download/RPRM001/City%20Tales%20Medieval%20Era%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/City%20Tales%20Medieval%20Era%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/City%20Tales%20Medieval%20Era%20Trailer.mp4",
@@ -146087,8 +146098,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Simulation"
+    ],
+    "DeveloperNames": [
+      "Irregular Shapes"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -146110,11 +146125,12 @@
   {
     "_id": "game_1769738060856_0",
     "Name": "Destroy All Humans! 1 Clone Carnage",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Destroy All Humans 01 Clone Carnage",
+    "Description": "Wreak glorious <span style='color:#7CFC00; font-weight:bold; text-shadow: 0 0 8px #7CFC00;'>alien havoc</span> across six chaotic arenas as <span style='color:#9400D3; font-weight:bold; text-shadow: 0 0 8px #9400D3;'>Crypto</span>, Earth's most enthusiastic invader, in this frantic <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>four-player multiplayer</span> madness experience.<br> Choose from four delightfully destructive modes: trigger total <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>Rampage</span> annihilation, detonate <span style='color:#FF0000; font-weight:bold; text-shadow: 0 0 8px #FF0000;'>city-leveling explosions</span>, race <span style='color:#00FA9A; font-weight:bold; text-shadow: 0 0 8px #00FA9A;'>alien saucers</span> at impossible speeds, or round up helpless humans in <span style='color:#DA70D6; font-weight:bold; text-shadow: 0 0 8px #DA70D6;'>Abduction</span> chaos.<br> Wield devastating <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>psychic powers</span>, blasting <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>saucer cannons</span>, and a screaming <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>jetpack arsenal</span> to dominate every skirmish with gleeful disregard for collateral damage.<br> Compete with fellow <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>Furon clones</span> and prove once and for all which warrior deserves the title of galaxy's most <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>destructive champion</span>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>أشعل فتيل <span style='color:#7CFC00; font-weight:bold; text-shadow: 0 0 8px #7CFC00;'>الفوضى الفضائية</span> عبر ست حلبات من الجنون مع <span style='color:#9400D3; font-weight:bold; text-shadow: 0 0 8px #9400D3;'>كريبتو</span>، أكثر غازي الأرض حماساً، في تجربة <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>متعددة اللاعبين</span> مجنونة لا تُنسى.<br> اختر بين أربعة أوضاع تدميرية: افتح أبواب <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>الدمار الشامل</span>، وفجّر <span style='color:#FF0000; font-weight:bold; text-shadow: 0 0 8px #FF0000;'>انفجارات تُسوّي المدن بالأرض</span>، أو سابق بـ<span style='color:#00FA9A; font-weight:bold; text-shadow: 0 0 8px #00FA9A;'>المركبات الفضائية</span>، أو اختطف البشر في فوضى <span style='color:#DA70D6; font-weight:bold; text-shadow: 0 0 8px #DA70D6;'>الاختطاف</span>.<br> استخدم <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>القوى النفسية</span> و<span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>مدافع المركبة</span> و<span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>ترسانة الطيران النفاث</span> لإسقاط خصومك دون رحمة.<br> تنافس مع <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>مستنسخي الفيورون</span> وأثبت أنك <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>بطل الدمار</span> الأجدر بلقب المجرة.<br></div>",
+    "ReleaseDate": "2022-5-31",
+    "CriticScore": 40,
+    "Length": 5,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Destroy%20All%20Humans!%201%20Clone%20Carnage%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Destroy%20All%20Humans!%201%20Clone%20Carnage%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Destroy%20All%20Humans!%201%20Clone%20Carnage%20Trailer.mp4",
@@ -146124,8 +146140,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Shooter"
+    ],
+    "DeveloperNames": [
+      "Virtuos"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -146146,11 +146166,12 @@
   {
     "_id": "game_1769738060856_1",
     "Name": "Destroy All Humans! 2 Reprobed",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Destroy All Humans 02 Reprobed",
+    "Description": "A devastating <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>KGB ambush</span> obliterates the <span style='color:#7CFC00; font-weight:bold; text-shadow: 0 0 8px #7CFC00;'>alien mothership</span> and kills <span style='color:#9400D3; font-weight:bold; text-shadow: 0 0 8px #9400D3;'>Crypto-137</span>, forcing his successor to mount a furious revenge crusade across the blazing heart of <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>1969</span>.<br> The new <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>Crypto</span> carves a trail of chaos through <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>Cold War Earth</span>, terrorizing the countryside of <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>England</span>, the neon-lit streets of <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Japan</span>, the frozen wastes of <span style='color:#CD5C5C; font-weight:bold; text-shadow: 0 0 8px #CD5C5C;'>Soviet Russia</span>, and the sunlit shores of <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>America</span>.<br> Behind every sinister plot lurks the iron fist of <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>KGB operatives</span> racing to weaponize alien technology and tip the <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>nuclear balance of power</span> in their favor.<br> As the conspiracy deepens, a simple revenge mission spirals into a conflict that could decide the fate of humanity and alien alike.<br>",
+    "DescriptionArabic": "<div dir='rtl'>يُدمِّر <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>كمين الـ KGB</span> <span style='color:#7CFC00; font-weight:bold; text-shadow: 0 0 8px #7CFC00;'>المركبة الأم الفضائية</span> ويقتل <span style='color:#9400D3; font-weight:bold; text-shadow: 0 0 8px #9400D3;'>كريبتو-137</span>، مُجبِراً خلفه على شنّ حملة انتقام عنيفة في قلب عام <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>1969</span>.<br> يُلقي <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>كريبتو</span> الجديد بالفوضى على <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>الأرض في زمن الحرب الباردة</span>، مُرهِباً ريف <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>إنجلترا</span> وشوارع <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>اليابان</span> وتندرات <span style='color:#CD5C5C; font-weight:bold; text-shadow: 0 0 8px #CD5C5C;'>روسيا السوفيتية</span> وشواطئ <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>أمريكا</span>.<br> وراء كل مؤامرة تختبئ القبضة الحديدية لـ<span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>عملاء الـ KGB</span> الساعين لتسليح التكنولوجيا الفضائية وقلب <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>موازين القوى النووية</span>.<br> مع تعمق المؤامرة، تتحول مهمة الانتقام إلى صراع قد يُحدد مصير الإنسانية والكائنات الفضائية على حدٍّ سواء.<br></div>",
+    "ReleaseDate": "2022-8-30",
+    "CriticScore": 60,
+    "Length": 15,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Destroy%20All%20Humans!%202%20Reprobed%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Destroy%20All%20Humans!%202%20Reprobed%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Destroy%20All%20Humans!%202%20Reprobed%20Trailer.mp4",
@@ -146160,8 +146181,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Open World"
+    ],
+    "DeveloperNames": [
+      "Black Forest Games"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -146183,11 +146208,12 @@
   {
     "_id": "game_1769740875173_0",
     "Name": "Star Fire Eternal Cycle",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Star Fire Eternal Cycle",
+    "Description": "When <span style='color:#00FFFF; font-weight:bold; text-shadow: 0 0 8px #00FFFF;'>crystalline space bugs</span> swarm down from a crumbling <span style='color:#C0C0C0; font-weight:bold; text-shadow: 0 0 8px #C0C0C0;'>moon</span>, human cities collapse and survivors fracture between warriors and willing vessels of the <span style='color:#9400D3; font-weight:bold; text-shadow: 0 0 8px #9400D3;'>insectoid hivemind</span>.<br> Those exposed to the <span style='color:#7CFC00; font-weight:bold; text-shadow: 0 0 8px #7CFC00;'>alien plague</span> mutate into powerful <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>humanoid hybrids</span>, their minds consumed by a <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>hive intelligence</span> that hungers to convert all of humanity.<br> You are the exception — a <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>forbidden experiment</span> designed by your own father to harness that mutation without surrendering your <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>human consciousness</span>.<br> Journey through scorched <span style='color:#A9A9A9; font-weight:bold; text-shadow: 0 0 8px #A9A9A9;'>factory ruins</span>, <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>volcanic wastelands</span>, and the haunting silence of a <span style='color:#708090; font-weight:bold; text-shadow: 0 0 8px #708090;'>derelict moon base</span> as you unleash the full power of the <span style='color:#00FA9A; font-weight:bold; text-shadow: 0 0 8px #00FA9A;'>Insectoid Core</span> system against the swarm.<br>",
+    "DescriptionArabic": "<div dir='rtl'>حين تنهمر <span style='color:#00FFFF; font-weight:bold; text-shadow: 0 0 8px #00FFFF;'>الحشرات الفضائية البلورية</span> من <span style='color:#C0C0C0; font-weight:bold; text-shadow: 0 0 8px #C0C0C0;'>القمر</span> المتهالك، تنهار المدن ويتشقق الناجون بين مقاومين ووعاء طوعيين لـ<span style='color:#9400D3; font-weight:bold; text-shadow: 0 0 8px #9400D3;'>العقل الخلوي الحشري</span>.<br> يتحول المتعرضون لـ<span style='color:#7CFC00; font-weight:bold; text-shadow: 0 0 8px #7CFC00;'>الوباء الفضائي</span> إلى <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>هجناء آدميين</span>، يبتلع <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 8px #8A2BE2;'>الذكاء الخلوي</span> عقولهم ويمحو كل ما كانوا عليه.<br> أنت الاستثناء — <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>تجربة محظورة</span> صممها والدك لامتصاص تلك الطفرة دون التنازل عن <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>وعيك الإنساني</span>.<br> اخترق <span style='color:#A9A9A9; font-weight:bold; text-shadow: 0 0 8px #A9A9A9;'>أنقاض المصانع</span> المتفحمة و<span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>البراكين المهجورة</span> وصمت <span style='color:#708090; font-weight:bold; text-shadow: 0 0 8px #708090;'>قاعدة القمر المدمرة</span> وأطلق القوة الكاملة لنظام <span style='color:#00FA9A; font-weight:bold; text-shadow: 0 0 8px #00FA9A;'>النواة الحشرية</span> في وجه السرب.<br></div>",
+    "ReleaseDate": "2025-9-8",
+    "CriticScore": 80,
+    "Length": 10,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Star%20Fire%20Eternal%20Cycle%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Star%20Fire%20Eternal%20Cycle%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Star%20Fire%20Eternal%20Cycle%20Trailer.mp4",
@@ -146197,8 +146223,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "Ethereal Fish Studio"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -146219,11 +146249,12 @@
   {
     "_id": "game_1769748041640_0",
     "Name": "Magenta Horizon Neverending Harvest",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Magenta Horizon Neverending Harvest",
+    "Description": "The <span style='color:#9400D3; font-weight:bold; text-shadow: 0 0 8px #9400D3;'>afterlife</span> is a rotting wasteland overrun by <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>demonic hordes</span>, its only refuge built upon the divine will of the <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Nest Father</span> — until one of his own <span style='color:#C0C0C0; font-weight:bold; text-shadow: 0 0 8px #C0C0C0;'>scythe warriors</span> shattered that order.<br> <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>Gretel</span>, a <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>reaper</span> of the <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>Holy Roman Empire</span>, was sealed in a coffin and cast from the <span style='color:#00FA9A; font-weight:bold; text-shadow: 0 0 8px #00FA9A;'>Nest Sanctuary</span> for a crime so terrible she can no longer remember it.<br> Centuries later, the wandering soul <span style='color:#DEB887; font-weight:bold; text-shadow: 0 0 8px #DEB887;'>Archibald</span> breaks her seal — only for a message to arrive: the Nest Father demands her return.<br> With vengeful reapers <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Aio</span> and <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>Joonjo</span> hunting her for wounding their god, Gretel must hack through the demon-infested <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>underworld</span> before her forgotten past consumes all that remains.<br>",
+    "DescriptionArabic": "<div dir='rtl'><span style='color:#9400D3; font-weight:bold; text-shadow: 0 0 8px #9400D3;'>العالم الآخر</span> صحراء متعفنة تعجّ بـ<span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الجحافل الشيطانية</span>، ولا ملجأ فيه إلا ما شيّده <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>أب العش</span> الإلهي — حتى حطّم أحد <span style='color:#C0C0C0; font-weight:bold; text-shadow: 0 0 8px #C0C0C0;'>محاربي المنجل</span> ذلك النظام.<br> <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>غريتل</span>، <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>حاصدة أرواح</span> من <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>الإمبراطورية الرومانية المقدسة</span>، سُجنت في تابوت وطُردت من <span style='color:#00FA9A; font-weight:bold; text-shadow: 0 0 8px #00FA9A;'>ملاذ العش</span> بسبب جريمة لم تعد تتذكرها.<br> بعد قرون، يكسر الروح التائهة <span style='color:#DEB887; font-weight:bold; text-shadow: 0 0 8px #DEB887;'>أرشيبالد</span> ختم تابوتها — لتصل رسالة: أب العش يطالب بعودتها.<br> مع مطاردة <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>آيو</span> و<span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>جونجو</span> لها انتقاماً لجرح إلههم، على غريتل أن تشق طريقها عبر <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>العالم السفلي</span> قبل أن يبتلعها ماضيها المنسي.<br></div>",
+    "ReleaseDate": "2024-12-6",
+    "CriticScore": 80,
+    "Length": 10,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Magenta%20Horizon%20Neverending%20Harvest%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Magenta%20Horizon%20Neverending%20Harvest%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Magenta%20Horizon%20Neverending%20Harvest%20Trailer.mp4",
@@ -146233,8 +146264,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Hack and Slash"
+    ],
+    "DeveloperNames": [
+      "Hellfire Railway Interactive"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -146255,11 +146290,12 @@
   {
     "_id": "game_1769748041640_1",
     "Name": "Shatterline",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Shatterline",
+    "Description": "In <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>2028</span>, a gargantuan interstellar organism known as <span style='color:#00FFFF; font-weight:bold; text-shadow: 0 0 8px #00FFFF;'>the Crystalline</span> detonates the <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>cosmic Object X</span> above Earth, driving jagged <span style='color:#E0FFFF; font-weight:bold; text-shadow: 0 0 8px #E0FFFF;'>crystal shards</span> into every major city and turning them into toxic <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>impact zones</span>.<br> Humanity breaks under the spreading <span style='color:#00FA9A; font-weight:bold; text-shadow: 0 0 8px #00FA9A;'>crystalline infection</span>, yet a rare few carry a genetic immunity — the <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>Immunes</span>, united under the mercenary banner of <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>Shellguard</span>.<br> A fanatical cult called the <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Strafe Witnesses</span> hunts them down, worshipping the Crystalline as a gift of <span style='color:#9400D3; font-weight:bold; text-shadow: 0 0 8px #9400D3;'>divine transcendence</span> and assisting the organism's conquest of all life.<br> The Immunes must infiltrate the deadly <span style='color:#708090; font-weight:bold; text-shadow: 0 0 8px #708090;'>Faroes Impact Zone</span>, fighting crystalline monsters and unraveling the <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>alien conspiracy</span> before the last city falls silent forever.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في عام <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>2028</span>، يُفجِّر الكيان الفضائي العملاق المعروف بـ<span style='color:#00FFFF; font-weight:bold; text-shadow: 0 0 8px #00FFFF;'>البلورية</span> الجسم الكوني <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>الكائن X</span> فوق الأرض، مُدمِّراً كبرى المدن بـ<span style='color:#E0FFFF; font-weight:bold; text-shadow: 0 0 8px #E0FFFF;'>شظايا بلورية حادة</span> تُحيلها إلى <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>مناطق تأثير سامة</span>.<br> تنهار البشرية تحت وطأة <span style='color:#00FA9A; font-weight:bold; text-shadow: 0 0 8px #00FA9A;'>العدوى البلورية</span>، غير أن قلة نادرة تحمل مناعة جينية — هم <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>المحصّنون</span>، الموحَّدون تحت راية <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>شيلدغارد</span> المرتزقة.<br> تطاردهم طائفة متعصبة تُدعى <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>شهود الشظية</span>، تُقدِّس البلورية باعتبارها <span style='color:#9400D3; font-weight:bold; text-shadow: 0 0 8px #9400D3;'>صعوداً إلهياً</span> وتُسهم في إخضاع كل حياة لها.<br> يجب على المحصنين اختراق <span style='color:#708090; font-weight:bold; text-shadow: 0 0 8px #708090;'>منطقة تأثير فارو</span> الفتاكة وكشف <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>المؤامرة الفضائية</span> قبل أن تصمت آخر مدينة إلى الأبد.<br></div>",
+    "ReleaseDate": "2022-9-8",
+    "CriticScore": 80,
+    "Length": 10,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Shatterline%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Shatterline%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Shatterline%20Trailer.mp4",
@@ -146269,8 +146305,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Shooter"
+    ],
+    "DeveloperNames": [
+      "Frag Lab"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -146291,11 +146331,12 @@
   {
     "_id": "game_1769750284204_0",
     "Name": "Treasure of the Rudras",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Treasure of the Rudras",
+    "Description": "Every <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>4000 years</span>, the cruel <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>wheel of time</span> turns — a divine force known as a <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>Rudra</span> descends upon the world in an act of <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>cosmic destruction</span>, erasing all that lives and rewriting existence from ash.<br> Race after race has been annihilated by this sacred cycle, and now the <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>final 15 days</span> of humanity have begun their merciless countdown to oblivion.<br> Four souls chosen by fate — the warrior <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Sion</span>, the priestess <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>Riza</span>, the archaeologist <span style='color:#BDB76B; font-weight:bold; text-shadow: 0 0 8px #BDB76B;'>Surlent</span>, and the wanderer <span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>Dune</span> — converge across <span style='color:#A9A9A9; font-weight:bold; text-shadow: 0 0 8px #A9A9A9;'>crumbling empires</span> and <span style='color:#808080; font-weight:bold; text-shadow: 0 0 8px #808080;'>dead civilizations</span> to shatter the <span style='color:#9400D3; font-weight:bold; text-shadow: 0 0 8px #9400D3;'>eternal cycle</span>.<br> United by the lost art of <span style='color:#00FA9A; font-weight:bold; text-shadow: 0 0 8px #00FA9A;'>mantra magic</span>, their three interwoven destinies inch toward a truth so ancient it was buried with every doomed world that came before.<br>",
+    "DescriptionArabic": "<div dir='rtl'>كل <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>أربعة آلاف عام</span>، تدور <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>عجلة الزمن</span> القاسية — ينزل <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>الرودرا</span> الإلهي بأمر <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>التدمير الكوني</span>، محواً كل حياة وإعادة كتابة الوجود من الرماد.<br> تهالكت حضارة تلو أخرى تحت وطأة هذه الدورة المقدسة، والآن بدأ العدّ التنازلي لـ<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>أيام البشرية الخمسة عشر الأخيرة</span> نحو الفناء.<br> أربع أرواح اختارها القدر — المحارب <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>سيون</span>، والكاهنة <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>ريزا</span>، والمؤرخ <span style='color:#BDB76B; font-weight:bold; text-shadow: 0 0 8px #BDB76B;'>سورلنت</span>، والمتجول <span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>دون</span> — تتلاقى عبر <span style='color:#A9A9A9; font-weight:bold; text-shadow: 0 0 8px #A9A9A9;'>إمبراطوريات متداعية</span> و<span style='color:#808080; font-weight:bold; text-shadow: 0 0 8px #808080;'>حضارات بائدة</span> لكسر <span style='color:#9400D3; font-weight:bold; text-shadow: 0 0 8px #9400D3;'>الدورة الأبدية</span>.<br> تجمعهم فنون <span style='color:#00FA9A; font-weight:bold; text-shadow: 0 0 8px #00FA9A;'>سحر المانترا</span> المنسية، ومصائرهم الثلاث المتشابكة تقترب من حقيقة مدفونة مع كل عالم منكوب سبقهم.<br></div>",
+    "ReleaseDate": "1996-4-5",
+    "CriticScore": 80,
+    "Length": 40,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Treasure%20of%20the%20Rudras%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Treasure%20of%20the%20Rudras%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Treasure%20of%20the%20Rudras%20Trailer.mp4",
@@ -146305,8 +146346,12 @@
     "PlatformNames": [
       "Nintendo Super Entertainment System"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Japanese Role-Playing"
+    ],
+    "DeveloperNames": [
+      "Square"
+    ],
     "downloadInfo": {
       "Nintendo Super Entertainment System": {
         "versions": [
@@ -146331,11 +146376,12 @@
   {
     "_id": "game_1769761170128_0",
     "Name": "Feastopia",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Feastopia",
+    "Description": "Build and feed a burgeoning <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>gourmet civilization</span> from the ground up, placing <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>hand-crafted kitchens</span>, bustling <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>food stalls</span>, and sprawling <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>culinary districts</span> across five wildly different <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>fantasy biomes</span>.<br> Every run delivers a freshly shuffled <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>recipe deck</span>, demanding clever <span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>resource chains</span> and sharp decisions to keep <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>hungry citizens</span> satisfied across relentless escalating waves of challenge.<br> Unlock ambitions through a deep <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>meta-progression tree</span>, earn the favor of capricious <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>food deities</span>, and wield extraordinary <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>divine cooking powers</span> that can reshape the flow of an entire run.<br> With over <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>60 building types</span> and <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>70 gourmet recipes</span> to master, no two playthroughs ever taste the same in this adorably ruthless <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>roguelite culinary empire</span>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>شيّد <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>حضارة الطهي الراقي</span> من الصفر، بانياً <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>مطابخ مرسومة يدوياً</span> وأكشاك <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>الطعام الصاخبة</span> و<span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>الأحياء الغذائية</span> المترامية عبر خمسة <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>أحياء خيالية</span> متباينة.<br> تُقدِّم كل جولة <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>مجموعة وصفات</span> مخلوطة جديدة، مُطالِبةً إياك بإدارة <span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>سلاسل الموارد</span> بذكاء لإرضاء <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>المواطنين الجائعين</span> وسط موجات متصاعدة من التحديات.<br> طوّر مهاراتك عبر <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>شجرة التطور</span> العميقة، واكسب رضا <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>آلهة الطعام</span> المتقلبة، وامتلك <span style='color:#FF1493; font-weight:bold; text-shadow: 0 0 8px #FF1493;'>قوى الطهي الإلهية</span> التي تُغيِّر مجرى الجولة كلياً.<br> مع أكثر من <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>60 نوعاً من المباني</span> و<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>70 وصفة من الطهي الرفيع</span>، لا تتشابه جولتان في هذه <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الإمبراطورية الغذائية</span> القاسية بطريقة ممتعة.<br></div>",
+    "ReleaseDate": "2026-1-29",
+    "CriticScore": 60,
+    "Length": 20,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Feastopia%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Feastopia%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Feastopia%20Trailer.mp4",
@@ -146345,8 +146391,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "White Star Studio"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -148144,10 +148194,11 @@
     "_id": "game_1769960079955_0",
     "Name": "Code Vein II",
     "SortingName": "Code Vein 02",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
+    "Description": "In a crumbling world, the vampire-like <span style='color:#C0392B; font-weight:bold; text-shadow: 0 0 8px #C0392B;'>Revenants</span> face annihilation as the catastrophic <span style='color:#E74C3C; font-weight:bold; text-shadow: 0 0 8px #E74C3C;'>Resurgence</span> unleashes unstoppable <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Horrors</span> upon what remains of civilization.<br>The protagonist fights alongside <span style='color:#E8A0BF; font-weight:bold; text-shadow: 0 0 8px #E8A0BF;'>Lou MagMell</span>, who donated half her own heart to survive, binding their fates in blood and sacrifice.<br>The ruins of <span style='color:#9B59B6; font-weight:bold; text-shadow: 0 0 8px #9B59B6;'>Luna Rapacis</span> become the front line of a desperate war between factions, including the noble <span style='color:#D4AC0D; font-weight:bold; text-shadow: 0 0 8px #D4AC0D;'>Pathos of Sacrificed Heroes</span> led by the enigmatic <span style='color:#F39C12; font-weight:bold; text-shadow: 0 0 8px #F39C12;'>Josée Anjou</span> and the resolute <span style='color:#85C1E9; font-weight:bold; text-shadow: 0 0 8px #85C1E9;'>Holly Asturias</span>.<br>Wielding devastating <span style='color:#CB4335; font-weight:bold; text-shadow: 0 0 8px #CB4335;'>Blood Veils</span> and ancient <span style='color:#A569BD; font-weight:bold; text-shadow: 0 0 8px #A569BD;'>Gifts</span>, warriors battle the <span style='color:#641E16; font-weight:bold; text-shadow: 0 0 8px #641E16;'>Horror tide</span> threatening the last <span style='color:#E67E22; font-weight:bold; text-shadow: 0 0 8px #E67E22;'>Revenant Order</span>.<br>As <span style='color:#5DADE2; font-weight:bold; text-shadow: 0 0 8px #5DADE2;'>time fractures</span> tear through reality, every choice pulls the world toward salvation or irreversible ruin.",
+    "DescriptionArabic": "<div dir='rtl'>في عالم مُحطَّم، يواجه مصاصو الدماء المعروفون بـ<span style='color:#C0392B; font-weight:bold; text-shadow: 0 0 8px #C0392B;'>المُعادِين</span> الفناء بينما تُطلق الكارثة المسماة <span style='color:#E74C3C; font-weight:bold; text-shadow: 0 0 8px #E74C3C;'>البعث</span> موجات من <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الرعب</span> لا تُوقَف على ما تبقى من حضارة.<br>يُقاتل البطل جنباً إلى جنب مع <span style='color:#E8A0BF; font-weight:bold; text-shadow: 0 0 8px #E8A0BF;'>لو ماغميل</span> التي تبرعت بنصف قلبها لتبقى حيّة، واصلةً مصيرها بالمصير بالدم والتضحية.<br>تتحول أطلال <span style='color:#9B59B6; font-weight:bold; text-shadow: 0 0 8px #9B59B6;'>لونا راباسيس</span> إلى خط المواجهة في حرب يائسة بين فصائل محطمة، بما فيها <span style='color:#D4AC0D; font-weight:bold; text-shadow: 0 0 8px #D4AC0D;'>باثوس الأبطال المضحين</span> بقيادة <span style='color:#F39C12; font-weight:bold; text-shadow: 0 0 8px #F39C12;'>جوزيه أنجو</span> الغامضة والعازمة <span style='color:#85C1E9; font-weight:bold; text-shadow: 0 0 8px #85C1E9;'>هولي أستورياس</span>.<br>بين سطوة <span style='color:#CB4335; font-weight:bold; text-shadow: 0 0 8px #CB4335;'>الحجب الدموية</span> وقوى <span style='color:#A569BD; font-weight:bold; text-shadow: 0 0 8px #A569BD;'>المواهب</span> القديمة، يصمد المحاربون في وجه <span style='color:#641E16; font-weight:bold; text-shadow: 0 0 8px #641E16;'>مد الرعب</span> المهدد لآخر ما تبقى من <span style='color:#E67E22; font-weight:bold; text-shadow: 0 0 8px #E67E22;'>نظام المُعادِين</span>.<br>ومع تمزق <span style='color:#5DADE2; font-weight:bold; text-shadow: 0 0 8px #5DADE2;'>أوتار الزمن</span> وتكشّف حقائق مخفية، كل قرار يُقرّب العالم إما من الخلاص أو من دمار لا رجعة منه.</div>",
+    "ReleaseDate": "2026",
     "CriticScore": 80,
+    "Length": 30,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Code%20Vein%20II%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Code%20Vein%20II%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Code%20Vein%20II%20Trailer.mp4",
@@ -148157,8 +148208,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Souls"
+    ],
+    "DeveloperNames": [
+      "Bandai Namco"
+    ],
     "Tags": [
       "Hide",
       "Has Issues"
@@ -148393,11 +148448,12 @@
   {
     "_id": "game_1770187316041_0",
     "Name": "Digimon Story Time Stranger",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Digimon Story Time Stranger",
+    "Description": "When the <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>Shinjuku Inferno</span> tears open a <span style='color:#7B68EE; font-weight:bold; text-shadow: 0 0 8px #7B68EE;'>space-time rift</span> merging both worlds, young hacker <span style='color:#00BFFF; font-weight:bold; text-shadow: 0 0 8px #00BFFF;'>Dan Yuki</span> is thrust into a battle spanning eons.<br>Partnered with the mythical <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Aegiomon</span>, Dan uncovers a conspiracy behind the powerful <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>ADAMAS</span> organization whose ambitions threaten to rewrite history across the <span style='color:#00FA9A; font-weight:bold; text-shadow: 0 0 8px #00FA9A;'>Digital World of Illiad</span>.<br>Alongside the spirited <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>Inori Misono</span>, he battles through distorted timelines where ancient <span style='color:#8B008B; font-weight:bold; text-shadow: 0 0 8px #8B008B;'>Digimon Titans</span> slumber beneath fractured realities.<br>Each clash reveals deeper truths about <span style='color:#9400D3; font-weight:bold; text-shadow: 0 0 8px #9400D3;'>time corruption</span> consuming both worlds as <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>corrupted Digimon</span> are reborn as weapons of chaos.<br>Only by forging unbreakable <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Tamer Bonds</span> and mastering <span style='color:#E0C2FF; font-weight:bold; text-shadow: 0 0 8px #E0C2FF;'>Chrono Evolution</span> can Dan hope to seal the rift and restore what was lost.",
+    "DescriptionArabic": "<div dir='rtl'>حين يشقّ <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>جحيم شينجوكو</span> <span style='color:#7B68EE; font-weight:bold; text-shadow: 0 0 8px #7B68EE;'>شقاً في الزمكان</span> يدمج عالمين معاً، يجد الهاكر الشاب <span style='color:#00BFFF; font-weight:bold; text-shadow: 0 0 8px #00BFFF;'>دان يوكي</span> نفسه في قلب معركة تمتد عبر العصور.<br>يتشارك <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>إيجيومون</span> الأسطوري المسير مع دان في الكشف عن مؤامرة تقودها منظمة <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>أداماس</span> الجبارة، طموحها إعادة كتابة التاريخ عبر <span style='color:#00FA9A; font-weight:bold; text-shadow: 0 0 8px #00FA9A;'>العالم الرقمي إيلياد</span>.<br>إلى جانب المتحمسة <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>إينوري ميسونو</span>، يخوض دان معارك عبر خطوط زمنية مشوّهة يرقد فيها <span style='color:#8B008B; font-weight:bold; text-shadow: 0 0 8px #8B008B;'>عمالقة الديجيمون</span> القدامى تحت ركام الواقع المتكسّر.<br>تكشف كل مواجهة حقيقة أعمق عن <span style='color:#9400D3; font-weight:bold; text-shadow: 0 0 8px #9400D3;'>فساد الزمن</span> الذي يأكل العالمين بينما يُولَد <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الديجيمون الفاسدون</span> من جديد كأسلحة للفوضى.<br>لن ينجح دان في إغلاق الشق واستعادة ما ضاع إلا بنسج <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>روابط المروّض</span> والتمكن من فن <span style='color:#E0C2FF; font-weight:bold; text-shadow: 0 0 8px #E0C2FF;'>التطور الزمني</span>.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "Length": 40,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Digimon%20Story%20Time%20Stranger%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Digimon%20Story%20Time%20Stranger%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Digimon%20Story%20Time%20Stranger%20Trailer.mp4",
@@ -148407,8 +148463,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Monster Taming"
+    ],
+    "DeveloperNames": [
+      "Media Vision"
+    ],
     "Tags": [
       "Hide"
     ]
@@ -149010,10 +149070,11 @@
     "_id": "game_1770392016164_1",
     "Name": "Nioh 3",
     "SortingName": "Nioh 03",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "The fate of <span style='color:#C8A951; font-weight:bold; text-shadow: 0 0 8px #C8A951;'>Edo Castle</span> hangs in the balance as young <span style='color:#E8C87A; font-weight:bold; text-shadow: 0 0 8px #E8C87A;'>Tokugawa Takechiyo</span> battles through a world overrun by malevolent <span style='color:#9B59B6; font-weight:bold; text-shadow: 0 0 8px #9B59B6;'>Yokai</span> born from human fear and ambition.<br>Armed with the legendary <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>Kusanagi</span> and the power of <span style='color:#F0E68C; font-weight:bold; text-shadow: 0 0 8px #F0E68C;'>Guardian Spirits</span>, he tears through the <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Crucible</span>, a nightmarish realm where time itself unravels.<br>The bloody <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>Warring States</span>, haunted <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>Heian period</span>, and volatile <span style='color:#E07B39; font-weight:bold; text-shadow: 0 0 8px #E07B39;'>Bakumatsu</span> converge into a single battlefield of myth and steel.<br>Fearsome <span style='color:#6A0DAD; font-weight:bold; text-shadow: 0 0 8px #6A0DAD;'>Yokai Generals</span> command armies of shadow driving the world toward permanent darkness, while a mysterious <span style='color:#90EE90; font-weight:bold; text-shadow: 0 0 8px #90EE90;'>Kunimatsu</span> prophecy looms over all.<br>Only through iron will and mastery of <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>Stance Arts</span> can Takechiyo restore peace to a fractured Japan.",
+    "DescriptionArabic": "<div dir='rtl'>مصير <span style='color:#C8A951; font-weight:bold; text-shadow: 0 0 8px #C8A951;'>قلعة إيدو</span> معلّق بخيط رفيع فيما يخوض الشاب <span style='color:#E8C87A; font-weight:bold; text-shadow: 0 0 8px #E8C87A;'>توكوغاوا تاكيتشيو</span> حرباً شرسة في عالم اكتسحه <span style='color:#9B59B6; font-weight:bold; text-shadow: 0 0 8px #9B59B6;'>اليوكاي</span> المنبثق من أعماق الخوف والطموح البشري.<br>يشقّ طريقه بحد <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>كوساناغي</span> الأسطوري وقوة <span style='color:#F0E68C; font-weight:bold; text-shadow: 0 0 8px #F0E68C;'>الأرواح الحارسة</span> عبر <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>البوتقة</span>، ذلك المجال الكابوسي حيث يتفتت الزمن نفسه.<br>تتقاطع ثلاثة عصور مضطربة في ساحة حرب واحدة: <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>عهد الدول المتحاربة</span> الدموي، و<span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>حقبة هيان</span> المسكونة بالأشباح، و<span style='color:#E07B39; font-weight:bold; text-shadow: 0 0 8px #E07B39;'>باكوماتسو</span> المتقلبة.<br>يقود <span style='color:#6A0DAD; font-weight:bold; text-shadow: 0 0 8px #6A0DAD;'>جنرالات اليوكاي</span> جيوش الظلام نحو ظلام دائم، فيما تلوح نبوءة <span style='color:#90EE90; font-weight:bold; text-shadow: 0 0 8px #90EE90;'>كونيماتسو</span> الغامضة على الأفق.<br>لن يُعيد السلام لليابان المجزأة إلا إرادة فولاذية وإتقان تام لـ<span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>فنون الأوضاع</span>.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
+    "Length": 60,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Nioh%203%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Nioh%203%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Nioh%203%20Trailer.mp4",
@@ -149023,8 +149084,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Souls"
+    ],
+    "DeveloperNames": [
+      "Team Ninja"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -149992,11 +150057,12 @@
   {
     "_id": "game_1770811500816_0",
     "Name": "Moons of Madness",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Moons of Madness",
+    "Description": "<span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>Shane Newheart</span>, a technician at the isolated <span style='color:#708090; font-weight:bold; text-shadow: 0 0 8px #708090;'>Invictus Station</span> on Mars, begins experiencing terrifying visions after a mysterious <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>Martian signal</span> awakens something ancient.<br>The <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Orochi Corporation</span> secretly studied something eldritch deep beneath the surface, leaving Shane as the last barrier against catastrophe.<br>Monstrous creatures from <span style='color:#483D8B; font-weight:bold; text-shadow: 0 0 8px #483D8B;'>The Dreamers</span>, cosmic entities beyond human understanding, seep through reality as the eldritch <span style='color:#9ACD32; font-weight:bold; text-shadow: 0 0 8px #9ACD32;'>Gaia Engine</span> activates underground.<br>The moons <span style='color:#D2691E; font-weight:bold; text-shadow: 0 0 8px #D2691E;'>Phobos</span> and <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>Deimos</span> watch overhead as a harrowing <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>Witch</span> guides Shane toward an unspeakable truth tied to a <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Forbidden Ritual</span> predating humanity.<br>Every step deeper into the Invictus complex shatters <span style='color:#ADD8E6; font-weight:bold; text-shadow: 0 0 8px #ADD8E6;'>Shane's sanity</span>, merging science and <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>ancient horror</span> into one unthinkable nightmare.",
+    "DescriptionArabic": "<div dir='rtl'><span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>شين نيوهارت</span>، الفني في المحطة المعزولة <span style='color:#708090; font-weight:bold; text-shadow: 0 0 8px #708090;'>إنفيكتوس</span> على المريخ، يبدأ بتعقّل رؤى مرعبة إثر استقبال <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>إشارة مريخية</span> غريبة تُوقظ شيئاً قديماً.<br>كانت <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>شركة أوروتشي</span> تدرس سراً شيئاً غيبياً في أعماق الكوكب، تاركةً شين آخر حاجز يقف أمام الكارثة.<br>تتسلل مخلوقات <span style='color:#483D8B; font-weight:bold; text-shadow: 0 0 8px #483D8B;'>الحالمين</span> الكونية المرعبة عبر حجاب الواقع بينما يُفعَّل <span style='color:#9ACD32; font-weight:bold; text-shadow: 0 0 8px #9ACD32;'>محرك غايا</span> تحت التراب المريخي.<br>يحدق <span style='color:#D2691E; font-weight:bold; text-shadow: 0 0 8px #D2691E;'>فوبوس</span> و<span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>ديموس</span> من الأعلى كعيون ميتة بينما تقود <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>ساحرة</span> غامضة شين نحو حقيقة لا تُحتمل مرتبطة بـ<span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>طقس محرّم</span> سبق ولادة البشرية.<br>مع كل خطوة في أعماق المحطة، تتكسر <span style='color:#ADD8E6; font-weight:bold; text-shadow: 0 0 8px #ADD8E6;'>عقلانية شين</span> شيئاً فشيئاً، حتى يتوحد العلم و<span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>الرعب القديم</span> في كابوس واحد لا يُحتمل.</div>",
+    "ReleaseDate": "2019",
+    "CriticScore": 60,
+    "Length": 10,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Moons%20of%20Madness%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Moons%20of%20Madness%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Moons%20of%20Madness%20Trailer.mp4",
@@ -150006,8 +150072,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "Rock Pocket Games"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -151126,11 +151196,12 @@
   {
     "_id": "game_1771185916610_0",
     "Name": "Ad Infinitum",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Ad Infinitum",
+    "Description": "Trapped between the <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>trenches of the Great War</span> and the haunted halls of his <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>family mansion</span>, German soldier <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>Paul von Schmidt</span> cannot escape the nightmares consuming everything he loves.<br>Each time reality fractures, the <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>Western Front</span> bleeds through — grotesque <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>war demons</span> manifesting the <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>guilt</span> and <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>trauma</span> of a family shattered by the horrors of war.<br>Through scattered letters and broken <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>memories</span>, the full tragedy of how <span style='color:#A0522D; font-weight:bold; text-shadow: 0 0 8px #A0522D;'>World War I</span> tore the <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>Schmidt family</span> apart unravels — but the most disturbing truth still lies buried.<br>To free them, Paul must descend into each family member's <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>personal nightmare</span> and choose between <span style='color:#90EE90; font-weight:bold; text-shadow: 0 0 8px #90EE90;'>mercy</span> and letting the darkness take what remains.",
+    "DescriptionArabic": "<div dir='rtl'>محاصر بين <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>خنادق الحرب الكبرى</span> والردهات المسكونة لـ<span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>منزل العائلة</span>، لا يستطيع الجندي الألماني <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>بول فون شميدت</span> الهروب من الكوابيس التي تلتهم كل شيء يحبه.<br>في كل مرة تتصدع الحقيقة، تنزّ <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>الجبهة الغربية</span> إلى الواقع — <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>شياطين الحرب</span> المشوهة تجسّد <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>الذنب</span> و<span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>الصدمة</span> في عائلة حطمتها أهوال الحرب.<br>عبر رسائل متناثرة و<span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>ذكريات</span> مكسورة، تتكشف مأساة كيف مزّقت <span style='color:#A0522D; font-weight:bold; text-shadow: 0 0 8px #A0522D;'>الحرب العالمية الأولى</span> عائلة <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>شميدت</span> قطعة قطعة — غير أن الحقيقة الأشد إزعاجاً لا تزال مدفونة.<br>لتحريرهم، على بول النزول في <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>كابوس</span> كل فرد من عائلته والاختيار بين <span style='color:#90EE90; font-weight:bold; text-shadow: 0 0 8px #90EE90;'>الرحمة</span> والسماح للظلام بأخذ ما تبقى.</div>",
+    "ReleaseDate": "2023",
+    "CriticScore": 80,
+    "Length": 10,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Ad%20Infinitum%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Ad%20Infinitum%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Ad%20Infinitum%20Trailer.mp4",
@@ -151140,8 +151211,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "Hekate"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -151377,11 +151452,12 @@
   {
     "_id": "game_1771450081455_6",
     "Name": "The Ascent",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "The Ascent",
+    "Description": "In the towering <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>arcology</span> of <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Veles</span>, all life is owned by the <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>Ascent Group</span> — a megacorporation that holds millions of <span style='color:#708090; font-weight:bold; text-shadow: 0 0 8px #708090;'>Indent workers</span> in <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>perpetual servitude</span>, controlling every breath they take.<br>When the corporation collapses overnight, its <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>security forces</span> dissolve and the arcology erupts as <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>gangs</span>, <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>rival corps</span>, and <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>rogue syndicates</span> tear through the power vacuum left behind.<br>Stranded at the bottom, a sole Indent worker takes orders from the cunning fixer <span style='color:#20B2AA; font-weight:bold; text-shadow: 0 0 8px #20B2AA;'>Poone</span>, clawing upward through the carnage to find who destroyed the Ascent Group — and why.<br>The answer waits in the arcology's <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>upper tiers</span>, buried beneath <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>corporate conspiracy</span> that powerful hands will kill to protect.",
+    "DescriptionArabic": "<div dir='rtl'>في <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>الأركولوجي</span> الشاهق في <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>فيليس</span>، تمتلك <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>مجموعة أسيند</span> كل شيء — شركة عملاقة تُبقي الملايين من <span style='color:#708090; font-weight:bold; text-shadow: 0 0 8px #708090;'>عمال الإندنت</span> في <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>عبودية دائمة</span>، تتحكم في كل نفس يتنفسونه.<br>حين ينهار الاحتكار فجأة بين عشية وضحاها، تتبخر <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>قوات الأمن</span> وينفجر الأركولوجي فوضى عارمة بينما تتنافس <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>العصابات</span> و<span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>الشركات المنافسة</span> و<span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>النقابات المارقة</span> على ملء الفراغ.<br>محاصراً في القاع، يتلقى عامل إندنت وحيد أوامر من القسيم الماكر <span style='color:#20B2AA; font-weight:bold; text-shadow: 0 0 8px #20B2AA;'>بون</span>، يشق طريقه بالقوة عبر الفوضى للكشف عمن دمّر مجموعة أسيند ولماذا.<br>الإجابة تنتظر في <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الطوابق العليا</span> للأركولوجي، مدفونة تحت <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>مؤامرة الشركات</span> التي ستقتل أصحاب القرار لحمايتها.</div>",
+    "ReleaseDate": "2021",
+    "CriticScore": 80,
+    "Length": 20,
     "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Ascent%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Ascent%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Ascent%20Trailer.mp4",
@@ -151391,8 +151467,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Shooter"
+    ],
+    "DeveloperNames": [
+      "Neon Giant"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -151559,11 +151639,12 @@
   {
     "_id": "game_1771466897605_3",
     "Name": "Valheim",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Valheim",
+    "Description": "Slain in battle, your <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>soul</span> is carried by the <span style='color:#C0C0C0; font-weight:bold; text-shadow: 0 0 8px #C0C0C0;'>Valkyries</span> to <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>Valheim</span>, the forgotten tenth <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>Norse realm</span> — a <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>primordial purgatory</span> seething with the remnants of gods, monsters, and ancient wars.<br><span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Odin</span> himself commands from <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>Yggdrasil</span>, tasking you with hunting the eight <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Forsaken</span>, <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>ancient enemies</span> whose gathering power could unmake the boundary between worlds.<br>Each biome conceals one of these monstrous tyrants — from the grotesque <span style='color:#6B8E23; font-weight:bold; text-shadow: 0 0 8px #6B8E23;'>Elder</span> lurking in the <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>Black Forest</span> to the colossal <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>Yagluth</span> smoldering in the scorched Plains.<br>But why does the Allfather need a mortal to slay what even gods could not — and what truly waits at the edge of this cursed realm?",
+    "DescriptionArabic": "<div dir='rtl'>تحملك <span style='color:#C0C0C0; font-weight:bold; text-shadow: 0 0 8px #C0C0C0;'>الفالكيريات</span> بعد مقتلك في المعركة إلى <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>فالهايم</span>، العالم <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>النوردي</span> العاشر المنسي — <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>مطهر أزلي</span> يغلي بأشلاء الآلهة والوحوش والحروب البائدة.<br><span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>أودين</span> نفسه يراقبك من <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>يغدراسيل</span>، كلّفك بصيد الثمانية <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>المنبوذين</span>، <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>الأعداء القدامى</span> الذين تتراكم قوتهم لتمزيق حدود العوالم.<br>يختبئ في كل بيئة أحد هؤلاء الطغاة المروعين — من <span style='color:#6B8E23; font-weight:bold; text-shadow: 0 0 8px #6B8E23;'>الشيخ</span> العفن المتربص في <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>الغابة السوداء</span> إلى <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>ياغلوث</span> المتوهج في السهول المحترقة.<br>لكن لماذا يحتاج الإله الأعلى إلى إنسان فانٍ لإنجاز ما عجزت عنه الآلهة — وما الذي ينتظر فعلاً عند حافة هذا العالم الملعون؟</div>",
+    "ReleaseDate": "2021",
+    "CriticScore": 80,
+    "Length": 70,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Valheim%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Valheim%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Valheim%20Trailer.mp4",
@@ -151573,8 +151654,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Survival"
+    ],
+    "DeveloperNames": [
+      "Iron Gate Studio"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -151856,10 +151941,11 @@
     "_id": "game_1771633492545_1",
     "Name": "Ys X Proud Nordics",
     "SortingName": "Ys 10.02",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Legendary red-haired adventurer <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Adol Christin</span> washes ashore in the scattered sea realm of <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>Obelia Bay</span>, where the proud <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>Norman</span> seafarers have commanded the ocean for generations.<br>A violent encounter with <span style='color:#20B2AA; font-weight:bold; text-shadow: 0 0 8px #20B2AA;'>Karja Balta</span>, a headstrong Norman soldier, drags Adol into an ancient war against the <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Griegr</span> — <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>supernatural raiders</span> surging from the depths to devour the <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>Norman homeland</span>.<br>Forced together, the two form the <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>Mana Link</span>, an unprecedented bond sharing power as their <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>bitter rivalry</span> slowly transforms into something neither expected.<br>But the Griegr's fury hides an <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>ancient secret</span> sleeping beneath the <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Obelia Sea</span> — one that could unmake all of <span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>Norman history</span>.",
+    "DescriptionArabic": "<div dir='rtl'>يصل المغامر الأسطوري ذو الشعر الأحمر <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>أدول كريستن</span> إلى شواطئ <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>خليج أوبيليا</span>، حيث يتسيد <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>النورمان</span> البحار منذ أجيال بنفس الشراسة التي يخوضون بها المعارك.<br>يجرّه لقاء عنيف مع <span style='color:#20B2AA; font-weight:bold; text-shadow: 0 0 8px #20B2AA;'>كارجا بالتا</span>، الجندية النورمانية العنيدة، في حرب أقدم من كليهما ضد <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الغريغر</span> — <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>غزاة خارقون</span> يتدفقون من الأعماق لابتلاع <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>وطن النورمان</span>.<br>يضطر الاثنان إلى تشكيل <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>رابطة المانا</span>، رابطة استثنائية تشارك القوة بينما تتحول <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>عداوتهما المرّة</span> إلى شيء لم يتوقعه أيٌّ منهما.<br>لكن غضب الغريغر يخفي <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>سراً قديماً</span> نائماً تحت <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>بحر أوبيليا</span> — سرٌّ قادر على محو <span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>تاريخ النورمان</span> كله.</div>",
+    "ReleaseDate": "2024",
+    "CriticScore": 80,
+    "Length": 45,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Ys%20X%20Proud%20Nordics%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Ys%20X%20Proud%20Nordics%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Ys%20X%20Proud%20Nordics%20Trailer.mp4",
@@ -151869,8 +151955,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Japanese Role-Playing"
+    ],
+    "DeveloperNames": [
+      "Nihon Falcom"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -151927,11 +152017,12 @@
   {
     "_id": "game_1771687927456_0",
     "Name": "Blue Dragon",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Blue Dragon",
+    "Description": "In a world terrorized by the marauding <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>Land Shark</span>, young friends <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Shu</span>, <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>Jiro</span>, and <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>Kluke</span> are swallowed whole, only to emerge wielding a miraculous gift: magical <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Shadows</span>, phantom warriors bound to their souls.<br>Joined by the bold <span style='color:#20B2AA; font-weight:bold; text-shadow: 0 0 8px #20B2AA;'>Zola</span> and the excitable <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>Marumaro</span>, they soon learn their power was no accident — it was created by <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Nene</span>, the undying tyrant of the <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>Grand Kingdom</span>.<br>Nene commands <span style='color:#708090; font-weight:bold; text-shadow: 0 0 8px #708090;'>Mechat armies</span> vast enough to shatter nations, yet his true goal reaches far beyond conquest.<br>As dark secrets about <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>Shu's past</span> and the <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>origins of Shadow power</span> begin to unravel, what began as a quest for survival spirals toward the fate of the entire world.",
+    "DescriptionArabic": "<div dir='rtl'>في عالم يرعبه <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>سمك الأرض المفترس</span>، يُبتلع ثلاثة من أبناء القرية — <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>شو</span>، <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>جيرو</span>، و<span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>كلوك</span> — ليظهروا من جديد يمتلكون هبة معجزة: استدعاء <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>الظلال</span>، محاربين أشباحاً مرتبطين بأرواحهم.<br>بمشاركة <span style='color:#20B2AA; font-weight:bold; text-shadow: 0 0 8px #20B2AA;'>زولا</span> الجسور و<span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>مارومارو</span> المتحمس، يكتشفون أن قوتهم لم تكن صدفة — بل صنعها <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>نيني</span>، الطاغية الخالد وحاكم <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>المملكة العظيمة</span>.<br>يقود نيني <span style='color:#708090; font-weight:bold; text-shadow: 0 0 8px #708090;'>جيوش الميكات</span> الكافية لتحطيم الأمم، غير أن هدفه الحقيقي يتجاوز الفتح بكثير.<br>ومع انكشاف أسرار مظلمة حول <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>ماضي شو</span> و<span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>أصول قوة الظلال</span>، تتحول رحلة انطلقت من البقاء إلى معركة من أجل مصير العالم بأسره.</div>",
+    "ReleaseDate": "2006",
+    "CriticScore": 80,
+    "Length": 40,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Blue%20Dragon%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Blue%20Dragon%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Blue%20Dragon%20Trailer.mp4",
@@ -151941,8 +152032,12 @@
     "PlatformNames": [
       "Microsoft Xbox 360"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Japanese Role-Playing"
+    ],
+    "DeveloperNames": [
+      "Mistwalker"
+    ],
     "downloadInfo": {
       "Microsoft Xbox 360": {
         "versions": [
@@ -151972,5 +152067,254 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1771951973265_0",
+    "Name": "Demon Tides",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Demon%20Tides%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Demon%20Tides%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Demon%20Tides%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP014",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "00505.zip",
+            "executable": "Demon Tides.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771951973266_1",
+    "Name": "Echoes of the Living",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Echoes%20of%20the%20Living%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Echoes%20of%20the%20Living%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Echoes%20of%20the%20Living%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 94.301416,
+    "MusicUrl": "https://archive.org/download/RPRM001/Echoes%20of%20the%20Living%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP014",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "34 GB",
+            "executable": "EOTL.exe",
+            "arguments": [],
+            "buildID": "24 February 2026",
+            "filename": "00506.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771951973266_2",
+    "Name": "ICARUS",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/ICARUS%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/ICARUS%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/ICARUS%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/ICARUS%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP014",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "44 GB",
+            "executable": "Icarus.exe",
+            "arguments": [],
+            "buildID": "22 February 2026",
+            "filename": "00507.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771951973266_3",
+    "Name": "Machick 2",
+    "SortingName": "Machick 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Machick%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Machick%202%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Machick%202%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Machick%202%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP014",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "972 MB",
+            "executable": "Machick 2.exe",
+            "arguments": [],
+            "buildID": "21 February 2026",
+            "filename": "00508.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771951973266_4",
+    "Name": "Manairons",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Manairons%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Manairons%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Manairons%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Manairons%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP014",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "9 GB",
+            "filename": "00509.zip",
+            "executable": "Manairons.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771951973266_5",
+    "Name": "WiZmans World ReTry",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/WiZmans%20World%20ReTry%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/WiZmans%20World%20ReTry%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/WiZmans%20World%20ReTry%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/WiZmans%20World%20ReTry%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP014",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "00510.zip",
+            "executable": "WiZmans World ReTry.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1771952149452_0",
+    "Name": "Machick",
+    "SortingName": "Machick 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Machick%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Machick%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Machick%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Machick%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP014",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "141 MB",
+            "executable": "Machick.exe",
+            "arguments": [],
+            "buildID": "8 December 2024",
+            "filename": "00511.zip"
+          }
+        ]
+      }
+    }
   }
 ]
