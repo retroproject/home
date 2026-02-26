@@ -120466,22 +120466,24 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "COPC01",
+            "identifier": "RPRP014",
             "name": "Online",
             "platform": "PC Game",
             "fileSize": "2GB",
             "arguments": [],
             "executable": "EOSAuthLauncher.exe",
-            "filename": "Teenage Mutant Ninja Turtles Splintered Fate.zip"
+            "buildID": "28072025",
+            "filename": "00515.zip"
           },
           {
-            "identifier": "CPC41",
+            "identifier": "RPRP014",
             "name": "Offline",
             "platform": "PC Game",
             "fileSize": "3GB",
             "arguments": [],
             "executable": "TMNTSF.exe",
-            "filename": "Teenage Mutant Ninja Turtles Splintered Fate.zip"
+            "buildID": "24 February 2026",
+            "filename": "00514.zip"
           }
         ]
       }
@@ -152317,6 +152319,302 @@
             "arguments": [],
             "buildID": "8 December 2024",
             "filename": "00511.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1772129412210_0",
+    "Name": "Forgotlings",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Forgotlings%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Forgotlings%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Forgotlings%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Forgotlings%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP014",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "15 GB",
+            "executable": "Forgotlings.exe",
+            "arguments": [],
+            "buildID": "25 February 2026",
+            "filename": "00516.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1772129412210_1",
+    "Name": "Ice Age Dawn of the Dinosaurs",
+    "SortingName": "Ice Age 03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Ice%20Age%20Dawn%20of%20the%20Dinosaurs%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Ice%20Age%20Dawn%20of%20the%20Dinosaurs%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Ice%20Age%20Dawn%20of%20the%20Dinosaurs%20Trailer.mp4",
+    "videoStart": 5.1,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Ice%20Age%20Dawn%20of%20the%20Dinosaurs%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP014",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "filename": "00517.zip",
+            "executable": "iceage3.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1772129412210_2",
+    "Name": "Ice Age Scrats Nutty Adventure",
+    "SortingName": "Ice Age 04",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Ice%20Age%20Scrats%20Nutty%20Adventure%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Ice%20Age%20Scrats%20Nutty%20Adventure%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Ice%20Age%20Scrats%20Nutty%20Adventure%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Ice%20Age%20Scrats%20Nutty%20Adventure%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP014",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "14 GB",
+            "executable": "IceAge.exe",
+            "arguments": [],
+            "buildID": "18 October 2019",
+            "filename": "00518.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1772129412210_3",
+    "Name": "Reigns The Witcher",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Reigns%20The%20Witcher%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Reigns%20The%20Witcher%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Reigns%20The%20Witcher%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 54.123088,
+    "MusicUrl": "https://archive.org/download/RPRM001/Reigns%20The%20Witcher%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP014",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "204 MB",
+            "executable": "ReignsWitcher.exe",
+            "arguments": [],
+            "buildID": "25 February 2026",
+            "filename": "00519.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1772129412210_4",
+    "Name": "Utawarerumono ZAN",
+    "SortingName": "Utawarerumono ZAN 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Utawarerumono%20ZAN%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Utawarerumono%20ZAN%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Utawarerumono%20ZAN%20Trailer.mp4",
+    "videoStart": 2.64264,
+    "videoEnd": 85.4,
+    "MusicUrl": "https://archive.org/download/RPRM001/Utawarerumono%20ZAN%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP014",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "executable": "UtawarerumonoZAN.exe",
+            "arguments": [],
+            "buildID": "24 February 2026",
+            "filename": "00520.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1772129412210_5",
+    "Name": "Utawarerumono ZAN 2",
+    "SortingName": "Utawarerumono ZAN 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Utawarerumono%20ZAN%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Utawarerumono%20ZAN%202%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Utawarerumono%20ZAN%202%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Utawarerumono%20ZAN%202%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP014",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "22 GB",
+            "executable": "UtawarerumonoZAN2.exe",
+            "arguments": [],
+            "buildID": "25 February 2026",
+            "filename": "00521.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1772136705827_0",
+    "Name": "Ice Age 2 The Meltdown",
+    "SortingName": "Ice Age 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Ice%20Age%202%20The%20Meltdown%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Ice%20Age%202%20The%20Meltdown%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Ice%20Age%202%20The%20Meltdown%20Trailer.mp4",
+    "videoStart": 1.1,
+    "videoEnd": 30.9,
+    "MusicUrl": "https://archive.org/download/RPRM001/Ice%20Age%202%20The%20Meltdown%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 2"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "2 GB",
+            "filename": "Ice Age 2 The Meltdown.iso",
+            "filenames": [
+              "Ice Age 2 The Meltdown.iso"
+            ],
+            "romFile": "Ice Age 2 The Meltdown.iso",
+            "emulator": "PCSX2",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1772136714906_0",
+    "Name": "Ice Age",
+    "SortingName": "Ice Age 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Ice%20Age%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Ice%20Age%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Ice%20Age%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Ice%20Age%20Theme.mp3",
+    "PlatformNames": [
+      "Nintendo Game Boy Advance"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Game Boy Advance": {
+        "versions": [
+          {
+            "identifier": "retro-gba",
+            "name": "Vanilla",
+            "platform": "Nintendo Game Boy Advance",
+            "fileSize": "4 MB",
+            "filename": "Ice Age.gba",
+            "filenames": [
+              "Ice Age.gba"
+            ],
+            "romFile": "Ice Age.gba",
+            "emulator": "RetroArch",
+            "arguments": [
+              "-L",
+              ".\\cores\\mgba_libretro.dll"
+            ]
           }
         ]
       }
