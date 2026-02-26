@@ -42026,28 +42026,22 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPCAR01",
+            "identifier": "RPRP014",
             "name": "Arabic",
             "platform": "PC Game",
-            "executable": "CodeVein\\Binaries\\Win64\\CodeVein-Win64-Shipping.exe",
+            "executable": "gezgame\\Binaries\\WinAnvil\\CodeVein.exe",
             "fileSize": "31GB",
-            "filename": "Code Vein.zip"
+            "buildID": "26 May 2020",
+            "filename": "00512.zip"
           },
           {
-            "identifier": "retroid-2",
+            "identifier": "RPRP014",
             "name": "English",
             "platform": "PC Game",
-            "executable": "CodeVein\\Binaries\\Win64\\CodeVein-Win64-Shipping.exe",
+            "executable": "gezgame\\Binaries\\WinAnvil\\CodeVein.exe",
             "fileSize": "31GB",
-            "filename": "Code Vein.zip"
-          },
-          {
-            "identifier": "COPC03",
-            "name": "Online",
-            "platform": "PC Game",
-            "executable": "GDK_Helper.bat",
-            "fileSize": "34GB",
-            "filename": "Code Vein.zip"
+            "buildID": "26 May 2020",
+            "filename": "00513.zip"
           }
         ]
       }
@@ -146416,11 +146410,12 @@
   {
     "_id": "game_1769761170128_1",
     "Name": "The Perfect Pencil",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "The Perfect Pencil",
+    "Description": "<span style='color:#B0C4DE; font-weight:bold; text-shadow: 0 0 8px #B0C4DE;'>John</span> awakens inside a bizarre <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>hand-drawn kingdom</span> where every grotesque creature, warped landscape, and whispering shadow is a living fragment of his own <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>fractured psyche</span>.<br> Guided by nothing but instinct, he plunges into the <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>innermost depths</span> of his own mind — a surreal <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>nightmare realm</span> where <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>fear manifests</span> into towering boss encounters, each a dark symbol of <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>unresolved trauma</span>.<br> From the eerie <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>dream corridors</span> to the most harrowing <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>psychological arenas</span>, John must face every <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>hidden terror</span> he has buried, one shattered reflection at a time.<br> In this atmospheric <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>dark metroidvania</span>, layered secrets and branching endings wait for those willing to descend into the truth of a <span style='color:#A9A9A9; font-weight:bold; text-shadow: 0 0 8px #A9A9A9;'>broken soul</span> before the darkness consumes what remains.<br>",
+    "DescriptionArabic": "<div dir='rtl'>يستيقظ <span style='color:#B0C4DE; font-weight:bold; text-shadow: 0 0 8px #B0C4DE;'>جون</span> داخل <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>مملكة مرسومة باليد</span> غريبة، حيث كل مخلوق مشوّه ومنظر مقلوب وظل يهمس هو جزء حي من <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>نفسيته المتشققة</span>.<br> مدفوعاً بغريزته فحسب، يغوص في <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>أعماق ذاته</span> — عالم سريالي من <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الكوابيس</span> حيث <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>يتجسد الخوف</span> في مواجهات ضخمة، كل منها رمز مظلم من رموز <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>الصدمات غير المحلولة</span>.<br> من <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>ممرات الأحلام</span> الموحشة إلى أشد <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>الحلبات النفسية</span> رعباً، يواجه جون كل <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>رعب مدفون</span> في أعماقه، انعكاساً محطماً في كل مرة.<br> في هذه <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>ميترويدفانيا المظلمة</span>، تنتظر أسرار متشعبة ونهايات متعددة من يجرؤ على النزول إلى حقيقة <span style='color:#A9A9A9; font-weight:bold; text-shadow: 0 0 8px #A9A9A9;'>روح مكسورة</span> قبل أن يبتلعها الظلام.<br></div>",
+    "ReleaseDate": "2026-1-29",
+    "CriticScore": 80,
+    "Length": 10,
     "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Perfect%20Pencil%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Perfect%20Pencil%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Perfect%20Pencil%20Trailer.mp4",
@@ -146430,8 +146425,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Metroidvania"
+    ],
+    "DeveloperNames": [
+      "Studio Cima"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -146454,11 +146453,12 @@
   {
     "_id": "game_1769761170128_2",
     "Name": "The Quarry",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "The Quarry",
+    "Description": "As the last bus departs <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>Hackett's Quarry</span>, nine <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>teenage counselors</span> are stranded for one final night in a <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>lakeside summer camp</span> that conceals far darker secrets than ghost stories told around the fire.<br> Deep in the fog-drenched <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>Catskill woods</span>, something <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>ancient and inhuman</span> has awakened — a <span style='color:#9400D3; font-weight:bold; text-shadow: 0 0 8px #9400D3;'>supernatural force</span> bound to the <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Hackett bloodline</span> by decades of buried <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>family secrets</span> and unthinkable pacts.<br> Every panicked choice, every sprint through the <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>moonlit forest</span>, and every missed clue permanently reshapes which of <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>nine lives</span> survives until <span style='color:#FFA500; font-weight:bold; text-shadow: 0 0 8px #FFA500;'>dawn's first light</span>.<br> In this gripping <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>interactive horror</span>, tragedy and survival intertwine across a single terrifying night that tells a completely different story with every new playthrough.<br>",
+    "DescriptionArabic": "<div dir='rtl'>مع مغادرة آخر حافلة لـ<span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>حفرة هاكيت</span>، يجد تسعة <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>مرشدي مخيم مراهقين</span> أنفسهم محاصرين ليلة أخيرة في <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>مخيم صيفي بجانب البحيرة</span> يُخفي أسراراً أشد ظلاماً من قصص الأشباح.<br> في أعماق <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>غابات كاتسكيل</span> الضبابية، شيء <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>قديم وغير إنساني</span> قد صحا — <span style='color:#9400D3; font-weight:bold; text-shadow: 0 0 8px #9400D3;'>قوة خارق للطبيعة</span> مرتبطة بـ<span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>سلالة هاكيت</span> عبر عقود من <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>أسرار العائلة</span> المدفونة.<br> كل قرار مذعور، وكل ركضة عبر <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>الغابة المضاءة بالقمر</span>، وكل دليل فائت يُعيد رسم أي من <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>الأرواح التسع</span> ينجو حتى <span style='color:#FFA500; font-weight:bold; text-shadow: 0 0 8px #FFA500;'>ضوء الفجر الأول</span>.<br> في هذا <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>الرعب التفاعلي</span> المشوّق، تتشابك المأساة والنجاة في ليلة واحدة مرعبة تحكي قصة مختلفة تماماً مع كل جولة جديدة.<br></div>",
+    "ReleaseDate": "2022-6-10",
+    "CriticScore": 80,
+    "Length": 10,
     "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Quarry%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Quarry%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Quarry%20Trailer.mp4",
@@ -146468,8 +146468,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Interactive Drama"
+    ],
+    "DeveloperNames": [
+      "Supermassive Games"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -146490,11 +146494,12 @@
   {
     "_id": "game_1769762542978_0",
     "Name": "Crusader Kings Complete",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Crusader Kings 01",
+    "Description": "Rule the <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>medieval world</span> through centuries of cunning and blood in this landmark <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>dynasty strategy</span>, where the fate of <span style='color:#6B8E23; font-weight:bold; text-shadow: 0 0 8px #6B8E23;'>feudal Europe</span> rests entirely on your scheming, your alliances, and the loyalty of your <span style='color:#A9A9A9; font-weight:bold; text-shadow: 0 0 8px #A9A9A9;'>knights and levies</span>.<br> Navigate treacherous <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>court intrigue</span>, arrange <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>dynastic marriages</span>, engineer ruthless <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>assassination plots</span>, and crush <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>vassal rebellions</span> before your crumbling realm is torn apart.<br> Wage <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>holy crusades</span> across Christendom, secure the favor of the <span style='color:#F0E68C; font-weight:bold; text-shadow: 0 0 8px #F0E68C;'>papal throne</span>, and expand your domain through war, diplomacy, and the well-timed <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>poisoned goblet</span>.<br> Every heir who wears your <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>dynasty crest</span> inherits your legacy and your enemies, making each generation a new fight for medieval supremacy that defines the history of a continent.<br>",
+    "DescriptionArabic": "<div dir='rtl'>احكم <span style='color:#DAA520; font-weight:bold; text-shadow: 0 0 8px #DAA520;'>العالم القروسطي</span> عبر قرون من الدهاء والدم في هذه اللعبة الاستراتيجية الأسطورية لـ<span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>بناء الأسرات</span>، حيث يتوقف مصير <span style='color:#6B8E23; font-weight:bold; text-shadow: 0 0 8px #6B8E23;'>أوروبا الإقطاعية</span> على مكائدك وتحالفاتك ووفاء <span style='color:#A9A9A9; font-weight:bold; text-shadow: 0 0 8px #A9A9A9;'>فرسانك وجيوشك</span>.<br> تنقل في <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>مؤامرات البلاط</span> الخبيثة، ودبّر <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>زيجات الأسرات</span>، ودبّر <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>مؤامرات الاغتيال</span>، واسحق <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>تمردات الإقطاعيين</span> قبل أن تتفتت مملكتك.<br> شنّ <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الحروب الصليبية</span> عبر العالم المسيحي، واكسب ودّ <span style='color:#F0E68C; font-weight:bold; text-shadow: 0 0 8px #F0E68C;'>العرش البابوي</span>، ووسّع نفوذك بالحرب والدبلوماسية و<span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>الكأس المسمومة</span> في الوقت المناسب.<br> كل وارث يرتدي <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>شعار أسرتك</span> يرث تركتك وأعداءك، مما يجعل كل جيل معركة جديدة على الهيمنة القروسطية.<br></div>",
+    "ReleaseDate": "2004-4-1",
+    "CriticScore": 60,
+    "Length": 20,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Crusader%20Kings%20Complete%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Crusader%20Kings%20Complete%20Cover.jpg",
     "YouTubeUrl": "",
@@ -152078,9 +152083,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Demon%20Tides%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Demon%20Tides%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Demon%20Tides%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 72.135958,
     "MusicUrl": "https://archive.org/download/RPRM001/Demon%20Tides%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
