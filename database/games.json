@@ -75754,7 +75754,7 @@
     "_id": "95d7c912-d4c3-49dc-8630-fbff71fc0a3a",
     "GameId": "c73e31348b524c178d95e11e6cc6310b",
     "Name": "Tales of Berseria",
-    "SortingName": "Tales of 14",
+    "SortingName": "Tales of 14.01",
     "Description": "<span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Velvet Crowe</span> awakens from a three-year imprisonment to discover her beloved brother <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 8px #FFB6C1;'>Laphicet</span> was sacrificed by her former mentor <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Artorius</span> in a ritual that transformed her into a <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>daemon</span>.<br>Driven by <span style='color:#8B008B; font-weight:bold; text-shadow: 0 0 8px #8B008B;'>unquenchable vengeance</span>, she discovers that Artorius has become the <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Abbey's supreme leader</span>, using her brother's death to suppress all emotion and <span style='color:#20B2AA; font-weight:bold; text-shadow: 0 0 8px #20B2AA;'>free will</span> across the world.<br>Her journey becomes a <span style='color:#F4A460; font-weight:bold; text-shadow: 0 0 8px #F4A460;'>morally complex war</span> between <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>personal revenge</span> and <span style='color:#98FB98; font-weight:bold; text-shadow: 0 0 8px #98FB98;'>universal liberation</span>.",
     "DescriptionArabic": "<div dir='rtl'>تستيقظ <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>فيلفيت كرو</span> من سجن دام ثلاث سنوات لتكتشف أن أخاها الحبيب <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 8px #FFB6C1;'>لافيسيت</span> قد ضُحي به على يد معلمها السابق <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>أرتوريوس الخائن</span> في طقوس حولتها إلى <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>شيطان منتقم</span>.<br>مدفوعة بـ<span style='color:#8B008B; font-weight:bold; text-shadow: 0 0 8px #8B008B;'>عطش لا ينطفئ للانتقام</span>، تكتشف أن أرتوريوس أصبح <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>القائد الأعلى للدير</span>، مستخدماً موت أخيها لقمع كل المشاعر و<span style='color:#20B2AA; font-weight:bold; text-shadow: 0 0 8px #20B2AA;'>الإرادة الحرة</span> عبر العالم.<br>تصبح رحلتها <span style='color:#F4A460; font-weight:bold; text-shadow: 0 0 8px #F4A460;'>حرباً أخلاقية معقدة</span> بين <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>الانتقام الشخصي</span> و<span style='color:#98FB98; font-weight:bold; text-shadow: 0 0 8px #98FB98;'>تحرير البشرية جمعاء</span>.</div>",
     "ReleaseDate": "2016-8-18",
@@ -152615,6 +152615,41 @@
               "-L",
               ".\\cores\\mgba_libretro.dll"
             ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1772162048780_0",
+    "Name": "Tales of Berseria Remastered",
+    "SortingName": "Tales of 14.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Tales%20of%20Berseria%20Remastered%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Tales%20of%20Berseria%20Remastered%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Tales%20of%20Berseria%20Remastered%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 121.886513,
+    "MusicUrl": "https://archive.org/download/RPRM001/Tales%20of%20Berseria%20Remastered%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP014",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "13 GB",
+            "filename": "00522.zip",
+            "executable": "Tales of Berseria Remastered.exe",
+            "arguments": []
           }
         ]
       }
