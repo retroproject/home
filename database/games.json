@@ -32070,7 +32070,7 @@
     "_id": "3f68575a-e06d-4ebe-a586-7a70211593c4",
     "GameId": "d802e49e972a820dc959e35bb5e3b868",
     "Name": "Resident Evil Village",
-    "SortingName": "Resident Evil 08",
+    "SortingName": "Resident Evil 08.01",
     "Description": "Three years after the Baker family incident, <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Ethan Winters</span> finds his peaceful life with wife <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 6px #FFB6C1;'>Mia</span> and daughter <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 6px #FFD700;'>Rose</span> shattered when <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Chris Redfield</span> murders his wife and kidnaps his child.<br>Awakening in a mysterious <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>European village</span> ruled by the towering vampiric <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Lady Dimitrescu</span> and her bloodthirsty daughters, Ethan must navigate a nightmare world of lycans, undead horrors, and ancient evil.<br>As he searches for Rose through castle halls dripping with blood and factory corridors echoing with mechanical terror, dark secrets about <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>bioweapons</span> and his own mysterious nature begin to surface.<br>In this tale of fatherly love pushed to its limits, Ethan will sacrifice everything to save his daughter from the clutches of <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>Mother Miranda</span> and her Four Lords.",
     "DescriptionArabic": "<div dir='rtl'>بعد ثلاث سنوات من حادثة عائلة بيكر، تتحطم الحياة الهادئة لـ <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>إيثان وينترز</span> مع زوجته <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 6px #FFB6C1;'>ميا</span> وابنته <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 6px #FFD700;'>روز</span> عندما يقتل <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>كريس ريدفيلد</span> زوجته ويخطف طفلته.<br>يستيقظ في <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>قرية أوروبية</span> غامضة تحكمها الكونتيسة الشامخة <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>ليدي ديميتريسكو</span> وبناتها متعطشات الدماء، حيث يجب على إيثان أن يتنقل عبر عالم كابوسي من المستذئبين والرعب الميت والشر القديم.<br>بينما يبحث عن روز عبر قاعات القلعة المتقطرة بالدماء وممرات المصنع التي تصدح بالرعب الميكانيكي، تبدأ أسرار مظلمة حول <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>الأسلحة البيولوجية</span> وطبيعته الغامضة في الظهور.<br>في هذه الحكاية عن حب أبوي يُدفع إلى أقصى حدوده، سيضحي إيثان بكل شيء لإنقاذ ابنته من براثن <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>الأم ميراندا</span> وأسيادها الأربعة.</div>",
     "ReleaseDate": "2021-5-6",
@@ -152654,5 +152654,43 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1772220492076_0",
+    "Name": "Resident Evil Requiem",
+    "SortingName": "Resident Evil 08.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": 100,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Resident%20Evil%20Requiem%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Resident%20Evil%20Requiem%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Resident%20Evil%20Requiem%20Trailer.mp4",
+    "videoStart": 2.89957,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Resident%20Evil%20Requiem%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP014",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "73 GB",
+            "filename": "00523.zip",
+            "executable": "steamclient_loader_x64.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
