@@ -35759,19 +35759,20 @@
         "versions": [
           {
             "identifier": "CPCAR01",
-            "filename": "Alan Wake I.zip",
             "name": "Arabic",
             "platform": "PC Game",
             "executable": "Game_f_x64_EOS.exe",
-            "fileSize": "29GB"
+            "fileSize": "29GB",
+            "filename": "Alan Wake I.zip"
           },
           {
-            "identifier": "retroid-2",
-            "filename": "Alan Wake I.zip",
+            "identifier": "RPRP014",
             "name": "English",
             "platform": "PC Game",
             "executable": "Game_f_x64_EOS.exe",
-            "fileSize": "29GB"
+            "fileSize": "38GB",
+            "buildID": "26 February 2026",
+            "filename": "00525.zip"
           }
         ]
       }
@@ -152687,7 +152688,9 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [
+      "Hypervisor"
+    ]
   },
   {
     "_id": "game_1772330056875_0",
@@ -152741,6 +152744,46 @@
       }
     },
     "Tags": [
+      "Hypervisor"
+    ]
+  },
+  {
+    "_id": "game_1772346756892_0",
+    "Name": "Persona 3 Reload",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Persona%203%20Reload%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Persona%203%20Reload%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Persona%203%20Reload%20Trailer.mp4",
+    "videoStart": 4.436681,
+    "videoEnd": 62.414693,
+    "MusicUrl": "https://archive.org/download/RPRM001/Persona%203%20Reload%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP014",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "20 GB",
+            "executable": "P3R\\Binaries\\Win64\\launcher.exe",
+            "arguments": [],
+            "buildID": "22 October 2025",
+            "filename": "00526.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hypervisor",
       "Hide"
     ]
   }
