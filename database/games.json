@@ -22495,7 +22495,7 @@
     "_id": "2d48403a-9627-4b6f-ba24-7b210043dddc",
     "GameId": "aa202048-185b-4a64-8328-2a9bd9d1dc97",
     "Name": "Persona 3",
-    "SortingName": "Shin Megami Tensei Persona 03.01",
+    "SortingName": "Shin Megami Tensei Persona 03.01.01",
     "Description": "At the stroke of midnight, <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Makoto Yuki</span> awakens to the <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Dark Hour</span>, a cursed twenty-fifth hour where his classmates become coffins and monstrous <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>Shadows</span> roam the halls of <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Gekkoukan High</span>.<br>Joining the secret organization <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>SEES</span> alongside <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 6px #FF69B4;'>Yukari</span>, <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 6px #32CD32;'>Junpei</span>, and the elegant <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 6px #9370DB;'>Mitsuru</span>, he discovers the towering labyrinth of <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>Tartarus</span> that has consumed his school.<br>As Makoto bonds with his teammates and confronts the reality that <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>Death itself</span> has been sealed within his soul since childhood, he learns that defeating the <span style='color:#8B008B; font-weight:bold; text-shadow: 0 0 8px #8B008B;'>twelve Arcana Shadows</span> may prevent the world's apocalypse.<br>In this haunting meditation on mortality, Makoto must choose between a peaceful existence in ignorance or embracing the <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>Great Seal</span> that will save humanity at the cost of his own <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>eternal sacrifice</span>.",
     "DescriptionArabic": "<div dir='rtl'>عند منتصف الليل، يستيقظ <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>ماكوتو يوكي</span> على <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الساعة المظلمة</span>، الساعة الخامسة والعشرون الملعونة حيث يتحول زملاؤه إلى توابيت وتجوب <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>الظلال</span> الوحشية أروقة <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>مدرسة جيكوكان الثانوية</span>.<br>بانضمامه للمنظمة السرية <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>سيز</span> إلى جانب <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 6px #FF69B4;'>يوكاري</span> و<span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 6px #32CD32;'>جونبي</span> والأنيقة <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 6px #9370DB;'>ميتسورو</span>، يكتشف متاهة <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>تارتاروس</span> الشاهقة التي ابتلعت مدرسته.<br>بينما يرتبط ماكوتو بفريقه ويواجه حقيقة أن <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>الموت نفسه</span> محبوس في روحه منذ الطفولة، يتعلم أن هزيمة <span style='color:#8B008B; font-weight:bold; text-shadow: 0 0 8px #8B008B;'>ظلال الأركانا الاثني عشر</span> قد تمنع نهاية العالم.<br>في هذا التأمل المؤثر حول الفناء، على ماكوتو أن يختار بين الوجود السلمي في الجهل أو تقبل <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>الختم العظيم</span> الذي سينقذ البشرية على حساب <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>تضحيته الأبدية</span>.</div>",
     "ReleaseDate": "2006-7-13",
@@ -152677,7 +152677,7 @@
         "versions": [
           {
             "identifier": "RPRP014",
-            "name": "AMD",
+            "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "73 GB",
             "executable": "steamclient_loader_x64.exe",
@@ -152750,7 +152750,7 @@
   {
     "_id": "game_1772346756892_0",
     "Name": "Persona 3 Reload",
-    "SortingName": "",
+    "SortingName": "Shin Megami Tensei Persona 03.01.02",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -152784,6 +152784,82 @@
     },
     "Tags": [
       "Hypervisor",
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1772383711233_0",
+    "Name": "City Hunter",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/City%20Hunter%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/City%20Hunter%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/City%20Hunter%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP014",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "647 MB",
+            "filename": "00527.zip",
+            "executable": "CityHunter.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1772383711234_1",
+    "Name": "MITNAL",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/MITNAL%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/MITNAL%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/MITNAL%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP014",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "13 GB",
+            "filename": "00528.zip",
+            "executable": "MITNAL.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
       "Hide"
     ]
   }
