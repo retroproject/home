@@ -152723,7 +152723,8 @@
             "buildID": "30 September 2025 [HV2.2]",
             "notes": [
               "Hypervisor Launcher [Retro Project\\PC Game\\00524\\SB\\Binaries\\Win64]",
-              "Hypervisor Driver [driver_amd]",
+              "Hypervisor Driver AMD [driver_amd]",
+              "Hypervisor Driver INTEL [driver_intel]",
               "Hypervisor Helper [Retro Project\\PC Game\\00524\\SB\\Binaries\\Win64\\Hypewrvisor Helper\\HV-Loader-0xZeOn.exe]"
             ],
             "executable": "SB\\Binaries\\Win64\\SB-Win64-Shipping.exe",
