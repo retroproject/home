@@ -152677,12 +152677,12 @@
         "versions": [
           {
             "identifier": "RPRP014",
-            "name": "Vanilla",
+            "name": "AMD & INTEL",
             "platform": "PC Game",
             "fileSize": "73 GB",
             "executable": "steamclient_loader_x64.exe",
             "arguments": [],
-            "buildID": "1.0",
+            "buildID": "1.1",
             "filename": "00523.zip"
           }
         ]
@@ -152716,7 +152716,7 @@
         "versions": [
           {
             "identifier": "RPRP014",
-            "name": "Vanilla",
+            "name": "AMD & INTEL",
             "platform": "PC Game",
             "fileSize": "61 GB",
             "arguments": [],
@@ -152744,7 +152744,8 @@
       }
     },
     "Tags": [
-      "Hypervisor"
+      "Hypervisor",
+      "Hide"
     ]
   },
   {
@@ -152771,7 +152772,7 @@
         "versions": [
           {
             "identifier": "RPRP014",
-            "name": "Vanilla",
+            "name": "AMD & INTEL",
             "platform": "PC Game",
             "fileSize": "20 GB",
             "executable": "P3R\\Binaries\\Win64\\launcher.exe",
@@ -152797,9 +152798,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/City%20Hunter%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/City%20Hunter%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/City%20Hunter%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/RPRM001/City%20Hunter%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -152835,9 +152836,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/MITNAL%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/MITNAL%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/MITNAL%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/RPRM001/MITNAL%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -152860,6 +152861,106 @@
       }
     },
     "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1772391594458_0",
+    "Name": "Black Myth Wukong",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Black%20Myth%20Wukong%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Black%20Myth%20Wukong%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Black%20Myth%20Wukong%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP014",
+            "name": "AMD",
+            "platform": "PC Game",
+            "fileSize": "140 GB",
+            "executable": "b1\\Binaries\\Win64\\HypervisorLauncher.exe",
+            "arguments": [],
+            "buildID": "14 January 2026",
+            "filename": "00529.zip"
+          },
+          {
+            "identifier": "RPRP014",
+            "name": "INTEL",
+            "platform": "PC Game",
+            "fileSize": "140 GB",
+            "executable": "b1\\Binaries\\Win64\\HypervisorLauncher.exe",
+            "arguments": [],
+            "buildID": "14 January 2026",
+            "filename": "00530.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hypervisor",
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1772394095276_0",
+    "Name": "DOOM The Dark Ages",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/DOOM%20The%20Dark%20Ages%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/DOOM%20The%20Dark%20Ages%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/DOOM%20The%20Dark%20Ages%20Trailer.mp4",
+    "videoStart": 2.342077,
+    "videoEnd": 107.635245,
+    "MusicUrl": "https://archive.org/download/RPRM001/DOOM%20The%20Dark%20Ages%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP014",
+            "name": "AMD",
+            "platform": "PC Game",
+            "fileSize": "81 GB",
+            "executable": "HypervisorLauncher.exe",
+            "arguments": [],
+            "buildID": "18 November 2025",
+            "filename": "00531.zip"
+          },
+          {
+            "identifier": "RPRP014",
+            "name": "INTEL",
+            "platform": "PC Game",
+            "fileSize": "81 GB",
+            "executable": "HypervisorLauncher.exe",
+            "arguments": [],
+            "buildID": "18 November 2025",
+            "filename": "00532.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hypervisor",
       "Hide"
     ]
   }
