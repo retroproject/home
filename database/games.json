@@ -152720,19 +152720,13 @@
             "platform": "PC Game",
             "fileSize": "61 GB",
             "arguments": [],
-            "executableFiles": [
-              "SB\\Binaries\\Win64\\SB-Win64-Shipping.exe",
-              "SB\\Binaries\\Win64\\Hypewrvisor Helper\\HV-Loader-0xZeOn.exe"
-            ],
-            "executableLabels": [
-              "Game",
-              "Unlocker"
-            ],
             "buildID": "30 September 2025 [HV2.2]",
             "notes": [
               "Hypervisor Launcher [Retro Project\\PC Game\\00524\\SB\\Binaries\\Win64]",
-              "Hypervisor Driver [driver_amd]"
+              "Hypervisor Driver [driver_amd]",
+              "Hypervisor Helper [Retro Project\\PC Game\\00524\\SB\\Binaries\\Win64\\Hypewrvisor Helper\\HV-Loader-0xZeOn.exe]"
             ],
+            "executable": "SB\\Binaries\\Win64\\SB-Win64-Shipping.exe",
             "filename": "00524.zip"
           }
         ]
