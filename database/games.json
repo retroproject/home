@@ -148235,7 +148235,10 @@
             "platform": "PC Game",
             "fileSize": "500MB",
             "arguments": [],
-            "notes": "STEAM ID [2362060]"
+            "notes": [
+              "STEAM ID [2362060]",
+              "Steam Process [CodeVeinII.exe]"
+            ]
           }
         ]
       }
