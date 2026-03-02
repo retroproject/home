@@ -148223,8 +148223,23 @@
       "Bandai Namco"
     ],
     "Tags": [
-      "Has Issues"
-    ]
+      "Has Issues",
+      "Steam"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP015",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "500MB",
+            "arguments": [],
+            "notes": "STEAM ID [2362060]"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "game_1770015267740_0",
