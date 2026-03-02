@@ -61238,7 +61238,7 @@
     "_id": "79085a2c-da2f-4a26-ba38-9464fd3dbdba",
     "GameId": "03c6484c-317f-4fa2-b75d-e5e1a2310512",
     "Name": "Shin Megami Tensei: Devil Summoner - Soul Hackers",
-    "SortingName": "Shin Megami Tensei Devil Summoner 03",
+    "SortingName": "Shin Megami Tensei Devil Summoner 03.01",
     "Description": "In the futuristic city of <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Amami City</span>, a young hacker joins the underground group <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Spookies</span> to infiltrate the mysterious virtual reality network <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>Paradigm X</span>, only to discover that <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>demons</span> from another dimension are invading the digital realm.<br>Armed with a supernatural <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>COMP device</span>, he gains the ability to summon and command these otherworldly beings while uncovering a sinister corporate conspiracy involving <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Algon Soft</span> and their plans for humanity.<br>Navigate between the neon-lit streets of the real world and the twisted landscapes of <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>cyberspace</span>, where ancient mythological creatures clash with cutting-edge technology.<br>As the boundary between <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>reality</span> and <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>virtual existence</span> blurs, will this digital devil summoner save humanity from a techno-apocalyptic fate orchestrated by forces beyond mortal comprehension?",
     "DescriptionArabic": "<div dir='rtl'>في مدينة <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>أمامي</span> المستقبلية، ينضم هاكر شاب إلى المجموعة السرية <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>سبوكيز</span> لاختراق شبكة الواقع الافتراضي الغامضة <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>باراديم إكس</span>، ليكتشف فقط أن <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الشياطين</span> من بُعد آخر تغزو العالم الرقمي.<br>مسلحاً بجهاز <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>كومب</span> خارق للطبيعة، يكتسب القدرة على استدعاء وقيادة هذه الكائنات الأخروية بينما يكشف مؤامرة شركات شريرة تشمل <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>ألغون سوفت</span> وخططهم للبشرية.<br>تنقل بين شوارع العالم الحقيقي المضاءة بالنيون والمناظر الملتوية لـ<span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>الفضاء السيبراني</span>، حيث تصطدم المخلوقات الأسطورية القديمة بالتكنولوجيا المتطورة.<br>بينما تتلاشى الحدود بين <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>الواقع</span> و<span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>الوجود الافتراضي</span>، هل سينقذ مستدعي الشياطين الرقمي هذا البشرية من مصير تقني-نهاية العالم منظم من قوى تفوق الفهم البشري؟</div>",
     "ReleaseDate": "2012-8-30",
@@ -153111,6 +153111,69 @@
     },
     "Tags": [
       "Hypervisor"
+    ]
+  },
+  {
+    "_id": "game_1772471358510_0",
+    "Name": "Soul Hackers 2",
+    "SortingName": "Shin Megami Tensei Devil Summoner 03.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Soul%20Hackers%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Soul%20Hackers%202%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Soul%20Hackers%202%20Trailer.mp4",
+    "videoStart": 2.625122,
+    "videoEnd": 82.8,
+    "MusicUrl": "https://archive.org/download/RPRM001/Soul%20Hackers%202%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP015",
+            "name": "AMD",
+            "platform": "PC Game",
+            "fileSize": "20 GB",
+            "executable": "SOUL HACKERS2.exe",
+            "arguments": [],
+            "notes": [
+              "Hypervisor Launcher [D:\\Retro Project\\PC Game\\00537]",
+              "Hypervisor Driver AMD [driver_amd]",
+              "Hypervisor Driver INTEL [driver_intel]",
+              "Hypervisor Helper [Retro Project\\PC Game\\00537\\Hypewrvisor Helper\\HV-Loader-0xZeOn.exe]"
+            ],
+            "buildID": "31 October 2025 [HV BETA 2]",
+            "filename": "00537.zip"
+          },
+          {
+            "identifier": "RPRP015",
+            "name": "INTEL",
+            "platform": "PC Game",
+            "fileSize": "20 GB",
+            "executable": "SOUL HACKERS2.exe",
+            "arguments": [],
+            "notes": [
+              "Hypervisor Launcher [Retro Project\\PC Game\\00538]",
+              "Hypervisor Driver AMD [driver_amd]",
+              "Hypervisor Driver INTEL [driver_intel]",
+              "Hypervisor Helper [Retro Project\\PC Game\\00538\\Hypewrvisor Helper\\HV-Loader-0xZeOn.exe]"
+            ],
+            "buildID": "31 October 2025 [HV BETA 1]",
+            "filename": "00538.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hypervisor",
+      "Hypervisor Launcher",
+      "Hide"
     ]
   }
 ]
