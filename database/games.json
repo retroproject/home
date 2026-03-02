@@ -148506,7 +148506,10 @@
             "platform": "PC Game",
             "fileSize": "500MB",
             "arguments": [],
-            "notes": "STEAM EXE [steamapps\\common\\Digimon Story Time Stranger\\Digimon Story Time Stranger.exe]"
+            "notes": [
+              "STEAM ID [1984270]",
+              "STEAM EXE [steamapps\\common\\Digimon Story Time Stranger\\Digimon Story Time Stranger.exe]"
+            ]
           }
         ]
       }
