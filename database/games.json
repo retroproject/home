@@ -152878,23 +152878,23 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP014",
+            "identifier": "RPRP015",
             "name": "AMD",
             "platform": "PC Game",
             "fileSize": "140 GB",
             "executable": "b1\\Binaries\\Win64\\HypervisorLauncher.exe",
             "arguments": [],
-            "buildID": "14 January 2026",
+            "buildID": "14 January 2026 [V3]",
             "filename": "00529.zip"
           },
           {
-            "identifier": "RPRP014",
+            "identifier": "RPRP015",
             "name": "INTEL",
             "platform": "PC Game",
             "fileSize": "140 GB",
             "executable": "b1\\Binaries\\Win64\\HypervisorLauncher.exe",
             "arguments": [],
-            "buildID": "14 January 2026",
+            "buildID": "14 January 2026 [V3]",
             "filename": "00530.zip"
           }
         ]
@@ -152928,7 +152928,7 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP014",
+            "identifier": "RPRP015",
             "name": "AMD",
             "platform": "PC Game",
             "fileSize": "81 GB",
@@ -152938,7 +152938,7 @@
             "filename": "00531.zip"
           },
           {
-            "identifier": "RPRP014",
+            "identifier": "RPRP015",
             "name": "INTEL",
             "platform": "PC Game",
             "fileSize": "81 GB",
@@ -152952,6 +152952,84 @@
     },
     "Tags": [
       "Hypervisor",
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1772413273076_0",
+    "Name": "Avatar Frontiers of Pandora",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Avatar%20Frontiers%20of%20Pandora%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Avatar%20Frontiers%20of%20Pandora%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Avatar%20Frontiers%20of%20Pandora%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 201.871121,
+    "MusicUrl": "https://archive.org/download/RPRM001/Avatar%20Frontiers%20of%20Pandora%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP015",
+            "name": "AMD & INTEL",
+            "platform": "PC Game",
+            "fileSize": "135 GB",
+            "executable": "hypervisor-launcher.exe",
+            "arguments": [],
+            "buildID": "22 January 2026 [HV Beta 1]",
+            "filename": "00533.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1772413273076_1",
+    "Name": "Monster Hunter Wilds",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Monster%20Hunter%20Wilds%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Monster%20Hunter%20Wilds%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Monster%20Hunter%20Wilds%20Trailer.mp4",
+    "videoStart": 2.250266,
+    "videoEnd": 219.287957,
+    "MusicUrl": "https://archive.org/download/RPRM001/Monster%20Hunter%20Wilds%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP015",
+            "name": "AMD & INTEL",
+            "platform": "PC Game",
+            "fileSize": "149 GB",
+            "executable": "steamclient_loader_x64.exe",
+            "arguments": [],
+            "buildID": "25 February 2026 [HV Beta 1]",
+            "filename": "00534.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
       "Hide"
     ]
   }
