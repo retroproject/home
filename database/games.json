@@ -70123,7 +70123,7 @@
     "_id": "8aa3ccb5-6bd1-4d96-973c-244ef14937ba",
     "GameId": "beb881632569d990413f31832bd6e884",
     "Name": "Monster Hunter Rise",
-    "SortingName": "Monster Hunter 07",
+    "SortingName": "Monster Hunter 07.01",
     "Description": "In the peaceful village of <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>Kamura</span>, ancient traditions hold back the terrible <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Rampage</span> - a catastrophic event where countless monsters descend upon human settlements in a frenzy of destruction.<br>As a skilled hunter, you must master the art of <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Wirebug</span> movement to traverse vertical landscapes and hunt massive creatures like the thunder-wielding <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Zinogre</span> and the volcanic <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>Rathalos</span>.<br>Joined by your loyal <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Palamute</span> companion and assisted by <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Palico</span> cats, you venture into diverse ecosystems to gather resources and forge powerful weapons from fallen monsters.<br>When the horrifying <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Magnamalo</span> - a fanged beast wreathed in purple flames - threatens Kamura's very existence, you must unite with fellow hunters to face this ultimate predator and uncover the dark secrets behind the Rampage that could determine whether your village survives or falls to the <span style='color:#8B008B; font-weight:bold; text-shadow: 0 0 8px #8B008B;'>ancient curse</span> that turns nature itself into an <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>unstoppable force</span> of <span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>annihilation</span>.",
     "DescriptionArabic": "<div dir='rtl'>في قرية <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>كامورا</span> الهادئة، تحجز التقاليد القديمة <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الهياج</span> الرهيب - حدث كارثي حيث تنقض أعداد لا تحصى من الوحوش على المستوطنات البشرية في هياج مدمر.<br>كصياد ماهر، يجب عليك إتقان فن حركة <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الحشرة السلكية</span> للتنقل عبر المناظر العمودية وصيد مخلوقات ضخمة مثل <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>زينوغري</span> سيد الرعد و<span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>راثالوس</span> البركاني.<br>بمرافقة رفيقك المخلص <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>بالاموت</span> وبمساعدة قطط <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>باليكو</span>، تقامر دخول نظم بيئية متنوعة لجمع الموارد وصياغة أسلحة قوية من الوحوش الساقطة.<br>عندما يهدد <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>ماغنامالو</span> المرعب - وحش ذو أنياب ملفوف باللهب البنفسجي - وجود كامورا ذاته، يجب عليك الاتحاد مع زملائك الصيادين لمواجهة هذا المفترس الأعظم وكشف الأسرار المظلمة وراء الهياج الذي يمكن أن يحدد ما إذا كانت قريتك ستنجو أم تسقط أمام <span style='color:#8B008B; font-weight:bold; text-shadow: 0 0 8px #8B008B;'>اللعنة القديمة</span> التي تحول الطبيعة ذاتها إلى <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>قوة لا تقاوم</span> من <span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>الإبادة</span>.</div>",
     "ReleaseDate": "2021-3-26",
@@ -152991,7 +152991,7 @@
   {
     "_id": "game_1772413273076_1",
     "Name": "Monster Hunter Wilds",
-    "SortingName": "",
+    "SortingName": "Monster Hunter 07.02",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -153024,7 +153024,8 @@
       }
     },
     "Tags": [
-      "Hide"
+      "Hide",
+      "Hypervisor"
     ]
   },
   {
