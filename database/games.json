@@ -76122,7 +76122,7 @@
     "_id": "96a93e95-4fe6-4cb4-9d18-d3f04e473b1d",
     "GameId": "6322c02e7fa9f89cd5f5f38b121dfb5c",
     "Name": "Yakuza 3",
-    "SortingName": "Yakuza 03",
+    "SortingName": "Yakuza 03.01",
     "Description": "<span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Kazuma Kiryu</span> attempts to live peacefully running the <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>Morning Glory Orphanage</span> in Okinawa until developers threaten his <span style='color:#98FB98; font-weight:bold; text-shadow: 0 0 8px #98FB98;'>adopted children's home</span>.<br>His investigation uncovers a conspiracy involving the <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Tojo Clan</span>, <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>CIA</span>, and a secret military base plan that connects to his sworn brother <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>Daigo Dojima's</span> near-assassination.<br>The revelation that the <span style='color:#F4A460; font-weight:bold; text-shadow: 0 0 8px #F4A460;'>Ryudo Family patriarch</span> and <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>Minister Suzuki</span> orchestrated everything forces Kiryu to choose between <span style='color:#20B2AA; font-weight:bold; text-shadow: 0 0 8px #20B2AA;'>peaceful retirement</span> and <span style='color:#8B008B; font-weight:bold; text-shadow: 0 0 8px #8B008B;'>protecting his family</span>.",
     "DescriptionArabic": "<div dir='rtl'>يحاول <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>كازوما كيريو المحارب المتقاعد</span> العيش بسلام وهو يدير <span style='color:#87CEEB; font-weight:bold; text-shadow: 0 0 8px #87CEEB;'>دار أيتام مورنينغ غلوري</span> في أوكيناوا حتى يهدد المطورون <span style='color:#98FB98; font-weight:bold; text-shadow: 0 0 8px #98FB98;'>بيت أطفاله بالتبني</span>.<br>يكشف تحقيقه مؤامرة تشمل <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>عشيرة توجو</span> و<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>وكالة المخابرات المركزية</span> وخطة قاعدة عسكرية سرية ترتبط بمحاولة اغتيال شقيقه المقسم <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>دايغو دوجيما</span>.<br>كشف أن <span style='color:#F4A460; font-weight:bold; text-shadow: 0 0 8px #F4A460;'>بطريرك عائلة ريودو</span> و<span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>الوزير سوزوكي</span> دبرا كل شيء يجبر كيريو على الاختيار بين <span style='color:#20B2AA; font-weight:bold; text-shadow: 0 0 8px #20B2AA;'>التقاعد السلمي</span> و<span style='color:#8B008B; font-weight:bold; text-shadow: 0 0 8px #8B008B;'>حماية عائلته</span>.</div>",
     "ReleaseDate": "2009-2-26",
@@ -152735,7 +152735,6 @@
     },
     "Tags": [
       "Hypervisor",
-      "Hide",
       "Hypervisor Launcher"
     ]
   },
@@ -152775,8 +152774,7 @@
       }
     },
     "Tags": [
-      "Hypervisor",
-      "Hide"
+      "Hypervisor"
     ]
   },
   {
@@ -152813,9 +152811,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1772383711234_1",
@@ -152851,9 +152847,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1772391594458_0",
@@ -153031,6 +153025,52 @@
     },
     "Tags": [
       "Hide"
+    ]
+  },
+  {
+    "_id": "game_1772430880631_0",
+    "Name": "Yakuza Kiwami 3 And Dark Ties",
+    "SortingName": "Yakuza 03.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Yakuza%20Kiwami%203%20And%20Dark%20Ties%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Yakuza%20Kiwami%203%20And%20Dark%20Ties%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Yakuza%20Kiwami%203%20And%20Dark%20Ties%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP015",
+            "name": "AMD & INTEL",
+            "platform": "PC Game",
+            "fileSize": "55 GB",
+            "executable": "runtime\\media\\yakuzakiwami3.exe",
+            "arguments": [],
+            "notes": [
+              "Hypervisor Launcher [Retro Project\\PC Game\\!RPRP015\\00535\\runtime\\media]",
+              "Hypervisor Driver AMD [driver_amd]",
+              "Hypervisor Driver INTEL [driver_intel]",
+              "Hypervisor Helper [Retro Project\\PC Game\\!RPRP015\\00535\\runtime\\media\\Hypewrvisor Helper\\HV-Loader-0xZeOn.exe]"
+            ],
+            "buildID": "20 February 2026",
+            "filename": "00535.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hypervisor",
+      "Hypervisor Launcher"
     ]
   }
 ]
