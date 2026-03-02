@@ -148491,7 +148491,23 @@
     "DeveloperNames": [
       "Media Vision"
     ],
-    "Tags": []
+    "Tags": [
+      "Steam"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP015",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "500MB",
+            "arguments": [],
+            "notes": "STEAM ID [1984270]"
+          }
+        ]
+      }
+    }
   },
   {
     "_id": "game_1770211191473_0",
