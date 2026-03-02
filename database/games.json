@@ -153073,5 +153073,44 @@
       "Hypervisor Launcher",
       "Hide"
     ]
+  },
+  {
+    "_id": "game_1772434168725_0",
+    "Name": "Borderlands 4",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Borderlands%204%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Borderlands%204%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Borderlands%204%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Borderlands%204%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP015",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "86 GB",
+            "executable": "OakGame\\Binaries\\Win64\\steamclient_loader_x64.exe",
+            "arguments": [],
+            "buildID": "26 February 2026",
+            "filename": "00536.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hypervisor"
+    ]
   }
 ]
