@@ -153077,7 +153077,7 @@
   {
     "_id": "game_1772434168725_0",
     "Name": "Borderlands 4",
-    "SortingName": "",
+    "SortingName": "Borderlands 03.05",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -153110,7 +153110,8 @@
       }
     },
     "Tags": [
-      "Hypervisor"
+      "Hypervisor",
+      "Hide"
     ]
   }
 ]
