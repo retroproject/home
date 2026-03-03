@@ -153371,5 +153371,51 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1772574372914_0",
+    "Name": "Bulk Slash",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Bulk%20Slash%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Bulk%20Slash%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Bulk%20Slash%20Trailer.mp4",
+    "videoStart": 2.006433,
+    "videoEnd": 67,
+    "MusicUrl": "https://archive.org/download/RPRM001/Bulk%20Slash%20Theme.mp3",
+    "PlatformNames": [
+      "Sega Saturn"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sega Saturn": {
+        "versions": [
+          {
+            "identifier": "retro-saturn",
+            "name": "Vanilla",
+            "platform": "Sega Saturn",
+            "fileSize": "179 MB",
+            "filename": "Bulk Slash.zip",
+            "romFiles": [
+              "Bulk Slash.chd",
+              "Bulk Slash [Japanaese VA].chd"
+            ],
+            "romLabels": [
+              "English VA",
+              "Japanaese VA"
+            ],
+            "emulator": "RetroArch",
+            "arguments": [
+              "-L",
+              ".\\cores\\mednafen_saturn_libretro.dll"
+            ]
+          }
+        ]
+      }
+    }
   }
 ]
