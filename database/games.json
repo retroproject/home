@@ -26693,12 +26693,12 @@
   {
     "_id": "3423d588-5ca5-4aed-a4fa-712663617255",
     "GameId": "10e69a615232a3940bdea5e0d8f26627",
-    "Name": "Poppy It! Playtime",
+    "Name": "Poppy Playtime",
     "SortingName": "",
     "Description": "Within the abandoned halls of <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Playtime Co.</span>, where the laughter of children once echoed through corridors now choked with <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>dust and decay</span>, something unspeakable has transformed innocent <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>toys</span> into instruments of terror. The <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>towering Huggy Wuggy</span> stalks these forgotten playrooms with a smile frozen in eternal malice, while <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Poppy</span> herself remains trapped within her glass prison, harboring secrets that could unravel the truth behind the factory's <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>horrific experiments</span>. As you navigate through assembly lines that once birthed joy but now manufacture only <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>nightmares</span>, every creaking floorboard and distant mechanical whir serves as a reminder that in this place, the line between <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>playtime</span> and <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>predation</span> was erased long ago.",
     "DescriptionArabic": "<div dir='rtl'>داخل قاعات <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>شركة بلاي تايم</span> المهجورة، حيث ضحكات الأطفال التي كانت تتردد في الممرات الآن مكتظة بـ <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>الغبار والتحلل</span>، حول شيء لا يوصف <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>الألعاب</span> البريئة إلى أدوات رعب. يتجول <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>هاجي واجي العملاق</span> في غرف اللعب المنسية هذه بابتسامة متجمدة في خبث أبدي، بينما تبقى <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>بوبي</span> نفسها محاصرة داخل سجنها الزجاجي، تحمل أسراراً يمكن أن تكشف الحقيقة وراء <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>تجارب المصنع المريعة</span>. بينما تتنقل عبر خطوط التجميع التي ولدت الفرح قديماً ولكن الآن تنتج فقط <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>الكوابيس</span>، تعمل كل أرضية صرير وأزيز ميكانيكي بعيد كتذكير بأنه في هذا المكان، تم محو الخط بين <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>وقت اللعب</span> و<span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الافتراس</span> منذ زمن بعيد.</div>",
     "ReleaseDate": "2022-4-11",
-    "CriticScore": 65,
+    "CriticScore": 80,
     "Length": 5,
     "BackgroundImage": "402c2704-dbae-4e3c-82f3-d87366be4208.jpeg",
     "CoverImage": "3a0b4046-8d03-4dca-9226-93f6e74c3047.png",
@@ -26721,13 +26721,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC34",
+            "identifier": "RPRP016",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "55GB",
+            "fileSize": "70GB",
             "arguments": [],
             "executable": "PlaytimeLauncher\\PlaytimeLauncher.exe",
-            "filename": "Poppy Playtime.zip"
+            "buildID": "17 February 2026",
+            "filename": "00546.zip"
           }
         ]
       }
@@ -66188,12 +66189,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC24",
-            "filename": "Gotham Knights.zip",
+            "identifier": "RPRP016",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "Mercury\\Binaries\\WinGDK\\GothamKnights.exe",
-            "fileSize": "52GB"
+            "executable": "GothamKnights.exe",
+            "fileSize": "45GB",
+            "buildID": "26 February 2026",
+            "filename": "00545.zip"
           }
         ]
       }
@@ -88557,15 +88559,19 @@
         "versions": [
           {
             "identifier": "CPC27",
-            "filename": "Assassins Creed Mirage.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "scimitar_engine_win64_vs2019_dx12_qx.exe",
-            "fileSize": "39GB"
+            "fileSize": "70GB",
+            "buildID": "18 December 2025",
+            "filename": "Assassins Creed Mirage.zip"
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Has Issues"
+    ]
   },
   {
     "_id": "adf695c3-5883-4691-a341-821005f20dcb",
@@ -152713,6 +152719,7 @@
     "DescriptionArabic": "",
     "ReleaseDate": null,
     "CriticScore": 100,
+    "Length": 15,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Resident%20Evil%20Requiem%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Resident%20Evil%20Requiem%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Resident%20Evil%20Requiem%20Trailer.mp4",
@@ -153062,7 +153069,7 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP015",
+            "identifier": "RPRP016",
             "name": "AMD & INTEL",
             "platform": "PC Game",
             "fileSize": "149 GB",
@@ -153249,7 +153256,7 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP015",
+            "identifier": "RPRP016",
             "name": "AMD & INTEL",
             "platform": "PC Game",
             "fileSize": "160GB",
