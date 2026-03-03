@@ -109677,10 +109677,10 @@
             "fileSize": "500MB",
             "arguments": [],
             "notes": [
-              "Hypervisor Launcher [D:\\Retro Project\\PC Game\\00539]",
+              "Hypervisor Launcher [D:\\Retro Project\\PC Game\\00540]",
               "Hypervisor Driver AMD [driver_amd]",
               "Hypervisor Driver INTEL [driver_intel]",
-              "Hypervisor Helper [Retro Project\\PC Game\\00540\\UNION\\Binaries\\Win64\\Hypewrvisor Helper\\HV-Loader-0xZeOn.exe]"
+              "Hypervisor Helper [Retro Project\\PC Game\\00540\\Hypewrvisor Helper\\HV-Loader-0xZeOn.exe]"
             ],
             "buildID": "14 January 2025",
             "filename": "00540.zip"
@@ -152997,8 +152997,7 @@
       }
     },
     "Tags": [
-      "Hypervisor",
-      "Hide"
+      "Hypervisor"
     ]
   },
   {
@@ -153037,7 +153036,6 @@
       }
     },
     "Tags": [
-      "Hide",
       "Hypervisor"
     ]
   },
@@ -153196,7 +153194,7 @@
             "executable": "SOUL HACKERS2.exe",
             "arguments": [],
             "notes": [
-              "Hypervisor Launcher [D:\\Retro Project\\PC Game\\00537]",
+              "Hypervisor Launcher [Retro Project\\PC Game\\00537]",
               "Hypervisor Driver AMD [driver_amd]",
               "Hypervisor Driver INTEL [driver_intel]",
               "Hypervisor Helper [Retro Project\\PC Game\\00537\\Hypewrvisor Helper\\HV-Loader-0xZeOn.exe]"
@@ -153227,5 +153225,144 @@
       "Hypervisor",
       "Hypervisor Launcher"
     ]
+  },
+  {
+    "_id": "game_1772501837932_0",
+    "Name": "Assassin's Creed Shadows",
+    "SortingName": "Assassin's Creed 09.03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Assassins%20Creed%20Shadows%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Assassins%20Creed%20Shadows%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Assassins%20Creed%20Shadows%20Trailer.mp4",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Assassins%20Creed%20Shadows%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP015",
+            "name": "AMD & INTEL",
+            "platform": "PC Game",
+            "fileSize": "160GB",
+            "executable": "ACShadows.exe",
+            "arguments": [],
+            "notes": [
+              "Hypervisor Launcher [Retro Project\\PC Game\\00541]",
+              "Hypervisor Driver AMD [driver_amd]",
+              "Hypervisor Driver INTEL [driver_intel]",
+              "Hypervisor Helper [Retro Project\\PC Game\\00541\\Hypewrvisor Helper\\HV-Loader-0xZeOn.exe]"
+            ],
+            "buildID": "26 February 2026",
+            "filename": "00541.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hypervisor",
+      "Hypervisor Launcher",
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1772501837932_1",
+    "Name": "Like a Dragon Infinite Wealth",
+    "SortingName": "Yakuza 08",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Like%20a%20Dragon%20Infinite%20Wealth%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Like%20a%20Dragon%20Infinite%20Wealth%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Like%20a%20Dragon%20Infinite%20Wealth%20Trailer.mp4",
+    "videoStart": 0.6,
+    "videoEnd": 80.450929,
+    "MusicUrl": "https://archive.org/download/RPRM001/Like%20a%20Dragon%20Infinite%20Wealth%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP015",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "80GB",
+            "executable": "runtime\\media\\likeadragon8-hv.exe",
+            "arguments": [],
+            "notes": [
+              "Hypervisor Launcher [Retro Project\\PC Game\\00542]",
+              "Hypervisor Driver AMD [driver_amd]",
+              "Hypervisor Driver INTEL [driver_intel]",
+              "Hypervisor Helper [Retro Project\\PC Game\\00542\\runtime\\media\\Hypewrvisor Helper\\HV-Loader-0xZeOn.exe]"
+            ],
+            "buildID": "24 March 2025",
+            "filename": "00542.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hypervisor",
+      "Hypervisor Launcher"
+    ]
+  },
+  {
+    "_id": "game_1772503158258_0",
+    "Name": "BattleBlock Theater",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/BattleBlock%20Theater%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/BattleBlock%20Theater%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/BattleBlock%20Theater%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 84.887195,
+    "MusicUrl": "https://archive.org/download/RPRM001/BattleBlock%20Theater%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP015",
+            "name": "Offline",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "BattleBlockTheater.exe",
+            "arguments": [],
+            "buildID": "3 November 2015",
+            "filename": "00543.zip"
+          },
+          {
+            "identifier": "RPRP015",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "BattleBlockTheater.exe",
+            "arguments": [],
+            "buildID": "1.0.1.5022",
+            "filename": "00544.zip"
+          }
+        ]
+      }
+    }
   }
 ]
