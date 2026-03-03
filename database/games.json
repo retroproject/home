@@ -109659,7 +109659,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/d20eaa36-d41f-47a6-abf8-05d8d343f2cf.mp3",
     "PlatformNames": [
-      "Nintendo Switch"
+      "PC Game"
     ],
     "GenreNames": [
       "Platformer"
@@ -109668,20 +109668,30 @@
       "Sonic Team"
     ],
     "downloadInfo": {
-      "Nintendo Switch": {
+      "PC Game": {
         "versions": [
           {
-            "identifier": "E0701",
-            "filename": "Sonic X Shadow Generations.nsp",
+            "identifier": "RPRP015",
             "name": "Vanilla",
-            "platform": "Nintendo Switch",
-            "emulator": "Yuzu",
-            "fileSize": "13GB",
-            "romFile": "Sonic X Shadow Generations.nsp"
+            "platform": "PC Game",
+            "fileSize": "500MB",
+            "arguments": [],
+            "notes": [
+              "Hypervisor Launcher [D:\\Retro Project\\PC Game\\00539]",
+              "Hypervisor Driver AMD [driver_amd]",
+              "Hypervisor Driver INTEL [driver_intel]",
+              "Hypervisor Helper [Retro Project\\PC Game\\00540\\UNION\\Binaries\\Win64\\Hypewrvisor Helper\\HV-Loader-0xZeOn.exe]"
+            ],
+            "buildID": "14 January 2025",
+            "filename": "00540.zip"
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Hypervisor",
+      "Hypervisor Launcher"
+    ]
   },
   {
     "_id": "d21836ea-deb0-4c92-8463-d5b860edd007",
@@ -137058,7 +137068,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/RPRM001/Sonic%20Racing%20Cross%20Worlds%20%20Main%20Song.mp3",
     "PlatformNames": [
-      "Nintendo Switch"
+      "PC Game"
     ],
     "GenreNames": [
       "Racing"
@@ -137067,24 +137077,30 @@
       "SEGA"
     ],
     "downloadInfo": {
-      "Nintendo Switch": {
+      "PC Game": {
         "versions": [
           {
-            "identifier": "E0701",
-            "name": "Vanilla",
-            "platform": "Nintendo Switch",
-            "fileSize": "8 GB",
+            "identifier": "RPRP015",
+            "name": "AMD & INTEL",
+            "platform": "PC Game",
+            "fileSize": "20GB",
             "arguments": [],
-            "emulator": "Eden",
-            "romFile": "Sonic Racing Cross Worlds.nsp",
-            "buildID": "1.12",
-            "filename": "Sonic Racing Cross Worlds.nsp"
+            "executable": "UNION\\Binaries\\Win64",
+            "buildID": "18 December 2025",
+            "notes": [
+              "Hypervisor Launcher [D:\\Retro Project\\PC Game\\00539]",
+              "Hypervisor Driver AMD [driver_amd]",
+              "Hypervisor Driver INTEL [driver_intel]",
+              "Hypervisor Helper [Retro Project\\PC Game\\00539\\UNION\\Binaries\\Win64\\Hypewrvisor Helper\\HV-Loader-0xZeOn.exe]"
+            ],
+            "filename": "00539.zip"
           }
         ]
       }
     },
     "Tags": [
-      "Has Issues"
+      "Hypervisor",
+      "Hypervisor Launcher"
     ]
   },
   {
@@ -153021,7 +153037,8 @@
       }
     },
     "Tags": [
-      "Hide"
+      "Hide",
+      "Hypervisor"
     ]
   },
   {
