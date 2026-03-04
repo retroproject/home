@@ -32216,7 +32216,7 @@
     "_id": "40041cec-2f5b-453e-86c5-075bccee9e28",
     "GameId": "001fe11b62e7ec8e064957a4ecab0058",
     "Name": "Legacy of Kain: Defiance",
-    "SortingName": "Legacy of Kain 05",
+    "SortingName": "Legacy of Kain 05.01",
     "Description": "In the final chapter of the epic vampire saga, both <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Kain</span> and <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Raziel</span> find themselves manipulated by the ancient entity known as the <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 6px #FFD700;'>Elder God</span>, whose web of lies has shaped their destinies for millennia.<br>As the vampire emperor seeks to purify the <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Soul Reaver</span> blade and his former lieutenant pursues vengeance against his creator, both warriors must confront the truth about their interconnected fates.<br>Through ancient ruins and spectral realms where past and present collide, they uncover the <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Elder God's deception</span> and realize that their greatest enemy has been orchestrating their conflict from the shadows.<br>In this climactic battle between predator and prey, father and son, the ultimate question becomes whether <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>redemption</span> can emerge from cycles of <span style='color:#8B008B; font-weight:bold; text-shadow: 0 0 8px #8B008B;'>vengeance</span> and <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>sacrifice</span>.",
     "DescriptionArabic": "<div dir='rtl'>في الفصل الأخير من ملحمة مصاصي الدماء العظيمة، يجد كل من <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>كاين</span> و<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>رازيل</span> نفسيهما يتعرضان للتلاعب من قبل الكيان القديم المعروف باسم <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 6px #FFD700;'>الإله الأكبر</span>، الذي شكلت شبكة أكاذيبه مصائرهما لآلاف السنين.<br>بينما يسعى إمبراطور مصاصي الدماء لتطهير نصل <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>ممزق الأرواح</span> ونائبه السابق يسعى للانتقام من خالقه، يجب على كلا المحاربين مواجهة الحقيقة حول مصائرهما المترابطة.<br>عبر الأطلال القديمة والعوالم الطيفية حيث يتصادم الماضي والحاضر، يكشفان <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>خداع الإله الأكبر</span> ويدركان أن عدوهما الأعظم كان يرسم صراعهما من الظلال.<br>في هذه المعركة الحاسمة بين المفترس والفريسة، الأب والابن، يصبح السؤال الأساسي هو ما إذا كان بإمكان <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>الخلاص</span> أن ينبثق من دورات <span style='color:#8B008B; font-weight:bold; text-shadow: 0 0 8px #8B008B;'>الانتقام</span> و<span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>التضحية</span>.</div>",
     "ReleaseDate": "2003-11-11",
@@ -153423,7 +153423,7 @@
   {
     "_id": "game_1772578466588_0",
     "Name": "Legacy of Kain Defiance Remastered",
-    "SortingName": "",
+    "SortingName": "Legacy of Kain 05.02",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -153446,10 +153446,10 @@
             "identifier": "RPRP015",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "20 GB",
-            "filename": "00547.zip",
+            "fileSize": "65GB",
             "executable": "defiance.exe",
-            "arguments": []
+            "arguments": [],
+            "filename": "00547.zip"
           }
         ]
       }
@@ -153492,9 +153492,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1772578466588_2",
@@ -153530,9 +153528,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1772592055492_0",
@@ -153568,8 +153564,6 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   }
 ]
