@@ -137530,7 +137530,7 @@
             "platform": "PC Game",
             "fileSize": "55 GB",
             "executable": "NINJAGAIDEN4-Steam.exe",
-            "buildID": "20 October 2025",
+            "buildID": "4 March 2026",
             "arguments": [],
             "filename": "00136.zip"
           }
@@ -153480,13 +153480,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP015",
+            "identifier": "RPRP016",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
-            "filename": "00548.zip",
             "executable": "bin\\rotwood.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "4 March 2026",
+            "filename": "00548.zip"
           }
         ]
       }
@@ -153557,9 +153558,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
-            "filename": "00552.zip",
             "executable": "OguForest.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "2 January 2026",
+            "filename": "00552.zip"
           }
         ]
       }
