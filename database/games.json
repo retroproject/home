@@ -76298,13 +76298,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC39",
+            "identifier": "RPRP016",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "4MB",
+            "fileSize": "6GB",
             "arguments": [],
             "executable": "Mullet Mad Jack.exe",
-            "filename": "Mullet Mad Jack.zip"
+            "buildID": "2 February 2026",
+            "filename": "00551.zip"
           }
         ]
       }
@@ -100742,12 +100743,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC30",
-            "filename": "Antonblast.zip",
+            "identifier": "RPRP016",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "ANTONBLAST.exe",
-            "fileSize": "380MB"
+            "fileSize": "380MB",
+            "buildID": "26 January 2026",
+            "filename": "00550.zip"
           }
         ]
       }
@@ -153417,5 +153419,157 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1772578466588_0",
+    "Name": "Legacy of Kain Defiance Remastered",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Legacy%20of%20Kain%20Defiance%20Remastered%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Legacy%20of%20Kain%20Defiance%20Remastered%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Legacy%20of%20Kain%20Defiance%20Remastered%20Trailer.mp4",
+    "videoStart": 2.685298,
+    "videoEnd": 52.6,
+    "MusicUrl": "https://archive.org/download/RPRM001/Legacy%20of%20Kain%20Defiance%20Remastered%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP015",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "20 GB",
+            "filename": "00547.zip",
+            "executable": "defiance.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1772578466588_1",
+    "Name": "Rotwood",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Rotwood%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Rotwood%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Rotwood%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Rotwood%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP015",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "00548.zip",
+            "executable": "bin\\rotwood.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1772578466588_2",
+    "Name": "Scott Pilgrim EX",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Scott%20Pilgrim%20EX%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Scott%20Pilgrim%20EX%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Scott%20Pilgrim%20EX%20Trailer.mp4",
+    "videoStart": 2.578909,
+    "videoEnd": 123.502479,
+    "MusicUrl": "https://archive.org/download/RPRM001/Scott%20Pilgrim%20EX%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP015",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "783 MB",
+            "filename": "00549.zip",
+            "executable": "Game.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1772592055492_0",
+    "Name": "Ogu and the Secret Forest",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Ogu%20and%20the%20Secret%20Forest%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Ogu%20and%20the%20Secret%20Forest%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Ogu%20and%20the%20Secret%20Forest%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Ogu%20and%20the%20Secret%20Forest%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP016",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "00552.zip",
+            "executable": "OguForest.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
