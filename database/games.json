@@ -153443,18 +153443,21 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP015",
+            "identifier": "RPRP016",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "65GB",
             "executable": "defiance.exe",
             "arguments": [],
-            "filename": "00547.zip"
+            "buildID": "4 March 2026",
+            "filename": "00552.zip"
           }
         ]
       }
     },
-    "Tags": []
+    "Tags": [
+      "Hide"
+    ]
   },
   {
     "_id": "game_1772578466588_1",
