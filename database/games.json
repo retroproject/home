@@ -148799,9 +148799,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "320 MB",
-            "filename": "00403.zip",
             "executable": "carma2.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "17 May 2016",
+            "filename": "00403.zip"
           }
         ]
       }
@@ -149236,9 +149237,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "31 GB",
-            "filename": "00416.zip",
             "executable": "Carma.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "27 February 2026",
+            "filename": "00416.zip"
           }
         ]
       }
@@ -149272,9 +149274,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
-            "filename": "00417.zip",
             "executable": "SUPER BOMBERMAN COLLECTION.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "27 February 2026",
+            "filename": "00417.zip"
           }
         ]
       }
@@ -149713,6 +149716,7 @@
             "fileSize": "20 GB",
             "executable": "Midnight.exe",
             "arguments": [],
+            "buildID": "6 February 2026",
             "filename": "00432.zip"
           }
         ]
@@ -149783,6 +149787,7 @@
             "fileSize": "5 GB",
             "executable": "Launcher.bat",
             "arguments": [],
+            "buildID": "5 March 2026",
             "filename": "00434.zip"
           }
         ]
@@ -149818,6 +149823,7 @@
             "fileSize": "2 GB",
             "executable": "Game00.exe",
             "arguments": [],
+            "buildID": "9 February 2026",
             "filename": "00435.zip"
           }
         ]
@@ -151250,9 +151256,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "4 GB",
-            "filename": "00480.zip",
             "executable": "NEON INFERNO.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "31 January 2026",
+            "filename": "00480.zip"
           }
         ]
       }
@@ -151290,9 +151297,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "20 GB",
-            "filename": "00481.zip",
             "executable": "AdInfinitum.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "15 December 2023",
+            "filename": "00481.zip"
           }
         ]
       }
@@ -151621,9 +151629,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "4 GB",
-            "filename": "00492.zip",
             "executable": "bloodthief.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "23 February 2026",
+            "filename": "00492.zip"
           }
         ]
       }
@@ -152160,9 +152169,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
-            "filename": "00505.zip",
             "executable": "Demon Tides.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "23 February 2026",
+            "filename": "00505.zip"
           }
         ]
       }
@@ -152303,9 +152313,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "9 GB",
-            "filename": "00509.zip",
             "executable": "Manairons.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "3 March 2026",
+            "filename": "00509.zip"
           }
         ]
       }
@@ -152338,9 +152349,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
-            "filename": "00510.zip",
             "executable": "WiZmans World ReTry.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "24 February 2026",
+            "filename": "00510.zip"
           }
         ]
       }
@@ -152705,9 +152717,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "13 GB",
-            "filename": "00522.zip",
             "executable": "Tales of Berseria Remastered.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "26 February 2026",
+            "filename": "00522.zip"
           }
         ]
       }
@@ -152790,6 +152803,22 @@
             ],
             "executable": "SB\\Binaries\\Win64\\SB-Win64-Shipping.exe",
             "filename": "00524.zip"
+          },
+          {
+            "identifier": "RPRP016",
+            "name": "AMD & INTEL [Arabic]",
+            "platform": "PC Game",
+            "fileSize": "61 GB",
+            "arguments": [],
+            "buildID": "30 September 2025 [HV2.2]",
+            "notes": [
+              "Hypervisor Launcher [Retro Project\\PC Game\\00524\\SB\\Binaries\\Win64]",
+              "Hypervisor Driver AMD [driver_amd]",
+              "Hypervisor Driver INTEL [driver_intel]",
+              "Hypervisor Helper [Retro Project\\PC Game\\00524\\SB\\Binaries\\Win64\\Hypewrvisor Helper\\HV-Loader-0xZeOn.exe]"
+            ],
+            "executable": "SB\\Binaries\\Win64\\SB-Win64-Shipping.exe",
+            "filename": "00554.zip"
           }
         ]
       }
@@ -152865,9 +152894,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "647 MB",
-            "filename": "00527.zip",
             "executable": "CityHunter.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "25 February 2026",
+            "filename": "00527.zip"
           }
         ]
       }
@@ -152901,9 +152931,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "13 GB",
-            "filename": "00528.zip",
             "executable": "MITNAL.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "27 February 2026",
+            "filename": "00528.zip"
           }
         ]
       }
@@ -153565,5 +153596,249 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1772720840103_0",
+    "Name": "Esoteric Ebb",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Esoteric%20Ebb%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Esoteric%20Ebb%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Esoteric%20Ebb%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Esoteric%20Ebb%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP016",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "executable": "Esoteric Ebb.exe",
+            "arguments": [],
+            "buildID": "4 March 2026",
+            "filename": "00555.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1772720840104_1",
+    "Name": "Homura Hime",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Homura%20Hime%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Homura%20Hime%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Homura%20Hime%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Homura%20Hime%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP016",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "35 GB",
+            "executable": "HomuraHime.exe",
+            "arguments": [],
+            "buildID": "5 March 2026",
+            "filename": "00556.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1772720840104_2",
+    "Name": "Serious Sam 2",
+    "SortingName": "Serious Sam 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Serious%20Sam%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Serious%20Sam%202%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Serious%20Sam%202%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Serious%20Sam%202%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP016",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "Bin\\Sam2.exe",
+            "arguments": [],
+            "buildID": "20 February 2026",
+            "filename": "00557.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1772720840104_3",
+    "Name": "Serious Sam 3 BFE",
+    "SortingName": "Serious Sam 03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Serious%20Sam%203%20BFE%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Serious%20Sam%203%20BFE%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Serious%20Sam%203%20BFE%20Trailer.mp4",
+    "videoStart": 2.829412,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Serious%20Sam%203%20BFE%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP016",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "executable": "Bin\\Sam3_Unrestricted.exe",
+            "arguments": [],
+            "buildID": "4 April 2017",
+            "filename": "00558.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1772720840104_4",
+    "Name": "Serious Sam 4",
+    "SortingName": "Serious Sam 04",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Serious%20Sam%204%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Serious%20Sam%204%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Serious%20Sam%204%20Trailer.mp4",
+    "videoStart": 3.2,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Serious%20Sam%204%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP016",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "44 GB",
+            "executable": "Bin\\x64\\Sam4_Unrestricted.exe",
+            "arguments": [],
+            "buildID": "Serious Sam 4",
+            "filename": "00559.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1772720840104_6",
+    "Name": "Serious Sam HD The Second Encounter",
+    "SortingName": "Serious Sam 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Serious%20Sam%20HD%20The%20Second%20Encounter%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Serious%20Sam%20HD%20The%20Second%20Encounter%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Serious%20Sam%20HD%20The%20Second%20Encounter%20Trailer.mp4",
+    "videoStart": 5.1,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Serious%20Sam%20HD%20The%20Second%20Encounter%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP016",
+            "name": "Classics Revolution",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "Bin\\SeriousSam.exe",
+            "arguments": [],
+            "buildID": "20 February 2020",
+            "filename": "00560.zip"
+          },
+          {
+            "identifier": "RPRP016",
+            "name": "HD The Second Encounter",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "Bin\\SamHD_TSE_Unrestricted.exe",
+            "arguments": [],
+            "buildID": "12 November 2020",
+            "filename": "00561.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
