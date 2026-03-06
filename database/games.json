@@ -152812,10 +152812,10 @@
             "arguments": [],
             "buildID": "30 September 2025 [HV2.2]",
             "notes": [
-              "Hypervisor Launcher [Retro Project\\PC Game\\00524\\SB\\Binaries\\Win64]",
+              "Hypervisor Launcher [Retro Project\\PC Game\\00554\\SB\\Binaries\\Win64]",
               "Hypervisor Driver AMD [driver_amd]",
               "Hypervisor Driver INTEL [driver_intel]",
-              "Hypervisor Helper [Retro Project\\PC Game\\00524\\SB\\Binaries\\Win64\\Hypewrvisor Helper\\HV-Loader-0xZeOn.exe]"
+              "Hypervisor Helper [Retro Project\\PC Game\\00554\\SB\\Binaries\\Win64\\Hypewrvisor Helper\\HV-Loader-0xZeOn.exe]"
             ],
             "executable": "SB\\Binaries\\Win64\\SB-Win64-Shipping.exe",
             "filename": "00554.zip"
@@ -153632,9 +153632,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1772720840104_1",
@@ -153671,9 +153669,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1772720840104_2",
@@ -153710,9 +153706,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1772720840104_3",
@@ -153749,9 +153743,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1772720840104_4",
@@ -153788,9 +153780,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1772720840104_6",
@@ -153837,8 +153827,6 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   }
 ]
