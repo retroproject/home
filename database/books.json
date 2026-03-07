@@ -10917,5 +10917,28 @@
         "fileSize": "1.2 GB"
       }
     ]
+  },
+  {
+    "_id": "book_1772870209641_tcw5h97su",
+    "Title": "Rosario+Vampire",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/Rosario%2BVampire%20Cover.jpg",
+    "Genre": [],
+    "Tags": [
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB001",
+        "filename": "00346.zip",
+        "fileSize": "2 GB"
+      }
+    ],
+    "audiobooksUrl": []
   }
 ]
