@@ -150963,7 +150963,7 @@
             "executable": "BBQ\\Binaries\\Win64\\BBQ-Win64-Shipping.exe",
             "arguments": [],
             "notes": [
-              "Hypervisor Launcher [Retro Project\\PC Game\\00562]",
+              "Hypervisor Launcher [Retro Project\\PC Game\\00562\\BBQ\\Binaries\\Win64]",
               "Hypervisor Driver AMD [driver_amd]",
               "Hypervisor Driver INTEL [driver_intel]",
               "Hypervisor Helper [Retro Project\\PC Game\\00562\\BBQ\\Binaries\\Win64\\Hypewrvisor Helper\\HypervisorManager.exe]"
