@@ -150932,5 +150932,52 @@
     "Tags": [
       "Hide"
     ]
+  },
+  {
+    "_id": "game_1773004517801_0",
+    "Name": "The First Berserker Khazan",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/The%20First%20Berserker%20Khazan%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20First%20Berserker%20Khazan%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/The%20First%20Berserker%20Khazan%20Trailer.mp4",
+    "videoStart": 6.8,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/The%20First%20Berserker%20Khazan%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP016",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "53 GB",
+            "executable": "BBQ\\Binaries\\Win64\\BBQ-Win64-Shipping.exe",
+            "arguments": [],
+            "notes": [
+              "Hypervisor Launcher [Retro Project\\PC Game\\00562]",
+              "Hypervisor Driver AMD [driver_amd]",
+              "Hypervisor Driver INTEL [driver_intel]",
+              "Hypervisor Helper [Retro Project\\PC Game\\00562\\BBQ\\Binaries\\Win64\\Hypewrvisor Helper\\HypervisorManager.exe]"
+            ],
+            "buildID": "27 November 2025",
+            "filename": "00562.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hypervisor",
+      "Hypervisor Launcher",
+      "Hide"
+    ]
   }
 ]
