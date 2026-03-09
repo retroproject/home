@@ -151017,5 +151017,68 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1773047469253_0",
+    "Name": "Atomic Heart",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Atomic%20Heart%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Atomic%20Heart%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Atomic%20Heart%20Trailer.mp4",
+    "videoStart": 1.8,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Atomic%20Heart%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP016",
+            "name": "AMD",
+            "platform": "PC Game",
+            "fileSize": "120 GB",
+            "executable": "AtomicHeart\\Binaries\\Win64\\HypervisorLauncher.exe",
+            "arguments": [],
+            "notes": [
+              "Hypervisor Launcher [Retro Project\\PC Game\\00565\\AtomicHeart\\Binaries\\Win64]",
+              "Hypervisor Driver AMD [driver_amd]",
+              "Hypervisor Driver INTEL [driver_intel]",
+              "Hypervisor Helper [Retro Project\\PC Game\\00565\\AtomicHeart\\Binaries\\Win64\\Hypervisor Helper\\HypervisorManager.exe]"
+            ],
+            "buildID": "28 January 2025",
+            "filename": "00565.zip"
+          },
+          {
+            "identifier": "RPRP016",
+            "name": "INTEL",
+            "platform": "PC Game",
+            "fileSize": "120 GB",
+            "executable": "AtomicHeart\\Binaries\\Win64\\HypervisorLauncher.exe",
+            "arguments": [],
+            "notes": [
+              "Hypervisor Launcher [Retro Project\\PC Game\\00566\\AtomicHeart\\Binaries\\Win64]",
+              "Hypervisor Driver AMD [driver_amd]",
+              "Hypervisor Driver INTEL [driver_intel]",
+              "Hypervisor Helper [Retro Project\\PC Game\\00566\\AtomicHeart\\Binaries\\Win64\\Hypervisor Helper\\HypervisorManager.exe]"
+            ],
+            "buildID": "28 January 2025",
+            "filename": "00566.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hypervisor",
+      "Hypervisor Launcher",
+      "Hide"
+    ]
   }
 ]
