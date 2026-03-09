@@ -149862,6 +149862,7 @@
     "_id": "game_1772330056875_0",
     "Name": "Stellar Blade",
     "SortingName": "",
+    "nexusSlug": "stellarblade",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -149918,8 +149919,7 @@
     "Tags": [
       "Hypervisor",
       "Hypervisor Launcher"
-    ],
-    "nexusSlug": "stellarblade"
+    ]
   },
   {
     "_id": "game_1772346756892_0",
