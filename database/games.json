@@ -86613,20 +86613,18 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC27",
+            "identifier": "RPRP016",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "scimitar_engine_win64_vs2019_dx12_qx.exe",
-            "fileSize": "70GB",
+            "executable": "ACMirage.exe",
+            "fileSize": "75GB",
             "buildID": "18 December 2025",
-            "filename": "Assassins Creed Mirage.zip"
+            "filename": "00547.zip"
           }
         ]
       }
     },
-    "Tags": [
-      "Has Issues"
-    ]
+    "Tags": []
   },
   {
     "_id": "adf695c3-5883-4691-a341-821005f20dcb",
