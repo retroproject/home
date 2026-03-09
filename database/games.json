@@ -85203,7 +85203,7 @@
             "identifier": "RPRP008",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "RED\\Binaries\\Win64\\RED-Win64-Shipping.exe",
+            "executable": "RED\\Binaries\\Win64\\DRAGON_BALL_FighterZ.exe",
             "fileSize": "6GB",
             "buildID": "5 December 2025",
             "filename": "00254.zip"
@@ -151041,7 +151041,7 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP016",
+            "identifier": "RPRP017",
             "name": "AMD",
             "platform": "PC Game",
             "fileSize": "120 GB",
@@ -151057,7 +151057,7 @@
             "filename": "00565.zip"
           },
           {
-            "identifier": "RPRP016",
+            "identifier": "RPRP017",
             "name": "INTEL",
             "platform": "PC Game",
             "fileSize": "120 GB",
