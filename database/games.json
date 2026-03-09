@@ -150959,7 +150959,7 @@
         "versions": [
           {
             "identifier": "RPRP016",
-            "name": "Vanilla",
+            "name": "AMD",
             "platform": "PC Game",
             "fileSize": "53 GB",
             "executable": "BBQ\\Binaries\\Win64\\BBQ-Win64-Shipping.exe",
@@ -150972,14 +150972,29 @@
             ],
             "buildID": "27 November 2025",
             "filename": "00562.zip"
+          },
+          {
+            "identifier": "RPRP016",
+            "name": "INTEL",
+            "platform": "PC Game",
+            "fileSize": "53 GB",
+            "executable": "BBQ\\Binaries\\Win64\\BBQ-Win64-Shipping.exe",
+            "arguments": [],
+            "notes": [
+              "Hypervisor Launcher [Retro Project\\PC Game\\00563\\BBQ\\Binaries\\Win64]",
+              "Hypervisor Driver AMD [driver_amd]",
+              "Hypervisor Driver INTEL [driver_intel]",
+              "Hypervisor Helper [Retro Project\\PC Game\\00563\\BBQ\\Binaries\\Win64\\Hypewrvisor Helper\\HypervisorManager.exe]"
+            ],
+            "buildID": "27 November 2025",
+            "filename": "00563.zip"
           }
         ]
       }
     },
     "Tags": [
       "Hypervisor",
-      "Hypervisor Launcher",
-      "Hide"
+      "Hypervisor Launcher"
     ]
   }
 ]
