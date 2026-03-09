@@ -54477,7 +54477,7 @@
   {
     "_id": "6e3f4897-6fcc-44a6-8dea-ecc09daf8f1c",
     "Name": "Slay the Spire",
-    "SortingName": "",
+    "SortingName": "Slay the Spire 01",
     "Description": "A determined climber ascends the mysterious <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>Spire</span>, an ever-changing tower where <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 6px #DC143C;'>ancient magic</span> corrupts reality itself, wielding a deck of <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>enchanted cards</span> that manifest deadly spells and devastating attacks against the tower's <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 6px #B22222;'>monstrous guardians</span>.<br>Through floors populated by <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>cultists</span>, <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 6px #4B0082;'>automaton sentries</span>, and <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>twisted abominations</span>, our hero must carefully balance offense and defense while managing the corruption that threatens to consume their very soul.<br>Each victory rewards them with new cards and <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 6px #FFD700;'>powerful relics</span>, but every choice carries consequence as the tower adapts to their strategy, forcing constant evolution of tactics against increasingly <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>nightmarish foes</span>.<br>In this roguelike journey of strategic mastery and calculated risk, climbing higher means confronting not just external monsters, but the <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 6px #2F4F4F;'>inner demons</span> that drive one to seek power at the <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>Spire's cursed peak</span>.",
     "DescriptionArabic": "<div dir='rtl'>متسلق مصمم يصعد <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>البرج</span> الغامض، برج متغير باستمرار حيث <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 6px #DC143C;'>السحر القديم</span> يفسد الواقع ذاته، يلوح بمجموعة من <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>البطاقات المسحورة</span> التي تظهر تعاويذ قاتلة وهجمات مدمرة ضد <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 6px #B22222;'>حراس البرج الوحشيين</span>.<br>عبر طوابق مأهولة بـ<span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>أعضاء الطوائف</span>، <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 6px #4B0082;'>حراس الآلات</span>، و<span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>المسوخ الملتوية</span>، يجب على بطلنا أن يوازن بعناية بين الهجوم والدفاع أثناء إدارة الفساد الذي يهدد باستهلاك روحه ذاتها.<br>كل انتصار يكافئه ببطاقات جديدة و<span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 6px #FFD700;'>آثار قوية</span>، لكن كل خيار يحمل عواقب بينما يتكيف البرج مع استراتيجيته، مما يجبر على التطور المستمر للتكتيكات ضد <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>أعداء كابوسية</span> متزايدة.<br>في هذه الرحلة الروجلايك للإتقان الاستراتيجي والمخاطرة المحسوبة، التسلق أعلى يعني مواجهة ليس فقط الوحوش الخارجية، بل <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 6px #2F4F4F;'>الشياطين الداخلية</span> التي تدفع المرء للبحث عن القوة في <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>قمة البرج الملعونة</span>.</div>",
     "ReleaseDate": "2019-1-23",
@@ -150985,7 +150985,7 @@
   {
     "_id": "game_1773045962403_0",
     "Name": "Slay the Spire 2",
-    "SortingName": "",
+    "SortingName": "Slay the Spire 02",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -151009,9 +151009,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
-            "filename": "00564.zip",
             "executable": "SlayTheSpire2.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "7 March 2026",
+            "filename": "00564.zip"
           }
         ]
       }
