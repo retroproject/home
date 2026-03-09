@@ -150399,8 +150399,7 @@
     },
     "Tags": [
       "Hypervisor",
-      "Hypervisor Launcher",
-      "Hide"
+      "Hypervisor Launcher"
     ]
   },
   {
@@ -150724,9 +150723,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1772720840104_1",
@@ -150763,9 +150760,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1772720840104_2",
@@ -150802,9 +150797,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1772720840104_3",
@@ -150841,9 +150834,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1772720840104_4",
@@ -150880,9 +150871,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1772720840104_6",
@@ -150929,9 +150918,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1773004517801_0",
@@ -150994,5 +150981,40 @@
       "Hypervisor",
       "Hypervisor Launcher"
     ]
+  },
+  {
+    "_id": "game_1773045962403_0",
+    "Name": "Slay the Spire 2",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Slay%20the%20Spire%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Slay%20the%20Spire%202%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Slay%20the%20Spire%202%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Slay%20the%20Spire%202%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP016",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "00564.zip",
+            "executable": "SlayTheSpire2.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
