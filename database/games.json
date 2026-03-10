@@ -137996,7 +137996,7 @@
     "videoEnd": 118.886168,
     "MusicUrl": "https://archive.org/download/RPRM001/Dragon%20Quest%20I%20and%20II%20HD%202D%20Theme.mp3",
     "PlatformNames": [
-      "Nintendo Switch"
+      "PC Game"
     ],
     "GenreNames": [
       "Japanese Role-Playing"
@@ -138005,21 +138005,17 @@
       "Artdink"
     ],
     "downloadInfo": {
-      "Nintendo Switch": {
+      "PC Game": {
         "versions": [
           {
-            "identifier": "E0701",
+            "identifier": "RPRP017",
             "name": "Vanilla",
-            "platform": "Nintendo Switch",
-            "fileSize": "7 GB",
+            "platform": "PC Game",
+            "fileSize": "16GB",
             "arguments": [],
-            "filenames": [
-              "Dragon Quest I and II HD 2D.nsp",
-              "Dragon Quest I and II HD 2D Citron Update.zip"
-            ],
-            "buildID": "1.0.1",
-            "emulator": "Citron",
-            "romFile": "Dragon Quest I and II HD 2D.nsp"
+            "buildID": "9 March 2026",
+            "executable": "DQIandIIHD2DRemake.exe",
+            "filename": "00567.zip"
           }
         ]
       }
@@ -140718,7 +140714,7 @@
             "fileSize": "9 GB",
             "executable": "HOTEL BARCELONA.exe",
             "arguments": [],
-            "buildID": "20 January 2026",
+            "buildID": "5 March 2026",
             "filename": "00296.zip"
           }
         ]
@@ -151077,8 +151073,7 @@
     },
     "Tags": [
       "Hypervisor",
-      "Hypervisor Launcher",
-      "Hide"
+      "Hypervisor Launcher"
     ]
   }
 ]
