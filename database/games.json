@@ -151112,8 +151112,7 @@
       }
     },
     "Tags": [
-      "Need Music",
-      "Hide"
+      "Need Music"
     ]
   },
   {
@@ -151151,9 +151150,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1773297196328_2",
@@ -151190,9 +151187,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1773297196328_3",
@@ -151229,9 +151224,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1773297196328_4",
@@ -151268,9 +151261,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1773297196328_5",
@@ -151307,9 +151298,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1773297196328_6",
@@ -151346,9 +151335,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1773297196328_7",
@@ -151385,9 +151372,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1773297196328_8",
@@ -151424,9 +151409,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1773297196328_9",
@@ -151463,9 +151446,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1773297234575_0",
@@ -151502,9 +151483,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1773297248895_0",
@@ -151542,5 +151521,110 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1773318516212_0",
+    "Name": "Out of Sight",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Out%20of%20Sight%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Out%20of%20Sight%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Out%20of%20Sight%20Trailer.mp4",
+    "videoStart": 4.909169,
+    "videoEnd": 39.83078,
+    "MusicUrl": "https://archive.org/download/RPRM001/Out%20of%20Sight%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP017",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "filename": "00580.zip",
+            "executable": "OutOfSight.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1773318516212_1",
+    "Name": "Piece by Piece",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Piece%20by%20Piece%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Piece%20by%20Piece%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Piece%20by%20Piece%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Piece%20by%20Piece%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP017",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "00581.zip",
+            "executable": "Piece by Piece.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1773318516212_2",
+    "Name": "The Liar Princess and the Blind Prince",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Liar%20Princess%20and%20the%20Blind%20Prince%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Liar%20Princess%20and%20the%20Blind%20Prince%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Liar%20Princess%20and%20the%20Blind%20Prince%20Trailer.mp4",
+    "videoStart": 2.726001,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/The%20Liar%20Princess%20and%20the%20Blind%20Prince%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP017",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "filename": "00582.zip",
+            "executable": "PrincessAndPrince.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
