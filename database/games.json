@@ -151570,7 +151570,7 @@
     "YouTubeUrl": "https://archive.org/download/RPRM001/Piece%20by%20Piece%20Trailer.mp4",
     "videoStart": 0,
     "videoEnd": 0,
-    "MusicUrl": "https://archive.org/download/RPRM001/Piece%20by%20Piece%20Theme.mp3",
+    "MusicUrl": "",
     "PlatformNames": [
       "PC Game"
     ],
@@ -151590,7 +151590,10 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Need Music"
+    ]
   },
   {
     "_id": "game_1773318516212_2",
