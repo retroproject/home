@@ -86249,16 +86249,29 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC06",
-            "filename": "Brutal Legend.zip",
-            "name": "Vanilla",
+            "identifier": "RPRP017",
+            "name": "Arabic",
             "platform": "PC Game",
             "executable": "BrutalLegend.exe",
-            "fileSize": "8GB"
+            "fileSize": "8GB",
+            "buildID": "3 August 2020",
+            "filename": "00588.zip"
+          },
+          {
+            "identifier": "CPC06",
+            "name": "English",
+            "platform": "PC Game",
+            "executable": "BrutalLegend.exe",
+            "fileSize": "8GB",
+            "buildID": "3 August 2020",
+            "filename": "Brutal Legend.zip"
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Arabic"
+    ]
   },
   {
     "_id": "b4686cd8-9c14-4016-9862-73657a3129d3",
@@ -145853,7 +145866,7 @@
     "YouTubeUrl": "https://archive.org/download/RPRM001/1348%20Ex%20Voto%20Trailer.mp4",
     "videoStart": 2.542636,
     "videoEnd": 61.066846,
-    "MusicUrl": "https://archive.org/download/RPRM001/1348%20Ex%20Voto%20Theme.mp3",
+    "MusicUrl": "",
     "PlatformNames": [
       "PC Game"
     ],
@@ -145876,8 +145889,7 @@
       }
     },
     "Tags": [
-      "Need Music",
-      "Hide"
+      "Need Music"
     ]
   },
   {
@@ -145893,7 +145905,7 @@
     "YouTubeUrl": "https://archive.org/download/RPRM001/Solateria%20Trailer.mp4",
     "videoStart": 0,
     "videoEnd": 100.933725,
-    "MusicUrl": "https://archive.org/download/RPRM001/Solateria%20Theme.mp3",
+    "MusicUrl": "",
     "PlatformNames": [
       "PC Game"
     ],
@@ -145916,8 +145928,7 @@
       }
     },
     "Tags": [
-      "Need Music",
-      "Hide"
+      "Need Music"
     ]
   },
   {
@@ -145956,8 +145967,7 @@
       }
     },
     "Tags": [
-      "Need Music",
-      "Hide"
+      "Need Music"
     ]
   }
 ]
