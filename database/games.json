@@ -53551,9 +53551,9 @@
             "identifier": "RPRP012",
             "name": "Online",
             "platform": "PC Game",
-            "executable": "FH5Launcher.exe",
+            "executable": "ForzaHorizon5_loader.exe",
             "fileSize": "180GB",
-            "buildID": "1.687.302.0",
+            "buildID": "1.688.109.0",
             "filename": "00391.zip"
           }
         ]
@@ -95745,13 +95745,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC07",
+            "identifier": "RPRP017",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "4GB",
             "arguments": [],
             "executable": "tomb123.exe",
-            "filename": "Tomb Raider I-III Remastered.zip"
+            "buildID": "12 March 2026",
+            "filename": "00583.zip"
           },
           {
             "identifier": "CPC16",
@@ -95760,6 +95761,7 @@
             "fileSize": "5GB",
             "arguments": [],
             "executable": "tomb123.exe",
+            "buildID": "14 February 2024",
             "filename": "Tomb Raider I-III Remastered.zip"
           }
         ]
@@ -144829,13 +144831,23 @@
         "versions": [
           {
             "identifier": "RPRP016",
-            "name": "Vanilla",
+            "name": "Offline",
             "platform": "PC Game",
             "fileSize": "783 MB",
             "executable": "Game.exe",
             "arguments": [],
             "buildID": "4 March 2026",
             "filename": "00549.zip"
+          },
+          {
+            "identifier": "RPRP017",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "783 MB",
+            "executable": "Game.exe",
+            "arguments": [],
+            "buildID": "1.0.0.13995",
+            "filename": "00584.zip"
           }
         ]
       }
@@ -145744,9 +145756,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "5 GB",
-            "filename": "00580.zip",
             "executable": "OutOfSight.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "3 March 2026",
+            "filename": "00580.zip"
           }
         ]
       }
@@ -145779,9 +145792,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
-            "filename": "00581.zip",
             "executable": "Piece by Piece.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "11 March 2026",
+            "filename": "00581.zip"
           }
         ]
       }
@@ -145817,12 +145831,133 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "4 GB",
-            "filename": "00582.zip",
             "executable": "PrincessAndPrince.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "11 March 2026",
+            "filename": "00582.zip"
           }
         ]
       }
     }
+  },
+  {
+    "_id": "game_1773382455608_0",
+    "Name": "1348 Ex Voto",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/1348%20Ex%20Voto%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/1348%20Ex%20Voto%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/1348%20Ex%20Voto%20Trailer.mp4",
+    "videoStart": 2.542636,
+    "videoEnd": 61.066846,
+    "MusicUrl": "https://archive.org/download/RPRM001/1348%20Ex%20Voto%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP017",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "25 GB",
+            "executable": "1348.exe",
+            "arguments": [],
+            "buildID": "12 March 2026",
+            "filename": "00585.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Need Music",
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1773382455608_1",
+    "Name": "Solateria",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Solateria%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Solateria%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Solateria%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 100.933725,
+    "MusicUrl": "https://archive.org/download/RPRM001/Solateria%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP017",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Solateria.exe",
+            "arguments": [],
+            "buildID": "13 March 2026",
+            "filename": "00586.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Need Music",
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1773382455608_2",
+    "Name": "Timberborn",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Timberborn%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Timberborn%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Timberborn%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Timberborn%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP017",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Timberborn.exe",
+            "arguments": [],
+            "buildID": "12 March 2026",
+            "filename": "00587.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Need Music",
+      "Hide"
+    ]
   }
 ]
