@@ -18420,6 +18420,7 @@
               "Improved Cinematics"
             ],
             "executable": "Expedition33_Steam.exe",
+            "buildID": "12 December 2025",
             "filename": "00166.zip"
           }
         ]
@@ -55064,10 +55065,7 @@
     "DeveloperNames": [
       "Omega Force"
     ],
-    "Tags": [
-      "Hide",
-      "Has Issues"
-    ],
+    "Tags": [],
     "downloadInfo": {
       "Cross-Platform": {
         "versions": [
@@ -55075,7 +55073,7 @@
             "identifier": "RPRP002",
             "filename": "",
             "platform": "PC Game",
-            "name": "Dynasty Warriors 6",
+            "name": "Vanilla",
             "fileSize": "5GB",
             "executableFiles": [
               "DW6_WIN..exe"
@@ -55085,10 +55083,10 @@
             ]
           },
           {
-            "identifier": "P0301",
+            "identifier": "P0302",
             "filename": "",
             "platform": "Sony PlayStation 3",
-            "name": "Dynasty Warriors 6 Empires",
+            "name": "Empires",
             "emulator": "RPCS3",
             "romFiles": [
               "PS3_GAME/USRDIR/EBOOT.BIN"
@@ -144311,31 +144309,19 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP015",
-            "name": "AMD",
+            "identifier": "RPRP017",
+            "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "81 GB",
-            "executable": "HypervisorLauncher.exe",
+            "executable": "DOOMTheDarkAges.exe",
             "arguments": [],
             "buildID": "18 November 2025",
-            "filename": "00531.zip"
-          },
-          {
-            "identifier": "RPRP015",
-            "name": "INTEL",
-            "platform": "PC Game",
-            "fileSize": "81 GB",
-            "executable": "HypervisorLauncher.exe",
-            "arguments": [],
-            "buildID": "18 November 2025",
-            "filename": "00532.zip"
+            "filename": "00591.zip"
           }
         ]
       }
     },
-    "Tags": [
-      "Hypervisor"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1772413273076_0",
@@ -146044,5 +146030,309 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1773469102025_1",
+    "Name": "Sengoku Basara 2",
+    "SortingName": "Sengoku Basara 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%202%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%202%20Trailer.mp4",
+    "videoStart": 15.1,
+    "videoEnd": 144.736555,
+    "MusicUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%202%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 2"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Japanese",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "9 GB",
+            "filename": "Sengoku Basara 2.zip",
+            "romFiles": [
+              "Sengoku Basara 2 [Japanese].iso",
+              "Sengoku Basara 2 Heroes [Japanese].iso"
+            ],
+            "romLabels": [
+              "Original",
+              "Heroes "
+            ],
+            "emulator": "PCSX2",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1773469102025_2",
+    "Name": "Sengoku Basara",
+    "SortingName": "Sengoku Basara 01.01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 2"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Collection",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "8GB",
+            "emulator": "PCSX2",
+            "arguments": [],
+            "romFiles": [
+              "Devil Kings.iso",
+              "Sengoku Basara [Japanese].iso"
+            ],
+            "romLabels": [
+              "English",
+              "Japanese"
+            ],
+            "filename": "Sengoku Basara.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1773470467632_0",
+    "Name": "Sengoku Basara 3 Utage",
+    "SortingName": "Sengoku Basara 03.01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%203%20Utage%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%203%20Utage%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%203%20Utage%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%203%20Utage%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 3"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0302",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "fileSize": "11 GB",
+            "filename": "Sengoku Basara 3 Utage.zip",
+            "filenames": [
+              "Sengoku Basara 3 Utage.zip"
+            ],
+            "romFiles": [
+              "PS3_GAME/USRDIR/EBOOT.BIN"
+            ],
+            "emulator": "RPCS3",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1773470467632_1",
+    "Name": "Sengoku Basara 4",
+    "SortingName": "Sengoku Basara 04",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%204%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%204%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%204%20Trailer.mp4",
+    "videoStart": 3.565285,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%204%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 3"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0302",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "fileSize": "16 GB",
+            "filenames": [
+              "Sengoku Basara 4.zip",
+              "Sengoku Basara 4 Update.zip"
+            ],
+            "emulator": "RPCS3",
+            "arguments": [],
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          },
+          {
+            "identifier": "P0302",
+            "name": "Sumeragi",
+            "platform": "Sony PlayStation 3",
+            "fileSize": "16 GB",
+            "filenames": [
+              "Sengoku Basara 4 Sumeragi.zip",
+              "Sengoku Basara 4 Sumeragi Update.zip"
+            ],
+            "emulator": "RPCS3",
+            "arguments": [],
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1773470467632_2",
+    "Name": "Sengoku Basara HD Collection",
+    "SortingName": "Sengoku Basara 03.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%20HD%20Collection%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%20HD%20Collection%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%20HD%20Collection%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 98.656039,
+    "MusicUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%20HD%20Collection%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 3"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "P0302",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "fileSize": "22 GB",
+            "filename": "Sengoku Basara HD Collection.zip",
+            "filenames": [
+              "Sengoku Basara HD Collection.zip"
+            ],
+            "romFiles": [
+              "PS3_GAME/USRDIR/EBOOT.BIN"
+            ],
+            "emulator": "RPCS3",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1773477724331_0",
+    "Name": "Nickelodeon SpongeBob SquarePants featuring Nicktoons Globs of Doom",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Nickelodeon%20SpongeBob%20SquarePants%20featuring%20Nicktoons%20Globs%20of%20Doom%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Nickelodeon%20SpongeBob%20SquarePants%20featuring%20Nicktoons%20Globs%20of%20Doom%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Nickelodeon%20SpongeBob%20SquarePants%20featuring%20Nicktoons%20Globs%20of%20Doom%20Trailer.mp4",
+    "videoStart": 5.2,
+    "videoEnd": 35.189627,
+    "MusicUrl": "https://archive.org/download/RPRM001/Nickelodeon%20SpongeBob%20SquarePants%20featuring%20Nicktoons%20Globs%20of%20Doom%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 2"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "4 GB",
+            "filename": "Nickelodeon SpongeBob SquarePants featuring Nicktoons Globs of Doom.iso",
+            "filenames": [
+              "Nickelodeon SpongeBob SquarePants featuring Nicktoons Globs of Doom.iso"
+            ],
+            "romFile": "Nickelodeon SpongeBob SquarePants featuring Nicktoons Globs of Doom.iso",
+            "emulator": "PCSX2",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1773477724332_1",
+    "Name": "Nicktoons Battle for Volcano Island",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Nicktoons%20Battle%20for%20Volcano%20Island%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Nicktoons%20Battle%20for%20Volcano%20Island%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Nicktoons%20Battle%20for%20Volcano%20Island%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Nicktoons%20Battle%20for%20Volcano%20Island%20Theme.mp3",
+    "PlatformNames": [
+      "Sony PlayStation 2"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "1 GB",
+            "filename": "Nicktoons Battle for Volcano Island.iso",
+            "filenames": [
+              "Nicktoons Battle for Volcano Island.iso"
+            ],
+            "romFile": "Nicktoons Battle for Volcano Island.iso",
+            "emulator": "PCSX2",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
