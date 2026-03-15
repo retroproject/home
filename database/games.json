@@ -272,7 +272,7 @@
             "identifier": "retro-psx",
             "filename": "CTR Crash Team Racing.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "600MB",
             "romFile": "CTR Crash Team Racing.chd"
@@ -1519,7 +1519,7 @@
             "identifier": "retro-psx",
             "filename": "Hellnight.zip",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "1GB",
             "romFiles": [
@@ -1949,7 +1949,7 @@
           {
             "identifier": "retro-psx",
             "name": "Fixed",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "RetroArch",
             "fileSize": "500MB",
             "romFile": "Suikoden II.chd",
@@ -1962,7 +1962,7 @@
           {
             "identifier": "retro-psx",
             "name": "HD Textures",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "RetroArch",
             "fileSize": "80MB",
             "arguments": [],
@@ -2288,7 +2288,7 @@
             "identifier": "retro-psx",
             "filename": "Resident Evil 1.5.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "200MB",
             "romFile": "Resident Evil 1.5.img"
@@ -3151,7 +3151,6 @@
         "versions": [
           {
             "identifier": "E0701",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Ryujinx",
@@ -3354,7 +3353,7 @@
             "identifier": "retro-psx",
             "filename": "Ninja Shadow of Darkness.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "400MB",
             "romFile": "Ninja Shadow of Darkness.chd"
@@ -3572,7 +3571,6 @@
         "versions": [
           {
             "identifier": "X01X01",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Microsoft Xbox 360",
             "emulator": "Xenia",
@@ -4712,33 +4710,27 @@
         "versions": [
           {
             "identifier": "CPC27",
-            "filename": "",
+            "filename": "Final Fantasy 6.zip",
             "platform": "PC Game",
             "name": "PC Vanilla",
             "fileSize": "2GB",
             "executableFiles": [
               "FINAL FANTASY VI.exe"
-            ],
-            "filenames": [
-              "Final Fantasy 6.zip"
             ]
           },
           {
             "identifier": "retroid-2",
-            "filename": "",
+            "filename": "Final Fantasy 6.zip",
             "platform": "PC Game",
             "name": "PC Enhanced",
             "fileSize": "2GB",
             "executableFiles": [
               "FINAL FANTASY VI.exe"
-            ],
-            "filenames": [
-              "Final Fantasy 6.zip"
             ]
           },
           {
             "identifier": "retro-snes",
-            "filename": "",
+            "filename": "Final Fantasy VI [Revised Old Style Edition].smc",
             "platform": "Nintendo Super Entertainment System",
             "name": "SNES Revised",
             "emulator": "RetroArch",
@@ -4749,9 +4741,6 @@
             ],
             "mods": "Revised Old Style Edition",
             "romFiles": [
-              "Final Fantasy VI [Revised Old Style Edition].smc"
-            ],
-            "filenames": [
               "Final Fantasy VI [Revised Old Style Edition].smc"
             ],
             "buildID": " 2.02"
@@ -6019,7 +6008,7 @@
             "identifier": "retro-psx",
             "filename": "Syphon Filter 2.zip",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "2GB",
             "romFiles": [
@@ -7234,7 +7223,7 @@
             "identifier": "retro-psx",
             "filename": "Need For Speed II.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "400MB",
             "romFile": "Need For Speed II.img"
@@ -7996,17 +7985,14 @@
         "versions": [
           {
             "identifier": "retro-psx",
-            "filename": "",
-            "platform": "Sony PlayStation 1",
+            "filename": "Summon Night 2.zip",
+            "platform": "Sony PlayStation",
             "name": "Japanese",
             "emulator": "DuckStation",
             "fileSize": "900MB",
             "romFiles": [
               "Summon Night 2 (Disc 1) (Japanese).img",
               "Summon Night 2 (Disc 2) (Japanese).img\t"
-            ],
-            "filenames": [
-              "Summon Night 2.zip"
             ],
             "romLabels": [
               "Japanese Disc 1",
@@ -8015,7 +8001,7 @@
           },
           {
             "identifier": "retro-nitro",
-            "filename": "",
+            "filename": "Summon Night 2 (Japanese).nds",
             "platform": "Nintendo DS",
             "name": "Japanese",
             "emulator": "RetroArch",
@@ -8025,9 +8011,6 @@
               ".\\cores\\melonds_libretro.dll"
             ],
             "romFiles": [
-              "Summon Night 2 (Japanese).nds"
-            ],
-            "filenames": [
               "Summon Night 2 (Japanese).nds"
             ]
           }
@@ -8215,21 +8198,18 @@
         "versions": [
           {
             "identifier": "retro-psx",
-            "filename": "",
-            "platform": "Sony PlayStation 1",
+            "filename": "Summon Night (Japannese).img",
+            "platform": "Sony PlayStation",
             "name": "Japanese",
             "emulator": "DuckStation",
             "fileSize": "600MB",
             "romFiles": [
               "Summon Night (Japannese).img"
-            ],
-            "filenames": [
-              "Summon Night (Japannese).img"
             ]
           },
           {
             "identifier": "retro-nitro",
-            "filename": "",
+            "filename": "Summon Night (Japanese).nds",
             "platform": "Nintendo DS",
             "name": "Japanese",
             "emulator": "RetroArch",
@@ -8239,9 +8219,6 @@
               ".\\cores\\melonds_libretro.dll"
             ],
             "romFiles": [
-              "Summon Night (Japanese).nds"
-            ],
-            "filenames": [
               "Summon Night (Japanese).nds"
             ]
           }
@@ -8471,7 +8448,7 @@
             "identifier": "retro-psx",
             "filename": "Disney's Hercules.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "400MB",
             "romFile": "Disney's Hercules.img"
@@ -8722,7 +8699,7 @@
             "identifier": "retro-psx",
             "filename": "Disney's Tarzan.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "500MB",
             "romFile": "Disney's Tarzan.img"
@@ -8786,7 +8763,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/12ed8709-2569-4ac2-a811-ecc27c977f50.mp3",
     "PlatformNames": [
-      "Sony Playstation Vita"
+      "Sony PlayStation Vita"
     ],
     "GenreNames": [
       "Japanese Role-Playing"
@@ -8795,12 +8772,12 @@
       "tri-Ace"
     ],
     "downloadInfo": {
-      "Sony Playstation Vita": {
+      "Sony PlayStation Vita": {
         "versions": [
           {
             "identifier": "Q0200",
             "name": "Vanilla",
-            "platform": "Sony Playstation Vita",
+            "platform": "Sony PlayStation Vita",
             "emulator": "Vita3K",
             "fileSize": "2GB",
             "romFile": "PCSE00883",
@@ -8841,7 +8818,7 @@
             "identifier": "retro-psx",
             "filename": "Samurai Deeper Kyo.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "400MB",
             "romFile": "Samurai Deeper Kyo.img"
@@ -9103,7 +9080,7 @@
             "identifier": "retro-psx",
             "filename": "Bakusou Kyoudai Let's & Go!!.zip",
             "name": "Collection",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "500MB",
             "romFiles": [
@@ -10015,7 +9992,7 @@
             "identifier": "retro-psx",
             "filename": "The Misadventures of Tron Bonne.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "200MB",
             "romFile": "The Misadventures of Tron Bonne.chd"
@@ -10332,7 +10309,7 @@
             "identifier": "retro-psx",
             "filename": "Gran Turismo 2.zip",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "900MB",
             "romFiles": [
@@ -10572,7 +10549,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/16124972-fcbe-4b63-9e53-81ce9926aa74.mp3",
     "PlatformNames": [
-      "Sony Playstation Vita"
+      "Sony PlayStation Vita"
     ],
     "GenreNames": [
       "Music"
@@ -10581,12 +10558,12 @@
       "Atlus"
     ],
     "downloadInfo": {
-      "Sony Playstation Vita": {
+      "Sony PlayStation Vita": {
         "versions": [
           {
             "identifier": "Q0200",
             "name": "Vanilla",
-            "platform": "Sony Playstation Vita",
+            "platform": "Sony PlayStation Vita",
             "emulator": "Vita3K",
             "fileSize": "5GB",
             "romFile": "PCSE00764",
@@ -11515,7 +11492,7 @@
             "identifier": "retro-psx",
             "filename": "The Pink Panther Pinkadelic Pursuit.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "300MB",
             "romFile": "The Pink Panther Pinkadelic Pursuit.chd"
@@ -12806,7 +12783,7 @@
             "identifier": "retro-psx",
             "filename": "Countdown Vampires.zip",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "1GB",
             "romFiles": [
@@ -15325,7 +15302,7 @@
             "identifier": "retro-psx",
             "filename": "Monster Rancher Hop-A-Bout.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "100MB",
             "romFile": "Monster Rancher Hop-A-Bout.chd"
@@ -15452,7 +15429,7 @@
             "identifier": "retro-psx",
             "filename": "Mega Man Legends.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "200MB",
             "romFile": "Mega Man Legends.chd"
@@ -17599,7 +17576,7 @@
             "identifier": "retro-psx",
             "filename": "Mortal Kombat Trilogy.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "70MB",
             "romFile": "Mortal Kombat Trilogy.img"
@@ -18481,7 +18458,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/27659d1e-aed5-4edb-8984-0d7efaf7bb3c.mp3",
     "PlatformNames": [
-      "Sony Playstation Vita"
+      "Sony PlayStation Vita"
     ],
     "GenreNames": [
       "Adventure"
@@ -18490,12 +18467,12 @@
       "SCE Bend Studio"
     ],
     "downloadInfo": {
-      "Sony Playstation Vita": {
+      "Sony PlayStation Vita": {
         "versions": [
           {
             "identifier": "Q0200",
             "name": "Vanilla",
-            "platform": "Sony Playstation Vita",
+            "platform": "Sony PlayStation Vita",
             "emulator": "Vita3K",
             "fileSize": "3GB",
             "romFile": "PCSA00029",
@@ -18826,7 +18803,7 @@
             "identifier": "retro-psx",
             "filename": "Syphon Filter 1.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "700MB",
             "romFile": "Syphon Filter 1.img"
@@ -19918,7 +19895,7 @@
             "identifier": "retro-psx",
             "filename": "Gex Enter the Gecko.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "200MB",
             "romFile": "Gex Enter the Gecko.chd"
@@ -19998,7 +19975,7 @@
             "identifier": "retro-psx",
             "filename": "Need For Speed Porsche Unleashed.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "300MB",
             "romFile": "Need For Speed Porsche Unleashed.img"
@@ -22150,7 +22127,7 @@
             "identifier": "retro-psx",
             "filename": "Genei Tougi Shadow Struggle.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "500MB",
             "romFile": "Genei Tougi Shadow Struggle.img"
@@ -24123,7 +24100,7 @@
         "versions": [
           {
             "identifier": "retro-gba",
-            "filename": "",
+            "filename": "TMNT.gba",
             "platform": "Nintendo Game Boy Advance",
             "name": "Game Boy Advance",
             "emulator": "RetroArch",
@@ -24134,22 +24111,16 @@
             ],
             "romFiles": [
               "TMNT.gba"
-            ],
-            "filenames": [
-              "TMNT.gba"
             ]
           },
           {
             "identifier": "P0211",
-            "filename": "",
+            "filename": "TMNT.iso",
             "platform": "Sony PlayStation 2",
-            "name": "PlayStation 2",
+            "name": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "5GB",
             "romFiles": [
-              "TMNT.iso"
-            ],
-            "filenames": [
               "TMNT.iso"
             ]
           }
@@ -24188,7 +24159,7 @@
             "identifier": "retro-psx",
             "filename": "Wild Arms.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "600MB",
             "romFile": "Wild Arms.img"
@@ -24868,7 +24839,7 @@
           {
             "name": "Enhanced",
             "fileSize": "2.3GB",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "romFiles": [
               "The Legend of Dragoon CD1 (Japanese VA + Rewrite + Full EXP).iso",
@@ -26328,7 +26299,6 @@
         "versions": [
           {
             "identifier": "retro-3ds",
-            "filename": "",
             "name": "Enhanced",
             "platform": "Nintendo 3DS",
             "emulator": "Citra",
@@ -27017,7 +26987,7 @@
           {
             "identifier": "retro-psx",
             "name": "Collection",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "1GB",
             "romFiles": [
@@ -27068,7 +27038,6 @@
         "versions": [
           {
             "identifier": "retro-3ds",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo 3DS",
             "emulator": "Citra",
@@ -27487,9 +27456,9 @@
         "versions": [
           {
             "identifier": "retro-psx",
-            "filename": "",
-            "platform": "Sony PlayStation 1",
-            "name": "Playstation 1",
+            "filename": "Metal Gear Solid.zip",
+            "platform": "Sony PlayStation",
+            "name": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "910MB",
             "romFiles": [
@@ -27499,22 +27468,16 @@
             "romLabels": [
               "Disc 1",
               "Disc 2"
-            ],
-            "filenames": [
-              "Metal Gear Solid.zip"
             ]
           },
           {
             "identifier": "CPC22",
-            "filename": "",
+            "filename": "Metal Gear Solid 1.zip",
             "platform": "PC Game",
             "name": "PC Game",
             "fileSize": "500MB",
             "executableFiles": [
               "steamclient_loader.exe"
-            ],
-            "filenames": [
-              "Metal Gear Solid 1.zip"
             ],
             "buildID": "2.0"
           }
@@ -27594,7 +27557,7 @@
         "versions": [
           {
             "identifier": "retro-gba",
-            "filename": "",
+            "filename": "Teenage Mutant Ninja Turtles 2 Battle Nexus.gba\t",
             "platform": "Nintendo Game Boy Advance",
             "name": "Game Boy Advance",
             "emulator": "RetroArch",
@@ -27605,22 +27568,16 @@
             ],
             "romFiles": [
               "Teenage Mutant Ninja Turtles 2 Battle Nexus.gba\t"
-            ],
-            "filenames": [
-              "Teenage Mutant Ninja Turtles 2 Battle Nexus.gba\t"
             ]
           },
           {
             "identifier": "P0211",
-            "filename": "",
+            "filename": "Teenage Mutant Ninja Turtles 2 Battle Nexus.iso",
             "platform": "Sony PlayStation 2",
-            "name": "PlayStation 2",
+            "name": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "3GB",
             "romFiles": [
-              "Teenage Mutant Ninja Turtles 2 Battle Nexus.iso"
-            ],
-            "filenames": [
               "Teenage Mutant Ninja Turtles 2 Battle Nexus.iso"
             ]
           }
@@ -27940,7 +27897,7 @@
             "identifier": "retro-psx",
             "filename": "Tenchu 2 Birth of the Stealth Assassins.zip",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "600MB",
             "romFiles": [
@@ -27954,7 +27911,7 @@
             "identifier": "retro-psx",
             "filename": "Tenchu 2 Birth of the Stealth Assassins RetroArch HD Textures.zip",
             "name": "HD Textures",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "2GB"
           }
@@ -28113,7 +28070,7 @@
             "identifier": "retro-psx",
             "filename": "Disney Pixar Toy Story 2 Buzz Lightyear to the Rescue!.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "600MB",
             "romFile": "Disney Pixar Toy Story 2 Buzz Lightyear to the Rescue!.img"
@@ -28193,7 +28150,7 @@
             "identifier": "retro-psx",
             "filename": "Need For Speed High Stakes (Complete Edition).img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "700MB",
             "romFile": "Need For Speed High Stakes (Complete Edition).img"
@@ -28719,29 +28676,23 @@
         "versions": [
           {
             "identifier": "retro-psx",
-            "filename": "",
-            "platform": "Sony PlayStation 1",
-            "name": "Playstation 1",
+            "filename": "Tomba! 2 The Evil Swine Return.img",
+            "platform": "Sony PlayStation",
+            "name": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "400MB",
             "romFiles": [
-              "Tomba! 2 The Evil Swine Return.img"
-            ],
-            "filenames": [
               "Tomba! 2 The Evil Swine Return.img"
             ]
           },
           {
             "identifier": "RPRP010",
-            "filename": "",
+            "filename": "00337.zip",
             "platform": "PC Game",
             "name": "PC Game",
             "fileSize": "7GB",
             "executableFiles": [
               "Tomba2.exe"
-            ],
-            "filenames": [
-              "00337.zip"
             ],
             "buildID": "31 December 2025"
           }
@@ -28984,7 +28935,7 @@
           {
             "identifier": "retro-psx",
             "name": "Collection",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "1GB",
             "romFiles": [
@@ -29450,7 +29401,7 @@
             "identifier": "retro-psx",
             "filename": "Gex.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "200MB",
             "romFile": "Gex.chd"
@@ -29617,7 +29568,7 @@
             "identifier": "retro-psx",
             "filename": "Armored Core 1.zip",
             "name": "Collection",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "3GB",
             "romFiles": [
@@ -30215,7 +30166,7 @@
             "identifier": "retro-psx",
             "filename": "Jackie Chan Stuntmaster.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "600MB",
             "romFile": "Jackie Chan Stuntmaster.img"
@@ -30255,7 +30206,7 @@
             "identifier": "retro-psx",
             "filename": "Linda3 Again (English v0.95.9).img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "700MB",
             "romFile": "Linda3 Again (English v0.95.9).img"
@@ -31122,7 +31073,6 @@
         "versions": [
           {
             "identifier": "E0701",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
@@ -32990,7 +32940,7 @@
             "identifier": "retro-psx",
             "filename": "Racing Lagoon.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "700MB",
             "romFile": "Racing Lagoon.img"
@@ -33669,7 +33619,7 @@
             "identifier": "retro-psx",
             "filename": "Gran Turismo.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "400MB",
             "romFile": "Gran Turismo.chd"
@@ -33982,7 +33932,7 @@
             "identifier": "retro-psx",
             "filename": "Bugs Bunny Lost in Time.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "300MB",
             "romFile": "Bugs Bunny Lost in Time.chd"
@@ -34905,7 +34855,7 @@
             "identifier": "retro-psx",
             "filename": "Twisted Metal 2.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "500MB",
             "romFile": "Twisted Metal 2.chd"
@@ -35557,7 +35507,7 @@
             "identifier": "retro-psx",
             "filename": "Castlevania Symphony of the Night.zip",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "900MB",
             "romFiles": [
@@ -39352,13 +39302,10 @@
         "versions": [
           {
             "identifier": "RPRP008",
-            "filename": "",
+            "filename": "00252.zip",
             "platform": "PC Game",
             "name": "Steam",
             "fileSize": "50GB",
-            "filenames": [
-              "00252.zip"
-            ],
             "executableFiles": [
               "P5R.exe"
             ],
@@ -39366,14 +39313,11 @@
           },
           {
             "identifier": "retro-nx",
-            "filename": "",
+            "filename": "Shin Megami Tensei Persona 5 Royal.nsp",
             "platform": "Nintendo Switch",
             "name": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "15GB",
-            "filenames": [
-              "Shin Megami Tensei Persona 5 Royal.nsp"
-            ],
             "romFiles": [
               "Shin Megami Tensei Persona 5 Royal.nsp"
             ]
@@ -39492,7 +39436,7 @@
           {
             "identifier": "retro-psx",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "RetroArch",
             "fileSize": "320MB",
             "romFile": "Spider-Man 2 Enter Electro.chd",
@@ -39505,7 +39449,7 @@
           {
             "identifier": "retro-psx",
             "name": "HD Textures",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "760MB",
             "filename": "Spider-Man 2 Enter Electro RetroArch HD Textures.zip"
@@ -39691,7 +39635,7 @@
     "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/retromusic/5690a105-e9ea-4c15-b41b-679f4bd5cdee.mp3",
     "PlatformNames": [
-      "Sony Playstation Vita"
+      "Sony PlayStation Vita"
     ],
     "GenreNames": [
       "Japanese Role-Playing"
@@ -39700,12 +39644,12 @@
       "Square Enix"
     ],
     "downloadInfo": {
-      "Sony Playstation Vita": {
+      "Sony PlayStation Vita": {
         "versions": [
           {
             "identifier": "Q0200",
             "name": "Vanilla",
-            "platform": "Sony Playstation Vita",
+            "platform": "Sony PlayStation Vita",
             "emulator": "Vita3K",
             "fileSize": "710MB",
             "romFile": "PCSG00498",
@@ -40275,7 +40219,7 @@
           {
             "name": "Enhanced",
             "fileSize": "1.3GB",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "RetroArch",
             "romFiles": [
               "Xenogears (Disc 1).chd",
@@ -40295,7 +40239,7 @@
           {
             "name": "HD Textures",
             "fileSize": "15GB",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "RetroArch",
             "identifier": "retro-psx",
             "filename": "Xenogears RetroArch HD Textures.zip"
@@ -40482,7 +40426,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/57f398d6-ba11-49e8-870a-3a3a531543bc.mp3",
     "PlatformNames": [
-      "Sony Playstation Vita"
+      "Sony PlayStation Vita"
     ],
     "GenreNames": [
       "Hack and Slash"
@@ -40493,12 +40437,12 @@
       "Marvelous AQL"
     ],
     "downloadInfo": {
-      "Sony Playstation Vita": {
+      "Sony PlayStation Vita": {
         "versions": [
           {
             "identifier": "Q0200",
             "name": "Vanilla",
-            "platform": "Sony Playstation Vita",
+            "platform": "Sony PlayStation Vita",
             "emulator": "Vita3K",
             "fileSize": "4GB",
             "romFile": "PCSA00152",
@@ -41007,7 +40951,7 @@
             "identifier": "retro-psx",
             "filename": "Crash Bash.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "200MB",
             "romFile": "Crash Bash.img"
@@ -43170,7 +43114,7 @@
           {
             "identifier": "retro-psx",
             "name": "Collection",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "1GB",
             "romFiles": [
@@ -43217,7 +43161,6 @@
         "versions": [
           {
             "identifier": "retro-3ds",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo 3DS",
             "emulator": "Citra",
@@ -43311,7 +43254,7 @@
             "identifier": "retro-psx",
             "filename": "Dynasty Warriors.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "500MB",
             "romFile": "Dynasty Warriors.img"
@@ -45299,7 +45242,7 @@
             "identifier": "retro-psx",
             "filename": "Tenchu Stealth Assassins.zip",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "RetroArch",
             "fileSize": "700MB",
             "romFile": "",
@@ -45318,7 +45261,7 @@
             "identifier": "retro-psx",
             "filename": "Tenchu Stealth Assassins RetroArch HD Textures.zip",
             "name": "HD Textures",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "RetroArch",
             "fileSize": "700MB",
             "romFile": "",
@@ -45518,7 +45461,6 @@
         "versions": [
           {
             "identifier": "E0701",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
@@ -46541,7 +46483,7 @@
             "identifier": "retro-psx",
             "filename": "Nightmare Creatures.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "400MB",
             "romFile": "Nightmare Creatures.chd"
@@ -46901,7 +46843,7 @@
             "identifier": "retro-psx",
             "filename": "Tomb Raider Chronicles.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "700MB",
             "romFile": "Tomb Raider Chronicles.img"
@@ -46982,7 +46924,7 @@
             "identifier": "retro-psx",
             "filename": "Resident Evil Survivor.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "400MB",
             "romFile": "Resident Evil Survivor.img"
@@ -47451,7 +47393,7 @@
             "identifier": "retro-psx",
             "filename": "Bloody Roar 2.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "600MB",
             "romFile": "Bloody Roar 2.img"
@@ -47618,7 +47560,7 @@
           {
             "identifier": "retro-psx",
             "name": "Collection",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "700MB",
             "romFiles": [
@@ -47790,7 +47732,7 @@
             "identifier": "retro-psx",
             "filename": "Driver 2.zip",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "1GB",
             "romFiles": [
@@ -49342,7 +49284,7 @@
             "identifier": "retro-psx",
             "filename": "Wild Arms 2nd Ignition.zip",
             "name": "Japanese VA",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "1GB",
             "romFiles": [
@@ -49508,7 +49450,7 @@
             "identifier": "retro-psx",
             "filename": "Klonoa Beach Volleyball.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "700MB",
             "romFile": "Klonoa Beach Volleyball.img"
@@ -49587,7 +49529,7 @@
         "versions": [
           {
             "identifier": "retro-nes",
-            "filename": "",
+            "filename": "Super Mario Bros.nes",
             "platform": "Nintendo Entertainment System",
             "name": "Vanilla",
             "emulator": "RetroArch",
@@ -49598,14 +49540,11 @@
             ],
             "romFiles": [
               "Super Mario Bros.nes"
-            ],
-            "filenames": [
-              "Super Mario Bros.nes"
             ]
           },
           {
             "identifier": "retro-nes",
-            "filename": "",
+            "filename": "Super Mario Bros Definitive.nes",
             "platform": "Nintendo Entertainment System",
             "name": "Definitive",
             "emulator": "RetroArch",
@@ -49617,14 +49556,10 @@
             "romFiles": [
               "Super Mario Bros Definitive.nes"
             ],
-            "filenames": [
-              "Super Mario Bros Definitive.nes"
-            ],
             "buildID": "1.3.1"
           },
           {
             "identifier": "RPRP002",
-            "filename": "",
             "platform": "PC Game",
             "name": "Remastered",
             "fileSize": "70MB",
@@ -49936,7 +49871,7 @@
             "identifier": "retro-psx",
             "filename": "Suikoden (Bug Fix).chd",
             "name": "Fixed",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "600MB",
             "romFile": "Suikoden (Bug Fix).chd"
@@ -50246,7 +50181,7 @@
             "identifier": "retro-psx",
             "filename": "Mortal Kombat Mythologies Sub-Zero.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "500MB",
             "romFile": "Mortal Kombat Mythologies Sub-Zero.img"
@@ -50374,7 +50309,7 @@
             "identifier": "retro-psx",
             "filename": "Galerians.zip",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "2GB",
             "romFile": "",
@@ -50734,7 +50669,7 @@
             "identifier": "retro-psx",
             "filename": "T.R.A.G. Tactical Rescue Assault Group Mission of Mercy.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "700MB",
             "romFile": "T.R.A.G. Tactical Rescue Assault Group Mission of Mercy.img"
@@ -50774,7 +50709,7 @@
             "identifier": "retro-psx",
             "filename": "Fighting Force.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "300MB",
             "romFile": "Fighting Force.chd"
@@ -51131,7 +51066,7 @@
             "identifier": "retro-psx",
             "filename": "Tekken 3.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "700MB",
             "romFile": "Tekken 3.img"
@@ -52626,7 +52561,6 @@
         "versions": [
           {
             "identifier": "retro-nx",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Ryujinx",
@@ -53244,7 +53178,7 @@
             "identifier": "retro-psx",
             "filename": "Arc the Lad II.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "700MB",
             "romFile": "Arc the Lad II.img"
@@ -53713,7 +53647,6 @@
         "versions": [
           {
             "identifier": "E0701",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
@@ -53799,7 +53732,7 @@
             "identifier": "retro-psx",
             "filename": "Vigilante 8.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "400MB",
             "romFile": "Vigilante 8.chd"
@@ -55071,20 +55004,17 @@
         "versions": [
           {
             "identifier": "RPRP002",
-            "filename": "",
+            "filename": "00054.zip",
             "platform": "PC Game",
             "name": "Vanilla",
             "fileSize": "5GB",
             "executableFiles": [
               "DW6_WIN..exe"
-            ],
-            "filenames": [
-              "00054.zip"
             ]
           },
           {
             "identifier": "P0302",
-            "filename": "",
+            "filename": "Dynasty Warriors 6 Empires.zip",
             "platform": "Sony PlayStation 3",
             "name": "Empires",
             "emulator": "RPCS3",
@@ -55092,9 +55022,6 @@
               "PS3_GAME/USRDIR/EBOOT.BIN"
             ],
             "fileSize": "8GB",
-            "filenames": [
-              "Dynasty Warriors 6 Empires.zip"
-            ],
             "notes": "Need Upload"
           }
         ]
@@ -55157,7 +55084,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/74b2c34f-2e08-440c-a34b-f5f043137285.mp3",
     "PlatformNames": [
-      "Sony Playstation Vita"
+      "Sony PlayStation Vita"
     ],
     "GenreNames": [
       "Hack and Slash"
@@ -55169,21 +55096,21 @@
       "Hall of Fame"
     ],
     "downloadInfo": {
-      "Sony Playstation Vita": {
+      "Sony PlayStation Vita": {
         "versions": [
           {
             "name": "Enhanced",
             "identifier": "Q0200",
             "fileSize": "800MB",
             "emulator": "Vita3K",
-            "platform": "Sony Playstation Vita",
+            "platform": "Sony PlayStation Vita",
             "romFile": "PCSE00240",
             "filename": "Muramasa Rebirth.zip"
           },
           {
             "identifier": "Q0200",
             "name": "HD Textures",
-            "platform": "Sony Playstation Vita",
+            "platform": "Sony PlayStation Vita",
             "emulator": "Vita3K",
             "fileSize": "6GB",
             "filename": "Muramasa Rebirth HD Textures.zip"
@@ -55309,7 +55236,7 @@
             "identifier": "retro-psx",
             "filename": "Front Mission 3.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "600MB",
             "romFile": "Front Mission 3.img"
@@ -55433,7 +55360,7 @@
             "identifier": "retro-psx",
             "filename": "Vagrant Story.zip",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "700MB",
             "romFiles": [
@@ -55447,7 +55374,7 @@
             "identifier": "retro-psx",
             "filename": "Vagrant Story RetroArch HD Textures.zip",
             "name": "HD Textures",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "9GB"
           }
@@ -55488,7 +55415,7 @@
           {
             "name": "Vanilla",
             "fileSize": "2GB",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "romFiles": [
               "Thousand Arms (Disc 1).img",
@@ -55746,7 +55673,6 @@
         "versions": [
           {
             "identifier": "E0701",
-            "filename": "",
             "name": "Japanese",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
@@ -55816,7 +55742,7 @@
     "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/retromusic/764594f1-288f-45d4-8123-c73b3b6cb9d2.mp3",
     "PlatformNames": [
-      "Sony Playstation Vita"
+      "Sony PlayStation Vita"
     ],
     "GenreNames": [
       "Japanese Role-Playing"
@@ -55825,12 +55751,12 @@
       "Square Enix"
     ],
     "downloadInfo": {
-      "Sony Playstation Vita": {
+      "Sony PlayStation Vita": {
         "versions": [
           {
             "identifier": "Q0200",
             "name": "Vanilla",
-            "platform": "Sony Playstation Vita",
+            "platform": "Sony PlayStation Vita",
             "emulator": "Vita3K",
             "fileSize": "470MB",
             "romFile": "PCSG00497",
@@ -56111,7 +56037,6 @@
         "versions": [
           {
             "identifier": "E0701",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
@@ -56282,7 +56207,6 @@
         "versions": [
           {
             "identifier": "retro-3ds",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo 3DS",
             "emulator": "Citra",
@@ -56372,7 +56296,7 @@
           {
             "identifier": "retro-psx",
             "name": "Restored Progression",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "RetroArch",
             "fileSize": "250MB",
             "romFile": "Legend of Legaia.chd",
@@ -56385,7 +56309,7 @@
           {
             "identifier": "retro-psx",
             "name": "HD Textures",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "RetroArch",
             "fileSize": "9GB",
             "arguments": [
@@ -56453,7 +56377,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/7730e47a-0c68-4da0-b6ea-bd37e1cc13ee.mp3",
     "PlatformNames": [
-      "Sony Playstation Vita"
+      "Sony PlayStation Vita"
     ],
     "GenreNames": [
       "Japanese Role-Playing"
@@ -56463,12 +56387,12 @@
       "MCF"
     ],
     "downloadInfo": {
-      "Sony Playstation Vita": {
+      "Sony PlayStation Vita": {
         "versions": [
           {
             "identifier": "Q0200",
             "name": "Vanilla",
-            "platform": "Sony Playstation Vita",
+            "platform": "Sony PlayStation Vita",
             "emulator": "Vita3K",
             "fileSize": "500MB",
             "romFile": "PCSE00905",
@@ -57462,7 +57386,7 @@
           {
             "identifier": "retro-psx",
             "name": "Collection",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "300MB",
             "romFiles": [
@@ -58036,7 +57960,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/7a5f4664-7f5f-4d5f-bdaa-8260e2e5981d.mp3",
     "PlatformNames": [
-      "Sony Playstation Vita"
+      "Sony PlayStation Vita"
     ],
     "GenreNames": [
       "Japanese Role-Playing"
@@ -58045,12 +57969,12 @@
       "Namco Bandai Games"
     ],
     "downloadInfo": {
-      "Sony Playstation Vita": {
+      "Sony PlayStation Vita": {
         "versions": [
           {
             "identifier": "Q0200",
             "name": "Vanilla",
-            "platform": "Sony Playstation Vita",
+            "platform": "Sony PlayStation Vita",
             "emulator": "Vita3K",
             "fileSize": "2GB",
             "romFile": "PCSE00429",
@@ -58059,7 +57983,7 @@
           {
             "identifier": "Q0200",
             "name": "HD Textures",
-            "platform": "Sony Playstation Vita",
+            "platform": "Sony PlayStation Vita",
             "emulator": "Vita3K",
             "fileSize": "4GB",
             "filename": "Tales of Hearts R HD Textures.zip"
@@ -59632,16 +59556,13 @@
         "versions": [
           {
             "identifier": "RPRP006",
-            "filename": "",
+            "filename": "00183.zip",
             "platform": "PC Game",
             "name": "PC Vanilla",
             "fileSize": "5GB",
             "executableFiles": [
               "nmh.exe",
               "ConfigurationTool.exe"
-            ],
-            "filenames": [
-              "00183.zip"
             ],
             "executableLabels": [
               "Game",
@@ -59651,16 +59572,13 @@
           },
           {
             "identifier": "RPRP006",
-            "filename": "",
+            "filename": "00184.zip",
             "platform": "PC Game",
             "name": "PC Enhanced",
             "fileSize": "5GB",
             "executableFiles": [
               "nmh.exe",
               "ConfigurationTool.exe"
-            ],
-            "filenames": [
-              "00184.zip"
             ],
             "executableLabels": [
               "Game",
@@ -59670,7 +59588,6 @@
           },
           {
             "identifier": "E0701",
-            "filename": "",
             "platform": "Nintendo Switch",
             "name": "Switch Vanilla",
             "emulator": "Yuzu",
@@ -60622,9 +60539,6 @@
             ],
             "romFiles": [
               "lkage.zip"
-            ],
-            "filenames": [
-              "lkage.zip"
             ]
           },
           {
@@ -60640,9 +60554,6 @@
               ".\\cores\\mesen_libretro.dll"
             ],
             "romFiles": [
-              "The Legend of Kage.nes"
-            ],
-            "filenames": [
               "The Legend of Kage.nes"
             ]
           }
@@ -61159,7 +61070,7 @@
             "identifier": "retro-psx",
             "filename": "The Adventure of Little Ralph.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "100MB",
             "romFile": "The Adventure of Little Ralph.img"
@@ -61336,7 +61247,7 @@
             "identifier": "retro-psx",
             "filename": "Bugs Bunny & Taz Time Busters.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "400MB",
             "romFile": "Bugs Bunny & Taz Time Busters.chd"
@@ -61374,7 +61285,6 @@
         "versions": [
           {
             "identifier": "E0701",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Ryujinx",
@@ -61431,9 +61341,6 @@
             ],
             "romFiles": [
               "citycon.zip"
-            ],
-            "filenames": [
-              "citycon.zip"
             ]
           },
           {
@@ -61450,9 +61357,6 @@
             ],
             "romFiles": [
               "City Connection.nes"
-            ],
-            "filenames": [
-              "City Connection.nes"
             ]
           },
           {
@@ -61468,9 +61372,6 @@
               ".\\cores\\mesen_libretro.dll"
             ],
             "romFiles": [
-              "City Connection (Clarice Version).nes"
-            ],
-            "filenames": [
               "City Connection (Clarice Version).nes"
             ]
           }
@@ -62347,7 +62248,7 @@
           {
             "identifier": "retro-psx",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "1GB",
             "romFiles": [
@@ -62363,7 +62264,7 @@
           {
             "identifier": "retro-psx",
             "name": "HD Textures",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "4GB",
             "filename": "Parasite Eve 1 Duckstation HD Textures.zip"
@@ -63268,7 +63169,7 @@
             "identifier": "retro-psx",
             "filename": "Vigilante 8 2nd Offense.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "500MB",
             "romFile": "Vigilante 8 2nd Offense.chd"
@@ -65740,7 +65641,7 @@
             "identifier": "retro-psx",
             "filename": "Hokuto no Ken Seikimatsu Kyuuseishu Densetsu.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "700MB",
             "romFile": "Hokuto no Ken Seikimatsu Kyuuseishu Densetsu.img"
@@ -65871,7 +65772,7 @@
             "identifier": "retro-psx",
             "filename": "The Need for Speed.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "600MB",
             "romFile": "The Need for Speed.img"
@@ -67187,7 +67088,7 @@
             "identifier": "retro-psx",
             "filename": "Need For Speed III Hot Pursuit.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "500MB",
             "romFile": "Need For Speed III Hot Pursuit.img"
@@ -67521,29 +67422,23 @@
         "versions": [
           {
             "identifier": "RPRP006",
-            "filename": "",
+            "filename": "00186.zip",
             "platform": "PC Game",
             "name": "PC Special Edition",
             "fileSize": "1GB",
             "executableFiles": [
               "Tomba.exe"
             ],
-            "filenames": [
-              "00186.zip"
-            ],
             "buildID": "30 July 2025"
           },
           {
             "identifier": "retro-psx",
-            "filename": "",
-            "platform": "Sony PlayStation 1",
-            "name": "Playstation 1",
+            "filename": "Tomba!.img",
+            "platform": "Sony PlayStation",
+            "name": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "300MB",
             "romFiles": [
-              "Tomba!.img"
-            ],
-            "filenames": [
               "Tomba!.img"
             ]
           }
@@ -67582,7 +67477,7 @@
             "identifier": "retro-psx",
             "filename": "Elemental Gearbolt (Unworked).img",
             "name": "Unworked",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "400MB",
             "romFile": "Elemental Gearbolt (Unworked).img"
@@ -67855,7 +67750,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/8f3af66d-6605-4cc8-9485-8ccd119ebded.mp3",
     "PlatformNames": [
-      "Sony Playstation Vita"
+      "Sony PlayStation Vita"
     ],
     "GenreNames": [
       "Open World"
@@ -67864,12 +67759,12 @@
       "SCE Japan Studio"
     ],
     "downloadInfo": {
-      "Sony Playstation Vita": {
+      "Sony PlayStation Vita": {
         "versions": [
           {
             "identifier": "Q0200",
             "name": "Vanilla",
-            "platform": "Sony Playstation Vita",
+            "platform": "Sony PlayStation Vita",
             "emulator": "Vita3K",
             "fileSize": "840MB",
             "romFile": "PCSA00011",
@@ -68021,7 +67916,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/8f748b58-29ac-4ff8-be88-b05caa4dc9c2.mp3",
     "PlatformNames": [
-      "Sony Playstation Vita"
+      "Sony PlayStation Vita"
     ],
     "GenreNames": [
       "Music"
@@ -68030,12 +67925,12 @@
       "P Studio"
     ],
     "downloadInfo": {
-      "Sony Playstation Vita": {
+      "Sony PlayStation Vita": {
         "versions": [
           {
             "identifier": "Q0200",
             "name": "Vanilla",
-            "platform": "Sony Playstation Vita",
+            "platform": "Sony PlayStation Vita",
             "emulator": "Vita3K",
             "fileSize": "6GB",
             "romFile": "PCSE01275",
@@ -68160,7 +68055,7 @@
             "identifier": "retro-psx",
             "filename": "Grand Theft Auto 2.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "600MB",
             "romFile": "Grand Theft Auto 2.img"
@@ -70128,7 +70023,6 @@
         "versions": [
           {
             "identifier": "X01X01",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Microsoft Xbox 360",
             "emulator": "Xenia",
@@ -71013,7 +70907,7 @@
             "identifier": "retro-psx",
             "filename": "Twisted Metal.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "200MB",
             "romFile": "Twisted Metal.chd"
@@ -71887,7 +71781,7 @@
             "identifier": "retro-psx",
             "filename": "Syphon Filter 3.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "700MB",
             "romFile": "Syphon Filter 3.img"
@@ -72224,7 +72118,7 @@
             "identifier": "retro-psx",
             "filename": "Silent Bomber.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "300MB",
             "romFile": "Silent Bomber.img"
@@ -72350,7 +72244,7 @@
             "identifier": "retro-psx",
             "filename": "Digimon World 3.zip",
             "name": "Collection",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "1GB",
             "romFiles": [
@@ -72544,7 +72438,7 @@
         "versions": [
           {
             "identifier": "retro-nes",
-            "filename": "",
+            "filename": "Akumajou Densetsu.nes",
             "platform": "Nintendo Entertainment System",
             "name": "NES Enhanced",
             "emulator": "RetroArch",
@@ -72556,22 +72450,16 @@
             "romFiles": [
               "Akumajou Densetsu.nes"
             ],
-            "filenames": [
-              "Akumajou Densetsu.nes"
-            ],
             "buildID": "English 7.1"
           },
           {
             "identifier": "retroid-2",
-            "filename": "",
+            "filename": "Castlevania III Dracula's Curse Remake.zip",
             "platform": "PC Game",
             "name": "Fan Remake",
             "fileSize": "160MB",
             "executableFiles": [
               "Dracula痴 Curse.exe"
-            ],
-            "filenames": [
-              "Castlevania III Dracula's Curse Remake.zip"
             ]
           }
         ]
@@ -72883,7 +72771,7 @@
             "identifier": "retro-psx",
             "filename": "Ape Escape.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "400MB",
             "romFile": "Ape Escape.img"
@@ -73220,7 +73108,7 @@
             "identifier": "retro-psx",
             "filename": "Threads of Fate.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "400MB",
             "romFile": "Threads of Fate.img"
@@ -73465,7 +73353,6 @@
         "versions": [
           {
             "identifier": "E0701",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
@@ -73714,7 +73601,7 @@
             "identifier": "retro-psx",
             "filename": "Twisted Metal III.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "500MB",
             "romFile": "Twisted Metal III.chd"
@@ -74419,9 +74306,9 @@
         "versions": [
           {
             "identifier": "retro-psx",
-            "filename": "",
-            "platform": "Sony PlayStation 1",
-            "name": "Sony Playstation 1",
+            "filename": "Fear Effect.zip",
+            "platform": "Sony PlayStation",
+            "name": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "2GB",
             "romFiles": [
@@ -74435,20 +74322,14 @@
               "Disc 2",
               "Disc 3",
               "Disc 4"
-            ],
-            "filenames": [
-              "Fear Effect.zip"
             ]
           },
           {
             "identifier": "RPRP001",
-            "filename": "",
+            "filename": "00022.zip",
             "platform": "PC Game",
             "name": "PC Game",
             "fileSize": "2GB",
-            "filenames": [
-              "00022.zip"
-            ],
             "executableFiles": [
               "syrup.exe"
             ],
@@ -74530,7 +74411,7 @@
             "identifier": "retro-psx",
             "filename": "Digimon Digital Card Battle.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "200MB",
             "romFile": "Digimon Digital Card Battle.img"
@@ -76455,7 +76336,6 @@
         "versions": [
           {
             "identifier": "retro-3ds",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo 3DS",
             "emulator": "Citra",
@@ -76932,7 +76812,7 @@
             "identifier": "retro-psx",
             "filename": "Tom and Jerry in House Trap.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "100MB",
             "romFile": "Tom and Jerry in House Trap.chd"
@@ -76972,7 +76852,7 @@
             "identifier": "retro-psx",
             "filename": "Fighting Force 2.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "200MB",
             "romFile": "Fighting Force 2.chd"
@@ -77171,7 +77051,6 @@
         "versions": [
           {
             "identifier": "X01X01",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Microsoft Xbox 360",
             "emulator": "Xenia",
@@ -77638,7 +77517,6 @@
         "versions": [
           {
             "identifier": "retro-nx",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Ryujinx",
@@ -77936,7 +77814,6 @@
         "versions": [
           {
             "identifier": "E0701",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
@@ -78915,7 +78792,7 @@
             "identifier": "retro-psx",
             "filename": "Grand Theft Auto.zip",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "500MB",
             "romFiles": [
@@ -79848,7 +79725,7 @@
             "identifier": "retro-psx",
             "filename": "Harvest Moon Back to Nature.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "200MB",
             "romFile": "Harvest Moon Back to Nature.img"
@@ -79927,7 +79804,6 @@
         "versions": [
           {
             "identifier": "retro-3ds",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo 3DS",
             "emulator": "Citra",
@@ -80055,7 +79931,7 @@
             "identifier": "retro-psx",
             "filename": "Dragon Valor.zip",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "500MB",
             "romFiles": [
@@ -80447,7 +80323,7 @@
             "identifier": "retro-psx",
             "filename": "Fear Effect 2 Retro Helix.zip",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "3GB",
             "romFiles": [
@@ -80587,7 +80463,7 @@
             "identifier": "retro-psx",
             "filename": "Breath of Fire III.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "500MB",
             "romFile": "Breath of Fire III.img"
@@ -84575,7 +84451,6 @@
         "versions": [
           {
             "identifier": "retro-3ds",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo 3DS",
             "emulator": "Citra",
@@ -84919,7 +84794,7 @@
             "identifier": "retro-psx",
             "filename": "Valkyrie Profile.zip",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "2GB",
             "romFiles": [
@@ -85045,7 +84920,7 @@
             "identifier": "retro-psx",
             "filename": "Lunar 2 Eternal Blue Complete.zip",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "2GB",
             "romFiles": [
@@ -85147,9 +85022,6 @@
               ".\\cores\\mgba_libretro.dll"
             ],
             "romFile": "Teenage Mutant Ninja Turtles.gba",
-            "filenames": [
-              "Teenage Mutant Ninja Turtles.gba"
-            ],
             "romFiles": [
               "Teenage Mutant Ninja Turtles.gba"
             ]
@@ -85162,9 +85034,6 @@
             "emulator": "PCSX2",
             "fileSize": "2GB",
             "romFile": "Teenage Mutant Ninja Turtles.iso",
-            "filenames": [
-              "Teenage Mutant Ninja Turtles.iso"
-            ],
             "romFiles": [
               "Teenage Mutant Ninja Turtles.iso"
             ]
@@ -85560,7 +85429,7 @@
             "identifier": "retro-psx",
             "filename": "Growlanser.zip",
             "name": "Japananese",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "1GB",
             "romFiles": [
@@ -86589,7 +86458,7 @@
             "identifier": "retro-psx",
             "filename": "Tekken 2.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "700MB",
             "romFile": "Tekken 2.img"
@@ -86719,7 +86588,7 @@
             "identifier": "retro-psx",
             "filename": "Bloody Roar.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "200MB",
             "romFile": "Bloody Roar.img"
@@ -87754,7 +87623,7 @@
             "identifier": "retro-psx",
             "filename": "Strider.zip",
             "name": "Collection",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "500MB",
             "romFiles": [
@@ -87825,7 +87694,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/b66b9c32-9aeb-4125-a5f1-e60ef0a06a20.mp3",
     "PlatformNames": [
-      "Sony Playstation Vita"
+      "Sony PlayStation Vita"
     ],
     "GenreNames": [
       "Japanese Role-Playing"
@@ -87834,12 +87703,12 @@
       "7seventh chord"
     ],
     "downloadInfo": {
-      "Sony Playstation Vita": {
+      "Sony PlayStation Vita": {
         "versions": [
           {
             "identifier": "Q0200",
             "name": "Vanilla",
-            "platform": "Sony Playstation Vita",
+            "platform": "Sony PlayStation Vita",
             "emulator": "Vita3K",
             "fileSize": "2GB",
             "romFile": "PCSG00009",
@@ -87848,7 +87717,7 @@
           {
             "identifier": "Q0200",
             "name": "HD Textures",
-            "platform": "Sony Playstation Vita",
+            "platform": "Sony PlayStation Vita",
             "emulator": "Vita3K",
             "fileSize": "2GB",
             "filename": "Tales of Innocence R HD Textures.zip"
@@ -89710,7 +89579,7 @@
             "identifier": "retro-psx",
             "filename": "Looney Tunes Sheep Raider.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "300MB",
             "romFile": "Looney Tunes Sheep Raider.chd"
@@ -90086,7 +89955,7 @@
             "identifier": "retro-psx",
             "filename": "Digimon World 1.zip",
             "name": "Collection",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "2GB",
             "romFiles": [
@@ -90892,7 +90761,6 @@
         "versions": [
           {
             "identifier": "E0701",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
@@ -91042,7 +90910,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/bca165dc-6ced-415e-8e68-956582a898d9.mp3",
     "PlatformNames": [
-      "Sony Playstation Vita"
+      "Sony PlayStation Vita"
     ],
     "GenreNames": [
       "Music"
@@ -91051,12 +90919,12 @@
       "P Studio"
     ],
     "downloadInfo": {
-      "Sony Playstation Vita": {
+      "Sony PlayStation Vita": {
         "versions": [
           {
             "identifier": "Q0200",
             "name": "Vanilla",
-            "platform": "Sony Playstation Vita",
+            "platform": "Sony PlayStation Vita",
             "emulator": "Vita3K",
             "fileSize": "6GB",
             "romFile": "PCSE01274",
@@ -92187,7 +92055,7 @@
             "identifier": "retro-psx",
             "filename": "Jade Cocoon Story of the Tamamayu.zip",
             "name": "Collection",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "2GB",
             "romFiles": [
@@ -92865,7 +92733,7 @@
           {
             "identifier": "retro-psx",
             "name": "Japanese VA",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "410MB",
             "romFile": "Clock Tower II The Struggle Within.img",
@@ -93164,7 +93032,7 @@
             "identifier": "retro-psx",
             "filename": "Batman Beyond Return of the Joker.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "600MB",
             "romFile": "Batman Beyond Return of the Joker.chd"
@@ -93173,7 +93041,7 @@
             "identifier": "retro-psx",
             "filename": "Batman Beyond Return of the Joker Duckstation HD Textures.zip",
             "name": "HD Textures",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "200MB"
           }
@@ -95148,7 +95016,7 @@
             "identifier": "retro-psx",
             "filename": "Digimon World 2.zip",
             "name": "Collection",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "1GB",
             "romFiles": [
@@ -96320,7 +96188,7 @@
             "identifier": "retro-psx",
             "filename": "Gekido Urban Fighters.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "200MB",
             "romFile": "Gekido Urban Fighters.chd"
@@ -97019,13 +96887,10 @@
         "versions": [
           {
             "identifier": "RPRP006",
-            "filename": "",
+            "filename": "00185.zip",
             "platform": "PC Game",
             "name": "PC Vanilla",
             "fileSize": "500MB",
-            "filenames": [
-              "00185.zip"
-            ],
             "executableFiles": [
               "nmh2.exe",
               "ConfigurationTool.exe"
@@ -97038,14 +96903,11 @@
           },
           {
             "identifier": "E0701",
-            "filename": "",
+            "filename": "No More Heroes 2 Desperate Struggle.nsp",
             "platform": "Nintendo Switch",
             "name": "Switch Vanilla",
             "emulator": "Yuzu",
             "fileSize": "5GB",
-            "filenames": [
-              "No More Heroes 2 Desperate Struggle.nsp"
-            ],
             "romFiles": [
               "No More Heroes 2 Desperate Struggle.nsp"
             ]
@@ -97254,29 +97116,23 @@
         "versions": [
           {
             "identifier": "retro-dolphin",
-            "filename": "",
+            "filename": "Digimon Rumble Arena 2.rvz",
             "platform": "Nintendo GameCube",
             "name": "GameCube",
             "emulator": "Dolphin",
             "fileSize": "900MB",
             "romFiles": [
               "Digimon Rumble Arena 2.rvz"
-            ],
-            "filenames": [
-              "Digimon Rumble Arena 2.rvz"
             ]
           },
           {
             "identifier": "P0211",
-            "filename": "",
+            "filename": "Digimon Rumble Arena 2.iso",
             "platform": "Sony PlayStation 2",
-            "name": "Playstation 2",
+            "name": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "1GB",
             "romFiles": [
-              "Digimon Rumble Arena 2.iso"
-            ],
-            "filenames": [
               "Digimon Rumble Arena 2.iso"
             ]
           }
@@ -97315,7 +97171,7 @@
             "identifier": "retro-psx",
             "filename": "Barbie Explorer.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "100MB",
             "romFile": "Barbie Explorer.chd"
@@ -97688,7 +97544,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/c93c3a1a-8871-4426-a5e0-abb6127d1e42.mp3",
     "PlatformNames": [
-      "Sony Playstation Vita",
+      "Sony PlayStation Vita",
       "Sony PlayStation 3"
     ],
     "GenreNames": [
@@ -97702,31 +97558,25 @@
         "versions": [
           {
             "identifier": "Q0200",
-            "filename": "",
-            "platform": "Sony Playstation Vita",
-            "name": "Playstation Vita",
+            "filename": "Odin Sphere Leifthrasir.zip",
+            "platform": "Sony PlayStation Vita",
+            "name": "Sony PlayStation Vita",
             "emulator": "Vita3K",
             "fileSize": "2GB",
             "romFiles": [
               "PCSE00899"
-            ],
-            "filenames": [
-              "Odin Sphere Leifthrasir.zip"
             ]
           },
           {
             "identifier": "rpcs3-P3",
-            "filename": "",
+            "filename": "Odin Sphere Leifthrasir.zip",
             "platform": "Sony PlayStation 3",
-            "name": "PlayStation 3",
+            "name": "Sony PlayStation 3",
             "emulator": "RPCS3",
             "romFiles": [
               "PS3_GAME/USRDIR/EBOOT.BIN"
             ],
-            "fileSize": "4GB",
-            "filenames": [
-              "Odin Sphere Leifthrasir.zip"
-            ]
+            "fileSize": "4GB"
           }
         ]
       }
@@ -98010,7 +97860,7 @@
             "identifier": "retro-psx",
             "filename": "Rival Schools United by Fate.zip",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "1GB",
             "romFile": "",
@@ -98665,7 +98515,7 @@
             "identifier": "retro-psx",
             "filename": "Arc the Lad III.zip",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "2GB",
             "romFile": "",
@@ -99613,7 +99463,6 @@
         "versions": [
           {
             "identifier": "retro-3ds",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo 3DS",
             "emulator": "Citra",
@@ -99706,7 +99555,7 @@
             "identifier": "retro-psx",
             "filename": "Mega Man Legends 2.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "200MB",
             "romFile": "Mega Man Legends 2.chd"
@@ -100038,7 +99887,7 @@
             "identifier": "retro-psx",
             "filename": "Gex 3 Deep Cover Gecko.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "300MB",
             "romFile": "Gex 3 Deep Cover Gecko.chd"
@@ -101213,7 +101062,6 @@
         "versions": [
           {
             "identifier": "retro-nx",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Ryujinx",
@@ -101259,7 +101107,7 @@
             "identifier": "retro-psx",
             "filename": "Twisted Metal Small Brawl.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "200MB",
             "romFile": "Twisted Metal Small Brawl.chd"
@@ -101907,7 +101755,7 @@
             "identifier": "retro-psx",
             "filename": "Koudelka.zip",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "3GB",
             "romFile": "Koudelka.zip",
@@ -102648,7 +102496,7 @@
     "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/retromusic/d2370780-cfdd-4aae-9154-279d1719812c.mp3",
     "PlatformNames": [
-      "Sony Playstation Vita"
+      "Sony PlayStation Vita"
     ],
     "GenreNames": [
       "Japanese Role-Playing"
@@ -102657,12 +102505,12 @@
       "Square Enix"
     ],
     "downloadInfo": {
-      "Sony Playstation Vita": {
+      "Sony PlayStation Vita": {
         "versions": [
           {
             "identifier": "Q0200",
             "name": "Vanilla",
-            "platform": "Sony Playstation Vita",
+            "platform": "Sony PlayStation Vita",
             "emulator": "Vita3K",
             "fileSize": "730MB",
             "romFile": "PCSG00499",
@@ -102703,7 +102551,7 @@
             "identifier": "retro-psx",
             "filename": "Driver You Are the Wheelman.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "700MB",
             "romFile": "Driver You Are the Wheelman.img"
@@ -102910,7 +102758,7 @@
             "identifier": "retro-psx",
             "filename": "Tomb Raider The Last Revelation.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "700MB",
             "romFile": "Tomb Raider The Last Revelation.img"
@@ -104536,7 +104384,7 @@
             "identifier": "retro-psx",
             "filename": "Parasite Eve 2.zip",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "1GB",
             "romFiles": [
@@ -104552,7 +104400,7 @@
             "identifier": "retro-psx",
             "filename": "Parasite Eve II Duckstation HD Textures.zip",
             "name": "HD Textures",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "3GB"
           }
@@ -104723,7 +104571,7 @@
             "identifier": "retro-psx",
             "filename": "Twisted Metal 4.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "500MB",
             "romFile": "Twisted Metal 4.chd"
@@ -105846,7 +105694,7 @@
             "identifier": "retro-psx",
             "filename": "C The Contra Adventure.chd",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "200MB",
             "romFile": "C The Contra Adventure.chd"
@@ -109239,7 +109087,6 @@
         "versions": [
           {
             "identifier": "E0701",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
@@ -110852,7 +110699,7 @@
             "identifier": "retro-psx",
             "filename": "Alundra 2 A New Legend Begins.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "600MB",
             "romFile": "Alundra 2 A New Legend Begins.img"
@@ -111564,7 +111411,7 @@
             "identifier": "retro-psx",
             "filename": "Kartia The Word of Fate.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "500MB",
             "romFile": "Kartia The Word of Fate.img"
@@ -112025,7 +111872,6 @@
         "versions": [
           {
             "identifier": "retro-3ds",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo 3DS",
             "emulator": "Citra",
@@ -112530,7 +112376,7 @@
           {
             "identifier": "retro-psx",
             "name": "Enhanced",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "RetroArch",
             "fileSize": "200MB",
             "romFile": "Breath of Fire IV.chd",
@@ -112543,7 +112389,7 @@
           {
             "identifier": "retro-psx",
             "name": "HD Textures",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "RetroArch",
             "fileSize": "3GB",
             "arguments": [],
@@ -113159,7 +113005,7 @@
             "identifier": "retro-psx",
             "filename": "King's Field.zip",
             "name": "Collection",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "2GB",
             "romFiles": [
@@ -113387,7 +113233,7 @@
         "versions": [
           {
             "identifier": "retro-nitro",
-            "filename": "",
+            "filename": "Sonic Colors.nds",
             "platform": "Nintendo DS",
             "name": "DS",
             "emulator": "RetroArch",
@@ -113398,22 +113244,16 @@
             ],
             "romFiles": [
               "Sonic Colors.nds"
-            ],
-            "filenames": [
-              "Sonic Colors.nds"
             ]
           },
           {
             "identifier": "retro-nx",
-            "filename": "",
+            "filename": "Sonic Colors Ultimate.nsp",
             "platform": "Nintendo Switch",
             "name": "Switch",
             "emulator": "Yuzu",
             "fileSize": "8GB",
             "romFiles": [
-              "Sonic Colors Ultimate.nsp"
-            ],
-            "filenames": [
               "Sonic Colors Ultimate.nsp"
             ]
           }
@@ -113786,7 +113626,6 @@
         "versions": [
           {
             "identifier": "retro-3ds",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo 3DS",
             "emulator": "Citra",
@@ -114111,7 +113950,7 @@
             "identifier": "retro-psx",
             "filename": "Mortal Kombat Special Forces.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "300MB",
             "romFile": "Mortal Kombat Special Forces.img"
@@ -114570,7 +114409,7 @@
             "identifier": "retro-psx",
             "filename": "Alundra (Un-Working Designs).chd",
             "name": "Un-Working Designs",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "300MB",
             "arguments": [],
@@ -115718,7 +115557,6 @@
         "versions": [
           {
             "identifier": "X01X01",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Microsoft Xbox 360",
             "emulator": "Xenia",
@@ -116767,22 +116605,19 @@
         "versions": [
           {
             "identifier": "RPRP010",
-            "filename": "",
+            "filename": "00288.zip",
             "platform": "PC Game",
             "name": "Enhanced",
             "fileSize": "100MB",
             "executableFiles": [
               "BanjoRecompiled.exe"
             ],
-            "filenames": [
-              "00288.zip"
-            ],
             "buildID": "1.0.0",
             "mods": "BK Reloaded 0.1.1"
           },
           {
             "identifier": "e03e03",
-            "filename": "",
+            "filename": "Banjo-Kazooie.zip",
             "platform": "Nintendo 64",
             "name": "Vanilla",
             "emulator": "RetroArch",
@@ -116793,9 +116628,6 @@
             ],
             "romFiles": [
               "Banjo-Kazooie.z64"
-            ],
-            "filenames": [
-              "Banjo-Kazooie.zip"
             ]
           }
         ]
@@ -117001,43 +116833,34 @@
         "versions": [
           {
             "identifier": "RPRP006",
-            "filename": "",
+            "filename": "00164.zip",
             "platform": "PC Game",
             "name": "PC Remastered",
             "fileSize": "20GB",
             "executableFiles": [
               "Onimusha2.exe"
             ],
-            "filenames": [
-              "00164.zip"
-            ],
             "buildID": "21 November 2025"
           },
           {
             "identifier": "retro-ps2",
-            "filename": "",
+            "filename": "Onimusha 2 Samurai's Destiny (Undub).iso",
             "platform": "Sony PlayStation 2",
-            "name": "Playstation 2",
+            "name": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "4GB",
             "romFiles": [
-              "Onimusha 2 Samurai's Destiny (Undub).iso"
-            ],
-            "filenames": [
               "Onimusha 2 Samurai's Destiny (Undub).iso"
             ]
           },
           {
             "identifier": "retro-ps2",
-            "filename": "",
+            "filename": "Onimusha 2 Samurai's Destiny HD Textures.zip",
             "platform": "Sony PlayStation 2",
             "name": "Playstation 2 HD Textures",
             "emulator": "PCSX2",
             "fileSize": "5GB",
-            "romFiles": [],
-            "filenames": [
-              "Onimusha 2 Samurai's Destiny HD Textures.zip"
-            ]
+            "romFiles": []
           }
         ]
       }
@@ -117525,7 +117348,7 @@
             "identifier": "retro-psx",
             "filename": "Tekken 1.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "200MB",
             "romFile": "Tekken 1.img"
@@ -119036,7 +118859,7 @@
             "identifier": "retro-psx",
             "filename": "Tales of Phantasia.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "600MB",
             "romFile": "Tales of Phantasia.img"
@@ -119362,7 +119185,7 @@
             "identifier": "retro-psx",
             "filename": "Soul Blade.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "500MB",
             "romFile": "Soul Blade.img"
@@ -119441,28 +119264,22 @@
         "versions": [
           {
             "identifier": "CPC10",
-            "filename": "",
+            "filename": "The House in Fata Morgana.zip",
             "platform": "PC Game",
             "name": "PC Vanilla",
             "fileSize": "500MB",
             "executableFiles": [
               "fata.exe"
-            ],
-            "filenames": [
-              "The House in Fata Morgana.zip"
             ]
           },
           {
             "identifier": "E0701",
-            "filename": "",
+            "filename": "The House in Fata Morgana Dreams of the Revenants Edition.nsp",
             "platform": "Nintendo Switch",
             "name": "Switch Dreams of the Revenants Edition",
             "emulator": "Yuzu",
             "fileSize": "4GB",
             "romFiles": [
-              "The House in Fata Morgana Dreams of the Revenants Edition.nsp"
-            ],
-            "filenames": [
               "The House in Fata Morgana Dreams of the Revenants Edition.nsp"
             ]
           }
@@ -120683,7 +120500,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/f9734c59-0d90-43c6-895b-b2eb60fe6e99.mp3",
     "PlatformNames": [
-      "Sony Playstation Vita"
+      "Sony PlayStation Vita"
     ],
     "GenreNames": [
       "Japanese Role-Playing"
@@ -120693,12 +120510,12 @@
       "Media.Vision"
     ],
     "downloadInfo": {
-      "Sony Playstation Vita": {
+      "Sony PlayStation Vita": {
         "versions": [
           {
             "identifier": "Q0200",
             "name": "Vanilla",
-            "platform": "Sony Playstation Vita",
+            "platform": "Sony PlayStation Vita",
             "emulator": "Vita3K",
             "fileSize": "4GB",
             "romFile": "PCSE00951",
@@ -121103,7 +120920,7 @@
             "identifier": "retro-psx",
             "filename": "Arc the Lad.img",
             "name": "Enhanced",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "600MB",
             "romFile": "Arc the Lad.img"
@@ -121393,7 +121210,6 @@
         "versions": [
           {
             "identifier": "X01X01",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Microsoft Xbox 360",
             "emulator": "Xenia",
@@ -121611,7 +121427,7 @@
         "versions": [
           {
             "identifier": "retro-nitro",
-            "filename": "",
+            "filename": "Teenage Mutant Ninja Turtles 3 Mutant Nightmare.nds",
             "platform": "Nintendo DS",
             "name": "Nintendo DS",
             "emulator": "RetroArch",
@@ -121622,25 +121438,19 @@
             ],
             "romFiles": [
               "Teenage Mutant Ninja Turtles 3 Mutant Nightmare.nds"
-            ],
-            "filenames": [
-              "Teenage Mutant Ninja Turtles 3 Mutant Nightmare.nds"
             ]
           },
           {
             "identifier": "P0211",
-            "filename": "",
+            "filename": "Teenage Mutant Ninja Turtles 3 Mutant Nightmare.iso\t",
             "platform": "Sony PlayStation 2",
-            "name": "PlayStation 2",
+            "name": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "3GB",
             "romFiles": [
               "Teenage Mutant Ninja Turtles 3 Mutant Nightmare.iso\t"
             ],
-            "romLabels": [],
-            "filenames": [
-              "Teenage Mutant Ninja Turtles 3 Mutant Nightmare.iso\t"
-            ]
+            "romLabels": []
           }
         ]
       }
@@ -122092,7 +121902,7 @@
             "identifier": "retro-psx",
             "filename": "Digimon Tamers Battle Evolution (JPN).img",
             "name": "Japanese Music",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "300MB",
             "romFile": "Digimon Tamers Battle Evolution (JPN).img"
@@ -122169,7 +121979,6 @@
         "versions": [
           {
             "identifier": "E0701",
-            "filename": "",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
@@ -122571,7 +122380,7 @@
     "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/retromusic/fd1cc29a-72b2-4c92-9c58-7e224a92eb32.mp3",
     "PlatformNames": [
-      "Sony Playstation Vita"
+      "Sony PlayStation Vita"
     ],
     "GenreNames": [
       "Japanese Role-Playing"
@@ -122580,12 +122389,12 @@
       "Square Enix"
     ],
     "downloadInfo": {
-      "Sony Playstation Vita": {
+      "Sony PlayStation Vita": {
         "versions": [
           {
             "identifier": "Q0200",
             "name": "Vanilla",
-            "platform": "Sony Playstation Vita",
+            "platform": "Sony PlayStation Vita",
             "emulator": "Vita3K",
             "fileSize": "2GB",
             "romFile": "PCSG00500",
@@ -123087,7 +122896,7 @@
             "identifier": "retro-psx",
             "filename": "Gundam Battle Assault.img",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "500MB",
             "romFile": "Gundam Battle Assault.img"
@@ -125821,7 +125630,7 @@
         "versions": [
           {
             "identifier": "A0100",
-            "filename": "",
+            "filename": "shdancer.zip",
             "platform": "Final Arcade",
             "name": "Shadow Dancer",
             "emulator": "RetroArch",
@@ -125832,14 +125641,11 @@
             ],
             "romFiles": [
               "shdancer.zip"
-            ],
-            "filenames": [
-              "shdancer.zip"
             ]
           },
           {
             "identifier": "S03S03",
-            "filename": "",
+            "filename": "Shadow Dancer The Secret of Shinobi [3 HP Hack].md",
             "platform": "Sega Genesis",
             "name": "The Secret of Shinobi",
             "emulator": "RetroArch",
@@ -125847,9 +125653,6 @@
             "arguments": [
               "-L",
               ".\\cores\\genesis_plus_gx_libretro.dll"
-            ],
-            "filenames": [
-              "Shadow Dancer The Secret of Shinobi [3 HP Hack].md"
             ],
             "romFiles": [
               "Shadow Dancer The Secret of Shinobi [3 HP Hack].md"
@@ -125980,7 +125783,7 @@
           {
             "identifier": "retro-psx",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "fileSize": "790MB",
             "arguments": [],
             "romFiles": [
@@ -126289,30 +126092,24 @@
         "versions": [
           {
             "identifier": "retro-psx",
-            "filename": "",
-            "platform": "Sony PlayStation 1",
+            "filename": "Colin McRae Rally 2.0.chd",
+            "platform": "Sony PlayStation",
             "name": "Vanilla",
             "emulator": "DuckStation",
             "fileSize": "260MB",
             "romFiles": [
               "Colin McRae Rally 2.0.chd"
             ],
-            "filenames": [
-              "Colin McRae Rally 2.0.chd"
-            ],
             "mods": "2.1"
           },
           {
             "identifier": "RPRP002",
-            "filename": "",
+            "filename": "00061.zip",
             "platform": "PC Game",
             "name": "Remastered",
             "fileSize": "850MB",
             "executableFiles": [
               "CMR.exe"
-            ],
-            "filenames": [
-              "00061.zip"
             ]
           }
         ]
@@ -126349,7 +126146,7 @@
           {
             "identifier": "retro-psx",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "fileSize": "180 MB",
             "arguments": [],
             "emulator": "DuckStation",
@@ -128097,7 +127894,7 @@
           {
             "identifier": "retro-psx",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "fileSize": "300 MB",
             "arguments": [],
             "emulator": "DuckStation",
@@ -132815,7 +132612,7 @@
         "versions": [
           {
             "identifier": "retro-nes",
-            "filename": "",
+            "filename": "Dr. Mario.nes",
             "platform": "Nintendo Entertainment System",
             "name": "Nintendo Entertainment System",
             "emulator": "RetroArch",
@@ -132824,16 +132621,13 @@
               "-L",
               ".\\cores\\mesen_libretro.dll"
             ],
-            "filenames": [
-              "Dr. Mario.nes"
-            ],
             "romFiles": [
               "Dr. Mario.nes"
             ]
           },
           {
             "identifier": "retro-snes",
-            "filename": "",
+            "filename": "Dr. Mario.sfc",
             "platform": "Nintendo Super Entertainment System",
             "name": "Nintendo Super Entertainment System",
             "emulator": "RetroArch",
@@ -132842,16 +132636,13 @@
               "-L",
               ".\\cores\\snes9x_libretro.dll"
             ],
-            "filenames": [
-              "Dr. Mario.sfc"
-            ],
             "romFiles": [
               "Dr. Mario.sfc"
             ]
           },
           {
             "identifier": "retrod2",
-            "filename": "",
+            "filename": "Dr. Mario DX.gbc",
             "platform": "Nintendo Game Boy Color",
             "name": "Nintendo Game Boy Color",
             "emulator": "RetroArch",
@@ -132859,9 +132650,6 @@
             "arguments": [
               "-L",
               ".\\cores\\gambatte_libretro.dll"
-            ],
-            "filenames": [
-              "Dr. Mario DX.gbc"
             ],
             "romFiles": [
               "Dr. Mario DX.gbc"
@@ -134045,7 +133833,7 @@
           {
             "identifier": "retro-psx",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "fileSize": "260 MB",
             "arguments": [],
             "emulator": "DuckStation",
@@ -134086,7 +133874,7 @@
           {
             "identifier": "retro-psx",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "fileSize": "320 MB",
             "arguments": [],
             "emulator": "DuckStation",
@@ -136483,7 +136271,7 @@
           {
             "identifier": "retro-psx",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "fileSize": "2 GB",
             "arguments": [],
             "romFiles": [
@@ -138784,7 +138572,7 @@
           {
             "identifier": "retro-psx",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "fileSize": "560 MB",
             "filename": "Ace Combat 2.img",
             "romFile": "Ace Combat 2.img",
@@ -138821,7 +138609,7 @@
           {
             "identifier": "retro-psx",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "fileSize": "2 GB",
             "filename": "Ace Combat 3 Electrosphere.zip",
             "romFiles": [
@@ -138865,7 +138653,7 @@
           {
             "identifier": "retro-psx",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "fileSize": "340 MB",
             "filename": "Air Combat.chd",
             "romFile": "Air Combat.chd",
@@ -138902,7 +138690,7 @@
           {
             "identifier": "retro-psx",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "fileSize": "580 MB",
             "filename": "Evil Zone [Uncensored].img",
             "romFile": "Evil Zone [Uncensored].img",
@@ -138939,7 +138727,7 @@
           {
             "identifier": "retro-psx",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "fileSize": "470 MB",
             "filename": "Medal of Honor Underground.chd",
             "romFile": "Medal of Honor Underground.chd",
@@ -138976,7 +138764,7 @@
           {
             "identifier": "retro-psx",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "fileSize": "450 MB",
             "filename": "Medal of Honor.chd",
             "romFile": "Medal of Honor.chd",
@@ -139013,7 +138801,7 @@
           {
             "identifier": "retro-psx",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "fileSize": "660 MB",
             "filename": "PoPoLoCrois Monogatari.img",
             "romFile": "PoPoLoCrois Monogatari.img",
@@ -139050,7 +138838,7 @@
           {
             "identifier": "retro-psx",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "fileSize": "680 MB",
             "filename": "PoPoRoGue.img",
             "romFile": "PoPoRoGue.img",
@@ -139087,7 +138875,7 @@
           {
             "identifier": "retro-psx",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 1",
+            "platform": "Sony PlayStation",
             "fileSize": "220 MB",
             "filename": "The City of Lost Children.chd",
             "romFile": "The City of Lost Children.chd",
@@ -139355,9 +139143,6 @@
             "platform": "Sony PlayStation 2",
             "fileSize": "2 GB",
             "filename": "Disney Pixar The Incredibles Rise of the Underminer.iso",
-            "filenames": [
-              "Disney Pixar The Incredibles Rise of the Underminer.iso"
-            ],
             "romFile": "Disney Pixar The Incredibles Rise of the Underminer.iso",
             "emulator": "PCSX2",
             "arguments": []
@@ -139394,9 +139179,6 @@
             "platform": "Sony PlayStation 2",
             "fileSize": "2 GB",
             "filename": "Disney Pixar The Incredibles.iso",
-            "filenames": [
-              "Disney Pixar The Incredibles.iso"
-            ],
             "romFile": "Disney Pixar The Incredibles.iso",
             "emulator": "PCSX2",
             "arguments": []
@@ -139589,9 +139371,6 @@
             "platform": "Nintendo Switch",
             "fileSize": "4 GB",
             "filename": "Octopath Traveler 0.xci",
-            "filenames": [
-              "Octopath Traveler 0.xci"
-            ],
             "romFile": "Octopath Traveler 0.xci",
             "emulator": "Citron",
             "arguments": []
@@ -139665,9 +139444,6 @@
             "platform": "Nintendo Switch",
             "fileSize": "5 GB",
             "filename": "DRAGON QUEST VII Reimagined.nsp",
-            "filenames": [
-              "DRAGON QUEST VII Reimagined.nsp"
-            ],
             "romFile": "DRAGON QUEST VII Reimagined.nsp",
             "emulator": "Citron",
             "arguments": []
@@ -139934,9 +139710,6 @@
             "platform": "Sony PlayStation Portable",
             "fileSize": "380 MB",
             "filename": "Blade Dancer Lineage of Light.iso",
-            "filenames": [
-              "Blade Dancer Lineage of Light.iso"
-            ],
             "romFile": "Blade Dancer Lineage of Light.iso",
             "emulator": "PPSSPP",
             "arguments": []
@@ -139973,9 +139746,6 @@
             "platform": "Sony PlayStation 2",
             "fileSize": "2 GB",
             "filename": "DreamWorks Bee Movie Game.iso",
-            "filenames": [
-              "DreamWorks Bee Movie Game.iso"
-            ],
             "romFile": "DreamWorks Bee Movie Game.iso",
             "emulator": "PCSX2",
             "arguments": []
@@ -140606,9 +140376,6 @@
             "platform": "Sony PlayStation 2",
             "fileSize": "5 GB",
             "filename": "Total Overdose A Gunslinger's Tale in Mexico.iso",
-            "filenames": [
-              "Total Overdose A Gunslinger's Tale in Mexico.iso"
-            ],
             "romFile": "Total Overdose A Gunslinger's Tale in Mexico.iso",
             "emulator": "PCSX2",
             "arguments": []
@@ -140645,9 +140412,6 @@
             "platform": "Sony PlayStation Portable",
             "fileSize": "820 MB",
             "filename": "Chili Con Carnage.iso",
-            "filenames": [
-              "Chili Con Carnage.iso"
-            ],
             "romFile": "Chili Con Carnage.iso",
             "emulator": "PPSSPP",
             "arguments": []
@@ -143415,9 +143179,6 @@
             "platform": "Microsoft Xbox 360",
             "fileSize": "22 GB",
             "filename": "Blue Dragon.zip",
-            "filenames": [
-              "Blue Dragon.zip"
-            ],
             "romFiles": [
               "Blue Dragon [Disc 1].iso",
               "Blue Dragon [Disc 2].iso",
@@ -143931,9 +143692,6 @@
             "platform": "Sony PlayStation 2",
             "fileSize": "2 GB",
             "filename": "Ice Age 2 The Meltdown.iso",
-            "filenames": [
-              "Ice Age 2 The Meltdown.iso"
-            ],
             "romFile": "Ice Age 2 The Meltdown.iso",
             "emulator": "PCSX2",
             "arguments": []
@@ -143970,9 +143728,6 @@
             "platform": "Nintendo Game Boy Advance",
             "fileSize": "4 MB",
             "filename": "Ice Age.gba",
-            "filenames": [
-              "Ice Age.gba"
-            ],
             "romFile": "Ice Age.gba",
             "emulator": "RetroArch",
             "arguments": [
@@ -146145,9 +145900,6 @@
             "platform": "Sony PlayStation 3",
             "fileSize": "11 GB",
             "filename": "Sengoku Basara 3 Utage.zip",
-            "filenames": [
-              "Sengoku Basara 3 Utage.zip"
-            ],
             "romFiles": [
               "PS3_GAME/USRDIR/EBOOT.BIN"
             ],
@@ -146238,9 +145990,6 @@
             "platform": "Sony PlayStation 3",
             "fileSize": "22 GB",
             "filename": "Sengoku Basara HD Collection.zip",
-            "filenames": [
-              "Sengoku Basara HD Collection.zip"
-            ],
             "romFiles": [
               "PS3_GAME/USRDIR/EBOOT.BIN"
             ],
@@ -146279,9 +146028,6 @@
             "platform": "Sony PlayStation 2",
             "fileSize": "4 GB",
             "filename": "Nickelodeon SpongeBob SquarePants featuring Nicktoons Globs of Doom.iso",
-            "filenames": [
-              "Nickelodeon SpongeBob SquarePants featuring Nicktoons Globs of Doom.iso"
-            ],
             "romFile": "Nickelodeon SpongeBob SquarePants featuring Nicktoons Globs of Doom.iso",
             "emulator": "PCSX2",
             "arguments": []
@@ -146319,9 +146065,6 @@
             "platform": "Sony PlayStation 2",
             "fileSize": "1 GB",
             "filename": "Nicktoons Battle for Volcano Island.iso",
-            "filenames": [
-              "Nicktoons Battle for Volcano Island.iso"
-            ],
             "romFile": "Nicktoons Battle for Volcano Island.iso",
             "emulator": "PCSX2",
             "arguments": []
