@@ -27004,7 +27004,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/386c09b6-555f-4eac-8453-881b07d99a9d.mp3",
     "PlatformNames": [
-      "Sony PlayStation 1"
+      "Sony PlayStation"
     ],
     "GenreNames": [
       "Horror"
@@ -27013,7 +27013,7 @@
       "Team Silent"
     ],
     "downloadInfo": {
-      "Sony PlayStation 1": {
+      "Sony PlayStation": {
         "versions": [
           {
             "identifier": "retro-psx",
@@ -55169,21 +55169,21 @@
       "Hall of Fame"
     ],
     "downloadInfo": {
-      "Sony PlayStation Vita": {
+      "Sony Playstation Vita": {
         "versions": [
           {
             "name": "Enhanced",
             "identifier": "Q0200",
             "fileSize": "800MB",
             "emulator": "Vita3K",
-            "platform": "Sony PlayStation Vita",
+            "platform": "Sony Playstation Vita",
             "romFile": "PCSE00240",
             "filename": "Muramasa Rebirth.zip"
           },
           {
             "identifier": "Q0200",
             "name": "HD Textures",
-            "platform": "Sony PlayStation Vita",
+            "platform": "Sony Playstation Vita",
             "emulator": "Vita3K",
             "fileSize": "6GB",
             "filename": "Muramasa Rebirth HD Textures.zip"
@@ -55483,12 +55483,12 @@
       "Hall of Fame"
     ],
     "downloadInfo": {
-      "Sony Playstation": {
+      "Sony PlayStation": {
         "versions": [
           {
             "name": "Vanilla",
             "fileSize": "2GB",
-            "platform": "Sony Playstation 1",
+            "platform": "Sony PlayStation 1",
             "emulator": "DuckStation",
             "romFiles": [
               "Thousand Arms (Disc 1).img",
@@ -126344,12 +126344,12 @@
       "Codemasters"
     ],
     "downloadInfo": {
-      "Sony Playstation": {
+      "Sony PlayStation": {
         "versions": [
           {
             "identifier": "retro-psx",
             "name": "Vanilla",
-            "platform": "Sony Playstation 1",
+            "platform": "Sony PlayStation 1",
             "fileSize": "180 MB",
             "arguments": [],
             "emulator": "DuckStation",
