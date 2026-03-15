@@ -11854,21 +11854,20 @@
         "versions": [
           {
             "identifier": "retro-ps2",
-            "filename": "The Warriors.iso",
             "name": "Vanilla",
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "4GB",
-            "romFile": "The Warriors.iso"
+            "romFile": "The Warriors.iso",
+            "filename": "The Warriors.iso"
           },
           {
             "identifier": "retro-ps2",
-            "filename": "The Warriors HD Textures.zip",
             "name": "HD Textures",
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "2GB",
-            "romFiles": []
+            "filename": "The Warriors HD Textures.zip"
           }
         ]
       }
@@ -146359,9 +146358,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "1 GB",
-            "filename": "00592.zip",
             "executable": "ChronoGear.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "5 January 2026",
+            "filename": "00592.zip"
           }
         ]
       }
