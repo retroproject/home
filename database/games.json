@@ -27036,7 +27036,8 @@
       }
     },
     "Tags": [
-      "Arabic"
+      "Arabic",
+      "Has Issues"
     ]
   },
   {
@@ -145852,7 +145853,7 @@
     "YouTubeUrl": "https://archive.org/download/RPRM001/1348%20Ex%20Voto%20Trailer.mp4",
     "videoStart": 2.542636,
     "videoEnd": 61.066846,
-    "MusicUrl": "",
+    "MusicUrl": "https://archive.org/download/RPRM001/1348%20Ex%20Voto%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
     ],
@@ -145875,7 +145876,8 @@
       }
     },
     "Tags": [
-      "Need Music"
+      "Need Music",
+      "Need Background"
     ]
   },
   {
