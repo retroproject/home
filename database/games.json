@@ -145848,8 +145848,8 @@
     "DescriptionArabic": "",
     "ReleaseDate": null,
     "CriticScore": null,
-    "BackgroundUrl": "https://archive.org/download/RPRM001/1348%20Ex%20Voto%20Background2.jpg",
-    "CoverUrl": "https://archive.org/download/RPRM001/1348%20Ex%20Voto%20Cover1.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/1348%20Ex%20Voto%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/1348%20Ex%20Voto%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/1348%20Ex%20Voto%20Trailer.mp4",
     "videoStart": 2.542636,
     "videoEnd": 61.066846,
@@ -145876,8 +145876,7 @@
       }
     },
     "Tags": [
-      "Need Music",
-      "Need Background"
+      "Need Music"
     ]
   },
   {
@@ -146332,5 +146331,43 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1773559868343_0",
+    "Name": "Chrono Gear Warden of Time",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Chrono%20Gear%20Warden%20of%20Time%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Chrono%20Gear%20Warden%20of%20Time%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Chrono%20Gear%20Warden%20of%20Time%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP017",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "1 GB",
+            "filename": "00592.zip",
+            "executable": "ChronoGear.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
