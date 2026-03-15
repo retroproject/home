@@ -4740,10 +4740,8 @@
               ".\\cores\\snes9x_libretro.dll"
             ],
             "mods": "Revised Old Style Edition",
-            "romFiles": [
-              "Final Fantasy VI [Revised Old Style Edition].smc"
-            ],
-            "buildID": " 2.02"
+            "buildID": " 2.02",
+            "romFile": "Final Fantasy VI [Revised Old Style Edition].smc"
           }
         ]
       }
@@ -5549,7 +5547,6 @@
               "-L",
               ".\\cores\\melonds_libretro.dll"
             ],
-            "romFile": "",
             "romFiles": [
               "Pokemon White 2 [Experience + Trade Evolution Patched].nds",
               "Pokemon [Volt White 2].nds"
@@ -8010,9 +8007,7 @@
               "-L",
               ".\\cores\\melonds_libretro.dll"
             ],
-            "romFiles": [
-              "Summon Night 2 (Japanese).nds"
-            ]
+            "romFile": "Summon Night 2 (Japanese).nds"
           }
         ]
       }
@@ -8203,9 +8198,7 @@
             "name": "Japanese",
             "emulator": "DuckStation",
             "fileSize": "600MB",
-            "romFiles": [
-              "Summon Night (Japannese).img"
-            ]
+            "romFile": "Summon Night (Japannese).img"
           },
           {
             "identifier": "retro-nitro",
@@ -8218,9 +8211,7 @@
               "-L",
               ".\\cores\\melonds_libretro.dll"
             ],
-            "romFiles": [
-              "Summon Night (Japanese).nds"
-            ]
+            "romFile": "Summon Night (Japanese).nds"
           }
         ]
       }
@@ -8575,7 +8566,6 @@
               "-L",
               ".\\cores\\melonds_libretro.dll"
             ],
-            "romFile": "",
             "romFiles": [
               "Kingdom Hearts Re-Coded.nds",
               "Kingdom Hearts Re-Coded (Japanese VA).nds"
@@ -11375,8 +11365,7 @@
             "name": "HD Textures",
             "platform": "Nintendo GameCube",
             "emulator": "Dolphin",
-            "fileSize": "200MB",
-            "romFile": ""
+            "fileSize": "200MB"
           }
         ]
       }
@@ -12293,7 +12282,6 @@
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "4GB",
-            "romFiles": [],
             "romFile": "Growlanser VI Precarious World.iso"
           }
         ]
@@ -13980,7 +13968,6 @@
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "4GB",
-            "romFiles": [],
             "romFile": "Evil Dead A Fistful of Boomstick.iso"
           },
           {
@@ -24109,9 +24096,7 @@
               "-L",
               ".\\cores\\mgba_libretro.dll"
             ],
-            "romFiles": [
-              "TMNT.gba"
-            ]
+            "romFile": "TMNT.gba"
           },
           {
             "identifier": "P0211",
@@ -24120,9 +24105,7 @@
             "name": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "5GB",
-            "romFiles": [
-              "TMNT.iso"
-            ]
+            "romFile": "TMNT.iso"
           }
         ]
       }
@@ -27566,9 +27549,7 @@
               "-L",
               ".\\cores\\mgba_libretro.dll"
             ],
-            "romFiles": [
-              "Teenage Mutant Ninja Turtles 2 Battle Nexus.gba\t"
-            ]
+            "romFile": "Teenage Mutant Ninja Turtles 2 Battle Nexus.gba\t"
           },
           {
             "identifier": "P0211",
@@ -27577,9 +27558,7 @@
             "name": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "3GB",
-            "romFiles": [
-              "Teenage Mutant Ninja Turtles 2 Battle Nexus.iso"
-            ]
+            "romFile": "Teenage Mutant Ninja Turtles 2 Battle Nexus.iso"
           }
         ]
       }
@@ -27900,12 +27879,10 @@
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "600MB",
-            "romFiles": [
-              "Tenchu 2 Birth of the Stealth Assassins.chd"
-            ],
             "romLabels": [
               "Vanilla"
-            ]
+            ],
+            "romFile": "Tenchu 2 Birth of the Stealth Assassins.chd"
           },
           {
             "identifier": "retro-psx",
@@ -28681,9 +28658,7 @@
             "name": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "400MB",
-            "romFiles": [
-              "Tomba! 2 The Evil Swine Return.img"
-            ]
+            "romFile": "Tomba! 2 The Evil Swine Return.img"
           },
           {
             "identifier": "RPRP010",
@@ -31176,8 +31151,7 @@
             "name": "HD Textures",
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
-            "fileSize": "1GB",
-            "romFile": ""
+            "fileSize": "1GB"
           }
         ]
       }
@@ -37673,8 +37647,7 @@
             "name": "HD Textures",
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
-            "fileSize": "2GB",
-            "romFile": ""
+            "fileSize": "2GB"
           }
         ]
       }
@@ -39318,9 +39291,7 @@
             "name": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "15GB",
-            "romFiles": [
-              "Shin Megami Tensei Persona 5 Royal.nsp"
-            ]
+            "romFile": "Shin Megami Tensei Persona 5 Royal.nsp"
           }
         ]
       }
@@ -45245,13 +45216,10 @@
             "platform": "Sony PlayStation",
             "emulator": "RetroArch",
             "fileSize": "700MB",
-            "romFile": "",
+            "romFile": "Tenchu Stealth Assassins.chd",
             "arguments": [
               "-L",
               ".\\cores\\mednafen_psx_hw_libretro.dll"
-            ],
-            "romFiles": [
-              "Tenchu Stealth Assassins.chd"
             ],
             "romLabels": [
               "Vanilla"
@@ -45264,7 +45232,6 @@
             "platform": "Sony PlayStation",
             "emulator": "RetroArch",
             "fileSize": "700MB",
-            "romFile": "",
             "arguments": []
           }
         ]
@@ -45725,7 +45692,6 @@
             "name": "HD Textures",
             "platform": "Sega Dreamcast",
             "emulator": "Flycast",
-            "romFile": "",
             "fileSize": "2GB",
             "arguments": []
           }
@@ -49538,9 +49504,7 @@
               "-L",
               ".\\cores\\mesen_libretro.dll"
             ],
-            "romFiles": [
-              "Super Mario Bros.nes"
-            ]
+            "romFile": "Super Mario Bros.nes"
           },
           {
             "identifier": "retro-nes",
@@ -49553,10 +49517,8 @@
               "-L",
               ".\\cores\\mesen_libretro.dll"
             ],
-            "romFiles": [
-              "Super Mario Bros Definitive.nes"
-            ],
-            "buildID": "1.3.1"
+            "buildID": "1.3.1",
+            "romFile": "Super Mario Bros Definitive.nes"
           },
           {
             "identifier": "RPRP002",
@@ -50312,7 +50274,6 @@
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "2GB",
-            "romFile": "",
             "romFiles": [
               "Galerians (Disc 1).img",
               "Galerians (Disc 2).img",
@@ -55018,11 +54979,9 @@
             "platform": "Sony PlayStation 3",
             "name": "Empires",
             "emulator": "RPCS3",
-            "romFiles": [
-              "PS3_GAME/USRDIR/EBOOT.BIN"
-            ],
             "fileSize": "8GB",
-            "notes": "Need Upload"
+            "notes": "Need Upload",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
           }
         ]
       }
@@ -55363,12 +55322,10 @@
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "700MB",
-            "romFiles": [
-              "Vagrant Story.chd"
-            ],
             "romLabels": [
               "Vanilla"
-            ]
+            ],
+            "romFile": "Vagrant Story.chd"
           },
           {
             "identifier": "retro-psx",
@@ -59592,13 +59549,11 @@
             "name": "Switch Vanilla",
             "emulator": "Yuzu",
             "fileSize": "5GB",
-            "romFiles": [
-              "No More Heroes.nsp"
-            ],
             "filenames": [
               "No More Heroes.nsp",
               "No More Heroes Yuzu Update.zip"
-            ]
+            ],
+            "romFile": "No More Heroes.nsp"
           }
         ]
       }
@@ -62612,7 +62567,6 @@
             "name": "HD Textures",
             "platform": "Nintendo Entertainment System",
             "emulator": "RetroArch",
-            "romFile": "",
             "fileSize": "200KB",
             "arguments": [
               "-L",
@@ -66757,7 +66711,6 @@
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "5GB",
-            "romFile": "",
             "romFiles": [
               "Gregory Horror Show.iso",
               "Gregory Horror Show [Undub].iso"
@@ -67187,8 +67140,7 @@
             "name": "HD Textures",
             "platform": "Nintendo Wii",
             "emulator": "Dolphin",
-            "fileSize": "22GB",
-            "romFile": ""
+            "fileSize": "22GB"
           }
         ]
       }
@@ -67438,9 +67390,7 @@
             "name": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "300MB",
-            "romFiles": [
-              "Tomba!.img"
-            ]
+            "romFile": "Tomba!.img"
           }
         ]
       }
@@ -70080,7 +70030,6 @@
             "name": "HD Textures",
             "platform": "Sega Dreamcast",
             "emulator": "Flycast",
-            "romFile": "",
             "fileSize": "2GB",
             "arguments": []
           }
@@ -70575,8 +70524,7 @@
             "name": "HD Textures",
             "platform": "Nintendo GameCube",
             "emulator": "Dolphin",
-            "fileSize": "100MB",
-            "romFile": ""
+            "fileSize": "100MB"
           }
         ]
       }
@@ -72447,10 +72395,8 @@
               "-L",
               ".\\cores\\mesen_libretro.dll"
             ],
-            "romFiles": [
-              "Akumajou Densetsu.nes"
-            ],
-            "buildID": "English 7.1"
+            "buildID": "English 7.1",
+            "romFile": "Akumajou Densetsu.nes"
           },
           {
             "identifier": "retroid-2",
@@ -78249,7 +78195,6 @@
             "name": "HD Textures",
             "platform": "Nintendo Entertainment System",
             "emulator": "RetroArch",
-            "romFile": "",
             "fileSize": "50KB",
             "arguments": [
               "-L",
@@ -79991,7 +79936,6 @@
             "name": "HD Textures",
             "platform": "Sega Dreamcast",
             "emulator": "Flycast",
-            "romFile": "",
             "fileSize": "1GB",
             "arguments": []
           }
@@ -81099,8 +81043,7 @@
             "name": "HD Textures",
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
-            "fileSize": "700MB",
-            "romFile": ""
+            "fileSize": "700MB"
           }
         ]
       }
@@ -89094,7 +89037,6 @@
             "name": "HD Textures",
             "platform": "Sega Dreamcast",
             "emulator": "Flycast",
-            "romFile": "",
             "fileSize": "400MB",
             "arguments": []
           }
@@ -96908,9 +96850,7 @@
             "name": "Switch Vanilla",
             "emulator": "Yuzu",
             "fileSize": "5GB",
-            "romFiles": [
-              "No More Heroes 2 Desperate Struggle.nsp"
-            ]
+            "romFile": "No More Heroes 2 Desperate Struggle.nsp"
           }
         ]
       }
@@ -97121,9 +97061,7 @@
             "name": "GameCube",
             "emulator": "Dolphin",
             "fileSize": "900MB",
-            "romFiles": [
-              "Digimon Rumble Arena 2.rvz"
-            ]
+            "romFile": "Digimon Rumble Arena 2.rvz"
           },
           {
             "identifier": "P0211",
@@ -97132,9 +97070,7 @@
             "name": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "1GB",
-            "romFiles": [
-              "Digimon Rumble Arena 2.iso"
-            ]
+            "romFile": "Digimon Rumble Arena 2.iso"
           }
         ]
       }
@@ -97563,9 +97499,7 @@
             "name": "Sony PlayStation Vita",
             "emulator": "Vita3K",
             "fileSize": "2GB",
-            "romFiles": [
-              "PCSE00899"
-            ]
+            "romFile": "PCSE00899"
           },
           {
             "identifier": "rpcs3-P3",
@@ -97573,10 +97507,8 @@
             "platform": "Sony PlayStation 3",
             "name": "Sony PlayStation 3",
             "emulator": "RPCS3",
-            "romFiles": [
-              "PS3_GAME/USRDIR/EBOOT.BIN"
-            ],
-            "fileSize": "4GB"
+            "fileSize": "4GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
           }
         ]
       }
@@ -97863,7 +97795,6 @@
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "1GB",
-            "romFile": "",
             "romFiles": [
               "Rival Schools United by Fate (Arcade Disc).img",
               "Rival Schools United by Fate (Evolution Disc).img"
@@ -98518,7 +98449,6 @@
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "2GB",
-            "romFile": "",
             "romFiles": [
               "Arc the Lad III (Disc 1).img",
               "Arc the Lad III (Disc 2).img"
@@ -100712,8 +100642,7 @@
             "name": "HD Textures",
             "platform": "Nintendo GameCube",
             "emulator": "Dolphin",
-            "fileSize": "350MB",
-            "romFile": ""
+            "fileSize": "350MB"
           }
         ]
       }
@@ -108962,7 +108891,6 @@
             "platform": "Sony PlayStation Portable",
             "emulator": "PPSSPP",
             "fileSize": "2GB",
-            "romFile": "",
             "romFiles": [
               "Blazing Souls Accelate.iso",
               "Blazing Souls Accelate (Japanese VA).iso"
@@ -110170,7 +110098,6 @@
             "name": "HD Textures",
             "platform": "Sega Dreamcast",
             "emulator": "Flycast",
-            "romFile": "",
             "fileSize": "3GB",
             "arguments": []
           }
@@ -113242,9 +113169,7 @@
               "-L",
               ".\\cores\\melonds_libretro.dll"
             ],
-            "romFiles": [
-              "Sonic Colors.nds"
-            ]
+            "romFile": "Sonic Colors.nds"
           },
           {
             "identifier": "retro-nx",
@@ -113253,9 +113178,7 @@
             "name": "Switch",
             "emulator": "Yuzu",
             "fileSize": "8GB",
-            "romFiles": [
-              "Sonic Colors Ultimate.nsp"
-            ]
+            "romFile": "Sonic Colors Ultimate.nsp"
           }
         ]
       }
@@ -113634,7 +113557,6 @@
               "Etrian Odyssey Nexus.3ds",
               "Etrian Odyssey Nexus Update.zip"
             ],
-            "romFiles": [],
             "romFile": "Etrian Odyssey Nexus.3ds"
           }
         ]
@@ -116626,9 +116548,7 @@
               "-L",
               ".\\cores\\mupen64plus_next_libretro.dll"
             ],
-            "romFiles": [
-              "Banjo-Kazooie.z64"
-            ]
+            "romFile": "Banjo-Kazooie.z64"
           }
         ]
       }
@@ -116849,9 +116769,7 @@
             "name": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "4GB",
-            "romFiles": [
-              "Onimusha 2 Samurai's Destiny (Undub).iso"
-            ]
+            "romFile": "Onimusha 2 Samurai's Destiny (Undub).iso"
           },
           {
             "identifier": "retro-ps2",
@@ -116859,8 +116777,7 @@
             "platform": "Sony PlayStation 2",
             "name": "Playstation 2 HD Textures",
             "emulator": "PCSX2",
-            "fileSize": "5GB",
-            "romFiles": []
+            "fileSize": "5GB"
           }
         ]
       }
@@ -119279,9 +119196,7 @@
             "name": "Switch Dreams of the Revenants Edition",
             "emulator": "Yuzu",
             "fileSize": "4GB",
-            "romFiles": [
-              "The House in Fata Morgana Dreams of the Revenants Edition.nsp"
-            ]
+            "romFile": "The House in Fata Morgana Dreams of the Revenants Edition.nsp"
           }
         ]
       }
@@ -119924,7 +119839,6 @@
             "platform": "Nintendo GameCube",
             "emulator": "Dolphin",
             "fileSize": "2GB",
-            "romFile": "",
             "romFiles": [
               "Super Mario Sunshine.rvz",
               "Super Mario Eclipse.iso"
@@ -121436,9 +121350,7 @@
               "-L",
               ".\\cores\\melonds_libretro.dll"
             ],
-            "romFiles": [
-              "Teenage Mutant Ninja Turtles 3 Mutant Nightmare.nds"
-            ]
+            "romFile": "Teenage Mutant Ninja Turtles 3 Mutant Nightmare.nds"
           },
           {
             "identifier": "P0211",
@@ -121447,10 +121359,8 @@
             "name": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "3GB",
-            "romFiles": [
-              "Teenage Mutant Ninja Turtles 3 Mutant Nightmare.iso\t"
-            ],
-            "romLabels": []
+            "romLabels": [],
+            "romFile": "Teenage Mutant Ninja Turtles 3 Mutant Nightmare.iso\t"
           }
         ]
       }
@@ -125639,9 +125549,7 @@
               "-L",
               ".\\cores\\fbneo_libretro.dll"
             ],
-            "romFiles": [
-              "shdancer.zip"
-            ]
+            "romFile": "shdancer.zip"
           },
           {
             "identifier": "S03S03",
@@ -125654,10 +125562,8 @@
               "-L",
               ".\\cores\\genesis_plus_gx_libretro.dll"
             ],
-            "romFiles": [
-              "Shadow Dancer The Secret of Shinobi [3 HP Hack].md"
-            ],
-            "mods": "3 HP Hack"
+            "mods": "3 HP Hack",
+            "romFile": "Shadow Dancer The Secret of Shinobi [3 HP Hack].md"
           }
         ]
       }
@@ -126097,10 +126003,8 @@
             "name": "Vanilla",
             "emulator": "DuckStation",
             "fileSize": "260MB",
-            "romFiles": [
-              "Colin McRae Rally 2.0.chd"
-            ],
-            "mods": "2.1"
+            "mods": "2.1",
+            "romFile": "Colin McRae Rally 2.0.chd"
           },
           {
             "identifier": "RPRP002",
@@ -132621,9 +132525,7 @@
               "-L",
               ".\\cores\\mesen_libretro.dll"
             ],
-            "romFiles": [
-              "Dr. Mario.nes"
-            ]
+            "romFile": "Dr. Mario.nes"
           },
           {
             "identifier": "retro-snes",
@@ -132636,9 +132538,7 @@
               "-L",
               ".\\cores\\snes9x_libretro.dll"
             ],
-            "romFiles": [
-              "Dr. Mario.sfc"
-            ]
+            "romFile": "Dr. Mario.sfc"
           },
           {
             "identifier": "retrod2",
@@ -132651,11 +132551,9 @@
               "-L",
               ".\\cores\\gambatte_libretro.dll"
             ],
-            "romFiles": [
-              "Dr. Mario DX.gbc"
-            ],
             "mods": "Dr. Mario DX",
-            "buildID": "2.1"
+            "buildID": "2.1",
+            "romFile": "Dr. Mario DX.gbc"
           }
         ]
       }
@@ -145900,11 +145798,9 @@
             "platform": "Sony PlayStation 3",
             "fileSize": "11 GB",
             "filename": "Sengoku Basara 3 Utage.zip",
-            "romFiles": [
-              "PS3_GAME/USRDIR/EBOOT.BIN"
-            ],
             "emulator": "RPCS3",
-            "arguments": []
+            "arguments": [],
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
           }
         ]
       }
@@ -145990,11 +145886,9 @@
             "platform": "Sony PlayStation 3",
             "fileSize": "22 GB",
             "filename": "Sengoku Basara HD Collection.zip",
-            "romFiles": [
-              "PS3_GAME/USRDIR/EBOOT.BIN"
-            ],
             "emulator": "RPCS3",
-            "arguments": []
+            "arguments": [],
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
           }
         ]
       }
@@ -146064,10 +145958,10 @@
             "name": "Vanilla",
             "platform": "Sony PlayStation 2",
             "fileSize": "1 GB",
-            "filename": "Nicktoons Battle for Volcano Island.iso",
-            "romFile": "Nicktoons Battle for Volcano Island.iso",
             "emulator": "PCSX2",
-            "arguments": []
+            "arguments": [],
+            "romFile": "Nicktoons Battle for Volcano Island.iso",
+            "filename": "Nicktoons Battle for Volcano Island.iso"
           }
         ]
       }
