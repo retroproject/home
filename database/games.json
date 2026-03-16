@@ -146006,5 +146006,341 @@
     "Tags": [
       "Hide"
     ]
+  },
+  {
+    "_id": "game_1773645658337_0",
+    "Name": "Command and Conquer 3 Tiberium Wars",
+    "SortingName": "Command and Conquer 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%203%20Tiberium%20Wars%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%203%20Tiberium%20Wars%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%203%20Tiberium%20Wars%20Trailer.mp4",
+    "videoStart": 13.76724,
+    "videoEnd": 122.386278,
+    "MusicUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%203%20Tiberium%20Wars%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP017",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "10 GB",
+            "filename": "00593.zip",
+            "executableFiles": [
+              "Command and Conquer 3\\CNC3.exe",
+              "Command and Conquer 3 Kanes Wrath\\CNC3EP1.exe"
+            ],
+            "executableLabels": [
+              "Original",
+              "Kanes Wrath"
+            ],
+            "executable": "Command and Conquer 3\\CNC3.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1773645658337_1",
+    "Name": "Command and Conquer 4 Tiberian Twilight",
+    "SortingName": "Command and Conquer 03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%204%20Tiberian%20Twilight%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%204%20Tiberian%20Twilight%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%204%20Tiberian%20Twilight%20Trailer.mp4",
+    "videoStart": 22.503444,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%204%20Tiberian%20Twilight%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP017",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "filename": "00594.zip",
+            "executable": "CNC4.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1773645658337_2",
+    "Name": "Command and Conquer Generals",
+    "SortingName": "Command and Conquer 04",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%20Generals%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%20Generals%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%20Generals%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%20Generals%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP017",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "filename": "00595.zip",
+            "executableFiles": [
+              "Command and Conquer Generals\\generals.exe",
+              "Command and Conquer Generals Zero Hour\\generals.exe"
+            ],
+            "executableLabels": [
+              "Original",
+              "Zero Hour"
+            ],
+            "executable": "Command and Conquer Generals\\generals.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1773645658337_3",
+    "Name": "Command and Conquer Red Alert 2",
+    "SortingName": "Command and Conquer 05",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%20Red%20Alert%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%20Red%20Alert%202%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%20Red%20Alert%202%20Trailer.mp4",
+    "videoStart": 13.5,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%20Red%20Alert%202%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP017",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "00596.zip",
+            "executable": "Ra2.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1773645658337_4",
+    "Name": "Command and Conquer Red Alert 3",
+    "SortingName": "Command and Conquer 06",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%20Red%20Alert%203%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%20Red%20Alert%203%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%20Red%20Alert%203%20Trailer.mp4",
+    "videoStart": 7.2,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%20Red%20Alert%203%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP017",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "15 GB",
+            "filename": "00597.zip",
+            "executableFiles": [
+              "Command and Conquer Red Alert 3\\RA3.exe",
+              "Command and Conquer Red Alert 3 Uprising\\RA3EP1.exe"
+            ],
+            "executableLabels": [
+              "Original",
+              "Uprising"
+            ],
+            "executable": "Command and Conquer Red Alert 3\\RA3.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1773645658337_5",
+    "Name": "Command and Conquer Remastered Collection",
+    "SortingName": "Command and Conquer 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%20Remastered%20Collection%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%20Remastered%20Collection%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%20Remastered%20Collection%20Trailer.mp4",
+    "videoStart": 2.4,
+    "videoEnd": 201.925659,
+    "MusicUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%20Remastered%20Collection%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP017",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "24 GB",
+            "filename": "00598.zip",
+            "executableFiles": [
+              "ClientG.exe",
+              "ClientLauncherG.exe"
+            ],
+            "executableLabels": [
+              "Game",
+              "Launcher"
+            ],
+            "executable": "ClientG.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1773645658337_6",
+    "Name": "Commandos 2",
+    "SortingName": "Commandos 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Commandos%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Commandos%202%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Commandos%202%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 87.416864,
+    "MusicUrl": "https://archive.org/download/RPRM001/Commandos%202%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP017",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "filename": "00599.zip",
+            "executable": "Commandos HD.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1773645658337_7",
+    "Name": "Commandos Origins",
+    "SortingName": "Commandos 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Commandos%20Origins%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Commandos%20Origins%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Commandos%20Origins%20Trailer.mp4",
+    "videoStart": 2.416301,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Commandos%20Origins%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP017",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "32 GB",
+            "filename": "00600.zip",
+            "executable": "Commandos.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
