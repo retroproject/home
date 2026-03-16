@@ -53735,8 +53735,8 @@
             "platform": "PC Game",
             "fileSize": "2GB",
             "arguments": [],
-            "executable": "PCE2.exe",
-            "filename": "PAC-MAN Championship Edition 2.zip"
+            "executable": "PAC-MAN WORLD Re-PAC.exe",
+            "filename": "Pac-Man World Re-Pac.zip"
           }
         ]
       }
@@ -145978,9 +145978,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Chrono%20Gear%20Warden%20of%20Time%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Chrono%20Gear%20Warden%20of%20Time%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Chrono%20Gear%20Warden%20of%20Time%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 66.4,
     "MusicUrl": "https://archive.org/download/RPRM001/Chrono%20Gear%20Warden%20of%20Time%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
