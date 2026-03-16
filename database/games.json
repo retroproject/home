@@ -66378,7 +66378,7 @@
             "platform": "PC Game",
             "fileSize": "3GB",
             "arguments": [],
-            "executable": "Binaries\\Win64\\FinchGame.exe",
+            "executable": "FinchGame\\Binaries\\Win64\\FinchGame.exe",
             "filename": "What Remains of Edith Finch.zip"
           }
         ]
