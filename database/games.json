@@ -146153,12 +146153,13 @@
         "versions": [
           {
             "identifier": "RPRP017",
-            "name": "Vanilla",
+            "name": "Online",
             "platform": "PC Game",
             "fileSize": "2 GB",
-            "filename": "00596.zip",
-            "executable": "Ra2.exe",
-            "arguments": []
+            "executable": "CnCNetYRLauncher.exe",
+            "arguments": [],
+            "mods": "CnCNet",
+            "filename": "00596.zip"
           }
         ]
       }
