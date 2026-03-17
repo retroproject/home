@@ -98901,13 +98901,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "COPC04",
+            "identifier": "RPRP017",
             "name": "Online",
             "platform": "PC Game",
             "fileSize": "53GB",
             "arguments": [],
             "executable": "ReadyOrNot.exe",
-            "filename": "Ready or Not.zip"
+            "buildID": "12032026",
+            "filename": "00601.zip"
           }
         ]
       }
