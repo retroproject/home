@@ -4110,7 +4110,7 @@
             "platform": "Sony PlayStation 3",
             "emulator": "RPCS3",
             "fileSize": "60MB",
-            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "romFile": "NPUB30928/USRDIR/EBOOT.BIN",
             "filename": "Virtua Fighter 2.zip"
           }
         ]
@@ -18327,7 +18327,7 @@
             "platform": "Sony PlayStation 3",
             "emulator": "RPCS3",
             "fileSize": "5GB",
-            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "romFile": "USRDIR/EBOOT.BIN",
             "filename": "Hitman Blood Money.zip"
           }
         ]
@@ -45475,7 +45475,7 @@
             "platform": "Sony PlayStation 3",
             "emulator": "RPCS3",
             "fileSize": "2GB",
-            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "romFile": "NPUB30625/USRDIR/EBOOT.BIN",
             "filename": "Virtua Fighter 5.zip"
           }
         ]
@@ -62118,7 +62118,7 @@
             "platform": "Sony PlayStation 3",
             "emulator": "RPCS3",
             "fileSize": "4GB",
-            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "romFile": "USRDIR/EBOOT.BIN",
             "filename": "Soul Calibur Lost Swords.zip"
           }
         ]
@@ -62388,7 +62388,7 @@
             "platform": "Sony PlayStation 3",
             "emulator": "RPCS3",
             "fileSize": "640MB",
-            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "romFile": "USRDIR/EBOOT.BIN",
             "filename": "Jojo's Bizzare Adventure HD Ver.zip"
           }
         ]
@@ -92758,7 +92758,7 @@
             "platform": "Sony PlayStation 3",
             "emulator": "RPCS3",
             "fileSize": "19GB",
-            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "romFile": "USRDIR/EBOOT.BIN",
             "filename": "Uncharted 2 Among Thieves.zip"
           }
         ]
@@ -98865,7 +98865,7 @@
             "platform": "Sony PlayStation 3",
             "emulator": "RPCS3",
             "fileSize": "150MB",
-            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "romFile": "USRDIR/EBOOT.BIN",
             "filename": "Marvel vs. Capcom Origins.zip"
           }
         ]
@@ -100819,7 +100819,7 @@
             "platform": "Sony PlayStation 3",
             "emulator": "RPCS3",
             "fileSize": "370MB",
-            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "romFile": "USRDIR/EBOOT.BIN",
             "filename": "TMNT Turtles In Time Re-Shelled.zip"
           }
         ]
@@ -100859,7 +100859,7 @@
             "platform": "Sony PlayStation 3",
             "emulator": "RPCS3",
             "fileSize": "2GB",
-            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "romFile": "USRDIR/EBOOT.BIN",
             "filename": "Hitman Contracts.zip"
           }
         ]
@@ -124623,7 +124623,7 @@
             "arguments": [],
             "emulator": "RPCS3",
             "buildID": "1.02",
-            "romFile": "PS3_GAME\\USRDIR\\EBOOT.BIN",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
             "filenames": [
               "J-Stars Victory VS+.zip",
               "J-Stars Victory VS+ Update.zip"
@@ -128488,7 +128488,7 @@
             "fileSize": "6 GB",
             "arguments": [],
             "emulator": "RPCS3",
-            "romFile": "PS3_GAME\\USRDIR\\EBOOT.BIN",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
             "filename": "Walt Disney Pictures Bolt.zip"
           }
         ]
@@ -134774,7 +134774,7 @@
             "fileSize": "4 GB",
             "arguments": [],
             "emulator": "RPCS3",
-            "romFile": "PS3_GAME\\USRDIR\\EBOOT.BIN",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
             "filename": "Cartoon Network Punch Time Explosion.zip"
           }
         ]
@@ -136604,7 +136604,7 @@
             "fileSize": "5 GB",
             "arguments": [],
             "emulator": "RPCS3",
-            "romFile": "PS3_GAME\\USRDIR\\EBOOT.BIN",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
             "filename": "Skate.zip"
           }
         ]
@@ -136646,7 +136646,7 @@
             "fileSize": "8 GB",
             "arguments": [],
             "emulator": "RPCS3",
-            "romFile": "PS3_GAME\\USRDIR\\EBOOT.BIN",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
             "filename": "Skate 2.zip"
           }
         ]
@@ -136688,7 +136688,7 @@
             "fileSize": "7 GB",
             "arguments": [],
             "emulator": "RPCS3",
-            "romFile": "PS3_GAME\\USRDIR\\EBOOT.BIN",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
             "filenames": [
               "Skate 3.zip",
               "Skate 3 Update.zip"
@@ -137674,7 +137674,7 @@
             "fileSize": "4 GB",
             "arguments": [],
             "emulator": "RPCS3",
-            "romFile": "PS3_GAME\\USRDIR\\EBOOT.BIN",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
             "filenames": [
               "Afro Samurai.zip",
               "Afro Samurai Update.zip"
@@ -137714,7 +137714,7 @@
             "fileSize": "2 GB",
             "arguments": [],
             "emulator": "RPCS3",
-            "romFile": "PS3_GAME\\USRDIR\\EBOOT.BIN",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
             "filenames": [
               "Dark Sector.zip",
               "Dark Sector Update.zip"
@@ -137753,7 +137753,7 @@
             "platform": "Sony PlayStation 3",
             "fileSize": "7 GB",
             "arguments": [],
-            "romFile": "PS3_GAME\\USRDIR\\EBOOT.BIN",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
             "emulator": "RPCS3",
             "filenames": [
               "Natural Doctrine.zip",
@@ -146324,5 +146324,41 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1773787028704_0",
+    "Name": "Dragonkin The Banished",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Dragonkin%20The%20Banished%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Dragonkin%20The%20Banished%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Dragonkin%20The%20Banished%20Trailer.mp4",
+    "videoStart": 2.77188,
+    "videoEnd": 73,
+    "MusicUrl": "https://archive.org/download/RPRM001/Dragonkin%20The%20Banished%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP017",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "38 GB",
+            "executable": "DragonkinTheBanished.exe",
+            "arguments": [],
+            "buildID": "16 March 2026",
+            "filename": "00602.zip"
+          }
+        ]
+      }
+    }
   }
 ]
