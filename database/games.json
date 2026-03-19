@@ -146360,5 +146360,51 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1773865423006_0",
+    "Name": "Monster Hunter Stories 3 Twisted Reflection",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Monster%20Hunter%20Stories%203%20Twisted%20Reflection%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Monster%20Hunter%20Stories%203%20Twisted%20Reflection%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Monster%20Hunter%20Stories%203%20Twisted%20Reflection%20Trailer.mp4",
+    "videoStart": 1.771063,
+    "videoEnd": 246.613448,
+    "MusicUrl": "https://archive.org/download/RPRM001/Monster%20Hunter%20Stories%203%20Twisted%20Reflection%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP017",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "36 MB",
+            "arguments": [],
+            "notes": [
+              "Hypervisor Launcher [Retro Project\\PC Game\\00603]",
+              "Hypervisor Driver AMD [driver_amd]",
+              "Hypervisor Driver INTEL [driver_intel]",
+              "Hypervisor Helper [Retro Project\\PC Game\\00603\\Hypervisor Helper\\HypervisorManager.exe]"
+            ],
+            "buildID": "17 March 2026",
+            "executable": "steamclient_loader_x64.exe",
+            "filename": "00603.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hypervisor",
+      "Hypervisor Launcher"
+    ]
   }
 ]
