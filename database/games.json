@@ -61270,7 +61270,7 @@
     "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/retromusic/818fb450-98e0-4d14-bdcc-bca276b74b81.mp3",
     "PlatformNames": [
-      "Arcade",
+      "Final Arcade",
       "Nintendo Entertainment System"
     ],
     "GenreNames": [
@@ -61284,7 +61284,6 @@
         "versions": [
           {
             "identifier": "A0100",
-            "filename": "citycon.zip",
             "platform": "Final Arcade",
             "name": "Arcade",
             "emulator": "RetroArch",
@@ -61294,13 +61293,10 @@
               "-L",
               ".\\cores\\fbneo_libretro.dll"
             ],
-            "romFiles": [
-              "citycon.zip"
-            ]
+            "filename": "citycon.zip"
           },
           {
             "identifier": "retro-nes",
-            "filename": "City Connection.nes",
             "platform": "Nintendo Entertainment System",
             "name": "Vanilla",
             "emulator": "RetroArch",
@@ -61310,25 +61306,20 @@
               "-L",
               ".\\cores\\mesen_libretro.dll"
             ],
-            "romFiles": [
-              "City Connection.nes"
-            ]
+            "filename": "City Connection.nes"
           },
           {
             "identifier": "retro-nes",
-            "filename": "City Connection (Clarice version).nes",
             "platform": "Nintendo Entertainment System",
             "name": "Clarice Version",
             "emulator": "RetroArch",
-            "romFile": "City Connection (Clarice version).nes",
+            "romFile": "City Connection (Clarice Version).nes",
             "fileSize": "70KB",
             "arguments": [
               "-L",
               ".\\cores\\mesen_libretro.dll"
             ],
-            "romFiles": [
-              "City Connection (Clarice Version).nes"
-            ]
+            "filename": "City Connection (Clarice Version).nes"
           }
         ]
       }
@@ -119251,7 +119242,7 @@
   {
     "_id": "f4e04dd7-078f-4246-b724-e03d8fc06b2c",
     "Name": "Death Stranding",
-    "SortingName": "",
+    "SortingName": "Death Stranding 01",
     "Description": "Civilization crumbles as <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>spectral beings</span> from beyond the veil turn Earth into a <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>fractured wasteland</span> where the living and dead coexist in <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>perpetual terror</span>. As a <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>legendary porter</span>, traverse haunting landscapes where every <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>footstep</span> echoes with the weight of humanity's survival. Master the delicate art of <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>connection and isolation</span> while delivering <span style='color:#20B2AA; font-weight:bold; text-shadow: 0 0 8px #20B2AA;'>precious cargo</span> across <span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>impossible terrain</span>. Build bridges of <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>hope</span> and <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>solidarity</span> in this profound meditation on <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>human resilience</span>, where every <span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>strand</span> connects us to <span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>something greater</span>.",
     "DescriptionArabic": "<div dir='rtl'>تنهار الحضارة بينما تحول <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الكائنات الطيفية</span> من وراء الحجاب الأرض إلى <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>أرض قاحلة مكسورة</span> حيث يتعايش الأحياء والأموات في <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>رعب دائم</span>. كـ<span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>حامل أسطوري</span>، اجتز المناظر الطبيعية المخيفة حيث كل <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>خطوة</span> تتردد بثقل بقاء البشرية. أتقن فن <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>الاتصال والعزلة</span> الدقيق بينما تسلم <span style='color:#20B2AA; font-weight:bold; text-shadow: 0 0 8px #20B2AA;'>البضائع الثمينة</span> عبر <span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>تضاريس مستحيلة</span>. ابن جسور <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>الأمل</span> و<span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>التضامن</span> في هذا التأمل العميق حول <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>المرونة البشرية</span>، حيث كل <span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>خيط</span> يربطنا بـ<span style='color:#1E90FF; font-weight:bold; text-shadow: 0 0 8px #1E90FF;'>شيء أعظم</span>.</div>",
     "ReleaseDate": "2021-9-24",
@@ -146406,5 +146397,41 @@
       "Hypervisor",
       "Hypervisor Launcher"
     ]
+  },
+  {
+    "_id": "game_1773995042709_0",
+    "Name": "Death Stranding 2 On the Beach",
+    "SortingName": "Death Stranding 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Death%20Stranding%202%20On%20the%20Beach%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Death%20Stranding%202%20On%20the%20Beach%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Death%20Stranding%202%20On%20the%20Beach%20Trailer.mp4",
+    "videoStart": 9.960801,
+    "videoEnd": 294.086699,
+    "MusicUrl": "https://archive.org/download/RPRM001/Death%20Stranding%202%20On%20the%20Beach%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP018",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "112 GB",
+            "executable": "DS2.exe",
+            "arguments": [],
+            "buildID": "19 March 2026",
+            "filename": "00604.zip"
+          }
+        ]
+      }
+    }
   }
 ]
