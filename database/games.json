@@ -146433,5 +146433,53 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1774037953598_0",
+    "Name": "Crimson Desert",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Crimson%20Desert%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Crimson%20Desert%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Crimson%20Desert%20Trailer.mp4",
+    "videoStart": 2.751579,
+    "videoEnd": 98.9,
+    "MusicUrl": "https://archive.org/download/RPRM001/Crimson%20Desert%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP018",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "125GB",
+            "executable": "bin64\\steamclient_loader_x64.exe",
+            "arguments": [],
+            "buildID": "20 March 2026",
+            "notes": [
+              "Hypervisor Launcher [Retro Project\\PC Game\\00605\\bin64]",
+              "Hypervisor Driver AMD [driver_amd]",
+              "Hypervisor Driver INTEL [driver_intel]",
+              "Hypervisor Helper [Retro Project\\PC Game\\00605\\bin64\\Hypervisor Helper]"
+            ],
+            "filename": "00605.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hypervisor",
+      "Hypervisor Launcher",
+      "Need Music",
+      "Hide"
+    ]
   }
 ]
