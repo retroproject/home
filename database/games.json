@@ -108992,7 +108992,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/e0a84dd4-710a-4f71-92e7-765fa2a71a8a.mp3",
     "PlatformNames": [
-      "Nintendo Switch"
+      "PC Game"
     ],
     "GenreNames": [
       "Japanese Role-Playing"
@@ -109001,23 +109001,31 @@
       "Atlus"
     ],
     "downloadInfo": {
-      "Nintendo Switch": {
+      "PC Game": {
         "versions": [
           {
-            "identifier": "E0701",
-            "name": "Vanilla",
-            "platform": "Nintendo Switch",
-            "emulator": "Yuzu",
-            "fileSize": "17GB",
-            "filenames": [
-              "Shin Megami Tensei V Vengeance.xci",
-              "Shin Megami Tensei V Vengeance Yuzu Update.zip"
+            "identifier": "RPRP018",
+            "name": "AMD & INTEL",
+            "platform": "PC Game",
+            "fileSize": "30GB",
+            "arguments": [],
+            "buildID": "14 February 2025",
+            "notes": [
+              "Hypervisor Launcher [Retro Project\\PC Game\\00606]",
+              "Hypervisor Driver AMD [driver_amd]",
+              "Hypervisor Driver INTEL [driver_intel]",
+              "Hypervisor Helper [Retro Project\\PC Game\\00606\\Hypervisor Helper\\HypervisorManager.exe]"
             ],
-            "romFile": "Shin Megami Tensei V Vengeance.xci"
+            "executable": "SMT5V.exe",
+            "filename": "00606.zip"
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Hypervisor",
+      "Hypervisor Launcher"
+    ]
   },
   {
     "_id": "e0aac371-74ee-4c4a-a47f-daaa2e3c7875",
@@ -146376,7 +146384,7 @@
         "versions": [
           {
             "identifier": "RPRP017",
-            "name": "Vanilla",
+            "name": "AMD & INTEL",
             "platform": "PC Game",
             "fileSize": "40GB",
             "arguments": [],
@@ -146458,7 +146466,7 @@
         "versions": [
           {
             "identifier": "RPRP018",
-            "name": "Vanilla",
+            "name": "AMD & INTEL",
             "platform": "PC Game",
             "fileSize": "125GB",
             "executable": "bin64\\steamclient_loader_x64.exe",
@@ -146478,8 +146486,7 @@
     "Tags": [
       "Hypervisor",
       "Hypervisor Launcher",
-      "Need Music",
-      "Hide"
+      "Need Music"
     ]
   }
 ]
