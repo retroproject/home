@@ -66479,7 +66479,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/8d04b09c-c61a-4fe5-a417-34e002a0c58d.mp3",
     "PlatformNames": [
-      "Nintendo Switch"
+      "PC Game"
     ],
     "GenreNames": [
       "Platformer"
@@ -66489,20 +66489,24 @@
       "Sonic Team"
     ],
     "downloadInfo": {
-      "Nintendo Switch": {
+      "PC Game": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Sonic Superstars.nsp",
-            "name": "Vanilla",
-            "platform": "Nintendo Switch",
-            "emulator": "Yuzu",
-            "fileSize": "8GB",
-            "romFile": "Sonic Superstars.nsp"
+            "identifier": "RPRP018",
+            "name": "AMD & INTEL",
+            "platform": "PC Game",
+            "fileSize": "10GB",
+            "arguments": [],
+            "executable": "build\\main\\projects\\exec\\steamclient_loader_x64.exe",
+            "filename": "00623.zip"
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Hypervisor 2.0",
+      "Working on"
+    ]
   },
   {
     "_id": "8d04e19b-2317-4694-b841-a4e24fc4b6d7",
@@ -109205,7 +109209,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/e0d815a8-0ab1-47b2-9450-0ae2f67e94e0.mp3",
     "PlatformNames": [
-      "Nintendo Switch"
+      "PC Game"
     ],
     "GenreNames": [
       "Platformer"
@@ -109219,16 +109223,32 @@
         "versions": [
           {
             "identifier": "retro-nx",
-            "filename": "Sonic Origins.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "5GB",
-            "romFile": "Sonic Origins.nsp"
+            "romFile": "Sonic Origins.nsp",
+            "filename": ".nsp"
+          }
+        ]
+      },
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP018",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "500MB",
+            "arguments": [],
+            "filename": "00619.zip"
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Hypervisor 2.0",
+      "Working on"
+    ]
   },
   {
     "_id": "e0ee416d-a71d-4f7e-847c-3ce2e963f431",
@@ -126519,7 +126539,7 @@
     "videoEnd": 70,
     "MusicUrl": "https://archive.org/download/retromedia/Shinobi%20Art%20of%20Vengeance%20Boss%20Theme.mp3",
     "PlatformNames": [
-      "Sony PlayStation 4"
+      "PC Game"
     ],
     "GenreNames": [
       "Platformer"
@@ -126528,21 +126548,24 @@
       "Sega"
     ],
     "downloadInfo": {
-      "Sony PlayStation 4": {
+      "PC Game": {
         "versions": [
           {
-            "identifier": "P0400",
-            "name": "Vanilla",
-            "platform": "Sony PlayStation 4",
-            "fileSize": "10GB",
+            "identifier": "RPRP018",
+            "name": "AMD & INTEL",
+            "platform": "PC Game",
+            "fileSize": "11GB",
             "arguments": [],
-            "emulator": "ShadPS4",
-            "romFile": "eboot.bin",
-            "filename": "SHINOBI Art of Vengeance.zip"
+            "executable": "hypervisor-launcher.exe",
+            "filename": "00617.zip"
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Hypervisor 2.0",
+      "Working on"
+    ]
   },
   {
     "_id": "game_1757867595102_0",
@@ -128090,22 +128113,16 @@
             "platform": "PC Game",
             "fileSize": "20GB",
             "arguments": [],
-            "executable": "UNION\\Binaries\\Win64",
+            "executable": "UNION\\Binaries\\Win64\\steamclient_loader_x64.exein64",
             "buildID": "18 December 2025",
-            "notes": [
-              "Hypervisor Launcher [D:\\Retro Project\\PC Game\\00539]",
-              "Hypervisor Driver AMD [driver_amd]",
-              "Hypervisor Driver INTEL [driver_intel]",
-              "Hypervisor Helper [Retro Project\\PC Game\\00539\\UNION\\Binaries\\Win64\\Hypewrvisor Helper\\HV-Loader-0xZeOn.exe]"
-            ],
             "filename": "00539.zip"
           }
         ]
       }
     },
     "Tags": [
-      "Hypervisor",
-      "Hypervisor Launcher"
+      "Hypervisor 2.0",
+      "Working on"
     ]
   },
   {
@@ -134173,7 +134190,7 @@
     "videoEnd": 96.58158,
     "MusicUrl": "https://archive.org/download/RPRM001/Hello%20Kitty%20Island%20Adventure%20Theme.mp3",
     "PlatformNames": [
-      "Nintendo Switch"
+      "PC Game"
     ],
     "GenreNames": [
       "Cozy"
@@ -134182,25 +134199,24 @@
       "Sunblink Entertainment"
     ],
     "downloadInfo": {
-      "Nintendo Switch": {
+      "PC Game": {
         "versions": [
           {
-            "identifier": "E0701",
-            "name": "Vanilla",
-            "platform": "Nintendo Switch",
-            "fileSize": "2 GB",
+            "identifier": "RPRP018",
+            "name": "AMD & INTEL",
+            "platform": "PC Game",
+            "fileSize": "10GB",
             "arguments": [],
-            "filenames": [
-              "Hello Kitty Island Adventure.nsp",
-              "Hello Kitty Island Adventure Citron Update.zip"
-            ],
-            "emulator": "Citron",
-            "romFile": "Hello Kitty Island Adventure.nsp",
-            "buildID": "2.9.0"
+            "executable": "hypervisor-launcher.exe",
+            "filename": "00621.zip"
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Working on",
+      "Hypervisor 2.0"
+    ]
   },
   {
     "_id": "game_1767740832302_0",
@@ -139219,21 +139235,20 @@
       "Bandai Namco"
     ],
     "Tags": [
-      "Steam"
+      "Hypervisor 2.0",
+      "Working on"
     ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP015",
+            "identifier": "RPRP018",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "500MB",
+            "fileSize": "80GB",
             "arguments": [],
-            "notes": [
-              "STEAM ID [2362060]",
-              "STEAM EXE [CodeVein2.exe]"
-            ]
+            "executable": "Binaries\\Win64\\steamclient_loader_x64.exe",
+            "filename": "00618.zip"
           }
         ]
       }
@@ -139327,7 +139342,7 @@
     "videoEnd": 121.1,
     "MusicUrl": "https://archive.org/download/RPRM001/DRAGON%20QUEST%20VII%20Reimagined%20Theme.mp3",
     "PlatformNames": [
-      "Nintendo Switch"
+      "PC Game"
     ],
     "GenreNames": [],
     "DeveloperNames": [],
@@ -139345,8 +139360,25 @@
             "arguments": []
           }
         ]
+      },
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP018",
+            "name": "AMD & INTEL",
+            "platform": "PC Game",
+            "fileSize": "9GB",
+            "arguments": [],
+            "executable": "DQ7R\\Binaries\\Win64\\hypervisor-launcher.exe",
+            "filename": "00616.zip"
+          }
+        ]
       }
-    }
+    },
+    "Tags": [
+      "Hypervisor 2.0",
+      "Working on"
+    ]
   },
   {
     "_id": "game_1770144778164_0",
@@ -139484,21 +139516,20 @@
       "Media Vision"
     ],
     "Tags": [
-      "Steam"
+      "Working on",
+      "Hypervisor 2.0"
     ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP015",
-            "name": "Vanilla",
+            "identifier": "RPRP018",
+            "name": "AMD & INTEL",
             "platform": "PC Game",
-            "fileSize": "500MB",
+            "fileSize": "30GB",
             "arguments": [],
-            "notes": [
-              "STEAM ID [1984270]",
-              "STEAM EXE [Digimon Story Time Stranger.exe]"
-            ]
+            "executable": "steamclient_loader_x64.exe",
+            "filename": "00620.zip"
           }
         ]
       }
@@ -143708,7 +143739,8 @@
       }
     },
     "Tags": [
-      "Hypervisor"
+      "Hypervisor 2.0",
+      "Working on"
     ]
   },
   {
@@ -143741,37 +143773,15 @@
             "fileSize": "61 GB",
             "arguments": [],
             "buildID": "30 September 2025 [HV2.2]",
-            "notes": [
-              "Hypervisor Launcher [Retro Project\\PC Game\\00524\\SB\\Binaries\\Win64]",
-              "Hypervisor Driver AMD [driver_amd]",
-              "Hypervisor Driver INTEL [driver_intel]",
-              "Hypervisor Helper [Retro Project\\PC Game\\00524\\SB\\Binaries\\Win64\\Hypewrvisor Helper\\HV-Loader-0xZeOn.exe]"
-            ],
-            "executable": "SB\\Binaries\\Win64\\SB-Win64-Shipping.exe",
+            "executable": "SB\\Binaries\\Win64\\hypervisor-launcher.exe",
             "filename": "00524.zip"
-          },
-          {
-            "identifier": "RPRP016",
-            "name": "AMD & INTEL [Arabic]",
-            "platform": "PC Game",
-            "fileSize": "61 GB",
-            "arguments": [],
-            "buildID": "30 September 2025 [HV2.2]",
-            "notes": [
-              "Hypervisor Launcher [Retro Project\\PC Game\\00554\\SB\\Binaries\\Win64]",
-              "Hypervisor Driver AMD [driver_amd]",
-              "Hypervisor Driver INTEL [driver_intel]",
-              "Hypervisor Helper [Retro Project\\PC Game\\00554\\SB\\Binaries\\Win64\\Hypewrvisor Helper\\HV-Loader-0xZeOn.exe]"
-            ],
-            "executable": "SB\\Binaries\\Win64\\SB-Win64-Shipping.exe",
-            "filename": "00554.zip"
           }
         ]
       }
     },
     "Tags": [
-      "Hypervisor",
-      "Hypervisor Launcher"
+      "Working on",
+      "Hypervisor 2.0"
     ]
   },
   {
@@ -143811,7 +143821,8 @@
       }
     },
     "Tags": [
-      "Hypervisor"
+      "Hypervisor 2.0",
+      "Working on"
     ]
   },
   {
@@ -144039,17 +144050,18 @@
             "identifier": "RPRP015",
             "name": "AMD & INTEL",
             "platform": "PC Game",
-            "fileSize": "149 GB",
+            "fileSize": "150GB",
             "executable": "steamclient_loader_x64.exe",
             "arguments": [],
-            "buildID": "25 February 2026 [HV Beta 1]",
+            "buildID": "25 February 2026",
             "filename": "00534.zip"
           }
         ]
       }
     },
     "Tags": [
-      "Hypervisor"
+      "Hypervisor 2.0",
+      "Working on"
     ]
   },
   {
@@ -144079,7 +144091,7 @@
             "name": "AMD & INTEL",
             "platform": "PC Game",
             "fileSize": "55 GB",
-            "executable": "runtime\\media\\yakuzakiwami3.exe",
+            "executable": "runtime\\media\\hypervisor-launcher.exe",
             "arguments": [],
             "notes": [
               "Hypervisor Launcher [Retro Project\\PC Game\\!RPRP015\\00535\\runtime\\media]",
@@ -144094,8 +144106,8 @@
       }
     },
     "Tags": [
-      "Hypervisor",
-      "Hypervisor Launcher"
+      "Hypervisor 2.0",
+      "Working on"
     ]
   },
   {
@@ -144226,14 +144238,8 @@
             "name": "AMD & INTEL",
             "platform": "PC Game",
             "fileSize": "160GB",
-            "executable": "ACShadows.exe",
+            "executable": "hypervisor-launcher.exe",
             "arguments": [],
-            "notes": [
-              "Hypervisor Launcher [Retro Project\\PC Game\\00541]",
-              "Hypervisor Driver AMD [driver_amd]",
-              "Hypervisor Driver INTEL [driver_intel]",
-              "Hypervisor Helper [Retro Project\\PC Game\\00541\\Hypewrvisor Helper\\HV-Loader-0xZeOn.exe]"
-            ],
             "buildID": "26 February 2026",
             "filename": "00541.zip"
           }
@@ -144241,8 +144247,8 @@
       }
     },
     "Tags": [
-      "Hypervisor",
-      "Hypervisor Launcher"
+      "Hypervisor 2.0",
+      "Working on"
     ]
   },
   {
@@ -144269,17 +144275,11 @@
         "versions": [
           {
             "identifier": "RPRP015",
-            "name": "Vanilla",
+            "name": "AMD & INTEL",
             "platform": "PC Game",
             "fileSize": "80GB",
-            "executable": "runtime\\media\\likeadragon8-hv.exe",
+            "executable": "runtime\\media\\hypervisor-launcher.exe",
             "arguments": [],
-            "notes": [
-              "Hypervisor Launcher [Retro Project\\PC Game\\00542]",
-              "Hypervisor Driver AMD [driver_amd]",
-              "Hypervisor Driver INTEL [driver_intel]",
-              "Hypervisor Helper [Retro Project\\PC Game\\00542\\runtime\\media\\Hypewrvisor Helper\\HV-Loader-0xZeOn.exe]"
-            ],
             "buildID": "24 March 2025",
             "filename": "00542.zip"
           }
@@ -144287,8 +144287,8 @@
       }
     },
     "Tags": [
-      "Hypervisor",
-      "Hypervisor Launcher"
+      "Hypervisor 2.0",
+      "Working on"
     ]
   },
   {
@@ -146472,12 +146472,6 @@
             "executable": "bin64\\steamclient_loader_x64.exe",
             "arguments": [],
             "buildID": "20 March 2026",
-            "notes": [
-              "Hypervisor Launcher [Retro Project\\PC Game\\00605\\bin64]",
-              "Hypervisor Driver AMD [driver_amd]",
-              "Hypervisor Driver INTEL [driver_intel]",
-              "Hypervisor Helper [Retro Project\\PC Game\\00605\\bin64\\Hypervisor Helper\\HypervisorManager.exe]"
-            ],
             "filename": "00605.zip"
           }
         ]
@@ -146485,8 +146479,515 @@
     },
     "Tags": [
       "Need Music",
-      "Hypervisor Launcher",
-      "Hypervisor"
+      "Hypervisor 2.0",
+      "Working on"
+    ]
+  },
+  {
+    "_id": "game_1774373473007_0",
+    "Name": "Across the Obelisk",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Across%20the%20Obelisk%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Across%20the%20Obelisk%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Across%20the%20Obelisk%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP018",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "6 GB",
+            "filename": "00607.zip",
+            "executable": "AcrossTheObelisk.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1774373473008_1",
+    "Name": "Ayasa Shadows of Silence",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Ayasa%20Shadows%20of%20Silence%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Ayasa%20Shadows%20of%20Silence%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Ayasa%20Shadows%20of%20Silence%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP018",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "9 GB",
+            "executable": "Aya.exe",
+            "arguments": [],
+            "buildID": "22 March 2026",
+            "filename": "00608.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1774373473008_2",
+    "Name": "Dice Gambit",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Dice%20Gambit%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Dice%20Gambit%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Dice%20Gambit%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP018",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "executable": "Dice Gambit.exe",
+            "arguments": [],
+            "buildID": "20 March 2026",
+            "filename": "00609.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1774373473008_3",
+    "Name": "Overthrown",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Overthrown%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Overthrown%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Overthrown%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP018",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "executable": "Overthrown.exe",
+            "arguments": [],
+            "buildID": "18 March 2026",
+            "filename": "00610.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1774373473008_4",
+    "Name": "Rushing Beat X Return of Brawl Brothers",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Rushing%20Beat%20X%20Return%20of%20Brawl%20Brothers%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Rushing%20Beat%20X%20Return%20of%20Brawl%20Brothers%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Rushing%20Beat%20X%20Return%20of%20Brawl%20Brothers%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP018",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "RushingBeatX.exe",
+            "arguments": [],
+            "buildID": "20 March 2026",
+            "filename": "00611.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1774373473008_5",
+    "Name": "Screamer",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Screamer%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Screamer%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Screamer%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP018",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "30 GB",
+            "filename": "00612.zip",
+            "executable": "screamer.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1774373473008_6",
+    "Name": "Sniper Elite Resistance",
+    "SortingName": "Sniper Elite 05",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Sniper%20Elite%20Resistance%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Sniper%20Elite%20Resistance%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Sniper%20Elite%20Resistance%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP018",
+            "name": "AMD & INTEL",
+            "platform": "PC Game",
+            "fileSize": "120GB",
+            "executable": "bin\\launcher.exe",
+            "arguments": [],
+            "filename": "00613.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide",
+      "Hypervisor 2.0",
+      "Working on"
+    ]
+  },
+  {
+    "_id": "game_1774373473008_7",
+    "Name": "Towerborne",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Towerborne%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Towerborne%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Towerborne%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP018",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "20 GB",
+            "filename": "00614.zip",
+            "executable": "Belfry.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1774373473008_8",
+    "Name": "Tricky Towers",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Tricky%20Towers%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Tricky%20Towers%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Tricky%20Towers%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP018",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "273 MB",
+            "filename": "00615.zip",
+            "executable": "TrickyTowers.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1774566466703_0",
+    "Name": "Bravely Default Flying Fairy HD Remaster",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Bravely%20Default%20Flying%20Fairy%20HD%20Remaster%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Bravely%20Default%20Flying%20Fairy%20HD%20Remaster%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Bravely%20Default%20Flying%20Fairy%20HD%20Remaster%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP018",
+            "name": "AMD & INTEL",
+            "platform": "PC Game",
+            "fileSize": "9 GB",
+            "executable": "hypervisor-launcher.exe",
+            "arguments": [],
+            "filename": "00622.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hypervisor 2.0",
+      "Working on",
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1774566663325_0",
+    "Name": "FAR Changing Tides",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/FAR%20Changing%20Tides%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/FAR%20Changing%20Tides%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/FAR%20Changing%20Tides%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP018",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "filename": "00624.zip",
+            "executable": "hypervisor-launcher.exe",
+            "buildID": "reflex_amd",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1774574642098_0",
+    "Name": "Star Wars Outlaws",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Star%20Wars%20Outlaws%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Star%20Wars%20Outlaws%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Star%20Wars%20Outlaws%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP018",
+            "name": "AMD & INTEL",
+            "platform": "PC Game",
+            "fileSize": "84 GB",
+            "executable": "Outlaws.exe",
+            "arguments": [],
+            "filename": "00625.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Working on",
+      "Hypervisor 2.0",
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1774575605629_0",
+    "Name": "Demon Slayer The Hinokami Chronicles 2",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Demon%20Slayer%20The%20Hinokami%20Chronicles%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Demon%20Slayer%20The%20Hinokami%20Chronicles%202%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Demon%20Slayer%20The%20Hinokami%20Chronicles%202%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP018",
+            "name": "AMD & INTEL",
+            "platform": "PC Game",
+            "fileSize": "25 GB",
+            "executable": "APK2\\Binaries\\Win64\\steamclient_loader_x64.exe",
+            "arguments": [],
+            "filename": "00626.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Working on",
+      "Hypervisor 2.0",
+      "Hide"
     ]
   }
 ]
