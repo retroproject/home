@@ -61227,7 +61227,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/817a657f-b35c-4b99-be96-ed11aeb4193e.mp3",
     "PlatformNames": [
-      "Nintendo Switch"
+      "PC Game"
     ],
     "GenreNames": [
       "Metroidvania"
@@ -61236,23 +61236,25 @@
       "Ubisoft Montpellier"
     ],
     "downloadInfo": {
-      "Nintendo Switch": {
+      "PC Game": {
         "versions": [
           {
-            "identifier": "E0701",
-            "name": "Vanilla",
-            "platform": "Nintendo Switch",
-            "emulator": "Ryujinx",
-            "fileSize": "6GB",
-            "romFile": "Prince of Persia The Lost Crown.nsp",
-            "filenames": [
-              "Prince of Persia The Lost Crown.nsp",
-              "Prince of Persia The Lost Crown Ryujinx Update.zip"
-            ]
+            "identifier": "RPRP019",
+            "name": "AMD & INTEL",
+            "platform": "PC Game",
+            "fileSize": "30GB",
+            "arguments": [],
+            "buildID": "10 March 2025",
+            "executable": "hypervisor-launcher.exe",
+            "filename": "00632.zip"
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Hypervisor 2.0",
+      "Working on"
+    ]
   },
   {
     "_id": "818fb450-98e0-4d14-bdcc-bca276b74b81",
@@ -66498,6 +66500,7 @@
             "fileSize": "10GB",
             "arguments": [],
             "executable": "build\\main\\projects\\exec\\steamclient_loader_x64.exe",
+            "buildID": "24 October 2025",
             "filename": "00623.zip"
           }
         ]
@@ -109014,21 +109017,15 @@
             "fileSize": "30GB",
             "arguments": [],
             "buildID": "14 February 2025",
-            "notes": [
-              "Hypervisor Launcher [Retro Project\\PC Game\\00606]",
-              "Hypervisor Driver AMD [driver_amd]",
-              "Hypervisor Driver INTEL [driver_intel]",
-              "Hypervisor Helper [Retro Project\\PC Game\\00606\\Hypervisor Helper\\HypervisorManager.exe]"
-            ],
-            "executable": "SMT5V.exe",
+            "executable": "Project\\Binaries\\Win64\\launcher.exe",
             "filename": "00606.zip"
           }
         ]
       }
     },
     "Tags": [
-      "Hypervisor",
-      "Hypervisor Launcher"
+      "Hypervisor 2.0",
+      "Working on"
     ]
   },
   {
@@ -109240,6 +109237,7 @@
             "platform": "PC Game",
             "fileSize": "500MB",
             "arguments": [],
+            "buildID": "25 October 2023",
             "filename": "00619.zip"
           }
         ]
@@ -126557,6 +126555,7 @@
             "fileSize": "11GB",
             "arguments": [],
             "executable": "hypervisor-launcher.exe",
+            "buildID": "8 October 2025",
             "filename": "00617.zip"
           }
         ]
@@ -128114,7 +128113,7 @@
             "fileSize": "20GB",
             "arguments": [],
             "executable": "UNION\\Binaries\\Win64\\steamclient_loader_x64.exein64",
-            "buildID": "18 December 2025",
+            "buildID": "19 March 2026",
             "filename": "00539.zip"
           }
         ]
@@ -128634,7 +128633,7 @@
             "platform": "PC Game",
             "fileSize": "26 GB",
             "executable": "Painkiller.exe",
-            "buildID": "20 October 2025",
+            "buildID": "18 March 2026",
             "arguments": [],
             "filename": "00138.zip"
           }
@@ -134208,6 +134207,7 @@
             "fileSize": "10GB",
             "arguments": [],
             "executable": "hypervisor-launcher.exe",
+            "buildID": "2 March 2026",
             "filename": "00621.zip"
           }
         ]
@@ -139248,6 +139248,7 @@
             "fileSize": "80GB",
             "arguments": [],
             "executable": "Binaries\\Win64\\steamclient_loader_x64.exe",
+            "buildID": "17 March 2026",
             "filename": "00618.zip"
           }
         ]
@@ -139269,26 +139270,30 @@
     "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/RPRM001/Octopath%20Traveler%200%20Theme.mp3",
     "PlatformNames": [
-      "Nintendo Switch"
+      "PC Game"
     ],
     "GenreNames": [],
     "DeveloperNames": [],
     "downloadInfo": {
-      "Nintendo Switch": {
+      "PC Game": {
         "versions": [
           {
-            "identifier": "E0701",
-            "name": "Vanilla",
-            "platform": "Nintendo Switch",
-            "fileSize": "4 GB",
-            "filename": "Octopath Traveler 0.xci",
-            "romFile": "Octopath Traveler 0.xci",
-            "emulator": "Citron",
-            "arguments": []
+            "identifier": "RPRP019",
+            "name": "AMD & INTEL",
+            "platform": "PC Game",
+            "fileSize": "6GB",
+            "arguments": [],
+            "buildID": "5 March 2026",
+            "executable": "Binaries\\Win64\\hypervisor-launcher.exe",
+            "filename": "00631"
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Hypervisor 2.0",
+      "Working on"
+    ]
   },
   {
     "_id": "game_1770015267740_1",
@@ -139370,6 +139375,7 @@
             "fileSize": "9GB",
             "arguments": [],
             "executable": "DQ7R\\Binaries\\Win64\\hypervisor-launcher.exe",
+            "buildID": "2 February 2026",
             "filename": "00616.zip"
           }
         ]
@@ -139529,6 +139535,7 @@
             "fileSize": "30GB",
             "arguments": [],
             "executable": "steamclient_loader_x64.exe",
+            "buildID": "11 March 2026",
             "filename": "00620.zip"
           }
         ]
@@ -144047,14 +144054,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP015",
+            "identifier": "RPRP019",
             "name": "AMD & INTEL",
             "platform": "PC Game",
             "fileSize": "150GB",
             "executable": "steamclient_loader_x64.exe",
             "arguments": [],
-            "buildID": "25 February 2026",
-            "filename": "00534.zip"
+            "buildID": "6 March 2026",
+            "filename": "00629.zip"
           }
         ]
       }
@@ -144087,20 +144094,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP015",
+            "identifier": "RPRP019",
             "name": "AMD & INTEL",
             "platform": "PC Game",
             "fileSize": "55 GB",
             "executable": "runtime\\media\\hypervisor-launcher.exe",
             "arguments": [],
-            "notes": [
-              "Hypervisor Launcher [Retro Project\\PC Game\\!RPRP015\\00535\\runtime\\media]",
-              "Hypervisor Driver AMD [driver_amd]",
-              "Hypervisor Driver INTEL [driver_intel]",
-              "Hypervisor Helper [Retro Project\\PC Game\\!RPRP015\\00535\\runtime\\media\\Hypewrvisor Helper\\HV-Loader-0xZeOn.exe]"
-            ],
             "buildID": "20 February 2026",
-            "filename": "00535.zip"
+            "filename": "00630.zip"
           }
         ]
       }
@@ -144133,14 +144134,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP015",
+            "identifier": "RPRP018",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "86 GB",
             "executable": "OakGame\\Binaries\\Win64\\steamclient_loader_x64.exe",
             "arguments": [],
             "buildID": "26 February 2026",
-            "filename": "00536.zip"
+            "filename": "00628.zip"
           }
         ]
       }
@@ -144274,14 +144275,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP015",
+            "identifier": "RPRP018",
             "name": "AMD & INTEL",
             "platform": "PC Game",
             "fileSize": "80GB",
             "executable": "runtime\\media\\hypervisor-launcher.exe",
             "arguments": [],
             "buildID": "24 March 2025",
-            "filename": "00542.zip"
+            "filename": "00627.zip"
           }
         ]
       }
@@ -146388,12 +146389,6 @@
             "platform": "PC Game",
             "fileSize": "40GB",
             "arguments": [],
-            "notes": [
-              "Hypervisor Launcher [Retro Project\\PC Game\\00603]",
-              "Hypervisor Driver AMD [driver_amd]",
-              "Hypervisor Driver INTEL [driver_intel]",
-              "Hypervisor Helper [Retro Project\\PC Game\\00603\\Hypervisor Helper\\HypervisorManager.exe]"
-            ],
             "buildID": "17 March 2026",
             "executable": "steamclient_loader_x64.exe",
             "filename": "00603.zip"
@@ -146402,8 +146397,8 @@
       }
     },
     "Tags": [
-      "Hypervisor",
-      "Hypervisor Launcher"
+      "Hypervisor 2.0",
+      "Working on"
     ]
   },
   {
@@ -146471,7 +146466,7 @@
             "fileSize": "125GB",
             "executable": "bin64\\steamclient_loader_x64.exe",
             "arguments": [],
-            "buildID": "20 March 2026",
+            "buildID": "24 March 2026",
             "filename": "00605.zip"
           }
         ]
@@ -146493,9 +146488,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Across%20the%20Obelisk%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Across%20the%20Obelisk%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Across%20the%20Obelisk%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/RPRM001/Across%20the%20Obelisk%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -146510,9 +146505,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "6 GB",
-            "filename": "00607.zip",
             "executable": "AcrossTheObelisk.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "19 March 2026",
+            "filename": "00607.zip"
           }
         ]
       }
@@ -146531,9 +146527,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Ayasa%20Shadows%20of%20Silence%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Ayasa%20Shadows%20of%20Silence%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Ayasa%20Shadows%20of%20Silence%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/RPRM001/Ayasa%20Shadows%20of%20Silence%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -146570,9 +146566,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Dice%20Gambit%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Dice%20Gambit%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Dice%20Gambit%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/RPRM001/Dice%20Gambit%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -146609,9 +146605,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Overthrown%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Overthrown%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Overthrown%20Trailer.mp4",
+    "videoStart": 0.8,
+    "videoEnd": 79.1,
     "MusicUrl": "https://archive.org/download/RPRM001/Overthrown%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -146648,9 +146644,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Rushing%20Beat%20X%20Return%20of%20Brawl%20Brothers%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Rushing%20Beat%20X%20Return%20of%20Brawl%20Brothers%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Rushing%20Beat%20X%20Return%20of%20Brawl%20Brothers%20Trailer.mp4",
+    "videoStart": 2.7,
+    "videoEnd": 93.4,
     "MusicUrl": "https://archive.org/download/RPRM001/Rushing%20Beat%20X%20Return%20of%20Brawl%20Brothers%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -146687,9 +146683,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Screamer%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Screamer%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Screamer%20Trailer.mp4",
+    "videoStart": 1.3,
+    "videoEnd": 90.510483,
     "MusicUrl": "https://archive.org/download/RPRM001/Screamer%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -146704,9 +146700,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "30 GB",
-            "filename": "00612.zip",
             "executable": "screamer.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "26 March 2026",
+            "filename": "00612.zip"
           }
         ]
       }
@@ -146725,9 +146722,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Sniper%20Elite%20Resistance%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Sniper%20Elite%20Resistance%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Sniper%20Elite%20Resistance%20Trailer.mp4",
+    "videoStart": 2,
+    "videoEnd": 65.375299,
     "MusicUrl": "https://archive.org/download/RPRM001/Sniper%20Elite%20Resistance%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -146744,6 +146741,7 @@
             "fileSize": "120GB",
             "executable": "bin\\launcher.exe",
             "arguments": [],
+            "buildID": "8 July 2025",
             "filename": "00613.zip"
           }
         ]
@@ -146765,9 +146763,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Towerborne%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Towerborne%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Towerborne%20Trailer.mp4",
+    "videoStart": 2,
+    "videoEnd": 63.999947,
     "MusicUrl": "https://archive.org/download/RPRM001/Towerborne%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -146782,9 +146780,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "20 GB",
-            "filename": "00614.zip",
             "executable": "Belfry.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "23 March 2026",
+            "filename": "00614.zip"
           }
         ]
       }
@@ -146803,9 +146802,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Tricky%20Towers%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Tricky%20Towers%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Tricky%20Towers%20Trailer.mp4",
+    "videoStart": 5.714797,
+    "videoEnd": 88.1,
     "MusicUrl": "https://archive.org/download/RPRM001/Tricky%20Towers%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -146820,9 +146819,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "273 MB",
-            "filename": "00615.zip",
             "executable": "TrickyTowers.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "15 October 2019",
+            "filename": "00615.zip"
           }
         ]
       }
@@ -146841,9 +146841,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Bravely%20Default%20Flying%20Fairy%20HD%20Remaster%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Bravely%20Default%20Flying%20Fairy%20HD%20Remaster%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Bravely%20Default%20Flying%20Fairy%20HD%20Remaster%20Trailer.mp4",
+    "videoStart": 3.83238,
+    "videoEnd": 142.053356,
     "MusicUrl": "https://archive.org/download/RPRM001/Bravely%20Default%20Flying%20Fairy%20HD%20Remaster%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -146860,6 +146860,7 @@
             "fileSize": "9 GB",
             "executable": "hypervisor-launcher.exe",
             "arguments": [],
+            "buildID": "12 March 2026",
             "filename": "00622.zip"
           }
         ]
@@ -146881,9 +146882,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/FAR%20Changing%20Tides%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/FAR%20Changing%20Tides%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/FAR%20Changing%20Tides%20Trailer.mp4",
+    "videoStart": 4.849033,
+    "videoEnd": 93.814527,
     "MusicUrl": "https://archive.org/download/RPRM001/FAR%20Changing%20Tides%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -146920,9 +146921,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Star%20Wars%20Outlaws%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Star%20Wars%20Outlaws%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Star%20Wars%20Outlaws%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/RPRM001/Star%20Wars%20Outlaws%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -146939,6 +146940,7 @@
             "fileSize": "84 GB",
             "executable": "Outlaws.exe",
             "arguments": [],
+            "buildID": "24 June 2025",
             "filename": "00625.zip"
           }
         ]
@@ -146960,9 +146962,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Demon%20Slayer%20The%20Hinokami%20Chronicles%202%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Demon%20Slayer%20The%20Hinokami%20Chronicles%202%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Demon%20Slayer%20The%20Hinokami%20Chronicles%202%20Trailer.mp4",
+    "videoStart": 1.6,
+    "videoEnd": 97.789975,
     "MusicUrl": "https://archive.org/download/RPRM001/Demon%20Slayer%20The%20Hinokami%20Chronicles%202%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -146979,6 +146981,7 @@
             "fileSize": "25 GB",
             "executable": "APK2\\Binaries\\Win64\\steamclient_loader_x64.exe",
             "arguments": [],
+            "buildID": "11 March 2026",
             "filename": "00626.zip"
           }
         ]
@@ -146987,6 +146990,162 @@
     "Tags": [
       "Working on",
       "Hypervisor 2.0",
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1774711423278_0",
+    "Name": "Life is Strange Reunion",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Life%20is%20Strange%20Reunion%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Life%20is%20Strange%20Reunion%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Life%20is%20Strange%20Reunion%20Trailer.mp4",
+    "videoStart": 0.5,
+    "videoEnd": 110.263793,
+    "MusicUrl": "https://archive.org/download/RPRM001/Life%20is%20Strange%20Reunion%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP019",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "26 GB",
+            "executable": "Iris\\Binaries\\Win64\\steamclient_loader_x64.exe",
+            "arguments": [],
+            "buildID": "26 March 2026",
+            "filename": "00633.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1774711423279_1",
+    "Name": "Like a Dragon Pirate Yakuza in Hawaii",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Like%20a%20Dragon%20Pirate%20Yakuza%20in%20Hawaii%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Like%20a%20Dragon%20Pirate%20Yakuza%20in%20Hawaii%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Like%20a%20Dragon%20Pirate%20Yakuza%20in%20Hawaii%20Trailer.mp4",
+    "videoStart": 2.661371,
+    "videoEnd": 126.86695,
+    "MusicUrl": "https://archive.org/download/RPRM001/Like%20a%20Dragon%20Pirate%20Yakuza%20in%20Hawaii%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP019",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "55 GB",
+            "executable": "runtime\\media\\hypervisor-launcher.exe",
+            "arguments": [],
+            "buildID": "15 April 2025",
+            "filename": "00634.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1774711423279_2",
+    "Name": "Mafia The Old Country",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Mafia%20The%20Old%20Country%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Mafia%20The%20Old%20Country%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Mafia%20The%20Old%20Country%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 87.319408,
+    "MusicUrl": "https://archive.org/download/RPRM001/Mafia%20The%20Old%20Country%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP019",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "46 GB",
+            "executable": "MafiaTheOldCountry\\Binaries\\Win64\\steamclient_loader_x64.exe",
+            "arguments": [],
+            "buildID": "4 December 2025",
+            "filename": "00635.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1774711423279_3",
+    "Name": "MARVEL MaXimum Collection",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/MARVEL%20MaXimum%20Collection%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/MARVEL%20MaXimum%20Collection%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/MARVEL%20MaXimum%20Collection%20Trailer.mp4",
+    "videoStart": 11.188692,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/MARVEL%20MaXimum%20Collection%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP019",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "Marvel.exe",
+            "arguments": [],
+            "buildID": "27 March 2026",
+            "filename": "00636.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
       "Hide"
     ]
   }
