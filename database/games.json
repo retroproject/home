@@ -146996,7 +146996,7 @@
   {
     "_id": "game_1774711423278_0",
     "Name": "Life is Strange Reunion",
-    "SortingName": "",
+    "SortingName": "Life is Strange 01.06",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -147029,7 +147029,9 @@
       }
     },
     "Tags": [
-      "Hide"
+      "Hide",
+      "Hypervisor 2.0",
+      "Working on"
     ]
   },
   {
@@ -147068,13 +147070,15 @@
       }
     },
     "Tags": [
-      "Hide"
+      "Hide",
+      "Hypervisor 2.0",
+      "Working on"
     ]
   },
   {
     "_id": "game_1774711423279_2",
     "Name": "Mafia The Old Country",
-    "SortingName": "",
+    "SortingName": "Mafia 04",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -147107,7 +147111,9 @@
       }
     },
     "Tags": [
-      "Hide"
+      "Hide",
+      "Hypervisor 2.0",
+      "Working on"
     ]
   },
   {
