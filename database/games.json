@@ -23860,9 +23860,7 @@
       "Ryū Ga Gotoku Studios",
       "Sega Games"
     ],
-    "Tags": [
-      "Has Issues"
-    ],
+    "Tags": [],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -45262,9 +45260,7 @@
     "DeveloperNames": [
       "Ryū Ga Gotoku Studios"
     ],
-    "Tags": [
-      "Has Issues"
-    ],
+    "Tags": [],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -121892,7 +121888,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/fc844d2d-3a6c-40c9-97f5-125206526de3.mp3",
     "PlatformNames": [
-      "Nintendo Switch"
+      "PC Game"
     ],
     "GenreNames": [
       "Japanese Role-Playing"
@@ -121901,23 +121897,25 @@
       "Atlus"
     ],
     "downloadInfo": {
-      "Nintendo Switch": {
+      "PC Game": {
         "versions": [
           {
-            "identifier": "E0701",
-            "name": "Vanilla",
-            "platform": "Nintendo Switch",
-            "emulator": "Yuzu",
-            "fileSize": "8GB",
-            "romFile": "Shin Megami Tensei Persona 5 Tactica.nsp",
-            "filenames": [
-              "Shin Megami Tensei Persona 5 Tactica.nsp",
-              "Shin Megami Tensei Persona 5 Tactica Yuzu Update.zip"
-            ]
+            "identifier": "RPRP019",
+            "name": "AMD & INTEL",
+            "platform": "PC Game",
+            "fileSize": "17GB",
+            "arguments": [],
+            "buildID": "4 November 2025",
+            "executable": "hypervisor-launcher.exe",
+            "filename": "00637.zip"
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Hypervisor 2.0",
+      "Working on"
+    ]
   },
   {
     "_id": "fca00c2f-3747-4dec-a7b3-0e110bdec5d5",
@@ -144015,20 +144013,21 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP015",
+            "identifier": "RPRP019",
             "name": "AMD & INTEL",
             "platform": "PC Game",
             "fileSize": "135 GB",
             "executable": "hypervisor-launcher.exe",
             "arguments": [],
-            "buildID": "22 January 2026 [HV Beta 1]",
-            "filename": "00533.zip"
+            "buildID": "22 January 2026",
+            "filename": "00638.zip"
           }
         ]
       }
     },
     "Tags": [
-      "Hypervisor"
+      "Hypervisor 2.0",
+      "Working on"
     ]
   },
   {
@@ -144147,7 +144146,8 @@
       }
     },
     "Tags": [
-      "Hypervisor"
+      "Hypervisor 2.0",
+      "Working on"
     ]
   },
   {
@@ -144255,7 +144255,7 @@
   {
     "_id": "game_1772501837932_1",
     "Name": "Like a Dragon Infinite Wealth",
-    "SortingName": "Yakuza 08",
+    "SortingName": "Yakuza 09",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -147037,7 +147037,7 @@
   {
     "_id": "game_1774711423279_1",
     "Name": "Like a Dragon Pirate Yakuza in Hawaii",
-    "SortingName": "",
+    "SortingName": "Yakuza 10",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -147152,6 +147152,129 @@
       }
     },
     "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1774844875259_0",
+    "Name": "Like a Dragon Gaiden The Man Who Erased His Name",
+    "SortingName": "Yakuza 08",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Like%20a%20Dragon%20Gaiden%20The%20Man%20Who%20Erased%20His%20Name%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Like%20a%20Dragon%20Gaiden%20The%20Man%20Who%20Erased%20His%20Name%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Like%20a%20Dragon%20Gaiden%20The%20Man%20Who%20Erased%20His%20Name%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 120.252733,
+    "MusicUrl": "https://archive.org/download/RPRM001/Like%20a%20Dragon%20Gaiden%20The%20Man%20Who%20Erased%20His%20Name%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP019",
+            "name": "AMD & INTEL",
+            "platform": "PC Game",
+            "fileSize": "87 GB",
+            "executable": "runtime\\media\\hypervisor-launcher.exe",
+            "arguments": [],
+            "buildID": "24 March 2025",
+            "filename": "00639.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hypervisor 2.0",
+      "Working on",
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1774844875259_1",
+    "Name": "Like a Dragon Ishin",
+    "SortingName": "Yakuza 00.04",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Like%20a%20Dragon%20Ishin%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Like%20a%20Dragon%20Ishin%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Like%20a%20Dragon%20Ishin%20Trailer.mp4",
+    "videoStart": 2.6,
+    "videoEnd": 111.284423,
+    "MusicUrl": "https://archive.org/download/RPRM001/Like%20a%20Dragon%20Ishin%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP019",
+            "name": "AMD & INTEL",
+            "platform": "PC Game",
+            "fileSize": "58 GB",
+            "executable": "LikeaDragonIshin\\Binaries\\Win64\\hypervisor-launcher.exe",
+            "arguments": [],
+            "buildID": "24 March 2025",
+            "filename": "00640.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hypervisor 2.0",
+      "Working on",
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1774844875259_2",
+    "Name": "Mega Man StarForce Legacy Collection",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Mega%20Man%20StarForce%20Legacy%20Collection%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Mega%20Man%20StarForce%20Legacy%20Collection%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Mega%20Man%20StarForce%20Legacy%20Collection%20Trailer.mp4",
+    "videoStart": 13.791825,
+    "videoEnd": 118.107892,
+    "MusicUrl": "https://archive.org/download/RPRM001/Mega%20Man%20StarForce%20Legacy%20Collection%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP019",
+            "name": "AMD & INTEL",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "executable": "MEGAMAN_STARFORCE_Legacy_Collection.exe",
+            "arguments": [],
+            "buildID": "27 March 2026",
+            "filename": "00641.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hypervisor 2.0",
+      "Working on",
       "Hide"
     ]
   }
