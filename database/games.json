@@ -147529,5 +147529,40 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1774978201583_0",
+    "Name": "Super Meat Boy 3D",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Super%20Meat%20Boy%203D%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Super%20Meat%20Boy%203D%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Super%20Meat%20Boy%203D%20Trailer.mp4",
+    "videoStart": 2.7,
+    "videoEnd": 60.817576,
+    "MusicUrl": "https://archive.org/download/RPRM001/Super%20Meat%20Boy%203D%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP020",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "filename": "00652.zip",
+            "executable": "SMB.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
