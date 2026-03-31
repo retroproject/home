@@ -126566,7 +126566,7 @@
     "videoEnd": 93,
     "MusicUrl": "https://archive.org/download/retromedia/RAIDOU%20Remastered%20The%20Mystery%20of%20The%20Soulless%20Army%20Theme.mp3",
     "PlatformNames": [
-      "Sony PlayStation 4"
+      "PC Game"
     ],
     "GenreNames": [
       "Japanese Role-Playing"
@@ -126575,22 +126575,25 @@
       "Atlus"
     ],
     "downloadInfo": {
-      "Sony PlayStation 4": {
+      "PC Game": {
         "versions": [
           {
-            "identifier": "P0400",
-            "name": "Vanilla",
-            "platform": "Sony PlayStation 4",
-            "fileSize": "20GB",
+            "identifier": "RPRP020",
+            "name": "AMD & INTEL",
+            "platform": "PC Game",
+            "fileSize": "15GB",
             "arguments": [],
-            "emulator": "ShadPS4",
-            "buildID": "1.2",
-            "romFile": "eboot.bin",
-            "filename": "RAIDOU Remastered The Mystery of The Soulless Army.zip"
+            "buildID": "15 October 2025",
+            "executable": "Raidou TMOTSA.exe",
+            "filename": "00651.zip"
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Hypervisor 2.0",
+      "Hypervisor"
+    ]
   },
   {
     "_id": "game_1757945847088_0",
@@ -146450,9 +146453,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1774373473008_1",
@@ -146489,9 +146490,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1774373473008_2",
@@ -146528,9 +146527,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1774373473008_3",
@@ -146567,9 +146564,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1774373473008_4",
@@ -146606,9 +146601,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1774373473008_5",
@@ -146645,9 +146638,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1774373473008_6",
@@ -146685,7 +146676,6 @@
       }
     },
     "Tags": [
-      "Hide",
       "Hypervisor 2.0",
       "Working on"
     ]
@@ -146725,9 +146715,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1774373473008_8",
@@ -146764,9 +146752,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1774566466703_0",
@@ -146805,8 +146791,7 @@
     },
     "Tags": [
       "Hypervisor 2.0",
-      "Working on",
-      "Hide"
+      "Working on"
     ]
   },
   {
@@ -146844,9 +146829,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1774574642098_0",
@@ -146885,8 +146868,7 @@
     },
     "Tags": [
       "Working on",
-      "Hypervisor 2.0",
-      "Hide"
+      "Hypervisor 2.0"
     ]
   },
   {
@@ -146926,8 +146908,7 @@
     },
     "Tags": [
       "Working on",
-      "Hypervisor 2.0",
-      "Hide"
+      "Hypervisor 2.0"
     ]
   },
   {
@@ -146966,7 +146947,6 @@
       }
     },
     "Tags": [
-      "Hide",
       "Hypervisor 2.0",
       "Working on"
     ]
@@ -147007,7 +146987,6 @@
       }
     },
     "Tags": [
-      "Hide",
       "Hypervisor 2.0",
       "Working on"
     ]
@@ -147048,7 +147027,6 @@
       }
     },
     "Tags": [
-      "Hide",
       "Hypervisor 2.0",
       "Working on"
     ]
@@ -147088,9 +147066,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1774844875259_0",
@@ -147129,8 +147105,7 @@
     },
     "Tags": [
       "Hypervisor 2.0",
-      "Working on",
-      "Hide"
+      "Working on"
     ]
   },
   {
@@ -147170,8 +147145,7 @@
     },
     "Tags": [
       "Hypervisor 2.0",
-      "Working on",
-      "Hide"
+      "Working on"
     ]
   },
   {
@@ -147211,8 +147185,7 @@
     },
     "Tags": [
       "Hypervisor 2.0",
-      "Working on",
-      "Hide"
+      "Working on"
     ]
   },
   {
@@ -147250,9 +147223,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1774893012805_0",
@@ -147289,9 +147260,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1774893012805_1",
@@ -147328,9 +147297,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1774893012805_2",
@@ -147367,9 +147334,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1774893012805_3",
@@ -147406,9 +147371,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1774949830223_0",
@@ -147445,9 +147408,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1774949830223_1",
@@ -147484,9 +147445,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1774951893789_0",
@@ -147532,9 +147491,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1774954144847_0",
@@ -147571,8 +147528,6 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   }
 ]
