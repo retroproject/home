@@ -49571,12 +49571,12 @@
         "versions": [
           {
             "identifier": "retro-nx",
-            "filename": "Famicom Detective Club Emio The Smiling Man.ns",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "2GB",
-            "romFile": "Famicom Detective Club Emio The Smiling Man.ns"
+            "romFile": "Famicom Detective Club Emio The Smiling Man.nsp",
+            "filename": "Famicom Detective Club Emio The Smiling Man.nsp"
           }
         ]
       }
@@ -102276,7 +102276,7 @@
     },
     "Tags": [
       "Hypervisor 2.0",
-      "Working on"
+      "Hypervisor"
     ]
   },
   {
@@ -102545,20 +102545,20 @@
         "versions": [
           {
             "identifier": "retro-ps2",
-            "filename": "Dot Hack Infection.iso",
             "name": "Vanilla",
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "3GB",
-            "romFile": "Dot Hack Infection.iso"
+            "romFile": "Dot Hack Infection.iso",
+            "filename": "Dot Hack Infection.iso"
           },
           {
             "identifier": "retro-ps2",
-            "filename": "Dot Hack Infection HD Textures.zip",
             "name": "HD Textures",
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
-            "fileSize": "2GB"
+            "fileSize": "2GB",
+            "filename": "Dot Hack Infection HD Textures.zip"
           }
         ]
       }
@@ -109207,28 +109207,16 @@
       "Headcannon"
     ],
     "downloadInfo": {
-      "Nintendo Switch": {
-        "versions": [
-          {
-            "identifier": "retro-nx",
-            "name": "Vanilla",
-            "platform": "Nintendo Switch",
-            "emulator": "Yuzu",
-            "fileSize": "5GB",
-            "romFile": "Sonic Origins.nsp",
-            "filename": ".nsp"
-          }
-        ]
-      },
       "PC Game": {
         "versions": [
           {
             "identifier": "RPRP018",
-            "name": "Vanilla",
+            "name": "AMD & INTEL",
             "platform": "PC Game",
-            "fileSize": "500MB",
+            "fileSize": "8GB",
             "arguments": [],
             "buildID": "25 October 2023",
+            "executable": "build/main/projects/exec/steamclient_loader_x64.exe",
             "filename": "00619.zip"
           }
         ]
@@ -117535,30 +117523,33 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/f27b3ce0-cd78-47a9-af2c-5539405af579.mp3",
     "PlatformNames": [
-      "Nintendo Switch"
+      "PC Game"
     ],
     "GenreNames": [
       "Fighting"
     ],
     "DeveloperNames": [
-      "Arc System Works",
-      "Atlus"
+      "Arc System Works"
     ],
     "downloadInfo": {
-      "Nintendo Switch": {
+      "PC Game": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Shin Megami Tensei Persona 4 Arena Ultimax.nsp",
-            "name": "Vanilla",
-            "platform": "Nintendo Switch",
-            "emulator": "Yuzu",
-            "fileSize": "15GB",
-            "romFile": "Shin Megami Tensei Persona 4 Arena Ultimax.nsp"
+            "identifier": "RPRP020",
+            "name": "AMD & INTEL",
+            "platform": "PC Game",
+            "fileSize": "25GB",
+            "arguments": [],
+            "buildID": "20 September 2022",
+            "executable": "hypervisor-launcher.exe",
+            "filename": "00643.zip"
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Hypervisor 2.0"
+    ]
   },
   {
     "_id": "f2886dce-6a41-4ae8-ab35-c004418de312",
@@ -137642,7 +137633,7 @@
             "arguments": [],
             "filenames": [
               "Marvel Ultimate Alliance 3 The Black Order.nsp",
-              "Marvel Ultimate Alliance 3 The Black Order Citron Update.nsp"
+              "Marvel Ultimate Alliance 3 The Black Order Citron Update.zip"
             ],
             "emulator": "Citron",
             "buildID": "4.0.1",
@@ -139236,7 +139227,7 @@
         "versions": [
           {
             "identifier": "RPRP018",
-            "name": "Vanilla",
+            "name": "AMD & INTEL",
             "platform": "PC Game",
             "fileSize": "80GB",
             "arguments": [],
@@ -139319,7 +139310,10 @@
             "emulator": "Citron",
             "arguments": [],
             "buildID": "2.0.0",
-            "filename": "Pokémon Legends Z A.nsp"
+            "filenames": [
+              "Pokémon Legends Z A.nsp",
+              "Pokemon Legends Z A Citron Update.zip"
+            ]
           }
         ]
       }
@@ -139345,20 +139339,6 @@
     "GenreNames": [],
     "DeveloperNames": [],
     "downloadInfo": {
-      "Nintendo Switch": {
-        "versions": [
-          {
-            "identifier": "E0701",
-            "name": "Vanilla",
-            "platform": "Nintendo Switch",
-            "fileSize": "5 GB",
-            "filename": "DRAGON QUEST VII Reimagined.nsp",
-            "romFile": "DRAGON QUEST VII Reimagined.nsp",
-            "emulator": "Citron",
-            "arguments": []
-          }
-        ]
-      },
       "PC Game": {
         "versions": [
           {
@@ -144129,7 +144109,7 @@
         "versions": [
           {
             "identifier": "RPRP018",
-            "name": "Vanilla",
+            "name": "AMD & INTEL",
             "platform": "PC Game",
             "fileSize": "86 GB",
             "executable": "OakGame\\Binaries\\Win64\\steamclient_loader_x64.exe",
@@ -146974,7 +146954,7 @@
         "versions": [
           {
             "identifier": "RPRP019",
-            "name": "Vanilla",
+            "name": "AMD & INTEL",
             "platform": "PC Game",
             "fileSize": "26 GB",
             "executable": "Iris\\Binaries\\Win64\\steamclient_loader_x64.exe",
@@ -147015,7 +146995,7 @@
         "versions": [
           {
             "identifier": "RPRP019",
-            "name": "Vanilla",
+            "name": "AMD & INTEL",
             "platform": "PC Game",
             "fileSize": "55 GB",
             "executable": "runtime\\media\\hypervisor-launcher.exe",
@@ -147056,7 +147036,7 @@
         "versions": [
           {
             "identifier": "RPRP019",
-            "name": "Vanilla",
+            "name": "AMD & INTEL",
             "platform": "PC Game",
             "fileSize": "46 GB",
             "executable": "MafiaTheOldCountry\\Binaries\\Win64\\steamclient_loader_x64.exe",
@@ -147245,9 +147225,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Xenosaga%20Pied%20Piper%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Xenosaga%20Pied%20Piper%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Xenosaga%20Pied%20Piper%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/RPRM001/Xenosaga%20Pied%20Piper%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -147269,6 +147249,161 @@
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1774893012805_0",
+    "Name": "Banquet for Fools",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Banquet%20for%20Fools%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Banquet%20for%20Fools%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Banquet%20for%20Fools%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP020",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "31 GB",
+            "filename": "00644.zip",
+            "executable": "Banquet for Fools.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1774893012805_1",
+    "Name": "Duskpunk",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Duskpunk%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Duskpunk%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Duskpunk%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP020",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "filename": "00645.zip",
+            "executable": "Duskpunk.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1774893012805_2",
+    "Name": "Eclipsium",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Eclipsium%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Eclipsium%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Eclipsium%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Eclipsium%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP020",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "filename": "00646.zip",
+            "executable": "Eclipsium.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1774893012805_3",
+    "Name": "Rue Valley",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Rue%20Valley%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Rue%20Valley%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Rue%20Valley%20Trailer.mp4",
+    "videoStart": 3.595186,
+    "videoEnd": 86.439925,
+    "MusicUrl": "https://archive.org/download/RPRM001/Rue%20Valley%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP020",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "16 GB",
+            "filename": "00647.zip",
+            "executable": "Rue Valley.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
   }
 ]
