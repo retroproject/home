@@ -8029,7 +8029,8 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/1150197d-f4c9-4511-84b6-f6e21c69cc84.mp3",
     "PlatformNames": [
-      "Nintendo Entertainment System"
+      "Nintendo Entertainment System",
+      "PC Game"
     ],
     "GenreNames": [
       "Adventure"
@@ -8038,7 +8039,7 @@
       "Nintendo"
     ],
     "downloadInfo": {
-      "Nintendo Entertainment System": {
+      "Cross-Platform": {
         "versions": [
           {
             "identifier": "retro-nes",
@@ -8065,6 +8066,17 @@
               "Perils of Darkness 2.0"
             ],
             "filename": "The Legend of Zelda.zip"
+          },
+          {
+            "identifier": "RPRP020",
+            "filename": "00655.zip",
+            "platform": "PC Game",
+            "name": "Jeb's Version",
+            "fileSize": "100MB",
+            "buildID": "1.0.1",
+            "executableFiles": [
+              "jeb's Legend of Zelda.exe"
+            ]
           },
           {
             "identifier": "retro-nes",
@@ -102275,8 +102287,7 @@
       }
     },
     "Tags": [
-      "Hypervisor 2.0",
-      "Hypervisor"
+      "Hypervisor 2.0"
     ]
   },
   {
@@ -126591,8 +126602,7 @@
       }
     },
     "Tags": [
-      "Hypervisor 2.0",
-      "Hypervisor"
+      "Hypervisor 2.0"
     ]
   },
   {
@@ -136706,11 +136716,12 @@
   {
     "_id": "game_1769609393260_0",
     "Name": "WWE 2K25",
-    "SortingName": "",
+    "SortingName": "WWE 24",
     "Description": "Create your own <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>superstar</b> and journey through <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>WWE glory</b> in the compelling <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>MyRISE</b> story mode.<br> Start as an <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>unknown competitor</b> and climb the ranks, forging <b style='color: #CD5C5C; text-shadow: 0 0 8px #CD5C5C;'>alliances and rivalries</b> with legendary <b style='color: #F08080; text-shadow: 0 0 8px #F08080;'>WWE Superstars</b>.<br> Alternatively, explore <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>The Bloodline</b> dynasty through an immersive <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Showcase mode</b>, experiencing the <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Anoaʻi family</b> legacy with <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>Roman Reigns</b>, <b style='color: #CD5C5C; text-shadow: 0 0 8px #CD5C5C;'>The Rock</b>, and wrestling icons.<br> Master the new <b style='color: #F08080; text-shadow: 0 0 8px #F08080;'>Giant wrestler class</b> with unique mechanics, engage in <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>intense multi-gender matches</b>, and dominate revolutionary <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>gimmick matches</b>.<br> Rise to become a <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>WWE Champion</b> and cement your place in <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>wrestling immortality</b>.",
     "DescriptionArabic": "<div dir='rtl'>أنشئ <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>نجماً خاصاً</b> بك وقم برحلة عبر <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>مجد WWE</b> في وضع قصة <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>MyRISE</b> المقنع.<br> ابدأ كـ <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>متنافس مجهول</b> وتسلق الرتب، وشكل <b style='color: #CD5C5C; text-shadow: 0 0 8px #CD5C5C;'>التحالفات والعداوات</b> مع <b style='color: #F08080; text-shadow: 0 0 8px #F08080;'>نجوم WWE الأسطوريين</b>.<br> وبدلاً من ذلك، اكتشف <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>عائلة The Bloodline</b> من خلال وضع <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Showcase</b> المنغمس، واختبر إرث عائلة <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Anoaʻi</b> مع <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>Roman Reigns</b> و <b style='color: #CD5C5C; text-shadow: 0 0 8px #CD5C5C;'>The Rock</b>.<br> أتقن فئة <b style='color: #F08080; text-shadow: 0 0 8px #F08080;'>مصارع جيانت</b> الجديدة بآليات فريدة، وشارك في <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>مباريات متعددة الجنسين مكثفة</b>، وهيمن على <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>مباريات خدعة</b> ثورية.<br> ارتفع لتصبح <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>بطل WWE</b> وأرسخ مكانك في <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الخلود الرياضي</b>.</div>",
     "ReleaseDate": "2025",
     "CriticScore": 80,
+    "Length": 5,
     "BackgroundUrl": "https://archive.org/download/RPRM001/WWE%202K25%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/WWE%202K25%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/WWE%202K25%20Trailer.mp4",
@@ -136742,8 +136753,7 @@
         ]
       }
     },
-    "Tags": [],
-    "Length": 5
+    "Tags": []
   },
   {
     "_id": "game_1769621092805_0",
@@ -144151,30 +144161,19 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP015",
-            "name": "AMD",
+            "identifier": "RPRP020",
+            "name": "AMD & INTEL",
             "platform": "PC Game",
             "fileSize": "20 GB",
-            "executable": "SOUL HACKERS2.exe",
+            "executable": "steamclient_loader_x64.exe",
             "arguments": [],
             "buildID": "31 October 2025",
-            "filename": "00537.zip"
-          },
-          {
-            "identifier": "RPRP015",
-            "name": "INTEL",
-            "platform": "PC Game",
-            "fileSize": "20 GB",
-            "executable": "SOUL HACKERS2.exe",
-            "arguments": [],
-            "buildID": "31 October 2025",
-            "filename": "00538.zip"
+            "filename": "00653.zip"
           }
         ]
       }
     },
     "Tags": [
-      "Hypervisor",
       "Hypervisor 2.0"
     ]
   },
@@ -144849,29 +144848,19 @@
         "versions": [
           {
             "identifier": "RPRP017",
-            "name": "AMD",
+            "name": "AMD & INTEL",
             "platform": "PC Game",
             "fileSize": "120 GB",
             "executable": "AtomicHeart\\Binaries\\Win64\\HypervisorLauncher.exe",
             "arguments": [],
             "buildID": "28 January 2025",
             "filename": "00565.zip"
-          },
-          {
-            "identifier": "RPRP017",
-            "name": "INTEL",
-            "platform": "PC Game",
-            "fileSize": "120 GB",
-            "executable": "AtomicHeart\\Binaries\\Win64\\HypervisorLauncher.exe",
-            "arguments": [],
-            "buildID": "28 January 2025",
-            "filename": "00566.zip"
           }
         ]
       }
     },
     "Tags": [
-      "Hypervisor"
+      "Hypervisor 2.0"
     ]
   },
   {
@@ -147533,7 +147522,7 @@
   {
     "_id": "game_1774978201583_0",
     "Name": "Super Meat Boy 3D",
-    "SortingName": "",
+    "SortingName": "Super Meat Boy 03",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -147564,5 +147553,45 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1774979528929_0",
+    "Name": "WWE 2K26",
+    "SortingName": "WWE 25",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/WWE%202K26%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/WWE%202K26%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/WWE%202K26%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP020",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "129 GB",
+            "executable": "steamclient_loader_x64.exe",
+            "arguments": [],
+            "buildID": "30 March 2026",
+            "filename": "00654.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hypervisor 2.0",
+      "Hide"
+    ]
   }
 ]
