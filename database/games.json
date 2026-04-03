@@ -148731,9 +148731,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "8 GB",
-            "filename": "00657.zip",
             "executable": "Darwin's Paradox.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "2 April 2026",
+            "filename": "00657.zip"
           }
         ]
       }
@@ -148766,9 +148767,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "6 GB",
-            "filename": "00658.zip",
             "executable": "GRIME.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "18 February 2024",
+            "filename": "00658.zip"
           }
         ]
       }
@@ -148801,9 +148803,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "21 GB",
-            "filename": "00659.zip",
             "executable": "GRIME II.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "2 April 2026",
+            "filename": "00659.zip"
           }
         ]
       }
@@ -148819,9 +148822,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Need%20For%20Speed%20Unbound%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Need%20For%20Speed%20Unbound%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Need%20For%20Speed%20Unbound%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 81.594505,
     "MusicUrl": "https://archive.org/download/RPRM001/Need%20For%20Speed%20Unbound%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -148840,6 +148843,81 @@
             "arguments": [],
             "buildID": "12 December 2024",
             "filename": "00660.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hypervisor 2.0"
+    ]
+  },
+  {
+    "_id": "game_1775182119937_0",
+    "Name": "Day of the Tentacle Remastered",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Day%20of%20the%20Tentacle%20Remastered%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Day%20of%20the%20Tentacle%20Remastered%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Day%20of%20the%20Tentacle%20Remastered%20Trailer.mp4",
+    "videoStart": 2,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Day%20of%20the%20Tentacle%20Remastered%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP020",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "Dott.exe",
+            "arguments": [],
+            "buildID": "8 February 2021",
+            "filename": "00662.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1775182119937_1",
+    "Name": "FINAL FANTASY TACTICS The Ivalice Chronicles",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/FINAL%20FANTASY%20TACTICS%20The%20Ivalice%20Chronicles%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/FINAL%20FANTASY%20TACTICS%20The%20Ivalice%20Chronicles%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/FINAL%20FANTASY%20TACTICS%20The%20Ivalice%20Chronicles%20Trailer.mp4",
+    "videoStart": 3.655931,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/FINAL%20FANTASY%20TACTICS%20The%20Ivalice%20Chronicles%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP020",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "10 GB",
+            "executable": "FFT_enhanced.exe",
+            "arguments": [],
+            "buildID": "17 November 2025",
+            "filename": "00663.zip"
           }
         ]
       }
