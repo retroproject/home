@@ -41957,7 +41957,7 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/5aaed7b1-984c-46c6-baf2-31abad2470a2.mp3",
     "PlatformNames": [
-      "Nintendo Switch"
+      "PC Game"
     ],
     "GenreNames": [
       "Adventure"
@@ -41966,20 +41966,24 @@
       "Zoink Games"
     ],
     "downloadInfo": {
-      "Nintendo Switch": {
+      "PC Game": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Lost In Random.nsp",
-            "name": "Vanilla",
-            "platform": "Nintendo Switch",
-            "emulator": "Yuzu",
-            "fileSize": "5GB",
-            "romFile": "Lost In Random.nsp"
+            "identifier": "RPRP020",
+            "name": "AMD & INTEL",
+            "platform": "PC Game",
+            "fileSize": "500MB",
+            "arguments": [],
+            "executable": "Lost In Random.exe",
+            "buildID": "25 January 2023",
+            "filename": "00670.zip"
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Hypervisor 2.0"
+    ]
   },
   {
     "_id": "5ac2d9c3-c813-498e-af34-3b91b1443b81",
@@ -56765,7 +56769,7 @@
   {
     "_id": "78244757-6ff8-46dc-ae36-19abdd88b081",
     "Name": "Warhammer Age of Sigmar: Storm Ground",
-    "SortingName": "Warhammer 08",
+    "SortingName": "Warhammer 08.01",
     "Description": "In the shattered <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Mortal Realms</span>, three mighty factions clash for control of ancient <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>realmgates</span> that hold the power to reshape reality itself. The noble <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Stormcast Eternals</span> seek to bring order and justice, while the relentless <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Nighthaunt</span> spread death and despair, and the savage <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Maggotkin of Nurgle</span> corrupt everything with their putrid blessings.<br>As war rages across mystical battlegrounds, each faction discovers that the realmgates are responding to an ancient prophecy that speaks of a coming <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Necroquake</span>. The winner of this three-way conflict will not only claim dominion over the realm gates but potentially determine the fate of all existence in the <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>Age of Sigmar</span>.",
     "DescriptionArabic": "<div dir='rtl'>في <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>العوالم الفانية</span> المحطمة، تتصادم ثلاث فصائل قوية للسيطرة على <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>بوابات العوالم</span> القديمة التي تحمل قوة إعادة تشكيل الواقع نفسه. <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>الخالدون العاصفون</span> النبلاء يسعون لجلب النظام والعدالة، بينما ينشر <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>أشباح الليل</span> اللا يعرفون الرحمة الموت واليأس، ويفسد <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>عبدة الدود المتوحشون لنورجل</span> كل شيء ببركاتهم العفنة.<br>بينما تحتدم الحرب عبر ساحات معارك صوفية، تكتشف كل فصيل أن بوابات العوالم تستجيب لنبوءة قديمة تتحدث عن <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>زلزال الموت</span> القادم. الفائز في هذا الصراع الثلاثي لن يطالب فقط بالهيمنة على بوابات العوالم بل ربما يحدد مصير كل الوجود في <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>عصر سيجمار</span>.</div>",
     "ReleaseDate": "2021",
@@ -149204,6 +149208,343 @@
             "arguments": [],
             "buildID": "17 November 2025",
             "filename": "00663.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hypervisor 2.0"
+    ]
+  },
+  {
+    "_id": "game_1775223533886_0",
+    "Name": "GRID 2",
+    "SortingName": "",
+    "Description": "A <span style='color:#FF6B35; font-weight:bold; text-shadow: 0 0 8px #FF6B35;'>visionary</span> entrepreneur named Patrick Callahan recruits a rising driver into his fledgling <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>World Series Racing</span> league, chasing a dream of making motorsport the most <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>electrifying</span> spectacle on the planet.<br>The league begins humbly on the <span style='color:#4FC3F7; font-weight:bold; text-shadow: 0 0 8px #4FC3F7;'>American</span> circuits, but ambition drives it across <span style='color:#66BB6A; font-weight:bold; text-shadow: 0 0 8px #66BB6A;'>Europe</span> and ultimately into the <span style='color:#BA68C8; font-weight:bold; text-shadow: 0 0 8px #BA68C8;'>Asian</span> motorsport scene.<br>Each region demands mastery of a different <span style='color:#EF5350; font-weight:bold; text-shadow: 0 0 8px #EF5350;'>racing discipline</span>, from street circuits to endurance-style <span style='color:#FFA726; font-weight:bold; text-shadow: 0 0 8px #FFA726;'>open-wheel</span> battles.<br>The pressure of building a <span style='color:#26C6DA; font-weight:bold; text-shadow: 0 0 8px #26C6DA;'>global brand</span> rests squarely on the driver's shoulders, fueled by fan support and <span style='color:#FFEE58; font-weight:bold; text-shadow: 0 0 8px #FFEE58;'>social notoriety</span>.<br>Victory expands the <span style='color:#AB47BC; font-weight:bold; text-shadow: 0 0 8px #AB47BC;'>league's reach</span>, while defeat threatens to collapse everything Callahan has built.<br>The quest to crown a true <span style='color:#FF7043; font-weight:bold; text-shadow: 0 0 8px #FF7043;'>world champion</span> across every style of <span style='color:#42A5F5; font-weight:bold; text-shadow: 0 0 8px #42A5F5;'>motorsport</span> drives every race toward something far greater than just the <span style='color:#EC407A; font-weight:bold; text-shadow: 0 0 8px #EC407A;'>podium</span>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>يمتلك <span style='color:#FF6B35; font-weight:bold; text-shadow: 0 0 8px #FF6B35;'>رجل الاعمال الطموح</span> باتريك كالاهان رؤية جريئة، يستقطب من خلالها سائقا موهوبا لينضم الى دوريه الناشئة في <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>سباقات البطولة العالمية</span>.<br>يبدا المشوار من الحلبات <span style='color:#4FC3F7; font-weight:bold; text-shadow: 0 0 8px #4FC3F7;'>الامريكية</span> الساحرة، ثم يتمدد الحلم ليشمل ارقى مضامير <span style='color:#66BB6A; font-weight:bold; text-shadow: 0 0 8px #66BB6A;'>اوروبا</span> وصولا الى الساحة <span style='color:#BA68C8; font-weight:bold; text-shadow: 0 0 8px #BA68C8;'>الاسيوية</span> الاسرة.<br>تتطلب كل منطقة اتقانا حقيقيا لاسلوب <span style='color:#EF5350; font-weight:bold; text-shadow: 0 0 8px #EF5350;'>سباق مختلف</span>، من الشوارع المتعرجة الى معارك <span style='color:#FFA726; font-weight:bold; text-shadow: 0 0 8px #FFA726;'>العجلات المفتوحة</span> المثيرة.<br>يقع على عاتق السائق عبء بناء <span style='color:#26C6DA; font-weight:bold; text-shadow: 0 0 8px #26C6DA;'>علامة عالمية</span> بالقوة والانتشار الجماهيري والشهرة <span style='color:#FFEE58; font-weight:bold; text-shadow: 0 0 8px #FFEE58;'>الرقمية</span>.<br>الفوز يوسع <span style='color:#AB47BC; font-weight:bold; text-shadow: 0 0 8px #AB47BC;'>نفوذ الدوري</span>، اما الهزيمة فتهدد كل ما شيده كالاهان من احلام.<br>السعي لتتويج <span style='color:#FF7043; font-weight:bold; text-shadow: 0 0 8px #FF7043;'>بطل عالمي</span> حقيقي عبر جميع انواع <span style='color:#42A5F5; font-weight:bold; text-shadow: 0 0 8px #42A5F5;'>الموتوسبور</span> يجعل كل سباق اكثر من مجرد تنافس على <span style='color:#EC407A; font-weight:bold; text-shadow: 0 0 8px #EC407A;'>المنصة</span>.<br></div>",
+    "ReleaseDate": "2013",
+    "CriticScore": 80,
+    "Length": 35,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/GRID%202%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/GRID%202%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/GRID%202%20Trailer.mp4",
+    "videoStart": 4.32951,
+    "videoEnd": 69.215705,
+    "MusicUrl": "https://archive.org/download/RPRM001/GRID%202%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Racing"
+    ],
+    "DeveloperNames": [
+      "Codemasters"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP020",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "9 GB",
+            "executable": "grid2_avx.exe",
+            "arguments": [],
+            "buildID": "25 September 2014",
+            "filename": "00665.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1775223533887_1",
+    "Name": "GRID 2019",
+    "SortingName": "GRID 03",
+    "Description": "Six <span style='color:#FF6B35; font-weight:bold; text-shadow: 0 0 8px #FF6B35;'>brutal</span> racing threads pull you toward a single <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>championship</span> crown, spanning the most prestigious circuits on earth.<br>Touring cars, GT <span style='color:#EF5350; font-weight:bold; text-shadow: 0 0 8px #EF5350;'>monsters</span>, tuned <span style='color:#4FC3F7; font-weight:bold; text-shadow: 0 0 8px #4FC3F7;'>street machines</span>, and <span style='color:#66BB6A; font-weight:bold; text-shadow: 0 0 8px #66BB6A;'>open-wheelers</span> each demand a completely different touch on the <span style='color:#FFA726; font-weight:bold; text-shadow: 0 0 8px #FFA726;'>throttle</span>.<br>Rivals on track remember every <span style='color:#EC407A; font-weight:bold; text-shadow: 0 0 8px #EC407A;'>collision</span>, and a misjudged bump can transform a neutral opponent into a relentless <span style='color:#AB47BC; font-weight:bold; text-shadow: 0 0 8px #AB47BC;'>nemesis</span>.<br>A roster of 400 unique <span style='color:#26C6DA; font-weight:bold; text-shadow: 0 0 8px #26C6DA;'>drivers</span> each carry their own tendencies, habits, and <span style='color:#FFEE58; font-weight:bold; text-shadow: 0 0 8px #FFEE58;'>breaking points</span>.<br>Races erupt in Hollywood-style <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>contact</span> and cinematic near-misses that keep every lap feeling <span style='color:#42A5F5; font-weight:bold; text-shadow: 0 0 8px #42A5F5;'>dangerous</span> and alive.<br>Conquer enough events and you qualify for the <span style='color:#FF7043; font-weight:bold; text-shadow: 0 0 8px #FF7043;'>GRID World Series</span>, the ultimate test of whether you belong among racing's <span style='color:#BA68C8; font-weight:bold; text-shadow: 0 0 8px #BA68C8;'>elite</span>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>ست <span style='color:#FF6B35; font-weight:bold; text-shadow: 0 0 8px #FF6B35;'>مسارات شرسة</span> تقودك نحو <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>تاج البطولة</span> عبر ارقى حلبات العالم.<br>عمالقة الـ GT و<span style='color:#4FC3F7; font-weight:bold; text-shadow: 0 0 8px #4FC3F7;'>الات الشارع</span> المتوثبة و<span style='color:#66BB6A; font-weight:bold; text-shadow: 0 0 8px #66BB6A;'>العجلات المفتوحة</span> تتطلب اسلوبا مختلفا تماما على دواسة <span style='color:#FFA726; font-weight:bold; text-shadow: 0 0 8px #FFA726;'>الوقود</span>.<br>يتذكر المنافسون كل <span style='color:#EC407A; font-weight:bold; text-shadow: 0 0 8px #EC407A;'>تصادم</span> في الحلبة، وخطا واحد في التقدير قد يحول منافسا هادئا الى <span style='color:#AB47BC; font-weight:bold; text-shadow: 0 0 8px #AB47BC;'>عدو لدود</span> لا يرحم.<br>400 <span style='color:#26C6DA; font-weight:bold; text-shadow: 0 0 8px #26C6DA;'>سائق فريد</span> يحمل كل منهم اسلوبه الخاص وطبيعته ونقطة <span style='color:#FFEE58; font-weight:bold; text-shadow: 0 0 8px #FFEE58;'>الانهيار</span> التي لا تتجاوزها.<br>تنفجر السباقات بتماسات <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>هوليودية</span> ولحظات مشوقة تجعل كل لفة تبدو <span style='color:#42A5F5; font-weight:bold; text-shadow: 0 0 8px #42A5F5;'>خطيرة</span> وحية.<br>اثبت جدارتك في مسارات كافية وستكون بوابتك مفتوحة نحو <span style='color:#FF7043; font-weight:bold; text-shadow: 0 0 8px #FF7043;'>GRID World Series</span>، الاختبار الحقيقي لمكانتك بين <span style='color:#BA68C8; font-weight:bold; text-shadow: 0 0 8px #BA68C8;'>نخبة السباقات</span>.<br></div>",
+    "ReleaseDate": "2019",
+    "CriticScore": 80,
+    "Length": 20,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/GRID%202019%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/GRID%202019%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/GRID%202019%20Trailer.mp4",
+    "videoStart": 2.363701,
+    "videoEnd": 65.526712,
+    "MusicUrl": "https://archive.org/download/RPRM001/GRID%202019%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Racing"
+    ],
+    "DeveloperNames": [
+      "Codemasters"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP020",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "77 GB",
+            "executable": "Grid_dx12.exe",
+            "arguments": [],
+            "buildID": "26 November 2020",
+            "filename": "00666.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1775223533887_2",
+    "Name": "GRID Autosport",
+    "SortingName": "GRID 02",
+    "Description": "Five <span style='color:#FF6B35; font-weight:bold; text-shadow: 0 0 8px #FF6B35;'>distinct</span> racing disciplines each feel like a sport unto themselves, from the door-to-door chaos of <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>touring cars</span> to the precision ballet of <span style='color:#4FC3F7; font-weight:bold; text-shadow: 0 0 8px #4FC3F7;'>open-wheel</span> competition.<br>Building your career means driving for <span style='color:#66BB6A; font-weight:bold; text-shadow: 0 0 8px #66BB6A;'>rival teams</span>, earning trust lap by lap, and climbing toward contracts with the most <span style='color:#AB47BC; font-weight:bold; text-shadow: 0 0 8px #AB47BC;'>prestigious</span> outfits in the paddock.<br><span style='color:#EF5350; font-weight:bold; text-shadow: 0 0 8px #EF5350;'>Endurance</span> events test patience and consistency, while <span style='color:#FFA726; font-weight:bold; text-shadow: 0 0 8px #FFA726;'>tuner</span> racing rewards quick reflexes and mechanical intuition.<br>Street circuits demand <span style='color:#EC407A; font-weight:bold; text-shadow: 0 0 8px #EC407A;'>inch-perfect</span> judgement, punishing any driver who lets their focus slip for even a heartbeat.<br>An experience-based <span style='color:#26C6DA; font-weight:bold; text-shadow: 0 0 8px #26C6DA;'>progression</span> system tracks every achievement and unlocks fiercer <span style='color:#FFEE58; font-weight:bold; text-shadow: 0 0 8px #FFEE58;'>championships</span> the deeper your reputation grows.<br>The ultimate destination is the coveted <span style='color:#FF7043; font-weight:bold; text-shadow: 0 0 8px #FF7043;'>Legends Series</span>, where only the most <span style='color:#42A5F5; font-weight:bold; text-shadow: 0 0 8px #42A5F5;'>versatile</span> racers survive the heat of genuine <span style='color:#BA68C8; font-weight:bold; text-shadow: 0 0 8px #BA68C8;'>motorsport mastery</span>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>خمسة <span style='color:#FF6B35; font-weight:bold; text-shadow: 0 0 8px #FF6B35;'>تخصصات متباينة</span> تشعر كل منها وكانها رياضة قائمة بذاتها، من صخب سيارات <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>التورينج</span> الى رشاقة منافسات <span style='color:#4FC3F7; font-weight:bold; text-shadow: 0 0 8px #4FC3F7;'>العجلات المفتوحة</span>.<br>بناء مسيرتك يعني القيادة لصالح <span style='color:#66BB6A; font-weight:bold; text-shadow: 0 0 8px #66BB6A;'>فرق متنافسة</span>، وكسب الثقة لفة تلو الاخرى حتى تصل الى ارقى <span style='color:#AB47BC; font-weight:bold; text-shadow: 0 0 8px #AB47BC;'>الفرق المرموقة</span>.<br>سباقات <span style='color:#EF5350; font-weight:bold; text-shadow: 0 0 8px #EF5350;'>التحمل</span> تختبر صبرك وثباتك، فيما يكافئ سباق الـ<span style='color:#FFA726; font-weight:bold; text-shadow: 0 0 8px #FFA726;'>تيونر</span> ردود الفعل السريعة والحدس الميكانيكي.<br>حلبات الشوارع تستلزم <span style='color:#EC407A; font-weight:bold; text-shadow: 0 0 8px #EC407A;'>دقة متناهية</span>، وتعاقب بلا رحمة كل من يفقد تركيزه للحظة واحدة.<br>نظام <span style='color:#26C6DA; font-weight:bold; text-shadow: 0 0 8px #26C6DA;'>التقدم</span> المبني على الخبرة يتتبع انجازاتك ويفتح امامك <span style='color:#FFEE58; font-weight:bold; text-shadow: 0 0 8px #FFEE58;'>بطولات اشد</span> كلما اتسعت شهرتك.<br>الهدف النهائي هو المشاركة في <span style='color:#FF7043; font-weight:bold; text-shadow: 0 0 8px #FF7043;'>Legends Series</span>، حيث يصمد فقط اكثر السباقين <span style='color:#42A5F5; font-weight:bold; text-shadow: 0 0 8px #42A5F5;'>تنوعا</span> امام حرارة <span style='color:#BA68C8; font-weight:bold; text-shadow: 0 0 8px #BA68C8;'>احتراف السباقات</span> الحقيقية.<br></div>",
+    "ReleaseDate": "2014",
+    "CriticScore": 80,
+    "Length": 30,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/GRID%20Autosport%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/GRID%20Autosport%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/GRID%20Autosport%20Trailer.mp4",
+    "videoStart": 4.302695,
+    "videoEnd": 91.166742,
+    "MusicUrl": "https://archive.org/download/RPRM001/GRID%20Autosport%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Racing"
+    ],
+    "DeveloperNames": [
+      "Codemasters"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP020",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "16 GB",
+            "executable": "GRIDAutosport_avx.exe",
+            "arguments": [],
+            "buildID": "15 July 2019",
+            "filename": "00667.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1775223533887_3",
+    "Name": "GRID Legends",
+    "SortingName": "GRID 04",
+    "Description": "The underdog <span style='color:#FF6B35; font-weight:bold; text-shadow: 0 0 8px #FF6B35;'>Seneca Racing</span> team fights for survival inside the cutthroat world of the <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>GRID World Series</span>, desperate to prove they belong at the highest level.<br>Behind the wheel as <span style='color:#4FC3F7; font-weight:bold; text-shadow: 0 0 8px #4FC3F7;'>Driver 22</span>, every race is a chance to tip the scales against the <span style='color:#EF5350; font-weight:bold; text-shadow: 0 0 8px #EF5350;'>dominant</span> Ravenwest and the <span style='color:#AB47BC; font-weight:bold; text-shadow: 0 0 8px #AB47BC;'>slick</span> Voltz Racing outfit.<br>Off-track <span style='color:#66BB6A; font-weight:bold; text-shadow: 0 0 8px #66BB6A;'>rivalries</span> simmer with real tension as team politics, <span style='color:#FFA726; font-weight:bold; text-shadow: 0 0 8px #FFA726;'>sponsorship pressure</span>, and personal ambition collide in live-action cutscenes.<br>The narrative unfolds through a <span style='color:#26C6DA; font-weight:bold; text-shadow: 0 0 8px #26C6DA;'>documentary-style</span> presentation that blurs the line between sport and <span style='color:#FFEE58; font-weight:bold; text-shadow: 0 0 8px #FFEE58;'>drama</span>.<br>Every <span style='color:#EC407A; font-weight:bold; text-shadow: 0 0 8px #EC407A;'>victory</span> earned on track resonates far beyond the finish line, reshaping the team's future and <span style='color:#FF7043; font-weight:bold; text-shadow: 0 0 8px #FF7043;'>standing</span> in the paddock.<br>The path from <span style='color:#42A5F5; font-weight:bold; text-shadow: 0 0 8px #42A5F5;'>obscurity</span> to legend demands not just speed, but the will to endure when the season turns <span style='color:#BA68C8; font-weight:bold; text-shadow: 0 0 8px #BA68C8;'>against you</span>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>فريق <span style='color:#FF6B35; font-weight:bold; text-shadow: 0 0 8px #FF6B35;'>سينيكا ريسينغ</span> الصغير يخوض معركة البقاء في عالم <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>GRID World Series</span> القاسي، ساعيا لاثبات حقه في الوجود على اعلى المستويات.<br>خلف المقود بصفة <span style='color:#4FC3F7; font-weight:bold; text-shadow: 0 0 8px #4FC3F7;'>السائق 22</span>، كل سباق فرصة لتغيير موازين القوى ضد <span style='color:#EF5350; font-weight:bold; text-shadow: 0 0 8px #EF5350;'>المتسلط</span> رافنويست وفريق <span style='color:#AB47BC; font-weight:bold; text-shadow: 0 0 8px #AB47BC;'>فولتز</span> المدروع بالموارد.<br>خارج الحلبة تغلي <span style='color:#66BB6A; font-weight:bold; text-shadow: 0 0 8px #66BB6A;'>المنافسات</span> بتوتر حقيقي حين تتصادم سياسات الفريق وضغوط <span style='color:#FFA726; font-weight:bold; text-shadow: 0 0 8px #FFA726;'>الرعاية</span> مع الطموح الشخصي في مشاهد واقعية مباشرة.<br>تتكشف الاحداث باسلوب <span style='color:#26C6DA; font-weight:bold; text-shadow: 0 0 8px #26C6DA;'>وثائقي</span> يمزج بين الرياضة والـ<span style='color:#FFEE58; font-weight:bold; text-shadow: 0 0 8px #FFEE58;'>دراما</span> بصدق لافت.<br>كل <span style='color:#EC407A; font-weight:bold; text-shadow: 0 0 8px #EC407A;'>انتصار</span> على الاسفلت يتجاوز خط النهاية ويعيد رسم مستقبل الفريق و<span style='color:#FF7043; font-weight:bold; text-shadow: 0 0 8px #FF7043;'>مكانته</span> في عالم السباقات.<br>الطريق من <span style='color:#42A5F5; font-weight:bold; text-shadow: 0 0 8px #42A5F5;'>الغموض</span> الى الاسطورة لا يتطلب السرعة وحدها، بل الارادة الصلبة حين يتقلب الموسم <span style='color:#BA68C8; font-weight:bold; text-shadow: 0 0 8px #BA68C8;'>ضدك</span>.<br></div>",
+    "ReleaseDate": "2022",
+    "CriticScore": 80,
+    "Length": 20,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/GRID%20Legends%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/GRID%20Legends%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/GRID%20Legends%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/GRID%20Legends%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Racing"
+    ],
+    "DeveloperNames": [
+      "Codemasters"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP020",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "35 GB",
+            "executable": "GridLegends.exe",
+            "arguments": [],
+            "buildID": "8 June 2023",
+            "filename": "00668.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hypervisor 2.0"
+    ]
+  },
+  {
+    "_id": "game_1775223533887_4",
+    "Name": "Guidus Zero",
+    "SortingName": "",
+    "Description": "A <span style='color:#9C27B0; font-weight:bold; text-shadow: 0 0 8px #9C27B0;'>catastrophic</span> sinkhole known as the <span style='color:#FF6B35; font-weight:bold; text-shadow: 0 0 8px #FF6B35;'>Scar</span> tore open at the heart of a continent once ravaged by <span style='color:#EF5350; font-weight:bold; text-shadow: 0 0 8px #EF5350;'>racial wars</span>, its origin wrapped in a silence no scholar can explain.<br>Brave explorers descend into its depths seeking <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>spirits</span> and forgotten <span style='color:#4FC3F7; font-weight:bold; text-shadow: 0 0 8px #4FC3F7;'>treasures</span>, but something ancient and vile seeps upward from below.<br>A <span style='color:#26C6DA; font-weight:bold; text-shadow: 0 0 8px #26C6DA;'>Black Blood</span> pours from the deepest floors, <span style='color:#66BB6A; font-weight:bold; text-shadow: 0 0 8px #66BB6A;'>corrupting</span> every creature it touches into something monstrous and relentless.<br>Forging <span style='color:#AB47BC; font-weight:bold; text-shadow: 0 0 8px #AB47BC;'>bonds</span> with spirits sheltered within the Scar grants powers no ordinary weapon can match, turning fear into <span style='color:#FFA726; font-weight:bold; text-shadow: 0 0 8px #FFA726;'>strength</span>.<br>Deeper floors hide <span style='color:#EC407A; font-weight:bold; text-shadow: 0 0 8px #EC407A;'>bosses</span> of terrifying scale, guardians of a source of <span style='color:#FFEE58; font-weight:bold; text-shadow: 0 0 8px #FFEE58;'>chaos</span> that must never reach the surface.<br>The Scar holds its <span style='color:#FF7043; font-weight:bold; text-shadow: 0 0 8px #FF7043;'>secrets</span> close, and only those willing to face the darkness at the very <span style='color:#42A5F5; font-weight:bold; text-shadow: 0 0 8px #42A5F5;'>bottom</span> will learn the truth behind its <span style='color:#BA68C8; font-weight:bold; text-shadow: 0 0 8px #BA68C8;'>birth</span>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>هوة <span style='color:#9C27B0; font-weight:bold; text-shadow: 0 0 8px #9C27B0;'>مدمرة</span> تعرف بـ<span style='color:#FF6B35; font-weight:bold; text-shadow: 0 0 8px #FF6B35;'>الندبة</span> شقت قلب قارة مزقتها <span style='color:#EF5350; font-weight:bold; text-shadow: 0 0 8px #EF5350;'>الحروب القديمة</span> ذات يوم، واصلها لغز لم يحله عالم حتى الان.<br>يهبط المستكشفون الشجعان الى اعماقها بحثا عن <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>ارواح</span> وكنوز <span style='color:#4FC3F7; font-weight:bold; text-shadow: 0 0 8px #4FC3F7;'>منسية</span>، غير ان شيئا عتيقا وقبيحا يتسرب صاعدا من القاع.<br>يتدفق <span style='color:#26C6DA; font-weight:bold; text-shadow: 0 0 8px #26C6DA;'>الدم الاسود</span> من اشد الطوابق عمقا، <span style='color:#66BB6A; font-weight:bold; text-shadow: 0 0 8px #66BB6A;'>مفسدا</span> كل مخلوق يلمسه ومحولا اياه الى وحش لا يرد.<br>بناء <span style='color:#AB47BC; font-weight:bold; text-shadow: 0 0 8px #AB47BC;'>روابط</span> مع الارواح الكامنة في الندبة يمنحك قدرات لا يبلغها سلاح عادي، محولا الخوف الى <span style='color:#FFA726; font-weight:bold; text-shadow: 0 0 8px #FFA726;'>قوة</span>.<br>الطوابق الاعمق تخفي <span style='color:#EC407A; font-weight:bold; text-shadow: 0 0 8px #EC407A;'>رؤساء</span> بحجم الكوابيس، حراسا لمصدر <span style='color:#FFEE58; font-weight:bold; text-shadow: 0 0 8px #FFEE58;'>الفوضى</span> الذي يجب الا يبلغ السطح ابدا.<br>الندبة تحتضن <span style='color:#FF7043; font-weight:bold; text-shadow: 0 0 8px #FF7043;'>اسرارها</span> باحكام، ولن يعرف حقيقة <span style='color:#42A5F5; font-weight:bold; text-shadow: 0 0 8px #42A5F5;'>نشاتها</span> الا من يجرؤ على مواجهة الظلام في <span style='color:#BA68C8; font-weight:bold; text-shadow: 0 0 8px #BA68C8;'>قاعها</span> الابعد.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "Length": 15,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Guidus%20Zero%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Guidus%20Zero%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Guidus%20Zero%20Trailer.mp4",
+    "videoStart": 3.3,
+    "videoEnd": 49.011197,
+    "MusicUrl": "https://archive.org/download/RPRM001/Guidus%20Zero%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "IZZLE"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP020",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "313 MB",
+            "executable": "GuidusZero.exe",
+            "arguments": [],
+            "buildID": "20 November 2025",
+            "filename": "00669.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1775223533887_6",
+    "Name": "Race Driver GRID",
+    "SortingName": "GRID 01",
+    "Description": "You arrive as a rookie hired gun with nothing but <span style='color:#FF6B35; font-weight:bold; text-shadow: 0 0 8px #FF6B35;'>raw talent</span> and a burning need to prove yourself on circuits across <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>three continents</span>.<br>Racing for other teams at first, every <span style='color:#4FC3F7; font-weight:bold; text-shadow: 0 0 8px #4FC3F7;'>paycheck</span> and podium brings you closer to fielding your own <span style='color:#66BB6A; font-weight:bold; text-shadow: 0 0 8px #66BB6A;'>squad</span>, your own cars, your own identity in the sport.<br>From the <span style='color:#EF5350; font-weight:bold; text-shadow: 0 0 8px #EF5350;'>rookie</span> grids of Europe to roaring Le Mans-style <span style='color:#AB47BC; font-weight:bold; text-shadow: 0 0 8px #AB47BC;'>endurance</span> showpieces, every discipline tests something different inside you.<br>Japan's <span style='color:#FFA726; font-weight:bold; text-shadow: 0 0 8px #FFA726;'>drift circuits</span>, America's <span style='color:#FFEE58; font-weight:bold; text-shadow: 0 0 8px #FFEE58;'>muscle car</span> battles, and Europe's <span style='color:#EC407A; font-weight:bold; text-shadow: 0 0 8px #EC407A;'>touring</span> wars are all waiting with their own unwritten rules.<br>Standing between every ambitious team and true glory is the feared <span style='color:#26C6DA; font-weight:bold; text-shadow: 0 0 8px #26C6DA;'>Ravenwest</span> outfit, the most ruthless <span style='color:#FF7043; font-weight:bold; text-shadow: 0 0 8px #FF7043;'>rivals</span> in the paddock.<br>Only a driver who masters every style and survives every <span style='color:#42A5F5; font-weight:bold; text-shadow: 0 0 8px #42A5F5;'>crash</span> with nerves intact will topple them and claim the <span style='color:#BA68C8; font-weight:bold; text-shadow: 0 0 8px #BA68C8;'>top step</span>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>تصل بوصفك سائقا شابا مستاجرا لا تمتلك سوى <span style='color:#FF6B35; font-weight:bold; text-shadow: 0 0 8px #FF6B35;'>موهبة خام</span> واصرار لا يطفا على اثبات نفسك في حلبات <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>ثلاث قارات</span>.<br>تبدا بالقيادة لفرق اخرى، وكل <span style='color:#4FC3F7; font-weight:bold; text-shadow: 0 0 8px #4FC3F7;'>اجر</span> ومنصة تقترب بهما من تاسيس <span style='color:#66BB6A; font-weight:bold; text-shadow: 0 0 8px #66BB6A;'>فريقك</span> وسياراتك وهويتك الخاصة في الرياضة.<br>من شبكات <span style='color:#EF5350; font-weight:bold; text-shadow: 0 0 8px #EF5350;'>المبتدئين</span> الاوروبية الى سباقات <span style='color:#AB47BC; font-weight:bold; text-shadow: 0 0 8px #AB47BC;'>التحمل</span> الكبرى، كل تخصص يكشف جانبا مختلفا من عزيمتك.<br>حلبات الـ<span style='color:#FFA726; font-weight:bold; text-shadow: 0 0 8px #FFA726;'>دريفت</span> اليابانية، ومعارك <span style='color:#FFEE58; font-weight:bold; text-shadow: 0 0 8px #FFEE58;'>العضلات</span> الامريكية، وحروب <span style='color:#EC407A; font-weight:bold; text-shadow: 0 0 8px #EC407A;'>التورينج</span> الاوروبية تنتظرك بقواعدها غير المكتوبة.<br>يقف بين كل فريق طموح وبين المجد الحقيقي فريق <span style='color:#26C6DA; font-weight:bold; text-shadow: 0 0 8px #26C6DA;'>رافنويست</span>، اكثر <span style='color:#FF7043; font-weight:bold; text-shadow: 0 0 8px #FF7043;'>المنافسين</span> اثارة للرهبة في الحقبة.<br>من يتقن كل الاساليب ويخرج من كل <span style='color:#42A5F5; font-weight:bold; text-shadow: 0 0 8px #42A5F5;'>حادث</span> باعصاب صلبة وحده من يستحق احتلال <span style='color:#BA68C8; font-weight:bold; text-shadow: 0 0 8px #BA68C8;'>القمة</span>.<br></div>",
+    "ReleaseDate": "2008",
+    "CriticScore": 80,
+    "Length": 20,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Race%20Driver%20GRID%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Race%20Driver%20GRID%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Race%20Driver%20GRID%20Trailer.mp4",
+    "videoStart": 8.7,
+    "videoEnd": 62.543081,
+    "MusicUrl": "https://archive.org/download/RPRM001/Race%20Driver%20GRID%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Racing"
+    ],
+    "DeveloperNames": [
+      "Codemasters"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP020",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "9 GB",
+            "executable": "GRID.exe",
+            "arguments": [],
+            "buildID": "2008",
+            "filename": "00671.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1775223533887_7",
+    "Name": "Street Fighter 6",
+    "SortingName": "Street Fighter 06",
+    "Description": "A nameless <span style='color:#FF6B35; font-weight:bold; text-shadow: 0 0 8px #FF6B35;'>prodigy</span> with an uncanny gift for copying any technique after witnessing it just once steps into a sprawling <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>world</span> that answers to those who are strongest.<br>Mentored first by the street-smart <span style='color:#4FC3F7; font-weight:bold; text-shadow: 0 0 8px #4FC3F7;'>Luke</span>, the journey takes you across continents absorbing the styles of <span style='color:#66BB6A; font-weight:bold; text-shadow: 0 0 8px #66BB6A;'>legendary fighters</span> who each carry their own wisdom and scars.<br>Bonds forged on dusty streets and <span style='color:#AB47BC; font-weight:bold; text-shadow: 0 0 8px #AB47BC;'>rooftop</span> arenas deepen as masters test whether your ambition matches your <span style='color:#EF5350; font-weight:bold; text-shadow: 0 0 8px #EF5350;'>raw ability</span>.<br>A <span style='color:#FFA726; font-weight:bold; text-shadow: 0 0 8px #FFA726;'>mysterious antagonist</span> named JP pulls strings from the shadows, steering conflict toward the brutal <span style='color:#EC407A; font-weight:bold; text-shadow: 0 0 8px #EC407A;'>Suval'hal</span> tournament.<br>The question the entire <span style='color:#26C6DA; font-weight:bold; text-shadow: 0 0 8px #26C6DA;'>World Tour</span> circles back to is deceptively simple — what does <span style='color:#FFEE58; font-weight:bold; text-shadow: 0 0 8px #FFEE58;'>true strength</span> actually mean?<br>The answer arrives not at the <span style='color:#FF7043; font-weight:bold; text-shadow: 0 0 8px #FF7043;'>final battle</span>, but in a quiet moment of realisation that this <span style='color:#42A5F5; font-weight:bold; text-shadow: 0 0 8px #42A5F5;'>endless path</span> of growth never truly <span style='color:#BA68C8; font-weight:bold; text-shadow: 0 0 8px #BA68C8;'>ends</span>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>موهبة مجهولة الاسم تمتلك قدرة نادرة على استيعاب اي اسلوب قتالي بمجرد رؤيته مرة واحدة، تخطو في <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>عالم</span> يجل الاقوياء فقط.<br>يرشدها في البداية المحارب الشارعي الذكي <span style='color:#4FC3F7; font-weight:bold; text-shadow: 0 0 8px #4FC3F7;'>لوك</span>، ثم تنطلق الرحلة عبر القارات مستوعبة اساليب <span style='color:#66BB6A; font-weight:bold; text-shadow: 0 0 8px #66BB6A;'>مقاتلين اسطوريين</span> يحمل كل منهم حكمته وندوبه.<br>روابط تنسج على ارصفة الشوارع وحلبات <span style='color:#AB47BC; font-weight:bold; text-shadow: 0 0 8px #AB47BC;'>الاسطح</span> تتعمق حين يختبر الاساتذة ما اذا كان طموحك يساوي <span style='color:#EF5350; font-weight:bold; text-shadow: 0 0 8px #EF5350;'>موهبتك الخام</span>.<br>خصم <span style='color:#FFA726; font-weight:bold; text-shadow: 0 0 8px #FFA726;'>غامض</span> يدعى JP يحرك الصراع من الظل باتجاه بطولة <span style='color:#EC407A; font-weight:bold; text-shadow: 0 0 8px #EC407A;'>سوفال'هال</span> الشرسة.<br>السؤال الذي تدور حوله رحلة <span style='color:#26C6DA; font-weight:bold; text-shadow: 0 0 8px #26C6DA;'>World Tour</span> باكملها بسيط خادع — ما معنى <span style='color:#FFEE58; font-weight:bold; text-shadow: 0 0 8px #FFEE58;'>القوة الحقيقية</span>؟<br>الاجابة لا تاتي عند هزيمة <span style='color:#FF7043; font-weight:bold; text-shadow: 0 0 8px #FF7043;'>الخصم الاخير</span>، بل في لحظة ادراك هادئة بان هذا <span style='color:#42A5F5; font-weight:bold; text-shadow: 0 0 8px #42A5F5;'>الطريق الابدي</span> للنمو لا <span style='color:#BA68C8; font-weight:bold; text-shadow: 0 0 8px #BA68C8;'>ينتهي</span> حقا.<br></div>",
+    "ReleaseDate": "2023",
+    "CriticScore": 100,
+    "Length": 20,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Street%20Fighter%206%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Street%20Fighter%206%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Street%20Fighter%206%20Trailer.mp4",
+    "videoStart": 10.6,
+    "videoEnd": 68.511229,
+    "MusicUrl": "https://archive.org/download/RPRM001/Street%20Fighter%206%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Fighting"
+    ],
+    "DeveloperNames": [
+      "Capcom"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP020",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "98 GB",
+            "filename": "00672.zip",
+            "executable": "StreetFighter6.exe",
+            "buildID": "reflex_amd",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hypervisor 2.0"
+    ]
+  },
+  {
+    "_id": "game_1775223533887_8",
+    "Name": "Warhammer 40000 Chaos Gate Daemonhunters",
+    "SortingName": "Warhammer 08.02",
+    "Description": "Inquisitor Vakir tears the <span style='color:#EF5350; font-weight:bold; text-shadow: 0 0 8px #EF5350;'>Grey Knights</span> from their grief and into the hunt for a sector-wide plague called <span style='color:#66BB6A; font-weight:bold; text-shadow: 0 0 8px #66BB6A;'>the Bloom</span>, a living corruption spreading through the stars at Nurgle's command.<br>As the <span style='color:#FF6B35; font-weight:bold; text-shadow: 0 0 8px #FF6B35;'>newly appointed</span> commander of the strike cruiser Baleful Edict, every tactical decision ripples into the ship's politics, research, and <span style='color:#FFA726; font-weight:bold; text-shadow: 0 0 8px #FFA726;'>crew survival</span>.<br>The trail of <span style='color:#9C27B0; font-weight:bold; text-shadow: 0 0 8px #9C27B0;'>corruption</span> leads through fallen Craftworlds and festering star systems, each mission peeling back another layer of a <span style='color:#26C6DA; font-weight:bold; text-shadow: 0 0 8px #26C6DA;'>sinister conspiracy</span>.<br>A <span style='color:#FFEE58; font-weight:bold; text-shadow: 0 0 8px #FFEE58;'>cursed legend</span> named Kaldor Draigo drifts between <span style='color:#4FC3F7; font-weight:bold; text-shadow: 0 0 8px #4FC3F7;'>realspace</span> and the howling Warp on borrowed time, reachable only through desperate measures.<br>Mortarion, the <span style='color:#FF7043; font-weight:bold; text-shadow: 0 0 8px #FF7043;'>Daemon Primarch</span> of the Death Guard, waits behind the Bloom's five <span style='color:#EC407A; font-weight:bold; text-shadow: 0 0 8px #EC407A;'>roots</span>, his vengeance centuries in the making.<br>Only by severing each root and confronting this <span style='color:#AB47BC; font-weight:bold; text-shadow: 0 0 8px #AB47BC;'>ancient evil</span> can the <span style='color:#42A5F5; font-weight:bold; text-shadow: 0 0 8px #42A5F5;'>Grey Knights</span> halt the galaxy's slow <span style='color:#BA68C8; font-weight:bold; text-shadow: 0 0 8px #BA68C8;'>decay</span>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>تقتلع فرقة <span style='color:#EF5350; font-weight:bold; text-shadow: 0 0 8px #EF5350;'>فرسان الرمادي</span> من حزنها لتنطلق في مطاردة وباء يمتد عبر قطاع باكمله يعرف بـ<span style='color:#66BB6A; font-weight:bold; text-shadow: 0 0 8px #66BB6A;'>البلوم</span>، فساد حي ينتشر بين النجوم بامر من نيرغل اله التعفن.<br>بوصفك <span style='color:#FF6B35; font-weight:bold; text-shadow: 0 0 8px #FF6B35;'>القائد المعين حديثا</span> لطراد الضربة Baleful Edict، كل قرار تكتيكي يتردد صداه في سياسات السفينة وابحاثها و<span style='color:#FFA726; font-weight:bold; text-shadow: 0 0 8px #FFA726;'>نجاة طاقمها</span>.<br>يقود مسار <span style='color:#9C27B0; font-weight:bold; text-shadow: 0 0 8px #9C27B0;'>الفساد</span> عبر عوالم حرفية ساقطة ومنظومات نجمية متعفنة، كل مهمة تكشف طبقة اخرى من <span style='color:#26C6DA; font-weight:bold; text-shadow: 0 0 8px #26C6DA;'>مؤامرة شريرة</span>.<br>الاسطورة الملعونة <span style='color:#FFEE58; font-weight:bold; text-shadow: 0 0 8px #FFEE58;'>كالدور دريغو</span> تتارجح بين <span style='color:#4FC3F7; font-weight:bold; text-shadow: 0 0 8px #4FC3F7;'>الفضاء الحقيقي</span> والتواء العاصفة بوقت مستعار، ولا تبلغ الا باجراءات يائسة.<br>مورتاريون، <span style='color:#FF7043; font-weight:bold; text-shadow: 0 0 8px #FF7043;'>البريمارك الشيطان</span> لحرس الموت، ينتظر خلف <span style='color:#EC407A; font-weight:bold; text-shadow: 0 0 8px #EC407A;'>جذور البلوم</span> الخمس، انتقامه يختمر منذ قرون.<br>لا بد من قطع كل جذر ومواجهة هذا <span style='color:#AB47BC; font-weight:bold; text-shadow: 0 0 8px #AB47BC;'>الشر الازلي</span> حتى يوقف <span style='color:#42A5F5; font-weight:bold; text-shadow: 0 0 8px #42A5F5;'>فرسان الرمادي</span> <span style='color:#BA68C8; font-weight:bold; text-shadow: 0 0 8px #BA68C8;'>انحلال المجرة</span> البطيء.<br></div>",
+    "ReleaseDate": "2022",
+    "CriticScore": 80,
+    "Length": 40,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Warhammer%2040000%20Chaos%20Gate%20Daemonhunters%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Warhammer%2040000%20Chaos%20Gate%20Daemonhunters%20Cover.jpg",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Warhammer%2040000%20Chaos%20Gate%20Daemonhunters%20Trailer.mp4",
+    "videoStart": 5.413626,
+    "videoEnd": 0,
+    "MusicUrl": "https://archive.org/download/RPRM001/Warhammer%2040000%20Chaos%20Gate%20Daemonhunters%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Strategy"
+    ],
+    "DeveloperNames": [
+      "Complex Games"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP020",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "19 GB",
+            "filename": "00673.zip",
+            "executable": "hypervisor-launcher.exe",
+            "buildID": "reflex_amd",
+            "arguments": []
           }
         ]
       }
