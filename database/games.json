@@ -146156,10 +146156,10 @@
     "_id": "game_1773297196328_9",
     "Name": "SULFUR",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "A <b style='color: #9B5C28; text-shadow: 0 0 8px #9B5C28;'>disgraced priest</b> descends into a world rotting with <b style='color: #C8903C; text-shadow: 0 0 8px #C8903C;'>sin</b>, where corruption has carved itself into the land and taken physical form.<br> <b style='color: #8C7050; text-shadow: 0 0 8px #8C7050;'>Cursed dungeons</b> twist beneath a <b style='color: #787040; text-shadow: 0 0 8px #787040;'>fallen church</b> that stopped saving souls long ago.<br> Armed with weapons salvaged from the dead, he pushes deeper into each <b style='color: #8C5030; text-shadow: 0 0 8px #8C5030;'>hellish layer</b> driven by <b style='color: #A06838; text-shadow: 0 0 8px #A06838;'>vengeance</b> stronger than any <b style='color: #C0A860; text-shadow: 0 0 8px #C0A860;'>prayer</b>.<br> The world is filled with <b style='color: #7C6030; text-shadow: 0 0 8px #7C6030;'>sulfuric darkness</b>, monsters born of <b style='color: #906858; text-shadow: 0 0 8px #906858;'>human transgression</b>, and <b style='color: #686050; text-shadow: 0 0 8px #686050;'>forgotten souls</b> damned to wander its depths.<br> Each descent reveals more of what shattered him and what the <b style='color: #785848; text-shadow: 0 0 8px #785848;'>church</b> was truly hiding.<br> <b style='color: #D0B870; text-shadow: 0 0 8px #D0B870;'>Atonement</b> and <b style='color: #A07860; text-shadow: 0 0 8px #A07860;'>damnation</b> wait at opposite ends of the same road — and he has little ground left between them.",
+    "DescriptionArabic": "<div dir='rtl'>يهبط <b style='color: #9B5C28; text-shadow: 0 0 8px #9B5C28;'>كاهن منبوذ</b> إلى عالم ينخر فيه <b style='color: #C8903C; text-shadow: 0 0 8px #C8903C;'>الخطيئة</b>، حيث حوّل الفساد نفسه إلى أرض وشكل محسوس.<br> تلتف <b style='color: #8C7050; text-shadow: 0 0 8px #8C7050;'>زنازين ملعونة</b> تحت <b style='color: #787040; text-shadow: 0 0 8px #787040;'>كنيسة ساقطة</b> توقفت منذ زمن بعيد عن إنقاذ أي أحد.<br> مسلحاً بأسلحة انتُزعت من يد الموتى، يواصل النزول إلى كل <b style='color: #8C5030; text-shadow: 0 0 8px #8C5030;'>طبقة جهنمية</b> تحركه <b style='color: #A06838; text-shadow: 0 0 8px #A06838;'>نار الانتقام</b> أقوى من أي <b style='color: #C0A860; text-shadow: 0 0 8px #C0A860;'>صلاة</b>.<br> العالم مليء بـ<b style='color: #7C6030; text-shadow: 0 0 8px #7C6030;'>ظلام كبريتي</b> ووحوش وُلدت من <b style='color: #906858; text-shadow: 0 0 8px #906858;'>تجاوزات البشر</b> و<b style='color: #686050; text-shadow: 0 0 8px #686050;'>أرواح منسية</b> محكوم عليها بالتجوال.<br> كل نزول يكشف المزيد عمّا حطّمه وما أخفته <b style='color: #785848; text-shadow: 0 0 8px #785848;'>الكنيسة</b> حقاً.<br> <b style='color: #D0B870; text-shadow: 0 0 8px #D0B870;'>الكفارة</b> و<b style='color: #A07860; text-shadow: 0 0 8px #A07860;'>اللعنة</b> يقفان في طرفي الطريق ذاته — وقد بات الفارق بينهما ضيقاً للغاية.</div>",
+    "ReleaseDate": "2024",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/SULFUR%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/SULFUR%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/SULFUR%20Trailer.mp4",
@@ -146169,8 +146169,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "Perfect Random"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -146187,16 +146191,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 15
   },
   {
     "_id": "game_1773297234575_0",
     "Name": "GreedFall The Dying World",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "On the island of <b style='color: #5C7840; text-shadow: 0 0 8px #5C7840;'>Teer Fradee</b>, the land breathed with <b style='color: #C0A870; text-shadow: 0 0 8px #C0A870;'>ancient magic</b> and the <b style='color: #7C9058; text-shadow: 0 0 8px #7C9058;'>indigenous peoples</b> who protected it.<br> Then <b style='color: #786040; text-shadow: 0 0 8px #786040;'>colonial forces</b> arrived, and a native of Teer Fradee found themselves dragged across the sea to a mainland dying under the <b style='color: #907050; text-shadow: 0 0 8px #907050;'>Malichor plague</b>.<br> There, <b style='color: #806858; text-shadow: 0 0 8px #806858;'>scheming factions</b> treat you as either a tool or a threat.<br> <b style='color: #9C7860; text-shadow: 0 0 8px #9C7860;'>Corrupt officials</b>, <b style='color: #8C6868; text-shadow: 0 0 8px #8C6868;'>church conspiracies</b>, and politically arranged <b style='color: #A07060; text-shadow: 0 0 8px #A07060;'>murders</b> surround you from every angle.<br> Your homeland's magic may be what the <b style='color: #907868; text-shadow: 0 0 8px #907868;'>dying world</b> desperately needs — making you both invaluable and a target.<br> <b style='color: #786050; text-shadow: 0 0 8px #786050;'>Allegiances</b> fracture, <b style='color: #A09070; text-shadow: 0 0 8px #A09070;'>truths</b> dissolve beneath layers of empire, and every choice pulls you further from home.",
+    "DescriptionArabic": "<div dir='rtl'>كانت جزيرة <b style='color: #5C7840; text-shadow: 0 0 8px #5C7840;'>تير فراداي</b> تنبض بـ<b style='color: #C0A870; text-shadow: 0 0 8px #C0A870;'>السحر القديم</b> الذي تحرسه <b style='color: #7C9058; text-shadow: 0 0 8px #7C9058;'>الشعوب الأصلية</b>.<br> ثم وصلت <b style='color: #786040; text-shadow: 0 0 8px #786040;'>القوات الاستعمارية</b> وجُرّ أبناء الجزيرة عبر البحر إلى برّ يحتضر تحت وطأة <b style='color: #907050; text-shadow: 0 0 8px #907050;'>طاعون المالكور</b>.<br> هناك، تتعامل معك <b style='color: #806858; text-shadow: 0 0 8px #806858;'>الفصائل المتآمرة</b> إما كأداة وإما كتهديد.<br> <b style='color: #9C7860; text-shadow: 0 0 8px #9C7860;'>مسؤولون فاسدون</b> و<b style='color: #8C6868; text-shadow: 0 0 8px #8C6868;'>مؤامرات الكنيسة</b> و<b style='color: #A07060; text-shadow: 0 0 8px #A07060;'>اغتيالات</b> سياسية تحاصرك من كل جهة.<br> سحر وطنك هو ما يريده <b style='color: #907868; text-shadow: 0 0 8px #907868;'>العالم المحتضر</b> منك، وهو ما يجعلك هدفاً لا يمكن تجاهله.<br> <b style='color: #786050; text-shadow: 0 0 8px #786050;'>الولاءات</b> تتصدع و<b style='color: #A09070; text-shadow: 0 0 8px #A09070;'>الحقائق</b> تذوب تحت طبقات الإمبراطورية، وكل خيار يبعدك أكثر عن الوطن.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 60,
     "BackgroundUrl": "https://archive.org/download/RPRM001/GreedFall%20The%20Dying%20World%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/GreedFall%20The%20Dying%20World%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/GreedFall%20The%20Dying%20World%20Trailer.mp4",
@@ -146206,8 +146211,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "RPG"
+    ],
+    "DeveloperNames": [
+      "Spiders"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -146224,16 +146233,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 30
   },
   {
     "_id": "game_1773297248895_0",
     "Name": "FATAL FRAME II Crimson Butterfly REMAKE",
     "SortingName": "Fatal Frame 02.02",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "<b style='color: #C860A0; text-shadow: 0 0 8px #C860A0;'>Mio</b> and her twin <b style='color: #E890B8; text-shadow: 0 0 8px #E890B8;'>Mayu</b> follow a <b style='color: #D070A8; text-shadow: 0 0 8px #D070A8;'>crimson butterfly</b> into the fog and never find the way back.<br> What they find instead is <b style='color: #6840A0; text-shadow: 0 0 8px #6840A0;'>Minakami Village</b> — a place swallowed by the forest, frozen at the moment of its annihilation.<br> The dead do not rest here.<br> Hundreds of <b style='color: #806090; text-shadow: 0 0 8px #806090;'>vengeful spirits</b> roam the <b style='color: #5C5068; text-shadow: 0 0 8px #5C5068;'>ruins</b>, bound by a catastrophic <b style='color: #985890; text-shadow: 0 0 8px #985890;'>ritual</b> that went terribly wrong.<br> The only weapon is the <b style='color: #A07090; text-shadow: 0 0 8px #A07090;'>Camera Obscura</b>, an ancient device that fights the dead with <b style='color: #C8A0C0; text-shadow: 0 0 8px #C8A0C0;'>captured light</b>.<br> To survive, Mio must uncover what happened in the <b style='color: #484068; text-shadow: 0 0 8px #484068;'>lost village</b> during the <b style='color: #786888; text-shadow: 0 0 8px #786888;'>Crimson Sacrifice Ritual</b> — and why <b style='color: #B07090; text-shadow: 0 0 8px #B07090;'>twin sisters</b> were always at its center.<br> The answer is worse than the ghosts.",
+    "DescriptionArabic": "<div dir='rtl'>تتبع <b style='color: #C860A0; text-shadow: 0 0 8px #C860A0;'>ميو</b> وتوأمها <b style='color: #E890B8; text-shadow: 0 0 8px #E890B8;'>مايو</b> <b style='color: #D070A8; text-shadow: 0 0 8px #D070A8;'>فراشة قرمزية</b> في الضباب ولا تجدان طريق العودة.<br> ما تجدانه بدلاً هو <b style='color: #6840A0; text-shadow: 0 0 8px #6840A0;'>قرية ميناكامي</b> — مكان ابتلعته الغابة وتجمّد عند لحظة فنائه.<br> الموتى لا يرتاحون هنا.<br> مئات من <b style='color: #806090; text-shadow: 0 0 8px #806090;'>الأرواح الانتقامية</b> تجوب <b style='color: #5C5068; text-shadow: 0 0 8px #5C5068;'>الأطلال</b>، مقيّدة بـ<b style='color: #985890; text-shadow: 0 0 8px #985890;'>طقس</b> كارثي انتهى بشكل مروّع.<br> السلاح الوحيد هو <b style='color: #A07090; text-shadow: 0 0 8px #A07090;'>كاميرا أوبسكورا</b>، جهاز قديم يحارب الموتى بـ<b style='color: #C8A0C0; text-shadow: 0 0 8px #C8A0C0;'>الضوء المحبوس</b>.<br> لتنجو، يجب على ميو أن تكشف ما حدث في <b style='color: #484068; text-shadow: 0 0 8px #484068;'>القرية المفقودة</b> خلال <b style='color: #786888; text-shadow: 0 0 8px #786888;'>طقس التضحية القرمزي</b> — ولماذا كانت <b style='color: #B07090; text-shadow: 0 0 8px #B07090;'>التوأمان</b> دائماً في قلبه.<br> الإجابة أسوأ من الأشباح.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/FATAL%20FRAME%20II%20Crimson%20Butterfly%20REMAKE%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/FATAL%20FRAME%20II%20Crimson%20Butterfly%20REMAKE%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/FATAL%20FRAME%20II%20Crimson%20Butterfly%20REMAKE%20Trailer.mp4",
@@ -146243,8 +146253,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "Koei Tecmo"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -146261,16 +146275,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 10
   },
   {
     "_id": "game_1773318516212_0",
     "Name": "Out of Sight",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "<b style='color: #D0C0A0; text-shadow: 0 0 8px #D0C0A0;'>Sophie</b> is <b style='color: #988090; text-shadow: 0 0 8px #988090;'>blind</b>, trapped in a <b style='color: #484050; text-shadow: 0 0 8px #484050;'>dark mansion</b>, and utterly alone — except for <b style='color: #B09070; text-shadow: 0 0 8px #B09070;'>Teddy</b>, her stuffed bear.<br> She can see through his eyes.<br> What she sees is worse than the dark.<br> The house is full of <b style='color: #6A5060; text-shadow: 0 0 8px #6A5060;'>sinister adults</b> who move in <b style='color: #303040; text-shadow: 0 0 8px #303040;'>the night</b>, preparing something she has no words for.<br> Using Teddy's <b style='color: #907878; text-shadow: 0 0 8px #907878;'>borrowed sight</b>, Sophie navigates the mansion without being found — peeking through <b style='color: #5C4858; text-shadow: 0 0 8px #5C4858;'>locked doors</b>, <b style='color: #806870; text-shadow: 0 0 8px #806870;'>hiding in shadows</b>, piecing together what the <b style='color: #6A5868; text-shadow: 0 0 8px #6A5868;'>captors</b> are building toward.<br> A <b style='color: #504058; text-shadow: 0 0 8px #504058;'>dark ritual</b> is taking shape, and a <b style='color: #C0A0B0; text-shadow: 0 0 8px #C0A0B0;'>child's life</b> is at the center of it.<br> Every creak of the floor is a warning.<br> Every silence is worse.",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #D0C0A0; text-shadow: 0 0 8px #D0C0A0;'>صوفي</b> <b style='color: #988090; text-shadow: 0 0 8px #988090;'>عمياء</b>، محاصرة في <b style='color: #484050; text-shadow: 0 0 8px #484050;'>منزل معتم</b>، وحيدة تماماً — ما عدا <b style='color: #B09070; text-shadow: 0 0 8px #B09070;'>تيدي</b>، الدبّ المحشو.<br> يمكنها أن ترى من خلال عينيه.<br> وما تراه أسوأ من الظلام.<br> المنزل مليء بـ<b style='color: #6A5060; text-shadow: 0 0 8px #6A5060;'>بالغين شريرين</b> يتحركون في <b style='color: #303040; text-shadow: 0 0 8px #303040;'>الليل</b>، يُعدّون شيئاً لا كلمات لديها لوصفه.<br> بـ<b style='color: #907878; text-shadow: 0 0 8px #907878;'>البصر المستعار</b> من تيدي، تتنقل صوفي دون أن تُكتشف — تتلصص عبر <b style='color: #5C4858; text-shadow: 0 0 8px #5C4858;'>الأبواب الموصدة</b>، <b style='color: #806870; text-shadow: 0 0 8px #806870;'>تختبئ في الظلال</b>، وتحاول فهم ما يبنيه <b style='color: #6A5868; text-shadow: 0 0 8px #6A5868;'>الخاطفون</b>.<br> <b style='color: #504058; text-shadow: 0 0 8px #504058;'>طقس مظلم</b> يتشكّل ببطء، و<b style='color: #C0A0B0; text-shadow: 0 0 8px #C0A0B0;'>حياة طفلة</b> في قلبه.<br> كل صرير في الأرضية تحذير.<br> كل صمت أشد وطأة.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Out%20of%20Sight%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Out%20of%20Sight%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Out%20of%20Sight%20Trailer.mp4",
@@ -146280,8 +146295,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "The Gang"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -146297,16 +146316,17 @@
           }
         ]
       }
-    }
+    },
+    "Length": 5
   },
   {
     "_id": "game_1773318516212_1",
     "Name": "Piece by Piece",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "<b style='color: #C0A870; text-shadow: 0 0 8px #C0A870;'>Grandma</b>'s <b style='color: #9C7848; text-shadow: 0 0 8px #9C7848;'>repair shop</b> sits at the edge of the <b style='color: #6A8850; text-shadow: 0 0 8px #6A8850;'>Mossy Forest</b>, and now it's yours.<br> The villagers are already lining up with <b style='color: #A08858; text-shadow: 0 0 8px #A08858;'>broken things</b> that matter far more than they look: a <b style='color: #C89060; text-shadow: 0 0 8px #C89060;'>music box</b> that played every birthday, a <b style='color: #80A078; text-shadow: 0 0 8px #80A078;'>clay bowl</b> from someone no longer here, a <b style='color: #9090A0; text-shadow: 0 0 8px #9090A0;'>toy</b> a child refuses to release.<br> Each piece arrives with a story, and each repair is a quiet act of <b style='color: #C8A888; text-shadow: 0 0 8px #C8A888;'>love</b>.<br> The <b style='color: #908868; text-shadow: 0 0 8px #908868;'>forest folk</b> — curious creatures of moss, stone, and bark — trust you with their <b style='color: #C0B898; text-shadow: 0 0 8px #C0B898;'>treasured memories</b>.<br> Fit the pieces together, find the missing part, and return something <b style='color: #B8C090; text-shadow: 0 0 8px #B8C090;'>precious</b> to the hands that miss it.<br> No urgency, just the gentle satisfaction of things made <b style='color: #D0C0A0; text-shadow: 0 0 8px #D0C0A0;'>whole again</b>.",
+    "DescriptionArabic": "<div dir='rtl'>يقع <b style='color: #9C7848; text-shadow: 0 0 8px #9C7848;'>محل الإصلاح</b> الذي ورثته عن <b style='color: #C0A870; text-shadow: 0 0 8px #C0A870;'>الجدة</b> على حافة <b style='color: #6A8850; text-shadow: 0 0 8px #6A8850;'>غابة الطحالب</b>، والزبائن ينتظرون بالفعل.<br> يحملون <b style='color: #A08858; text-shadow: 0 0 8px #A08858;'>أشياء مكسورة</b> أثمن بكثير مما تبدو: <b style='color: #C89060; text-shadow: 0 0 8px #C89060;'>علبة موسيقى</b> عزفت في كل عيد ميلاد، <b style='color: #80A078; text-shadow: 0 0 8px #80A078;'>وعاء طين</b> صنعه من لم يعد هنا، و<b style='color: #9090A0; text-shadow: 0 0 8px #9090A0;'>لعبة</b> طفلة ترفض التخلي عنها.<br> كل قطعة تصل بقصة، وكل إصلاح فعل <b style='color: #C8A888; text-shadow: 0 0 8px #C8A888;'>حبّ</b> هادئ.<br> <b style='color: #908868; text-shadow: 0 0 8px #908868;'>أهل الغابة</b> — كائنات غريبة من الطحالب والحجارة والنباتات — يمنحونك ثقتهم ويضعون في يديك <b style='color: #C0B898; text-shadow: 0 0 8px #C0B898;'>ذكريات ثمينة</b>.<br> رتّب القطع واعثر على المفقود وأعد <b style='color: #B8C090; text-shadow: 0 0 8px #B8C090;'>شيئاً ثميناً</b> إلى الأيدي التي تشتاق إليه.<br> لا استعجال هنا، فقط رضى هادئ حين تصير الأشياء <b style='color: #D0C0A0; text-shadow: 0 0 8px #D0C0A0;'>سليمة من جديد</b>.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Piece%20by%20Piece%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Piece%20by%20Piece%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Piece%20by%20Piece%20Trailer.mp4",
@@ -146316,8 +146336,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Cozy"
+    ],
+    "DeveloperNames": [
+      "Gamkat"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -146336,16 +146360,17 @@
     },
     "Tags": [
       "Need Music"
-    ]
+    ],
+    "Length": 10
   },
   {
     "_id": "game_1773318516212_2",
     "Name": "The Liar Princess and the Blind Prince",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "A <b style='color: #B088C0; text-shadow: 0 0 8px #B088C0;'>singing wolf</b> whose <b style='color: #C0B8D8; text-shadow: 0 0 8px #C0B8D8;'>moonlit songs</b> enchanted the forest was heard by a curious <b style='color: #8896C0; text-shadow: 0 0 8px #8896C0;'>young prince</b> who wandered too close.<br> In a moment of fear, her claws struck him blind, and <b style='color: #786888; text-shadow: 0 0 8px #786888;'>guilt</b> consumed her.<br> She begged the <b style='color: #806878; text-shadow: 0 0 8px #806878;'>forest witch</b> for a way to make things right and disguised herself as a princess to guide him through the treacherous <b style='color: #587058; text-shadow: 0 0 8px #587058;'>Witch's Forest</b>.<br> Together they pushed through <b style='color: #886858; text-shadow: 0 0 8px #886858;'>twisting thorns</b>, past <b style='color: #685870; text-shadow: 0 0 8px #685870;'>lurking beasts</b>, and down <b style='color: #484858; text-shadow: 0 0 8px #484858;'>shadowed paths</b>.<br> She held his hand, filled his world with <b style='color: #B0C0D0; text-shadow: 0 0 8px #B0C0D0;'>tenderness</b>, and built a bond on a carefully kept lie.<br> But the weight of her <b style='color: #A08890; text-shadow: 0 0 8px #A08890;'>secret</b> grew with every step, and so did her <b style='color: #C890A0; text-shadow: 0 0 8px #C890A0;'>love</b>.<br> A haunting <b style='color: #C8A8B8; text-shadow: 0 0 8px #C8A8B8;'>fairy tale</b> where <b style='color: #9068A0; text-shadow: 0 0 8px #9068A0;'>sacrifice</b> and deception are bound by one unspoken truth.",
+    "DescriptionArabic": "<div dir='rtl'>في أعماق الغابة، كانت <b style='color: #B088C0; text-shadow: 0 0 8px #B088C0;'>ذئبة مغنية</b> تُغرّد بـ<b style='color: #C0B8D8; text-shadow: 0 0 8px #C0B8D8;'>أغاني القمر</b> التي أسحرت كل من سمعها.<br> لكن حين اقترب <b style='color: #8896C0; text-shadow: 0 0 8px #8896C0;'>الأمير الفضولي</b> من صوتها، أصابته مخالبها وسُرِق بصره للأبد.<br> أكل <b style='color: #786888; text-shadow: 0 0 8px #786888;'>الذنب</b> قلبها، فذهبت إلى <b style='color: #806878; text-shadow: 0 0 8px #806878;'>ساحرة الغابة</b> وتنكّرت في هيئة أميرة لترشده عبر <b style='color: #587058; text-shadow: 0 0 8px #587058;'>غابة الساحرة</b>.<br> معاً عبرا <b style='color: #886858; text-shadow: 0 0 8px #886858;'>الأشواك الملتوية</b> وتحاشيا <b style='color: #685870; text-shadow: 0 0 8px #685870;'>الوحوش الكامنة</b> في <b style='color: #484858; text-shadow: 0 0 8px #484858;'>الدروب المظلمة</b>.<br> أمسكت يده وملأت عالمه بـ<b style='color: #B0C0D0; text-shadow: 0 0 8px #B0C0D0;'>الحنان</b>، وهي تحتفظ بـ<b style='color: #A08890; text-shadow: 0 0 8px #A08890;'>سرّها</b> بعيداً عنه.<br> مع كل خطوة، ازداد <b style='color: #C890A0; text-shadow: 0 0 8px #C890A0;'>حبّها</b> له وثقلت عليها أكذوبتها.<br> حكاية <b style='color: #C8A8B8; text-shadow: 0 0 8px #C8A8B8;'>خيالية</b> حزينة، تمشي فيها <b style='color: #9068A0; text-shadow: 0 0 8px #9068A0;'>التضحية</b> والخداع جنباً إلى جنب نحو نهاية لن تُنسى.</div>",
+    "ReleaseDate": "2019",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Liar%20Princess%20and%20the%20Blind%20Prince%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Liar%20Princess%20and%20the%20Blind%20Prince%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Liar%20Princess%20and%20the%20Blind%20Prince%20Trailer.mp4",
@@ -146355,8 +146380,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Puzzle"
+    ],
+    "DeveloperNames": [
+      "Nippon Ichi Software"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -146372,16 +146401,17 @@
           }
         ]
       }
-    }
+    },
+    "Length": 5
   },
   {
     "_id": "game_1773382455608_0",
     "Name": "1348 Ex Voto",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "The year is 1348, and the <b style='color: #8C6442; text-shadow: 0 0 8px #8C6442;'>Black Death</b> has shattered <b style='color: #786458; text-shadow: 0 0 8px #786458;'>medieval Italy</b>.<br> Roads are haunted by <b style='color: #6E5858; text-shadow: 0 0 8px #6E5858;'>mercenaries</b> and <b style='color: #8C6870; text-shadow: 0 0 8px #8C6870;'>plague zealots</b> preying on the desperate and the dying.<br> <b style='color: #C8A870; text-shadow: 0 0 8px #C8A870;'>Aeta</b>, a young knight-errant, presses through the carnage with one purpose — finding <b style='color: #C890A0; text-shadow: 0 0 8px #C890A0;'>Bianca</b>, the person she cannot lose.<br> Her path crosses the <b style='color: #7C6050; text-shadow: 0 0 8px #7C6050;'>Apennine mountains</b>, through <b style='color: #685848; text-shadow: 0 0 8px #685848;'>ruined castles</b> and <b style='color: #786870; text-shadow: 0 0 8px #786870;'>plague-ravaged villages</b> ruled by <b style='color: #907060; text-shadow: 0 0 8px #907060;'>bandits</b>.<br> Memories of Bianca come in <b style='color: #9898B0; text-shadow: 0 0 8px #9898B0;'>fragmented flashbacks</b>, each one sharpening her <b style='color: #A07878; text-shadow: 0 0 8px #A07878;'>grief</b> and resolve.<br> In a world drowning in <b style='color: #6A5050; text-shadow: 0 0 8px #6A5050;'>pestilence</b> and <b style='color: #786060; text-shadow: 0 0 8px #786060;'>violence</b>, this is not a tale of grand heroes — it is one of raw, desperate <b style='color: #C8B090; text-shadow: 0 0 8px #C8B090;'>love</b> walking through hell.",
+    "DescriptionArabic": "<div dir='rtl'>عام ١٣٤٨، ويجثم <b style='color: #8C6442; text-shadow: 0 0 8px #8C6442;'>الموت الأسود</b> على <b style='color: #786458; text-shadow: 0 0 8px #786458;'>إيطاليا العصور الوسطى</b> ويكتسح كل ما أمامه.<br> الطرق مليئة بـ<b style='color: #6E5858; text-shadow: 0 0 8px #6E5858;'>المرتزقة</b> و<b style='color: #8C6870; text-shadow: 0 0 8px #8C6870;'>متعصبي الطاعون</b> الذين يفترسون اليائسين والمحتضرين.<br> تشقّ <b style='color: #C8A870; text-shadow: 0 0 8px #C8A870;'>عيتا</b>، الفارسة الشابة، طريقها عبر هذا الجحيم بهدف واحد: إنقاذ <b style='color: #C890A0; text-shadow: 0 0 8px #C890A0;'>بيانكا</b>، من تعني لها كل شيء.<br> يأخذها الطريق عبر <b style='color: #7C6050; text-shadow: 0 0 8px #7C6050;'>جبال الأبنين</b>، مروراً بـ<b style='color: #685848; text-shadow: 0 0 8px #685848;'>القلاع المهدّمة</b> و<b style='color: #786870; text-shadow: 0 0 8px #786870;'>القرى المنكوبة بالطاعون</b> التي يسيطر عليها <b style='color: #907060; text-shadow: 0 0 8px #907060;'>قطّاع الطرق</b>.<br> تعود <b style='color: #9898B0; text-shadow: 0 0 8px #9898B0;'>ذكريات متناثرة</b> عن بيانكا لتوقظ <b style='color: #A07878; text-shadow: 0 0 8px #A07878;'>حزنها</b> وتُعيد إليها عزيمتها.<br> في عالم يغرق في <b style='color: #6A5050; text-shadow: 0 0 8px #6A5050;'>الوباء</b> و<b style='color: #786060; text-shadow: 0 0 8px #786060;'>العنف</b>، هذه ليست ملحمة أبطال، بل قصة <b style='color: #C8B090; text-shadow: 0 0 8px #C8B090;'>حبّ</b> يمشي في قلب الجحيم.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 40,
     "BackgroundUrl": "https://archive.org/download/RPRM001/1348%20Ex%20Voto%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/1348%20Ex%20Voto%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/1348%20Ex%20Voto%20Trailer.mp4",
@@ -146391,8 +146421,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Sedleo"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -146411,16 +146445,17 @@
     },
     "Tags": [
       "Need Music"
-    ]
+    ],
+    "Length": 10
   },
   {
     "_id": "game_1773382455608_1",
     "Name": "Solateria",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "The <b style='color: #E8A030; text-shadow: 0 0 8px #E8A030;'>Primordial Flame</b> that once protected <b style='color: #C87840; text-shadow: 0 0 8px #C87840;'>Solateria</b> has gone dark, and the <b style='color: #483060; text-shadow: 0 0 8px #483060;'>Shadow Plague</b> is consuming every corner of the world.<br> <b style='color: #60A8C8; text-shadow: 0 0 8px #60A8C8;'>Tott</b>, a <b style='color: #E87840; text-shadow: 0 0 8px #E87840;'>Litt Pyron</b> warrior with a <b style='color: #F0C040; text-shadow: 0 0 8px #F0C040;'>blue flame</b> for a head, awakens with no memories — only a distant voice guiding him toward the <b style='color: #9080A0; text-shadow: 0 0 8px #9080A0;'>missing King</b>.<br> That King is said to be the world's last hope against the spreading dark.<br> <b style='color: #706890; text-shadow: 0 0 8px #706890;'>Corrupted guardians</b> block every path.<br> As Tott pushes deeper into the forgotten <b style='color: #5878A0; text-shadow: 0 0 8px #5878A0;'>lost biomes</b>, fragments of his <b style='color: #8890A8; text-shadow: 0 0 8px #8890A8;'>buried past</b> rise to the surface.<br> The deeper he goes, the more the world's <b style='color: #A0A0C8; text-shadow: 0 0 8px #A0A0C8;'>ancient secrets</b> and his own identity begin to converge.<br> Some truths are written in <b style='color: #D06040; text-shadow: 0 0 8px #D06040;'>fire</b> — and Tott is only beginning to read them.",
+    "DescriptionArabic": "<div dir='rtl'>كان <b style='color: #E8A030; text-shadow: 0 0 8px #E8A030;'>اللهب الأول</b> يحمي عالم <b style='color: #C87840; text-shadow: 0 0 8px #C87840;'>سولاتيريا</b>، لكنه خمد، وتسلّل <b style='color: #483060; text-shadow: 0 0 8px #483060;'>طاعون الظل</b> يلتهم كل شيء في طريقه.<br> يصحو <b style='color: #60A8C8; text-shadow: 0 0 8px #60A8C8;'>تُوت</b>، المحارب من قبيلة <b style='color: #E87840; text-shadow: 0 0 8px #E87840;'>ليت بايرون</b> ذو <b style='color: #F0C040; text-shadow: 0 0 8px #F0C040;'>الجمرة الزرقاء</b>، بلا ذكريات ولا هوية.<br> كل ما لديه صوت خافت يقوده نحو <b style='color: #9080A0; text-shadow: 0 0 8px #9080A0;'>الملك المفقود</b>، آخر أمل لإنقاذ العالم.<br> يقف في طريقه <b style='color: #706890; text-shadow: 0 0 8px #706890;'>حرّاس فاسدون</b> طالهم الطاعون وحوّلهم إلى شيء مجهول.<br> كلما تعمّق في <b style='color: #5878A0; text-shadow: 0 0 8px #5878A0;'>البيئات المنسية</b>، ارتفعت شظايا من <b style='color: #8890A8; text-shadow: 0 0 8px #8890A8;'>ماضيه المدفون</b>.<br> تتلاقى <b style='color: #A0A0C8; text-shadow: 0 0 8px #A0A0C8;'>أسرار العالم العتيقة</b> مع هويّته المجهولة في سؤال واحد.<br> بعض الحقائق محفورة في <b style='color: #D06040; text-shadow: 0 0 8px #D06040;'>النار</b> — وتُوت لا يزال يتعلّم قراءتها.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Solateria%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Solateria%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Solateria%20Trailer.mp4",
@@ -146430,8 +146465,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Metroidvania"
+    ],
+    "DeveloperNames": [
+      "Studio Doodal"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -146450,16 +146489,17 @@
     },
     "Tags": [
       "Need Music"
-    ]
+    ],
+    "Length": 10
   },
   {
     "_id": "game_1773382455608_2",
     "Name": "Timberborn",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "<b style='color: #8B6914; text-shadow: 0 0 8px #8B6914;'>Hoomans</b> stripped the <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>barren earth</b> dry and then disappeared, leaving behind nothing but ruins, drought, and an opening for someone smarter to take over.<br> That someone is a colony of sapient <b style='color: #C0780A; text-shadow: 0 0 8px #C0780A;'>lumberpunk beavers</b> armed with wood, engineering skill, and alarming ambition.<br> Forests must be planted, rivers <b style='color: #4F8070; text-shadow: 0 0 8px #4F8070;'>dammed</b> and redirected, and food stockpiled before the inevitable <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>drought season</b> hits.<br> Then come the <b style='color: #7A6030; text-shadow: 0 0 8px #7A6030;'>badtide floods</b> — toxic waves that threaten everything built so carefully.<br> Two rival <b style='color: #5F8070; text-shadow: 0 0 8px #5F8070;'>beaver factions</b> approach <b style='color: #7A9060; text-shadow: 0 0 8px #7A9060;'>survival</b> with entirely different engineering philosophies.<br> Balancing <b style='color: #8B7355; text-shadow: 0 0 8px #8B7355;'>colony morale</b>, <b style='color: #6B8E23; text-shadow: 0 0 8px #6B8E23;'>water infrastructure</b>, and <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>resource stockpiles</b> while the planet refuses to cooperate is absurdly satisfying.<br> The crumbling <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>Hooman ruins</b> scattered everywhere serve as both building material and cautionary tale.",
+    "DescriptionArabic": "<div dir='rtl'>جرف <b style='color: #8B6914; text-shadow: 0 0 8px #8B6914;'>البشر</b> <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>الأرض القاحلة</b> حتى أنهكوها ثم اختفوا، تاركين الحطام والجفاف فرصةً لمن هو أجدر.<br> ذلك الأجدر هو مستعمرة من <b style='color: #C0780A; text-shadow: 0 0 8px #C0780A;'>القنادس اللومبربنك</b> تتسلّح بالخشب والطموح والهندسة.<br> تُزرع الغابات، وتُ<b style='color: #4F8070; text-shadow: 0 0 8px #4F8070;'>سدّ الأنهار</b> وتُحوّل مساراتها، وتُكدّس المؤن قبل أن يضرب <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>موسم الجفاف</b>.<br> ثم تأتي <b style='color: #7A6030; text-shadow: 0 0 8px #7A6030;'>فيضانات الموجة السامة</b> لتهدّد كل ما بُني بعناية.<br> تختار بين <b style='color: #5F8070; text-shadow: 0 0 8px #5F8070;'>فصيلتين من القنادس</b> لكل منهما فلسفتها الخاصة في <b style='color: #7A9060; text-shadow: 0 0 8px #7A9060;'>البقاء</b>.<br> الموازنة بين <b style='color: #8B7355; text-shadow: 0 0 8px #8B7355;'>معنويات المستعمرة</b> و<b style='color: #6B8E23; text-shadow: 0 0 8px #6B8E23;'>البنية المائية</b> و<b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>مخزونات الموارد</b> في مواجهة طبيعة لا ترحم هو ضرب من الجنون الممتع.<br> أما <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>أطلال البشر</b> المنتشرة في كل مكان، فهي تذكير دائم بمن لا ينبغي أن تكون.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Timberborn%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Timberborn%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Timberborn%20Trailer.mp4",
@@ -146469,8 +146509,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Simulation"
+    ],
+    "DeveloperNames": [
+      "Mechanistry"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -146489,16 +146533,17 @@
     },
     "Tags": [
       "Need Music"
-    ]
+    ],
+    "Length": 20
   },
   {
     "_id": "game_1773437685744_0",
     "Name": "Rustil Eternal Labyrinth Castle",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "A massive <b style='color: #8870A8; text-shadow: 0 0 8px #8870A8;'>Labyrinth Castle</b> appeared without warning, pulling <b style='color: #C8A870; text-shadow: 0 0 8px #C8A870;'>Rustil</b> toward its gates like a force she could not explain.<br> She carries no <b style='color: #B0A0C8; text-shadow: 0 0 8px #B0A0C8;'>memories</b> — only <b style='color: #90A8C0; text-shadow: 0 0 8px #90A8C0;'>Kotryn</b>, a <b style='color: #80A090; text-shadow: 0 0 8px #80A090;'>fairy companion</b> with secrets of her own.<br> Inside the castle's <b style='color: #7870A0; text-shadow: 0 0 8px #7870A0;'>ever-shifting chambers</b>, the <b style='color: #9080B0; text-shadow: 0 0 8px #9080B0;'>souls of fallen heroes</b> drift between floors, each carrying a <b style='color: #A09880; text-shadow: 0 0 8px #A09880;'>last unfinished will</b>.<br> Rustil inherits their power and their burdens, floor by floor.<br> The <b style='color: #706888; text-shadow: 0 0 8px #706888;'>labyrinth</b> reshapes itself around her, testing <b style='color: #A0A0B8; text-shadow: 0 0 8px #A0A0B8;'>resolve</b> as much as strength.<br> Somewhere at its core, a <b style='color: #6860A0; text-shadow: 0 0 8px #6860A0;'>harsh truth</b> waits — one that may explain who she is and what this place truly wants from her.<br> The <b style='color: #806890; text-shadow: 0 0 8px #806890;'>castle's depths</b> give no answers easily.",
+    "DescriptionArabic": "<div dir='rtl'>ظهرت <b style='color: #8870A8; text-shadow: 0 0 8px #8870A8;'>قلعة المتاهة</b> فجأة من العدم، تشدّ <b style='color: #C8A870; text-shadow: 0 0 8px #C8A870;'>روستيل</b> نحو بوابتها بقوة لا تستطيع تفسيرها.<br> لا تحمل <b style='color: #B0A0C8; text-shadow: 0 0 8px #B0A0C8;'>ذكريات</b> — كل ما معها <b style='color: #90A8C0; text-shadow: 0 0 8px #90A8C0;'>كوترين</b>، <b style='color: #80A090; text-shadow: 0 0 8px #80A090;'>رفيقتها الجنّيّة</b> التي تبدو أعلم مما تُعلن.<br> في <b style='color: #7870A0; text-shadow: 0 0 8px #7870A0;'>القاعات المتحوّلة</b> للقلعة، تسبح <b style='color: #9080B0; text-shadow: 0 0 8px #9080B0;'>أرواح الأبطال الساقطين</b> بين الأدوار، كل منها يحمل <b style='color: #A09880; text-shadow: 0 0 8px #A09880;'>وصيّة لم تُكتمل</b>.<br> ترث روستيل قوّتهم وأثقالهم، طابقاً تلو طابق.<br> تُعيد <b style='color: #706888; text-shadow: 0 0 8px #706888;'>المتاهة</b> تشكيل نفسها من حولها، تختبر <b style='color: #A0A0B8; text-shadow: 0 0 8px #A0A0B8;'>العزيمة</b> بقدر ما تختبر القوة.<br> في قلبها، تنتظر <b style='color: #6860A0; text-shadow: 0 0 8px #6860A0;'>حقيقة مرّة</b> قد تكشف من هي وما يريده منها هذا المكان.<br> <b style='color: #806890; text-shadow: 0 0 8px #806890;'>أعماق القلعة</b> لا تجود بإجاباتها بسهولة.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 60,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Rustil%20Eternal%20Labyrinth%20Castle%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Rustil%20Eternal%20Labyrinth%20Castle%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Rustil%20Eternal%20Labyrinth%20Castle%20Trailer.mp4",
@@ -146508,8 +146553,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Roguelite"
+    ],
+    "DeveloperNames": [
+      "KTMG LLC"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -146528,16 +146577,17 @@
     },
     "Tags": [
       "Need Music"
-    ]
+    ],
+    "Length": 10
   },
   {
     "_id": "game_1773437685744_1",
     "Name": "Two Strikes",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "In the chaos of <b style='color: #8B3A3A; text-shadow: 0 0 8px #8B3A3A;'>Sengoku Japan</b>, the death god <b style='color: #3D1F8E; text-shadow: 0 0 8px #3D1F8E;'>Shinigami</b> has convened a <b style='color: #CC2200; text-shadow: 0 0 8px #CC2200;'>tournament of death</b>.<br> Warriors arrive from across the land — a <b style='color: #1F6F9E; text-shadow: 0 0 8px #1F6F9E;'>scarred samurai</b>, a <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>silent assassin</b>, a <b style='color: #FF8800; text-shadow: 0 0 8px #FF8800;'>roaming monk</b>, a <b style='color: #607060; text-shadow: 0 0 8px #607060;'>deceitful ninja</b> — each carrying a story written in <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>blood</b>.<br> The rules are merciless: two strikes and you fall.<br> Behind the spectacle, the <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Shinigami's trial</b> strips each warrior down to what they truly are and what drove them here.<br> Their stories surface one duel at a time, each fight a page in a tale of <b style='color: #008B8B; text-shadow: 0 0 8px #008B8B;'>honor</b>, <b style='color: #CC3366; text-shadow: 0 0 8px #CC3366;'>regret</b>, and the weight of the <b style='color: #88AA00; text-shadow: 0 0 8px #88AA00;'>sword</b>.<br> No second chances.<br> No mercy awaits.",
+    "DescriptionArabic": "<div dir='rtl'>في فوضى <b style='color: #8B3A3A; text-shadow: 0 0 8px #8B3A3A;'>يابان سينغوكو</b>، دعا إله الموت <b style='color: #3D1F8E; text-shadow: 0 0 8px #3D1F8E;'>شينيغامي</b> إلى <b style='color: #CC2200; text-shadow: 0 0 8px #CC2200;'>بطولة الموت</b>.<br> يصل المحاربون من كل مكان — <b style='color: #1F6F9E; text-shadow: 0 0 8px #1F6F9E;'>ساموراي مجروح</b> وقاتل <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>صامت</b> وراهب <b style='color: #FF8800; text-shadow: 0 0 8px #FF8800;'>متجول</b> ونينجا <b style='color: #607060; text-shadow: 0 0 8px #607060;'>خادع</b>، كل منهم يحمل قصة مكتوبة بـ<b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>الدم</b>.<br> القواعد بلا رحمة: ضربتان وتسقط.<br> خلف المشهد، تجرّد <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>محاكمة شينيغامي</b> كل محارب من أقنعته وتكشف ما دفعه إلى هنا.<br> قصصهم تتكشف مبارزة تلو مبارزة، في حكاية تجمع <b style='color: #008B8B; text-shadow: 0 0 8px #008B8B;'>الشرف</b> و<b style='color: #CC3366; text-shadow: 0 0 8px #CC3366;'>الندم</b> وثقل <b style='color: #88AA00; text-shadow: 0 0 8px #88AA00;'>السيف</b>.<br> لا فرص ثانية.<br> لا رحمة تنتظر.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Two%20Strikes%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Two%20Strikes%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Two%20Strikes%20Trailer.mp4",
@@ -146547,8 +146597,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Fighting"
+    ],
+    "DeveloperNames": [
+      "Retro Reactor"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -146564,16 +146618,17 @@
           }
         ]
       }
-    }
+    },
+    "Length": 5
   },
   {
     "_id": "game_1773469102025_1",
     "Name": "Sengoku Basara 2",
     "SortingName": "Sengoku Basara 02",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "With <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Nobunaga's shadow</b> finally lifted, Japan barely draws breath before a new tyrant rises in his place.<br> <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Toyotomi Hideyoshi</b>, a colossus of sheer destruction, claims the void with an iron fist and a hunger for absolute power.<br> His devoted blade <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Ishida Mitsunari</b> will burn the world at his word.<br> New <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>warlords</b> surge across sea and land — the roguish <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>Chosokabe Motochika</b> commanding the waves, the calculating <b style='color: #6A0DAD; text-shadow: 0 0 8px #6A0DAD;'>Mori Motonari</b> moving allies like chess pieces.<br> <b style='color: #CC4400; text-shadow: 0 0 8px #CC4400;'>Date Masamune</b> and <b style='color: #FF8800; text-shadow: 0 0 8px #FF8800;'>Sanada Yukimura</b> charge forward again, this time against a threat that makes Nobunaga look merely mortal.<br> The <b style='color: #003380; text-shadow: 0 0 8px #003380;'>battlefields</b> of <b style='color: #008B8B; text-shadow: 0 0 8px #008B8B;'>Sengoku Japan</b> roar with fresh fury, old <b style='color: #B87333; text-shadow: 0 0 8px #B87333;'>rivalries</b> burn deeper, and new <b style='color: #9B111E; text-shadow: 0 0 8px #9B111E;'>alliances</b> are forged in fire.",
+    "DescriptionArabic": "<div dir='rtl'>بمجرد أن رُفع <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>ظل نوبوناغا</b>، كادت اليابان تستعيد أنفاسها قبل أن يُولد طاغية جديد في مكانه.<br> <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>تويوتومي هيديوشي</b>، جبّار الدمار، يملأ الفراغ بقبضة حديد وجشع للسلطة المطلقة.<br> نصله المخلص <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>إيشيدا ميتسوناري</b> مستعد لإحراق العالم عند أمره.<br> <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>حكام جدد</b> يتدفقون من البحر والبر — <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>تشوسوكابي موتوتشيكا</b> يقود الأمواج، و<b style='color: #6A0DAD; text-shadow: 0 0 8px #6A0DAD;'>موري موتوناري</b> يحرك الحلفاء كأحجار شطرنج.<br> <b style='color: #CC4400; text-shadow: 0 0 8px #CC4400;'>داتي ماساموني</b> و<b style='color: #FF8800; text-shadow: 0 0 8px #FF8800;'>سانادا يوكيمورا</b> يندفعان مجدداً أمام تهديد يجعل نوبوناغا يبدو مجرد بشر.<br> <b style='color: #003380; text-shadow: 0 0 8px #003380;'>ساحات الحرب</b> في <b style='color: #008B8B; text-shadow: 0 0 8px #008B8B;'>يابان سينغوكو</b> تزأر بغضب جديد، و<b style='color: #B87333; text-shadow: 0 0 8px #B87333;'>التنافسات</b> القديمة تحترق أعمق، و<b style='color: #9B111E; text-shadow: 0 0 8px #9B111E;'>التحالفات</b> الجديدة تُلحم في النار.</div>",
+    "ReleaseDate": "2006",
+    "CriticScore": 60,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%202%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%202%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%202%20Trailer.mp4",
@@ -146583,8 +146638,12 @@
     "PlatformNames": [
       "Sony PlayStation 2"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Musou"
+    ],
+    "DeveloperNames": [
+      "Capcom"
+    ],
     "downloadInfo": {
       "Sony PlayStation 2": {
         "versions": [
@@ -146607,16 +146666,17 @@
           }
         ]
       }
-    }
+    },
+    "Length": 10
   },
   {
     "_id": "game_1773469102025_2",
     "Name": "Sengoku Basara",
     "SortingName": "Sengoku Basara 01.01",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "<b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Nobunaga Oda</b>, the self-declared <b style='color: #6A0DAD; text-shadow: 0 0 8px #6A0DAD;'>Sixth Demon King</b>, marches across <b style='color: #003380; text-shadow: 0 0 8px #003380;'>Sengoku Japan</b> with one goal — total <b style='color: #9B111E; text-shadow: 0 0 8px #9B111E;'>conquest</b> by any means necessary.<br> His armies leave nothing but ash, and the <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>warlords</b> of Japan must choose between submission and war.<br> <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Date Masamune</b>, the one-eyed dragon of the East, charges into battle with reckless ambition.<br> <b style='color: #CC4400; text-shadow: 0 0 8px #CC4400;'>Sanada Yukimura</b>, his heart burning with loyalty, fights alongside the great <b style='color: #FF8800; text-shadow: 0 0 8px #FF8800;'>Takeda Shingen</b>.<br> In the North, the legendary <b style='color: #008B8B; text-shadow: 0 0 8px #008B8B;'>Uesugi Kenshin</b> clashes endlessly with Shingen in a <b style='color: #B87333; text-shadow: 0 0 8px #B87333;'>rivalry</b> as fierce as any war.<br> Across smoke-choked <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>battlefields</b>, these warlords clash, scheme, and forge unlikely bonds.<br> The fate of <b style='color: #708090; text-shadow: 0 0 8px #708090;'>feudal Japan</b> hangs between the ambitions of demons and the courage of men.",
+    "DescriptionArabic": "<div dir='rtl'>يسير <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>نوبوناغا أودا</b> الملقَّب بـ<b style='color: #6A0DAD; text-shadow: 0 0 8px #6A0DAD;'>ملك الشياطين السادس</b> عبر <b style='color: #003380; text-shadow: 0 0 8px #003380;'>يابان سينغوكو</b> بهدف واحد — <b style='color: #9B111E; text-shadow: 0 0 8px #9B111E;'>الفتح</b> بأي ثمن.<br> جيوشه لا تترك غير الرماد، و<b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>الحكام المتحاربون</b> أمام خيارين: الاستسلام أو الحرب.<br> <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>داتي ماساموني</b>، التنين الأعور من الشرق، يندفع إلى المعركة بطموح لا حدود له.<br> <b style='color: #CC4400; text-shadow: 0 0 8px #CC4400;'>سانادا يوكيمورا</b>، المشتعل بالولاء، يقاتل جنب العظيم <b style='color: #FF8800; text-shadow: 0 0 8px #FF8800;'>تاكيدا شينغن</b>.<br> في الشمال، يصطدم الأسطوري <b style='color: #008B8B; text-shadow: 0 0 8px #008B8B;'>أوِيسوغي كينشين</b> بشينغن في <b style='color: #B87333; text-shadow: 0 0 8px #B87333;'>تنافس</b> لا يقل ضراوة عن أي حرب.<br> عبر <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>ساحات الحرب</b> المدخّنة، يتصادم هؤلاء الحكام ويكوّنون تحالفات غير متوقعة.<br> مصير <b style='color: #708090; text-shadow: 0 0 8px #708090;'>اليابان الإقطاعية</b> معلّق بين طموحات الشياطين وشجاعة الرجال.</div>",
+    "ReleaseDate": "2005",
+    "CriticScore": 60,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%20Trailer.mp4",
@@ -146626,8 +146686,12 @@
     "PlatformNames": [
       "Sony PlayStation 2"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Musou"
+    ],
+    "DeveloperNames": [
+      "Capcom"
+    ],
     "downloadInfo": {
       "Sony PlayStation 2": {
         "versions": [
@@ -146650,16 +146714,17 @@
           }
         ]
       }
-    }
+    },
+    "Length": 10
   },
   {
     "_id": "game_1773470467632_0",
     "Name": "Sengoku Basara 3 Utage",
     "SortingName": "Sengoku Basara 03.01",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "The smoke of <b style='color: #607D8B; text-shadow: 0 0 8px #607D8B;'>Sekigahara</b> lingers over a shattered land.<br> <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Tokugawa Ieyasu</b> stands victorious, preaching peace and unity — but peace born from conquest is never quietly kept.<br> <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Ishida Mitsunari</b>, consumed by grief and <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>burning rage</b>, refuses to accept the new order.<br> His ally <b style='color: #6A0DAD; text-shadow: 0 0 8px #6A0DAD;'>Otani Yoshitsugu</b>, broken in body but unbroken in will, walks with him toward a war neither can win alone.<br> New <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>warlords</b> rise in the <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>aftermath</b>, veterans who refused to kneel and youths who never stopped fighting.<br> <b style='color: #1F6F9E; text-shadow: 0 0 8px #1F6F9E;'>Date Masamune</b> and <b style='color: #CC4400; text-shadow: 0 0 8px #CC4400;'>Sanada Yukimura</b> are pulled back into a conflict with no clean resolution.<br> The era of <b style='color: #5C5C7A; text-shadow: 0 0 8px #5C5C7A;'>endless war</b> refuses to end — and <b style='color: #800080; text-shadow: 0 0 8px #800080;'>everyone bleeds</b> for it.",
+    "DescriptionArabic": "<div dir='rtl'>دخان <b style='color: #607D8B; text-shadow: 0 0 8px #607D8B;'>سيكيغاهارا</b> لا يزال يخيّم فوق أرض مهشّمة.<br> <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>تاكوغاوا إيياسو</b> يقف منتصراً يُبشّر بالسلام — لكن سلاماً وُلد من الفتح نادراً ما يُقبل بهدوء.<br> <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>إيشيدا ميتسوناري</b>، المشتعل بالحزن و<b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الغضب المتّقد</b>، يرفض الخضوع للنظام الجديد.<br> حليفه <b style='color: #6A0DAD; text-shadow: 0 0 8px #6A0DAD;'>أوتاني يوشيتسوغو</b>، محطّم الجسد لكن صارم الإرادة، يمشي معه نحو حرب لا يستطيع أي منهما خوضها وحده.<br> <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>حكام جدد</b> يبرزون في <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>الأعقاب</b>، محاربون رفضوا السقوط وشباب لم يتوقفوا عن القتال.<br> <b style='color: #1F6F9E; text-shadow: 0 0 8px #1F6F9E;'>داتي ماساموني</b> و<b style='color: #CC4400; text-shadow: 0 0 8px #CC4400;'>سانادا يوكيمورا</b> منجذبان مجدداً إلى صراع بلا نهاية واضحة.<br> حقبة <b style='color: #5C5C7A; text-shadow: 0 0 8px #5C5C7A;'>الحرب التي لا تنتهي</b> ترفض أن تُغلق عيونها — و<b style='color: #800080; text-shadow: 0 0 8px #800080;'>الجميع ينزف</b> في سبيلها.</div>",
+    "ReleaseDate": "2011",
+    "CriticScore": 60,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%203%20Utage%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%203%20Utage%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%203%20Utage%20Trailer.mp4",
@@ -146669,8 +146734,12 @@
     "PlatformNames": [
       "Sony PlayStation 3"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Musou"
+    ],
+    "DeveloperNames": [
+      "Capcom"
+    ],
     "downloadInfo": {
       "Sony PlayStation 3": {
         "versions": [
@@ -146686,16 +146755,17 @@
           }
         ]
       }
-    }
+    },
+    "Length": 15
   },
   {
     "_id": "game_1773470467632_1",
     "Name": "Sengoku Basara 4",
     "SortingName": "Sengoku Basara 04",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "The wounds of <b style='color: #607D8B; text-shadow: 0 0 8px #607D8B;'>Sekigahara</b> have not healed, and <b style='color: #003380; text-shadow: 0 0 8px #003380;'>Sengoku Japan</b> bleeds still.<br> <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Toyotomi loyalists</b> refuse to surrender, new factions carve territory from the chaos, and the end of the <b style='color: #9B111E; text-shadow: 0 0 8px #9B111E;'>warring age</b> feels impossibly far.<br> <b style='color: #CC8800; text-shadow: 0 0 8px #CC8800;'>Shima Sakon</b>, a calculating strategist with dangerous ambitions, steps from the <b style='color: #404060; text-shadow: 0 0 8px #404060;'>shadows</b> to reshape the board.<br> The brilliant and ruthless <b style='color: #6A0DAD; text-shadow: 0 0 8px #6A0DAD;'>Takenaka Hanbei</b> works against everyone from within, smiling through catastrophe.<br> <b style='color: #CC4400; text-shadow: 0 0 8px #CC4400;'>Date Masamune</b> surges forward undaunted; <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>Sanada Yukimura</b> burns with undiminished resolve.<br> New warriors like the determined <b style='color: #DD4488; text-shadow: 0 0 8px #DD4488;'>Naotora Ii</b> add their <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>legacy</b> to the dying age's final conflicts.<br> Every <b style='color: #1F6F9E; text-shadow: 0 0 8px #1F6F9E;'>battle</b> may be the last — and every warlord knows it.",
+    "DescriptionArabic": "<div dir='rtl'>جراح <b style='color: #607D8B; text-shadow: 0 0 8px #607D8B;'>سيكيغاهارا</b> لم تلتئم، و<b style='color: #003380; text-shadow: 0 0 8px #003380;'>يابان سينغوكو</b> لا تزال تنزف.<br> <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>أتباع تويوتومي</b> يرفضون الاستسلام، والفصائل الجديدة تنحت أراضيها من الفوضى، ونهاية <b style='color: #9B111E; text-shadow: 0 0 8px #9B111E;'>حقبة الحرب</b> تبدو بعيدة المنال.<br> <b style='color: #CC8800; text-shadow: 0 0 8px #CC8800;'>شيما ساكون</b>، الاستراتيجي الحاسب ذو الطموحات الخطرة، يخرج من <b style='color: #404060; text-shadow: 0 0 8px #404060;'>الظل</b> لإعادة رسم الخارطة.<br> <b style='color: #6A0DAD; text-shadow: 0 0 8px #6A0DAD;'>تاكيناكا هانباي</b> العبقري القاسي يعمل ضد الجميع من الداخل ويبتسم وسط الكوارث.<br> <b style='color: #CC4400; text-shadow: 0 0 8px #CC4400;'>داتي ماساموني</b> لا يتراجع؛ و<b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>سانادا يوكيمورا</b> يحترق بعزيمة لا تنطفئ.<br> محاربون جدد كالمصمِّمة <b style='color: #DD4488; text-shadow: 0 0 8px #DD4488;'>ناوتورا إي</b> يضيفون <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>إرثهم</b> إلى الصراعات الأخيرة لحقبة محتضرة.<br> كل <b style='color: #1F6F9E; text-shadow: 0 0 8px #1F6F9E;'>معركة</b> قد تكون الأخيرة — وكل حاكم يعلم ذلك.</div>",
+    "ReleaseDate": "2014",
+    "CriticScore": 60,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%204%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%204%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%204%20Trailer.mp4",
@@ -146705,8 +146775,12 @@
     "PlatformNames": [
       "Sony PlayStation 3"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Musou"
+    ],
+    "DeveloperNames": [
+      "Capcom"
+    ],
     "downloadInfo": {
       "Sony PlayStation 3": {
         "versions": [
@@ -146738,16 +146812,17 @@
           }
         ]
       }
-    }
+    },
+    "Length": 15
   },
   {
     "_id": "game_1773470467632_2",
     "Name": "Sengoku Basara HD Collection",
     "SortingName": "Sengoku Basara 03.02",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Three legendary chapters of <b style='color: #003380; text-shadow: 0 0 8px #003380;'>Sengoku Japan</b> collected in one remastered edition.<br> From the shadow of <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Nobunaga Oda</b>'s demonic conquest to the brutal rise of <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Toyotomi Hideyoshi</b>, the full founding arc of an age of war is here.<br> <b style='color: #CC4400; text-shadow: 0 0 8px #CC4400;'>Date Masamune</b>, <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Sanada Yukimura</b>, <b style='color: #008B8B; text-shadow: 0 0 8px #008B8B;'>Uesugi Kenshin</b>, <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>Takeda Shingen</b>, and dozens more take the field across every <b style='color: #9B111E; text-shadow: 0 0 8px #9B111E;'>warring province</b>.<br> <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Ishida Mitsunari</b> watches from the shadows as Hideyoshi's world tears itself apart.<br> Every iconic <b style='color: #B87333; text-shadow: 0 0 8px #B87333;'>battle</b> and every <b style='color: #CC3366; text-shadow: 0 0 8px #CC3366;'>loyalty</b> tested across three campaigns — now sharper, together, and impossible to put down.<br> A single collection that holds the full weight of <b style='color: #6A0DAD; text-shadow: 0 0 8px #6A0DAD;'>an age of war</b>.",
+    "DescriptionArabic": "<div dir='rtl'>ثلاثة فصول أسطورية من <b style='color: #003380; text-shadow: 0 0 8px #003380;'>يابان سينغوكو</b> في إصدار واحد محسَّن.<br> من ظل فتح <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>نوبوناغا أودا</b> الشيطاني إلى صعود <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>تويوتومي هيديوشي</b> بقبضة من حديد، القوس الكامل لعصر الحرب موجود هنا.<br> <b style='color: #CC4400; text-shadow: 0 0 8px #CC4400;'>داتي ماساموني</b> و<b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>سانادا يوكيمورا</b> و<b style='color: #008B8B; text-shadow: 0 0 8px #008B8B;'>أوِيسوغي كينشين</b> و<b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>تاكيدا شينغن</b> وعشرات غيرهم يتقدمون عبر كل <b style='color: #9B111E; text-shadow: 0 0 8px #9B111E;'>إقليم متحارب</b>.<br> <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>إيشيدا ميتسوناري</b> يراقب من الظل وعالم هيديوشي يتمزق من الداخل.<br> كل <b style='color: #B87333; text-shadow: 0 0 8px #B87333;'>معركة</b> خالدة وكل <b style='color: #CC3366; text-shadow: 0 0 8px #CC3366;'>ولاء</b> اختُبر عبر ثلاث حملات — أكثر حدةً وأعمق تأثيراً من أي وقت مضى.<br> مجموعة واحدة تحمل الثقل الكامل لـ<b style='color: #6A0DAD; text-shadow: 0 0 8px #6A0DAD;'>عصر الحروب</b>.</div>",
+    "ReleaseDate": "2012",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%20HD%20Collection%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%20HD%20Collection%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Sengoku%20Basara%20HD%20Collection%20Trailer.mp4",
@@ -146757,8 +146832,12 @@
     "PlatformNames": [
       "Sony PlayStation 3"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Musou"
+    ],
+    "DeveloperNames": [
+      "Capcom"
+    ],
     "downloadInfo": {
       "Sony PlayStation 3": {
         "versions": [
@@ -146774,16 +146853,17 @@
           }
         ]
       }
-    }
+    },
+    "Length": 30
   },
   {
     "_id": "game_1773477724331_0",
     "Name": "Nickelodeon SpongeBob SquarePants featuring Nicktoons Globs of Doom",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "The universe is under attack — not from a particularly scary villain, but from <b style='color: #FF8800; text-shadow: 0 0 8px #FF8800;'>Globulous Maximus</b>, a cosmic blob born from the <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>Big Sneeze</b> of creation who wants to experience <b style='color: #00AAFF; text-shadow: 0 0 8px #00AAFF;'>SpongeBob</b>'s life.<br> His <b style='color: #CC2200; text-shadow: 0 0 8px #CC2200;'>Morphoid</b> army rains down on <b style='color: #009966; text-shadow: 0 0 8px #009966;'>Bikini Bottom</b> and beyond, brainwashing everyone they touch.<br> <b style='color: #6A0DAD; text-shadow: 0 0 8px #6A0DAD;'>Jimmy Neutron</b> assembles the most chaotic rescue squad imaginable — heroes and villains working together because apparently <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Plankton</b> is useful in a multiverse crisis.<br> <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Danny Phantom</b>, <b style='color: #CC4400; text-shadow: 0 0 8px #CC4400;'>Tak</b>, and <b style='color: #008B8B; text-shadow: 0 0 8px #008B8B;'>Invader Zim</b> pile in with their own very questionable agendas.<br> The <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Evil Syndicate</b> is absolutely scheming on the side.<br> The fate of existence has never been in messier, more delightfully <b style='color: #9B111E; text-shadow: 0 0 8px #9B111E;'>zany</b> hands.",
+    "DescriptionArabic": "<div dir='rtl'>الكون تحت الهجوم — ليس من شرير مخيف بالضرورة، بل من <b style='color: #FF8800; text-shadow: 0 0 8px #FF8800;'>غلوبولوس ماكسيموس</b>، كائن كوني هلامي وُلد من <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>العطسة الكبرى</b> في بداية الزمن ويريد تجربة حياة <b style='color: #00AAFF; text-shadow: 0 0 8px #00AAFF;'>سبونج بوب</b>.<br> جيشه من <b style='color: #CC2200; text-shadow: 0 0 8px #CC2200;'>المورفويد</b> ينهمر على <b style='color: #009966; text-shadow: 0 0 8px #009966;'>بيكيني بوتوم</b> وما حولها، يُسيطر على عقول الجميع.<br> <b style='color: #6A0DAD; text-shadow: 0 0 8px #6A0DAD;'>جيمي نيوترون</b> يُجمّع أغرب فريق إنقاذ عرفه الكون — أبطال وأشرار معاً، لأن <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>بلانكتون</b> يفيد حين يكون الوجود على المحك.<br> <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>داني فانتوم</b> و<b style='color: #CC4400; text-shadow: 0 0 8px #CC4400;'>تاك</b> و<b style='color: #008B8B; text-shadow: 0 0 8px #008B8B;'>الغازي زيم</b> ينضمون لأسباب مشكوك فيها تماماً.<br> <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>تحالف الأشرار</b> يدبّر بالطبع من الخلف.<br> مصير الوجود لم يكن في أيدٍ أكثر <b style='color: #9B111E; text-shadow: 0 0 8px #9B111E;'>فوضوية وطرافة</b> من هذه.</div>",
+    "ReleaseDate": "2008",
+    "CriticScore": 40,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Nickelodeon%20SpongeBob%20SquarePants%20featuring%20Nicktoons%20Globs%20of%20Doom%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Nickelodeon%20SpongeBob%20SquarePants%20featuring%20Nicktoons%20Globs%20of%20Doom%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Nickelodeon%20SpongeBob%20SquarePants%20featuring%20Nicktoons%20Globs%20of%20Doom%20Trailer.mp4",
@@ -146793,8 +146873,12 @@
     "PlatformNames": [
       "Sony PlayStation 2"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Platformer"
+    ],
+    "DeveloperNames": [
+      "Incinerator Studios"
+    ],
     "downloadInfo": {
       "Sony PlayStation 2": {
         "versions": [
@@ -146811,16 +146895,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 5
   },
   {
     "_id": "game_1773477724332_1",
     "Name": "Nicktoons Battle for Volcano Island",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "An ancient evil called the <b style='color: #6A0DAD; text-shadow: 0 0 8px #6A0DAD;'>Mawgu</b> has broken free from his long imprisonment beneath <b style='color: #CC2200; text-shadow: 0 0 8px #CC2200;'>Volcano Island</b>, and his first order of business is revenge.<br> His corrupting <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>toxic ooze</b> spreads across the island and opens a <b style='color: #003380; text-shadow: 0 0 8px #003380;'>dimensional rift</b> above the volcano that threatens to destroy <b style='color: #00AAFF; text-shadow: 0 0 8px #00AAFF;'>Bikini Bottom</b>, <b style='color: #FF8800; text-shadow: 0 0 8px #FF8800;'>Retroville</b>, <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Dimmsdale</b>, and <b style='color: #CC4400; text-shadow: 0 0 8px #CC4400;'>Amity Park</b> entirely.<br> <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Jimmy Neutron</b> mobilizes a rescue squad — <b style='color: #008B8B; text-shadow: 0 0 8px #008B8B;'>SpongeBob</b>, <b style='color: #9B111E; text-shadow: 0 0 8px #9B111E;'>Danny Phantom</b>, <b style='color: #DD4488; text-shadow: 0 0 8px #DD4488;'>Timmy Turner</b>, and friends — pulling them from their home worlds to fight on unfamiliar ground.<br> The island is treacherous, the ooze is spreading fast, and the Mawgu's grudge is very, very old.<br> Save four worlds, or lose them all.",
+    "DescriptionArabic": "<div dir='rtl'>شرّ قديم يُدعى <b style='color: #6A0DAD; text-shadow: 0 0 8px #6A0DAD;'>الماوغو</b> تحرّر من سجنه الطويل تحت <b style='color: #CC2200; text-shadow: 0 0 8px #CC2200;'>جزيرة البركان</b>، وأول ما يريده هو الانتقام.<br> وباؤه <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>السام</b> ينتشر عبر الجزيرة ويفتح <b style='color: #003380; text-shadow: 0 0 8px #003380;'>شقاً أبعادياً</b> فوق البركان يهدد بتدمير <b style='color: #00AAFF; text-shadow: 0 0 8px #00AAFF;'>بيكيني بوتوم</b> و<b style='color: #FF8800; text-shadow: 0 0 8px #FF8800;'>ريتروفيل</b> و<b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>ديمسدال</b> و<b style='color: #CC4400; text-shadow: 0 0 8px #CC4400;'>أميتي بارك</b> تماماً.<br> <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>جيمي نيوترون</b> يستدعي فريق الإنقاذ — <b style='color: #008B8B; text-shadow: 0 0 8px #008B8B;'>سبونج بوب</b> و<b style='color: #9B111E; text-shadow: 0 0 8px #9B111E;'>داني فانتوم</b> و<b style='color: #DD4488; text-shadow: 0 0 8px #DD4488;'>تيمي تيرنر</b> وآخرين — ينتزعهم من عوالمهم للقتال على أرض غريبة.<br> الجزيرة خطرة، الوباء يتمدد، وحقد الماوغو قديم جداً.<br> أنقذ أربعة عوالم، أو اخسرها جميعاً.</div>",
+    "ReleaseDate": "2006",
+    "CriticScore": 60,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Nicktoons%20Battle%20for%20Volcano%20Island%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Nicktoons%20Battle%20for%20Volcano%20Island%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Nicktoons%20Battle%20for%20Volcano%20Island%20Trailer.mp4",
@@ -146830,8 +146915,12 @@
     "PlatformNames": [
       "Sony PlayStation 2"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Platformer"
+    ],
+    "DeveloperNames": [
+      "Blue Tongue Entertainment"
+    ],
     "downloadInfo": {
       "Sony PlayStation 2": {
         "versions": [
@@ -146848,16 +146937,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 5
   },
   {
     "_id": "game_1773559868343_0",
     "Name": "Chrono Gear Warden of Time",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "<b style='color: #00AAFF; text-shadow: 0 0 8px #00AAFF;'>Ouro Kronii</b>, the <b style='color: #6A0DAD; text-shadow: 0 0 8px #6A0DAD;'>Warden of Time</b>, forged the <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Chrono Gear</b> to extend her dominion over time itself.<br> One catastrophic battle with the demonic <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Alter Laplus</b> shatters it — sending <b style='color: #FF8800; text-shadow: 0 0 8px #FF8800;'>Golden Gears</b> scattered across the <b style='color: #003380; text-shadow: 0 0 8px #003380;'>space-time continuum</b> and fracturing reality with them.<br> Now Kronii races through <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>distant realms</b>, slowing time with <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Stasis</b> and accelerating through danger with <b style='color: #CC4400; text-shadow: 0 0 8px #CC4400;'>Haste</b> to recover every piece.<br> Fellow <b style='color: #DD4488; text-shadow: 0 0 8px #DD4488;'>Wardens</b> stand in her path, and a conspiracy from the villainous <b style='color: #9B111E; text-shadow: 0 0 8px #9B111E;'>HoloX</b> grows darker with every realm she enters.<br> Time is always running out when you are its guardian.<br> And the <b style='color: #008B8B; text-shadow: 0 0 8px #008B8B;'>clock</b> that governs all things has already started to break.",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #00AAFF; text-shadow: 0 0 8px #00AAFF;'>أورو كروني</b>، <b style='color: #6A0DAD; text-shadow: 0 0 8px #6A0DAD;'>حارسة الزمن</b>، صنعت <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>كرونو غير</b> لتوسيع سيطرتها على الزمن ذاته.<br> معركة واحدة كارثية مع الشيطانية <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>ألتر لابلوس</b> تحطّمه — وتتناثر <b style='color: #FF8800; text-shadow: 0 0 8px #FF8800;'>التروس الذهبية</b> عبر <b style='color: #003380; text-shadow: 0 0 8px #003380;'>نسيج الزمكان</b> وتشقّ الواقع معها.<br> الآن تتسابق كروني عبر <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>عوالم بعيدة</b>، تُبطّئ الزمن بـ<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>الثبات</b> وتتسارع عبر الخطر بـ<b style='color: #CC4400; text-shadow: 0 0 8px #CC4400;'>التعجيل</b> لاسترداد كل قطعة.<br> <b style='color: #DD4488; text-shadow: 0 0 8px #DD4488;'>حرّاس آخرون</b> يعترضون طريقها، ومؤامرة <b style='color: #9B111E; text-shadow: 0 0 8px #9B111E;'>هولوX</b> تتصاعد مع كل عالم تدخله.<br> الوقت دائماً ينفد حين تكون حارسته.<br> و<b style='color: #008B8B; text-shadow: 0 0 8px #008B8B;'>الساعة</b> التي تحكم كل شيء بدأت تتكسّر.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Chrono%20Gear%20Warden%20of%20Time%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Chrono%20Gear%20Warden%20of%20Time%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Chrono%20Gear%20Warden%20of%20Time%20Trailer.mp4",
@@ -146867,8 +146957,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Platformer"
+    ],
+    "DeveloperNames": [
+      "GalaxyTrail"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -146885,16 +146979,17 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 10
   },
   {
     "_id": "game_1773645658337_0",
     "Name": "Command and Conquer 3 Tiberium Wars",
     "SortingName": "Command and Conquer 02",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "<b style='color: #2F8F2F; text-shadow: 0 0 8px #2F8F2F;'>Tiberium</b> has been consuming Earth for decades, splitting the planet into livable <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Blue Zones</b>, contested <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Yellow Zones</b>, and uninhabitable <b style='color: #CC2200; text-shadow: 0 0 8px #CC2200;'>Red Zones</b>.<br> The <b style='color: #003380; text-shadow: 0 0 8px #003380;'>Global Defense Initiative</b> fights to contain it; the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Brotherhood of Nod</b> worships it as humanity's path to transcendence.<br> Then <b style='color: #6A0DAD; text-shadow: 0 0 8px #6A0DAD;'>Kane</b>, Nod's undying prophet, returns from the dead and ignites the <b style='color: #9B111E; text-shadow: 0 0 8px #9B111E;'>Third Tiberium War</b>.<br> His opening strike destroys GDI's <b style='color: #708090; text-shadow: 0 0 8px #708090;'>orbital command</b> in hours.<br> But Kane's true plan predates the war — a <b style='color: #88AA00; text-shadow: 0 0 8px #88AA00;'>liquid Tiberium</b> detonation broadcasts a signal that summons the <b style='color: #008B8B; text-shadow: 0 0 8px #008B8B;'>Scrin</b>, the alien race that seeded Tiberium on Earth in the first place.<br> Three factions now collide — GDI, Nod, and the <b style='color: #CC8800; text-shadow: 0 0 8px #CC8800;'>Scrin invasion</b> — in a war that will decide humanity's future.",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #2F8F2F; text-shadow: 0 0 8px #2F8F2F;'>التيبيريوم</b> يبتلع الأرض منذ عقود، يقسّم الكوكب إلى <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>مناطق زرقاء</b> صالحة للعيش و<b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>مناطق صفراء</b> متنازع عليها و<b style='color: #CC2200; text-shadow: 0 0 8px #CC2200;'>مناطق حمراء</b> لا يصمد فيها بشر.<br> <b style='color: #003380; text-shadow: 0 0 8px #003380;'>مبادرة الدفاع العالمي</b> تقاتل لاحتوائه؛ و<b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>أخوية نود</b> تعبده طريقاً للتسامي البشري.<br> ثم يعود <b style='color: #6A0DAD; text-shadow: 0 0 8px #6A0DAD;'>كاين</b>، نبيّ نود الخالد، من بين الموتى ويُشعل <b style='color: #9B111E; text-shadow: 0 0 8px #9B111E;'>حرب التيبيريوم الثالثة</b>.<br> ضربته الأولى تُدمّر <b style='color: #708090; text-shadow: 0 0 8px #708090;'>القيادة المدارية</b> لمبادرة الدفاع في ساعات.<br> لكن مخطط كاين أقدم من الحرب — تفجير <b style='color: #88AA00; text-shadow: 0 0 8px #88AA00;'>تيبيريوم سائل</b> يُرسل إشارة تستدعي <b style='color: #008B8B; text-shadow: 0 0 8px #008B8B;'>السكرين</b>، الجنس الفضائي الذي زرع التيبيريوم على الأرض في الأصل.<br> ثلاثة أطراف تتصادم الآن في حرب ستقرر مستقبل البشرية — ومعها جيش <b style='color: #CC8800; text-shadow: 0 0 8px #CC8800;'>الغزو السكريني</b>.</div>",
+    "ReleaseDate": "2007",
+    "CriticScore": 80,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%203%20Tiberium%20Wars%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%203%20Tiberium%20Wars%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Command%20and%20Conquer%203%20Tiberium%20Wars%20Trailer.mp4",
@@ -146904,8 +146999,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Strategy"
+    ],
+    "DeveloperNames": [
+      "EA Los Angeles"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -146929,7 +147028,8 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": [],
+    "Length": 20
   },
   {
     "_id": "game_1773645658337_1",
