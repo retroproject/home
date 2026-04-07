@@ -11018,32 +11018,5 @@
         "fileSize": "1.2 GB"
       }
     ]
-  },
-  {
-    "_id": "book_1775513392089_fg4isd34a",
-    "Title": "Soul Eater",
-    "Series": "",
-    "SortingTitle": "",
-    "Author": "Atsushi Ohkubo",
-    "Description": "Set at the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Death Weapon Meister Academy</b> in Death City, the story follows students training to create powerful weapons for the Grim Reaper.<br> <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Maka Albarn</b> is a dedicated <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>meister</b> partnered with Soul, a boy who transforms into a <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>demon scythe</b>.<br> To make Soul a <b style='color: #000000; text-shadow: 0 0 8px #000000;'>Death Scythe</b>, they must hunt <b style='color: #800080; text-shadow: 0 0 8px #800080;'>evil humans</b> and collect 99 souls along with one <b style='color: #008000; text-shadow: 0 0 8px #008000;'>witch</b> soul.<br> Alongside fellow students like the assassin <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Black Star</b> and Shinigami’s son <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Death the Kid</b>, they face bizarre threats.<br> The series blends <b style='color: #A52A2A; text-shadow: 0 0 8px #A52A2A;'>action</b> with a unique <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Gothic aesthetic</b>, challenging the students to master their <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>resonance</b> and combat madness.",
-    "DescriptionArabic": "<div dir='rtl'>تدور أحداث القصة في <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>أكاديمية سيد الموت</b> بمدينة الموت، وتتبع الطلاب الذين يتدربون لصنع أسلحة قوية لملك الموت.<br> <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>ماكا ألبارن</b> هي <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>صانعة أسلحة</b> متفانية شريكها سول، وهو فتى يتحول إلى <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>منجل شيطاني</b>.<br> ليحول سول إلى <b style='color: #000000; text-shadow: 0 0 8px #000000;'>منجل الموت</b>، يجب عليهم مطاردة <b style='color: #800080; text-shadow: 0 0 8px #800080;'>البشر الأشرار</b> وجمع 99 روحاً مع روح <b style='color: #008000; text-shadow: 0 0 8px #008000;'>ساحرة</b> واحدة.<br> بجانب زملائهم مثل القاتل <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>بلاك ستار</b> وابن ملك الموت <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>ديد ذا كيد</b>، يواجهون تهديدات غريبة.<br> يمزج المسلسل <b style='color: #A52A2A; text-shadow: 0 0 8px #A52A2A;'>الحركة</b> مع <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>جماليات قوطية</b> فريدة، متحدياً الطلاب لإتقان <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>ترددهم</b> ومحاربة الجنون.</div>",
-    "ReleaseDate": "2004",
-    "CriticScore": 100,
-    "CoverUrl": "https://archive.org/download/RPRM001/Soul%20Eater%20Cover.jpg",
-    "Genre": [
-      "Fantasy"
-    ],
-    "Tags": [
-      "Manga"
-    ],
-    "booksUrl": [
-      {
-        "format": "ZIP",
-        "identifier": "RBRB001",
-        "filename": "00347.zip",
-        "fileSize": "2 GB"
-      }
-    ],
-    "audiobooksUrl": []
   }
 ]
