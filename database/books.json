@@ -11020,33 +11020,6 @@
     ]
   },
   {
-    "_id": "book_1772870209641_tcw5h97su",
-    "Title": "Rosario+Vampire",
-    "Series": "",
-    "SortingTitle": "",
-    "Author": "Akihisa Ikeda",
-    "Description": "<b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>Tsukune Aono</b> is an average teenager who inadvertently enrolls in a boarding school for monsters called <b style='color: #900C3F; text-shadow: 0 0 8px #900C3F;'>Yokai Academy</b>. <br> He quickly befriends the beautiful <b style='color: #C70039; text-shadow: 0 0 8px #C70039;'>vampire</b> <b style='color: #581845; text-shadow: 0 0 8px #581845;'>Moka Akashiya</b>, who soon develops an obsession with his <b style='color: #1C2833; text-shadow: 0 0 8px #1C2833;'>blood</b>. <br> To survive, Tsukune must hide his <b style='color: #17202A; text-shadow: 0 0 8px #17202A;'>human</b> identity from the dangerous <b style='color: #117A65; text-shadow: 0 0 8px #117A65;'>monsters</b> around him. <br> He navigates school life alongside various <b style='color: #B7950B; text-shadow: 0 0 8px #B7950B;'>supernatural</b> beings, including <b style='color: #6C3483; text-shadow: 0 0 8px #6C3483;'>werewolves</b> and <b style='color: #117864; text-shadow: 0 0 8px #117864;'>succubi</b>. <br> When the <b style='color: #A93226; text-shadow: 0 0 8px #A93226;'>rosario</b> around Moka's neck is removed, she transforms into a powerful <b style='color: #D35400; text-shadow: 0 0 8px #D35400;'>inner personality</b>. <br> The series blends <b style='color: #2874A6; text-shadow: 0 0 8px #2874A6;'>romantic comedy</b> with action as Tsukune attracts a <b style='color: #A9CCE3; text-shadow: 0 0 8px #A9CCE3;'>harem</b> of monster girls who fight to protect him. <br> However, an evil group called the Anti-Schoolers threatens the barrier between the human and monster worlds.",
-    "DescriptionArabic": "<div dir='rtl'><b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>تسوكوني آونو</b> مراهق متوسط الطلبات يلتحق عن طريق الخطأ بمدرسة داخلية للوحوش تسمى <b style='color: #900C3F; text-shadow: 0 0 8px #900C3F;'>أكاديمية يوكاي</b>. <br> يصادق بسرعة <b style='color: #C70039; text-shadow: 0 0 8px #C70039;'>مصاصة الدماء</b> الجميلة <b style='color: #581845; text-shadow: 0 0 8px #581845;'>موكا أكاشيا</b>، التي سرعان ما تطور هوساً بـ<b style='color: #1C2833; text-shadow: 0 0 8px #1C2833;'>دمه</b>. <br> من أجل البقاء، يجب على تسوكوني إخفاء هويته <b style='color: #17202A; text-shadow: 0 0 8px #17202A;'>البشرية</b> عن <b style='color: #117A65; text-shadow: 0 0 8px #117A65;'>الوحوش</b> الخطيرة من حوله. <br> يخوض حياته المدرسية إلى جانب كائنات <b style='color: #B7950B; text-shadow: 0 0 8px #B7950B;'>خارقة للطبيعة</b> مختلفة، بما في ذلك <b style='color: #6C3483; text-shadow: 0 0 8px #6C3483;'>المستذئبين</b> و<b style='color: #117864; text-shadow: 0 0 8px #117864;'>شياطين الإغواء</b>. <br> عندما يتم نزع <b style='color: #A93226; text-shadow: 0 0 8px #A93226;'>الروزاريو</b> من حول عنق موكا، تتحول إلى <b style='color: #D35400; text-shadow: 0 0 8px #D35400;'>شخصية داخلية</b> قوية. <br> يمزج المسلسل <b style='color: #2874A6; text-shadow: 0 0 8px #2874A6;'>الكوميديا الرومانسية</b> بالحركة حيث يجذب تسوكوني <b style='color: #A9CCE3; text-shadow: 0 0 8px #A9CCE3;'>حريماً</b> من فتيات الوحوش اللواتي يحاربن لحمايته. <br> ومع ذلك، تهدد مجموعة شريرة تسمى مناهضو المدرسة الحاجز بين عالمي البشر والوحوش.</div>",
-    "ReleaseDate": "2004",
-    "CriticScore": 80,
-    "CoverUrl": "https://archive.org/download/RPRM001/Rosario%2BVampire%20Cover.jpg",
-    "Genre": [
-      "Harem"
-    ],
-    "Tags": [
-      "Manga"
-    ],
-    "booksUrl": [
-      {
-        "format": "ZIP",
-        "identifier": "RBRB001",
-        "filename": "00346.zip",
-        "fileSize": "2 GB"
-      }
-    ],
-    "audiobooksUrl": []
-  },
-  {
     "_id": "book_1775513392089_fg4isd34a",
     "Title": "Soul Eater",
     "Series": "",
