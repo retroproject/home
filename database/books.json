@@ -11018,5 +11018,167 @@
         "fileSize": "1.2 GB"
       }
     ]
+  },
+  {
+    "_id": "book_1775601720479_9u1cvn878",
+    "Title": "Blue Exorcist",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "Status": {
+      "state": "ongoing",
+      "currentVolume": 31
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/Blue%20Exorcist%20Cover.jpg",
+    "Genre": [],
+    "Tags": [
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00346.zip",
+        "fileSize": "5 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1775602429439_23nz4s2lu",
+    "Title": "D.Gray man",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "Status": {
+      "state": "completed",
+      "currentVolume": 28
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/D.Gray%20man%20Cover.jpg",
+    "Genre": [],
+    "Tags": [
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00347.zip",
+        "fileSize": "5 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1775602593398_dyrrqvre3",
+    "Title": "Dragon Quest Dai no Daibouken",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "Status": {
+      "state": "completed",
+      "currentVolume": 22
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/Dragon%20Quest%20Dai%20no%20Daibouken%20Cover.jpg",
+    "Genre": [],
+    "Tags": [
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00348.zip",
+        "fileSize": "2 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1775603055145_gnxsyvygl",
+    "Title": "Rave Master",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "Status": {
+      "state": "completed",
+      "currentVolume": 35
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/Rave%20Master%20Cover.jpg",
+    "Genre": [],
+    "Tags": [
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00349.zip",
+        "fileSize": "8 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1775603183580_sywu851zc",
+    "Title": "Saiyuki",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "Status": {
+      "state": "completed",
+      "currentVolume": 4
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/Saiyuki%20Cover.jpg",
+    "Genre": [],
+    "Tags": [
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00350.zip",
+        "fileSize": "2 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1775603330079_gqn325pvb",
+    "Title": "Ubel Blatt",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "Status": {
+      "state": "completed",
+      "currentVolume": 11
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/Ubel%20Blatt%20Cover.jpg",
+    "Genre": [],
+    "Tags": [
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00351.zip",
+        "fileSize": "2 GB"
+      }
+    ],
+    "audiobooksUrl": []
   }
 ]
