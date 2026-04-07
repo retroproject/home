@@ -56332,16 +56332,21 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC40",
-            "filename": "Alan Wake 2.zip",
+            "identifier": "RPRP021",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "AlanWake2.exe",
-            "fileSize": "98GB"
+            "fileSize": "100GB",
+            "notes": "Switch subtitle language to Polish to get Arabic",
+            "buildID": "1.2.8",
+            "filename": "00679.zip"
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Arabic"
+    ]
   },
   {
     "_id": "7730e47a-0c68-4da0-b6ea-bd37e1cc13ee",
@@ -116141,7 +116146,7 @@
   {
     "_id": "ef09661b-5644-4436-bce3-aa0027457016",
     "Name": "Mortal Kombat Arcade Kollection",
-    "SortingName": "Mortal Kombat 01",
+    "SortingName": "Mortal Kombat 01.01",
     "Description": "Three legendary <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Mortal Kombat</span> arcade classics unite in one definitive collection, bringing the most <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>brutal tournaments</span> ever conceived to modern platforms.<br><span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>Sub-Zero</span>, <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Scorpion</span>, <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Liu Kang</span>, and countless other <span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>warriors</span> clash in perfectly preserved versions of the original arcade experiences.<br>Master devastating <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>Fatalities</span>, <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Friendships</span>, and <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>Babalities</span> while experiencing the authentic arcade atmosphere that defined fighting game history.<br>Each game retains its original <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>pixel-perfect graphics</span> and bone-crushing sound effects that made these titles legendary among arcade enthusiasts worldwide.<br>Experience the evolution of the <span style='color:#20B2AA; font-weight:bold; text-shadow: 0 0 8px #20B2AA;'>Mortal Kombat</span> franchise through three groundbreaking chapters that established the template for <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>competitive fighting</span> games.",
     "DescriptionArabic": "<div dir='rtl'>تتحد ثلاث تحف <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>مورتال كومبات</span> آركيدية أسطورية في مجموعة نهائية واحدة، جالبة أكثر <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>البطولات الوحشية</span> رعباً على الإطلاق إلى المنصات الحديثة.<br>يتقاتل <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>ساب-زيرو</span> و<span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>سكوربايون</span> و<span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>ليو كانغ</span> وعدد لا يحصى من <span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>المحاربين</span> الآخرين في نسخ محفوظة بإتقان من تجربة الآركيد الأصلية.<br>إتقان <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>حركات القتل</span> المدمرة و<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>حركات الصداقة</span> و<span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>حركات الأطفال</span> بينما تختبر أجواء الآركيد الأصيلة التي حددت تاريخ ألعاب القتال.<br>كل لعبة تحتفظ بـ<span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>رسوماتها البكسلية المثالية</span> ومؤثراتها الصوتية محطمة العظام التي جعلت هذه العناوين أسطورية بين عشاق الآركيد في جميع أنحاء العالم.<br>اختبر تطور سلسلة <span style='color:#20B2AA; font-weight:bold; text-shadow: 0 0 8px #20B2AA;'>مورتال كومبات</span> عبر ثلاثة فصول رائدة وضعت القالب لألعاب <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>القتال التنافسي</span> الحديثة.<br>في هذه المجموعة النهائية التي تجمع بين الأرث والحداثة، ستُعيد اكتشاف الجذور العميقة لأعظم سلاسل القتال في تاريخ الالعاب الالكترونية.</div>",
     "ReleaseDate": "2011",
@@ -118185,7 +118190,7 @@
             "identifier": "CPC03",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "AliceMadnessReturns.exe",
+            "executable": "Binaries\\Win32\\AliceMadnessReturns.exe",
             "fileSize": "7GB",
             "filename": "Alice Madness Returns.zip"
           },
@@ -118195,8 +118200,8 @@
             "platform": "PC Game",
             "fileSize": "26GB",
             "executableFiles": [
-              "AliceMadnessReturns.exe",
-              "AmrTuner.exe"
+              "Binaries\\Win32\\AliceMadnessReturns.exe",
+              "Binaries\\Win32\\AmrTuner.exe"
             ],
             "executableLabels": [
               "Game",
@@ -149242,11 +149247,11 @@
     "_id": "game_1775223533887_1",
     "Name": "GRID 2019",
     "SortingName": "GRID 03",
-    "Description": "",
-    "DescriptionArabic": "",
+    "Description": "Experience the thrill of intense wheel-to-wheel racing in this reboot of the popular franchise. <br>Choose your path across <b style='color: #e67e22; text-shadow: 0 0 8px #e67e22;'>Touring</b>, <b style='color: #f1c40f; text-shadow: 0 0 8px #f1c40f;'>Stock</b>, <b style='color: #3498db; text-shadow: 0 0 8px #3498db;'>Tuner</b>, and <b style='color: #2ecc71; text-shadow: 0 0 8px #2ecc71;'>GT</b> disciplines as you fight for dominance in the <b style='color: #9b59b6; text-shadow: 0 0 8px #9b59b6;'>GRID World Series</b>. <br>The innovative <b style='color: #e74c3c; text-shadow: 0 0 8px #e74c3c;'>Nemesis System</b> ensures that <b style='color: #e74c3c; text-shadow: 0 0 8px #e74c3c;'>AI Drivers</b> remember your collisions, creating personal <b style='color: #c0392b; text-shadow: 0 0 8px #c0392b;'>Rivals</b> with unique driving styles. <br>Race against racing consultant <b style='color: #f39c12; text-shadow: 0 0 8px #f39c12;'>Fernando Alonso</b> in the final showdown. <br>Master iconic tracks like <b style='color: #3498db; text-shadow: 0 0 8px #3498db;'>Brands Hatch</b> and <b style='color: #3498db; text-shadow: 0 0 8px #3498db;'>Silverstone</b> while driving high-performance machines like the <b style='color: #2ecc71; text-shadow: 0 0 8px #2ecc71;'>Chevrolet Corvette C7.R</b> and <b style='color: #2ecc71; text-shadow: 0 0 8px #2ecc71;'>Porsche 911</b>. <br>Conquer the classic <b style='color: #2ecc71; text-shadow: 0 0 8px #2ecc71;'>Invitational</b> events to cement your legacy.",
+    "DescriptionArabic": "<div dir='rtl'>استمتع بإثارة السباقات المباشرة والمكثفة في هذا الإصدار الجديد من السلسلة الشهيرة. <br>اختر مسارك عبر فئات <b style='color: #e67e22; text-shadow: 0 0 8px #e67e22;'>السياحة</b>، و<b style='color: #f1c40f; text-shadow: 0 0 8px #f1c40f;'>الستوك</b>، و<b style='color: #3498db; text-shadow: 0 0 8px #3498db;'>التونر</b>، و<b style='color: #2ecc71; text-shadow: 0 0 8px #2ecc71;'>GT</b> بينما تكافح للسيطرة في <b style='color: #9b59b6; text-shadow: 0 0 8px #9b59b6;'>بطولة GRID العالمية</b>. <br>يضمن نظام <b style='color: #e74c3c; text-shadow: 0 0 8px #e74c3c;'>العداء</b> المبتكر أن يتذكر <b style='color: #e74c3c; text-shadow: 0 0 8px #e74c3c;'>سائقو الذكاء الاصطناعي</b> تصادماتك، مما يخلق <b style='color: #c0392b; text-shadow: 0 0 8px #c0392b;'>منافسين</b> شخصيين بأساليب قيادة فريدة. <br>تسابق ضد الاستشاري <b style='color: #f39c12; text-shadow: 0 0 8px #f39c12;'>فيرناندو ألونسو</b> في المواجهة النهائية. <br>أتقن حلبات أيقونية مثل <b style='color: #3498db; text-shadow: 0 0 8px #3498db;'>براندز هاتش</b> و<b style='color: #3498db; text-shadow: 0 0 8px #3498db;'>سيلفرستون</b> أثناء قيادة سيارات عالية الأداء مثل <b style='color: #2ecc71; text-shadow: 0 0 8px #2ecc71;'>شيفروليه كورفيت C7.R</b> و<b style='color: #2ecc71; text-shadow: 0 0 8px #2ecc71;'>بورش 911</b>. <br>تفوق في الأحداث <b style='color: #2ecc71; text-shadow: 0 0 8px #2ecc71;'>الدعوية</b> الكلاسيكية لتخليد إرثك.</div>",
     "ReleaseDate": "2019",
     "CriticScore": 80,
-    "Length": 20,
+    "Length": 35,
     "BackgroundUrl": "https://archive.org/download/RPRM001/GRID%202019%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/GRID%202019%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/GRID%202019%20Trailer.mp4",
@@ -149581,7 +149586,7 @@
   {
     "_id": "game_1775387678535_0",
     "Name": "Mortal Kombat Legacy Kollection",
-    "SortingName": "Mortal Kombat 14",
+    "SortingName": "Mortal Kombat 01.02",
     "Description": "Twenty-three versions of <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>klassic brutality</span> ripped from arcades, consoles, and handhelds, all crammed into one <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>blood-soaked vault</span>.<br><span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>Scorpion's</span> spear flies across every era from the original <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Mortal Kombat</span> through <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Ultimate MK3</span> and into the polygon-crunching chaos of <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>MK4</span>.<br>Dig deeper and unearth the infamous <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>Mythologies: Sub-Zero</span> and <span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>Special Forces</span>, spinoffs so cursed they became legends of their own.<br>The long-lost <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>WaveNet</span> edition of UMK3 returns from arcade obscurity for the first time in decades.<br><span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>Rollback netcode</span> resurrects every <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>fatality</span> and <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>friendship</span> for online competition across all titles.<br>A <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>museum</span> of digital carnage where nostalgia hits as hard as an <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>uppercut</span>.<br>",
     "DescriptionArabic": "<div dir='rtl'>ثلاث وعشرون نسخة من <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>الوحشية الكلاسيكية</span> انتزعت من صالات الاركيد والاجهزة المنزلية والمحمولة، محشورة في <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>قبو مغمور بالدماء</span> واحد.<br>حربة <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>سكوربيون</span> تطير عبر كل حقبة من <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>مورتال كومبات</span> الاصلي مرورا بـ<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>التميت MK3</span> وصولا الى فوضى البوليغون في <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>MK4</span>.<br>انبش اعمق وستكتشف <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>ميثولوجيز: ساب-زيرو</span> و<span style='color:#696969; font-weight:bold; text-shadow: 0 0 8px #696969;'>سبيشال فورسز</span>، فرعيات ملعونة لدرجة انها صارت اساطير بحد ذاتها.<br>نسخة <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>ويف نت</span> المفقودة من UMK3 تعود من غياهب الاركيد لاول مرة منذ عقود.<br><span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>الرولباك نتكود</span> يبعث كل <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>فاتاليتي</span> و<span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>فريندشب</span> للمنافسة عبر الانترنت في جميع العناوين.<br><span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>متحف</span> من المذابح الرقمية حيث الحنين يضرب بقوة <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>ابركت</span>.<br></div>",
     "ReleaseDate": "2025",
@@ -149617,8 +149622,6 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   }
 ]
