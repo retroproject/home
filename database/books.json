@@ -11072,5 +11072,28 @@
       }
     ],
     "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1775525083457_32rhj2ois",
+    "Title": "Fire Force",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CoverUrl": "https://archive.org/download/RPRM001/Fire%20Force%20Cover.jpg",
+    "Genre": [],
+    "Tags": [
+      "Manga"
+    ],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00348.zip",
+        "fileSize": "6 GB"
+      }
+    ],
+    "audiobooksUrl": []
   }
 ]
