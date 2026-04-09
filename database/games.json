@@ -5756,13 +5756,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC30",
+            "identifier": "RPRP022",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "22GB",
+            "fileSize": "25GB",
             "arguments": [],
             "executable": "Binaries\\NMS.exe",
-            "filename": "No Mans Sky.zip"
+            "buildID": "8 April 2026",
+            "filename": "00685.zip"
           }
         ]
       }
@@ -10394,14 +10395,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP009",
+            "identifier": "RPRP022",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "3GB",
             "arguments": [],
             "executable": "SNB.exe",
-            "buildID": "8 December 2025",
-            "filename": "00216.zip"
+            "buildID": "28 January 2026",
+            "filename": "00688.zip"
           }
         ]
       }
@@ -21615,7 +21616,7 @@
       "Sony PlayStation 2": {
         "versions": [
           {
-            "identifier": "P0211",
+            "identifier": "P0201",
             "name": "Vanilla",
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
@@ -27541,8 +27542,8 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/399eca13-daac-45ca-b62a-e2a1fd436c63.mp3",
     "PlatformNames": [
-      "Sony PlayStation 2",
-      "Nintendo Game Boy Advance"
+      "Nintendo Game Boy Advance",
+      "Sony PlayStation 2"
     ],
     "GenreNames": [
       "Beat 'em Up"
@@ -27556,7 +27557,6 @@
         "versions": [
           {
             "identifier": "retro-gba",
-            "filename": "Teenage Mutant Ninja Turtles 2 Battle Nexus.gba\t",
             "platform": "Nintendo Game Boy Advance",
             "name": "Game Boy Advance",
             "emulator": "RetroArch",
@@ -27565,16 +27565,17 @@
               "-L",
               ".\\cores\\mgba_libretro.dll"
             ],
-            "romFile": "Teenage Mutant Ninja Turtles 2 Battle Nexus.gba\t"
+            "romFile": "Teenage Mutant Ninja Turtles 2 Battle Nexus.gba",
+            "filename": "Teenage Mutant Ninja Turtles 2 Battle Nexus.gba"
           },
           {
-            "identifier": "P0211",
-            "filename": "Teenage Mutant Ninja Turtles 2 Battle Nexus.iso",
+            "identifier": "P0201",
             "platform": "Sony PlayStation 2",
             "name": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "3GB",
-            "romFile": "Teenage Mutant Ninja Turtles 2 Battle Nexus.iso"
+            "romFile": "Teenage Mutant Ninja Turtles 2 Battle Nexus.iso",
+            "filename": "Teenage Mutant Ninja Turtles 2 Battle Nexus.iso"
           }
         ]
       }
@@ -50043,13 +50044,14 @@
             "filename": "Pizza Tower.zip"
           },
           {
-            "identifier": "CPC12",
+            "identifier": "RPRP022",
             "name": "English",
             "platform": "PC Game",
             "fileSize": "500MB",
             "arguments": [],
-            "executable": "Pizza Tower.zip",
-            "filename": "PizzaTower.exe"
+            "executable": "PizzaTower.exe",
+            "buildID": "2 July 2025",
+            "filename": "00686.zip"
           }
         ]
       }
@@ -67829,13 +67831,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC32",
+            "identifier": "RPRP022",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "109GB",
+            "fileSize": "170GB",
             "arguments": [],
             "executable": "Starfield.exe",
-            "filename": "Starfield.zip"
+            "buildID": "7 April 2026",
+            "filename": "00683.zip"
           }
         ]
       }
@@ -121383,8 +121386,8 @@
     "videoEnd": null,
     "MusicUrl": "https://archive.org/download/retromusic/fb453201-86b0-4cc2-a284-6ff011c0f034.mp3",
     "PlatformNames": [
-      "Sony PlayStation 2",
-      "Nintendo DS"
+      "Nintendo DS",
+      "Sony PlayStation 2"
     ],
     "GenreNames": [
       "Beat 'em Up"
@@ -121398,7 +121401,6 @@
         "versions": [
           {
             "identifier": "retro-nitro",
-            "filename": "Teenage Mutant Ninja Turtles 3 Mutant Nightmare.nds",
             "platform": "Nintendo DS",
             "name": "Nintendo DS",
             "emulator": "RetroArch",
@@ -121407,17 +121409,18 @@
               "-L",
               ".\\cores\\melonds_libretro.dll"
             ],
-            "romFile": "Teenage Mutant Ninja Turtles 3 Mutant Nightmare.nds"
+            "romFile": "Teenage Mutant Ninja Turtles 3 Mutant Nightmare.nds",
+            "filename": "Teenage Mutant Ninja Turtles 3 Mutant Nightmare.nds"
           },
           {
-            "identifier": "P0211",
-            "filename": "Teenage Mutant Ninja Turtles 3 Mutant Nightmare.iso\t",
+            "identifier": "P0201",
             "platform": "Sony PlayStation 2",
             "name": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "3GB",
             "romLabels": [],
-            "romFile": "Teenage Mutant Ninja Turtles 3 Mutant Nightmare.iso\t"
+            "romFile": "Teenage Mutant Ninja Turtles 3 Mutant Nightmare.iso",
+            "filename": "Teenage Mutant Ninja Turtles 3 Mutant Nightmare.iso"
           }
         ]
       }
@@ -123786,14 +123789,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC45",
+            "identifier": "RPRP022",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "13 GB",
             "executable": "One Hundred Million.exe",
-            "buildID": "27 August 2025",
+            "buildID": "7 February 2026",
             "arguments": [],
-            "filename": "Raining City Millions Recollections.zip"
+            "filename": "00687.zip"
           }
         ]
       }
@@ -129009,7 +129012,7 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP006",
+            "identifier": "RPRP005",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "18 GB",
@@ -129439,7 +129442,7 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP006",
+            "identifier": "RPRP022",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "3 GB",
@@ -129452,7 +129455,8 @@
               "Game",
               "Configure"
             ],
-            "filename": "00178.zip"
+            "buildID": "19 March 2018",
+            "filename": "00689.zip"
           }
         ]
       }
@@ -129486,13 +129490,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP006",
+            "identifier": "RPRP022",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "4 GB",
             "executable": "Umineko5to8.exe",
             "arguments": [],
-            "filename": "00179.zip"
+            "buildID": "20 February 2018",
+            "filename": "00690.zip"
           }
         ]
       }
@@ -129760,7 +129765,7 @@
               "Japanese VA"
             ],
             "emulator": "PCSX2",
-            "filename": "Airforce Delta Strike.zip"
+            "filename": "AirForce Delta Strike.zip"
           }
         ]
       }
@@ -149629,10 +149634,11 @@
     "_id": "game_1775610980518_0",
     "Name": "Sniper Elite 5",
     "SortingName": "Sniper Elite 06",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "In 1944 France, <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Karl Fairburne</b> infiltrates the <b style='color: #556B2F; text-shadow: 0 0 8px #556B2F;'>Atlantikwall</b> fortifications as part of a covert <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>US Rangers</b> operation. <br>He connects with the <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>French Resistance</b> to uncover <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Operation Kraken</b>, a secret <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Nazi project</b> designed to cripple the <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Allied invasion</b> of Europe. <br>Intelligence points to <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>Abelard Möller</b>, a high-ranking officer coordinating the deployment of <b style='color: #000000; text-shadow: 0 0 8px #000000;'>stealth U-boats</b> and <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>V-2 rockets</b> against American cities. <br>The mission spans the coast of <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Brittany</b> and culminates in a desperate bid to destroy the <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Kraken fleet</b> at <b style='color: #000080; text-shadow: 0 0 8px #000080;'>Saint Nazaire</b>. <br>Fairburne must eliminate the threat before the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Nazi war machine</b> can launch its devastating strike.",
+    "DescriptionArabic": "<div dir='rtl'>في فرنسا عام 1944، يتسلل <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>كارل فيربرن</b> إلى تحصينات <b style='color: #556B2F; text-shadow: 0 0 8px #556B2F;'>جدار الأطلسي</b> كجزء من عملية سرية لـ <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>قوات رينجرز الأمريكية</b>. <br>يتواصل مع <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>المقاومة الفرنسية</b> للكشف عن <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>عملية كراكن</b>، وهو مشروع <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>نازي</b> سري مصمم لشل <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>غزو الحلفاء</b> لأوروبا. <br>تشير المعلومات الاستخباراتية إلى <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>أبلارد مولر</b>، ضابط رفيع المستوى ينسق نشر <b style='color: #000000; text-shadow: 0 0 8px #000000;'>غواصات شبحية</b> و<b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>صواريخ في-2</b> ضد المدن الأمريكية. <br>تمتد المهمة عبر ساحل <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>بريتاني</b> وتبلغ ذروتها في محاولة يائسة لتدمير <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>أسطول كراكن</b> في <b style='color: #000080; text-shadow: 0 0 8px #000080;'>سان نازير</b>. <br>يجب على فيربرن القضاء على التهديد قبل أن تتمكن <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>آلة الحرب النازية</b> من شن ضربتها المدمرة.</div>",
+    "ReleaseDate": "2022",
+    "CriticScore": 80,
+    "Length": 20,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Sniper%20Elite%205%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Sniper%20Elite%205%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Sniper%20Elite%205%20Trailer.mp4",
@@ -149642,8 +149648,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Shooter"
+    ],
+    "DeveloperNames": [
+      "Rebellion Developments"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -149662,6 +149672,133 @@
     },
     "Tags": [
       "Hypervisor 2.0"
+    ]
+  },
+  {
+    "_id": "game_1775664039451_0",
+    "Name": "Samson",
+    "SortingName": "",
+    "Description": "Samson McCray returns to <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Tyndalston</b>, a city that shaped him hard and never forgave him. <br> He owes <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>dangerous people</b> more than he can pay, and they're using his <b style='color: #FF6B6B; text-shadow: 0 0 8px #FF6B6B;'>sister</b> as leverage. <br> The <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>debt</b> grows by the hour with crushing <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>interest</b>, and the only way out is through anyone in his way. <br> He learned <b style='color: #A52A2A; text-shadow: 0 0 8px #A52A2A;'>violence</b> before mercy, and the <b style='color: #556B2F; text-shadow: 0 0 8px #556B2F;'>streets</b> haven't forgotten. <br> Every <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>fight</b> matters, every <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>escape</b> is earned, and the <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>clock</b> keeps ticking. <br> Nothing is forgiven in this <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>unforgiving</b> place, and nothing resets.",
+    "DescriptionArabic": "<div dir='rtl'>يعود <b style='color: #708090; text-shadow: 0 0 8px #708090;'>سامسون ماكري</b> إلى <b style='color: #708090; text-shadow: 0 0 8px #708090;'>تايندالستون</b>، المدينة التي صقلته بقسوة ولم تغفر له قط. <br> يدين <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>لأناس خطرين</b> بأكثر مما يستطيع سداده، ويستخدمون <b style='color: #FF6B6B; text-shadow: 0 0 8px #FF6B6B;'>أخته</b> كورقة ضغط. <br> ينمو <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>الدَّين</b> ساعة بعد ساعة مع <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>فوائد</b> ساحقة، والمخرج الوحيد هو عبر كل من يعترض طريقه. <br> تعلم <b style='color: #A52A2A; text-shadow: 0 0 8px #A52A2A;'>العنف</b> قبل الرحمة، ولم تنسَ <b style='color: #556B2F; text-shadow: 0 0 8px #556B2F;'>الشوارع</b> ماضيه. <br> كل <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>معركة</b> محورية، وكل <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>هروب</b> مكتسب، و<b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>الساعة</b> لا تتوقف. <br> لا شيء يُغتفر في هذا المكان <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>القاسي</b>، ولا شيء يعود كما كان.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 70,
+    "Length": 15,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Samson%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Samson%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Samson%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Liquid Swords"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP022",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "13 GB",
+            "executable": "CJSteam.exe",
+            "arguments": [],
+            "buildID": "8 April 2026",
+            "filename": "00682.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1775699080866_0",
+    "Name": "The Occultist",
+    "SortingName": "",
+    "Description": "Paranormal investigator <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Alan Rebels</b> journeys to the fog-shrouded <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>GodStone</b> to uncover the fate of his <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>missing father</b>。<br> Armed only with a <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>mystical pendulum</b>, he must navigate <b style='color: #1C1C1C; text-shadow: 0 0 8px #1C1C1C;'>shadowy streets</b> haunted by <b style='color: #800080; text-shadow: 0 0 8px #800080;'>ominous souls</b> frozen in <b style='color: #2F0000; text-shadow: 0 0 8px #2F0000;'>eternal damnation</b>。<br> The island was abandoned in 1950 after a <b style='color: #660000; text-shadow: 0 0 8px #660000;'>macabre cult</b> conducted <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>disturbing experiments</b> and <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>cruel rituals</b> upon its people。<br> Now <b style='color: #483D8B; text-shadow: 0 0 8px #483D8B;'>cursed spirits</b> wander the <b style='color: #36454F; text-shadow: 0 0 8px #36454F;'>maddening buildings</b> that remain, and Alan's <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>paranormal talents</b> are pushed to their limit。<br> The <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>cursed island</b> guards dark secrets, and Alan must choose whether to lift its burden or leave it buried。",
+    "DescriptionArabic": "<div dir='rtl'>المحقق الخارق للطبيعة <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>آلان ريبيلز</b> يرحل إلى جزيرة <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>غودستون</b> المغطاة بالضباب لكشف مصير <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>والده المفقود</b>。<br> مسلحًا فقط بـ<b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>البندول الغامض</b>، عليه أن يبحر عبر <b style='color: #1C1C1C; text-shadow: 0 0 8px #1C1C1C;'>الشوارع المظلمة</b> التي تطاردها <b style='color: #800080; text-shadow: 0 0 8px #800080;'>أرواح شريرة</b> مجمدة في <b style='color: #2F0000; text-shadow: 0 0 8px #2F0000;'>لعنة أبدية</b>。<br> هُجرت الجزيرة عام 1950 بعد أن أجرت <b style='color: #660000; text-shadow: 0 0 8px #660000;'>طائفة ماكرة</b> <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>تجارب مروعة</b> و<b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>طقوس قاسية</b> على سكانها。<br> الآن تتجول <b style='color: #483D8B; text-shadow: 0 0 8px #483D8B;'>أرواح ملعونة</b> في <b style='color: #36454F; text-shadow: 0 0 8px #36454F;'>المباني المجنونة</b> المتبقية، و<b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>مواهب آلان الخارقة</b> تُختبر إلى أقصاها。<br> <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الجزيرة الملعونة</b> تحرس أسرارًا مظلمة، وعلى آلان أن يختار إن كان سيرفع لعنتها أم يتركها مدفونة。</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 70,
+    "Length": 10,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Occultist%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Occultist%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/The%20Occultist%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Horror"
+    ],
+    "DeveloperNames": [
+      "DALOAR"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP022",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "33 GB",
+            "executable": "The_Occultist.exe",
+            "arguments": [],
+            "buildID": "8 April 2026",
+            "filename": "00684.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
+    ]
+  },
+  {
+    "_id": "game_1775751021365_0",
+    "Name": "Lay of the Land",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Lay%20of%20the%20Land%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Lay%20of%20the%20Land%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Lay%20of%20the%20Land%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP022",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "LayOfTheLand.exe",
+            "arguments": [],
+            "buildID": "9 April 2026",
+            "filename": "00691.zip"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      "Hide"
     ]
   }
 ]
