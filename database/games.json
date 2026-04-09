@@ -87559,20 +87559,20 @@
       "Visual Concepts"
     ],
     "Tags": [
-      "Hide",
-      "Has Issues"
+      "Hide"
     ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC29",
+            "identifier": "RPRP022",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "500MB",
+            "fileSize": "75GB",
             "arguments": [],
             "executable": "WWE2K23_x64.exe",
-            "filename": "WWE 2K23.zip"
+            "buildID": "13 December 2023",
+            "filename": "00694.zip"
           }
         ]
       }
@@ -97886,13 +97886,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "COPC01",
+            "identifier": "RPRP022",
             "name": "Online",
             "platform": "PC Game",
             "fileSize": "11GB",
             "arguments": [],
             "executable": "WS.exe",
-            "filename": "Soulmask.zip"
+            "buildID": "0.5.2",
+            "filename": "00692.zip"
           }
         ]
       }
@@ -124815,14 +124816,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP001",
+            "identifier": "RPRP022",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "21 GB",
             "executable": "HellIsUs.exe",
-            "buildID": "13 January 2026",
+            "buildID": "9 April 2026",
             "arguments": [],
-            "filename": "00028.zip"
+            "filename": "00693.zip"
           }
         ]
       }
@@ -149685,9 +149686,9 @@
     "Length": 15,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Samson%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Samson%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Samson%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/RPRM001/Samson%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -149714,9 +149715,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1775699080866_0",
@@ -149729,9 +149728,9 @@
     "Length": 10,
     "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Occultist%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Occultist%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Occultist%20Trailer.mp4",
+    "videoStart": 6.169017,
+    "videoEnd": 122.142039,
     "MusicUrl": "https://archive.org/download/RPRM001/The%20Occultist%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -149758,9 +149757,7 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   },
   {
     "_id": "game_1775751021365_0",
@@ -149772,9 +149769,9 @@
     "CriticScore": null,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Lay%20of%20the%20Land%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Lay%20of%20the%20Land%20Cover.jpg",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Lay%20of%20the%20Land%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "MusicUrl": "https://archive.org/download/RPRM001/Lay%20of%20the%20Land%20Theme.mp3",
     "PlatformNames": [
       "PC Game"
@@ -149797,8 +149794,6 @@
         ]
       }
     },
-    "Tags": [
-      "Hide"
-    ]
+    "Tags": []
   }
 ]
