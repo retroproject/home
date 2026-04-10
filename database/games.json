@@ -29605,12 +29605,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC28",
-            "filename": "Guilty Gear STRIVE.zip",
+            "identifier": "RPRP022",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "GGST.exe",
-            "fileSize": "27GB"
+            "fileSize": "27GB",
+            "buildID": "9 April 2026",
+            "filename": "00703.zip"
           }
         ]
       }
@@ -35665,13 +35666,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC25",
+            "identifier": "RPRP022",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "12GB",
             "arguments": [],
             "executable": "tld.exe",
-            "filename": "The Long Dark.zip"
+            "buildID": "8 April 2026",
+            "filename": "00704.zip"
           }
         ]
       }
@@ -125186,7 +125188,7 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": ["Hypervisor 2.0"]
   },
   {
     "_id": "game_1775801888483_0",
