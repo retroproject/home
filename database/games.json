@@ -149763,10 +149763,11 @@
     "_id": "game_1775751021365_0",
     "Name": "Lay of the Land",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Embark on an epic journey through a fantasy world where physics governs everything.<br>Explore diverse <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>biomes</b> filled with unique <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>wildlife</b> and dangers in <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>ruins</b> and deadly <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>temples</b>.<br>Descend through winding <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>caverns</b> or climb jagged <b style='color: #708090; text-shadow: 0 0 8px #708090;'>mountains</b> to uncover ancient secrets.<br>Master <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>spells</b> and weapons in tactical combat against fearsome <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>monsters</b>.<br>The fully destructible world lets you collapse environments on your foes for tactical advantage.<br>Build majestic <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>castles</b> using a voxel-based system with procedural shape tools.<br>Craft items physically—assemble materials into a functional <b style='color: #556B2F; text-shadow: 0 0 8px #556B2F;'>axe</b>.<br>Forge weapons from <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>ore</b> infused with <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>fire</b>, <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>ice</b>, and <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>lightning</b> elemental effects.<br>Face challenging <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>bosses</b> in emergent encounters.",
+    "DescriptionArabic": "<div dir='rtl'>انطلق في رحلة ملحمية عبر عالم فانتازي حيث تحكم الفيزياء كل شيء.<br>استكشف <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>مواطن</b> متنوعة مليئة بـ<b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>حيوانات</b> فريدة ومخاطر في <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>أطلال</b> و<b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>معابد</b> قاتلة.<br>انزل عبر <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>كهوف</b> متعرجة أو اصعد <b style='color: #708090; text-shadow: 0 0 8px #708090;'>جبالاً</b> وعرة لتكشف أسراراً قديمة.<br>أتقن <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>تعويذات</b> وأسلحة في قتال تكتيكي ضد <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>وحوش</b> مرعبة.<br>العالم القابل للتدمير بالكامل يتيح لك إسقاط البيئات على أعدائك للميزة التكتيكية.<br>ابنِ <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>قلاعاً</b> فخمة باستخدام نظام فوكسل وأدوات شكل إجرائية.<br>اصنع الأغراض فيزيائياً—جمّع المواد لتحويلها إلى <b style='color: #556B2F; text-shadow: 0 0 8px #556B2F;'>فأس</b> وظيفي.<br>اصهر أسلحة من <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>خام</b> مشبعة بتأثيرات <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>نار</b> و<b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>جليد</b> و<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>برق</b>.<br>واجه <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>زعماء</b> صعبين في مواجهات طارئة.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 70,
+    "Length": 10,
     "BackgroundUrl": "https://archive.org/download/RPRM001/Lay%20of%20the%20Land%20Background.jpg",
     "CoverUrl": "https://archive.org/download/RPRM001/Lay%20of%20the%20Land%20Cover.jpg",
     "YouTubeUrl": "https://archive.org/download/RPRM001/Lay%20of%20the%20Land%20Trailer.mp4",
@@ -149776,8 +149777,12 @@
     "PlatformNames": [
       "PC Game"
     ],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": [
+      "Adventure"
+    ],
+    "DeveloperNames": [
+      "Southern Cross Interactive"
+    ],
     "downloadInfo": {
       "PC Game": {
         "versions": [
