@@ -87566,7 +87566,7 @@
             "identifier": "RPRP022",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "75GB",
+            "fileSize": "80GB",
             "arguments": [],
             "executable": "WWE2K23_x64.exe",
             "buildID": "13 December 2023",
@@ -90791,16 +90791,20 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC29",
-            "filename": "Hogwarts Legacy.zip",
-            "name": "Vanilla",
+            "identifier": "RPRP022",
+            "name": "AMD & INTEL",
             "platform": "PC Game",
             "executable": "HogwartsLegacy.exe",
-            "fileSize": "72GB"
+            "fileSize": "72GB",
+            "buildID": "3 December 2025",
+            "filename": "00700.zip"
           }
         ]
       }
-    }
+    },
+    "Tags": [
+      "Hypervisor 2.0"
+    ]
   },
   {
     "_id": "bc7cb0a9-1969-415c-87f0-459f2a5e5bc9",
@@ -95094,7 +95098,7 @@
             "fileSize": "4GB",
             "arguments": [],
             "executable": "RiftOfTheNecroDancer.exe",
-            "buildID": "6 February 2026",
+            "buildID": "9 April 2026",
             "filename": "00420.zip"
           }
         ]
@@ -97887,11 +97891,21 @@
             "identifier": "RPRP022",
             "name": "Online",
             "platform": "PC Game",
-            "fileSize": "11GB",
+            "fileSize": "15GB",
             "arguments": [],
             "executable": "WS.exe",
             "buildID": "0.5.2",
             "filename": "00692.zip"
+          },
+          {
+            "identifier": "RPRP022",
+            "name": "Offline",
+            "platform": "PC Game",
+            "fileSize": "25GB",
+            "arguments": [],
+            "executable": "WS.exe",
+            "buildID": "9 April 2026",
+            "filename": "00697.zip"
           }
         ]
       }
@@ -149622,6 +149636,7 @@
             "fileSize": "13 GB",
             "executable": "mk_legacy_kollection.exe",
             "arguments": [],
+            "buildID": "25 March 2026",
             "filename": "00678.zip"
           }
         ]
@@ -149798,5 +149813,169 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1775793563508_0",
+    "Name": "DarkSwitch",
+    "SortingName": "",
+    "Description": "DarkSwitch is a vertical survival city builder where humanity clings to existence atop a massive tree, building upward while <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>The Fog</b> churns below, waiting to consume everything. <br>\nConstruct zip lines and stairways connecting your settlement's layers, managing scarce resources while <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>madness</b> spreads through the population. <br>\nThe <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Tree</b> provides limited real estate—every decision to expand upward carries brutal consequences. <br>\nSend <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>pioneers</b> into the misty unknown to uncover <b style='color: #556B2F; text-shadow: 0 0 8px #556B2F;'>ancient civilization</b> secrets and establish distant <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>outposts</b> for vital supplies. <br>\nCraft <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>light-powered weapons</b> and master <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>Solium</b> to push back the creeping chaos. <br>\nNavigate <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>morally complex decisions</b> where actions spiral into grim outcomes, seeking the truth behind <b style='color: #800020; text-shadow: 0 0 8px #800020;'>The Veil</b>. <br>\nShape your citizens' destiny in this world of <b style='color: #1C1C1C; text-shadow: 0 0 8px #1C1C1C;'>folk horror</b> and relentless <b style='color: #36454F; text-shadow: 0 0 8px #36454F;'>creeping dread</b>.",
+    "DescriptionArabic": "<div dir='rtl'>دارك سويتش هي لعبة بناء مدن بقاء عمودية يتشبث فيها البشر بالبقاء فوق شجرة هائلة، يبنون صعوداً بينما <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الضباب</b> يتهيأ في الأسفل منتظراً ابتلاع كل شيء. <br>\nابنِ خطوط سحب حديدية وسلالم لربط طبقات مستوطنتك، وأدِر الموارد النادرة بينما <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الجنون</b> ينتشر بين السكان. <br>\n<b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>الشجرة</b> توفر مساحة محدودة—كل قرار للتوسع للأعلى يحمل عواقب قاسية. <br>\nأرسل <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>المستكشفين</b> إلى المجهول الضبابي للكشف عن أسرار <b style='color: #556B2F; text-shadow: 0 0 8px #556B2F;'>حضارة قديمة</b> وأقم <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>قواعد</b> نائية للموارد الحيوية. <br>\nاصنع <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>أسلحة ضوئية</b> وأتقن <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>السوليوم</b> لصد الفوضى الزاحفة. <br>\nتخذ <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>قرارات أخلاقية معقدة</b> حيث تؤدي الأفعال إلى نتائج مظلمة، باحثاً عن الحقيقة وراء <b style='color: #800020; text-shadow: 0 0 8px #800020;'>الحجاب</b>. <br>\nحدد مصير سكانك في عالم من <b style='color: #1C1C1C; text-shadow: 0 0 8px #1C1C1C;'>الرعب الفولكلوري</b> و<b style='color: #36454F; text-shadow: 0 0 8px #36454F;'>الرعب المتسلل</b> المستمر.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 60,
+    "Length": 20,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/DarkSwitch%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/DarkSwitch%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/DarkSwitch%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Strategy"
+    ],
+    "DeveloperNames": [
+      "Cyber Temple Games LLC"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP022",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "9 GB",
+            "executable": "DarkSwitch.exe",
+            "arguments": [],
+            "buildID": "9 April 2026",
+            "filename": "00695.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1775793563508_1",
+    "Name": "Marvels Midnight Suns",
+    "SortingName": "",
+    "Description": "<b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Lilith</b>, Mother of Demons, awakens when <b style='color: #556B2F; text-shadow: 0 0 8px #556B2F;'>Hydra</b> merges science with dark magic.<br> She seeks to fulfill an ancient prophecy that will resurrect her master, <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Chthon</b>.<br> The <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>Avengers</b> find themselves overwhelmed, forcing them to call upon a supernatural team—the <b style='color: #1C1C1C; text-shadow: 0 0 8px #1C1C1C;'>Midnight Suns</b>.<br> You are <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>The Hunter</b>, <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Lilith</b>'s own child, brought back to stop her.<br> With <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Blade</b>, <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>Nico Minoru</b>, <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Magik</b>, and <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Ghost Rider</b> at your side, rally heroes against the darkness.<br> At the mysterious <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Abbey</b>, tensions rise as <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Lilith</b>'s corruption spreads to fallen allies.<br> The <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Darkhold</b> holds the key to victory—or your doom.",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>ليليث</b>، أم الشياطين، تستيقظ عندما يدمج <b style='color: #556B2F; text-shadow: 0 0 8px #556B2F;'>هيدرا</b> العلم بالسحر الأسود.<br> تسعى لتحقيق نبوءة قديمة ستعيد سيدها <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>تشثون</b> للحياة.<br> يجد <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>المنتقمون</b> أنفسهم عاجزين، مما يضطرهم لاستدعاء فريق خارق — <b style='color: #1C1C1C; text-shadow: 0 0 8px #1C1C1C;'>شمس منتصف الليل</b>.<br> أنت <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>الصياد</b>، طفل <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>ليليث</b>، أعيد للحياة لإيقافها.<br> مع <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>بليد</b> و<b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>نيكو مينورو</b> و<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>ماجيك</b> و<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>غوست رايدر</b> بجانبك، حارب الظلام المتجمع.<br> في <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>الدير</b> الغامض، تتصاعد التوترات حيث ينتشر فساد <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>ليليث</b> للحلفاء الساقطين.<br> يحمل <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>داركهولد</b> مفتاح النصر — أو موتك.</div>",
+    "ReleaseDate": "2022",
+    "CriticScore": 80,
+    "Length": 65,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Marvels%20Midnight%20Suns%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Marvels%20Midnight%20Suns%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Marvels%20Midnight%20Suns%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Strategy"
+    ],
+    "DeveloperNames": [
+      "Firaxis Games"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP022",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "57 GB",
+            "executable": "MidnightSuns.exe",
+            "arguments": [],
+            "buildID": "8 June 2023",
+            "filename": "00696.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1775801888483_0",
+    "Name": "Big Hops",
+    "SortingName": "",
+    "Description": "Hop, a young frog, is abducted by <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Diss</b>, a snarky trickster imp, and forced to gather mysterious <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Dark Drips</b>.<br> Desperate to reunite with his <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>family</b>, Hop strikes a deal with a <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>raccoon mechanic</b> to find <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Airship Parts</b>.<br> He explores a lush <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>Forest</b> and a <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Red Desert</b> run by the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Gulley Gang</b>.<br> He encounters <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>corporate otters</b> on <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Oil Rigs</b> and cultists in a <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Shattered Mountain</b>.<br> This playful <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>adventure</b> challenges Hop to choose between helping others or focusing solely on getting <b style='color: #F0E68C; text-shadow: 0 0 8px #F0E68C;'>home</b>.",
+    "DescriptionArabic": "<div dir='rtl'>هوب، ضفدع صغير، يُختطف على يد <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>ديس</b>، قزم خبيث ومشاكس، ويُجبر على جمع <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>قطرات الظلام</b> الغامضة.<br> وتحت ضغط الشوق لجمع شمل <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>عائلته</b>، يبرم هوب صفقة مع <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>ميكانيكي الراكون</b> للعثور على <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>قطع السفينة الجوية</b>.<br> يستكشف <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>غابة</b> و<b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>صحراء حمراء</b> يسيطر عليها <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>عصابة غولي</b>.<br> ويصادف <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>ثعالب ماء الشركات</b> في <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>منصات النفط</b> وطائفة في <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>جبل محطم</b>.<br> تتحداه هذه <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>المغامرة</b> المرحة للاختيار بين مساعدة الآخرين أو التركيز فقط على العودة <b style='color: #F0E68C; text-shadow: 0 0 8px #F0E68C;'>للمنزل</b>.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
+    "Length": 15,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Big%20Hops%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Big%20Hops%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Big%20Hops%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Platformer"
+    ],
+    "DeveloperNames": [
+      "Luckshot Games"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP022",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "Big Hops.exe",
+            "arguments": [],
+            "buildID": "28 March 2026",
+            "filename": "00698.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1775801888483_1",
+    "Name": "Kingdoms of Amalur ReReckoning",
+    "SortingName": "",
+    "Description": "A <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>vicious war</b> tears through the magical realm of <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>Amalur</b>, leaving a desperate world in need of a hero to restore balance.<br>You awaken as a <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>resurrected</b> warrior, the first to cheat death and hold the keys to <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>immortality</b> in a land ravaged by conflict.<br>Traverse the vibrant city of <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>Rathir</b>, the vast region of <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>Dalentarth</b>, and the grim <b style='color: #696969; text-shadow: 0 0 8px #696969;'>Brigand Hall Caverns</b> to uncover the deep secrets buried within.<br>Your <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>destiny</b> awaits in this sprawling fantasy universe, challenging the very forces that threaten to consume everything.",
+    "DescriptionArabic": "<div dir='rtl'>تمزق <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>حرب شرسة</b> المملكة السحرية <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>أمالور</b>، تاركة عالماً يائساً في حاجة إلى بطل لاستعادة التوازن.<br>تستيقظ كمحارب <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>بعث من الموت</b>، لتكون أول من يخدع الموت ويمتلك مفاتيح <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>الخلود</b> في أرض مزقتها الصراعات.<br>تجوب مدينة <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>راثير</b> النابضة بالحياة، ومنطقة <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>دالينتارث</b> الشاسعة، و <b style='color: #696969; text-shadow: 0 0 8px #696969;'>كهوف قاعة بريغاند</b> الموحشة للكشف عن الأسرار العميقة المدفونة بداخلها.<br>ينتظرك <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>مصيرك</b> في هذا الكون الخيالي الشاسع، لتحدي القوى التي تهدد بافناء كل شيء.</div>",
+    "ReleaseDate": "2020",
+    "CriticScore": 80,
+    "Length": 55,
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Kingdoms%20of%20Amalur%20ReReckoning%20Background.jpg",
+    "CoverUrl": "https://archive.org/download/RPRM001/Kingdoms%20of%20Amalur%20ReReckoning%20Cover.jpg",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "MusicUrl": "https://archive.org/download/RPRM001/Kingdoms%20of%20Amalur%20ReReckoning%20Theme.mp3",
+    "PlatformNames": [
+      "PC Game"
+    ],
+    "GenreNames": [
+      "Role-Playing"
+    ],
+    "DeveloperNames": [
+      "THQ Nordic"
+    ],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP022",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "44 GB",
+            "executable": "koa.exe",
+            "arguments": [],
+            "buildID": "17 March 2023",
+            "filename": "00699.zip"
+          }
+        ]
+      }
+    }
   }
 ]
