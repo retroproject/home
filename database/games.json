@@ -116489,7 +116489,7 @@
             "platform": "PC Game",
             "fileSize": "80GB",
             "arguments": [],
-            "executable": "Binaries\\Win64\\steamclient_loader_x64.exe",
+            "executable": "CodeVein2\\Binaries\\Win64\\steamclient_loader_x64.exe",
             "buildID": "17 March 2026",
             "filename": "00618.zip"
           }
