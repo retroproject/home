@@ -116491,6 +116491,7 @@
             "arguments": [],
             "executable": "CodeVein2\\Binaries\\Win64\\steamclient_loader_x64.exe",
             "buildID": "17 March 2026",
+            "customSavePath": "CodeVein2\\Binaries\\Win64\\userdata",
             "filename": "00618.zip"
           }
         ]
