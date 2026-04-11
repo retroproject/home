@@ -44803,17 +44803,18 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP003",
+            "identifier": "RPRP023",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Ship\\Hades2.exe",
-            "fileSize": "9GB",
-            "buildID": "25 September 2025",
-            "filename": "00102.zip"
+            "fileSize": "10GB",
+            "buildID": "12 November 2025",
+            "filename": "00705.zip"
           }
         ]
       }
-    }
+    },
+    "Tags": ["Arabic"]
   },
   {
     "_id": "71996824-93be-4495-a500-3abdd3b2877c",
