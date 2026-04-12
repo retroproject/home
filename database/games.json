@@ -37477,22 +37477,30 @@
     "YouTubeUrl": "",
     "videoStart": null,
     "videoEnd": null,
-    "PlatformNames": ["Nintendo DS"],
+    "PlatformNames": ["Nintendo DS", "PC Game"],
     "GenreNames": ["Japanese Role-Playing"],
     "DeveloperNames": ["h.a.n.d., Inc."],
     "downloadInfo": {
-      "Nintendo DS": {
+      "Cross-Platform": {
         "versions": [
           {
             "identifier": "retro-nitro",
-            "filename": "Kingdom Hearts 358-2 Days.zip",
             "name": "Vanilla",
             "platform": "Nintendo DS",
             "emulator": "RetroArch",
             "fileSize": "500MB",
             "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
             "romFiles": ["Kingdom Hearts 358-2 Days.nds", "Kingdom Hearts 358-2 Days (Japanese VA).nds"],
-            "romLabels": ["English VA", "Japanese VA"]
+            "romLabels": ["English VA", "Japanese VA"],
+            "filename": "Kingdom Hearts 358-2 Days.zip"
+          },
+          {
+            "identifier": "RPRP023",
+            "filename": "",
+            "platform": "PC Game",
+            "name": "KHMelonMix",
+            "fileSize": "500MB",
+            "buildID": "0.8.2"
           }
         ]
       }
