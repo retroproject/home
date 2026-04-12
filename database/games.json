@@ -7138,12 +7138,12 @@
           },
           {
             "identifier": "RPRP023",
-            "filename": "00707.zip",
             "platform": "PC Game",
             "name": "KHMelonMix",
-            "fileSize": "500MB",
+            "fileSize": "1GB",
             "buildID": "0.8.2",
-            "executableFiles": ["MelonMix_KHReCoded.exe"]
+            "executableFiles": ["MelonMix_KHReCoded.exe"],
+            "filename": "00707.zip"
           }
         ]
       }
