@@ -37496,11 +37496,12 @@
           },
           {
             "identifier": "RPRP023",
-            "filename": "",
+            "filename": "00706.zip",
             "platform": "PC Game",
             "name": "KHMelonMix",
-            "fileSize": "500MB",
-            "buildID": "0.8.2"
+            "fileSize": "6GB",
+            "buildID": "0.8.2",
+            "executableFiles": ["MelonMix_KHDays.bat"]
           }
         ]
       }
