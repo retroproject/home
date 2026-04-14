@@ -9819,5 +9819,410 @@
       }
     ],
     "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1776195719804_ztq6urufe",
+    "Title": "Blade & Bastard",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "Status": {
+      "state": "completed",
+      "currentVolume": 3,
+      "currentChapter": null
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/Blade%20%26%20Bastard%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga"],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00353.zip",
+        "fileSize": "256 MB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1776196552697_fexenu0lt",
+    "Title": "Blood on the Tracks",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "Status": {
+      "state": "completed",
+      "currentVolume": 17,
+      "currentChapter": null
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/Blood%20on%20the%20Tracks%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga"],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00354.zip",
+        "fileSize": "2 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1776197092607_0nngagrta",
+    "Title": "Boy's Abyss",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "Status": {
+      "state": "completed",
+      "currentVolume": 12,
+      "currentChapter": null
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/Boy's%20Abyss%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga"],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00355.zip",
+        "fileSize": "4 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1776197197808_n63w00d4k",
+    "Title": "Erased",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "Status": {
+      "state": "completed",
+      "currentVolume": 9,
+      "currentChapter": null
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/Erased%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga"],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00356.zip",
+        "fileSize": "732 MB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1776197312996_lxa25pnfh",
+    "Title": "Future Diary",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "Status": {
+      "state": "completed",
+      "currentVolume": 13,
+      "currentChapter": null
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/Future%20Diary%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga"],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00357.zip",
+        "fileSize": "2 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1776197350963_btf7c2xmj",
+    "Title": "Hinowa ga CRUSH!",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "Status": {
+      "state": "completed",
+      "currentVolume": 8,
+      "currentChapter": null
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/Hinowa%20ga%20CRUSH!%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga"],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00358.zip",
+        "fileSize": "831 MB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1776197601355_oewqlqikr",
+    "Title": "Homunculus",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "Status": {
+      "state": "completed",
+      "currentVolume": 5,
+      "currentChapter": null
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/Homunculus%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga"],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00359.zip",
+        "fileSize": "8 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1776197651094_u6vw62ujb",
+    "Title": "Killing Stalking",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "Status": {
+      "state": "completed",
+      "currentVolume": 3,
+      "currentChapter": null
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/Killing%20Stalking%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga"],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00360.zip",
+        "fileSize": "628 MB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1776198003090_w9z5m91ki",
+    "Title": "My Monster Secret",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "Status": {
+      "state": "completed",
+      "currentVolume": 22,
+      "currentChapter": null
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/My%20Monster%20Secret%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga"],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00361.zip",
+        "fileSize": "9 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1776198009217_ab455y1mf",
+    "Title": "Our Happy Hours",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "Status": {
+      "state": "completed",
+      "currentVolume": 1,
+      "currentChapter": null
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/Our%20Happy%20Hours%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga"],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00362.zip",
+        "fileSize": "39 MB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1776198177171_qh4qtz9qy",
+    "Title": "Parasyte",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "Status": {
+      "state": "completed",
+      "currentVolume": 8,
+      "currentChapter": null
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/Parasyte%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga"],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00363.zip",
+        "fileSize": "4 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1776198215302_yan0igglm",
+    "Title": "Parasyte Reversi",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "Status": {
+      "state": "completed",
+      "currentVolume": 5,
+      "currentChapter": null
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/Parasyte%20Reversi%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga"],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00364.zip",
+        "fileSize": "1 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1776198357295_y6te9lzli",
+    "Title": "Psyren",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "Status": {
+      "state": "completed",
+      "currentVolume": 16,
+      "currentChapter": null
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/Psyren%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga"],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00365.zip",
+        "fileSize": "3 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1776198490466_wu3pan975",
+    "Title": "The Flowers of Evil",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "Status": {
+      "state": "completed",
+      "currentVolume": 11,
+      "currentChapter": null
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Flowers%20of%20Evil%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga"],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00366.zip",
+        "fileSize": "3 GB"
+      }
+    ],
+    "audiobooksUrl": []
+  },
+  {
+    "_id": "book_1776198513670_999cemkjx",
+    "Title": "The Horizon",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "Status": {
+      "state": "completed",
+      "currentVolume": 3,
+      "currentChapter": null
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Horizon%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga"],
+    "booksUrl": [
+      {
+        "format": "ZIP",
+        "identifier": "RBRB002",
+        "filename": "00367.zip",
+        "fileSize": "449 MB"
+      }
+    ],
+    "audiobooksUrl": []
   }
 ]
