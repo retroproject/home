@@ -125322,10 +125322,11 @@
     "_id": "game_1776200735154_0",
     "Name": "Of Ash and Steel",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "A once-prosperous island now mired in chaos and lawlessness awaits those brave enough to carve their own fate.<br><b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Tristian</b>, a humble <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>cartographer</b>, finds himself thrust far beyond the safety of maps and ink into a world that demands blood and steel for survival.<br>The <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Kingdom of the Seven</b> shows no mercy to the weak, and every shadow in <b style='color: #4A4A4A; text-shadow: 0 0 8px #4A4A4A;'>Grayshaft</b> could hide either opportunity or death.<br><b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Bandits</b> and warring <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>factions</b> vie for control, forcing travelers to choose alliances carefully—or suffer the consequences.<br>What begins as a simple journey transforms into a fight for survival, where strength must be earned and trust is a currency more precious than gold.",
+    "DescriptionArabic": "<div dir='rtl'>جزيرة كانت يوماً مزدهرة، غارقة الآن في الفوضى والخروج عن القانون، تنتظر من يجرؤ على رسم مصيره بيده.<br>يجد <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>تريستيان</b>، رسام الخرائط المتواضع، نفسه منقولاً بعيداً عن أمان الخرائط والحبر إلى عالم يطلب الدم والصلب ثمناً للبقاء.<br>لا يرحم <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>مملكة السبعة</b> الضعفاء، وكل ظل في <b style='color: #4A4A4A; text-shadow: 0 0 8px #4A4A4A;'>غراي شافت</b> قد يخبئ فرصة أو موتاً.<br>يتنافس <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>قطاع الطرق</b> و<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الفصائل</b> المتحاربة على السيطرة، مجبرين المسافرين على اختيار تحالفاتهم بحذر—أو تحمل العواقب.<br>ما يبدأ كرحلة بسيطة يتحول إلى صراع من أجل البقاء، حيث القوة تُكتسب والثقة عملة أغلى من الذهب.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 70,
+    "Length": 85,
     "CoverUrl": "https://archive.org/download/RPRM001/Of%20Ash%20and%20Steel%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Of%20Ash%20and%20Steel%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Of%20Ash%20and%20Steel%20Theme.mp3",
@@ -125333,8 +125334,8 @@
     "videoStart": 0,
     "videoEnd": 0,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Role-Playing"],
+    "DeveloperNames": ["Fire & Frost"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -125343,9 +125344,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "24 GB",
-            "filename": "00709.zip",
             "executable": "ofAshAndSteelGame.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "17 February 2026",
+            "filename": "00709.zip"
           }
         ]
       }
@@ -125355,10 +125357,11 @@
     "_id": "game_1776200735154_1",
     "Name": "REPLACED",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "In an alternate <b style='color: #ff4444; text-shadow: 0 0 8px #ff4444;'>1980s America</b> reshaped by <b style='color: #ff6600; text-shadow: 0 0 8px #ff6600;'>nuclear catastrophe</b>, a powerful artificial intelligence named <b style='color: #00ccff; text-shadow: 0 0 8px #00ccff;'>R.E.A.C.H.</b> finds itself trapped in the body of <b style='color: #888888; text-shadow: 0 0 8px #888888;'>Dr. Warren Marsh</b> after a laboratory accident. <br>Struggling to understand <b style='color: #cc66ff; text-shadow: 0 0 8px #cc66ff;'>humanity</b>, this <b style='color: #00ccff; text-shadow: 0 0 8px #00ccff;'>AI</b> must navigate the dystopian <b style='color: #ff4444; text-shadow: 0 0 8px #ff4444;'>Phoenix-City</b>, where <b style='color: #cc66ff; text-shadow: 0 0 8px #cc66ff;'>Phoenix Corporation</b> rules with corruption and secrets. <br>The <b style='color: #666666; text-shadow: 0 0 8px #666666;'>Disposals</b>—society's outcasts—lurk beyond <b style='color: #cc9900; text-shadow: 0 0 8px #cc9900;'>The Wall</b>, while <b style='color: #888888; text-shadow: 0 0 8px #888888;'>human life</b> becomes currency inside. <br>As <b style='color: #00ccff; text-shadow: 0 0 8px #00ccff;'>R.E.A.C.H.</b> seeks answers about its creation, it uncovers dark truths about <b style='color: #cc66ff; text-shadow: 0 0 8px #cc66ff;'>identity</b> and <b style='color: #cc66ff; text-shadow: 0 0 8px #cc66ff;'>control</b> in a world where every secret has a price.",
+    "DescriptionArabic": "<div dir='rtl'>في <b style='color: #ff4444; text-shadow: 0 0 8px #ff4444;'>أمريكا الثمانينيات</b> البديلة التي أعادت <b style='color: #ff6600; text-shadow: 0 0 8px #ff6600;'>الكارثة النووية</b> تشكيلها، يجد الذكاء الاصطناعي القوي <b style='color: #00ccff; text-shadow: 0 0 8px #00ccff;'>ريتش</b> نفسه محاصراً في جسد <b style='color: #888888; text-shadow: 0 0 8px #888888;'>الدكتور وارن مارش</b> بعد حادث مختبر. <br>يصارع لفهم <b style='color: #cc66ff; text-shadow: 0 0 8px #cc66ff;'>الإنسانية</b>، ويجب على هذا <b style='color: #00ccff; text-shadow: 0 0 8px #00ccff;'>الذكاء الاصطناعي</b> التنقل في <b style='color: #ff4444; text-shadow: 0 0 8px #ff4444;'>مدينة فينيكس</b> الديستوبية، حيث تحكم <b style='color: #cc66ff; text-shadow: 0 0 8px #cc66ff;'>شركة فينيكس</b> بالفساد والأسرار. <br>يتربص <b style='color: #666666; text-shadow: 0 0 8px #666666;'>المنبوذون</b>—منبوذو المجتمع—خلف <b style='color: #cc9900; text-shadow: 0 0 8px #cc9900;'>الجدار</b>، بينما تصبح <b style='color: #888888; text-shadow: 0 0 8px #888888;'>الحياة البشرية</b> عملة في الداخل. <br>بينما يسعى <b style='color: #00ccff; text-shadow: 0 0 8px #00ccff;'>ريتش</b> للإجابة عن أسئلة خلقته، يكشف حقائق مظلمة عن <b style='color: #cc66ff; text-shadow: 0 0 8px #cc66ff;'>الهوية</b> و<b style='color: #cc66ff; text-shadow: 0 0 8px #cc66ff;'>السيطرة</b> في عالم كل سر فيه له ثمن.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
+    "Length": 10,
     "CoverUrl": "https://archive.org/download/RPRM001/REPLACED%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/REPLACED%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/REPLACED%20Theme.mp3",
@@ -125366,8 +125369,8 @@
     "videoStart": 0,
     "videoEnd": 0,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Adventure"],
+    "DeveloperNames": ["Sad Cat Studios"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -125376,9 +125379,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "5 GB",
-            "filename": "00710.zip",
             "executable": "Replaced.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "14 April 2026",
+            "filename": "00710.zip"
           }
         ]
       }
