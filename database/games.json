@@ -101853,12 +101853,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC10",
-            "filename": "Dome Keeper.zip",
+            "identifier": "RPRP023",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "domekeeper.exe",
-            "fileSize": "740MB"
+            "fileSize": "740MB",
+            "buildID": "13 April 2026",
+            "filename": "00708.zip"
           }
         ]
       }
@@ -125312,6 +125313,72 @@
             "arguments": [],
             "buildID": "9 April 2026",
             "filename": "00701.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1776200735154_0",
+    "Name": "Of Ash and Steel",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Of%20Ash%20and%20Steel%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Of%20Ash%20and%20Steel%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Of%20Ash%20and%20Steel%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Of%20Ash%20and%20Steel%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP023",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "24 GB",
+            "filename": "00709.zip",
+            "executable": "ofAshAndSteelGame.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1776200735154_1",
+    "Name": "REPLACED",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/REPLACED%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/REPLACED%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/REPLACED%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/REPLACED%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP023",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "filename": "00710.zip",
+            "executable": "Replaced.exe",
+            "arguments": []
           }
         ]
       }
