@@ -1805,7 +1805,6 @@
         .feature-card:hover .feature-title {
             color: #ffd700;
             text-shadow: 0 0 15px rgba(255, 215, 0, 0.8);
-            transform: scale(1.05);
         }
 
         .feature-text {
@@ -2310,7 +2309,6 @@
         .screenshot-feature-card:hover .screenshot-feature-title {
             color: #ffd700;
             text-shadow: 0 0 15px rgba(255, 215, 0, 0.8);
-            transform: scale(1.05);
         }
 
         .screenshot-feature-text {
@@ -4470,9 +4468,9 @@
             <div class="search-container">
                 <div class="search-input-wrapper">
                     <div class="filter-chips" id="filterChips"></div>
-                    <input type="text" class="search-box" placeholder="Search games..." id="gameSearch"
+                    <input type="text" class="search-box" placeholder="Search..." id="gameSearch"
                         oninput="handleSearchInput()"
-                        data-placeholder-en="Search games..." data-placeholder-ar="ابحث عن الألعاب...">
+                        data-placeholder-en="Search..." data-placeholder-ar="بحث...">
                     <button class="recent-toggle-btn" id="recentToggleBtn" onclick="toggleRecentlyAdded()">🔥</button>
                 </div>
             </div>
@@ -6390,10 +6388,60 @@
             };
         }
 
-        // Display games with infinite scroll
-        function displayGames() {
+        // Display games — ported directly from Retro Project's displayCurrentPage +
+        // animateGameCards. Cards start with inline opacity:0, JS sets opacity:1
+        // after each card's image is decoded so they fade in as they finish loading.
+        // The version counter prevents overlapping renders from rapid searches.
+        let displayGamesVersion = 0;
+
+        function fadeInCard(card) {
+            card.style.transition = 'opacity 1s ease-in-out';
+            card.style.opacity = '1';
+        }
+
+        function animateGameCards(startIndex) {
+            const gameCards = document.querySelectorAll('.game-card');
+            const begin = startIndex || 0;
+
+            for (let i = begin; i < gameCards.length; i++) {
+                const card = gameCards[i];
+                const img = card.querySelector('.game-cover');
+
+                if (!img) { fadeInCard(card); continue; }
+
+                const fadeIn = () => fadeInCard(card);
+                const fadeInAfterDecode = () => {
+                    if (img.decode) {
+                        img.decode().then(fadeIn).catch(fadeIn);
+                    } else {
+                        requestAnimationFrame(fadeIn);
+                    }
+                };
+
+                if (img.complete && img.naturalWidth > 0) {
+                    fadeInAfterDecode();
+                } else {
+                    img.addEventListener('load', fadeInAfterDecode);
+                    img.addEventListener('error', fadeIn);
+                }
+            }
+        }
+
+        async function displayGames() {
+            const myVersion = ++displayGamesVersion;
             const gamesGrid = document.getElementById('gamesGrid');
             const noResults = document.getElementById('noResults');
+
+            // Fade out existing game cards if we have them
+            const existingGameCards = gamesGrid.querySelectorAll('.game-card');
+            if (existingGameCards.length > 0) {
+                existingGameCards.forEach((card) => {
+                    card.style.transition = 'opacity 1s ease-in-out';
+                    card.style.opacity = '0';
+                });
+                await new Promise(resolve => setTimeout(resolve, 1000));
+                if (myVersion !== displayGamesVersion) return;
+            }
 
             if (filteredGames.length === 0) {
                 gamesGrid.innerHTML = '';
@@ -6403,28 +6451,30 @@
 
             noResults.style.display = 'none';
 
-            // Display only loaded games so far
             const displayedGames = filteredGames.slice(0, Math.min(loadedGamesCount, filteredGames.length));
 
-            const newHTML = displayedGames.map((game, index) => {
-                // Find the full game data including YouTube URL
+            const newHTML = displayedGames.map((game) => {
                 const fullGameData = allGameData.find(g => g.name === game.name);
                 const youtubeUrl = fullGameData ? fullGameData.youtubeUrl : '';
 
                 return `
-                    <div class="game-card" onclick="showErrorToast('App only feature')">
+                    <div class="game-card" style="opacity: 0; visibility: visible;" onclick="showErrorToast('App only feature')">
                         <img class="game-cover"
                              src="${game.cover}"
                              alt="${game.name}"
                              onerror="handleImageError(this)"
-                             loading="lazy"
-                             onload="this.parentElement.classList.add('loaded')"
-                             onerror="this.parentElement.classList.add('loaded')">
+                             loading="eager">
                     </div>
                 `;
             }).join('');
 
             gamesGrid.innerHTML = newHTML;
+
+            // Animate cards in
+            setTimeout(() => {
+                if (myVersion !== displayGamesVersion) return;
+                animateGameCards();
+            }, 50);
 
             // Check if page needs more content immediately
             setTimeout(() => {
@@ -6432,7 +6482,7 @@
             }, 500);
         }
 
-        // Load more games for infinite scroll
+        // Load more games for infinite scroll — only animates the newly-appended batch.
         function loadMoreGames() {
             if (isLoadingMore || loadedGamesCount >= filteredGames.length) {
                 return;
@@ -6440,36 +6490,35 @@
 
             isLoadingMore = true;
 
-            // Simulate loading delay for smooth UX
             setTimeout(() => {
+                const gamesGrid = document.getElementById('gamesGrid');
+                const startIndex = loadedGamesCount;
                 const endIndex = Math.min(loadedGamesCount + ITEMS_PER_BATCH, filteredGames.length);
+                const newGames = filteredGames.slice(startIndex, endIndex);
                 loadedGamesCount = endIndex;
 
-                // Append new games to grid
-                const gamesGrid = document.getElementById('gamesGrid');
-                const newGames = filteredGames.slice(endIndex - ITEMS_PER_BATCH, endIndex);
-
-                newGames.forEach(game => {
+                const newHTML = newGames.map((game) => {
                     const fullGameData = allGameData.find(g => g.name === game.name);
                     const youtubeUrl = fullGameData ? fullGameData.youtubeUrl : '';
 
-                    const cardHTML = `
-                        <div class="game-card" onclick="openGamePage('${game.name.replace(/'/g, "\\'")}', '${game.cover}', this, '${youtubeUrl.replace(/'/g, "\\'")}')">
+                    return `
+                        <div class="game-card" style="opacity: 0; visibility: visible;" onclick="openGamePage('${game.name.replace(/'/g, "\\'")}', '${game.cover}', this, '${youtubeUrl.replace(/'/g, "\\'")}')">
                             <img class="game-cover"
                                  src="${game.cover}"
                                  alt="${game.name}"
                                  onerror="handleImageError(this)"
-                                 loading="lazy"
-                                 onload="this.parentElement.classList.add('loaded')"
-                                 onerror="this.parentElement.classList.add('loaded')">
+                                 loading="eager">
                         </div>
                     `;
-                    gamesGrid.insertAdjacentHTML('beforeend', cardHTML);
-                });
+                }).join('');
+
+                gamesGrid.insertAdjacentHTML('beforeend', newHTML);
+
+                setTimeout(() => {
+                    animateGameCards(startIndex);
+                }, 50);
 
                 isLoadingMore = false;
-
-                // Check if still needs more content
                 checkIfNeedsMoreContent();
             }, 300);
         }
@@ -6519,7 +6568,6 @@
         // Handle image loading errors
         function handleImageError(img) {
             img.style.display = 'none';
-            const card = img.closest('.game-card');
             const placeholder = document.createElement('div');
             placeholder.className = 'game-cover loading-skeleton';
             placeholder.style.display = 'flex';
@@ -6570,15 +6618,32 @@
         }
 
         // Filter and search functionality
+        // Debounce timer for games search input (matches Retro Project app)
+        let gamesSearchDebounceTimer = null;
+
         function handleSearchInput() {
             const searchTerm = document.getElementById('gameSearch').value.toLowerCase().trim();
+
+            // Dropdown suggestions update instantly — they're cheap and the user
+            // expects to see them as they type.
             updateSearchDropdown(searchTerm);
-            performSearch();
+
+            // The actual grid filter / re-render is debounced so we don't
+            // re-filter ~3500 games on every keystroke.
+            if (gamesSearchDebounceTimer) {
+                clearTimeout(gamesSearchDebounceTimer);
+            }
+            gamesSearchDebounceTimer = setTimeout(() => {
+                performSearch();
+            }, 300);
         }
 
         function updateSearchDropdown(searchTerm) {
             const dropdown = document.getElementById('searchDropdown');
-            
+            // Dropdown element isn't in the DOM — suggestions feature not wired
+            // up on this page. Bail silently so the grid search still works.
+            if (!dropdown) return;
+
             let suggestions;
             
             if (searchTerm.length === 0) {
@@ -6740,11 +6805,19 @@
             // Add filter chip
             activeFilters.push({ type, value, display });
             updateFilterChips();
-            
+
             // Clear search input
             document.getElementById('gameSearch').value = '';
-            document.getElementById('searchDropdown').classList.remove('show');
-            
+            const dropdown = document.getElementById('searchDropdown');
+            if (dropdown) dropdown.classList.remove('show');
+
+            // Cancel any pending debounced search so an in-flight keystroke
+            // doesn't fire after the click and overwrite the filter result.
+            if (gamesSearchDebounceTimer) {
+                clearTimeout(gamesSearchDebounceTimer);
+                gamesSearchDebounceTimer = null;
+            }
+
             // Perform search with filters
             performSearch();
         }
@@ -6859,7 +6932,8 @@
         function hideSearchDropdown() {
             // Delay hiding to allow clicks
             searchDropdownTimeout = setTimeout(() => {
-                document.getElementById('searchDropdown').classList.remove('show');
+                const dropdown = document.getElementById('searchDropdown');
+                if (dropdown) dropdown.classList.remove('show');
             }, 200);
         }
 
