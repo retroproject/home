@@ -7,7 +7,13 @@
     <title>Retro Project</title>
     <meta name="description" content="The ultimate gaming hub combining old games and modern ones in one easy console-like experience.">
     <link rel="icon" type="image/png" href="https://i.imgur.com/CnaYYTF.png">
-    
+
+    <!-- Fetch both language backgrounds early so the EN↔AR toggle swap is
+         instant. EN is used immediately (preload), AR is used on first toggle
+         (prefetch — avoids the "preloaded but not used" console warning). -->
+    <link rel="preload" as="image" href="https://i.imgur.com/Dc7CikC.jpeg">
+    <link rel="prefetch" as="image" href="https://i.imgur.com/Rw6Jial.jpeg">
+
     <!-- Open Graph / Discord Embed Meta Tags -->
     <meta property="og:type" content="website">
     <meta property="og:title" content="Retro Project">
@@ -21,6 +27,9 @@
     <meta name="twitter:title" content="Retro Project">
     <meta name="twitter:description" content="The ultimate gaming hub combining old games and modern ones in one easy console-like experience.">
     <meta name="twitter:image" content="https://i.imgur.com/CnaYYTF.png">
+
+    <!-- Supabase JS SDK (read-only access using the anon key, matches the app's setup) -->
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Orbitron:wght@400;700;900&family=Cairo:wght@400;600;700;900&display=swap');
 
@@ -48,6 +57,23 @@
         html::-webkit-scrollbar,
         body::-webkit-scrollbar {
             display: none;
+        }
+
+        /* Disable text selection globally so drag-highlighting doesn't
+           happen on UI text. Text fields still allow selection so users
+           can edit search input, review forms, etc. */
+        * {
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+        input, textarea, [contenteditable="true"] {
+            -webkit-user-select: text;
+            -moz-user-select: text;
+            -ms-user-select: text;
+            user-select: text;
         }
 
         /* Language transition */
@@ -1198,6 +1224,7 @@
 
         /* Recent toggle button */
         .recent-toggle-btn {
+            display: none !important;
             background: rgba(230, 126, 34, 0.1);
             border: 1px solid rgba(230, 126, 34, 0.3);
             border-radius: 8px;
@@ -1387,7 +1414,10 @@
 
 
         body.arabic-mode .search-input-wrapper {
-            flex-direction: row;
+            /* row-reverse puts the 🔥 toggle on the LEFT, input+chips on the
+               right — the natural reading order for RTL. direction stays ltr
+               so the input itself accepts both LTR and RTL text normally. */
+            flex-direction: row-reverse;
             direction: ltr;
         }
 
@@ -2096,6 +2126,7 @@
             display: block;
             transition: opacity 0.3s ease-in-out;
             border-radius: 12px;
+            cursor: pointer;
         }
 
         .lightbox-close {
@@ -3502,6 +3533,11 @@
             filter: drop-shadow(0 0 20px rgba(88, 101, 242, 0.8)) drop-shadow(0 0 40px rgba(88, 101, 242, 0.4));
         }
 
+        .gahweni-card .social-icon {
+            animation: iconFloat 3s ease-in-out infinite 0.3s;
+            filter: drop-shadow(0 0 20px rgba(139, 90, 43, 0.8)) drop-shadow(0 0 40px rgba(139, 90, 43, 0.4));
+        }
+
         .twitch-card .social-icon {
             animation: iconFloat 3.5s ease-in-out infinite 0.5s;
             filter: drop-shadow(0 0 20px rgba(145, 70, 255, 0.8)) drop-shadow(0 0 40px rgba(145, 70, 255, 0.4));
@@ -3740,7 +3776,7 @@
         .game-tab {
             padding: 0.8rem;
             cursor: pointer;
-            border-radius: 15px;
+            border-radius: 8px;
             transition: all 0.3s ease;
             background: rgba(255, 255, 255, 0.05);
             border: 2px solid transparent;
@@ -3760,8 +3796,8 @@
 
         .game-tab:hover {
             transform: translateY(-3px) scale(1.1);
-            background: rgba(255, 107, 53, 0.1);
-            box-shadow: 0 8px 25px rgba(255, 107, 53, 0.3);
+            background: rgba(70, 130, 180, 0.1);
+            box-shadow: 0 8px 25px rgba(70, 130, 180, 0.3);
         }
 
         .game-tab:hover .tab-icon {
@@ -3770,9 +3806,9 @@
         }
 
         .game-tab.active {
-            background: rgba(255, 107, 53, 0.2);
-            border-color: #ff6b35;
-            box-shadow: 0 0 20px rgba(255, 107, 53, 0.4);
+            background: rgba(70, 130, 180, 0.2);
+            border-color: #4682b4;
+            box-shadow: 0 0 20px rgba(70, 130, 180, 0.4);
         }
 
         .game-tab.active .tab-icon {
@@ -3780,9 +3816,34 @@
             transform: scale(1.05);
         }
 
+        /* Loading state — gold pulse while a tab's content is being fetched */
+        .game-tab.loading {
+            background: linear-gradient(145deg, rgba(255, 215, 0, 0.4), rgba(255, 215, 0, 0.1));
+            border-color: rgba(255, 215, 0, 0.5);
+            animation: loadingPulse 2s infinite ease-in-out;
+        }
+
+        /* Disabled state — grayed, non-clickable */
+        .game-tab.disabled {
+            background: rgba(128, 128, 128, 0.1);
+            border-color: rgba(128, 128, 128, 0.3);
+            cursor: not-allowed !important;
+            opacity: 0.5;
+            pointer-events: none;
+        }
+
+        .game-tab.disabled .tab-icon {
+            filter: brightness(0.5) contrast(0.8);
+        }
+
+        @keyframes loadingPulse {
+            0%, 100% { box-shadow: 0 0 10px rgba(255, 215, 0, 0.4); }
+            50% { box-shadow: 0 0 25px rgba(255, 215, 0, 0.8); }
+        }
+
         .tab-separator {
             height: 2px;
-            background: linear-gradient(90deg, transparent, #ff6b35, transparent);
+            background: linear-gradient(90deg, transparent, #dc143c, transparent);
             margin-bottom: 2rem;
             border-radius: 1px;
         }
@@ -3809,6 +3870,350 @@
             visibility: visible;
             position: relative;
             transform: translateY(0);
+        }
+
+        /* Per-tab loading spinner */
+        .tab-spinner {
+            text-align: center;
+            padding: 3rem 1rem;
+        }
+        .tab-spinner-circle {
+            width: 50px;
+            height: 50px;
+            border: 4px solid rgba(70, 130, 180, 0.3);
+            border-top: 4px solid #4682b4;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto;
+        }
+        .tab-spinner p {
+            color: #4682b4;
+            margin-top: 1rem;
+            font-family: 'Orbitron', monospace;
+        }
+        .tab-empty {
+            text-align: center;
+            padding: 3rem 1rem;
+            color: rgba(255,255,255,0.5);
+            font-family: 'Orbitron', monospace;
+        }
+        .tab-empty-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            opacity: 0.5;
+        }
+
+        /* Reviews section — read-only cards */
+        .reviews-section { max-width: 900px; margin: 0 auto; }
+        .dmc-review-card {
+            background: rgba(10, 10, 10, 0.7);
+            border: 1px solid rgba(70, 130, 180, 0.3);
+            border-radius: 12px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+            padding: 20px;
+            margin: 15px 0;
+            position: relative;
+            overflow: hidden;
+            transition: all 0.3s ease;
+        }
+        .dmc-review-card:hover { border-color: rgba(70, 130, 180, 0.6); }
+        .dmc-review-top {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 15px;
+        }
+        .dmc-review-user {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .dmc-review-avatar {
+            width: 100px;
+            height: 100px;
+            border-radius: 8px;
+            border: 2px solid #4682b4;
+            background: #1a1a1a center/cover no-repeat;
+            box-shadow: 0 0 10px rgba(70, 130, 180, 0.5);
+        }
+        .dmc-review-username {
+            color: #4682b4;
+            font-weight: bold;
+            font-family: 'Orbitron', monospace;
+            font-size: 1.1rem;
+            margin-top: 8px;
+            text-align: center;
+        }
+        .dmc-review-cover {
+            width: 100px;
+            height: 100px;
+            border-radius: 8px;
+            border: 2px solid #4682b4;
+            background: #1a1a1a center/cover no-repeat;
+            box-shadow: 0 0 10px rgba(70, 130, 180, 0.5);
+        }
+        .dmc-review-title {
+            text-align: center;
+            margin-bottom: 15px;
+            color: #4682b4;
+            font-family: 'Orbitron', monospace;
+            font-weight: bold;
+            font-size: 1.1rem;
+            text-shadow: 0 0 10px rgba(70, 130, 180, 0.6);
+        }
+        .dmc-review-separator {
+            height: 1px;
+            background: linear-gradient(90deg, transparent, rgba(70, 130, 180, 0.5), transparent);
+            margin-bottom: 15px;
+        }
+        .dmc-review-comment {
+            text-align: center;
+            color: #e0e0e0;
+            line-height: 1.6;
+            margin-bottom: 15px;
+            font-family: 'Orbitron', monospace;
+            font-size: 0.95rem;
+        }
+        .dmc-review-stars {
+            display: flex;
+            justify-content: center;
+            gap: 4px;
+            margin-bottom: 15px;
+        }
+        .dmc-review-stars .star-container {
+            animation: starWavePulse 2s infinite ease-in-out;
+        }
+        .dmc-review-stars .star {
+            color: #ffed4a;
+            font-size: 1.2rem;
+        }
+        @keyframes starWavePulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.2); }
+        }
+        .dmc-review-actions {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+        .dmc-count-pill {
+            background: rgba(70, 130, 180, 0.15);
+            border: 1px solid rgba(70, 130, 180, 0.3);
+            color: #e0e0e0;
+            padding: 6px 12px;
+            border-radius: 8px;
+            font-family: 'Orbitron', monospace;
+            font-size: 0.85rem;
+            display: inline-flex;
+            gap: 0.4rem;
+            align-items: center;
+            cursor: default;
+        }
+        .dmc-count-pill.clickable {
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        .dmc-count-pill.clickable:hover {
+            background: rgba(70, 130, 180, 0.3);
+            border-color: rgba(70, 130, 180, 0.6);
+        }
+        .dmc-comments-panel {
+            border-top: 1px solid rgba(70, 130, 180, 0.3);
+            padding-top: 15px;
+            margin-top: 10px;
+        }
+        .dmc-comment {
+            display: flex;
+            gap: 10px;
+            padding: 8px 0;
+            align-items: flex-start;
+        }
+        .dmc-comment-avatar {
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            background: #1a1a1a center/cover no-repeat;
+            border: 1px solid rgba(70, 130, 180, 0.4);
+            flex-shrink: 0;
+        }
+        .dmc-comment-body {
+            flex: 1;
+            min-width: 0;
+        }
+        .dmc-comment-user {
+            color: #4682b4;
+            font-family: 'Orbitron', monospace;
+            font-weight: bold;
+            font-size: 0.85rem;
+        }
+        .dmc-comment-text {
+            color: #ccc;
+            font-family: 'Orbitron', monospace;
+            font-size: 0.9rem;
+            margin-top: 2px;
+            word-wrap: break-word;
+        }
+        .dmc-comments-note {
+            text-align: center;
+            color: rgba(255,255,255,0.4);
+            font-size: 0.8rem;
+            font-family: 'Orbitron', monospace;
+            padding: 10px 0;
+            font-style: italic;
+        }
+
+        /* Screenshots grid + lightbox */
+        .screenshots-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+        .screenshot-card {
+            background: #111;
+            border: 1px solid rgba(70, 130, 180, 0.3);
+            border-radius: 8px;
+            overflow: hidden;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            aspect-ratio: 16/9;
+        }
+        .screenshot-card:hover {
+            border-color: #4682b4;
+            box-shadow: 0 8px 25px rgba(70, 130, 180, 0.4);
+        }
+        .screenshot-card img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
+        }
+        .screenshot-card-meta {
+            background: rgba(0,0,0,0.6);
+            color: #e0e0e0;
+            padding: 6px 10px;
+            font-family: 'Orbitron', monospace;
+            font-size: 0.8rem;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .lightbox-overlay {
+            position: fixed;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            background: rgba(0, 0, 0, 0.9);
+            backdrop-filter: blur(10px);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 30000;
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            padding: 40px;
+            box-sizing: border-box;
+        }
+        .lightbox-overlay.active {
+            opacity: 1;
+            visibility: visible;
+        }
+        .lightbox-container {
+            position: relative;
+            border-radius: 8px;
+            transform: scale(0.8);
+            transition: transform 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            border: 3px solid #DC143C;
+            animation: glowingBorder 2s ease-in-out infinite alternate;
+            background: #111;
+        }
+        .lightbox-overlay.active .lightbox-container { transform: scale(1); }
+        @keyframes glowingBorder {
+            0%   { box-shadow: 0 0 20px rgba(220, 20, 60, 0.5), 0 0 40px rgba(220, 20, 60, 0.3); }
+            100% { box-shadow: 0 0 30px rgba(220, 20, 60, 0.8), 0 0 60px rgba(220, 20, 60, 0.5); }
+        }
+        .lightbox-image {
+            max-width: calc(100vw - 120px);
+            max-height: calc(100vh - 120px);
+            display: block;
+            border-radius: 12px;
+        }
+        .lightbox-nav {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 50px;
+            height: 50px;
+            background: linear-gradient(145deg, rgba(15, 15, 15, 0.9), rgba(30, 30, 30, 0.9));
+            border: 2px solid rgba(220, 20, 60, 0.4);
+            border-radius: 50%;
+            color: #DC143C;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+        }
+        .lightbox-nav:hover {
+            border-color: rgba(220, 20, 60, 0.8);
+            color: #fff;
+            background: linear-gradient(145deg, rgba(220, 20, 60, 0.2), rgba(30, 30, 30, 0.9));
+            transform: translateY(-50%) scale(1.1);
+        }
+        .lightbox-nav.prev { left: 15px; }
+        .lightbox-nav.next { right: 15px; }
+        .lightbox-counter {
+            position: absolute;
+            bottom: 15px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-family: 'Orbitron', monospace;
+            color: #DC143C;
+            font-size: 1rem;
+            background: rgba(15, 15, 15, 0.8);
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            border: 2px solid rgba(220, 20, 60, 0.4);
+        }
+
+        /* Clips list */
+        .clips-section { max-width: 900px; margin: 0 auto; }
+        .clip-card {
+            width: 100%;
+            padding: 0.9rem;
+            margin-bottom: 0.5rem;
+            background: rgba(74, 158, 255, 0.15);
+            border: 1px solid rgba(74, 158, 255, 0.3);
+            border-radius: 8px;
+            color: #fff;
+            font-family: 'Orbitron', monospace;
+            font-size: 0.9rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 1rem;
+        }
+        .clip-card:hover {
+            background: rgba(74, 158, 255, 0.25);
+            border-color: #4a9eff;
+        }
+        .clip-card.playing {
+            background: rgba(74, 158, 255, 0.4);
+            border: 2px solid #4a9eff;
+            box-shadow: 0 0 20px rgba(74, 158, 255, 0.5);
+        }
+        .clip-card-title {
+            flex: 1;
+            text-align: left;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
         }
 
         /* Story Section */
@@ -3949,9 +4354,61 @@
             .reviews-placeholder {
                 padding: 2rem;
             }
-            
+
             .tab-content-container {
                 min-height: 250px;
+            }
+
+            /* Mobile tuning for the ported tabs */
+            .screenshots-grid {
+                grid-template-columns: 1fr;
+            }
+            .dmc-review-card {
+                padding: 15px;
+            }
+            .dmc-review-avatar,
+            .dmc-review-cover {
+                width: 70px;
+                height: 70px;
+            }
+            .dmc-review-username {
+                font-size: 0.95rem;
+            }
+            .dmc-review-title {
+                font-size: 1rem;
+            }
+            .dmc-review-comment {
+                font-size: 0.9rem;
+            }
+            .dmc-review-actions {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            .dmc-count-pill {
+                justify-content: center;
+                font-size: 0.8rem;
+                padding: 5px 10px;
+            }
+            .clip-card {
+                padding: 0.75rem;
+                font-size: 0.85rem;
+            }
+            .lightbox-overlay {
+                padding: 20px;
+            }
+            .lightbox-nav {
+                width: 40px;
+                height: 40px;
+            }
+            .lightbox-nav.prev { left: 8px; }
+            .lightbox-nav.next { right: 8px; }
+            .lightbox-image {
+                max-width: calc(100vw - 60px);
+                max-height: calc(100vh - 80px);
+            }
+            .lightbox-counter {
+                font-size: 0.85rem;
+                padding: 0.35rem 0.7rem;
             }
         }
 
@@ -4103,7 +4560,7 @@
             }
         }
 
-        /* Fullscreen Loading Overlay */
+        /* Fullscreen Loading Overlay — ported from the app (blue spinner, 1.2s fade) */
         .fullscreen-loading-overlay {
             position: fixed;
             top: 0;
@@ -4115,15 +4572,15 @@
             margin: 0;
             padding: 0;
             border: none;
-            background: rgba(0, 0, 0, 0.95);
+            background: #000000;
             display: flex;
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            z-index: 20000;
+            z-index: 200000;
             opacity: 0;
             pointer-events: none;
-            transition: opacity 0.3s ease-in-out;
+            transition: opacity 1.2s ease-in-out;
             box-sizing: border-box;
         }
 
@@ -4135,28 +4592,35 @@
         .loading-circle {
             width: 60px;
             height: 60px;
-            border: 4px solid rgba(255, 107, 53, 0.3);
-            border-top: 4px solid #ff6b35;
+            border: 4px solid rgba(70, 130, 180, 0.3);
+            border-top: 4px solid #4682b4;
             border-radius: 50%;
             animation: spin 1s linear infinite;
             margin-bottom: 1rem;
             flex-shrink: 0;
+            box-shadow: 0 0 10px rgba(70, 130, 180, 0.8), 0 0 20px rgba(70, 130, 180, 0.6), 0 0 30px rgba(70, 130, 180, 0.4);
         }
 
         .loading-text {
             font-family: 'Orbitron', monospace;
             font-size: 1.2rem;
-            color: #ff6b35;
+            color: #dc3545;
             text-align: center;
             letter-spacing: 2px;
             text-transform: uppercase;
             white-space: nowrap;
             flex-shrink: 0;
+            text-shadow: 0 0 10px rgba(220, 53, 69, 0.8), 0 0 20px rgba(220, 53, 69, 0.6), 0 0 30px rgba(220, 53, 69, 0.4);
         }
 
         @keyframes spin {
             0% { transform: rotate(0deg); }
             100% { transform: rotate(360deg); }
+        }
+
+        @keyframes fadeInText {
+            0% { opacity: 0; transform: translateY(10px); }
+            100% { opacity: 1; transform: translateY(0); }
         }
 
         /* Audio Visualizer */
@@ -4468,9 +4932,9 @@
             <div class="search-container">
                 <div class="search-input-wrapper">
                     <div class="filter-chips" id="filterChips"></div>
-                    <input type="text" class="search-box" placeholder="Search..." id="gameSearch"
+                    <input type="text" class="search-box" placeholder="Search" id="gameSearch"
                         oninput="handleSearchInput()"
-                        data-placeholder-en="Search..." data-placeholder-ar="بحث...">
+                        data-placeholder-en="Search" data-placeholder-ar="بحث">
                     <button class="recent-toggle-btn" id="recentToggleBtn" onclick="toggleRecentlyAdded()">🔥</button>
                 </div>
             </div>
@@ -4563,22 +5027,22 @@
                     <!-- Program UI Content (Default) -->
                     <div class="screenshots-grid" id="programContent">
                         <div class="screenshot-card" onclick="openLightboxMobile(0)">
-                            <img class="screenshot-image" src="https://imgur.com/L3FTCSl.jpg"
+                            <img class="screenshot-image" src="https://i.imgur.com/L3FTCSl.jpg"
                                 alt="Program Screenshot 1">
                         </div>
 
                         <div class="screenshot-card" onclick="openLightboxMobile(1)">
-                            <img class="screenshot-image" src="https://imgur.com/bhnwcv7.jpg"
+                            <img class="screenshot-image" src="https://i.imgur.com/bhnwcv7.jpg"
                                 alt="Program Screenshot 2">
                         </div>
 
                         <div class="screenshot-card" onclick="openLightboxMobile(2)">
-                            <img class="screenshot-image" src="https://imgur.com/Cr9rtqC.jpg"
+                            <img class="screenshot-image" src="https://i.imgur.com/Cr9rtqC.jpg"
                                 alt="Program Screenshot 3">
                         </div>
 
                         <div class="screenshot-card" onclick="openLightboxMobile(3)">
-                            <img class="screenshot-image" src="https://imgur.com/ZJpfAaR.jpg"
+                            <img class="screenshot-image" src="https://i.imgur.com/ZJpfAaR.jpg"
                                 alt="Program Screenshot 4">
                         </div>
                     </div>
@@ -4587,13 +5051,13 @@
                     <div class="image-comparison-container" id="enhancementsContent" style="display: none;">
                         <div class="image-comparison-slider" id="comparisonSlider">
                             <div class="comparison-image original-image">
-                                <img id="originalImg" src="https://imgur.com/zt35DB9.jpg" alt="Original"
+                                <img id="originalImg" src="https://i.imgur.com/zt35DB9.jpg" alt="Original"
                                     draggable="false">
                                 <div class="image-label original-label" data-en="ORIGINAL" data-ar="الأصلية">ORIGINAL
                                 </div>
                             </div>
                             <div class="comparison-image enhanced-image">
-                                <img id="enhancedImg" src="https://imgur.com/XSOBrWv.jpg" alt="Enhanced"
+                                <img id="enhancedImg" src="https://i.imgur.com/XSOBrWv.jpg" alt="Enhanced"
                                     draggable="false">
                                 <div class="image-label enhanced-label" data-en="ENHANCED" data-ar="المحسنة">ENHANCED
                                 </div>
@@ -4893,9 +5357,27 @@
                         data-ar="">Join our community for support & updates</div>
                 </div>
 
-                <!-- Twitch Card -->
-                <div class="social-card twitch-card" onclick="window.open('https://www.twitch.tv/d1vergil', '_blank')"
+                <!-- Gahweni Memberships Card -->
+                <div class="social-card gahweni-card" onclick="window.open('https://gahweni.com/Dark1Vergil/memberships', '_blank')"
                     style="background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5)); border: 2px solid rgba(70, 130, 180, 0.4); border-radius: 15px; padding: 2rem; text-align: center; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;">
+                    <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem;"><img
+                            src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a01229bf8a18f97a3c1_favion.png" alt="Gahweni" style="width: 64px; height: 64px;">
+                    </div>
+                    <div class="social-title"
+                        style="font-family: 'Orbitron', monospace; font-size: 1.4rem; font-weight: 600; color: #e0e0e0; margin-bottom: 0.5rem;"
+                        data-en="Gahweni" data-ar="قهوني">Gahweni</div>
+                    <div class="social-description" style="font-size: 0.9rem; color: #ccc; line-height: 1.5;" data-en="" data-ar=""></div>
+                </div>
+
+                <!--
+                    The following social cards (Twitch, YouTube, TikTok, Backloggd) are hidden
+                    for now via display:none. Leaving the markup in place so it can be
+                    re-enabled later just by removing the inline style.
+                -->
+
+                <!-- Twitch Card (hidden) -->
+                <div class="social-card twitch-card" onclick="window.open('https://www.twitch.tv/d1vergil', '_blank')"
+                    style="display: none; background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5)); border: 2px solid rgba(70, 130, 180, 0.4); border-radius: 15px; padding: 2rem; text-align: center; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;">
                     <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #9146FF;"><img
                             src="https://i.imgur.com/5dm4oC9.png" alt="Twitch" style="width: 64px; height: 64px;"></div>
                     <div class="social-title"
@@ -4905,10 +5387,10 @@
                         data-ar="">Watch live gaming sessions</div>
                 </div>
 
-                <!-- YouTube Card -->
+                <!-- YouTube Card (hidden) -->
                 <div class="social-card youtube-card"
                     onclick="window.open('https://www.youtube.com/@D1Vergil', '_blank')"
-                    style="background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5)); border: 2px solid rgba(70, 130, 180, 0.4); border-radius: 15px; padding: 2rem; text-align: center; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;">
+                    style="display: none; background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5)); border: 2px solid rgba(70, 130, 180, 0.4); border-radius: 15px; padding: 2rem; text-align: center; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;">
                     <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #FF0000;"><img
                             src="https://i.imgur.com/DrRBYoZ.png" alt="YouTube" style="width: 64px; height: 64px;">
                     </div>
@@ -4919,10 +5401,10 @@
                         data-ar="">Tutorials and gameplay videos</div>
                 </div>
 
-                <!-- TikTok Card -->
+                <!-- TikTok Card (hidden) -->
                 <div class="social-card tiktok-card"
                     onclick="window.open('https://www.tiktok.com/@dark1vergil', '_blank')"
-                    style="background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5)); border: 2px solid rgba(70, 130, 180, 0.4); border-radius: 15px; padding: 2rem; text-align: center; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;">
+                    style="display: none; background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5)); border: 2px solid rgba(70, 130, 180, 0.4); border-radius: 15px; padding: 2rem; text-align: center; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;">
                     <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #FE2C55;"><img
                             src="https://i.imgur.com/mQzVD2T.png" alt="TikTok" style="width: 64px; height: 64px;"></div>
                     <div class="social-title"
@@ -4932,10 +5414,10 @@
                         data-ar="">Quick gaming clips and highlights</div>
                 </div>
 
-                <!-- Backloggd Card -->
+                <!-- Backloggd Card (hidden) -->
                 <div class="social-card backloggd-card"
                     onclick="window.open('https://backloggd.com/u/Dark1Vergil/', '_blank')"
-                    style="background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5)); border: 2px solid rgba(70, 130, 180, 0.4); border-radius: 15px; padding: 2rem; text-align: center; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;">
+                    style="display: none; background: linear-gradient(145deg, rgba(10, 10, 10, 0.5), rgba(25, 25, 25, 0.5)); border: 2px solid rgba(70, 130, 180, 0.4); border-radius: 15px; padding: 2rem; text-align: center; transition: all 0.3s ease; cursor: pointer; position: relative; overflow: hidden;">
                     <div class="social-icon" style="font-size: 4rem; margin-bottom: 1rem; color: #FF6B35;"><img
                             src="https://i.imgur.com/uki9mhL.png" alt="Backloggd" style="width: 64px; height: 64px;">
                     </div>
@@ -4953,19 +5435,8 @@
     <!-- Lightbox Modal -->
     <div class="lightbox-overlay" id="lightboxOverlay" onclick="closeLightbox(event)">
         <div class="lightbox-container">
-            <button class="lightbox-nav prev" id="lightboxPrev" onclick="navigateLightbox(-1)">
-                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M15 18L9 12L15 6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round" />
-                </svg>
-            </button>
-            <button class="lightbox-nav next" id="lightboxNext" onclick="navigateLightbox(1)">
-                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M9 18L15 12L9 6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round" />
-                </svg>
-            </button>
-            <img class="lightbox-image" id="lightboxImage" src="" alt="Program Screenshot">
+            <img class="lightbox-image" id="lightboxImage" src="" alt="Program Screenshot"
+                onclick="lightboxImageClick(event, 'static')">
             <div class="lightbox-counter" id="lightboxCounter" data-format-en="{current} of {total}"
                 data-format-ar="{current} من {total}">1 of 4</div>
         </div>
@@ -4974,7 +5445,7 @@
     <!-- Fullscreen Loading Overlay -->
     <div id="fullscreenLoading" class="fullscreen-loading-overlay">
         <div class="loading-circle"></div>
-        <div class="loading-text">Loading Game...</div>
+        <div class="loading-text" style="opacity: 0; animation: fadeInText 1s ease-in-out 1.5s forwards;">Loading Game</div>
     </div>
 
     <!-- Game Page Overlay -->
@@ -4984,14 +5455,22 @@
             <div class="game-info-container">
                 <!-- Tab Navigation -->
                 <div class="game-tabs">
-                    <div class="game-tab" data-tab="info">
-                        <img src="https://i.imgur.com/dCuwFrV.png" alt="Info" class="tab-icon">
-                    </div>
-                    <div class="game-tab active" data-tab="story">
+                    <div class="game-tab active" data-tab="story" id="storyTabBtn">
                         <img src="https://i.imgur.com/5zmU3sr.png" alt="Story" class="tab-icon">
                     </div>
                     <div class="game-tab" data-tab="reviews">
                         <img src="https://i.imgur.com/I9NCEHx.png" alt="Reviews" class="tab-icon">
+                    </div>
+                    <div class="game-tab" data-tab="screenshots">
+                        <img src="https://i.imgur.com/TBE0Ze4.png" alt="Screenshots" class="tab-icon"
+                             onerror="this.src='data:image/svg+xml;utf8,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22 fill=%22%234682b4%22%3E%3Cpath d=%22M20 5h-3.17L15 3H9L7.17 5H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm-8 13a5 5 0 1 1 0-10 5 5 0 0 1 0 10z%22/%3E%3C/svg%3E'">
+                    </div>
+                    <div class="game-tab" data-tab="clips">
+                        <img src="https://i.imgur.com/CPNQXOR.png" alt="Clips" class="tab-icon"
+                             onerror="this.src='data:image/svg+xml;utf8,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22 fill=%22%234682b4%22%3E%3Cpath d=%22M17 10.5V7a1 1 0 0 0-1-1H4a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-3.5l4 4v-11l-4 4z%22/%3E%3C/svg%3E'">
+                    </div>
+                    <div class="game-tab" data-tab="info">
+                        <img src="https://i.imgur.com/dCuwFrV.png" alt="Info" class="tab-icon">
                     </div>
                 </div>
                 
@@ -5039,10 +5518,38 @@
                     <!-- Reviews Tab -->
                     <div class="tab-content" id="reviewsTab">
                         <div class="reviews-section">
-                            <div class="reviews-placeholder">
-                                <p>Reviews and comments will be available here soon!</p>
-                                <div class="coming-soon">🔜 Coming Soon</div>
+                            <div id="reviews-container">
+                                <div class="tab-spinner">
+                                    <div class="tab-spinner-circle"></div>
+                                    <p>Loading reviews...</p>
+                                </div>
                             </div>
+                        </div>
+                    </div>
+
+                    <!-- Screenshots Tab -->
+                    <div class="tab-content" id="screenshotsTab">
+                        <div class="screenshots-section">
+                            <div id="screenshots-container">
+                                <div class="tab-spinner">
+                                    <div class="tab-spinner-circle"></div>
+                                    <p>Loading screenshots...</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Clips Tab -->
+                    <div class="tab-content" id="clipsTab">
+                        <div class="clips-section">
+                            <div id="clips-container">
+                                <div class="tab-spinner">
+                                    <div class="tab-spinner-circle"></div>
+                                    <p>Loading clips...</p>
+                                </div>
+                            </div>
+                            <audio id="clipPlayer" preload="metadata" controls style="display:none; width: 100%; margin-top: 1rem;"></audio>
+                            <video id="clipVideoPlayer" preload="metadata" controls style="display:none; width: 100%; max-height: 480px; margin-top: 1rem; background: #000;"></video>
                         </div>
                     </div>
                 </div>
@@ -5055,6 +5562,21 @@
     </audio>
 
     <script>
+        // ---- Supabase client (read-only, anon key — same setup as the app) ----
+        // Don't declare a local `supabase` identifier — the Supabase UMD bundle
+        // already publishes `supabase` as a top-level global, so redeclaring
+        // it would throw "Identifier 'supabase' has already been declared".
+        // Cache our instantiated client on window instead.
+        const SUPABASE_URL = 'https://wsxyfocgbdvtpvxxxapr.supabase.co';
+        const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndzeHlmb2NnYmR2dHB2eHh4YXByIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTQ1MTAzMDIsImV4cCI6MjA3MDA4NjMwMn0.6bas-rWbZsBMbwTd1goUMXQSYnuAkWXaKA-2ogrDQLQ';
+        function initializeSupabase() {
+            if (window._supabaseClient) return window._supabaseClient;
+            if (window.supabase && window.supabase.createClient) {
+                window._supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+            }
+            return window._supabaseClient || null;
+        }
+
         // Toast notification system
         function showToast(message, type = 'info') {
             const toastContainer = document.getElementById('toastContainer');
@@ -5236,11 +5758,16 @@
                         switchStoryLanguage();
                         return;
                     }
-                    
+
                     // Set flag to prevent language switching during tab transition
                     isTabSwitching = true;
                     switchTab(targetTab);
-                    
+
+                    // Lazy-load tab content the first time it's opened for this game.
+                    if (window._currentGameName) {
+                        loadTabData(targetTab, window._currentGameName);
+                    }
+
                     // Reset flag after tab transition completes
                     setTimeout(() => {
                         isTabSwitching = false;
@@ -5313,6 +5840,386 @@
                 targetContent.classList.add('active');
                 targetContent.style.opacity = '1';
                 targetContent.style.transform = 'translateY(0)';
+            }
+        }
+
+        // ---- Per-tab Supabase loaders (read-only) --------------------------
+        // Track what's already loaded per game so we don't re-fetch on every
+        // tab click. Reset whenever a new game opens.
+        window._loadedTabs = { reviews: false, screenshots: false, clips: false };
+
+        function resetTabLoaders() {
+            window._loadedTabs = { reviews: false, screenshots: false, clips: false };
+            const showSpinner = (id) => {
+                const el = document.getElementById(id);
+                if (el) el.innerHTML = '<div class="tab-spinner"><div class="tab-spinner-circle"></div><p>Loading...</p></div>';
+            };
+            showSpinner('reviews-container');
+            showSpinner('screenshots-container');
+            showSpinner('clips-container');
+        }
+
+        function loadTabData(tabName, gameName) {
+            if (tabName === 'reviews' && !window._loadedTabs.reviews) {
+                window._loadedTabs.reviews = true;
+                loadGameReviews(gameName);
+            } else if (tabName === 'screenshots' && !window._loadedTabs.screenshots) {
+                window._loadedTabs.screenshots = true;
+                loadGameScreenshots(gameName);
+            } else if (tabName === 'clips' && !window._loadedTabs.clips) {
+                window._loadedTabs.clips = true;
+                loadGameClips(gameName);
+            }
+        }
+
+        function setTabLoading(tabName, on) {
+            const btn = document.querySelector(`.game-tab[data-tab="${tabName}"]`);
+            if (btn) btn.classList.toggle('loading', !!on);
+        }
+
+        function escapeHtml(s) {
+            return String(s || '').replace(/[&<>"']/g, m => ({
+                '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+            }[m]));
+        }
+
+        async function fetchUserProfiles(userIds) {
+            if (!userIds || userIds.length === 0) return {};
+            const client = initializeSupabase();
+            if (!client) return {};
+            const { data } = await client
+                .from('user_profiles')
+                .select('id, username, avatar_url')
+                .in('id', userIds);
+            const map = {};
+            (data || []).forEach(p => { map[p.id] = p; });
+            return map;
+        }
+
+        // ---- Reviews -------------------------------------------------------
+        async function loadGameReviews(gameName) {
+            const container = document.getElementById('reviews-container');
+            if (!container) return;
+            setTabLoading('reviews', true);
+
+            const client = initializeSupabase();
+            if (!client) {
+                container.innerHTML = '<div class="tab-empty"><div class="tab-empty-icon">⚠️</div><p>Connection error.</p></div>';
+                setTabLoading('reviews', false);
+                return;
+            }
+
+            try {
+                const { data: reviews, error } = await client
+                    .from('reviews')
+                    .select('*')
+                    .eq('game_id', gameName)
+                    .order('created_at', { ascending: false });
+
+                if (error) throw error;
+                if (!reviews || reviews.length === 0) {
+                    container.innerHTML = '<div class="tab-empty"><div class="tab-empty-icon">💬</div><p>No reviews yet.</p></div>';
+                    return;
+                }
+
+                const userIds = [...new Set(reviews.map(r => r.user_id).filter(Boolean))];
+                const profiles = await fetchUserProfiles(userIds);
+
+                container.innerHTML = reviews.map(r => renderReviewCard(r, profiles)).join('');
+            } catch (err) {
+                console.error('[reviews] load failed:', err);
+                container.innerHTML = '<div class="tab-empty"><div class="tab-empty-icon">⚠️</div><p>Could not load reviews.</p></div>';
+            } finally {
+                setTabLoading('reviews', false);
+            }
+        }
+
+        function renderReviewCard(review, profiles) {
+            const profile = profiles[review.user_id] || {};
+            const username = profile.username || 'Unknown';
+            const avatar = profile.avatar_url || 'https://i.imgur.com/WsqyclU.jpeg';
+            const rating = Math.max(0, Math.min(5, review.rating || 0));
+            const stars = Array(rating).fill(0).map((_, i) =>
+                `<div class="star-container" style="animation-delay:${i * 0.2}s"><span class="star">★</span></div>`
+            ).join('');
+            const titleHtml = review.title ? `<div class="dmc-review-title">▰▰ ${escapeHtml(review.title)} ▰▰</div>` : '';
+            const commentHtml = review.comment ? `<div class="dmc-review-comment">${escapeHtml(review.comment)}</div>` : '';
+            const likes = review.likes_count || 0;
+            const dislikes = review.dislikes_count || 0;
+            const comments = review.comments_count || 0;
+
+            return `
+                <div class="dmc-review-card" data-review-id="${escapeHtml(review.id)}">
+                    <div class="dmc-review-top">
+                        <div class="dmc-review-user">
+                            <div class="dmc-review-avatar" style="background-image:url('${escapeHtml(avatar)}')"></div>
+                            <div class="dmc-review-username">${escapeHtml(username)}</div>
+                        </div>
+                    </div>
+                    ${titleHtml}
+                    <div class="dmc-review-separator"></div>
+                    ${commentHtml}
+                    <div class="dmc-review-stars">${stars}</div>
+                    <div class="dmc-review-actions">
+                        <div style="display:flex; gap:0.5rem;">
+                            <span class="dmc-count-pill">👍 <span>${likes}</span></span>
+                            <span class="dmc-count-pill">👎 <span>${dislikes}</span></span>
+                        </div>
+                        <span class="dmc-count-pill clickable" onclick="toggleReviewComments('${escapeHtml(review.id)}', this)">💬 <span>${comments}</span> Comments</span>
+                    </div>
+                    <div class="dmc-comments-panel" id="comments-panel-${escapeHtml(review.id)}" style="display:none;"></div>
+                </div>
+            `;
+        }
+
+        async function toggleReviewComments(reviewId, pill) {
+            const panel = document.getElementById(`comments-panel-${reviewId}`);
+            if (!panel) return;
+
+            const opening = panel.style.display === 'none';
+            panel.style.display = opening ? 'block' : 'none';
+            if (!opening) return;
+
+            // Load only on first expand
+            if (panel.dataset.loaded === '1') return;
+            panel.dataset.loaded = '1';
+            panel.innerHTML = '<div class="tab-spinner"><div class="tab-spinner-circle"></div><p>Loading comments...</p></div>';
+
+            const client = initializeSupabase();
+            if (!client) { panel.innerHTML = '<div class="dmc-comments-note">Connection error.</div>'; return; }
+
+            try {
+                const { data: comments, error } = await client
+                    .from('review_comments')
+                    .select('*')
+                    .eq('review_id', reviewId)
+                    .order('created_at', { ascending: true });
+
+                if (error) throw error;
+
+                if (!comments || comments.length === 0) {
+                    panel.innerHTML = '<div class="dmc-comments-note">No comments yet.</div>';
+                    return;
+                }
+
+                const userIds = [...new Set(comments.map(c => c.user_id).filter(Boolean))];
+                const profiles = await fetchUserProfiles(userIds);
+
+                const html = comments.map(c => {
+                    const p = profiles[c.user_id] || {};
+                    const name = p.username || 'Unknown';
+                    const av   = p.avatar_url || 'https://i.imgur.com/WsqyclU.jpeg';
+                    return `
+                        <div class="dmc-comment">
+                            <div class="dmc-comment-avatar" style="background-image:url('${escapeHtml(av)}')"></div>
+                            <div class="dmc-comment-body">
+                                <div class="dmc-comment-user">${escapeHtml(name)}</div>
+                                <div class="dmc-comment-text">${escapeHtml(c.comment || c.text || '')}</div>
+                            </div>
+                        </div>
+                    `;
+                }).join('') + '<div class="dmc-comments-note">Commenting coming soon.</div>';
+
+                panel.innerHTML = html;
+            } catch (err) {
+                console.error('[comments] load failed:', err);
+                panel.innerHTML = '<div class="dmc-comments-note">Could not load comments.</div>';
+            }
+        }
+
+        // ---- Screenshots ---------------------------------------------------
+        let _lightboxImages = [];
+        let _lightboxIndex = 0;
+
+        async function loadGameScreenshots(gameName) {
+            const container = document.getElementById('screenshots-container');
+            if (!container) return;
+            setTabLoading('screenshots', true);
+
+            const client = initializeSupabase();
+            if (!client) {
+                container.innerHTML = '<div class="tab-empty"><div class="tab-empty-icon">⚠️</div><p>Connection error.</p></div>';
+                setTabLoading('screenshots', false);
+                return;
+            }
+
+            try {
+                const { data: shots, error } = await client
+                    .from('game_screenshots')
+                    .select('*')
+                    .eq('game_id', gameName)
+                    .order('likes_count', { ascending: false });
+
+                if (error) throw error;
+                if (!shots || shots.length === 0) {
+                    container.innerHTML = '<div class="tab-empty"><div class="tab-empty-icon">📷</div><p>No screenshots yet.</p></div>';
+                    return;
+                }
+
+                _lightboxImages = shots.map(s => s.image_url || s.url).filter(Boolean);
+                container.innerHTML = '<div class="screenshots-grid">' + shots.map((s, i) => {
+                    const url = s.image_url || s.url || '';
+                    const likes = s.likes_count || 0;
+                    return `
+                        <div class="screenshot-card" onclick="openLightbox(${i})">
+                            <img src="${escapeHtml(url)}" alt="Screenshot" loading="lazy">
+                            <div class="screenshot-card-meta">
+                                <span>👍 ${likes}</span>
+                                <span>🔎</span>
+                            </div>
+                        </div>
+                    `;
+                }).join('') + '</div>';
+            } catch (err) {
+                console.error('[screenshots] load failed:', err);
+                container.innerHTML = '<div class="tab-empty"><div class="tab-empty-icon">⚠️</div><p>Could not load screenshots.</p></div>';
+            } finally {
+                setTabLoading('screenshots', false);
+            }
+        }
+
+        function openLightbox(index) {
+            _lightboxIndex = index;
+            let lb = document.getElementById('siteLightbox');
+            if (!lb) {
+                lb = document.createElement('div');
+                lb.id = 'siteLightbox';
+                lb.className = 'lightbox-overlay';
+                lb.onclick = (e) => { if (e.target === lb) siteCloseLightbox(); };
+                lb.innerHTML = `
+                    <div class="lightbox-container">
+                        <img class="lightbox-image" id="siteLightboxImg" src=""
+                            onclick="lightboxImageClick(event, 'site')">
+                        <div class="lightbox-counter" id="siteLightboxCounter"></div>
+                    </div>`;
+                document.body.appendChild(lb);
+            }
+            updateLightbox();
+            requestAnimationFrame(() => lb.classList.add('active'));
+        }
+
+        function updateLightbox() {
+            const img = document.getElementById('siteLightboxImg');
+            const counter = document.getElementById('siteLightboxCounter');
+            if (img) img.src = _lightboxImages[_lightboxIndex] || '';
+            if (counter) counter.textContent = `${_lightboxIndex + 1} of ${_lightboxImages.length}`;
+        }
+
+        // Renamed to avoid collision with the static lightbox's
+        // navigateLightbox/closeLightbox (which are defined later in the file
+        // and would otherwise overwrite these via function-declaration hoisting).
+        function siteNavigateLightbox(dir) {
+            if (_lightboxImages.length === 0) return;
+            _lightboxIndex = (_lightboxIndex + dir + _lightboxImages.length) % _lightboxImages.length;
+            updateLightbox();
+        }
+
+        function siteCloseLightbox() {
+            const lb = document.getElementById('siteLightbox');
+            if (lb) lb.classList.remove('active');
+        }
+
+        document.addEventListener('keydown', (e) => {
+            const lb = document.getElementById('siteLightbox');
+            if (!lb || !lb.classList.contains('active')) return;
+            if (e.key === 'ArrowLeft')  siteNavigateLightbox(-1);
+            if (e.key === 'ArrowRight') siteNavigateLightbox(1);
+            if (e.key === 'Escape')     siteCloseLightbox();
+        });
+
+        // Click-side navigation. Dispatches to the right lightbox based on
+        // the `which` argument. Click on the right half of the image → next,
+        // left half → previous. In Arabic (RTL), the direction is mirrored
+        // so clicking the visual "forward" side still advances to the next.
+        function lightboxImageClick(event, which) {
+            event.stopPropagation();           // don't bubble to overlay → close
+            const rect = event.currentTarget.getBoundingClientRect();
+            const relativeX = event.clientX - rect.left;
+            const isRight = relativeX >= rect.width / 2;
+            const isArabic = document.body.classList.contains('arabic-mode');
+            // LTR: right → next (+1), left → prev (-1)
+            // RTL: right → prev (-1), left → next (+1)
+            const dir = (isRight === !isArabic) ? 1 : -1;
+            if (which === 'site') {
+                siteNavigateLightbox(dir);
+            } else {
+                navigateLightbox(dir);
+            }
+        }
+
+        // ---- Clips ---------------------------------------------------------
+        async function loadGameClips(gameName) {
+            const container = document.getElementById('clips-container');
+            if (!container) return;
+            setTabLoading('clips', true);
+
+            const client = initializeSupabase();
+            if (!client) {
+                container.innerHTML = '<div class="tab-empty"><div class="tab-empty-icon">⚠️</div><p>Connection error.</p></div>';
+                setTabLoading('clips', false);
+                return;
+            }
+
+            try {
+                const { data: clips, error } = await client
+                    .from('game_clips')
+                    .select('*')
+                    .eq('game_id', gameName)
+                    .order('likes_count', { ascending: false });
+
+                if (error) throw error;
+                if (!clips || clips.length === 0) {
+                    container.innerHTML = '<div class="tab-empty"><div class="tab-empty-icon">🎬</div><p>No clips yet.</p></div>';
+                    return;
+                }
+
+                window._clipsList = clips;
+                container.innerHTML = clips.map((c, i) => {
+                    const title = c.title || c.name || `Clip ${i + 1}`;
+                    const likes = c.likes_count || 0;
+                    return `
+                        <div class="clip-card" data-clip-index="${i}" onclick="playClip(${i})">
+                            <div class="clip-card-title">▶ ${escapeHtml(title)}</div>
+                            <span class="dmc-count-pill">👍 ${likes}</span>
+                        </div>
+                    `;
+                }).join('');
+            } catch (err) {
+                console.error('[clips] load failed:', err);
+                container.innerHTML = '<div class="tab-empty"><div class="tab-empty-icon">⚠️</div><p>Could not load clips.</p></div>';
+            } finally {
+                setTabLoading('clips', false);
+            }
+        }
+
+        function playClip(index) {
+            const clip = (window._clipsList || [])[index];
+            if (!clip) return;
+            const url = clip.clip_url || clip.video_url || clip.url || '';
+            if (!url) return;
+
+            const audioPlayer = document.getElementById('clipPlayer');
+            const videoPlayer = document.getElementById('clipVideoPlayer');
+            const isVideo = /\.(mp4|webm|ogv|mov|m4v)(\?|$)/i.test(url);
+
+            document.querySelectorAll('.clip-card').forEach(c => c.classList.remove('playing'));
+            const card = document.querySelector(`.clip-card[data-clip-index="${index}"]`);
+            if (card) card.classList.add('playing');
+
+            if (isVideo) {
+                if (audioPlayer) { audioPlayer.pause(); audioPlayer.style.display = 'none'; }
+                if (videoPlayer) {
+                    videoPlayer.src = url;
+                    videoPlayer.style.display = 'block';
+                    videoPlayer.play().catch(() => {});
+                }
+            } else {
+                if (videoPlayer) { videoPlayer.pause(); videoPlayer.style.display = 'none'; }
+                if (audioPlayer) {
+                    audioPlayer.src = url;
+                    audioPlayer.style.display = 'block';
+                    audioPlayer.play().catch(() => {});
+                }
             }
         }
 
@@ -5543,21 +6450,28 @@
         function toggleLanguage() {
             const overlay = document.getElementById('languageOverlay');
             const activeSection = document.querySelector('.content-section.active');
+            const nav = document.querySelector('.nav');
 
             // Set black background for transition
             overlay.style.backgroundImage = "none";
             overlay.style.background = "#000000";
 
-            // First fade out the active content section
+            // First fade out the active content section + the nav (1s to
+            // match the initial page fade-in duration).
             if (activeSection) {
-                activeSection.style.transition = 'opacity 0.3s ease-out';
+                activeSection.style.transition = 'opacity 1s ease-out';
                 activeSection.style.opacity = '0';
             }
+            if (nav) {
+                nav.style.transition = 'opacity 1s ease-out';
+                nav.style.opacity = '0';
+            }
 
-            // Show overlay after content starts fading
+            // Show overlay partway through the fade-out.
             setTimeout(() => {
                 overlay.classList.add('active');
 
+                // Switch language once the fade-out is essentially complete.
                 setTimeout(() => {
                     if (currentLanguage === 'en') {
                         currentLanguage = 'ar';
@@ -5603,16 +6517,20 @@
                         }, 100);
                     }
 
-                    // Remove overlay and fade content back in
+                    // Remove overlay and fade content + nav back in (1s fade-in).
                     setTimeout(() => {
                         overlay.classList.remove('active');
                         if (activeSection) {
-                            activeSection.style.transition = 'opacity 0.3s ease-in';
+                            activeSection.style.transition = 'opacity 1s ease-in';
                             activeSection.style.opacity = '1';
                         }
-                    }, 200);
-                }, 300);
-            }, 150);
+                        if (nav) {
+                            nav.style.transition = 'opacity 1s ease-in';
+                            nav.style.opacity = '1';
+                        }
+                    }, 300);
+                }, 500);
+            }, 500);
 
             // Save language preference
             localStorage.setItem('preferredLanguage', currentLanguage);
@@ -5731,10 +6649,10 @@
 
         // Program UI screenshots data
         const programScreenshots = [
-            'https://imgur.com/L3FTCSl.jpg',
-            'https://imgur.com/bhnwcv7.jpg',
-            'https://imgur.com/Cr9rtqC.jpg',
-            'https://imgur.com/ZJpfAaR.jpg'
+            'https://i.imgur.com/L3FTCSl.jpg',
+            'https://i.imgur.com/bhnwcv7.jpg',
+            'https://i.imgur.com/Cr9rtqC.jpg',
+            'https://i.imgur.com/ZJpfAaR.jpg'
         ];
 
         // Lightbox functions
@@ -5843,12 +6761,12 @@
         // Example data
         const comparisonExamples = [
             {
-                original: 'https://imgur.com/zt35DB9.jpg',
-                enhanced: 'https://imgur.com/XSOBrWv.jpg'
+                original: 'https://i.imgur.com/zt35DB9.jpg',
+                enhanced: 'https://i.imgur.com/XSOBrWv.jpg'
             },
             {
-                original: 'https://imgur.com/tbgcbCL.jpg',
-                enhanced: 'https://imgur.com/NlGhtKi.jpg'
+                original: 'https://i.imgur.com/tbgcbCL.jpg',
+                enhanced: 'https://i.imgur.com/NlGhtKi.jpg'
             },
             {
                 original: 'https://i.imgur.com/BauyXiu.png',
@@ -5863,6 +6781,31 @@
                 enhanced: 'https://i.imgur.com/5kSNI74.png'
             }
         ];
+
+        // Background-preload the comparison examples that aren't in the DOM
+        // initially. The first pair is already rendered in HTML; the rest
+        // only fetch when the user clicks next/prev. Walking them one at a
+        // time during idle time (after page load) means by the time the user
+        // navigates to Screenshots → Enhancements and clicks next, the images
+        // are already in the browser cache.
+        window.addEventListener('load', () => {
+            setTimeout(() => {
+                const urls = comparisonExamples
+                    .slice(1)
+                    .flatMap(e => [e.original, e.enhanced]);
+                const schedule = (cb) => ('requestIdleCallback' in window)
+                    ? requestIdleCallback(cb, { timeout: 2000 })
+                    : setTimeout(cb, 200);
+                let i = 0;
+                const next = () => {
+                    if (i >= urls.length) return;
+                    const img = new Image();
+                    img.onload = img.onerror = () => { i++; schedule(next); };
+                    img.src = urls[i];
+                };
+                schedule(next);
+            }, 3000);
+        });
 
         // Change example function
         function changeExample(direction) {
@@ -6133,6 +7076,10 @@
                 if (currentLightboxIndex >= programScreenshots.length) currentLightboxIndex = 0;
 
                 const image = document.getElementById('lightboxImage');
+                // Reset the inline transition — Guide nav sets it to 0.8s and
+                // never unsets it. Without this, the 0.8s transition lingers
+                // and the Program nav's 200ms timing produces a no-fade glitch.
+                image.style.transition = 'opacity 0.3s ease-in-out';
                 image.style.opacity = '0';
 
                 setTimeout(() => {
@@ -6408,22 +7355,84 @@
                 const img = card.querySelector('.game-cover');
 
                 if (!img) { fadeInCard(card); continue; }
+                // Don't double-wire — animateGameCards may run again (e.g.
+                // after a search re-render queries fresh cards, but if the
+                // grid wasn't rebuilt we'd attach listeners twice).
+                if (img.dataset.retryWired === '1') continue;
+                img.dataset.retryWired = '1';
 
-                const fadeIn = () => fadeInCard(card);
-                const fadeInAfterDecode = () => {
-                    if (img.decode) {
-                        img.decode().then(fadeIn).catch(fadeIn);
-                    } else {
-                        requestAnimationFrame(fadeIn);
-                    }
-                };
+                wireInfiniteCoverRetry(img, card);
+            }
+        }
 
-                if (img.complete && img.naturalWidth > 0) {
-                    fadeInAfterDecode();
-                } else {
-                    img.addEventListener('load', fadeInAfterDecode);
-                    img.addEventListener('error', fadeIn);
-                }
+        // Infinite retry for game covers. On slow internet archive.org often
+        // drops the connection mid-transfer → browser fires 'error'. Instead
+        // of giving up and showing a placeholder, we retry forever with
+        // exponential backoff (1s, 2s, 4s, 8s, 16s, capped at 30s). A stall
+        // timer catches requests that hang without firing load or error.
+        // The generation counter prevents stale events from an aborted retry
+        // from cascading into additional retries.
+        function wireInfiniteCoverRetry(img, card) {
+            const STALL_TIMEOUT_MS = 15000;
+            const originalSrc = img.src;
+            let attempt = 0;
+            let generation = 0;
+            let settled = false;
+            let stallTimer = null;
+
+            const clearStall = () => {
+                if (stallTimer) { clearTimeout(stallTimer); stallTimer = null; }
+            };
+
+            const armStall = (gen) => {
+                clearStall();
+                stallTimer = setTimeout(() => {
+                    if (settled || gen !== generation) return;
+                    scheduleRetry(gen);
+                }, STALL_TIMEOUT_MS);
+            };
+
+            const scheduleRetry = (gen) => {
+                if (settled || gen !== generation) return;
+                clearStall();
+                generation++;
+                attempt++;
+                const myGen = generation;
+                // 1s, 2s, 4s, 8s, 16s, then capped at 30s.
+                const delay = Math.min(1000 * Math.pow(2, attempt - 1), 30000);
+                setTimeout(() => {
+                    if (settled || myGen !== generation) return;
+                    const sep = originalSrc.indexOf('?') === -1 ? '?' : '&';
+                    img.src = originalSrc + sep + '_retry=' + attempt;
+                    armStall(myGen);
+                }, delay);
+            };
+
+            const revealCard = () => {
+                settled = true;
+                clearStall();
+                const doFade = () => fadeInCard(card);
+                if (img.decode) img.decode().then(doFade).catch(doFade);
+                else requestAnimationFrame(doFade);
+            };
+
+            img.addEventListener('load', () => {
+                if (settled) return;
+                if (!img.naturalWidth) { scheduleRetry(generation); return; }
+                revealCard();
+            });
+
+            img.addEventListener('error', () => {
+                if (settled) return;
+                scheduleRetry(generation);
+            });
+
+            // Already settled synchronously (cached hit/fail).
+            if (img.complete) {
+                if (img.naturalWidth > 0) revealCard();
+                else                       scheduleRetry(generation);
+            } else {
+                armStall(generation);
             }
         }
 
@@ -6462,7 +7471,6 @@
                         <img class="game-cover"
                              src="${game.cover}"
                              alt="${game.name}"
-                             onerror="handleImageError(this)"
                              loading="eager">
                     </div>
                 `;
@@ -6502,11 +7510,10 @@
                     const youtubeUrl = fullGameData ? fullGameData.youtubeUrl : '';
 
                     return `
-                        <div class="game-card" style="opacity: 0; visibility: visible;" onclick="openGamePage('${game.name.replace(/'/g, "\\'")}', '${game.cover}', this, '${youtubeUrl.replace(/'/g, "\\'")}')">
+                        <div class="game-card" style="opacity: 0; visibility: visible;" onclick="showErrorToast('App only feature')">
                             <img class="game-cover"
                                  src="${game.cover}"
                                  alt="${game.name}"
-                                 onerror="handleImageError(this)"
                                  loading="eager">
                         </div>
                     `;
@@ -7480,6 +8487,27 @@ allGameData = retroData.map(game => ({
             // Show fullscreen loading immediately to block all interactions
             const fullscreenLoading = document.getElementById('fullscreenLoading');
             fullscreenLoading.classList.add('active');
+
+            // Re-trigger the fadeInText animation (it only runs once per element,
+            // so resetting opacity + animation makes it replay on each open).
+            const loadingText = fullscreenLoading.querySelector('.loading-text');
+            if (loadingText) {
+                loadingText.style.animation = 'none';
+                loadingText.style.opacity = '0';
+                loadingText.textContent = 'Loading Game';
+                // Force reflow so the animation restart actually takes effect.
+                void loadingText.offsetHeight;
+                loadingText.style.animation = 'fadeInText 1s ease-in-out 1.5s forwards';
+            }
+
+            // Track the open time so we can enforce a minimum 1.5s loading display
+            // (matches the app's "deliberate reveal" feel).
+            window._gamePageOpenTime = Date.now();
+
+            // Remember which game is open so tab loaders + lightbox know what
+            // to fetch. Clear per-tab cache so a new game re-fetches everything.
+            window._currentGameName = gameName;
+            resetTabLoaders();
             
             // Get all the DOM elements we'll need
             const overlay = document.getElementById('gamePageOverlay');
@@ -7676,8 +8704,46 @@ if (cover.id === 'gamePageCover') {
 
             // Function to start the game page animation
             function startGamePageAnimation() {
+                // Enforce a 1.5s minimum loading display so the transition feels
+                // intentional — matches the app's behavior. If assets resolved
+                // faster than 1500ms, wait out the remainder before revealing.
+                const elapsed = Date.now() - (window._gamePageOpenTime || 0);
+                const remaining = Math.max(0, 1500 - elapsed);
+                setTimeout(() => _revealGamePage(), remaining);
+            }
+
+            function _revealGamePage() {
                 // Hide fullscreen loading
                 fullscreenLoading.classList.remove('active');
+
+                // Default tab handling: show Story by default, but auto-hide it if
+                // the description is empty (strip HTML first). In that case, switch
+                // default to Reviews.
+                const storyEl = document.getElementById('gameStory');
+                const storyBtn = document.getElementById('storyTabBtn');
+                const hasStory = storyEl && storyEl.textContent.trim().length > 0;
+                if (storyBtn) storyBtn.style.display = hasStory ? '' : 'none';
+
+                // Activate Story (or Reviews if no story) by default, clear others.
+                document.querySelectorAll('.game-tab').forEach(t => t.classList.remove('active'));
+                document.querySelectorAll('.tab-content').forEach(t => {
+                    t.classList.remove('active');
+                    t.style.opacity = '';
+                    t.style.transform = '';
+                });
+                const defaultTab = hasStory ? 'story' : 'reviews';
+                const defaultBtn = document.querySelector(`.game-tab[data-tab="${defaultTab}"]`);
+                const defaultContent = document.getElementById(defaultTab + 'Tab');
+                if (defaultBtn) defaultBtn.classList.add('active');
+                if (defaultContent) {
+                    defaultContent.classList.add('active');
+                    defaultContent.style.opacity = '1';
+                    defaultContent.style.transform = 'translateY(0)';
+                }
+                // Pre-trigger the loader for the default tab if it's a data tab.
+                if (window._currentGameName && defaultTab !== 'story' && defaultTab !== 'info') {
+                    loadTabData(defaultTab, window._currentGameName);
+                }
                 
                 // Only create background overlay on desktop (not mobile)
                 if (!isMobile) {
@@ -7899,6 +8965,14 @@ if (cover.id === 'gamePageCover') {
         function closeGamePage(event) {
             // Only close if clicking on overlay, not content
             if (event.target === event.currentTarget) {
+                // Stop any playing clip and close the lightbox if open
+                const ap = document.getElementById('clipPlayer');
+                const vp = document.getElementById('clipVideoPlayer');
+                if (ap) { ap.pause(); ap.src = ''; ap.style.display = 'none'; }
+                if (vp) { vp.pause(); vp.src = ''; vp.style.display = 'none'; }
+                siteCloseLightbox();
+                window._currentGameName = null;
+
                 const overlay = document.getElementById('gamePageOverlay');
                 
                 // Remove background overlay - check both by ID and all potential backgrounds
