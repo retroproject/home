@@ -16025,13 +16025,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC33",
+            "identifier": "RPRP023",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "6GB",
             "arguments": [],
             "executable": "MarkOfTheDeep.exe",
-            "filename": "Mark of the Deep.zip"
+            "buildID": "15 April 2026",
+            "filename": "00718.zip"
           }
         ]
       }
@@ -44959,14 +44960,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP003",
+            "identifier": "RPRP023",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "10GB",
             "arguments": [],
             "executable": "TokyoXtremeRacer.exe",
-            "buildID": "26 September 2025",
-            "filename": "00103.zip"
+            "buildID": "8 April 2026",
+            "filename": "00717.zip"
           }
         ]
       }
@@ -125434,6 +125435,7 @@
     "DescriptionArabic": "<div dir='rtl'>قُد قوات <b style='color: #556B2F; text-shadow: 0 0 8px #556B2F;'>الفيرماخت</b> و<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>السوفييت</b> عبر الوحل المتجمد والأرض المحروقة في <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الجبهة الشرقية</b>.<br>كل وحدة—من <b style='color: #696969; text-shadow: 0 0 8px #696969;'>جندي بندقية</b> وحيد إلى دبابة <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>تايغر</b> هادرة—يمكن التحكم بها مباشرة في الوقت الحقيقي، مما يتيح لك تصويب كل طلقة ومحاصرة المباني ونصب كمائن القوافل على مستوى <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>تكتيكي</b> لا تصله معظم ألعاب الاستراتيجية.<br>أدِر <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>خطوط الإمداد</b> وضَع بطاريات <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>المدفعية</b> واحفر <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>الخنادق</b> بينما تتحول الجبهة من <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>ستالينغراد</b> إلى أبواب <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>برلين</b>.<br><b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>الحملة الديناميكية</b> تتيح لك نقل سريتك المنهكة من عملية لأخرى، محافظًا على الخبرة والخسائر.<br>بيئات قابلة للتدمير و<b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>باليستيات</b> واقعية و<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>محرر مهام</b> كامل يجعل كل اشتباك شخصيًا وقاسيًا.</div>",
     "ReleaseDate": "2021",
     "CriticScore": 80,
+    "Length": 20,
     "CoverUrl": "https://archive.org/download/RPRM001/Call%20to%20Arms%20Gates%20of%20Hell%20Ostfront%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Call%20to%20Arms%20Gates%20of%20Hell%20Ostfront%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Call%20to%20Arms%20Gates%20of%20Hell%20Ostfront%20Theme.mp3",
@@ -125459,8 +125461,7 @@
         ]
       }
     },
-    "Tags": ["Hide"],
-    "Length": 20
+    "Tags": []
   },
   {
     "_id": "game_1776285457514_2",
