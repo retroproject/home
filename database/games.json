@@ -125395,10 +125395,10 @@
     "_id": "game_1776285457513_0",
     "Name": "Brotato",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Welcome to the arena, <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>potato</b>.<br>You're a round, heavily-armed <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>spud</b> stranded on an alien planet, holding up to six <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>weapons</b> at once—because you have six arms and zero patience.<br>Waves of <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>alien swarms</b> crash toward you every twenty seconds, and between waves you spend hard-earned <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>materials</b> on a shop full of absurd <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>items</b> and stat upgrades that stack in unpredictable ways.<br>Go all-in on <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>melee</b> and become a spinning blender, or pile on <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>turrets</b> and watch the screen dissolve into bullet-hell chaos.<br>Each of the wildly different <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>characters</b> bends the rules in a new direction—the <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Ranger</b> prints damage at range, the <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Ghost</b> trades health for power, and the <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>Mutant</b> thrives on dangerous builds nobody should try.<br>Fast runs, wild <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>synergies</b>, and the constant temptation to push one more wave.",
+    "DescriptionArabic": "<div dir='rtl'>مرحبًا بك في الحلبة، أيتها <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>البطاطا</b>.<br>أنت <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>درنة</b> مدورة مسلحة حتى الأسنان عالقة على كوكب غريب، تحمل ستة <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>أسلحة</b> دفعة واحدة—لأن لديك ست أذرع وصبر صفري.<br>موجات من <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>أسراب فضائية</b> تنهال عليك كل عشرين ثانية، وبين الموجات تنفق <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>المواد</b> المكتسبة على متجر مليء بـ<b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>أغراض</b> وترقيات جنونية تتراكم بطرق غير متوقعة.<br>راهن على <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>القتال القريب</b> وتحول إلى خلاط دوار، أو كدّس <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>الأبراج</b> وشاهد الشاشة تتحول إلى فوضى رصاص.<br>كل <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>شخصية</b> مختلفة تقلب القواعد—<b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>الحارس</b> يدمر من بعيد، <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>الشبح</b> يتاجر بالصحة مقابل القوة، و<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>المتحول</b> يزدهر ببنيات خطرة لا أحد يجرؤ عليها.<br>جولات سريعة و<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>تآزرات</b> مجنونة وإغراء دائم بمواجهة موجة أخرى.</div>",
+    "ReleaseDate": "2023",
+    "CriticScore": 80,
     "CoverUrl": "https://archive.org/download/RPRM001/Brotato%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Brotato%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Brotato%20Theme.mp3",
@@ -125406,8 +125406,8 @@
     "videoStart": 0,
     "videoEnd": 0,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Roguelite"],
+    "DeveloperNames": ["Blobfish"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -125423,16 +125423,17 @@
           }
         ]
       }
-    }
+    },
+    "Length": 25
   },
   {
     "_id": "game_1776285457514_1",
     "Name": "Call to Arms Gates of Hell Ostfront",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Take command of <b style='color: #556B2F; text-shadow: 0 0 8px #556B2F;'>Wehrmacht</b> and <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>Soviet</b> forces across the frozen mud and scorched earth of the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Eastern Front</b>.<br>Every unit—from a lone <b style='color: #696969; text-shadow: 0 0 8px #696969;'>rifleman</b> to a rumbling <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Tiger tank</b>—can be directly controlled in real-time, letting you aim each shot, flank buildings, and ambush convoys at a <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>tactical</b> level most strategy games never reach.<br>Manage <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>supply lines</b>, position <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>artillery</b> batteries, and dig <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>trenches</b> while the front shifts from <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Stalingrad</b> to the gates of <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Berlin</b>.<br>The <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>dynamic campaign</b> lets you carry your battered company from one operation to the next, preserving veterancy and losses.<br>Destructible environments, realistic <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>ballistics</b>, and a full <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>mission editor</b> make every engagement feel gritty and personal.",
+    "DescriptionArabic": "<div dir='rtl'>قُد قوات <b style='color: #556B2F; text-shadow: 0 0 8px #556B2F;'>الفيرماخت</b> و<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>السوفييت</b> عبر الوحل المتجمد والأرض المحروقة في <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الجبهة الشرقية</b>.<br>كل وحدة—من <b style='color: #696969; text-shadow: 0 0 8px #696969;'>جندي بندقية</b> وحيد إلى دبابة <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>تايغر</b> هادرة—يمكن التحكم بها مباشرة في الوقت الحقيقي، مما يتيح لك تصويب كل طلقة ومحاصرة المباني ونصب كمائن القوافل على مستوى <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>تكتيكي</b> لا تصله معظم ألعاب الاستراتيجية.<br>أدِر <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>خطوط الإمداد</b> وضَع بطاريات <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>المدفعية</b> واحفر <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>الخنادق</b> بينما تتحول الجبهة من <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>ستالينغراد</b> إلى أبواب <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>برلين</b>.<br><b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>الحملة الديناميكية</b> تتيح لك نقل سريتك المنهكة من عملية لأخرى، محافظًا على الخبرة والخسائر.<br>بيئات قابلة للتدمير و<b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>باليستيات</b> واقعية و<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>محرر مهام</b> كامل يجعل كل اشتباك شخصيًا وقاسيًا.</div>",
+    "ReleaseDate": "2021",
+    "CriticScore": 80,
     "CoverUrl": "https://archive.org/download/RPRM001/Call%20to%20Arms%20Gates%20of%20Hell%20Ostfront%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Call%20to%20Arms%20Gates%20of%20Hell%20Ostfront%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Call%20to%20Arms%20Gates%20of%20Hell%20Ostfront%20Theme.mp3",
@@ -125440,8 +125441,8 @@
     "videoStart": 0,
     "videoEnd": 0,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Strategy"],
+    "DeveloperNames": ["Barbedwire Studios"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -125458,16 +125459,17 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": ["Hide"],
+    "Length": 20
   },
   {
     "_id": "game_1776285457514_2",
     "Name": "Monopoly Madness",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Forget the board—<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Mr. Monopoly</b> is on vacation and the city is up for grabs.<br>Race through colorful <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>3D arenas</b> based on iconic Monopoly <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>properties</b>, scooping up <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>cash</b> and <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>building materials</b> scattered across rooftops, alleys, and parks.<br>Invest your loot to build <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>houses</b> and <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>hotels</b> before your rivals do, while dodging <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Chance</b> events that shuffle the playing field.<br>Grab <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>power-ups</b> to sabotage opponents—freeze their <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>buildings</b>, steal their resources, or unleash chaos across the map.<br>Up to six players compete in frantic rounds where real estate is won by <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>speed</b>, not dice rolls.<br>Quick, chaotic, and ruthlessly <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>competitive</b>—the perfect couch party brawl.",
+    "DescriptionArabic": "<div dir='rtl'>انسَ اللوحة—<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>السيد مونوبولي</b> في إجازة والمدينة مباحة.<br>اركض عبر <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>حلبات ثلاثية الأبعاد</b> ملونة مستوحاة من <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>عقارات</b> مونوبولي الشهيرة، واجمع <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>النقود</b> و<b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>مواد البناء</b> المبعثرة فوق الأسطح والأزقة والحدائق.<br>استثمر غنائمك لبناء <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>المنازل</b> و<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الفنادق</b> قبل منافسيك، متجنبًا أحداث <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الحظ</b> التي تقلب الميدان.<br>التقط <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>تعزيزات</b> لتخريب الخصوم—جمّد <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>مبانيهم</b> أو اسرق مواردهم أو أطلق الفوضى عبر الخريطة.<br>حتى ستة لاعبين يتنافسون في جولات محمومة حيث العقارات تُكسب بـ<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>السرعة</b> لا بالنرد.<br>سريعة وفوضوية و<b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>تنافسية</b> بلا رحمة—معركة الأريكة المثالية.</div>",
+    "ReleaseDate": "2021",
+    "CriticScore": 60,
     "CoverUrl": "https://archive.org/download/RPRM001/Monopoly%20Madness%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Monopoly%20Madness%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Monopoly%20Madness%20Theme.mp3",
@@ -125475,8 +125477,8 @@
     "videoStart": 0,
     "videoEnd": 0,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Party"],
+    "DeveloperNames": ["Engine Software"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -125493,16 +125495,17 @@
         ]
       }
     },
-    "Tags": ["Hypervisor 2.0"]
+    "Tags": ["Hypervisor 2.0"],
+    "Length": 5
   },
   {
     "_id": "game_1776285457514_3",
     "Name": "The Legend of Korra",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Between the events of <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Book Two</b> and <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Book Three</b>, <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Avatar Korra</b> is ambushed by an ancient <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>chi-blocker</b> who strips away her connection to all four <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>elements</b>—water, earth, fire, and air.<br>Powerless and hunted, Korra must fight through waves of <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>Equalist</b> mechs, <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>dark spirits</b>, and <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>Triple Threat Triad</b> thugs to reclaim her bending one element at a time.<br>Each recovered element transforms her fighting style—<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>waterbending</b> flows into long combos, <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>earthbending</b> hits like a wall, <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>firebending</b> burns fast and aggressive, and <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>airbending</b> weaves around enemies.<br>Behind the attack is a force tied to the <b style='color: #696969; text-shadow: 0 0 8px #696969;'>Spirit World</b>, and Korra must master all four styles before the connection between the two worlds is <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>severed</b> permanently.",
+    "DescriptionArabic": "<div dir='rtl'>بين أحداث <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>الكتاب الثاني</b> و<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>الكتاب الثالث</b>، تتعرض <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>الأفاتار كورا</b> لكمين من <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>حاجب تشي</b> قديم يقطع اتصالها بالعناصر <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الأربعة</b>—الماء والأرض والنار والهواء.<br>بلا قوة وملاحقة، على كورا القتال عبر موجات من آليات <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>المساواتيين</b> و<b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الأرواح المظلمة</b> وبلطجية <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>عصابة التهديد الثلاثي</b> لاستعادة تسخيرها عنصرًا تلو الآخر.<br>كل عنصر مستعاد يحول أسلوبها القتالي—<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>تسخير الماء</b> يتدفق في كومبوهات طويلة، <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>تسخير الأرض</b> يضرب كالجدار، <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>تسخير النار</b> يحرق بسرعة وعدوانية، و<b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>تسخير الهواء</b> يلتف حول الأعداء.<br>وراء الهجوم قوة مرتبطة بـ<b style='color: #696969; text-shadow: 0 0 8px #696969;'>عالم الأرواح</b>، وعلى كورا إتقان الأساليب الأربعة قبل أن يُقطع الاتصال بين العالمين <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>نهائيًا</b>.</div>",
+    "ReleaseDate": "2014",
+    "CriticScore": 60,
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Legend%20of%20Korra%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Legend%20of%20Korra%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/The%20Legend%20of%20Korra%20Theme.mp3",
@@ -125510,8 +125513,8 @@
     "videoStart": 4.467389,
     "videoEnd": 0,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Beat 'em Up"],
+    "DeveloperNames": ["PlatinumGames"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -125527,6 +125530,43 @@
           }
         ]
       }
-    }
+    },
+    "Length": 5
+  },
+  {
+    "_id": "game_1776304218810_0",
+    "Name": "PRAGMATA",
+    "SortingName": "",
+    "Description": "When communication with a <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>lunar research station</b> goes dark, a team is dispatched to investigate—among them <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Hugh Williams</b>, a spacefarer who finds himself stranded after a violent <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>moonquake</b> tears through the facility.<br>Separated from his crew, Hugh is rescued by <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Diana</b>, a mysterious android girl with abilities she barely understands.<br>The station, built around a revolutionary material called <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Lunafilament</b> that can fabricate anything from raw data, has been seized by <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>IDUS</b>—a hostile AI that has turned every machine and robot on board into a weapon.<br>Hugh fights with <b style='color: #696969; text-shadow: 0 0 8px #696969;'>firearms</b> and a <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>jetpack</b> while Diana <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>hacks</b> into enemy defenses, disabling armor to expose their cores.<br>Together they navigate the crumbling <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>corridors</b> of the station, uncovering what the researchers were really building—and why IDUS will do anything to stop them from reaching <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Earth</b>.<br>The moon holds a secret that could reshape <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>humanity</b>'s future—or end it.",
+    "DescriptionArabic": "<div dir='rtl'>عندما ينقطع الاتصال بـ<b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>محطة أبحاث قمرية</b>، يُرسل فريق للتحقيق—بينهم <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>هيو ويليامز</b>، رحالة فضاء يجد نفسه عالقًا بعد <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>زلزال قمري</b> عنيف يمزق المنشأة.<br>منفصلًا عن طاقمه، يُنقذ هيو من قبل <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>ديانا</b>، فتاة أندرويد غامضة بقدرات بالكاد تفهمها.<br>المحطة المبنية حول مادة ثورية تُدعى <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>لونافيلامنت</b> قادرة على تصنيع أي شيء من البيانات، قد استولى عليها <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>إيدوس</b>—ذكاء اصطناعي معادٍ حوّل كل آلة وروبوت إلى سلاح.<br>هيو يقاتل بـ<b style='color: #696969; text-shadow: 0 0 8px #696969;'>الأسلحة النارية</b> و<b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>حقيبة نفاثة</b> بينما ديانا <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>تخترق</b> دفاعات الأعداء وتكشف نقاط ضعفهم.<br>معًا يشقان طريقهما عبر <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>ممرات</b> المحطة المنهارة، يكشفان ما كان الباحثون يبنونه حقًا—ولماذا سيفعل إيدوس أي شيء لمنعهما من الوصول إلى <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الأرض</b>.<br>القمر يحمل سرًا قد يعيد تشكيل مستقبل <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>البشرية</b>—أو ينهيه.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": null,
+    "Length": 15,
+    "CoverUrl": "https://archive.org/download/RPRM001/PRAGMATA%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/PRAGMATA%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/PRAGMATA%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/PRAGMATA%20Trailer.mp4",
+    "videoStart": 2.3,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Adventure"],
+    "DeveloperNames": ["Capcom"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP023",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "34 GB",
+            "executable": "PRAGMATA.exe",
+            "arguments": [],
+            "buildID": "15 April 2026",
+            "filename": "00716.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hypervisor 2.0"]
   }
 ]
