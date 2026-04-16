@@ -5326,24 +5326,26 @@
     "YouTubeUrl": "https://archive.org/download/RPRV001/Beyond%20Good%20%26%20Evil%20Trailer.mp4",
     "videoStart": null,
     "videoEnd": null,
-    "PlatformNames": ["Nintendo Switch"],
+    "PlatformNames": ["PC Game"],
     "GenreNames": ["Adventure"],
     "DeveloperNames": ["Ubisoft Montpellier"],
     "downloadInfo": {
-      "Nintendo Switch": {
+      "PC Game": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Beyond Good and Evil 20th Anniversary Edition.nsp",
+            "identifier": "RPRP023",
             "name": "Vanilla",
-            "platform": "Nintendo Switch",
-            "emulator": "Yuzu",
-            "fileSize": "9GB",
-            "romFile": "Beyond Good and Evil 20th Anniversary Edition.nsp"
+            "platform": "PC Game",
+            "fileSize": "15GB",
+            "arguments": [],
+            "buildID": "29 August 2024",
+            "executable": "bgeplus.exe",
+            "filename": "00711.zip"
           }
         ]
       }
-    }
+    },
+    "Tags": ["Hypervisor 2.0"]
   },
   {
     "_id": "0dd0263a-d71f-489f-acea-2618ea5b71c0",
@@ -116831,11 +116833,12 @@
             "name": "Vanilla",
             "platform": "Sony PlayStation Portable",
             "fileSize": "340 MB",
-            "filename": "Tales of Phantasia X.iso",
             "romFile": "Tales of Phantasia X.iso",
             "emulator": "PPSSPP",
             "arguments": [],
-            "mods": "English 1.0 LifeBottle"
+            "mods": null,
+            "buildID": "English 1.0 LifeBottle",
+            "filename": "Tales of Phantasia X.iso"
           }
         ]
       }
@@ -125383,6 +125386,144 @@
             "arguments": [],
             "buildID": "14 April 2026",
             "filename": "00710.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1776285457513_0",
+    "Name": "Brotato",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Brotato%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Brotato%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Brotato%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Brotato%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP023",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "818 MB",
+            "executable": "Brotato.exe",
+            "arguments": [],
+            "buildID": "9 April 2026",
+            "filename": "00712.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1776285457514_1",
+    "Name": "Call to Arms Gates of Hell Ostfront",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Call%20to%20Arms%20Gates%20of%20Hell%20Ostfront%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Call%20to%20Arms%20Gates%20of%20Hell%20Ostfront%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Call%20to%20Arms%20Gates%20of%20Hell%20Ostfront%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Call%20to%20Arms%20Gates%20of%20Hell%20Ostfront%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP023",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "114 GB",
+            "executable": "binaries\\x64\\call_to_arms.exe",
+            "arguments": [],
+            "buildID": "8 April 2026",
+            "filename": "00713.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1776285457514_2",
+    "Name": "Monopoly Madness",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Monopoly%20Madness%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Monopoly%20Madness%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Monopoly%20Madness%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Monopoly%20Madness%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP023",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "MonopolyMadness.exe",
+            "arguments": [],
+            "buildID": "22 June 2023",
+            "filename": "00714.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hypervisor 2.0"]
+  },
+  {
+    "_id": "game_1776285457514_3",
+    "Name": "The Legend of Korra",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Legend%20of%20Korra%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Legend%20of%20Korra%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/The%20Legend%20of%20Korra%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Legend%20of%20Korra%20Trailer.mp4",
+    "videoStart": 4.467389,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP023",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "LoK.exe",
+            "arguments": [],
+            "buildID": "17 May 2016",
+            "filename": "00715.zip"
           }
         ]
       }
