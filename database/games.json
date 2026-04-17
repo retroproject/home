@@ -125569,5 +125569,143 @@
       }
     },
     "Tags": ["Hypervisor 2.0"]
+  },
+  {
+    "_id": "game_1776351852873_0",
+    "Name": "Before Fate",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Before%20Fate%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Before%20Fate%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Before%20Fate%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Before%20Fate%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP023",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "20 GB",
+            "filename": "00719.zip",
+            "executable": "B4F8.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1776351852873_1",
+    "Name": "Regions of Ruin Runegate",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Regions%20of%20Ruin%20Runegate%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Regions%20of%20Ruin%20Runegate%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Regions%20of%20Ruin%20Runegate%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Regions%20of%20Ruin%20Runegate%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP023",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "filename": "00720.zip",
+            "executable": "Regions of Ruin Runegate.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1776351852873_2",
+    "Name": "Warhammer 40000 Fire Warrior Classic",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Warhammer%2040000%20Fire%20Warrior%20Classic%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Warhammer%2040000%20Fire%20Warrior%20Classic%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Warhammer%2040000%20Fire%20Warrior%20Classic%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Warhammer%2040000%20Fire%20Warrior%20Classic%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP023",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "1 GB",
+            "filename": "00721.zip",
+            "executable": "FireWarrior.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1776391044906_0",
+    "Name": "Tomodachi Life Living the Dream",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Tomodachi%20Life%20Living%20the%20Dream%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Tomodachi%20Life%20Living%20the%20Dream%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Tomodachi%20Life%20Living%20the%20Dream%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["Nintendo Switch"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Switch": {
+        "versions": [
+          {
+            "identifier": "E0701",
+            "name": "Vanilla",
+            "platform": "Nintendo Switch",
+            "fileSize": "6 GB",
+            "romFile": "Tomodachi Life Living the Dream.nsp",
+            "emulator": "Ryubing",
+            "arguments": [],
+            "buildID": "1.0",
+            "filename": "Tomodachi Life Living the Dream.nsp"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
