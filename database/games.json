@@ -125572,6 +125572,7 @@
     "DescriptionArabic": "<div dir='rtl'>حين تلوح <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>كارثة بين نجمية</b> في أفق الأرض، ينضم العالم <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>إيان ستيوارت</b> إلى <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>أبيل موريسون</b> و<b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>فريق أود</b> في سباق ضد الفناء.<br>تختبئ في طيات الواقع <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>بوابات زمنية</b> متلألئة تقود إلى <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>عوالم بديلة</b> محطمة تنتظر فيها أعمق أسرار الكون.<br>يغامر إيان في <b style='color: #696969; text-shadow: 0 0 8px #696969;'>زنزانات</b> خطرة تعج بـ<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>تهديدات كونية</b> و<b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>آثار</b> منسية، وكل قفزة تعيد كتابة <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>القدر ذاته</b>.<br><b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>مؤامرة</b> أقدم من النجوم تربطه بحقيقة قد تدمر كل ما يحبه.<br>ومع انهيار كل <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>خط زمني</b>، على الفريق إيقاف الكارثة قبل أن تنفد <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>الساعة الرملية</b> الأخيرة.</div>",
     "ReleaseDate": "2026",
     "CriticScore": null,
+    "Length": 20,
     "CoverUrl": "https://archive.org/download/RPRM001/Before%20Fate%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Before%20Fate%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Before%20Fate%20Theme.mp3",
@@ -125597,8 +125598,7 @@
         ]
       }
     },
-    "Tags": ["Hide"],
-    "Length": 20
+    "Tags": []
   },
   {
     "_id": "game_1776351852873_1",
@@ -125608,6 +125608,7 @@
     "DescriptionArabic": "<div dir='rtl'>بعد أن تحطم <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>كارثة</b> قلعة الأقزام القديمة، تعثر فرقة منهكة من <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>الناجين</b> على <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>بوابة رونية</b> منسية—بوابة متلألئة إلى عوالم بعيدة.<br>على الجانب الآخر تقع <b style='color: #696969; text-shadow: 0 0 8px #696969;'>بلدة مهجورة</b> تُركت لغارات <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>الغوبلن</b> وحشود <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الأورك</b>.<br>مسلحًا بالفأس والمطرقة، تشق طريقك عبر معسكرات <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>قطاع الطرق</b> لاستعادة <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الذهب</b> وإنقاذ <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>الأقارب</b> الأسرى وجمع <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>الموارد</b>.<br>أعد بناء <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>المستوطنة</b> المتداعية حجرًا حجرًا، وكل قزم يُنقذ يعيد يدًا إلى <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>حضارة</b> تحتضر.<br>وراء البوابات تنتظر عوالم أحلك، حيث يستيقظ <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>عدو</b> أعظم ضد آخر <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>أبناء الحجر</b>.</div>",
     "ReleaseDate": "2026",
     "CriticScore": 80,
+    "Length": 20,
     "CoverUrl": "https://archive.org/download/RPRM001/Regions%20of%20Ruin%20Runegate%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Regions%20of%20Ruin%20Runegate%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Regions%20of%20Ruin%20Runegate%20Theme.mp3",
@@ -125633,8 +125634,7 @@
         ]
       }
     },
-    "Tags": ["Hide"],
-    "Length": 20
+    "Tags": []
   },
   {
     "_id": "game_1776351852873_2",
@@ -125644,6 +125644,7 @@
     "DescriptionArabic": "<div dir='rtl'><b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>شاسلا كايس</b>، محارب <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>تاو ناري</b> شاب، يريق دمه الأول في يوم معركته الأول.<br>حين يُختطف الزعيم <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الإيثيريل</b> الموقر <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>كوفاش</b> على يد <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>إمبراطورية البشر</b>، على كايس أن يشق طريقه عبر معاقل العدو لإنقاذه.<br>مسلحًا بـ<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>بندقية النبض</b> الشهيرة، يقتحم <b style='color: #696969; text-shadow: 0 0 8px #696969;'>حصون الإمبراطورية</b> على عوالم معادية، مواجهًا <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>جنود الفضاء</b> الذين لا يتوقفون.<br>ومع انضمام <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>قوى الفوضى</b> إلى المعمعة، تنهض <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الشياطين</b> من الوارب لسرقة روحه.<br>عبر إحدى وعشرين مهمة مضنية من أجل <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>الصالح الأعظم</b>، يتعلم كايس أن <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>البطولة</b> في ظلام <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>الألفية الحادية والأربعين</b> تُكتب بالدم.</div>",
     "ReleaseDate": "2003",
     "CriticScore": 60,
+    "Length": 10,
     "CoverUrl": "https://archive.org/download/RPRM001/Warhammer%2040000%20Fire%20Warrior%20Classic%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Warhammer%2040000%20Fire%20Warrior%20Classic%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Warhammer%2040000%20Fire%20Warrior%20Classic%20Theme.mp3",
@@ -125669,8 +125670,7 @@
         ]
       }
     },
-    "Tags": ["Hide"],
-    "Length": 10
+    "Tags": []
   },
   {
     "_id": "game_1776391044906_0",
@@ -125680,6 +125680,7 @@
     "DescriptionArabic": "<div dir='rtl'>أهلًا بك في <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>جزيرة شمسية</b> حيث تملأ المنازل المبهجة بأصدقاء <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ميي</b> وأفراد العائلة والمشاهير بتصميمك.<br>شاهدهم يتناولون <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>أطعمة</b> غريبة، ويغنون <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>أغاني الكاراوكي</b>، ويقعون في <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>أحلام يقظة</b> عبثية عن المركبات والشطائر.<br>كن الوسيط حين تتحول الصداقات إلى <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>حب</b> رقيق، ورتب <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>حفلات زفاف</b> مفاجئة، ورحب بـ<b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>أطفال</b> رضع صغار في الحي.<br>ألبس الميي <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>أزياء</b> غريبة، وحل <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>مشاكلهم</b> الطريفة، وشاهد الفوضى تتكشف عبر <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>مبنى الشقق</b> المزدحم.<br>كل يوم مشمس يحمل <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>مفاجآت</b> جديدة و<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>ألعابًا مصغرة</b> طريفة ولحظات <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>فرح</b> عبثية خالصة.</div>",
     "ReleaseDate": "2026",
     "CriticScore": 80,
+    "Length": 20,
     "CoverUrl": "https://archive.org/download/RPRM001/Tomodachi%20Life%20Living%20the%20Dream%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Tomodachi%20Life%20Living%20the%20Dream%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Tomodachi%20Life%20Living%20the%20Dream%20Theme.mp3",
@@ -125706,8 +125707,7 @@
         ]
       }
     },
-    "Tags": ["Hide"],
-    "Length": 20
+    "Tags": []
   },
   {
     "_id": "game_1776391159096_0",
@@ -125717,6 +125717,7 @@
     "DescriptionArabic": "<div dir='rtl'>حين ينزل <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>البرانيويدز</b> ذوو اللوامس من الفضاء لحصاد <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>بلورات برانيوم</b> الأرض الثمينة، فقط فتى عبقري قادر على إيقافهم.<br>المخترع الشاب <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>تشيب</b> ورفيقه الآلي الوفي <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>كلاوز</b> يحملان السلاح ضد الخطر بين الكوكبي.<br>إلى جانب أصدقائهم حاملي الأدوات، ينشرون <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>فرق قتال</b> مضحكة ويستخدمون <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>أسلحة</b> مصنوعة يدويًا عبر <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>ساحات معركة</b> غريبة.<br>يقود البرانيويدز <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>وحوشًا</b> فضائية غريبة ويبنون <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>حصونًا حيوية</b> متوهجة تُشعل بالعقول المسروقة.<br>يحشد تشيب <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>آليات</b> مصنوعة من الخردة و<b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>مقاومة</b> مختلطة لاستعادة <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>مدن</b> الأرض المضيئة.<br>في <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>حرب</b> كرتونية من أجل البشرية، تصبح العقول والشجاعة السلاح الأعظم.</div>",
     "ReleaseDate": "2026",
     "CriticScore": 80,
+    "Length": 10,
     "CoverUrl": "https://archive.org/download/RPRM001/Chip%20n%20Clawz%20vs%20The%20Brainioids%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Chip%20n%20Clawz%20vs%20The%20Brainioids%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Chip%20n%20Clawz%20vs%20The%20Brainioids%20Theme.mp3",
@@ -125742,8 +125743,7 @@
         ]
       }
     },
-    "Tags": ["Hide"],
-    "Length": 10
+    "Tags": []
   },
   {
     "_id": "game_1776391159097_1",
@@ -125779,7 +125779,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1776391159097_2",
@@ -125815,7 +125815,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1776391159097_3",
@@ -125851,7 +125851,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1776393308305_0",
