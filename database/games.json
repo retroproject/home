@@ -125383,6 +125383,7 @@
     "DescriptionArabic": "<div dir='rtl'>مرحبًا بك في الحلبة، أيتها <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>البطاطا</b>.<br>أنت <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>درنة</b> مدورة مسلحة حتى الأسنان عالقة على كوكب غريب، تحمل ستة <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>أسلحة</b> دفعة واحدة—لأن لديك ست أذرع وصبر صفري.<br>موجات من <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>أسراب فضائية</b> تنهال عليك كل عشرين ثانية، وبين الموجات تنفق <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>المواد</b> المكتسبة على متجر مليء بـ<b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>أغراض</b> وترقيات جنونية تتراكم بطرق غير متوقعة.<br>راهن على <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>القتال القريب</b> وتحول إلى خلاط دوار، أو كدّس <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>الأبراج</b> وشاهد الشاشة تتحول إلى فوضى رصاص.<br>كل <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>شخصية</b> مختلفة تقلب القواعد—<b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>الحارس</b> يدمر من بعيد، <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>الشبح</b> يتاجر بالصحة مقابل القوة، و<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>المتحول</b> يزدهر ببنيات خطرة لا أحد يجرؤ عليها.<br>جولات سريعة و<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>تآزرات</b> مجنونة وإغراء دائم بمواجهة موجة أخرى.</div>",
     "ReleaseDate": "2023",
     "CriticScore": 80,
+    "Length": 25,
     "CoverUrl": "https://archive.org/download/RPRM001/Brotato%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Brotato%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Brotato%20Theme.mp3",
@@ -125407,8 +125408,7 @@
           }
         ]
       }
-    },
-    "Length": 25
+    }
   },
   {
     "_id": "game_1776285457514_1",
@@ -125454,6 +125454,7 @@
     "DescriptionArabic": "<div dir='rtl'>انسَ اللوحة—<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>السيد مونوبولي</b> في إجازة والمدينة مباحة.<br>اركض عبر <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>حلبات ثلاثية الأبعاد</b> ملونة مستوحاة من <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>عقارات</b> مونوبولي الشهيرة، واجمع <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>النقود</b> و<b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>مواد البناء</b> المبعثرة فوق الأسطح والأزقة والحدائق.<br>استثمر غنائمك لبناء <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>المنازل</b> و<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الفنادق</b> قبل منافسيك، متجنبًا أحداث <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الحظ</b> التي تقلب الميدان.<br>التقط <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>تعزيزات</b> لتخريب الخصوم—جمّد <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>مبانيهم</b> أو اسرق مواردهم أو أطلق الفوضى عبر الخريطة.<br>حتى ستة لاعبين يتنافسون في جولات محمومة حيث العقارات تُكسب بـ<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>السرعة</b> لا بالنرد.<br>سريعة وفوضوية و<b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>تنافسية</b> بلا رحمة—معركة الأريكة المثالية.</div>",
     "ReleaseDate": "2021",
     "CriticScore": 60,
+    "Length": 5,
     "CoverUrl": "https://archive.org/download/RPRM001/Monopoly%20Madness%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Monopoly%20Madness%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Monopoly%20Madness%20Theme.mp3",
@@ -125479,8 +125480,7 @@
         ]
       }
     },
-    "Tags": ["Hypervisor 2.0"],
-    "Length": 5
+    "Tags": ["Hypervisor 2.0"]
   },
   {
     "_id": "game_1776285457514_3",
@@ -125490,6 +125490,7 @@
     "DescriptionArabic": "<div dir='rtl'>بين أحداث <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>الكتاب الثاني</b> و<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>الكتاب الثالث</b>، تتعرض <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>الأفاتار كورا</b> لكمين من <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>حاجب تشي</b> قديم يقطع اتصالها بالعناصر <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الأربعة</b>—الماء والأرض والنار والهواء.<br>بلا قوة وملاحقة، على كورا القتال عبر موجات من آليات <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>المساواتيين</b> و<b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الأرواح المظلمة</b> وبلطجية <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>عصابة التهديد الثلاثي</b> لاستعادة تسخيرها عنصرًا تلو الآخر.<br>كل عنصر مستعاد يحول أسلوبها القتالي—<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>تسخير الماء</b> يتدفق في كومبوهات طويلة، <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>تسخير الأرض</b> يضرب كالجدار، <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>تسخير النار</b> يحرق بسرعة وعدوانية، و<b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>تسخير الهواء</b> يلتف حول الأعداء.<br>وراء الهجوم قوة مرتبطة بـ<b style='color: #696969; text-shadow: 0 0 8px #696969;'>عالم الأرواح</b>، وعلى كورا إتقان الأساليب الأربعة قبل أن يُقطع الاتصال بين العالمين <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>نهائيًا</b>.</div>",
     "ReleaseDate": "2014",
     "CriticScore": 60,
+    "Length": 5,
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Legend%20of%20Korra%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Legend%20of%20Korra%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/The%20Legend%20of%20Korra%20Theme.mp3",
@@ -125514,8 +125515,7 @@
           }
         ]
       }
-    },
-    "Length": 5
+    }
   },
   {
     "_id": "game_1776304218810_0",
@@ -125918,19 +125918,20 @@
     "_id": "game_1776489726043_0",
     "Name": "Calamity Angels Special Delivery",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "The story follows <b style='color: #FF6B6B; text-shadow: 0 0 8px #FF6B6B;'>Yuri</b>, appointed leader of the <b style='color: #4ECDC4; text-shadow: 0 0 8px #4ECDC4;'>Cutie Angels</b>, a ragtag delivery service in the <b style='color: #95E1D3; text-shadow: 0 0 8px #95E1D3;'>Orkotris Region</b>.<br>Due to their hilarious failures, the guild nicknamed them the <b style='color: #FF6B6B; text-shadow: 0 0 8px #FF6B6B;'>Calamity Angels</b>, as every job ends in disaster.<br>The team includes <b style='color: #F38181; text-shadow: 0 0 8px #F38181;'>Somnia</b>, a swordswoman perpetually falling asleep; <b style='color: #AA96DA; text-shadow: 0 0 8px #AA96DA;'>Ivris</b>, a mage who punches instead of casting; and <b style='color: #FCBAD3; text-shadow: 0 0 8px #FCBAD3;'>Suliya</b>, a treasure-obsessed dealer.<br>Together, these <b style='color: #A8D8EA; text-shadow: 0 0 8px #A8D8EA;'>misfit couriers</b> navigate treacherous terrains and unruly <b style='color: #FFEAA7; text-shadow: 0 0 8px #FFEAA7;'>monsters</b> outside city walls.<br>They face <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>rival delivery teams</b> competing for regional supremacy.<br>With delightfully low stakes, it's a workplace comedy where their <b style='color: #98D8C8; text-shadow: 0 0 8px #98D8C8;'>eccentric quirks</b> constantly sabotage their missions.",
+    "DescriptionArabic": "<div dir='rtl'>تتبع القصة <b style='color: #FF6B6B; text-shadow: 0 0 8px #FF6B6B;'>يوري</b>، القائد الجديد لفريق <b style='color: #4ECDC4; text-shadow: 0 0 8px #4ECDC4;'>ملائكة اللطافة</b>، خدمة توصيل فوضوية في <b style='color: #95E1D3; text-shadow: 0 0 8px #95E1D3;'>منطقة أوركوتريس</b>.<br>بسبب فشلهم المتكرر، أطلقت النقابة عليهم لقب <b style='color: #FF6B6B; text-shadow: 0 0 8px #FF6B6B;'>ملائكة الكارثة</b>، حيث ينتهي كل عمل بكارثة.<br>يضم الفريق <b style='color: #F38181; text-shadow: 0 0 8px #F38181;'>سومنيا</b>، المقاتلة التي لا تتوقف عن النوم؛ و<b style='color: #AA96DA; text-shadow: 0 0 8px #AA96DA;'>إيفرس</b>، الساحرة التي تفضل اللكمات؛ و<b style='color: #FCBAD3; text-shadow: 0 0 8px #FCBAD3;'>سوليا</b>، التاجرة المولعة بالكنوز.<br>معًا، يخوض هؤلاء <b style='color: #A8D8EA; text-shadow: 0 0 8px #A8D8EA;'>الرسل المشردين</b> رحلات عبر تضاريس خطرة و<b style='color: #FFEAA7; text-shadow: 0 0 8px #FFEAA7;'>وحوش</b> جامحة خارج أسوار المدينة.<br>يتبارون مع <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>فرق توصيل منافسة</b> على السيادة الإقليمية.<br>في كوميديا عمل بلا ضغوط، تُفشل <b style='color: #98D8C8; text-shadow: 0 0 8px #98D8C8;'>غراباتهم</b> مهامهم باستمرار.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 60,
+    "Length": 15,
     "CoverUrl": "https://archive.org/download/RPRM001/Calamity%20Angels%20Special%20Delivery%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Calamity%20Angels%20Special%20Delivery%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Calamity%20Angels%20Special%20Delivery%20Theme.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Calamity%20Angels%20Special%20Delivery%20Trailer.mp4",
+    "videoStart": 3.8,
+    "videoEnd": 101.4,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Japanese Role-Playing"],
+    "DeveloperNames": ["Compile Heart"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -125939,32 +125940,34 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "6 GB",
-            "filename": "00731.zip",
             "executable": "Calamity Angels.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "15 April 2026",
+            "filename": "00731.zip"
           }
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1776489726043_1",
     "Name": "TAMASHIKA",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "The <b style='color: #8B00FF; text-shadow: 0 0 8px #8B00FF;'>cartesian prison</b> awaits—a recursive <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>labyrinth</b> where <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>illusions</b> fracture consciousness. <br> A <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>rogue warrior</b> traverses ever-shifting <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>astral corridors</b>, trapped in this <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>recursive realm</b>. <br> The <b style='color: #8B00FF; text-shadow: 0 0 8px #8B00FF;'>dream</b> constructs itself through <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>chaotic attractors</b> that seize wandering thoughts. <br> <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>A mysterious woman</b> appears at each trial's end, her purpose unknown. <br> <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Samadhi</b>—the highest state of <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>consciousness</b>—beckons those who transcend <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Tamas</b> and scattered thought. <br> Only <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>focus</b> and <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>flow</b> can pierce the veil of this <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>surreal meditation</b>.",
+    "DescriptionArabic": "<div dir='rtl'>ينتظر <b style='color: #8B00FF; text-shadow: 0 0 8px #8B00FF;'>السجن الديكارتي</b>—متاهة <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>متكررة</b> حيث <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>الأوهام</b> تحطم الوعي. <br> يعبر <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>محارب متمرد</b> ممرات <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>أثيرية</b> متغيرة باستمرار، محاصر في هذا <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>عالم متكرر</b>. <br> يبني <b style='color: #8B00FF; text-shadow: 0 0 8px #8B00FF;'>الحلم</b> نفسه عبر <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>جاذبات فوضوية</b> تنتزع الأفكار الهائمة. <br> تظهر <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>امرأة غامضة</b> في نهاية كل محاكمة، وغرضها مجهول. <br> <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>السامادي</b>—أعلى حالة <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>للوعي</b>—ينادي من يتجاوز <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>التاماس</b> والأفكار المشتتة. <br> فقط <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>التركيز</b> و<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>التدفق</b> يمكنهما اختراق حجاب هذه <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>التأمل السريالي</b>.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 70,
+    "Length": 5,
     "CoverUrl": "https://archive.org/download/RPRM001/TAMASHIKA%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/TAMASHIKA%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/TAMASHIKA%20Theme.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/TAMASHIKA%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 32.07081,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Shooter"],
+    "DeveloperNames": ["QuickTequila"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -125973,13 +125976,86 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "486 MB",
-            "filename": "00732.zip",
             "executable": "TAMASHIKA.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "18 April 2026",
+            "filename": "00732.zip"
           }
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
+  },
+  {
+    "_id": "game_1776524424381_0",
+    "Name": "Dread Delusion",
+    "SortingName": "",
+    "Description": "The surface of the world is consumed by an <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>undead curse</b>, forcing humanity to survive on <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>flying continents</b> in the sky. <br> You navigate strange lands ranging from <b style='color: #556B2F; text-shadow: 0 0 8px #556B2F;'>mushroom forests</b> to <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>undead mausoleums</b>, uncovering the fate of a <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>shattered realm</b>. <br> A zealous <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>Inquisition</b> hunts the worshippers of <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>illegal gods</b>, sparking a conflict between authority and forbidden faith. <br> You must choose whether to heal this broken world or seek <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>power and profit</b> through <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>occult secrets</b> and dark bargains.",
+    "DescriptionArabic": "<div dir='rtl'>تكتسح سطح العالم <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>لعنة الموتى</b>، مما يجبر البشرية على البقاء على <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>قارات طائرة</b> في السماء. <br> تتنقل عبر أراضٍ غريبة تتراوح بين <b style='color: #556B2F; text-shadow: 0 0 8px #556B2F;'>غابات الفطر</b> و<b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>مقابر الموتى</b>، كاشفاً مصير <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>عالم مُمزق</b>. <br> تطارد <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>محكمة تفتيش</b> متعصبة عابدي <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>آلهة محظورة</b>، مشعلة صراعاً بين السلطة والإيمان الممنوع. <br> يجب عليك اختيار ما إذا كنت ستعمل على شفاء هذا العالم المكسور أو تسعى وراء <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>القوة والربح</b> من خلال <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>أسرار خفية</b> والصفقات المظلمة.</div>",
+    "ReleaseDate": "2024",
+    "CriticScore": 80,
+    "Length": 25,
+    "CoverUrl": "https://archive.org/download/RPRM001/Dread%20Delusion%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Dread%20Delusion%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Dread%20Delusion%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Dread%20Delusion%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 57.526357,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Role-Playing"],
+    "DeveloperNames": ["Lovely Hellplace"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP024",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Dread Delusion.exe",
+            "arguments": [],
+            "buildID": "15 April 2026",
+            "filename": "00733.zip"
+          }
+        ]
+      }
+    },
+    "Tags": []
+  },
+  {
+    "_id": "game_1776524424381_1",
+    "Name": "Lucky Tower Ultimate",
+    "SortingName": "",
+    "Description": "The delightfully narcissistic knight <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Von Wanst</b> finds himself trapped in the perilous <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>Evelius's Tower</b> without his armor or a clear path to freedom.<br> He must navigate this shifting labyrinth of traps and monsters, where even a <b style='color: #FFFF00; text-shadow: 0 0 8px #FFFF00;'>banana peel</b> can lead to a slapstick demise.<br> Along the way, he meets quirky companions like the drink-loving <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Sobu</b> and discovers items ranging from <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Golden Armor</b> to a honk horn.<br> The tower is unforgiving, but escape allows Von Wanst to return to the <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>village</b> and progress toward the ultimate <b style='color: #FFFFFF; text-shadow: 0 0 8px #FFFFFF;'>True Ending</b>.<br> It is a comedic struggle for survival where everything is a weapon and nothing is certain.",
+    "DescriptionArabic": "<div dir='rtl'>يجد الفارس النرجسي ببهجة <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>فون وانست</b> نفسه محاصرًا في <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>برج إيفيليوس</b> الخطير دون دروعه أو طريق واضح للحرية.<br> يجب عليه التنقل في هذه المتاهة المتغيرة من الفخاخ والوحوش، حيث يمكن حتى لـ <b style='color: #FFFF00; text-shadow: 0 0 8px #FFFF00;'>قشرة موز</b> أن تؤدي إلى نهاية كوميدية مأساوية.<br> على طول الطريق، يلتقي برفاق غريبين مثل <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>سوبو</b> الذي يحب الشرب ويكتشف عناصر تتراوح بين <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الدرع الذهبي</b> وبوق التنبيه.<br> البرج لا يرحم، لكن الهروب يسمح لـ فون وانست بالعودة إلى <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>القرية</b> والتقدم نحو <b style='color: #FFFFFF; text-shadow: 0 0 8px #FFFFFF;'>النهاية الحقيقية</b> النهائية.<br> إنها صراعية كوميدية من أجل البقاء حيث كل شيء سلاح ولا شيء مؤكد.</div>",
+    "ReleaseDate": "2024",
+    "CriticScore": 80,
+    "Length": 5,
+    "CoverUrl": "https://archive.org/download/RPRM001/Lucky%20Tower%20Ultimate%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Lucky%20Tower%20Ultimate%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Lucky%20Tower%20Ultimate%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Lucky%20Tower%20Ultimate%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 36.5,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Adventure"],
+    "DeveloperNames": ["Studio Seufz"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP024",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "1018 MB",
+            "executable": "Lucky Tower Ultimate.exe",
+            "arguments": [],
+            "buildID": "16 April 2026",
+            "filename": "00734.zip"
+          }
+        ]
+      }
+    },
+    "Tags": []
   }
 ]
