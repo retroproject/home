@@ -103127,25 +103127,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC45",
-            "name": "Offline",
+            "identifier": "RPRP023",
+            "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "3GB",
+            "fileSize": "5GB",
             "arguments": [],
             "executable": "HxHNENxIMPACT.exe",
-            "buildID": "5 August 2025",
-            "filename": "Hunter × Hunter Nen × Impact.zip"
-          },
-          {
-            "identifier": "RPRP001",
-            "name": "Online",
-            "platform": "PC Game",
-            "fileSize": "3GB",
-            "arguments": [],
-            "buildID": "1.06",
-            "executable": "HxHNENxIMPACT.exe",
-            "notes": "Online: Player Match → Find/Create Room",
-            "filename": "00015.zip"
+            "buildID": "16 April 2026",
+            "filename": "00730.zip"
           }
         ]
       }
@@ -125675,7 +125664,7 @@
   {
     "_id": "game_1776391044906_0",
     "Name": "Tomodachi Life Living the Dream",
-    "SortingName": "",
+    "SortingName": "Tomodachi 02",
     "Description": "Welcome to a sun-drenched <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>island paradise</b> where you fill cheerful homes with custom <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Mii</b> friends, family, and celebrity look-alikes.<br>Watch them devour bizarre <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>foods</b>, belt out <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>karaoke ballads</b>, and stumble into absurd <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>daydreams</b> about spaceships and sandwiches.<br>Play matchmaker as friendships blossom into sweet <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>romance</b>, arrange impromptu <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>weddings</b>, and welcome squishy <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>babies</b> into the neighborhood.<br>Dress Miis in outrageous <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>costumes</b>, solve their silly little <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>problems</b>, and watch chaos unfold across the crowded <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>apartment block</b>.<br>Every sunny day brings new <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>surprises</b>, quirky <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>minigames</b>, and absurd moments of pure <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>joy</b>.",
     "DescriptionArabic": "<div dir='rtl'>أهلًا بك في <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>جزيرة شمسية</b> حيث تملأ المنازل المبهجة بأصدقاء <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ميي</b> وأفراد العائلة والمشاهير بتصميمك.<br>شاهدهم يتناولون <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>أطعمة</b> غريبة، ويغنون <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>أغاني الكاراوكي</b>، ويقعون في <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>أحلام يقظة</b> عبثية عن المركبات والشطائر.<br>كن الوسيط حين تتحول الصداقات إلى <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>حب</b> رقيق، ورتب <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>حفلات زفاف</b> مفاجئة، ورحب بـ<b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>أطفال</b> رضع صغار في الحي.<br>ألبس الميي <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>أزياء</b> غريبة، وحل <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>مشاكلهم</b> الطريفة، وشاهد الفوضى تتكشف عبر <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>مبنى الشقق</b> المزدحم.<br>كل يوم مشمس يحمل <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>مفاجآت</b> جديدة و<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>ألعابًا مصغرة</b> طريفة ولحظات <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>فرح</b> عبثية خالصة.</div>",
     "ReleaseDate": "2026",
@@ -125887,7 +125876,7 @@
         ]
       }
     },
-    "Tags": ["Hypervisor 2.0", "Hide"]
+    "Tags": ["Hypervisor 2.0"]
   },
   {
     "_id": "game_1776393308305_1",
@@ -125923,6 +125912,74 @@
         ]
       }
     },
-    "Tags": ["Hypervisor 2.0", "Hide"]
+    "Tags": ["Hypervisor 2.0"]
+  },
+  {
+    "_id": "game_1776489726043_0",
+    "Name": "Calamity Angels Special Delivery",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Calamity%20Angels%20Special%20Delivery%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Calamity%20Angels%20Special%20Delivery%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Calamity%20Angels%20Special%20Delivery%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP024",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "6 GB",
+            "filename": "00731.zip",
+            "executable": "Calamity Angels.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1776489726043_1",
+    "Name": "TAMASHIKA",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/TAMASHIKA%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/TAMASHIKA%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/TAMASHIKA%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP024",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "486 MB",
+            "filename": "00732.zip",
+            "executable": "TAMASHIKA.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
