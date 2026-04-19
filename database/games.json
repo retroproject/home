@@ -99854,13 +99854,13 @@
         "versions": [
           {
             "identifier": "P0400",
-            "name": "Enhanced",
+            "name": "Vanilla",
             "platform": "Sony PlayStation 4",
             "emulator": "ShadPS4",
             "fileSize": "30GB",
             "romFile": "eboot.bin",
-            "mods": "Shadows of the Hunt 0.97.5",
-            "filename": "Bloodborne [Enhanced].zip"
+            "mods": null,
+            "filename": "Bloodborne.zip"
           },
           {
             "identifier": "P0400",
@@ -126404,5 +126404,76 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1776588255661_0",
+    "Name": "Alienation",
+    "SortingName": "",
+    "Description": "An <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>alien</b> <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>invasion</b> has overwhelmed <b style='color: #0000FF; text-shadow: 0 0 8px #0000FF;'>Earth</b>, leaving the population murdered or mutated in a desperate fight for survival. <br> <b style='color: #006400; text-shadow: 0 0 8px #006400;'>Humanity</b>’s last hope rests with four elite <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>soldiers</b> from the <b style='color: #800080; text-shadow: 0 0 8px #800080;'>UNX</b> <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>military</b> unit, tasked with repelling the <b style='color: #A52A2A; text-shadow: 0 0 8px #A52A2A;'>Xeno</b> onslaught on our home turf. <br> These warriors—the <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Bio-Specialist</b>, <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Saboteur</b>, and <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>Tank</b>—must utilize devastating firepower to reclaim the planet from the <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>creatures</b> who have taken control. <br> <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>Destruction</b> and chaos reign as they fight to prevent total <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>extinction</b>.",
+    "DescriptionArabic": "<div dir='rtl'>لقد اجتاح <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الغزو</b> <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الأجنبي</b> <b style='color: #0000FF; text-shadow: 0 0 8px #0000FF;'>الأرض</b>، تاركاً السكان في مواجهة القتل أو التحول في صراع يائس من أجل البقاء. <br> يكمن <b style='color: #006400; text-shadow: 0 0 8px #006400;'>الملاذ الأخير</b> <b style='color: #006400; text-shadow: 0 0 8px #006400;'>للبشرية</b> في أربعة <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>جنود</b> <b style='color: #800080; text-shadow: 0 0 8px #800080;'>نخبة</b> من وحدة <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>UNX</b> <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>العسكرية</b>، المُكلفين بصد هجوم <b style='color: #A52A2A; text-shadow: 0 0 8px #A52A2A;'>الزينو</b> <b style='color: #A52A2A; text-shadow: 0 0 8px #A52A2A;'>المحطم</b> على أرضنا. <br> يجب على هؤلاء المحاربين - <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>خبير البيولوجيا</b>، و<b style='color: #708090; text-shadow: 0 0 8px #708090;'>المخرب</b>، و<b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>الدبابة</b> - استخدام قوة نارية مدمرة لاستعادة الكوكب من <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>الكائنات</b> التي سيطرت عليه. <br> تسود <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>الفوضى</b> <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>والدمار</b> بينما يقاتلون لمنع <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الانقراض</b> <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الكامل</b>.</div>",
+    "ReleaseDate": "2016",
+    "CriticScore": 80,
+    "Length": 15,
+    "CoverUrl": "https://archive.org/download/RPRM001/Alienation%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Alienation%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Alienation%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Alienation%20Trailer.mp4",
+    "videoStart": 9.7,
+    "videoEnd": 62.742334,
+    "PlatformNames": ["Sony PlayStation 4"],
+    "GenreNames": ["Shooter"],
+    "DeveloperNames": ["Housemarque"],
+    "downloadInfo": {
+      "Sony PlayStation 4": {
+        "versions": [
+          {
+            "identifier": "P0400",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 4",
+            "fileSize": "2 GB",
+            "filename": "Alienation.zip",
+            "romFiles": ["eboot.bin"],
+            "emulator": "ShadPS4",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1776588255661_1",
+    "Name": "Gravity Rush 2",
+    "SortingName": "Gravity Rush 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Gravity%20Rush%202%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Gravity%20Rush%202%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Gravity%20Rush%202%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Gravity%20Rush%202%20Trailer.mp4",
+    "videoStart": 49.7,
+    "videoEnd": 139.3,
+    "PlatformNames": ["Sony PlayStation 4"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 4": {
+        "versions": [
+          {
+            "identifier": "P0400",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 4",
+            "fileSize": "26 GB",
+            "filename": "Gravity Rush 2.zip",
+            "romFiles": ["eboot.bin"],
+            "emulator": "ShadPS4",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
