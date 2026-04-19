@@ -126197,5 +126197,50 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1776563363100_0",
+    "Name": "Peter Jacksons King Kong",
+    "SortingName": "",
+    "Description": "Ambitious filmmaker <b style='color: #E97451; text-shadow: 0 0 8px #E97451;'>Carl Denham</b> leads a desperate expedition to the uncharted <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>Skull Island</b>, dragging his crew into a nightmare.<br> The indigenous inhabitants kidnap actress <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Ann Darrow</b>, offering her to the island's terrifying master, the colossal <b style='color: #A52A2A; text-shadow: 0 0 8px #A52A2A;'>Kong</b>.<br> Screenwriter <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Jack Driscoll</b> fights through swarms of prehistoric <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>dinosaurs</b> and giant insects in a frantic bid to save her.<br> A bond forms between the beast and the beauty, leading to a tragic capture and a chaotic rampage through <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>New York City</b>.<br> The adventure ends in a final, desperate standoff atop the <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Empire State Building</b>, where civilization proves as ruthless as the wild.",
+    "DescriptionArabic": "<div dir='rtl'>يقود صانع الأفلام الطموح <b style='color: #E97451; text-shadow: 0 0 8px #E97451;'>كارل دينهام</b> بعثة يائسة إلى <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>جزيرة الجمجمة</b> غير المأهولة، ساحباً طاقمه إلى كابوس حقيقي.<br> يختطف السكان الأصليون الممثلة <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>آن دارو</b> ويقدمونها قرابيناً لسيد الجزيرة المرعب، العملاق <b style='color: #A52A2A; text-shadow: 0 0 8px #A52A2A;'>كونغ</b>.<br> يخوض كاتب السيناريو <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>جاك دريسكول</b> معارك ضد أسراب من <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الديناصورات</b> والحشرات العملاقة في محاولة يائسة لإنقاذها.<br> يتشكل رابط بين الوحش والجميلة، مما يؤدي إلى أسر مأساوي وهيجان فوضوي في مدينة <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>نيويورك</b>.<br> تنتهي المغامرة بمواجهة أخيرة ويائسة فوق مبنى <b style='color: #708090; text-shadow: 0 0 8px #708090;'>إمباير ستيت</b>، حيث يثبت التحضر أنه لا يقل وحشية عن البرية.</div>",
+    "ReleaseDate": "2005",
+    "CriticScore": 80,
+    "Length": 5,
+    "CoverUrl": "https://archive.org/download/RPRM001/Peter%20Jacksons%20King%20Kong%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Peter%20Jacksons%20King%20Kong%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Peter%20Jacksons%20King%20Kong%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Peter%20Jacksons%20King%20Kong%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation 2"],
+    "GenreNames": ["Adventure"],
+    "DeveloperNames": ["Ubisoft"],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "1GB",
+            "romFile": "Peter Jacksons King Kong.iso",
+            "emulator": "PCSX2",
+            "arguments": [],
+            "filename": "Peter Jacksons King Kong.iso"
+          },
+          {
+            "identifier": "P0211",
+            "name": "HD Textures",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "500MB",
+            "emulator": "PCSX2",
+            "arguments": [],
+            "buildID": "2.0",
+            "filename": "Peter Jacksons King Kong HD Textures.zip"
+          }
+        ]
+      }
+    }
   }
 ]
