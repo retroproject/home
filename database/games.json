@@ -126057,5 +126057,145 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1776554375575_0",
+    "Name": "Bo Path of the Teal Lotus",
+    "SortingName": "",
+    "Description": "Bo is a <b style='color: #E6B800; text-shadow: 0 0 8px #E6B800;'>celestial blossom</b>, a <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>fox spirit</b> descending from the heavens to fulfill an <b style='color: #008080; text-shadow: 0 0 8px #008080;'>ancient prophecy</b>. <br> This <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>fox spirit</b> must navigate a mysterious realm steeped in <b style='color: #800080; text-shadow: 0 0 8px #800080;'>Japanese mythology</b> and filled with strange <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>yokai</b>. <br> The journey spans from a <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>haunted castle</b> to a thriving <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>metropolis</b>, revealing <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>legends</b> long forgotten. <br> Players will unravel the <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>mysteries</b> of their <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>origin</b> while challenging massive <b style='color: #556B2F; text-shadow: 0 0 8px #556B2F;'>adversaries</b> summoned from the past. <br> Ultimately, the story focuses on restoring balance to a world on the brink of <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>mythic chaos</b>.",
+    "DescriptionArabic": "<div dir='rtl'>بو هو <b style='color: #E6B800; text-shadow: 0 0 8px #E6B800;'>زهرة سماوية</b>، <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>روح ثعلب</b> تهبط من السماء لتحقيق <b style='color: #008080; text-shadow: 0 0 8px #008080;'>نبوءة قديمة</b>. <br> يجب على هذه <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>روح الثعلب</b> التنقل عبر عالم غامض مشبع بـ <b style='color: #800080; text-shadow: 0 0 8px #800080;'>الأساطير اليابانية</b> ومليء بـ <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>يوكاي</b> الغريبة. <br> تمتد الرحلة من <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>قلعة مسكونة</b> إلى <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>مدينة مزدهرة</b>، كاشفة عن <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>أساطير</b> دفينة منذ زمن طويل. <br> سيكشف اللاعبون عن <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>ألغاز</b> <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>أصلهم</b> أثناء مواجهة <b style='color: #556B2F; text-shadow: 0 0 8px #556B2F;'>أعداء</b> ضخمين استُدعوا من الماضي. <br> في النهاية، تركز القصة على استعادة التوازن لعالم على حافة <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>فوضى أسطورية</b>.</div>",
+    "ReleaseDate": "2024",
+    "CriticScore": 80,
+    "Length": 15,
+    "CoverUrl": "https://archive.org/download/RPRM001/Bo%20Path%20of%20the%20Teal%20Lotus%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Bo%20Path%20of%20the%20Teal%20Lotus%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Bo%20Path%20of%20the%20Teal%20Lotus%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Bo%20Path%20of%20the%20Teal%20Lotus%20Trailer.mp4",
+    "videoStart": 0.685071,
+    "videoEnd": 90.162646,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Metroidvania"],
+    "DeveloperNames": ["Squid Shock Studios"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP024",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "Bo.exe",
+            "arguments": [],
+            "buildID": "14 April 2026",
+            "filename": "00735.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1776554375575_1",
+    "Name": "Demonologist",
+    "SortingName": "",
+    "Description": "The <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>evil spirit</b> lurks within the shadows of various <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>cursed places</b>, waiting for the unwary. <br> You must identify the type of <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>entity</b> and perform the <b style='color: #800000; text-shadow: 0 0 8px #800000;'>exorcism</b> before the <b style='color: #000000; text-shadow: 0 0 8px #000000;'>darkness</b> consumes you. <br> Using specialized <b style='color: #708090; text-shadow: 0 0 8px #708090;'>equipment</b>, you navigate haunted grounds where <b style='color: #483D8B; text-shadow: 0 0 8px #483D8B;'>ghosts</b> react to your every word. <br> Beware the <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>jumpscares</b> that await you in the gloom. <br> One wrong word might open a <b style='color: #006400; text-shadow: 0 0 8px #006400;'>secret door</b> or unleash further <b style='color: #556B2F; text-shadow: 0 0 8px #556B2F;'>horrors</b>. <br> Even the <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>safe house</b> cannot fully protect your mind from the <b style='color: #800080; text-shadow: 0 0 8px #800080;'>paranormal</b> terrors. <br> You are not alone in this <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>investigation</b>.",
+    "DescriptionArabic": "<div dir='rtl'>تكمن <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الروح الشريرة</b> في ظلال <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الأماكن الملعونة</b> المختلفة، في انتظار غير الحذرين. <br> يجب عليك تحديد نوع <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>الكيان</b> وإجراء <b style='color: #800000; text-shadow: 0 0 8px #800000;'>طرد الأرواح</b> قبل أن يبتلعك <b style='color: #000000; text-shadow: 0 0 8px #000000;'>الظلام</b>. <br> باستخدام <b style='color: #708090; text-shadow: 0 0 8px #708090;'>المعدات</b> المتخصصة، تتنقل في الأراضي المسكونة حيث تتفاعل <b style='color: #483D8B; text-shadow: 0 0 8px #483D8B;'>الأشباح</b> مع كل كلمة تنطق بها. <br> احذر <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>المفاجآت المرعبة</b> التي تنتظرك في الظلام. <br> قد تفتح كلمة واحدة خاطئة <b style='color: #006400; text-shadow: 0 0 8px #006400;'>بابًا سريًا</b> أو تطلق المزيد من <b style='color: #556B2F; text-shadow: 0 0 8px #556B2F;'>الأهوال</b>. <br> حتى <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>الملجأ الآمن</b> لا يمكنه حماية عقلك بالكامل من <b style='color: #800080; text-shadow: 0 0 8px #800080;'>الخوارق</b> المروعة. <br> لست وحدك في هذا <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>التحقيق</b>.</div>",
+    "ReleaseDate": "2023",
+    "CriticScore": 80,
+    "Length": 20,
+    "CoverUrl": "https://archive.org/download/RPRM001/Demonologist%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Demonologist%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Demonologist%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Demonologist%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 40.877065,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Horror"],
+    "DeveloperNames": ["Clock Wizard Games"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP024",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "30 GB",
+            "executable": "Demonologist.exe",
+            "arguments": [],
+            "buildID": "13 February 2026",
+            "filename": "00736.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1776554375575_2",
+    "Name": "The Ember Guardian",
+    "SortingName": "",
+    "Description": "In a <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>dying world</b> swallowed by <b style='color: #0d0d0d; text-shadow: 0 0 8px #0d0d0d;'>darkness</b>, a lone <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Guardian</b> carries the <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>last embers</b> of hope through forgotten lands. <br> Accompanied only by a <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>loyal hound</b>, they must reignite <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>lost flames</b> and push back the <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>horrors</b> lurking in the shadows. <br> When night falls, <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>relentless creatures</b> are drawn to the light, threatening to extinguish the <b style='color: #FF6B35; text-shadow: 0 0 8px #FF6B35;'>fire</b> that represents hope and <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>survival</b> itself. <br> If the flame dies, so does everything worth protecting. <br>",
+    "DescriptionArabic": "<div dir='rtl'>في <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>عالمٍ محتضر</b> ابتلعته <b style='color: #0d0d0d; text-shadow: 0 0 8px #0d0d0d;'>الظلمة</b>، يحمل <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>حارس</b> وحيد <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>آخر الجمرات</b> من الأمل عبر أراضٍ منسية. <br> يرافقه فقط <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>كلبٌ وفي</b>، فيجب عليه إشعال <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>النيران المفقودة</b> وصد <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الأهوال</b> الكامنة في الظلال. <br> عندما يهبط الليل، تنجذب <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>مخلوقات لا ترحم</b> إلى النور، مهددة بإطفاء <b style='color: #FF6B35; text-shadow: 0 0 8px #FF6B35;'>النار</b> التي تجسد الأمل و<b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>البقاء</b> نفسه. <br> إذا مات اللهيب، مات كل شيء يستحق الحماية. <br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 70,
+    "Length": 5,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Ember%20Guardian%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Ember%20Guardian%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/The%20Ember%20Guardian%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Ember%20Guardian%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Strategy"],
+    "DeveloperNames": ["Ratbit Games"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP024",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "The Ember Guardian.exe",
+            "arguments": [],
+            "buildID": "18 April 2026",
+            "filename": "00737.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1776562266714_0",
+    "Name": "Blood Reaver",
+    "SortingName": "",
+    "Description": "Reignite an ancient conflict between earth and hell as one of the cursed <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Blood Reavers</b>.<br>Four unlikely heroes, <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Artemis</b>, <b style='color: #B0C4DE; text-shadow: 0 0 8px #B0C4DE;'>Saxon</b>, <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Edward</b>, and <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Wren</b>, must restore the forgotten order to stop a relentless <b style='color: #A52A2A; text-shadow: 0 0 8px #A52A2A;'>demonic invasion</b>.<br>Harnessing the powers of <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Blood Magic</b>, <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>Ethereal Arts</b>, or the realm of <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Forbidden powers</b>, these <b style='color: #800000; text-shadow: 0 0 8px #800000;'>cursed warriors</b> seek to uncover the ancient secrets of the <b style='color: #556B2F; text-shadow: 0 0 8px #556B2F;'>gods of hell</b>.<br>Delve into the history of the <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Blood Reaver Knights</b> and fight through the ruins of fallen empires and sunken towns.<br>The fate of the world hangs in the balance as the <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>forces of hell</b> breach the world of the living.",
+    "DescriptionArabic": "<div dir='rtl'>أعد إشعال صراع قديم بين الأرض والجحيم باعتبارك أحد <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>مستحوذي الدماء</b> الملعونين.<br>يجب على أربعة أبطال غير متوقعين، وهم <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>آرتميس</b> و<b style='color: #B0C4DE; text-shadow: 0 0 8px #B0C4DE;'>ساكسون</b> و<b style='color: #708090; text-shadow: 0 0 8px #708090;'>إدوارد</b> و<b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>رين</b>، استعادة النظام المنسي لوقف <b style='color: #A52A2A; text-shadow: 0 0 8px #A52A2A;'>الغزو الشيطاني</b> المستمر.<br>من خلال تسخير قوى <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>سحر الدم</b>، أو <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>الفنون الأثيرية</b>، أو عالم <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>القوى المحرمة</b>، يسعى هؤلاء <b style='color: #800000; text-shadow: 0 0 8px #800000;'>المحاربون الملعونون</b> للكشف عن أسرار <b style='color: #556B2F; text-shadow: 0 0 8px #556B2F;'>آلهة الجحيم</b> القديمة.<br>تعمق في تاريخ <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>فرسان مستحوذي الدماء</b> وحارب عبر أطلال الإمبراطوريات الساقطة والمدن المغمورة.<br>يتوقف مصير العالم في الميزان مع اختراق <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>قوى الجحيم</b> لعالم الأحياء.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 70,
+    "Length": 10,
+    "CoverUrl": "https://archive.org/download/RPRM001/Blood%20Reaver%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Blood%20Reaver%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Blood%20Reaver%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Blood%20Reaver%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Shooter"],
+    "DeveloperNames": ["Hell Byte Studios"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP024",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "executable": "BloodReaver.exe",
+            "arguments": [],
+            "buildID": "17 April 2026",
+            "filename": "00738.zip"
+          }
+        ]
+      }
+    }
   }
 ]
