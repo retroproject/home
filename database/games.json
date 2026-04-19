@@ -126445,10 +126445,11 @@
     "_id": "game_1776588255661_1",
     "Name": "Gravity Rush 2",
     "SortingName": "Gravity Rush 02",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Kat</b>, a gravity-shifting heroine, and her partner <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Raven</b> are swept from <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>Hekseville</b> into a new world torn by conflict.<br>Stranded in <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>Banga Village</b> with ally <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Syd</b>, Kat befriends the mysterious <b style='color: #98FB98; text-shadow: 0 0 8px #98FB98;'>Cecie</b> and uncovers a conspiracy in <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Jirga Para Lhao</b>.<br>The city's wealthy elite oppress the poor through military might, while <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Raven</b> has been brainwashed as the enforcer <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Night Gale</b>.<br>After liberating the city, Kat must confront the mad <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Dr. Brahman</b> and his daughter <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Kali Angel</b>, who plot to stop time.<br>She discovers she was once queen of <b style='color: #E0FFFF; text-shadow: 0 0 8px #E0FFFF;'>Eto</b> atop the <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>World Pillar</b>, betrayed by those she trusted.",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>كات</b>، بطلة تحكم الجاذبية، ورفيقتها <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>رافن</b> يُطوح بهما من <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>هيكسفيل</b> إلى عالم جديد ممزق بالصراعات.<br>محاصرتان في <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>قرية بانغا</b> مع حليفهما <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>سيد</b>، تصادق <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>كات</b> الغامضة <b style='color: #98FB98; text-shadow: 0 0 8px #98FB98;'>سيشي</b> وتكشف مؤامرة في مدينة <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>جيرغا بارا لاو</b> العائمة.<br>يضطهد أثرياء المدينة الفقراء بسلطة عسكرية، بينما تم غسل دماغ <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>رافن</b> لتصبح المنفذة <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>نايت غيل</b>.<br>بعد تحرير المدينة، يجب على كات مواجهة المجنون <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>دكتور براهمان</b> وابنته <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>كالي أنجل</b> اللذين يخططان لإيقاف الزمن.<br>تكتشف أنها كانت ملكة <b style='color: #E0FFFF; text-shadow: 0 0 8px #E0FFFF;'>إيتو</b> فوق <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>عمود العالم</b>، خيانتها من لم تثق بهم.</div>",
+    "ReleaseDate": "2017",
+    "CriticScore": 80,
+    "Length": 35,
     "CoverUrl": "https://archive.org/download/RPRM001/Gravity%20Rush%202%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Gravity%20Rush%202%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Gravity%20Rush%202%20Theme.mp3",
@@ -126456,8 +126457,8 @@
     "videoStart": 49.7,
     "videoEnd": 139.3,
     "PlatformNames": ["Sony PlayStation 4"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Open World"],
+    "DeveloperNames": ["Sony Interactive Entertainment"],
     "downloadInfo": {
       "Sony PlayStation 4": {
         "versions": [
