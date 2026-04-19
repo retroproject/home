@@ -126276,5 +126276,119 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1776573998982_0",
+    "Name": "Azure Dreams",
+    "SortingName": "",
+    "Description": "In the desert town of <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Monsbaiya</b>, a young boy named <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Koh</b> comes of age on his fifteenth birthday. <br> Haunted by the disappearance of his father, <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Guy</b>, he decides to enter the perilous <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>Monster Tower</b> to uncover the truth. <br> He is joined by a talking familiar named <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Kewne</b>, who aids him in navigating the treacherous depths. <br> As <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Koh</b> climbs, he must balance his dangerous quest with developing the town and forming bonds with local residents. <br> The journey requires courage as he faces vicious monsters and the unknown legacy of his family's past. <br> Ultimately, the summit holds the answers to his father's fate and the true nature of the tower itself.",
+    "DescriptionArabic": "<div dir='rtl'>تدور أحداث القصة في بلدة <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>مونسبايا</b> الصحراوية، حيث يبلغ الصبي <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>كو</b> سن الخامسة عشرة. <br> يسعى <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>كو</b> لكشف غموض اختفاء والده <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>غاي</b>، فيقرر دخول <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>برج الوحوش</b> الخطير. <br> يرافقه في رحلته قريب ناطق يُدعى <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>كيون</b> لمساعدته في استكشاف الأعماق المحفوفة بالمخاطر. <br> يجب على <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>كو</b> الموازنة بين سعيه الخطير وتطوير البلدة وتكوين علاقات مع السكان المحليين. <br> تتطلب الرحلة شجاعة لمواجهة الوحوش الضارية وإرث عائلته المجهول. <br> في النهاية، تحمل القمة إجابات حول مصير والده وطبيعة البرج الحقيقية.</div>",
+    "ReleaseDate": "1997",
+    "CriticScore": 60,
+    "Length": 35,
+    "CoverUrl": "https://archive.org/download/RPRM001/Azure%20Dreams%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Azure%20Dreams%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Azure%20Dreams%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Azure%20Dreams%20Trailer.mp4",
+    "videoStart": 2.9,
+    "videoEnd": 95.540579,
+    "PlatformNames": ["Sony PlayStation"],
+    "GenreNames": ["Role-Playing"],
+    "DeveloperNames": ["Konami"],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "retro-psx",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation",
+            "fileSize": "285 MB",
+            "filename": "Azure Dreams.img",
+            "romFile": "Azure Dreams.img",
+            "emulator": "DuckStation",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1776573998982_1",
+    "Name": "Brave Fencer Musashi",
+    "SortingName": "",
+    "Description": "A young swordsman named <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Musashi</b> finds himself summoned by the spirited <b style='color: #FFC0CB; text-shadow: 0 0 8px #FFC0CB;'>Princess Fillet</b> to save the <b style='color: #00BFFF; text-shadow: 0 0 8px #00BFFF;'>Allucanet Kingdom</b> from ruin.<br>He must recover the stolen <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>Five Scrolls</b> to power his sword, <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>Lumina</b>, and stop the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Thirstquencher Empire</b> from releasing the ancient <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Wizard of Darkness</b>.<br>Along the way, <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Musashi</b> must use his unique <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Fusion</b> ability to absorb skills from the various <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>enemies</b> he encounters.<br>The <b style='color: #00BFFF; text-shadow: 0 0 8px #00BFFF;'>Kingdom</b> faces a dire threat, but the journey is filled with <b style='color: #FFFFFF; text-shadow: 0 0 8px #FFFFFF;'>quirky</b> characters and humorous situations.<br>It is a wild race to save the <b style='color: #00BFFF; text-shadow: 0 0 8px #00BFFF;'>Kingdom</b> and rescue the <b style='color: #FFC0CB; text-shadow: 0 0 8px #FFC0CB;'>princess</b> from a looming <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>darkness</b>.",
+    "DescriptionArabic": "<div dir='rtl'>يجد السياف الشاب <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>مواشي</b> نفسه مستدعى من قبل الأميرة النشيطة <b style='color: #FFC0CB; text-shadow: 0 0 8px #FFC0CB;'>فيليت</b> لإنقاذ <b style='color: #00BFFF; text-shadow: 0 0 8px #00BFFF;'>مملكة ألوكانيت</b> من الخراب.<br>يجب عليه استعادة <b style='color: #00FFFF; text-shadow: 0 0 8px #00FFFF;'>اللفائف الخمسة</b> المسروقة لتشغيل سيفه، <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>لومينا</b>، وإيقاف <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>إمبراطورية ثيرستكوينشر</b> من إطلاق العنان <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>ساحر الظلام</b> القديم.<br>في طريقه، يجب على <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>مواشي</b> استخدام قدرته الفريدة <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الاندماج</b> لامتصاص مهارات من <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الأعداء</b> المختلفين الذين يواجههم.<br>تواجه <b style='color: #00BFFF; text-shadow: 0 0 8px #00BFFF;'>المملكة</b> تهديداً وشيكاً، لكن الرحلة مليئة بالشخصيات <b style='color: #FFFFFF; text-shadow: 0 0 8px #FFFFFF;'>الغريبة</b> والمواقف المضحكة.<br>إنها سباق محموم لإنقاذ <b style='color: #00BFFF; text-shadow: 0 0 8px #00BFFF;'>المملكة</b> وتحرير <b style='color: #FFC0CB; text-shadow: 0 0 8px #FFC0CB;'>الأميرة</b> من <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>ظلام</b> يلوح في الأفق.</div>",
+    "ReleaseDate": "1998",
+    "CriticScore": 80,
+    "Length": 15,
+    "CoverUrl": "https://archive.org/download/RPRM001/Brave%20Fencer%20Musashi%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Brave%20Fencer%20Musashi%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Brave%20Fencer%20Musashi%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Brave%20Fencer%20Musashi%20Trailer.mp4",
+    "videoStart": 0.802833,
+    "videoEnd": 38.674385,
+    "PlatformNames": ["Sony PlayStation"],
+    "GenreNames": ["Japanese Role-Playing"],
+    "DeveloperNames": ["Square Enix"],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "retro-psx",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation",
+            "fileSize": "201 MB",
+            "filename": "Brave Fencer Musashi.chd",
+            "romFile": "Brave Fencer Musashi.chd",
+            "emulator": "DuckStation",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1776574117581_0",
+    "Name": "Musashi Samurai Legend",
+    "SortingName": "",
+    "Description": "Summoned across space and time by <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Princess Mycella</b>, the samurai <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Musashi</b> arrives to defend the peaceful <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Mystics</b> from tyranny.<br>The nefarious <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Gandrake Enterprises</b> exploits the magical <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>nebulite</b> to power their sinister <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>Nebulium Engine</b>.<br>Under the guidance of the martial artist <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Master Mew</b>, Musashi must rescue the captured <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Five Maidens</b> from the clutches of corporate evil.<br>He seeks the <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>Five Swords</b> to restore power to the great sky whale <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Anthedon</b> and the floating city <b style='color: #008080; text-shadow: 0 0 8px #008080;'>Antheum</b>.<br>Only by defeating <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>President Gandrake</b> can he save the world and return home.",
+    "DescriptionArabic": "<div dir='rtl'>استُدعي عبر الزمان والمكان بواسطة <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الأميرة مايسيلا</b>، ليدافع الساموراي <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>موساشي</b> عن <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>السحرة</b> ضد الطغيان.<br>تستغل <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>شركة غاندراك</b> معدن <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>النيبيولايت</b> لتشغيل <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>محرك نيبيوليوم</b> الشرير.<br>بتوجيه من <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>المعلم ميو</b>، يجب على موساشي إنقاذ <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>العذارى الخمس</b> من براثن شر الشركات.<br>يبحث عن <b style='color: #9932CC; text-shadow: 0 0 8px #9932CC;'>السيوف الخمسة</b> لاستعادة القوة إلى الحوت الطائر <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>أنثيدون</b> وإنقاذ <b style='color: #008080; text-shadow: 0 0 8px #008080;'>أنثيوم</b>.<br>ولاستعادة السلام، عليه هزيمة <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>الرئيس غاندراك</b>.</div>",
+    "ReleaseDate": "2005",
+    "CriticScore": 60,
+    "Length": 20,
+    "CoverUrl": "https://archive.org/download/RPRM001/Musashi%20Samurai%20Legend%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Musashi%20Samurai%20Legend%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Musashi%20Samurai%20Legend%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Musashi%20Samurai%20Legend%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation 2"],
+    "GenreNames": ["Role-Playing"],
+    "DeveloperNames": ["Square Enix"],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "2 GB",
+            "romFile": "Musashi Samurai Legend.iso",
+            "emulator": "PCSX2",
+            "arguments": [],
+            "filename": "Musashi Samurai Legend.iso"
+          },
+          {
+            "identifier": "P0211",
+            "name": "HD Textures",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "2 GB",
+            "emulator": "PCSX2",
+            "arguments": [],
+            "filename": "Musashi Samurai Legend HD Textures.zip"
+          }
+        ]
+      }
+    }
   }
 ]
