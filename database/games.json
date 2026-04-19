@@ -121796,14 +121796,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP017",
+            "identifier": "RPRP024",
             "name": "AMD & INTEL",
             "platform": "PC Game",
             "fileSize": "120 GB",
-            "executable": "AtomicHeart\\Binaries\\Win64\\HypervisorLauncher.exe",
+            "executable": "AtomicHeart.exe",
             "arguments": [],
-            "buildID": "28 January 2025",
-            "filename": "00565.zip"
+            "buildID": "16 April 2026",
+            "filename": "00739.zip"
           }
         ]
       }
@@ -126238,6 +126238,40 @@
             "arguments": [],
             "buildID": "2.0",
             "filename": "Peter Jacksons King Kong HD Textures.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1776565982193_0",
+    "Name": "Windrose",
+    "SortingName": "",
+    "Description": "A betrayed <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>captain</b> awakens on a desolate shore, stripped of everything but a burning desire for <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>vengeance</b> against the infamous <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Blackbeard</b>.<br> What begins as a personal vendetta spirals into a war between <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>pirate clans</b>, rival <b style='color: #800000; text-shadow: 0 0 8px #800000;'>empires</b>, and forces beyond mortal comprehension.<br> <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Dark powers</b> stir beneath the waves as <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Edward Teach</b> wields forbidden magic from a <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>devil's pact</b>.<br> The <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>British East India Company</b> hunts for Columbus's lost <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Book of Prophecies</b>, while <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Tortuga</b> stands as the last haven against <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>undead</b> armies.<br> Across <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>treacherous seas</b>, alliances must be forged and <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>supernatural horrors</b> confronted before <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>darkness</b> swallows the Caribbean forever.<br>",
+    "DescriptionArabic": "<div dir='rtl'>يستيقظ <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>قبطان</b> تعرض للخيانة على شاطئ مهجور، وقد فقد كل شيء سوى رغبة مشتعلة في <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الانتقام</b> من القرصان الأسطوري <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>اللحية السوداء</b>.<br> ما بدأ كثأر شخصي يتحول إلى حرب بين <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>عشائر القراصنة</b> و<b style='color: #800000; text-shadow: 0 0 8px #800000;'>الإمبراطوريات</b> المتنافسة وقوى تتجاوز الإدراك البشري.<br> تنتشر <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>قوى مظلمة</b> تحت الأمواج بينما يستغل <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>إدوارد تيتش</b> سحرًا محرمًا من <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>عقد مع الشيطان</b>.<br> تبحث <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>شركة الهند الشرقية البريطانية</b> عن <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>كتاب النبوءات</b> المفقود لكولومبوس، بينما تبقى <b style='color: #708090; text-shadow: 0 0 8px #708090;'>تورتوجا</b> الملاذ الأخير ضد جيوش <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>الأموات الأحياء</b>.<br> عبر <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>بحر خطير</b>، يجب تشكيل تحالفات ومواجهة <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>أهوال خارقة للطبيعة</b> قبل أن تبتلع <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الظلام</b> منطقة البحر الكاريبي إلى الأبد.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
+    "Length": 60,
+    "CoverUrl": "https://archive.org/download/RPRM001/Windrose%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Windrose%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Windrose%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Windrose%20Trailer.mp4",
+    "videoStart": 0.9,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Survival"],
+    "DeveloperNames": ["Windrose Crew"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP024",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "21 GB",
+            "executable": "EOSAuthLauncher.exe",
+            "arguments": [],
+            "filename": "00740.zip"
           }
         ]
       }
