@@ -93680,14 +93680,14 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx1",
+            "identifier": "retro-psx",
             "name": "Enhanced",
             "platform": "Sony PlayStation",
             "emulator": "RetroArch",
             "fileSize": "200MB",
             "romFile": "Breath of Fire IV.chd",
             "arguments": ["-L", ".\\cores\\mednafen_psx_hw_libretro.dll"],
-            "filename": "Breath of Fire IV.zip"
+            "filename": "Breath of Fire I2V.zip"
           },
           {
             "identifier": "retro-psx",
