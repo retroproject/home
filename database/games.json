@@ -93680,7 +93680,7 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
+            "identifier": "retro-psx1",
             "name": "Enhanced",
             "platform": "Sony PlayStation",
             "emulator": "RetroArch",
