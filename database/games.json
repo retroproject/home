@@ -93687,7 +93687,7 @@
             "fileSize": "200MB",
             "romFile": "Breath of Fire IV.chd",
             "arguments": ["-L", ".\\cores\\mednafen_psx_hw_libretro.dll"],
-            "filename": "Breath of Fire I2V.zip"
+            "filename": "Breath of Fire IV.zip"
           },
           {
             "identifier": "retro-psx",
