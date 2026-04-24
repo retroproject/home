@@ -35247,7 +35247,7 @@
             "platform": "Nintendo DS",
             "emulator": "melonDS",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Castlevania Order of Ecclesia.nds",
             "filename": "Castlevania Order of Ecclesia.nds"
           }
