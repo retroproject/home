@@ -35243,13 +35243,13 @@
         "versions": [
           {
             "identifier": "retro-nitro",
-            "filename": "Castlevania Order of Ecclesia.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
             "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
-            "romFile": "Castlevania Order of Ecclesia.nds"
+            "romFile": "Castlevania Order of Ecclesia.nds",
+            "filename": "Castlevania Order of Ecclesia.nds"
           }
         ]
       }
