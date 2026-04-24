@@ -28112,27 +28112,17 @@
             "fileSize": "9GB",
             "arguments": [],
             "executable": "re5dx9.exe",
-            "buildID": "1.1.0",
-            "filename": "Resident Evil 5.zip"
-          },
-          {
-            "identifier": "COPC03",
-            "name": "Online",
-            "platform": "PC Game",
-            "fileSize": "9GB",
-            "arguments": [],
-            "executable": "re5dx9.exe",
-            "buildID": "1.1.0",
+            "buildID": "1.2.0",
             "filename": "Resident Evil 5.zip"
           },
           {
             "identifier": "RPRP009",
-            "name": "Enhanced Online",
+            "name": "English Enhanced",
             "platform": "PC Game",
             "fileSize": "35GB",
             "arguments": [],
             "executable": "re5dx9.exe",
-            "buildID": "1.1.0",
+            "buildID": "1.2.0",
             "mods": ["4K Texture Pack AI-Enhanced", "NEGAARMAX Reshade and Lyall Fixes"],
             "filename": "00277.zip"
           }
@@ -126479,5 +126469,40 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1777060932442_0",
+    "Name": "Jaws Unleashed",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Jaws%20Unleashed%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Jaws%20Unleashed%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Jaws%20Unleashed%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Jaws%20Unleashed%20Trailer.mp4",
+    "videoStart": 26,
+    "videoEnd": 76.1,
+    "PlatformNames": ["Microsoft Xbox"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Microsoft Xbox": {
+        "versions": [
+          {
+            "identifier": "X00X00",
+            "name": "Vanilla",
+            "platform": "Microsoft Xbox",
+            "fileSize": "1 GB",
+            "filename": "Jaws Unleashed.iso",
+            "romFile": "Jaws Unleashed.iso",
+            "emulator": "Xemu",
+            "arguments": ["-dvd_path"]
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
