@@ -52557,19 +52557,20 @@
     "PlatformNames": ["PC Game"],
     "GenreNames": ["Japanese Role-Playing"],
     "DeveloperNames": ["Nippon Ichi Software"],
-    "Tags": ["Has Issues"],
+    "Tags": [],
     "downloadInfo": {
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC43",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2GB",
             "executableFiles": ["Rhapsody_en.exe", "Rhapsody_jp.exe"],
             "executableLabels": ["English VA", "Japanese VA"],
             "arguments": [],
-            "filename": "Rhapsody A Musical Adventure.zip"
+            "buildID": "21 March 2023",
+            "filename": "00741.zip"
           }
         ]
       }
@@ -56629,8 +56630,7 @@
             "name": "Enhanced",
             "platform": "PC Game",
             "fileSize": "21GB",
-            "executableFiles": ["7th Heaven\\7th Heaven.exe", "create_save_folder.bat"],
-            "executableLabels": ["Game", "Fix"],
+            "executable": "FF7Launcher.exe",
             "filename": "00661.zip"
           }
         ]
@@ -72980,19 +72980,20 @@
     "PlatformNames": ["PC Game"],
     "GenreNames": ["Japanese Role-Playing"],
     "DeveloperNames": ["Nippon Ichi Software"],
-    "Tags": ["Has Issues"],
+    "Tags": [],
     "downloadInfo": {
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC43",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2GB",
             "executableFiles": ["Rhapsody2_en.exe", "Rhapsody2_jp.exe"],
             "executableLabels": ["English VA", "Japanese VA"],
             "arguments": [],
-            "filename": "Rhapsody II Ballad of the Little Princess.zip"
+            "buildID": "29 August 2023",
+            "filename": "00742.zip"
           }
         ]
       }
@@ -82730,12 +82731,12 @@
     "PlatformNames": ["PC Game"],
     "GenreNames": ["Japanese Role-Playing"],
     "DeveloperNames": ["Nippon Ichi Software"],
-    "Tags": ["Has Issues"],
+    "Tags": [],
     "downloadInfo": {
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC43",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2GB",
@@ -82743,7 +82744,8 @@
             "executableFiles": ["Rhapsody3_en.exe", "Rhapsody3_jp.exe"],
             "executableLabels": ["English VA", "Japanese VA"],
             "notes": "Game Need Fixing",
-            "filename": "Rhapsody III Memories of Marl Kingdom.zip"
+            "buildID": "29 August 2023",
+            "filename": "00743.zip"
           }
         ]
       }
@@ -101411,12 +101413,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC10",
-            "filename": "Coromon.zip",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "coromon.exe",
-            "fileSize": "880MB"
+            "fileSize": "880MB",
+            "buildID": "31 March 2026",
+            "filename": "00744.zip"
           }
         ]
       }
