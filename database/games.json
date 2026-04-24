@@ -46155,7 +46155,7 @@
             "name": "Vanilla",
             "fileSize": "60MB",
             "platform": "Nintendo DS",
-            "emulator": "DeSmuME X432R",
+            "emulator": "DeSmuME",
             "romFile": "Digimon World DS.nds",
             "identifier": "retro-nitro",
             "filename": "Digimon World DS.nds"
