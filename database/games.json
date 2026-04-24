@@ -35245,7 +35245,7 @@
             "identifier": "retro-nitro",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "melonDS",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
             "arguments": [],
             "romFile": "Castlevania Order of Ecclesia.nds",
