@@ -160,9 +160,9 @@
             "filename": "Heroes of Mana.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Heroes of Mana.nds"
           }
         ]
@@ -489,9 +489,9 @@
             "filename": "Kirby Super Star Ultra.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Kirby Super Star Ultra.nds"
           }
         ]
@@ -886,9 +886,9 @@
             "filename": "Final Fantasy XII Revenant Wings.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Final Fantasy XII Revenant Wings.nds"
           }
         ]
@@ -4632,9 +4632,9 @@
             "filename": "Pokemon White 2.zip",
             "name": "Collection",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "500MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFiles": ["Pokemon White 2 [Experience + Trade Evolution Patched].nds", "Pokemon [Volt White 2].nds"],
             "romLabels": ["Trade Evolution Patched", "Volt White 2"]
           }
@@ -5451,9 +5451,9 @@
             "filename": "Digimon World Dawn.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Digimon World Dawn.nds"
           }
         ]
@@ -5792,9 +5792,9 @@
             "filename": "Summon Night X Tears Crown.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "230MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Summon Night X Tears Crown.nds"
           }
         ]
@@ -6099,10 +6099,10 @@
             "filename": "Black Sigil (EXP X2).nds",
             "name": "EXP X2",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "romFile": "Black Sigil (EXP X2).nds",
             "fileSize": "32MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"]
+            "arguments": []
           }
         ]
       }
@@ -6674,9 +6674,9 @@
             "filename": "Summon Night 2 (Japanese).nds",
             "platform": "Nintendo DS",
             "name": "Japanese",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Summon Night 2 (Japanese).nds"
           }
         ]
@@ -6846,9 +6846,9 @@
             "filename": "Summon Night (Japanese).nds",
             "platform": "Nintendo DS",
             "name": "Japanese",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Summon Night (Japanese).nds"
           }
         ]
@@ -7131,9 +7131,9 @@
             "identifier": "retro-nitro",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "500MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFiles": ["Kingdom Hearts Re-Coded.nds", "Kingdom Hearts Re-Coded (Japanese VA).nds"],
             "romLabels": ["English VA", "Japanese VA"],
             "filename": "Kingdom Hearts Re-Coded.zip"
@@ -7638,9 +7638,9 @@
             "filename": "Super Princess Peach.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "30MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Super Princess Peach.nds"
           }
         ]
@@ -8234,9 +8234,9 @@
             "filename": "Bleach DS.zip",
             "name": "Collection",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "1GB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFiles": [
               "Bleach DS1 The Blade of Fate.nds",
               "Bleach DS1 The Blade of Fate (Japanese VA).nds",
@@ -10115,9 +10115,9 @@
             "filename": "Pokemon Platinum.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Pokemon Platinum.nds"
           }
         ]
@@ -10218,9 +10218,9 @@
             "filename": "New Super Mario Bros.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "30MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "New Super Mario Bros.nds"
           }
         ]
@@ -12014,9 +12014,9 @@
             "filename": "Contact.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Contact.nds"
           }
         ]
@@ -12735,9 +12735,9 @@
             "identifier": "retro-nitro",
             "name": "Collection",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFiles": [
               "Valkyrie Profile Covenant of the Plume.nds",
               "Valkyrie Profile Covenant of the Plume (Japanese VA).nds"
@@ -16624,9 +16624,9 @@
             "filename": "Tenchu Dark Secret (Japanese VA).nds",
             "name": "Japanese VA",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "40MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Tenchu Dark Secret (Japanese VA).nds"
           }
         ]
@@ -17074,9 +17074,9 @@
             "identifier": "retro-nitro",
             "name": "Collection",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "80MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFiles": [
               "Pokemon Mystery Dungeon Explorers of Darkness.nds",
               "Pokemon Mystery Dungeon Explorers of the Spirit.nds"
@@ -17180,9 +17180,9 @@
             "filename": "Castlevania Dawn of Dissonance.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "300MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Castlevania Dawn of Dissonance.nds"
           }
         ]
@@ -17282,9 +17282,9 @@
             "filename": "Ninja Gaiden Dragon Sword.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Ninja Gaiden Dragon Sword.nds"
           }
         ]
@@ -17418,9 +17418,9 @@
             "filename": "Golden Sun Dark Dawn.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "260MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Golden Sun Dark Dawn.nds"
           }
         ]
@@ -18414,9 +18414,9 @@
             "filename": "Digimon World Dusk.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Digimon World Dusk.nds"
           }
         ]
@@ -19250,9 +19250,9 @@
             "filename": "Dragon Quest V Hand of the Heavenly Bride.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Dragon Quest V Hand of the Heavenly Bride.nds"
           }
         ]
@@ -23181,9 +23181,9 @@
             "filename": "Fire Emblem New Mystery of the Emblem.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Fire Emblem New Mystery of the Emblem.nds"
           }
         ]
@@ -25779,9 +25779,9 @@
             "filename": "Sonic Rush Adventure.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Sonic Rush Adventure.nds"
           }
         ]
@@ -26259,9 +26259,9 @@
             "filename": "Harvest Moon DS.zip",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFiles": ["Harvest Moon DS.nds", "Harvest Moon DS Cute.nds"],
             "romLabels": ["Harvest Moon DS", "Harvest Moon DS Cute"]
           }
@@ -27301,9 +27301,9 @@
             "filename": "Dragon Quest IX Sentinels of the Starry Skies.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "260MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Dragon Quest IX Sentinels of the Starry Skies.nds"
           }
         ]
@@ -27680,9 +27680,9 @@
             "filename": "Wario Master of Disguise.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Wario Master of Disguise.nds"
           }
         ]
@@ -27903,9 +27903,9 @@
             "filename": "Digimon Story Lost Evolution.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Digimon Story Lost Evolution.nds"
           }
         ]
@@ -29452,9 +29452,9 @@
             "filename": "Pokemon Mystery Dungeon Blue Rescue Team.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "30MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Pokemon Mystery Dungeon Blue Rescue Team.nds"
           }
         ]
@@ -29896,9 +29896,9 @@
             "filename": "Kirby Mass Attack.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Kirby Mass Attack.nds"
           }
         ]
@@ -30133,9 +30133,9 @@
             "filename": "Rune Factory 1 A Fantasy Harvest Moon.zip",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "260MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFiles": [
               "Rune Factory 1 A Fantasy Harvest Moon.nds",
               "Rune Factory 1 A Fantasy Harvest Moon (Japanese VA).nds"
@@ -30172,9 +30172,9 @@
             "filename": "Contra 4.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Contra 4.nds"
           }
         ]
@@ -31344,9 +31344,9 @@
             "filename": "Children of Mana.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Children of Mana.nds"
           }
         ]
@@ -32241,9 +32241,9 @@
             "filename": "Pokemon Diamond.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Pokemon Diamond.nds"
           }
         ]
@@ -32585,9 +32585,9 @@
             "filename": "Pokemon White 1.zip",
             "name": "Collection",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "230MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFiles": ["Pokemon White [Unova Pokedex Edition].nds", "Pokemon [Volt White 1].nds"],
             "romLabels": ["Unova Pokedex Edition", "Volt White 1"]
           }
@@ -33618,9 +33618,9 @@
             "filename": "Viewtiful Joe Double Trouble!.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Viewtiful Joe Double Trouble!.nds"
           }
         ]
@@ -34286,9 +34286,9 @@
             "filename": "Sonic Chronicles The Dark Brotherhood.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Sonic Chronicles The Dark Brotherhood.nds"
           }
         ]
@@ -35709,9 +35709,9 @@
             "filename": "Dragon Quest IV Chapters of the Chosen.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Dragon Quest IV Chapters of the Chosen.nds"
           }
         ]
@@ -37491,9 +37491,9 @@
             "identifier": "retro-nitro",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "500MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFiles": ["Kingdom Hearts 358-2 Days.nds", "Kingdom Hearts 358-2 Days (Japanese VA).nds"],
             "romLabels": ["English VA", "Japanese VA"],
             "filename": "Kingdom Hearts 358-2 Days.zip"
@@ -38384,9 +38384,9 @@
             "filename": "Time Hollow (Japanese VA).nds",
             "name": "Japanese VA",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Time Hollow (Japanese VA).nds"
           }
         ]
@@ -41911,9 +41911,9 @@
             "filename": "Dragon Quest Monsters Joker 2.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Dragon Quest Monsters Joker 2.nds"
           }
         ]
@@ -43000,9 +43000,9 @@
             "filename": "Harvest Moon DS Island of Happiness.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Harvest Moon DS Island of Happiness.nds"
           }
         ]
@@ -43795,9 +43795,9 @@
             "filename": "Yoshi's Island DS.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "30MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Yoshi's Island DS.nds"
           }
         ]
@@ -44483,9 +44483,9 @@
             "filename": "Pokemon SoulSilver.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Pokemon SoulSilver.nds"
           }
         ]
@@ -45751,9 +45751,9 @@
             "filename": "Kirby Canvas Curse.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Kirby Canvas Curse.nds"
           }
         ]
@@ -45888,9 +45888,9 @@
             "filename": "Rune Factory 2 A Fantasy Harvest Moon.zip",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "300MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFiles": [
               "Rune Factory 2 A Fantasy Harvest Moon.nds",
               "Rune Factory 2 A Fantasy Harvest Moon (Japanese VA).nds"
@@ -47814,9 +47814,9 @@
             "filename": "Dragon Quest VI Realms of Revelation.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Dragon Quest VI Realms of Revelation.nds"
           }
         ]
@@ -52840,9 +52840,9 @@
             "filename": "Solatorobo Red the Hunter (AP Patched).nds",
             "name": "AP Patched",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Solatorobo Red the Hunter (AP Patched).nds"
           }
         ]
@@ -55052,9 +55052,9 @@
             "filename": "Summon Night Twin Age.zip",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "70MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFiles": ["Summon Night Twin Age.nds", "Summon Night Twin Age (Japanese VA).nds"],
             "romLabels": ["English VA", "Japanese VA"]
           }
@@ -58114,9 +58114,9 @@
             "filename": "Lufia Curse of the Sinistrals.zip",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFiles": ["Lufia Curse of the Sinistrals.nds", "Lufia Curse of the Sinistrals (Japanese VA).nds"],
             "romLabels": ["English VA", "Japanese VA"]
           }
@@ -59014,9 +59014,9 @@
             "filename": "Mario & Luigi Partners in Time.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Mario & Luigi Partners in Time.nds"
           }
         ]
@@ -59593,9 +59593,9 @@
             "filename": "Hotel Dusk Room 215.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Hotel Dusk Room 215.nds"
           }
         ]
@@ -60739,9 +60739,9 @@
             "filename": "Mario Kart DS (Custom Tracks Grand Prix Nitro).nds",
             "name": "Custom Tracks Grand Prix Nitro",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "30MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Mario Kart DS (Custom Tracks Grand Prix Nitro).nds"
           }
         ]
@@ -60842,9 +60842,9 @@
             "filename": "The Legend of Kage 2.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "30MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "The Legend of Kage 2.nds"
           }
         ]
@@ -62222,9 +62222,9 @@
             "filename": "Flower Sun and Rain Murder and Mystery in Paradise.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Flower Sun and Rain Murder and Mystery in Paradise.nds"
           }
         ]
@@ -62776,9 +62776,9 @@
             "filename": "Fire Emblem Shadow Dragon.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Fire Emblem Shadow Dragon.nds"
           }
         ]
@@ -63029,9 +63029,9 @@
             "filename": "Pokemon Black 2.zip",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "500MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFiles": ["Pokemon Black 2.nds", "Pokemon [Blaze Black 2].nds"],
             "romLabels": ["Vanilla", "Blaze Black 2"]
           }
@@ -67037,9 +67037,9 @@
             "filename": "Izuna 2 The Unemployed Ninja Returns.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Izuna 2 The Unemployed Ninja Returns.nds"
           }
         ]
@@ -67741,9 +67741,9 @@
             "filename": "Front Mission 2089 Border of Madness.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Front Mission 2089 Border of Madness.nds"
           }
         ]
@@ -68932,9 +68932,9 @@
             "identifier": "retro-nitro",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "The Legend of Zelda Phantom Hourglass.nds",
             "filename": "The Legend of Zelda Phantom Hourglass.nds"
           },
@@ -68942,9 +68942,9 @@
             "identifier": "retro-nitro",
             "name": "Enhanced",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "The Legend of Zelda Phantom Hourglass [DPAD-Patch].nds",
             "notes": [
               "D-Pad Move",
@@ -69705,9 +69705,9 @@
             "filename": "Shining Force Feather (Japanese).nds",
             "name": "Japanese",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Shining Force Feather (Japanese).nds"
           }
         ]
@@ -71056,9 +71056,9 @@
             "filename": "Castlevania Portrait of Ruin.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Castlevania Portrait of Ruin.nds"
           }
         ]
@@ -71551,9 +71551,9 @@
             "filename": "Pokemon Mystery Dungeon Explorers of Sky.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Pokemon Mystery Dungeon Explorers of Sky.nds"
           }
         ]
@@ -77725,9 +77725,9 @@
             "filename": "Pokemon HeartGold.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Pokemon HeartGold.nds"
           }
         ]
@@ -78050,10 +78050,10 @@
             "identifier": "retro-nitro",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "romFile": "Animal Crossing Wild World.nds",
             "fileSize": "32MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "filename": "Animal Crossing Wild World.nds"
           }
         ]
@@ -78505,9 +78505,9 @@
             "filename": "Pokemon Mystery Dungeon Explorers of Time.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Pokemon Mystery Dungeon Explorers of Time.nds"
           }
         ]
@@ -80285,9 +80285,9 @@
             "identifier": "retro-nitro",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "The Legend of Zelda Spirit Tracks.nds",
             "filename": "The Legend of Zelda Spirit Tracks.nds"
           },
@@ -80295,9 +80295,9 @@
             "identifier": "retro-nitro",
             "name": "Enhanced",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "The Legend of Zelda Spirit Tracks [DPAD Patched].nds",
             "notes": [
               "D-Pad=Run",
@@ -81402,9 +81402,9 @@
             "filename": "Harvest Moon DS Sunshine Islands.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Harvest Moon DS Sunshine Islands.nds"
           }
         ]
@@ -84196,9 +84196,9 @@
             "filename": "Spyro Shadow Legacy.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Spyro Shadow Legacy.nds"
           }
         ]
@@ -90122,9 +90122,9 @@
             "filename": "Dragon Quest Monsters Joker.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Dragon Quest Monsters Joker.nds"
           }
         ]
@@ -93404,9 +93404,9 @@
             "filename": "Sonic Rush.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Sonic Rush.nds"
           }
         ]
@@ -93439,9 +93439,9 @@
             "filename": "Izuna Legend of the Unemployed Ninja.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "30MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Izuna Legend of the Unemployed Ninja.nds"
           }
         ]
@@ -94267,9 +94267,9 @@
             "filename": "Harvest Moon DS Grand Bazaar.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Harvest Moon DS Grand Bazaar.nds"
           }
         ]
@@ -94417,9 +94417,9 @@
             "filename": "Sonic Colors.nds",
             "platform": "Nintendo DS",
             "name": "DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "64MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Sonic Colors.nds"
           },
           {
@@ -94495,9 +94495,9 @@
             "filename": "Castlevania Dawn of Sorrow.zip",
             "name": "Collection",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "200MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFiles": ["Castlevania Dawn of Sorrow.nds", "Castlevania Dawn of Dissonance.nds"],
             "romLabels": ["Dawn of Sorrow", "Dawn of Dissonance"]
           }
@@ -95734,9 +95734,9 @@
             "filename": "Last Window The Secret of Cape West.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "130MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Last Window The Secret of Cape West.nds"
           }
         ]
@@ -98192,9 +98192,9 @@
             "filename": "Pokemon Pearl.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Pokemon Pearl.nds"
           }
         ]
@@ -98616,9 +98616,9 @@
             "filename": "Kirby Squeak Squad.nds",
             "name": "Vanilla",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "60MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Kirby Squeak Squad.nds"
           }
         ]
@@ -99061,9 +99061,9 @@
             "filename": "Pokemon Black 1.zip",
             "name": "Collection",
             "platform": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "200MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFiles": ["Pokemon Black [Unova Pokedex Edition].nds", "Pokemon [Blaze Black].nds"],
             "romLabels": ["Unova Pokedex Edition", "Blaze Black"]
           }
@@ -101236,9 +101236,9 @@
             "identifier": "retro-nitro",
             "platform": "Nintendo DS",
             "name": "Nintendo DS",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "fileSize": "40MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Teenage Mutant Ninja Turtles 3 Mutant Nightmare.nds",
             "filename": "Teenage Mutant Ninja Turtles 3 Mutant Nightmare.nds"
           },
@@ -104018,9 +104018,9 @@
             "name": "Vanilla",
             "platform": "Nintendo DS",
             "fileSize": "70 MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Jump! Ultimate Stars.nds",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "filename": "Jump! Ultimate Stars.nds"
           }
         ]
@@ -109893,8 +109893,8 @@
             "name": "Vanilla",
             "platform": "Nintendo DS",
             "fileSize": "120 MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
-            "emulator": "RetroArch",
+            "arguments": [],
+            "emulator": "DeSmuME",
             "romFiles": ["Trauma Center Under the Knife 2.nds", "Trauma Center Under The Knife 2 [Japanese VA].nds"],
             "romLabels": ["English VA", "Japanese VA"],
             "filename": "Trauma Center Under the Knife 2.zip"
@@ -109930,9 +109930,9 @@
             "name": "Vanilla",
             "platform": "Nintendo DS",
             "fileSize": "20 MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "arguments": [],
             "romFile": "Trauma Center Under the Knife.nds",
-            "emulator": "RetroArch",
+            "emulator": "DeSmuME",
             "filename": "Trauma Center Under the Knife.nds"
           }
         ]
@@ -110784,8 +110784,8 @@
             "name": "Vanilla",
             "platform": "Nintendo DS",
             "fileSize": "10 MB",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
-            "emulator": "RetroArch",
+            "arguments": [],
+            "emulator": "DeSmuME",
             "romFile": "Dr. Mario Express.nds",
             "filename": "Dr. Mario Express.nds"
           }
@@ -115467,8 +115467,8 @@
               "Mega Man Star Force DX.nds"
             ],
             "romLabels": ["Dragon", "Pegasus", "Leo", "Enhanced DX"],
-            "emulator": "RetroArch",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"]
+            "emulator": "DeSmuME",
+            "arguments": []
           }
         ]
       }
@@ -115507,8 +115507,8 @@
               "Mega Man Star Force 2 Zerker x Ninja [Not Quite DX].nds"
             ],
             "romLabels": ["English VA", "Japanese VA", "Not Quite DX"],
-            "emulator": "RetroArch",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"]
+            "emulator": "DeSmuME",
+            "arguments": []
           }
         ]
       }
@@ -115547,8 +115547,8 @@
               "Mega Man Star Force 2 Zerker x Saurian [Not Quite DX].nds"
             ],
             "romLabels": ["English VA", "Japanese VA", "Not Quite DX"],
-            "emulator": "RetroArch",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"]
+            "emulator": "DeSmuME",
+            "arguments": []
           }
         ]
       }
@@ -115582,8 +115582,8 @@
             "fileSize": "60 MB",
             "romFiles": ["Mega Man Star Force 3 Black Ace.nds", "Mega Man Star Force 3 Black Ace [Japanese VA].nds"],
             "romLabels": ["English VA", "Japanese VA"],
-            "emulator": "RetroArch",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "emulator": "DeSmuME",
+            "arguments": [],
             "filename": "Mega Man Star Force 3 Black Ace.zip"
           }
         ]
@@ -115619,8 +115619,8 @@
             "filename": "Mega Man Star Force 3 Red Joker.zip",
             "romFiles": ["Mega Man Star Force 3 Red Joker.nds", "Mega Man Star Force 3 Red Joker [Japanese VA].nds"],
             "romLabels": ["English VA", "Japanese VA"],
-            "emulator": "RetroArch",
-            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"]
+            "emulator": "DeSmuME",
+            "arguments": []
           }
         ]
       }
