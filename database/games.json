@@ -2731,12 +2731,12 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC33",
-            "filename": "Final Fantasy VIII Remastered.zip",
-            "name": "Vanilla",
+            "identifier": "RPRP024",
+            "name": "Enhanced",
             "platform": "PC Game",
-            "executable": "FFVIII.exe",
-            "fileSize": "14GB"
+            "executable": "FF8Launcher.exe",
+            "fileSize": "15GB",
+            "filename": "00745.zip"
           }
         ]
       }
