@@ -126497,7 +126497,7 @@
             "platform": "Sony PlayStation 2",
             "fileSize": "1 GB",
             "emulator": "PCSX2",
-            "arguments": ["-dvd_path"],
+            "arguments": [],
             "romFile": "Jaws Unleashed.iso",
             "filename": "Jaws Unleashed.iso"
           }
