@@ -2736,6 +2736,7 @@
             "platform": "PC Game",
             "executable": "FF8Launcher.exe",
             "fileSize": "15GB",
+            "buildID": "24 April 2026",
             "filename": "00745.zip"
           }
         ]
@@ -62901,17 +62902,18 @@
     "videoEnd": null,
     "PlatformNames": ["PC Game"],
     "GenreNames": ["Japanese Role-Playing"],
-    "DeveloperNames": ["Square Product Development Division 1", "Square USA"],
+    "DeveloperNames": ["SQUARE ENIX"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
           {
-            "identifier": "retroid-2",
-            "filename": "Final Fantasy 9.zip",
-            "name": "Vanilla",
+            "identifier": "RPRP024",
+            "name": "Enhanced",
             "platform": "PC Game",
             "executable": "FF9_Launcher.exe",
-            "fileSize": "12GB"
+            "fileSize": "30GB",
+            "buildID": "24 April 2026",
+            "filename": "00746.zip"
           }
         ]
       }
@@ -126278,6 +126280,7 @@
             "fileSize": "21 GB",
             "executable": "EOSAuthLauncher.exe",
             "arguments": [],
+            "buildID": "0.10.0.3.104.256f9653",
             "filename": "00740.zip"
           }
         ]
