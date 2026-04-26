@@ -15397,7 +15397,8 @@
           }
         ]
       }
-    }
+    },
+    "Tags": ["Hall of Fame"]
   },
   {
     "_id": "2732f552-3b58-40e5-8962-eeb319805bbb",
@@ -40142,7 +40143,8 @@
           }
         ]
       }
-    }
+    },
+    "Tags": ["Hall of Fame"]
   },
   {
     "_id": "675391b4-f189-449f-92d7-00269c905e14",
@@ -116749,7 +116751,7 @@
     "PlatformNames": ["PC Game"],
     "GenreNames": ["Monster Taming"],
     "DeveloperNames": ["Media Vision"],
-    "Tags": ["Working on", "Hypervisor 2.0"],
+    "Tags": ["Hall of Fame", "Hypervisor 2.0"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
