@@ -14453,13 +14453,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC27",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Cult Of The Lamb.exe",
             "fileSize": "4GB",
-            "buildID": "22 January 2026",
-            "filename": "Cult of the Lamb.zip"
+            "buildID": "21 April 2026",
+            "filename": "00747.zip"
           }
         ]
       }
@@ -29543,13 +29543,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP005",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "FATAL FURY City of the Wolves.exe",
             "fileSize": "30GB",
-            "buildID": "22 January 2026",
-            "filename": "00154.zip"
+            "buildID": "24 April 2026",
+            "filename": "00748.zip"
           }
         ]
       }
@@ -112426,7 +112426,7 @@
             "fileSize": "9 GB",
             "executable": "HOTEL BARCELONA.exe",
             "arguments": [],
-            "buildID": "5 March 2026",
+            "buildID": "23 April 2026",
             "filename": "00296.zip"
           }
         ]
@@ -126546,6 +126546,286 @@
             "arguments": [],
             "buildID": "English 1.0",
             "filename": "Tiny Bullets.img"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1777275938871_0",
+    "Name": "Kingdoms Return Time Eating Fruit and the Ancient Monster",
+    "SortingName": "",
+    "Description": "In a world of <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>fairies</b> and ancient magic, the kingdom of <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Almacia</b> has been thrust into the distant future. Guided by the <b style='color: #008000; text-shadow: 0 0 8px #008000;'>Great Fairy Chronos</b>, you must <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>restore</b> the fallen realm. <br>Four heroes—<b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Imperial</b>, <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>Wizard</b>, <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>Alchemist</b>, and <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Zipangu</b>—each carry <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>unique</b> destinies. <br>As <b style='color: #00BFFF; text-shadow: 0 0 8px #00BFFF;'>dungeons</b> awaken and <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>bosses</b> stir, the <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>Time-Eating Fruit</b> holds the key to survival. <br>Will you rebuild <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>kingdoms</b> or fall to the <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>Ancient Monster</b>’s wrath?",
+    "DescriptionArabic": "<div dir='rtl'>في عالم يضم <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الfairies</b> وأساطير قديمة، انتقلت مملكة <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Almacia</b> إلى المستقبل البعيد. بمساعدة <b style='color: #008000; text-shadow: 0 0 8px #008000;'>العجوز Chronos</b>، يجب <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>إعادة بناء</b> المملكة المدمرة. <br>أربعة أبطال—<b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>الإمبراطورية</b>، <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>الساحر</b>، <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>الكيميائي</b>، و<b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Zipangu</b>—كل منهم يحمل <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>قدرًا</b> فريدًا. <br>بينما <b style='color: #00BFFF; text-shadow: 0 0 8px #00BFFF;'>الملاجئ</b> تستيقظ و<b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الرُواسب</b> تتحرك، يحتوي <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>فاكهة الأكل الزمن</b> مفتاح البقاء. <br>هل ستعيد بناء <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>الممالك</b> أم ستفقد أمام غضب <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>ال الوحش القديم</b>؟</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 60,
+    "Length": 5,
+    "CoverUrl": "https://archive.org/download/RPRM001/Kingdoms%20Return%20Time%20Eating%20Fruit%20and%20the%20Ancient%20Monster%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Kingdoms%20Return%20Time%20Eating%20Fruit%20and%20the%20Ancient%20Monster%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Kingdoms%20Return%20Time%20Eating%20Fruit%20and%20the%20Ancient%20Monster%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Kingdoms%20Return%20Time%20Eating%20Fruit%20and%20the%20Ancient%20Monster%20Trailer.mp4",
+    "videoStart": 3.31581,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Strategy"],
+    "DeveloperNames": ["Inti Creates"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP024",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "737 MB",
+            "executable": "game.exe",
+            "arguments": [],
+            "buildID": "24 April 2026",
+            "filename": "00749.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1777275938871_1",
+    "Name": "Soulstone Survivors",
+    "SortingName": "",
+    "Description": "In a world where <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Void Hunters</b> battle endless hordes and colossal <b style='color: #00BFFF; text-shadow: 0 0 8px #00BFFF;'>Titans</b>, a lone warrior seeks godlike power through <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>Soulstones</b>. <br>Driven by ancient <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Void King</b> prophecies, they craft deadly <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>runes</b> and unravel forbidden <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>skill trees</b>. <br>As <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>Void Curses</b> corrupt the land, alliances form and fracture between hunters and <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>Dungeon Lords</b>. <br>The final clash against <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Ritual of Sin</b> will determine who ascends to <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Eternal Void</b>... <br>",
+    "DescriptionArabic": "<div dir='rtl'>في عالم حيث يقاتلون <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الصيادين من الفراغ</b> مجموعات لا حصر لها وحوش <b style='color: #00BFFF; text-shadow: 0 0 8px #00BFFF;'>التنانين</b> الضخمة، يسعى مقاتلون معزولون للحصول على قوة إلهية عبر <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>أحجار الفراغ</b>. <br>مُحركًا بتنبؤات <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>ملك الفراغ</b> القديمة، يصنعون أسلحة قاتلة من <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الرموز</b> ويكشفون عن <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>شجرة المهارات</b> المحرمة. <br>بينما تُفسد <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>نقعات الفراغ</b> الأرض، تتشكل وتنشطر التحالفات بين الصيادين و <b style='color: #BA55D3; text-shadow: 0 0 8px #BA55D3;'>lords السجون</b>. <br>الاشتباك النهائي ضد <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>طقوس الخطيئة</b> سيحدد من سيصعد إلى <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>الفراغ الأبدي</b>... <br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "Length": 30,
+    "CoverUrl": "https://archive.org/download/RPRM001/Soulstone%20Survivors%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Soulstone%20Survivors%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Soulstone%20Survivors%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Soulstone%20Survivors%20Trailer.mp4",
+    "videoStart": 2.7,
+    "videoEnd": 69.795161,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Roguelite"],
+    "DeveloperNames": ["Game Smithing Limited"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP024",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "executable": "Soulstone Survivors.exe",
+            "arguments": [],
+            "buildID": "3 March 2026",
+            "filename": "00750.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1777278834529_0",
+    "Name": "Jay and Silent Bob Chronic Blunt Punch",
+    "SortingName": "",
+    "Description": "Jay and Silent Bob's peaceful life of <b style='color: #FF6B6B; text-shadow: 0 0 8px #FF6B6B;'>dealing weed</b> is disrupted when their <b style='color: #4ECDC4; text-shadow: 0 0 8px #4ECDC4;'>customers vanish</b> into a bizarre, <b style='color: #45B7D1; text-shadow: 0 0 8px #45B7D1;'>Orwellian mega-mall</b>.<br>The duo embarks on a <b style='color: #96CEB4; text-shadow: 0 0 8px #96CEB4;'>profane pilgrimage</b> from their <b style='color: #FECA57; text-shadow: 0 0 8px #FECA57;'>New Jersey Quick Stop</b> to the heart of the <b style='color: #FF9FF3; text-shadow: 0 0 8px #FF9FF3;'>mystical mall</b>.<br>Along the way, they face <b style='color: #54A0FF; text-shadow: 0 0 8px #54A0FF;'>hockey-stick thugs</b>, <b style='color: #5F27CD; text-shadow: 0 0 8px #5F27CD;'>dookie demons</b>, and <b style='color: #00D2D3; text-shadow: 0 0 8px #00D2D3;'>hipsters with babies</b>.<br>Their journey leads them to the very <b style='color: #FF9F43; text-shadow: 0 0 8px #FF9F43;'>gates of hell</b> to confront an <b style='color: #EE5A24; text-shadow: 0 0 8px #EE5A24;'>ancient evil</b>.<br>They must <b style='color: #A29BFE; text-shadow: 0 0 8px #A29BFE;'>rescue their clientele</b> and save their <b style='color: #FD79A8; text-shadow: 0 0 8px #FD79A8;'>lucrative business</b> from supernatural forces.<br>The <b style='color: #00B894; text-shadow: 0 0 8px #00B894;'>View Askewniverse</b> opens up as <b style='color: #6C5CE7; text-shadow: 0 0 8px #6C5CE7;'>cameo characters</b> lend a hand in the chaos.<br>From <b style='color: #FDCB6E; text-shadow: 0 0 8px #FDCB6E;'>Buddy Christ</b> to <b style='color: #E17055; text-shadow: 0 0 8px #E17055;'>Clerks Dante and Randal</b>, the heroes get unexpected backup.<br>The fate of <b style='color: #0984E3; text-shadow: 0 0 8px #0984E3;'>suburban stoners</b> everywhere rests on their ability to <b style='color: #00CEC9; text-shadow: 0 0 8px #00CEC9;'>throw hands and insults</b>.",
+    "DescriptionArabic": "<div dir='rtl'>يُعَطَّلُ حياة جاي والصامت بوب السلمية في <b style='color: #FF6B6B; text-shadow: 0 0 8px #FF6B6B;'>بيع الحشيش</b> عندما <b style='color: #4ECDC4; text-shadow: 0 0 8px #4ECDC4;'>يختفي زبائنهما</b> داخل <b style='color: #45B7D1; text-shadow: 0 0 8px #45B7D1;'>مول عملاق شبيه بأورويل</b>.<br>يشرع الثنائي في <b style='color: #96CEB4; text-shadow: 0 0 8px #96CEB4;'>رحلة مقدسة فاحشة</b> من <b style='color: #FECA57; text-shadow: 0 0 8px #FECA57;'>محل كويك ستوب في نيوجيرسي</b> إلى قلب <b style='color: #FF9FF3; text-shadow: 0 0 8px #FF9FF3;'>المول السحري</b>.<br>على طول الطريق، يواجهون <b style='color: #54A0FF; text-shadow: 0 0 8px #54A0FF;'>بلطجية بعصي الهوكي</b>، و<b style='color: #5F27CD; text-shadow: 0 0 8px #5F27CD;'>شياطين البراز</b>، و<b style='color: #00D2D3; text-shadow: 0 0 8px #00D2D3;'>هيبيين مع أطفال</b>.<br>تقودهم رحلتهم إلى <b style='color: #FF9F43; text-shadow: 0 0 8px #FF9F43;'>أبواب الجحيم</b> نفسها لمواجهة <b style='color: #EE5A24; text-shadow: 0 0 8px #EE5A24;'>شر قديم</b>.<br>عليهما <b style='color: #A29BFE; text-shadow: 0 0 8px #A29BFE;'>إنقاذ زبائنهما</b> وإنقاذ <b style='color: #FD79A8; text-shadow: 0 0 8px #FD79A8;'>مصدر رزقهما</b> من قوى خارقة.<br>ينفتح <b style='color: #00B894; text-shadow: 0 0 8px #00B894;'>عالم فيو آسكيونيفيرس</b> بينما يقدم <b style='color: #6C5CE7; text-shadow: 0 0 8px #6C5CE7;'>شخصيات الضيافة</b> يد المساعدة وسط الفوضى.<br>من <b style='color: #FDCB6E; text-shadow: 0 0 8px #FDCB6E;'>بادي كرايس</b> إلى <b style='color: #E17055; text-shadow: 0 0 8px #E17055;'>دينتي وراندال من كيركس</b>، يحصل الأبطال على دعم غير متوقع.<br>مصير <b style='color: #0984E3; text-shadow: 0 0 8px #0984E3;'>مدخني الحشيش في الضواحي</b> في كل مكان يعتمد على قدرتهما على <b style='color: #00CEC9; text-shadow: 0 0 8px #00CEC9;'>رمي اللكمات والإهانات</b>.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 60,
+    "Length": 5,
+    "CoverUrl": "https://archive.org/download/RPRM001/Jay%20and%20Silent%20Bob%20Chronic%20Blunt%20Punch%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Jay%20and%20Silent%20Bob%20Chronic%20Blunt%20Punch%20Background.jpg",
+    "MusicUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Jay%20and%20Silent%20Bob%20Chronic%20Blunt%20Punch%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 68.272915,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Beat 'em Up"],
+    "DeveloperNames": ["Interabang Entertainment"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP024",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "18 GB",
+            "executable": "Jay and Silent Bob Chronic Blunt Punch.exe",
+            "arguments": [],
+            "buildID": "20 April 2026",
+            "filename": "00751.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1777278834530_1",
+    "Name": "Puzzle Bobble Everybubble",
+    "SortingName": "",
+    "Description": "The story begins when our four bubble dragons—<b style='color: #FF6B6B; text-shadow: 0 0 8px #FF6B6B;'>Bub</b>, <b style='color: #4ECDC4; text-shadow: 0 0 8px #4ECDC4;'>Bob</b>, <b style='color: #FFD166; text-shadow: 0 0 8px #FFD166;'>Peb</b>, and <b style='color: #06D6A0; text-shadow: 0 0 8px #06D6A0;'>Pab</b>—arrive at the vibrant <b style='color: #118AB2; text-shadow: 0 0 8px #118AB2;'>Rainbow Island</b>.<br>They meet a peculiar new friend named <b style='color: #FF9F1C; text-shadow: 0 0 8px #FF9F1C;'>Miniroon</b>, who looks just like Bub but has a bubbly problem.<br>Unfortunately, Miniroon's uncontrollable <b style='color: #A663CC; text-shadow: 0 0 8px #A663CC;'>bubble-blowing</b> has covered the entire island in a colorful, chaotic mess.<br>The <b style='color: #EF476F; text-shadow: 0 0 8px #EF476F;'>bubble dragons</b> must now help their new friend stop the <b style='color: #7209B7; text-shadow: 0 0 8px #7209B7;'>bubble trouble</b> before it's too late.<br>Along the way, they encounter various <b style='color: #F72585; text-shadow: 0 0 8px #F72585;'>island residents</b> who are dealing with the bubbly <b style='color: #3A86FF; text-shadow: 0 0 8px #3A86FF;'>invasion</b>.<br>Their <b style='color: #FB5607; text-shadow: 0 0 8px #FB5607;'>adventure</b> takes them through <b style='color: #8338EC; text-shadow: 0 0 8px #8338EC;'>lush forests</b>, <b style='color: #FF006E; text-shadow: 0 0 8px #FF006E;'>sparkling beaches</b>, and <b style='color: #3A86FF; text-shadow: 0 0 8px #3A86FF;'>mysterious caves</b>.<br>Each location presents new <b style='color: #FFBE0B; text-shadow: 0 0 8px #FFBE0B;'>challenges</b> and <b style='color: #FB5607; text-shadow: 0 0 8px #FB5607;'>surprises</b> as they work to restore peace.<br>With teamwork and determination, they aim to solve the <b style='color: #06D6A0; text-shadow: 0 0 8px #06D6A0;'>mystery</b> behind Miniroon's bubbly outburst.<br>Can they save Rainbow Island from becoming a permanent bubble bath?",
+    "DescriptionArabic": "<div dir='rtl'>تبدأ القصة عندما تصل تنانين الفقاعات الأربعة — <b style='color: #FF6B6B; text-shadow: 0 0 8px #FF6B6B;'>بوب</b>، <b style='color: #4ECDC4; text-shadow: 0 0 8px #4ECDC4;'>بوب</b>، <b style='color: #FFD166; text-shadow: 0 0 8px #FFD166;'>بيب</b>، و <b style='color: #06D6A0; text-shadow: 0 0 8px #06D6A0;'>باب</b> — إلى <b style='color: #118AB2; text-shadow: 0 0 8px #118AB2;'>جزيرة قوس قزح</b> النابضة بالحياة.<br>يلتقون بصديق جديد غريب الأطوار يدعى <b style='color: #FF9F1C; text-shadow: 0 0 8px #FF9F1C;'>ميني رون</b>، الذي يشبه بوب لكنه يعاني من مشكلة فقاعية.<br>لسوء الحظ، فإن <b style='color: #A663CC; text-shadow: 0 0 8px #A663CC;'>نفخ الفقاعات</b> غير المنضبط لميني رون قد غطى الجزيرة بأكملها بفوضى ملونة.<br>يجب على <b style='color: #EF476F; text-shadow: 0 0 8px #EF476F;'>تنانين الفقاعات</b> الآن مساعدة صديقهم الجديد لوقف <b style='color: #7209B7; text-shadow: 0 0 8px #7209B7;'>مشكلة الفقاعات</b> قبل فوات الأوان.<br>على طول الطريق، يقابلون <b style='color: #F72585; text-shadow: 0 0 8px #F72585;'>سكان الجزيرة</b> المختلفين الذين يعانون من <b style='color: #3A86FF; text-shadow: 0 0 8px #3A86FF;'>الغزو</b> الفقاعي.<br>تأخذهم <b style='color: #FB5607; text-shadow: 0 0 8px #FB5607;'>مغامرتهم</b> عبر <b style='color: #8338EC; text-shadow: 0 0 8px #8338EC;'>غابات خضراء</b>، <b style='color: #FF006E; text-shadow: 0 0 8px #FF006E;'>شواطئ لامعة</b>، و <b style='color: #3A86FF; text-shadow: 0 0 8px #3A86FF;'>كهوف غامضة</b>.<br>كل موقع يقدم <b style='color: #FFBE0B; text-shadow: 0 0 8px #FFBE0B;'>تحديات</b> و <b style='color: #FB5607; text-shadow: 0 0 8px #FB5607;'>مفاجآت</b> جديدة بينما يعملون على استعادة السلام.<br>بالتعاون والعزيمة، يهدفون إلى حل <b style='color: #06D6A0; text-shadow: 0 0 8px #06D6A0;'>اللغز</b> وراء نوبة الفقاعات لميني رون.<br>هل يمكنهم إنقاذ جزيرة قوس قزح من أن تصبح حمام فقاعات دائم؟</div>",
+    "ReleaseDate": "2023",
+    "CriticScore": 70,
+    "Length": 15,
+    "CoverUrl": "https://archive.org/download/RPRM001/Puzzle%20Bobble%20Everybubble%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Puzzle%20Bobble%20Everybubble%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Puzzle%20Bobble%20Everybubble%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Puzzle%20Bobble%20Everybubble%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Puzzle"],
+    "DeveloperNames": ["Taito Corporation"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP024",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "PuzzleBobble EveryBubble.exe",
+            "arguments": [],
+            "buildID": "23 April 2026",
+            "filename": "00752.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1777278834530_2",
+    "Name": "Rumbral",
+    "SortingName": "",
+    "Description": "You wake up in a dark, mysterious forest with no memory of who you are or why you're there.<br>The world around you is filled with abandoned structures and puzzles, perhaps left behind by others.<br>You discover strange <b style='color: #8b008b; text-shadow: 0 0 8px #8b008b;'>magenta liquids</b> that reveal secrets of the past.<br>These <b style='color: #9370db; text-shadow: 0 0 8px #9370db;'>puddles</b> allow you to <b style='color: #9932cc; text-shadow: 0 0 8px #9932cc;'>travel</b> to another <b style='color: #9400d3; text-shadow: 0 0 8px #9400d3;'>reality</b>, shifting between <b style='color: #8a2be2; text-shadow: 0 0 8px #8a2be2;'>parallel worlds</b> to see a <b style='color: #ba55d3; text-shadow: 0 0 8px #ba55d3;'>restored version</b> of what was.<br>Fragments of a story are scattered, hints of a <b style='color: #4b0082; text-shadow: 0 0 8px #4b0082;'>lost civilization</b> that experimented with these forces.<br>Collectible items, remnants of human life, offer introspective insights into your own <b style='color: #800080; text-shadow: 0 0 8px #800080;'>fate</b>.<br>The <b style='color: #483d8b; text-shadow: 0 0 8px #483d8b;'>magenta substance</b> connects to a <b style='color: #7b68ee; text-shadow: 0 0 8px #7b68ee;'>disruption</b> of space and time.<br>You might uncover secrets about yourself, but you are not alone in this <b style='color: #2f4f4f; text-shadow: 0 0 8px #2f4f4f;'>desolate place</b>.<br>The truth of this <b style='color: #696969; text-shadow: 0 0 8px #696969;'>broken world</b> is yours to reconstruct from the <b style='color: #dda0dd; text-shadow: 0 0 8px #dda0dd;'>silent ruins</b>.",
+    "DescriptionArabic": "<div dir='rtl'>تستيقظ في غابة مظلمة وغامضة بدون ذاكرة عن هويتك أو سبب وجودك هناك.<br>العالم من حولك مليء بمبانٍ مهجورة وألغاز، ربما تركها آخرون.<br>تكتشف سوائل <b style='color: #8b008b; text-shadow: 0 0 8px #8b008b;'>أرجوانية غريبة</b> تكشف أسرار الماضي.<br>تسمح لك هذه <b style='color: #9370db; text-shadow: 0 0 8px #9370db;'>البرك</b> بـ <b style='color: #9932cc; text-shadow: 0 0 8px #9932cc;'>السفر</b> إلى <b style='color: #9400d3; text-shadow: 0 0 8px #9400d3;'>واقع</b> آخر، والانتقال بين <b style='color: #8a2be2; text-shadow: 0 0 8px #8a2be2;'>عوالم متوازية</b> لترى <b style='color: #ba55d3; text-shadow: 0 0 8px #ba55d3;'>نسخة مستعادة</b> مما كان.<br>تتشتت أجزاء القصة، مشيرة إلى <b style='color: #4b0082; text-shadow: 0 0 8px #4b0082;'>حضارة مفقودة</b> جربت هذه القوى.<br>تقدم العناصر القابلة للتجميع، بقايا الحياة البشرية، رؤى تأملية في <b style='color: #800080; text-shadow: 0 0 8px #800080;'>مصيرك</b> أنت.<br>ترتبط <b style='color: #483d8b; text-shadow: 0 0 8px #483d8b;'>المادة الأرجوانية</b> بـ <b style='color: #7b68ee; text-shadow: 0 0 8px #7b68ee;'>اضطراب</b> في المكان والزمان.<br>قد تكتشف أسرارًا عن نفسك، لكنك لست وحيدًا في هذا <b style='color: #2f4f4f; text-shadow: 0 0 8px #2f4f4f;'>المكان المقفر</b>.<br>حقيقة هذا <b style='color: #696969; text-shadow: 0 0 8px #696969;'>العالم المحطم</b> هي مهمتك لإعادة بنائها من <b style='color: #dda0dd; text-shadow: 0 0 8px #dda0dd;'>الأنقاض الصامتة</b>.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 60,
+    "Length": 10,
+    "CoverUrl": "https://archive.org/download/RPRM001/Rumbral%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Rumbral%20Background.jpg",
+    "MusicUrl": "",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Rumbral%20Trailer.mp4",
+    "videoStart": 2.062333,
+    "videoEnd": 51.500442,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Platformer"],
+    "DeveloperNames": ["OSEA Innovations"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP024",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "637 MB",
+            "executable": "Rumbral.exe",
+            "arguments": [],
+            "buildID": "23 April 2026",
+            "filename": "00753.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1777278834530_3",
+    "Name": "Vampire Crawlers",
+    "SortingName": "",
+    "Description": "A brave survivor descends into a <b style='color: #FF6B6B; text-shadow: 0 0 8px #FF6B6B;'>dungeon</b> teeming with <b style='color: #4ECDC4; text-shadow: 0 0 8px #4ECDC4;'>monsters</b>, seeking legendary <b style='color: #FFD166; text-shadow: 0 0 8px #FFD166;'>treasures</b> and a way to survive the endless night.<br>The familiar halls are now a first-person labyrinth, where every turn could reveal a <b style='color: #06D6A0; text-shadow: 0 0 8px #06D6A0;'>boss</b> or a hidden cache of power.<br>Ancient <b style='color: #118AB2; text-shadow: 0 0 8px #118AB2;'>weapons</b> whisper promises of <b style='color: #073B4C; text-shadow: 0 0 8px #073B4C;'>evolution</b>, transforming into tools of mass destruction against the encroaching <b style='color: #EF476F; text-shadow: 0 0 8px #EF476F;'>hordes</b>.<br>The goal is simple: push deeper, find the <b style='color: #7209B7; text-shadow: 0 0 8px #7209B7;'>shovel</b>, and dig to the next <b style='color: #F15BB5; text-shadow: 0 0 8px #F15BB5;'>floor</b>, all while the <b style='color: #9B5DE5; text-shadow: 0 0 8px #9B5DE5;'>chaos</b> escalates.<br>Occasionally, a surprise <b style='color: #00BBF9; text-shadow: 0 0 8px #00BBF9;'>ambush</b> breaks the routine, testing one's readiness for the coming <b style='color: #00F5D4; text-shadow: 0 0 8px #00F5D4;'>carnage</b>.<br>It's a desperate, <b style='color: #FB5607; text-shadow: 0 0 8px #FB5607;'>turbocharged</b> crawl through darkness, where only the most busted strategies lead to survival.",
+    "DescriptionArabic": "<div dir='rtl'>ينزل <b style='color: #FF6B6B; text-shadow: 0 0 8px #FF6B6B;'>ناجٍ</b> شجاع إلى <b style='color: #4ECDC4; text-shadow: 0 0 8px #4ECDC4;'>سرداب</b> تعجّ به <b style='color: #FFD166; text-shadow: 0 0 8px #FFD166;'>وحوش</b>، ساعياً وراء <b style='color: #06D6A0; text-shadow: 0 0 8px #06D6A0;'>كنوز</b> أسطورية وطريقة للنجاة من الليل الأبدي.<br>أصبحت القاعات المألوفة متاهة منظورها من الشخص الأول، حيث قد يكشف كل منعطف عن <b style='color: #118AB2; text-shadow: 0 0 8px #118AB2;'>زعيم</b> أو مخبأ خفي للقوة.<br>تهمس <b style='color: #073B4C; text-shadow: 0 0 8px #073B4C;'>أسلحة</b> قديمة بوعود <b style='color: #EF476F; text-shadow: 0 0 8px #EF476F;'>تطور</b>، تتحول إلى أدوات دمار شامل ضد <b style='color: #7209B7; text-shadow: 0 0 8px #7209B7;'>جحافل</b> الزاحفين.<br>الهدف بسيط: التقدم أعمق، العثور على <b style='color: #F15BB5; text-shadow: 0 0 8px #F15BB5;'>مجرفة</b>، والحفر إلى <b style='color: #9B5DE5; text-shadow: 0 0 8px #9B5DE5;'>الطابق</b> التالي، بينما يتصاعد <b style='color: #00BBF9; text-shadow: 0 0 8px #00BBF9;'>الفوضى</b>.<br>أحياناً، يكسر <b style='color: #00F5D4; text-shadow: 0 0 8px #00F5D4;'>كمين</b> مفاجئ الروتين، مختبراً استعداد المرء لـ <b style='color: #FB5607; text-shadow: 0 0 8px #FB5607;'>مذبحة</b> قادمة.<br>إنه زحف يائس <b style='color: #FF6B6B; text-shadow: 0 0 8px #FF6B6B;'>بمحرك توربو</b> عبر العتمة، حيث لا تؤدي إلا الاستراتيجيات الأكثر تحطيماً إلى البقاء.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
+    "Length": 5,
+    "CoverUrl": "https://archive.org/download/RPRM001/Vampire%20Crawlers%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Vampire%20Crawlers%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Vampire%20Crawlers%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Vampire%20Crawlers%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Card & Board Games"],
+    "DeveloperNames": ["poncle"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP024",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "1 GB",
+            "executable": "Vampire Crawlers.exe",
+            "arguments": [],
+            "buildID": "21 April 2026",
+            "filename": "00754.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1777281590369_0",
+    "Name": "Kerbal Space Program",
+    "SortingName": "Kerbal Space Program 01",
+    "Description": "In the charming world of <b style='color: #FF6B6B; text-shadow: 0 0 8px #FF6B6B;'>Kerbin</b>, the fearless <b style='color: #4ECDC4; text-shadow: 0 0 8px #4ECDC4;'>Kerbals</b> launch their chaotic <b style='color: #FFE66D; text-shadow: 0 0 8px #FFE66D;'>space program</b> with dreams of reaching the stars.<br>Their early targets, the <b style='color: #F7A8B8; text-shadow: 0 0 8px #F7A8B8;'>Mun</b> and <b style='color: #55C1FF; text-shadow: 0 0 8px #55C1FF;'>Minmus</b>, are just the beginning as they aim to explore the entire <b style='color: #95E1D3; text-shadow: 0 0 8px #95E1D3;'>Kerbol system</b>.<br>Venturing to planets like the giant <b style='color: #FF9A76; text-shadow: 0 0 8px #FF9A76;'>Jool</b>, they must master <b style='color: #D291BC; text-shadow: 0 0 8px #D291BC;'>orbital mechanics</b> and survive <b style='color: #FF6F61; text-shadow: 0 0 8px #FF6F61;'>cosmic radiation</b>.<br>Their journeys are a mix of hilarious <b style='color: #FF005C; text-shadow: 0 0 8px #FF005C;'>catastrophe</b> and glorious <b style='color: #FFDF00; text-shadow: 0 0 8px #FFDF00;'>triumph</b>, often within moments of each other.<br>From building wobbly <b style='color: #00D4FF; text-shadow: 0 0 8px #00D4FF;'>space stations</b> to surviving <b style='color: #6B4226; text-shadow: 0 0 8px #6B4226;'>atmospheric re-entry</b>, every mission is an adventure.<br>The Kerbals' <b style='color: #9ACD32; text-shadow: 0 0 8px #9ACD32;'>engineering blunders</b> are as legendary as their courage, led by the dauntless <b style='color: #4ECDC4; text-shadow: 0 0 8px #4ECDC4;'>Jebediah Kerman</b>.<br>Through perseverance and a bit of luck, these green pioneers push the boundaries of their own understanding, one explosive step at a time.",
+    "DescriptionArabic": "<div dir='rtl'>في العالم الساحر لـ <b style='color: #FF6B6B; text-shadow: 0 0 8px #FF6B6B;'>كيربين</b>، يطلق <b style='color: #4ECDC4; text-shadow: 0 0 8px #4ECDC4;'>الكيربال</b> الشجعان برنامجهم الفضائي الفوضوي بأحلام الوصول إلى النجوم.<br>أهدافهم الأولى، <b style='color: #F7A8B8; text-shadow: 0 0 8px #F7A8B8;'>مون</b> و <b style='color: #55C1FF; text-shadow: 0 0 8px #55C1FF;'>مينموس</b>، ليست سوى البداية حيث يهدفون لاستكشاف نظام <b style='color: #95E1D3; text-shadow: 0 0 8px #95E1D3;'>كيربول</b> بأكمله.<br>بالتوجه إلى كواكب مثل العملاق <b style='color: #FF9A76; text-shadow: 0 0 8px #FF9A76;'>جول</b>، يجب عليهم إتقان <b style='color: #D291BC; text-shadow: 0 0 8px #D291BC;'>الميكانيكا المدارية</b> والنجاة من <b style='color: #FF6F61; text-shadow: 0 0 8px #FF6F61;'>الإشعاع الكوني</b>.<br>رحلاتهم مزيج من <b style='color: #FF005C; text-shadow: 0 0 8px #FF005C;'>الكوارث</b> المضحكة و<b style='color: #FFDF00; text-shadow: 0 0 8px #FFDF00;'>الانتصارات</b> المجيدة، غالبًا في غضون لحظات من بعضها.<br>من بناء محطات فضائية مهتزة إلى النجاة من <b style='color: #6B4226; text-shadow: 0 0 8px #6B4226;'>العودة للغلاف الجوي</b>، كل مهمة هي مغامرة.<br><b style='color: #9ACD32; text-shadow: 0 0 8px #9ACD32;'>أخطاء الهندسة</b> لدى الكيربال أسطورية بقدر شجاعتهم، بقيادة <b style='color: #4ECDC4; text-shadow: 0 0 8px #4ECDC4;'>جابيديا كيرمان</b> الجريء.<br>من خلال المثابرة وقليل من الحظ، يدفع هؤلاء الرواد الخضر حدود فهمهم الخاص، خطوة انفجارية واحدة في كل مرة.</div>",
+    "ReleaseDate": "2011",
+    "CriticScore": 80,
+    "Length": 245,
+    "CoverUrl": "https://archive.org/download/RPRM001/Kerbal%20Space%20Program%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Kerbal%20Space%20Program%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Kerbal%20Space%20Program%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Kerbal%20Space%20Program%20Trailer.mp4",
+    "videoStart": 3.469552,
+    "videoEnd": 123.959036,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Simulation"],
+    "DeveloperNames": ["Squad"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP024",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "6 GB",
+            "executable": "KSP_x64.exe",
+            "arguments": [],
+            "buildID": "11 June 2024",
+            "filename": "00755.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1777283239700_0",
+    "Name": "Kerbal Space Program 2",
+    "SortingName": "Kerbal Space Program 02",
+    "Description": "The visionary space agency of <b style='color: #4dabf7; text-shadow: 0 0 8px #4dabf7;'>Kerbal Space Center</b> embarks on its most ambitious program yet.<br>Commanders are tasked with pushing the boundaries of known science to explore the mysteries of the <b style='color: #ff922b; text-shadow: 0 0 8px #ff922b;'>Kerbol System</b> and beyond.<br>Their journey begins with constructing powerful spacecraft from a new generation of <b style='color: #fab005; text-shadow: 0 0 8px #fab005;'>technology</b>.<br>The goal is to establish permanent footholds on distant worlds through ambitious <b style='color: #40c057; text-shadow: 0 0 8px #40c057;'>colonies</b>.<br>These outposts must harvest local <b style='color: #fd7e14; text-shadow: 0 0 8px #fd7e14;'>resources</b> to fuel further expansion into the cosmos.<br>Brave crews will venture to strange new star systems like the molten <b style='color: #e03131; text-shadow: 0 0 8px #e03131;'>Charr</b> and the binary giants <b style='color: #5c7cfa; text-shadow: 0 0 8px #5c7cfa;'>Rask and Rusk</b>.<br>Each celestial body holds its own <b style='color: #be4bdb; text-shadow: 0 0 8px #be4bdb;'>secrets</b> and <b style='color: #0ca678; text-shadow: 0 0 8px #0ca678;'>anomalies</b> waiting to be discovered.<br>The ultimate challenge lies in achieving <b style='color: #1c7ed6; text-shadow: 0 0 8px #1c7ed6;'>interstellar travel</b>, a feat requiring monumental innovation.<br>Pioneers will face the relentless gravity of <b style='color: #f783ac; text-shadow: 0 0 8px #f783ac;'>Ovin</b> and navigate complex orbital <b style='color: #7950f2; text-shadow: 0 0 8px #7950f2;'>maneuvers</b>.<br>This grand odyssey is a testament to curiosity, engineering, and the spirit of <b style='color: #ffd43b; text-shadow: 0 0 8px #ffd43b;'>exploration</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>تشرع وكالة الفضاء <b style='color: #4dabf7; text-shadow: 0 0 8px #4dabf7;'>كربل للفضاء</b> في برنامجها الأكثر طموحاً حتى الآن.<br>يكلف القادة بدفع حدود العلم المعروف لاستكشاف غموض <b style='color: #ff922b; text-shadow: 0 0 8px #ff922b;'>نظام كيربول</b> وما بعده.<br>تبدأ رحلتهم ببناء مركبات فضائية قوية من جيل جديد من <b style='color: #fab005; text-shadow: 0 0 8px #fab005;'>التكنولوجيا</b>.<br>الهدف هو إرساء موطئ قدم دائم على عوالم بعيدة من خلال <b style='color: #40c057; text-shadow: 0 0 8px #40c057;'>مستعمرات</b> طموحة.<br>يجب على هذه المناطق الأمامية حصاد <b style='color: #fd7e14; text-shadow: 0 0 8px #fd7e14;'>الموارد</b> المحلية لتمديد التوسع في الكون.<br>ستغامر طواقم شجاعة إلى أنظمة نجمية جديدة وغريبة مثل الكوكب المنصهر <b style='color: #e03131; text-shadow: 0 0 8px #e03131;'>تشار</b> والعملاقين الثنائيين <b style='color: #5c7cfa; text-shadow: 0 0 8px #5c7cfa;'>راسك وروسك</b>.<br>يحمل كل جسم سماوي <b style='color: #be4bdb; text-shadow: 0 0 8px #be4bdb;'>أسراره</b> و <b style='color: #0ca678; text-shadow: 0 0 8px #0ca678;'>شذوذه</b> الخاصة في انتظار الاكتشاف.<br>التحدي الأكبر يكمن في تحقيق <b style='color: #1c7ed6; text-shadow: 0 0 8px #1c7ed6;'>السفر بين النجوم</b>، وهو إنجاز يتطلب ابتكاراً هائلاً.<br>سيواجه الرواد الجاذبية الشديدة لكوكب <b style='color: #f783ac; text-shadow: 0 0 8px #f783ac;'>أوفين</b> ويتنقلون عبر <b style='color: #7950f2; text-shadow: 0 0 8px #7950f2;'>مناورات</b> مدارية معقدة.<br>هذه الرحلة الملحمية هي شهادة على الفضول والهندسة وروح <b style='color: #ffd43b; text-shadow: 0 0 8px #ffd43b;'>الاستكشاف</b>.<br></div>",
+    "ReleaseDate": "2023",
+    "CriticScore": 50,
+    "Length": 5,
+    "CoverUrl": "https://archive.org/download/RPRM001/Kerbal%20Space%20Program%202%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Kerbal%20Space%20Program%202%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Kerbal%20Space%20Program%202%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Kerbal%20Space%20Program%202%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Simulation"],
+    "DeveloperNames": ["Intercept Games"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP024",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "31 GB",
+            "executable": "KSP2_x64.exe",
+            "arguments": [],
+            "buildID": "11 June 2024",
+            "filename": "00756.zip"
           }
         ]
       }
