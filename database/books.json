@@ -7038,20 +7038,20 @@
     "Description": "<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Rin Okumura</b> has always been a troubled teenager—violent, isolated, and feared by everyone around him.<br>When his adoptive father <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Father Fujimoto</b> is killed by a demon, Rin discovers the horrifying truth: he is the son of <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Satan</b>, the ruler of <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Gehenna</b>.<br>Burning with rage and wielding the cursed <b style='color: #0000CD; text-shadow: 0 0 8px #0000CD;'>Kurikara</b> blade that unleashes his <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>blue demonic flames</b>, Rin enrolls at <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>True Cross Academy</b> to become an <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>exorcist</b>—swearing to defeat his own father.<br>Alongside his genius twin brother <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>Yukio</b>, he faces <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>demon kings</b>, secret conspiracies within the <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Vatican</b>, and the constant threat of losing himself to the <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>darkness</b> in his blood.<br>Every battle draws him closer to the one enemy he cannot escape: the <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>monster within</b>.",
     "DescriptionArabic": "<div dir='rtl'><b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>رين أوكومورا</b> كان دائمًا مراهقًا مشاغبًا—عنيفًا، منعزلًا، يخشاه الجميع.<br>عندما يُقتل والده بالتبني <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الأب فوجيموتو</b> على يد شيطان، يكتشف رين الحقيقة المرعبة: إنه ابن <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الشيطان</b>، حاكم <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>جهنم</b>.<br>مشتعلًا بالغضب وحاملًا سيف <b style='color: #0000CD; text-shadow: 0 0 8px #0000CD;'>كوريكارا</b> الملعون الذي يُطلق <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>نيرانه الزرقاء الشيطانية</b>، يلتحق رين بأكاديمية <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الصليب الحقيقي</b> ليصبح <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>طاردًا للأرواح</b>—مقسمًا على هزيمة أبيه.<br>إلى جانب شقيقه التوأم العبقري <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>يوكيو</b>، يواجه <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>ملوك الشياطين</b> ومؤامرات سرية داخل <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>الفاتيكان</b>، والتهديد الدائم بفقدان نفسه أمام <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الظلام</b> في دمائه.<br>كل معركة تقربه من العدو الذي لا يستطيع الهرب منه: <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الوحش في داخله</b>.</div>",
     "ReleaseDate": "2009",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Blue%20Exorcist%20Cover.jpg",
+    "Genre": ["Supernatural"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "ongoing",
       "currentVolume": 31
     },
-    "CoverUrl": "https://archive.org/download/RPRM001/Blue%20Exorcist%20Cover.jpg",
-    "Genre": ["Supernatural"],
-    "Tags": ["Manga"],
     "packageUrl": {
       "identifier": "RBRB002",
       "filename": "00346.zip",
       "fileSize": "5.0GB",
       "hasAudiobook": false
-    },
-    "CriticScore": 80
+    }
   },
   {
     "_id": "book_1775602429439_23nz4s2lu",
@@ -7061,6 +7061,7 @@
     "Description": "In a world besieged by the <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Millennium Earl</b>, a demonic puppet-master who transforms grief into monstrous <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Akuma</b>, young <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>Allen Walker</b> joins the <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>Black Order</b> as an exorcist.<br>His left arm houses a rare anti-Akuma weapon called <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Innocence</b>, and his cursed left eye can see the trapped souls within each demon.<br>Alongside companions like the fierce <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Kanda</b>, the cheerful <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Lenalee</b>, and the cunning <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Lavi</b>, Allen wages war against the Earl's <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>Noah Family</b>—descendants of Noah who serve as apostles of destruction.<br>But Allen carries a dark secret: the <b style='color: #696969; text-shadow: 0 0 8px #696969;'>Fourteenth Noah</b> sleeps inside him, threatening to consume his identity.<br>Caught between loyalty to the Order and the <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>shadow</b> that grows within, Allen must decide what he's willing to sacrifice for a world that fears him.<br>The line between <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>exorcist</b> and <b style='color: #483D8B; text-shadow: 0 0 8px #483D8B;'>enemy</b> has never been thinner.",
     "DescriptionArabic": "<div dir='rtl'>في عالم يحاصره <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>إيرل الألفية</b>، محرك الدمى الشيطاني الذي يحوّل الحزن إلى وحوش <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>أكوما</b> مرعبة، ينضم الشاب <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>آلن ووكر</b> إلى <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>الفرقة السوداء</b> كطارد أرواح.<br>ذراعه اليسرى تحوي سلاحًا نادرًا مضادًا للأكوما يُدعى <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>البراءة</b>، وعينه الملعونة ترى الأرواح المحبوسة داخل كل شيطان.<br>مع رفاقه <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>كاندا</b> الشرس و<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>ليناليي</b> المرحة و<b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>لافي</b> الماكر، يخوض آلن حربًا ضد <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>عائلة نوح</b>—أحفاد نوح الذين يخدمون كرسل للدمار.<br>لكن آلن يحمل سرًا مظلمًا: <b style='color: #696969; text-shadow: 0 0 8px #696969;'>نوح الرابع عشر</b> يرقد بداخله، يهدد بابتلاع هويته.<br>محاصرًا بين ولائه للفرقة و<b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>الظل</b> الذي ينمو في داخله، على آلن أن يقرر ما الذي سيضحي به من أجل عالم يخشاه.<br>الخط الفاصل بين <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>طارد الأرواح</b> و<b style='color: #483D8B; text-shadow: 0 0 8px #483D8B;'>العدو</b> لم يكن يومًا بهذا الرفع.</div>",
     "ReleaseDate": "2004",
+    "CriticScore": 80,
     "CoverUrl": "https://archive.org/download/RPRM001/D.Gray-man%20Cover.jpg",
     "Genre": ["Dark Fantasy"],
     "Tags": ["Manga"],
@@ -7069,8 +7070,7 @@
       "filename": "00347.zip",
       "fileSize": "5.0GB",
       "hasAudiobook": false
-    },
-    "CriticScore": 80
+    }
   },
   {
     "_id": "book_1775602593398_dyrrqvre3",
@@ -7080,20 +7080,20 @@
     "Description": "On the peaceful <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>Dermline Island</b>, a boy named <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Dai</b> dreams of becoming a great hero like <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Avan</b>, the legendary swordsman who once defeated the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Dark Lord</b>.<br>When the demonic <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Hadlar</b> is resurrected by the terrifying <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Great Demon King Vearn</b>, monsters turn hostile and Avan sacrifices himself to protect his students.<br>Inheriting the sacred mark of the <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Dragon Knight</b> on his forehead, Dai embarks on a journey with his loyal friend <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Popp</b>, the timid mage who must find his own courage.<br>They battle the <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>Dark Army</b>'s six commanders, forge legendary weapons, and uncover Dai's true origins as the son of the <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Dragon Knight Baran</b>.<br>With the power of <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>Avan Strash</b> and bonds of friendship, Dai charges toward <b style='color: #696969; text-shadow: 0 0 8px #696969;'>Vearn's Palace</b> for a final stand against absolute <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>darkness</b>.",
     "DescriptionArabic": "<div dir='rtl'>في جزيرة <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>ديرملاين</b> الهادئة، يحلم فتى يُدعى <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>داي</b> بأن يصبح بطلًا عظيمًا مثل <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>آفان</b>، المبارز الأسطوري الذي هزم <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>سيد الظلام</b> ذات يوم.<br>عندما يُبعث الشيطاني <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>هادلار</b> من جديد على يد <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>ملك الشياطين الأكبر فيرن</b> المرعب، تتحول الوحوش إلى أعداء ويضحي آفان بنفسه لحماية تلاميذه.<br>حاملًا علامة <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>فارس التنين</b> المقدسة على جبينه، ينطلق داي في رحلة مع صديقه المخلص <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>بوب</b>، الساحر الخجول الذي عليه أن يجد شجاعته.<br>يواجهون قادة <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>جيش الظلام</b> الستة، ويصنعون أسلحة أسطورية، ويكشفون أصول داي الحقيقية كابن <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>فارس التنين باران</b>.<br>بقوة <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>آفان ستراش</b> وروابط الصداقة، يندفع داي نحو <b style='color: #696969; text-shadow: 0 0 8px #696969;'>قصر فيرن</b> للمواجهة الأخيرة ضد <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الظلام</b> المطلق.</div>",
     "ReleaseDate": "1989",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Dragon%20Quest%20Dai%20no%20Daibouken%20Cover.jpg",
+    "Genre": ["Fantasy"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "completed",
       "currentVolume": 22
     },
-    "CoverUrl": "https://archive.org/download/RPRM001/Dragon%20Quest%20Dai%20no%20Daibouken%20Cover.jpg",
-    "Genre": ["Fantasy"],
-    "Tags": ["Manga"],
     "packageUrl": {
       "identifier": "RBRB002",
       "filename": "00348.zip",
       "fileSize": "2.0GB",
       "hasAudiobook": false
-    },
-    "CriticScore": 80
+    }
   },
   {
     "_id": "book_1775603055145_gnxsyvygl",
@@ -7103,20 +7103,20 @@
     "Description": "Fifty years ago, a war between the forces of light and the destructive power of <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Dark Bring</b> shattered a tenth of the world in an event known as <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Overdrive</b>.<br>Now a carefree teenager named <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Haru Glory</b> inherits the <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>Rave Stones</b>—holy relics of light scattered across the globe—and the legendary <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Ten Commandments</b> sword that shifts forms to match his resolve.<br>Joined by the strange creature <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Plue</b>, the fiery gambler <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Musica</b>, and the amnesiac girl <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Elie</b> whose forgotten past holds the key to everything, Haru sets out to destroy every Dark Bring.<br>Standing in his way is the criminal syndicate <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>Demon Card</b>, led by the ruthless <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>King</b>, who seeks to plunge the world into eternal <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>darkness</b>.<br>The <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Rave Master</b>'s journey is one of friendship, sacrifice, and the belief that light can outlast any shadow.",
     "DescriptionArabic": "<div dir='rtl'>قبل خمسين عامًا، حرب بين قوى النور والطاقة المدمرة لـ<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>دارك برينغ</b> حطمت عُشر العالم في حدث عُرف بـ<b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>أوفردرايف</b>.<br>الآن مراهق مرح يُدعى <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>هارو غلوري</b> يرث <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>أحجار ريف</b>—الآثار المقدسة المبعثرة حول العالم—وسيف <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>الوصايا العشر</b> الأسطوري الذي يتحول ليطابق عزيمته.<br>برفقة المخلوق الغريب <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>بلو</b>، والمقامر الناري <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>موسيكا</b>، والفتاة فاقدة الذاكرة <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>إيلي</b> التي يحمل ماضيها المنسي مفتاح كل شيء، ينطلق هارو لتدمير كل دارك برينغ.<br>يقف في طريقه تنظيم <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>ديمون كارد</b> الإجرامي بقيادة <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الملك</b> القاسي الذي يسعى لإغراق العالم في <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>ظلام</b> أبدي.<br>رحلة <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>سيد ريف</b> هي رحلة صداقة وتضحية وإيمان بأن النور يصمد أمام أي ظل.</div>",
     "ReleaseDate": "1999",
+    "CriticScore": 60,
+    "CoverUrl": "https://archive.org/download/RPRM001/Rave%20Master%20Cover.jpg",
+    "Genre": ["Adventure"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "completed",
       "currentVolume": 35
     },
-    "CoverUrl": "https://archive.org/download/RPRM001/Rave%20Master%20Cover.jpg",
-    "Genre": ["Adventure"],
-    "Tags": ["Manga"],
     "packageUrl": {
       "identifier": "RBRB002",
       "filename": "00349.zip",
       "fileSize": "8.0GB",
       "hasAudiobook": false
-    },
-    "CriticScore": 60
+    }
   },
   {
     "_id": "book_1775603183580_sywu851zc",
@@ -7126,20 +7126,20 @@
     "Description": "In a land called <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Shangri-La</b>, humans and demons once coexisted in peace—until a forbidden <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>resurrection experiment</b> sent a wave of madness through the demon population.<br>The <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Sanbutsushin</b>—three divine aspects of Buddha—order the rogue priest <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>Genjo Sanzo</b> to journey west and stop the ritual.<br>Sanzo is a chain-smoking, pistol-wielding monk with no patience for holiness, joined by three reformed demons: the insatiable <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Goku</b>, the lecherous <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>Gojyo</b>, and the gentle but deadly <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>Hakkai</b>.<br>Together, these four misfits drive westward in a <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>jeep that's actually a dragon</b>, fighting <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>assassins</b>, war princes, and the forces of the <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Gyumaoh</b> resurrection.<br>Their pasts are soaked in <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>blood</b> and <b style='color: #696969; text-shadow: 0 0 8px #696969;'>grief</b>, and each step west forces them to confront the <b style='color: #483D8B; text-shadow: 0 0 8px #483D8B;'>sins</b> they thought they left behind.",
     "DescriptionArabic": "<div dir='rtl'>في أرض تُدعى <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>شانغري-لا</b>، تعايش البشر والشياطين بسلام—حتى أرسلت <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>تجربة بعث محرمة</b> موجة جنون عبر الشياطين.<br><b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>سانبوتسوشين</b>—الوجوه الإلهية الثلاثة لبوذا—يأمرون الكاهن المتمرد <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>جينجو سانزو</b> بالسفر غربًا لإيقاف الطقوس.<br>سانزو كاهن يدخن ويحمل مسدسًا بلا صبر على القداسة، يرافقه ثلاثة شياطين تائبون: <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>غوكو</b> النهم، و<b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>غوجيو</b> الماجن، و<b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>هاكاي</b> اللطيف القاتل.<br>معًا، يقود هؤلاء الأربعة المنبوذون <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>سيارة جيب هي في الحقيقة تنين</b> غربًا، يقاتلون <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>القتلة</b> وأمراء الحرب وقوى بعث <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>غيوماو</b>.<br>ماضيهم مغمور بـ<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الدماء</b> و<b style='color: #696969; text-shadow: 0 0 8px #696969;'>الحزن</b>، وكل خطوة غربًا تجبرهم على مواجهة <b style='color: #483D8B; text-shadow: 0 0 8px #483D8B;'>الذنوب</b> التي ظنوا أنهم تركوها خلفهم.</div>",
     "ReleaseDate": "1997",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Saiyuki%20Cover.jpg",
+    "Genre": ["Fantasy"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "completed",
       "currentVolume": 4
     },
-    "CoverUrl": "https://archive.org/download/RPRM001/Saiyuki%20Cover.jpg",
-    "Genre": ["Fantasy"],
-    "Tags": ["Manga"],
     "packageUrl": {
       "identifier": "RBRB002",
       "filename": "00350.zip",
       "fileSize": "2.0GB",
       "hasAudiobook": false
-    },
-    "CriticScore": 80
+    }
   },
   {
     "_id": "book_1775603330079_gqn325pvb",
@@ -7149,20 +7149,20 @@
     "Description": "When the <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Empire of Szaalenden</b> faced annihilation, fourteen heroes marched into enemy territory—but only seven returned as the celebrated <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Seven Heroes</b>.<br>The other seven were branded <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>traitors</b> and executed, their names erased from history.<br>The truth is far darker: the Seven Heroes betrayed their comrades, stole their glory, and murdered them to hide their own <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>cowardice</b>.<br>One of the falsely accused, <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>Koinzell</b>, survived—reborn in the body of a young boy with <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>black blades</b> fused to his flesh, carrying centuries of <b style='color: #696969; text-shadow: 0 0 8px #696969;'>rage</b>.<br>He cuts a bloody path through the empire, hunting each <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>false hero</b> to expose the <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>lie</b> that built a nation.<br>Every kill peels back another layer of <b style='color: #483D8B; text-shadow: 0 0 8px #483D8B;'>corruption</b>, revealing an empire rotting from within under the weight of its own fabricated <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>legend</b>.",
     "DescriptionArabic": "<div dir='rtl'>عندما واجهت <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>إمبراطورية زالندن</b> الفناء، زحف أربعة عشر بطلًا نحو أراضي العدو—لكن سبعة فقط عادوا كأبطال محتفى بهم: <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الأبطال السبعة</b>.<br>السبعة الآخرون وُصموا بـ<b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الخيانة</b> وأُعدموا ومُحيت أسماؤهم من التاريخ.<br>الحقيقة أشد ظلامًا: الأبطال السبعة خانوا رفاقهم وسرقوا مجدهم وقتلوهم لإخفاء <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>جبنهم</b>.<br>أحد المتهمين زورًا، <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>كوينزل</b>، نجا—بُعث في جسد فتى صغير بـ<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>شفرات سوداء</b> مندمجة بلحمه، يحمل قرونًا من <b style='color: #696969; text-shadow: 0 0 8px #696969;'>الغضب</b>.<br>يشق طريقًا دمويًا عبر الإمبراطورية، يطارد كل <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>بطل زائف</b> ليكشف <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>الكذبة</b> التي بنت أمة.<br>كل قتل يكشف طبقة أخرى من <b style='color: #483D8B; text-shadow: 0 0 8px #483D8B;'>الفساد</b>، فاضحًا إمبراطورية تتعفن من الداخل تحت ثقل <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>أسطورتها</b> المصطنعة.</div>",
     "ReleaseDate": "2004",
+    "CriticScore": 60,
+    "CoverUrl": "https://archive.org/download/RPRM001/Ubel%20Blatt%20Cover.jpg",
+    "Genre": ["Dark Fantasy"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "completed",
       "currentVolume": 11
     },
-    "CoverUrl": "https://archive.org/download/RPRM001/Ubel%20Blatt%20Cover.jpg",
-    "Genre": ["Dark Fantasy"],
-    "Tags": ["Manga"],
     "packageUrl": {
       "identifier": "RBRB002",
       "filename": "00351.zip",
       "fileSize": "2.0GB",
       "hasAudiobook": false
-    },
-    "CriticScore": 60
+    }
   },
   {
     "_id": "book_1776177105756_fq9iu1b13",
@@ -7173,14 +7173,14 @@
     "DescriptionArabic": "<div dir='rtl'><b style='color: #708090; text-shadow: 0 0 8px #708090;'>سوزوكي ريوتو</b> طالب جامعي خجول يعيش خلف <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>ابتسامة مزيفة</b> بينما يسخر منه أصدقاؤه المزعومون لبراءته.<br>في حفلة شرب، يلتقي فتاة جميلة تُدعى <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>كوكوا</b> تطلب منه التظاهر بأنه <b style='color: #DA70D6; text-shadow: 0 0 8px #DA70D6;'>حبيبها</b> للهرب من <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>مطارد</b> خطير.<br>ما يبدأ كـ<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>حب أول</b> رقيق يتحول سريعًا إلى هوس، إذ يكتشف ريوتو أن الخط بين التفاني و<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الجنون</b> رفيع كالشفرة.<br>ظل المطارد يصبح أكثر تهديدًا، وأسرار كوكوا تقطع أعمق من أي <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>نصل</b>.<br>محاصرًا في شبكة من <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>التلاعب</b> و<b style='color: #800080; text-shadow: 0 0 8px #800080;'>الغيرة</b> و<b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>العنف</b> المتصاعد، يتعلم ريوتو أن الحب يمكن أن يكون أخطر سلاح.<br>قصة حبهما تزهر في <b style='color: #696969; text-shadow: 0 0 8px #696969;'>الظلال</b>، متجهة نحو <b style='color: #483D8B; text-shadow: 0 0 8px #483D8B;'>مأساة</b> لا مهرب منها.</div>",
     "ReleaseDate": "2021",
     "CriticScore": 60,
+    "CoverUrl": "https://archive.org/download/RPRM001/Killer%20in%20Love%20Cover.jpg",
+    "Genre": ["Thriller"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "completed",
       "currentVolume": 5,
       "currentChapter": null
     },
-    "CoverUrl": "https://archive.org/download/RPRM001/Killer%20in%20Love%20Cover.jpg",
-    "Genre": ["Thriller"],
-    "Tags": ["Manga"],
     "packageUrl": {
       "identifier": "RBRB002",
       "filename": "00352.zip",
@@ -7221,14 +7221,14 @@
     "DescriptionArabic": "<div dir='rtl'><b style='color: #708090; text-shadow: 0 0 8px #708090;'>سيئيتشي أوسابي</b> طالب إعدادي هادئ يختنق تحت حب أمه المهووس، <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>سيكو</b>.<br>خلال رحلة عائلية، يشاهد سيئيتشي بذعر متجمد كيف تدفع سيكو ابن عمه <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>شيغيرو</b> من حافة جرف—ثم تلتفت إليه بنفس <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>الابتسامة</b> اللطيفة التي ترتديها دائمًا.<br>هذا الفعل الواحد من <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>العنف</b> يحطم واقع سيئيتشي ويقيده بأمه عبر <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الذنب</b> و<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الخوف</b> وإحساس ملتوٍ بـ<b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>التواطؤ</b>.<br>كلما تصاعدت ملكية سيكو إلى <b style='color: #800080; text-shadow: 0 0 8px #800080;'>سيطرة</b> مطلقة، يكافح سيئيتشي لتكوين أي هوية خارج ظلها.<br>كل محاولة للابتعاد—عبر الصداقة أو الحب الأول أو <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>الاستقلال</b> البسيط—تُقابل بطبقة جديدة من <b style='color: #696969; text-shadow: 0 0 8px #696969;'>التلاعب</b>.<br>السؤال ليس إن كان سيئيتشي سيتحرر، بل إن كان هناك شيء تبقى منه ليُنقذ <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>ليُنقذ</b>.</div>",
     "ReleaseDate": "2017",
     "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Blood%20on%20the%20Tracks%20Cover.jpg",
+    "Genre": ["Psychological"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "completed",
       "currentVolume": 17,
       "currentChapter": null
     },
-    "CoverUrl": "https://archive.org/download/RPRM001/Blood%20on%20the%20Tracks%20Cover.jpg",
-    "Genre": ["Psychological"],
-    "Tags": ["Manga"],
     "packageUrl": {
       "identifier": "RBRB002",
       "filename": "00354.zip",
@@ -7245,14 +7245,14 @@
     "DescriptionArabic": "<div dir='rtl'>في بلدة ريفية خانقة بلا مستقبل، يعيش <b style='color: #708090; text-shadow: 0 0 8px #708090;'>ريجي كوروسي</b> في يأس صامت—مقيد بـ<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>عائلة مسيئة</b> وأم تحتضر وتوقع غير معلن بأنه لن يغادر أبدًا.<br>ذات ليلة على <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>جسر</b> البلدة، يلتقي <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>ناغي أوي</b>، مغنية شهيرة جاءت إلى هذا المكان المنسي لتموت.<br>تقترح <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>انتحارًا مزدوجًا</b>، وفي ذلك اليأس المشترك يتغير شيء بينهما.<br>لكن ميثاق الموت يجذب آخرين: المعلم المتملك <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>إيسيموري</b>، وصديقة الطفولة <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>تشاكو</b> التي تخفي حبًا مؤلمًا، و<b style='color: #696969; text-shadow: 0 0 8px #696969;'>أسرار البلدة</b> المظلمة التي تطفو كجثث من نهر.<br>الجميع في هذا <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>الهاوية</b> يغرقون، كل واحد يسحب الآخرين أعمق في <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الهوس</b> و<b style='color: #800080; text-shadow: 0 0 8px #800080;'>الاعتماد المتبادل</b> والوعد المغري بـ<b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الفناء</b>.</div>",
     "ReleaseDate": "2020",
     "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Boy's%20Abyss%20Cover.jpg",
+    "Genre": ["Drama"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "completed",
       "currentVolume": 12,
       "currentChapter": null
     },
-    "CoverUrl": "https://archive.org/download/RPRM001/Boy's%20Abyss%20Cover.jpg",
-    "Genre": ["Drama"],
-    "Tags": ["Manga"],
     "packageUrl": {
       "identifier": "RBRB002",
       "filename": "00355.zip",
@@ -7269,14 +7269,14 @@
     "DescriptionArabic": "<div dir='rtl'><b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>ساتورو فوجينوما</b> فنان مانغا يكافح يملك قدرة غامضة تُدعى <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>الإحياء</b>—قفزة زمنية لا إرادية تعيده لحظات قبل المأساة لمنعها.<br>عندما تُقتل أمه <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>قتلًا</b> ويُتهم بالجريمة، يقذفه الإحياء ثمانية عشر عامًا إلى الماضي—إلى عام 1988 حين كان طفلًا في <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>هوكايدو</b> الثلجية.<br>هناك، سلسلة <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>خطف أطفال</b> على وشك أن تبدأ، والفتاة الهادئة الوحيدة <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>كايو هينازوكي</b> ستكون الضحية الأولى.<br>محاصرًا في جسد طفل بعقل بالغ، يصادق ساتورو كايو ويقاتل لتغيير <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>المسار الزمني</b>—عالمًا أن <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>القاتل</b> شخص قريب.<br>كل فعل صغير من <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>اللطف</b> يعيد كتابة التاريخ، لكن المفترس يتكيف، والحقيقة وراء الجرائم تربط الماضي بالحاضر بطرق لم يتخيلها ساتورو.<br><b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الساعة</b> لا تتوقف عن الدوران.</div>",
     "ReleaseDate": "2012",
     "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Erased%20Cover.jpg",
+    "Genre": ["Mystery"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "completed",
       "currentVolume": 9,
       "currentChapter": null
     },
-    "CoverUrl": "https://archive.org/download/RPRM001/Erased%20Cover.jpg",
-    "Genre": ["Mystery"],
-    "Tags": ["Manga"],
     "packageUrl": {
       "identifier": "RBRB002",
       "filename": "00356.zip",
@@ -7293,14 +7293,14 @@
     "DescriptionArabic": "<div dir='rtl'>المراهق الوحيد <b style='color: #708090; text-shadow: 0 0 8px #708090;'>يوكيتيرو أمانو</b> يقضي أيامه يكتب ملاحظات في يومية هاتفه ويتحدث مع صديقه الوهمي—<b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>ديوس إكس ماكينا</b>، إله الزمان والمكان.<br>لكن ديوس حقيقي، ويمنح يوكيتيرو <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>يومية المستقبل</b> التي تتنبأ بالأحداث قبل وقوعها.<br>الشرط: أحد عشر شخصًا آخر حصلوا على يومياتهم الخاصة، والاثنا عشر يجب أن يقتلوا بعضهم في <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>لعبة بقاء</b> حتى يرث الناجي الوحيد عرش ديوس كـ<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>إله</b>.<br>حليف يوكيتيرو الوحيد هي <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>يونو غاساي</b>، فتاة جميلة يوميتها تدور حوله بالكامل—وتفانيها يخفي <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>اعتلالًا نفسيًا</b> مرعبًا.<br>مع تشكل التحالفات وانهيارها، يكشف كل <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>حامل يومية</b> عن استراتيجيات يائسة وبشعة للبقاء.<br>على يوكيتيرو أن يقرر إن كانت يونو <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>خلاصه</b> أم أخطر <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>تهديد</b> في اللعبة.</div>",
     "ReleaseDate": "2006",
     "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Future%20Diary%20Cover.jpg",
+    "Genre": ["Thriller"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "completed",
       "currentVolume": 13,
       "currentChapter": null
     },
-    "CoverUrl": "https://archive.org/download/RPRM001/Future%20Diary%20Cover.jpg",
-    "Genre": ["Thriller"],
-    "Tags": ["Manga"],
     "packageUrl": {
       "identifier": "RBRB002",
       "filename": "00357.zip",
@@ -7317,14 +7317,14 @@
     "DescriptionArabic": "<div dir='rtl'>بعيدًا عن الإمبراطورية الساقطة حيث قاتل <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>فريق الغارة الليلية</b> ذات يوم، أمة <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>واكوكو</b> الجزرية ممزقة بالحرب بين مملكة <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>سوكاي</b> وقوات <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>تينرو</b> الغازية.<br>المحاربة الشابة <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>هينوا</b> تحلم بتوحيد الأمم المتحاربة، حتى مع سعي الملك القاسي <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>زوأو</b> للسيطرة الكاملة.<br>تنضم إليها السيافة المتجولة <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>أكامي</b>—التي لا تزال تحمل النصل الملعون <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>موراسامي</b>—قادمة بحثًا عن علاج لـ<b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>السم</b> الذي يلتهم جسدها ببطء.<br>معًا تواجهان <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>جنرالات</b> يمتلكون أسلحة مدمرة، و<b style='color: #696969; text-shadow: 0 0 8px #696969;'>خيانات</b> سياسية، ومعارك حيث الرحمة ترف لا يستطيع أحد تحمله.<br>روح <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>أكامي غا كيل</b> تحيا في تربة أكثر دموية.</div>",
     "ReleaseDate": "2017",
     "CriticScore": 60,
+    "CoverUrl": "https://archive.org/download/RPRM001/Hinowa%20ga%20CRUSH!%20Cover.jpg",
+    "Genre": ["Action"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "completed",
       "currentVolume": 8,
       "currentChapter": null
     },
-    "CoverUrl": "https://archive.org/download/RPRM001/Hinowa%20ga%20CRUSH!%20Cover.jpg",
-    "Genre": ["Action"],
-    "Tags": ["Manga"],
     "packageUrl": {
       "identifier": "RBRB002",
       "filename": "00358.zip",
@@ -7341,14 +7341,14 @@
     "DescriptionArabic": "<div dir='rtl'><b style='color: #708090; text-shadow: 0 0 8px #708090;'>سوسومو ناكوشي</b> رجل بلا مأوى يعيش في سيارته بين فندق فاخر وأحياء <b style='color: #696969; text-shadow: 0 0 8px #696969;'>شينجوكو</b> الفقيرة—لا ينتمي لأي عالم.<br>طالب طب يُدعى <b style='color: #4169E1; text-shadow: 0 0 8px #4169E1;'>مانابو إيتو</b> يعرض عليه 700,000 ين لإجراء <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>ثقب الجمجمة</b>—حفر ثقب في جمجمته لتوسيع الإدراك البشري.<br>بعد العملية، يبدأ ناكوشي برؤية <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>هومونكولي</b>—تشوهات سريالية بشعة متراكبة على كل شخص يلتقيه، كل واحدة تجسيد بصري لأعمق <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>جروحه النفسية</b>.<br>تلميذة تظهر كـ<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>برج من الرمل</b>، زعيم ياكوزا كـ<b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>روبوت</b> وحشي، عاهرة ككائن من <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>زجاج متصدع</b>.<br>كلما تعمق ناكوشي في الآخرين، تبدأ هويته بالتلاشي—والسؤال عمن هو <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>الوحش</b> الحقيقي يصبح مرعبًا في غموضه.<br><b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>الثقب</b> في جمجمته ربما فتح عينيه، لكنه يُغلق على <b style='color: #800080; text-shadow: 0 0 8px #800080;'>عقله</b>.</div>",
     "ReleaseDate": "2003",
     "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Homunculus%20Cover.jpg",
+    "Genre": ["Psychological"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "completed",
       "currentVolume": 5,
       "currentChapter": null
     },
-    "CoverUrl": "https://archive.org/download/RPRM001/Homunculus%20Cover.jpg",
-    "Genre": ["Psychological"],
-    "Tags": ["Manga"],
     "packageUrl": {
       "identifier": "RBRB002",
       "filename": "00359.zip",
@@ -7365,14 +7365,14 @@
     "DescriptionArabic": "<div dir='rtl'><b style='color: #708090; text-shadow: 0 0 8px #708090;'>يون بوم</b>، شاب هش وغير مستقر نفسيًا، مهووس بحب <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>أو سانغوو</b>—رياضي جامعي كاريزمي أظهر له لحظة لطف ذات يوم.<br>عندما يقتحم بوم منزل سانغوو، لا يجد رجل أحلامه—يجد <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>قبو تعذيب</b> وامرأة مقيدة تنزف.<br>سانغوو <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>قاتل متسلسل</b>، وبدلًا من أن يصبح ضحيته التالية، يصبح بوم سجينه—محاصرًا في دورة من <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الإساءة</b> و<b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>المودة</b> الملتوية والـ<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>تدمير</b> النفسي.<br>سانغوو يتأرجح بين القسوة و<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>الحنان</b>، يبقي بوم معتمدًا ومرتبكًا.<br>مع تصاعد عدد الجثث واقتراب <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>محقق</b> مشبوه، يتلاشى الخط بين الآسر و<b style='color: #696969; text-shadow: 0 0 8px #696969;'>الشريك</b> الراضي إلى شيء أكثر إزعاجًا من مجرد <b style='color: #800080; text-shadow: 0 0 8px #800080;'>متلازمة ستوكهولم</b>.</div>",
     "ReleaseDate": "2016",
     "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Killing%20Stalking%20Cover.jpg",
+    "Genre": ["Horror"],
+    "Tags": ["Manhwa"],
     "Status": {
       "state": "completed",
       "currentVolume": 3,
       "currentChapter": null
     },
-    "CoverUrl": "https://archive.org/download/RPRM001/Killing%20Stalking%20Cover.jpg",
-    "Genre": ["Horror"],
-    "Tags": ["Manhwa"],
     "packageUrl": {
       "identifier": "RBRB002",
       "filename": "00360.zip",
@@ -7389,14 +7389,14 @@
     "DescriptionArabic": "<div dir='rtl'><b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>أساهي كوروميني</b> يملك عيبًا قاتلًا: لا يستطيع الكذب دون أن يفضحه وجهه، مما أكسبه لقب <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>السلة المثقوبة</b>.<br>عندما يكتشف أن حبيبته <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>يوكو شيراغامي</b> هي في الحقيقة <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>مصاصة دماء</b>، يقسم على حفظ سرها—لأنه إن اكتشف أحد، ستُجبر على مغادرة المدرسة للأبد.<br>المشكلة أن يوكو ليست الوحيدة التي تخفي شيئًا: ممثلة الفصل <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>ناغيسا</b> كائن فضائي صغير يقود جسمًا آليًا بحجم إنسان، ومعلمته <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>أكاني</b> شيطانة عمرها ألف عام، و<b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>مستذئب</b> و<b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>مسافر عبر الزمن</b> و<b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>فتاة خفية</b> كلهم في نفس المدرسة.<br>أساهي—أسوأ كاذب على قيد الحياة—عليه حراسة جبل متزايد من <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>الأسرار الخارقة</b> بينما يبحر في أكثر <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>مضلع حب</b> فوضوي يمكن تخيله.</div>",
     "ReleaseDate": "2013",
     "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/My%20Monster%20Secret%20Cover.jpg",
+    "Genre": ["Romance"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "completed",
       "currentVolume": 22,
       "currentChapter": null
     },
-    "CoverUrl": "https://archive.org/download/RPRM001/My%20Monster%20Secret%20Cover.jpg",
-    "Genre": ["Romance"],
-    "Tags": ["Manga"],
     "packageUrl": {
       "identifier": "RBRB002",
       "filename": "00361.zip",
@@ -7413,14 +7413,14 @@
     "DescriptionArabic": "<div dir='rtl'><b style='color: #708090; text-shadow: 0 0 8px #708090;'>جوري موتو</b> عازفة بيانو من عائلة ثرية حاولت <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الانتحار</b> ثلاث مرات، مختنقة بماضٍ من <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الاعتداء الجنسي</b> وأم ترفض الاعتراف بألمها.<br><b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>يوو</b> محكوم عليه بالإعدام بتهمة القتل، يغرق في <b style='color: #696969; text-shadow: 0 0 8px #696969;'>الذنب</b> وينتظر الموت.<br>يلتقيان عبر <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>برنامج تطوع</b> في السجن، يتشاركان ساعة واحدة كل خميس في غرفة الزيارات.<br>عدائيان وحذران في البداية، يكتشفان ببطء نفس <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الكسر</b> في بعضهما.<br>من خلال محادثاتهما، تعيد جوري اكتشاف إرادة <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>الحياة</b>، ويجد يوو سببًا لمواجهة <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>إعدامه</b> بشيء غير اليأس.<br>لكن الوقت هو الشيء الوحيد الذي لا يملكانه—كل خميس يقربهما من <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>المحتوم</b>.</div>",
     "ReleaseDate": "2007",
     "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Our%20Happy%20Hours%20Cover.jpg",
+    "Genre": ["Drama"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "completed",
       "currentVolume": 1,
       "currentChapter": null
     },
-    "CoverUrl": "https://archive.org/download/RPRM001/Our%20Happy%20Hours%20Cover.jpg",
-    "Genre": ["Drama"],
-    "Tags": ["Manga"],
     "packageUrl": {
       "identifier": "RBRB002",
       "filename": "00362.zip",
@@ -7437,14 +7437,14 @@
     "DescriptionArabic": "<div dir='rtl'>ذات ليلة، مخلوقات دودية تُدعى <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>الطفيليات</b> تهبط على الأرض، تحفر في أدمغة البشر وتستبدلها كليًا—محولة مضيفيها إلى <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>مفترسين</b> مثاليين يتغذون على البشر الآخرين.<br><b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>شينيتشي إيزومي</b> ذو السبعة عشر عامًا يُهاجم في نومه، لكن لأنه كان يرتدي <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>سماعات</b>، يفشل الطفيلي في الوصول لدماغه—يستولي على <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>يده اليمنى</b> بدلًا من ذلك.<br>المخلوق الذي يسميه شينيتشي <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>ميغي</b> منطقي بارد لا يقدّر سوى بقائه، لكنهما يُجبران على <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>تعايش</b> مكره.<br>مع تسلل الطفيليات إلى المجتمع—أصبحوا <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>معلمين</b> و<b style='color: #696969; text-shadow: 0 0 8px #696969;'>سياسيين</b> وجيرانًا—يُسحب شينيتشي إلى حرب ظل بينما يصارع كم من <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>إنسانيته</b> ينزلق مع كل معركة.<br>كلما تعمق في القتال، أصبح أقل يقينًا حول من هم <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الوحوش</b> الحقيقيون.</div>",
     "ReleaseDate": "1988",
     "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Parasyte%20Cover.jpg",
+    "Genre": ["Horror"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "completed",
       "currentVolume": 8,
       "currentChapter": null
     },
-    "CoverUrl": "https://archive.org/download/RPRM001/Parasyte%20Cover.jpg",
-    "Genre": ["Horror"],
-    "Tags": ["Manga"],
     "packageUrl": {
       "identifier": "RBRB002",
       "filename": "00363.zip",
@@ -7461,14 +7461,14 @@
     "DescriptionArabic": "<div dir='rtl'>بالتوازي مع الجدول الزمني الأصلي لـ<b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>باراسايت</b>، تتبع هذه القصة <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>تاتسوكي هيروكاوا</b>، طالب ثانوية يؤمن والده المستشار <b style='color: #696969; text-shadow: 0 0 8px #696969;'>تاكيشي هيروكاوا</b> سرًا بأن المخلوقات الطفيلية هي إجابة الأرض على <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الاكتظاظ السكاني</b> البشري.<br>عندما تُعثر على ثلاث <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>جثث</b> مقطعة في موقف سيارات مهجور، يشتبه المحقق المخضرم <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>فوكامي</b> بأن تاتسوكي شهد عمليات القتل.<br>محاصرًا بين الولاء لوالده ورعب ما <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>الطفيليات</b> حقًا، يحقق تاتسوكي فيما إذا كانت عائلته متواطئة في مؤامرة لمساعدة هذه المخلوقات على <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الانتشار</b> والتغذي بينما تختبئ عن السلطات.<br>عالم شينيتشي و<b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>ميغي</b> المألوف يُرى من الجانب الآخر—من خلال عيون من اختاروا <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>التعايش</b> مع الغزاة بدل محاربتهم.<br>الثقة هي أول ضحية، و<b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>روابط العائلة</b> تتصدع تحت <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>ثقل أخلاقي</b> مستحيل.</div>",
     "ReleaseDate": "2022",
     "CriticScore": 60,
+    "CoverUrl": "https://archive.org/download/RPRM001/Parasyte%20Reversi%20Cover.jpg",
+    "Genre": ["Horror"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "completed",
       "currentVolume": 5,
       "currentChapter": null
     },
-    "CoverUrl": "https://archive.org/download/RPRM001/Parasyte%20Reversi%20Cover.jpg",
-    "Genre": ["Horror"],
-    "Tags": ["Manga"],
     "packageUrl": {
       "identifier": "RBRB002",
       "filename": "00364.zip",
@@ -7485,14 +7485,14 @@
     "DescriptionArabic": "<div dir='rtl'>عندما يلتقط المراهق المشاغب <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>أغيها يوشينا</b> بطاقة هاتف <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>حمراء</b> غامضة، يُنقل إلى <b style='color: #696969; text-shadow: 0 0 8px #696969;'>سايرين</b>—أرض قاحلة ما بعد نهاية العالم هي في الحقيقة <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>مستقبل</b> الأرض.<br>مجبرًا على المشاركة في لعبة مميتة يديرها الغامض <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>نيميسس كيو</b>، على أغيها و\"المتصلين\" الآخرين البقاء أمام كيانات وحشية تُدعى <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>تافو</b> مع تطوير قوى <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>PSI</b>—قدرات نفسية تزداد قوة مع كل رحلة.<br>متنقلًا بين الحاضر والمستقبل، يكتشف أغيها الكارثة المعروفة بـ<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>انجراف سايرين</b> التي ستمحو الحضارة، والمنظمة السرية <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>W.I.S.E.</b> وراءها.<br>مع حلفاء مثل العبقرية <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>ساكوراكو</b> والغامضة <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>ماتسوري</b>، يسابق الزمن لإعادة كتابة <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>المسار الزمني</b> قبل انهيار العالمين.</div>",
     "ReleaseDate": "2007",
     "CriticScore": 60,
+    "CoverUrl": "https://archive.org/download/RPRM001/Psyren%20Cover.jpg",
+    "Genre": ["Sci-Fi"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "completed",
       "currentVolume": 16,
       "currentChapter": null
     },
-    "CoverUrl": "https://archive.org/download/RPRM001/Psyren%20Cover.jpg",
-    "Genre": ["Sci-Fi"],
-    "Tags": ["Manga"],
     "packageUrl": {
       "identifier": "RBRB002",
       "filename": "00365.zip",
@@ -7509,14 +7509,14 @@
     "DescriptionArabic": "<div dir='rtl'><b style='color: #708090; text-shadow: 0 0 8px #708090;'>تاكاو كاسوغا</b> طالب إعدادي مثقف يعبد بودلير ويقدس سرًا زميلته <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>ناناكو سايكي</b>.<br>ذات يوم، في لحظة اندفاع، يسرق <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>ملابسها الرياضية</b>—والمنبوذة <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>ساوا ناكامورا</b> تراه يفعل ذلك.<br>بدلًا من فضحه، تعقد ناكامورا <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>عقدًا</b>: ستحفظ سره إن فعل كل ما تقوله.<br>ما يتبع هو هبوط بطيء وخانق إذ تجبر ناكامورا تاكاو على مواجهة <b style='color: #800080; text-shadow: 0 0 8px #800080;'>القبح</b> الذي يخفيه خلف الأدب، دافعة إياه عبر أفعال متصاعدة من <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>التجاوز</b> و<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الإذلال</b> العلني.<br>سطح البلدة الهادئة يتصدع، كاشفًا أن الجميع يحمل <b style='color: #696969; text-shadow: 0 0 8px #696969;'>ذاتًا سرية</b> يرتعبون من إظهارها.<br>عالم كاسوغا من <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>المثل الرومانسية</b> يتعفن إلى شيء خام و<b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>حقيقي</b> بشكل مزعج.</div>",
     "ReleaseDate": "2009",
     "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Flowers%20of%20Evil%20Cover.jpg",
+    "Genre": ["Psychological"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "completed",
       "currentVolume": 11,
       "currentChapter": null
     },
-    "CoverUrl": "https://archive.org/download/RPRM001/The%20Flowers%20of%20Evil%20Cover.jpg",
-    "Genre": ["Psychological"],
-    "Tags": ["Manga"],
     "packageUrl": {
       "identifier": "RBRB002",
       "filename": "00366.zip",
@@ -7533,18 +7533,43 @@
     "DescriptionArabic": "<div dir='rtl'>في عالم تحول إلى <b style='color: #696969; text-shadow: 0 0 8px #696969;'>رماد</b> وصمت، يمشي <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>فتى</b> وحيدًا نحو <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>الأفق</b>—مدفوعًا فقط بأمل خافت أن شيئًا يوجد وراء الخراب.<br>لا يحمل اسمًا ولا سلاحًا وتكاد <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>ذكرياته</b> تكون معدومة.<br>في طريقه، يلتقي <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>فتاة</b> لم تعد قادرة على المشي، فيقرر حملها.<br>معًا، عبر <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الجوع</b> و<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>العنف</b> من ناجين آخرين والثقل الساحق لعالم استسلم، يواصلان المضي.<br>رحلتهما صامتة لفترات طويلة—تُروى عبر <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>لوحات فارغة شاسعة</b> وأشكال صغيرة أمام <b style='color: #708090; text-shadow: 0 0 8px #708090;'>سماء</b> لا نهائية.<br>تأمل في ما يجعل <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>البقاء</b> يستحق الثمن، وإن كان <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>اللطف</b> يمكن أن يوجد في عالم <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>مات</b> فيه كل شيء آخر.</div>",
     "ReleaseDate": "2016",
     "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Horizon%20Cover.jpg",
+    "Genre": ["Drama"],
+    "Tags": ["Manhwa"],
     "Status": {
       "state": "completed",
       "currentVolume": 3,
       "currentChapter": null
     },
-    "CoverUrl": "https://archive.org/download/RPRM001/The%20Horizon%20Cover.jpg",
-    "Genre": ["Drama"],
-    "Tags": ["Manhwa"],
     "packageUrl": {
       "identifier": "RBRB002",
       "filename": "00367.zip",
       "fileSize": "449MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777242207023_4wfm65l5j",
+    "Title": "Daemons of the Shadow Realm",
+    "Series": "",
+    "SortingTitle": "",
+    "Author": "Hiromu Arakawa",
+    "Description": "In a world where certain humans command mighty supernatural duos called <b style='color: #FF6B6B; text-shadow: 0 0 8px #FF6B6B;'>Daemons</b>, it is the birthright of <b style='color: #4A90E2; text-shadow: 0 0 8px #4A90E2;'>twins Yuru and Asa</b> to rule over these powerful entities. Separated from a young age and unaware of their true heritage, the siblings must fight to reunite, claim their powers, and save the world. <b style='color: #F5A623; text-shadow: 0 0 8px #F5A623;'>Ancient Daemons</b> awaken for an age-old war. <b style='color: #6A5ACD; text-shadow: 0 0 8px #6A5ACD;'>Yuru</b> flees his idyllic village after it's attacked by <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>Asa</b>, his twin, who now serves the <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>Kagemori clan</b>. Allies like <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>Dera</b> and <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Right/Left</b> emerge as he uncovers secrets of his past. <br><br>",
+    "DescriptionArabic": "<div dir='rtl'>في عالم حيث يُمكن لبعض البشر التحكم في أزواج خيالية قوية تُسمى <b style='color: #FF6B6B; text-shadow: 0 0 8px #FF6B6B;'>القراة</b>، يُعتبر من حق <b style='color: #4A90E2; text-shadow: 0 0 8px #4A90E2;'>التوأم يورو وأسا</b> أن يحكما على هذه الكيانات. بعد أن تم فصلهم في سن مبكرة دون علمهم بحقيقة أصولهم، يجب أن يكافح الأخوان للانفصال، و_claim_ قواهم، وإنقاذ العالم. <b style='color: #F5A623; text-shadow: 0 0 8px #F5A623;'>القراة القديمة</b> تستيقظ لمعركة قديمة. <b style='color: #6A5ACD; text-shadow: 0 0 8px #6A5ACD;'>يورو</b> يهرب من قريته الهادئة بعد أن تهاجمها <b style='color: #FF6347; text-shadow: 0 0 8px #FF6347;'>أسا</b>، توأمه، التي أصبحت الآن تخدم <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>عشيرة كاجيموري</b>. تظهر أصدقاء مثل <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>درا</b> و<b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>اليمين/اليسار</b> بينما يكشف أسرار ماضيه. </div>",
+    "ReleaseDate": "2022",
+    "CriticScore": 100,
+    "CoverUrl": "https://archive.org/download/RPRM001/Daemons%20of%20the%20Shadow%20Realm%20Cover.jpg",
+    "Genre": ["Fantasy"],
+    "Tags": ["Manga"],
+    "Status": {
+      "state": "ongoing",
+      "currentVolume": 12,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00368.zip",
+      "fileSize": "2 GB",
       "hasAudiobook": false
     }
   }
