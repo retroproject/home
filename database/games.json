@@ -1490,13 +1490,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC43",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "120MB",
             "arguments": [],
             "executable": "ZeroRanger.exe",
-            "filename": "ZeroRanger.zip"
+            "filename": "00768.zip"
           }
         ]
       }
@@ -2529,13 +2529,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC34",
+            "identifier": "RPRP024",
             "name": "Enhanced",
             "platform": "PC Game",
             "fileSize": "30MB",
             "arguments": [],
             "executable": "Starship.exe",
-            "filename": "Star Fox 64.zip"
+            "filename": "00765.zip"
           }
         ]
       }
@@ -2563,8 +2563,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC09",
-            "filename": "Double Dragon IV.zip",
+            "identifier": "RPRP024",
+            "filename": "00769.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Sousairyu4.exe",
@@ -3630,13 +3630,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC08",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "130MB",
             "arguments": [],
             "executable": "Undertale.exe",
-            "filename": "Undertale.zip"
+            "filename": "00770.zip"
           }
         ]
       }
@@ -4250,8 +4250,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC05",
-            "filename": "Cat Quest 2.zip",
+            "identifier": "RPRP024",
+            "filename": "00771.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Cat Quest II.exe",
@@ -5159,8 +5159,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC05",
-            "filename": "Hitman Codename 47.zip",
+            "identifier": "RPRP024",
+            "filename": "00772.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "hitman.exe",
@@ -5484,8 +5484,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC34",
-            "filename": "Guns of Fury.zip",
+            "identifier": "RPRP024",
+            "filename": "00773.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Guns_of_Fury.exe",
@@ -5586,13 +5586,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC37",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "240MB",
             "arguments": [],
             "executable": "Spilled!.exe",
-            "filename": "Spilled.zip"
+            "filename": "00774.zip"
           }
         ]
       }
@@ -6927,13 +6927,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC10",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "210MB",
             "arguments": [],
             "executable": "VA-11 Hall A.exe",
-            "filename": "VA-11 Hall-A Cyberpunk Bartender Action.zip"
+            "filename": "00775.zip"
           }
         ]
       }
@@ -7995,13 +7995,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC17",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "100MB",
             "arguments": [],
             "executable": "One Finger Death Punch.exe",
-            "filename": "One Finger Death Punch 1.zip"
+            "filename": "00776.zip"
           }
         ]
       }
@@ -8621,8 +8621,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC09",
-            "filename": "Double Dragon Trilogy.zip",
+            "identifier": "RPRP024",
+            "filename": "00777.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "ddtrilogy.exe",
@@ -11180,8 +11180,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC16",
-            "filename": "Axiom Verge.zip",
+            "identifier": "RPRP024",
+            "filename": "00778.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "AxiomVerge.exe",
@@ -11870,8 +11870,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC06",
-            "filename": "Blazing Chrome.zip",
+            "identifier": "RPRP024",
+            "filename": "00779.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Blazing Chrome.exe",
@@ -13210,8 +13210,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPCAR01",
-            "filename": "Katana ZERO.zip",
+            "identifier": "RPRP024",
+            "filename": "00781.zip",
             "name": "Arabic",
             "platform": "PC Game",
             "executable": "Katana ZERO.exe",
@@ -13599,13 +13599,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC17",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "140MB",
             "arguments": [],
             "executable": "Deedlit in Wonder Labyrinth.exe",
-            "filename": "Record of Lodoss War-Deedlit in Wonder Labyrinth-.zip"
+            "filename": "00782.zip"
           }
         ]
       }
@@ -14838,13 +14838,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC12",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "40MB",
             "arguments": [],
             "executable": "PapersPlease.exe",
-            "filename": "Papers Please.zip"
+            "filename": "00766.zip"
           }
         ]
       }
@@ -15769,8 +15769,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC12",
-            "filename": "Hotline Miami 1.zip",
+            "identifier": "RPRP024",
+            "filename": "00783.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "HotlineLauncher.exe",
@@ -17317,8 +17317,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC10",
-            "filename": "Falling Out.zip",
+            "identifier": "RPRP024",
+            "filename": "00784.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "FallingOut.exe",
@@ -19352,8 +19352,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC16",
-            "filename": "Furi Demake The Chain.zip",
+            "identifier": "RPRP024",
+            "filename": "00785.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "FuriDemake.exe",
@@ -22642,8 +22642,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC05",
-            "filename": "Cat Quest 1.zip",
+            "identifier": "RPRP024",
+            "filename": "00786.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Cat Quest.exe",
@@ -23841,8 +23841,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC45",
-            "filename": "Bloodborne PSX Demake.zip",
+            "identifier": "RPRP024",
+            "filename": "00787.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "BBPSX.exe",
@@ -28615,14 +28615,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC18",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "170MB",
             "executableFiles": ["Sonic_vis.exe", "SonicLauncher.exe"],
             "executableLabels": ["Game", "Configure"],
             "arguments": [],
-            "filename": "Sonic the Hedgehog 4 Episode 1.zip"
+            "filename": "00788.zip"
           }
         ]
       }
@@ -29248,14 +29248,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC37",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "140MB",
             "executableFiles": ["SKLauncher\\SKLauncher.jar", "ATLauncher\\ATLauncher.exe"],
             "executableLabels": ["SKLauncher", "ATLauncher"],
             "arguments": [],
-            "filename": "Minecraft.zip"
+            "filename": "00789.zip"
           }
         ]
       }
@@ -29921,13 +29921,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC31",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "170MB",
             "arguments": [],
             "executable": "executable\\RiskysRevenge.exe",
-            "filename": "Shantae Risky's Revenge.zip"
+            "filename": "00790.zip"
           }
         ]
       }
@@ -30911,8 +30911,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC43",
-            "filename": "Crashlands 1.zip",
+            "identifier": "RPRP024",
+            "filename": "00791.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Crashlands.exe",
@@ -32541,13 +32541,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC27",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "50MB",
             "arguments": [],
             "executable": "KOF2003.exe",
-            "filename": "The King of Fighters 2003.zip"
+            "filename": "00792.zip"
           }
         ]
       }
@@ -32839,8 +32839,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC13",
-            "filename": "Five Nights at Freddy's 2.zip",
+            "identifier": "RPRP024",
+            "filename": "00793.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "FiveNightsatFreddys2.exe",
@@ -33643,8 +33643,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC08",
-            "filename": "Bloodstained Curse of the Moon 1.zip",
+            "identifier": "RPRP024",
+            "filename": "00763.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "exe\\COTM.exe",
@@ -35067,8 +35067,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC27",
-            "filename": "SNK vs. Capcom SVC Chaos.zip",
+            "identifier": "RPRP024",
+            "filename": "00794.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "SVC Chaos.exe",
@@ -35349,13 +35349,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC30",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "160MB",
             "arguments": [],
             "executable": "To the Moon\\To the Moon.exe",
-            "filename": "To The Moon.zip"
+            "filename": "00795.zip"
           }
         ]
       }
@@ -37111,8 +37111,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC30",
-            "filename": "Balatro.zip",
+            "identifier": "RPRP024",
+            "filename": "00796.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Balatro.exe",
@@ -38862,8 +38862,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC36",
-            "filename": "Animal Well.zip",
+            "identifier": "RPRP024",
+            "filename": "00767.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Animal Well.exe",
@@ -39449,8 +39449,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC16",
-            "filename": "Axiom Verge 2.zip",
+            "identifier": "RPRP024",
+            "filename": "00797.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "AxiomVerge2.exe",
@@ -39731,8 +39731,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC13",
-            "filename": "Five Nights at Freddy's 3.zip",
+            "identifier": "RPRP024",
+            "filename": "00798.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "FiveNightsatFreddys3.exe",
@@ -40786,13 +40786,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC14",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "80MB",
             "arguments": [],
             "executable": "Risk of Rain.exe",
-            "filename": "Risk of Rain.zip"
+            "filename": "00799.zip"
           }
         ]
       }
@@ -41756,13 +41756,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPCAR02",
+            "identifier": "RPRP024",
             "name": "Arabic",
             "platform": "PC Game",
             "fileSize": "230MB",
             "arguments": [],
             "executable": "PizzaTower.exe",
-            "filename": "Pizza Tower.zip"
+            "filename": "00800.zip"
           },
           {
             "identifier": "RPRP022",
@@ -43960,13 +43960,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC27",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "230MB",
             "arguments": [],
             "executable": "KOF97.exe",
-            "filename": "The King of Fighters '97.zip"
+            "filename": "00801.zip"
           }
         ]
       }
@@ -45574,13 +45574,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC34",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "40MB",
             "arguments": [],
             "executable": "Goemon64Recompiled.exe",
-            "filename": "Goemon 64.zip"
+            "filename": "00802.zip"
           }
         ]
       }
@@ -47916,13 +47916,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC36",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "60MB",
             "arguments": [],
             "executable": "pd.x86_64.exe",
-            "filename": "Perfect Dark PC.zip"
+            "filename": "00803.zip"
           }
         ]
       }
@@ -49028,8 +49028,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC09",
-            "filename": "Dead Estate.zip",
+            "identifier": "RPRP024",
+            "filename": "00804.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Dead Estate.exe",
@@ -49456,12 +49456,12 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC39",
-            "filename": "20 Minutes Till Dawn.zip",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "MinutesTillDawn.exe",
-            "fileSize": "200MB"
+            "fileSize": "200MB",
+            "filename": "00761.zip"
           }
         ]
       }
@@ -50680,8 +50680,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC36",
-            "filename": "Ib.zip",
+            "identifier": "RPRP024",
+            "filename": "00805.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Game.exe",
@@ -51443,8 +51443,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC44",
-            "filename": "Dungeon of the Endless.zip",
+            "identifier": "RPRP024",
+            "filename": "00806.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "DungeonoftheEndless.exe",
@@ -51715,13 +51715,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC16",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "40MB",
             "arguments": [],
             "executable": "exe\\MGVB.exe",
-            "filename": "Mighty GUNVOLT BURST.zip"
+            "filename": "00807.zip"
           }
         ]
       }
@@ -55324,12 +55324,12 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC06",
-            "filename": "198X.zip",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "198X.exe",
-            "fileSize": "190MB"
+            "fileSize": "190MB",
+            "filename": "00762.zip"
           }
         ]
       }
@@ -55702,8 +55702,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC09",
-            "filename": "Doom 64 EX Plus.zip",
+            "identifier": "RPRP024",
+            "filename": "00808.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Data\\DOOM64EX-Plus.exe",
@@ -56162,13 +56162,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC37",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "210MB",
             "arguments": [],
             "executable": "Peglin.exe",
-            "filename": "Peglin.zip"
+            "filename": "00809.zip"
           }
         ]
       }
@@ -56792,13 +56792,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC23",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "210MB",
             "arguments": [],
             "executable": "Dig2.exe",
-            "filename": "SteamWorld Dig 2.zip"
+            "filename": "00810.zip"
           }
         ]
       }
@@ -57413,8 +57413,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC13",
-            "filename": "Five Nights at Freddy's.zip",
+            "identifier": "RPRP024",
+            "filename": "00811.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "FiveNightsatFreddys.exe",
@@ -58242,8 +58242,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC08",
-            "filename": "Bloodstained Curse of the Moon 2.zip",
+            "identifier": "RPRP024",
+            "filename": "00764.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "game.exe",
@@ -61361,13 +61361,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC16",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "200MB",
             "arguments": [],
             "executable": "MightyGunvolt.exe",
-            "filename": "Mighty Gunvolt.zip"
+            "filename": "00812.zip"
           }
         ]
       }
@@ -62463,8 +62463,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "retroid-2",
-            "filename": "Coffee Talk.zip",
+            "identifier": "RPRP024",
+            "filename": "00813.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "CoffeeTalk.exe",
@@ -62878,13 +62878,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC37",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "80MB",
             "arguments": [],
             "executable": "Meifumado.exe",
-            "filename": "Meifumado.zip"
+            "filename": "00814.zip"
           }
         ]
       }
@@ -65080,13 +65080,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC10",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "150MB",
             "arguments": [],
             "executable": "Spelunky.exe",
-            "filename": "Spelunky 1.zip"
+            "filename": "00815.zip"
           }
         ]
       }
@@ -65379,13 +65379,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC03",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "220MB",
             "arguments": [],
             "executable": "SonicR.exe",
-            "filename": "Sonic R.zip"
+            "filename": "00816.zip"
           }
         ]
       }
@@ -68211,8 +68211,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC13",
-            "filename": "Fight Knight.zip",
+            "identifier": "RPRP024",
+            "filename": "00817.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "FIGHTKNIGHT.exe",
@@ -69228,8 +69228,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPCAR02",
-            "filename": "Helltaker.zip",
+            "identifier": "RPRP024",
+            "filename": "00819.zip",
             "name": "Arabic",
             "platform": "PC Game",
             "executable": "Helltaker.exe",
@@ -71947,13 +71947,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC14",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "240MB",
             "arguments": [],
             "executable": "Post Void.exe",
-            "filename": "Post Void.zip"
+            "filename": "00820.zip"
           }
         ]
       }
@@ -74863,8 +74863,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "COPC01",
-            "filename": "Enter The Gungeon.zip",
+            "identifier": "RPRP024",
+            "filename": "00822.zip",
             "name": "Online",
             "platform": "PC Game",
             "executable": "EtG.exe",
@@ -78259,8 +78259,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC12",
-            "filename": "Infernax.zip",
+            "identifier": "RPRP024",
+            "filename": "00823.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Infernax.exe",
@@ -80340,13 +80340,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC23",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "60MB",
             "arguments": [],
             "executable": "SteamWorldDig.exe",
-            "filename": "SteamWorld Dig 1.zip"
+            "filename": "00824.zip"
           }
         ]
       }
@@ -84337,8 +84337,8 @@
           {
             "name": "Vanilla",
             "platform": "PC Game",
-            "identifier": "CPC09",
-            "filename": "Cyber Shadow.zip",
+            "identifier": "RPRP024",
+            "filename": "00825.zip",
             "fileSize": "200MB",
             "executable": "CyberShadow.exe"
           }
@@ -87012,8 +87012,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC05",
-            "filename": "Astalon Tears of the Earth.zip",
+            "identifier": "RPRP024",
+            "filename": "00826.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Astalon.exe",
@@ -93160,13 +93160,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC37",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "190MB",
             "arguments": [],
             "executable": "PMKM.exe",
-            "filename": "Milk inside a bag of milk inside a bag of milk.zip"
+            "filename": "00827.zip"
           }
         ]
       }
@@ -93228,13 +93228,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC19",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "90MB",
             "arguments": [],
             "executable": "LIMBO.exe",
-            "filename": "Limbo.zip"
+            "filename": "00828.zip"
           }
         ]
       }
@@ -96810,13 +96810,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC23",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "190MB",
             "arguments": [],
             "executable": "Heist.exe",
-            "filename": "SteamWorld Heist 1.zip"
+            "filename": "00829.zip"
           }
         ]
       }
@@ -96887,13 +96887,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC12",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "240MB",
             "arguments": [],
             "executable": "BINARIES\\WIN32\\MKHDGame.exe",
-            "filename": "Mortal Kombat Arcade Kollection.zip"
+            "filename": "00830.zip"
           }
         ]
       }
@@ -98847,8 +98847,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "retro-pc",
-            "filename": "Castlevania.zip",
+            "identifier": "RPRP024",
+            "filename": "00831.zip",
             "name": "Enhanced",
             "platform": "PC Game",
             "executable": "castlevania.exe",
@@ -100529,8 +100529,8 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "COPC03",
-            "filename": "Castle Crashers.zip",
+            "identifier": "RPRP024",
+            "filename": "00832.zip",
             "name": "Online",
             "platform": "PC Game",
             "executable": "castle.exe",
@@ -100769,13 +100769,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC42",
+            "identifier": "RPRP024",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "60MB",
             "arguments": [],
             "executable": "PlantsVsZombies.exe",
-            "filename": "Plants vs. Zombies.zip"
+            "filename": "00833.zip"
           }
         ]
       }
@@ -103397,11 +103397,11 @@
             "identifier": "RPRP001",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "61GB",
+            "fileSize": "95GB",
             "arguments": [],
-            "buildID": "27 August 2025",
+            "buildID": "28 April 2026",
             "executable": "LostSoulAside.exe",
-            "filename": "00003.zip"
+            "filename": "00757.zip"
           }
         ]
       }
@@ -127071,6 +127071,111 @@
             "romFile": "Shrek Hassle at the Castle.gba",
             "emulator": "RetroArch",
             "arguments": ["-L", ".\\cores\\mgba_libretro.dll"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1777424146459_0",
+    "Name": "Aphelion",
+    "SortingName": "",
+    "Description": "By 2060, Earth is dying, and the discovery of a ninth planet named <b style='color: #2ecc71; text-shadow: 0 0 8px #2ecc71;'>Persephone</b> offers a last glimmer of hope.<br>The <b style='color: #3498db; text-shadow: 0 0 8px #3498db;'>Hope-01</b> mission, crewed by astronauts <b style='color: #e74c3c; text-shadow: 0 0 8px #e74c3c;'>Ariane</b> and <b style='color: #e67e22; text-shadow: 0 0 8px #e67e22;'>Thomas</b>, ends in a violent crash, scattering them across the frozen wastes.<br>Ariane must navigate the treacherous, shifting <b style='color: #1abc9c; text-shadow: 0 0 8px #1abc9c;'>landscapes</b> of this alien world, driven by the desperate need to find her wounded partner.<br>But they are not alone on <b style='color: #9b59b6; text-shadow: 0 0 8px #9b59b6;'>Persephone</b>.<br>A mysterious and hostile <b style='color: #c0392b; text-shadow: 0 0 8px #c0392b;'>lifeform</b> stalks them, turning their survival into a deadly game of cat and mouse.<br>Every step is a risk, with <b style='color: #16a085; text-shadow: 0 0 8px #16a085;'>chasms</b> to swing over and melting <b style='color: #7f8c8d; text-shadow: 0 0 8px #7f8c8d;'>ice</b> to climb.<br>As they explore, they uncover <b style='color: #f1c40f; text-shadow: 0 0 8px #f1c40f;'>secrets</b> about the planet's <b style='color: #8e44ad; text-shadow: 0 0 8px #8e44ad;'>reality-bending</b> phenomena and the true cause of their crash.<br>Their fractured <b style='color: #d35400; text-shadow: 0 0 8px #d35400;'>bond</b> becomes their only lifeline against the overwhelming <b style='color: #34495e; text-shadow: 0 0 8px #34495e;'>unknown</b>.<br>Helpless on the edge of the solar system, their mission of hope has become a brutal fight for survival.",
+    "DescriptionArabic": "<div dir='rtl'>بحلول عام 2060، تموت الأرض، واكتشاف الكوكب التاسع المسمى <b style='color: #2ecc71; text-shadow: 0 0 8px #2ecc71;'>بيرسيفون</b> يقدم وميض الأمل الأخير.<br>انتهت مهمة <b style='color: #3498db; text-shadow: 0 0 8px #3498db;'>الأمل-01</b>، التي يقودها رائدا الفضاء <b style='color: #e74c3c; text-shadow: 0 0 8px #e74c3c;'>أريان</b> و<b style='color: #e67e22; text-shadow: 0 0 8px #e67e22;'>توماس</b>، بتحطم عنيف، مما أدى إلى تشتيتهم عبر القفار المتجمدة.<br>يجب على أريان أن تعبر <b style='color: #1abc9c; text-shadow: 0 0 8px #1abc9c;'>المناظر الطبيعية</b> الخطيرة والمتغيرة لهذا العالم الغريب، مدفوعة بالحاجة اليائسة للعثور على شريكها الجريح.<br>لكنهم ليسوا وحدهم على <b style='color: #9b59b6; text-shadow: 0 0 8px #9b59b6;'>بيرسيفون</b>.<br>كائن <b style='color: #c0392b; text-shadow: 0 0 8px #c0392b;'>حيوي</b> غريب ومعادٍ يطاردهم، محولاً بقائهم إلى لعبة قاتلة للقط والفأر.<br>كل خطوة هي مجازفة، مع <b style='color: #16a085; text-shadow: 0 0 8px #16a085;'>هوات</b> للتأرجح فوقها و<b style='color: #7f8c8d; text-shadow: 0 0 8px #7f8c8d;'>جليد</b> يذوب للتسلقه.<br>أثناء استكشافهم، يكشفون <b style='color: #f1c40f; text-shadow: 0 0 8px #f1c40f;'>أسرارًا</b> عن الظواهر <b style='color: #8e44ad; text-shadow: 0 0 8px #8e44ad;'>المشوهة للواقع</b> للكوكب والسبب الحقيقي لتحطمهم.<br>يصبح <b style='color: #d35400; text-shadow: 0 0 8px #d35400;'>ارتباطهم</b> المكسور شريان حياتهم الوحيد في مواجهة <b style='color: #34495e; text-shadow: 0 0 8px #34495e;'>المجهول</b> الساحق.<br>عاجزين على حافة النظام الشمسي، تحولت مهمتهم المليئة بالأمل إلى معركة وحشية من أجل البقاء.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 60,
+    "Length": 10,
+    "CoverUrl": "https://archive.org/download/RPRM001/Aphelion%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Aphelion%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Aphelion%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Adventure"],
+    "DeveloperNames": ["DON'T NOD"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP024",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "25 GB",
+            "executable": "PIO-WinGDK-Shipping.exe",
+            "arguments": [],
+            "buildID": "28 April 2026",
+            "filename": "00758.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1777424146459_1",
+    "Name": "Dreamcore Rabbit Hole",
+    "SortingName": "",
+    "Description": "Dreamcore: Rabbit Hole is the story of a person searching for the way back to <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>reality</b> through a series of unsettlingly familiar <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>liminal spaces</b>.<br>Inspired by <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>dreamcore</b> aesthetics and an idealized 1980s <b style='color: #F5DEB3; text-shadow: 0 0 8px #F5DEB3;'>America</b>, each location is a distinct <b style='color: #98FB98; text-shadow: 0 0 8px #98FB98;'>dream world</b> with its own <b style='color: #E6E6FA; text-shadow: 0 0 8px #E6E6FA;'>architecture</b> and <b style='color: #B0E0E6; text-shadow: 0 0 8px #B0E0E6;'>soundscape</b>.<br>The journey is a <b style='color: #708090; text-shadow: 0 0 8px #708090;'>meditative walk</b> through corridors that feel <b style='color: #D8BFD8; text-shadow: 0 0 8px #D8BFD8;'>eerily familiar</b>, like a <b style='color: #ADD8E6; text-shadow: 0 0 8px #ADD8E6;'>memory</b> you can't place.<br>Atmospheres shift from <b style='color: #FFFACD; text-shadow: 0 0 8px #FFFACD;'>cozy</b> to deeply <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>unsettling</b>, pulling the traveler deeper into the <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>psyche</b>.<br>The path is <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>nonlinear</b>, with the <b style='color: #F0E68C; text-shadow: 0 0 8px #F0E68C;'>dream</b> only ending when you decide to <b style='color: #FFFFFF; text-shadow: 0 0 8px #FFFFFF;'>wake up</b>.",
+    "DescriptionArabic": "<div dir='rtl'>أحلام جوهرية: حفرة الأرنب هي قصة شخص يبحث عن طريق العودة إلى <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>الواقع</b> عبر سلسلة من <b style='color: #87CEEB; text-shadow: 0 0 8px #87CEEB;'>المساحات الحدية</b> المألوفة بقلق.<br>مستوحاة من جماليات <b style='color: #DDA0DD; text-shadow: 0 0 8px #DDA0DD;'>أحلام جوهرية</b> وصورة <b style='color: #F5DEB3; text-shadow: 0 0 8px #F5DEB3;'>أمريكا</b> المثالية في الثمانينات، كل موقع هو <b style='color: #98FB98; text-shadow: 0 0 8px #98FB98;'>عالم حلم</b> مميز له <b style='color: #E6E6FA; text-shadow: 0 0 8px #E6E6FA;'>هندسته المعمارية</b> و<b style='color: #B0E0E6; text-shadow: 0 0 8px #B0E0E6;'>مشهده الصوتي</b> الخاص.<br>الرحلة هي <b style='color: #708090; text-shadow: 0 0 8px #708090;'>نزهة تأملية</b> عبر ممرات تشعر بأنها <b style='color: #D8BFD8; text-shadow: 0 0 8px #D8BFD8;'>مألوفة بغرابة</b>، مثل <b style='color: #ADD8E6; text-shadow: 0 0 8px #ADD8E6;'>ذكرى</b> لا يمكنك تحديدها.<br>تتحول الأجواء من <b style='color: #FFFACD; text-shadow: 0 0 8px #FFFACD;'>دافئة</b> إلى <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>مقلقة</b> بعمق، ساحبةً المسافر أعمق في <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>النفس</b>.<br>المسار <b style='color: #A9A9A9; text-shadow: 0 0 8px #A9A9A9;'>غير خطي</b>، ولا ينتهي <b style='color: #F0E68C; text-shadow: 0 0 8px #F0E68C;'>الحلم</b> إلا عندما تقرر <b style='color: #FFFFFF; text-shadow: 0 0 8px #FFFFFF;'>الاستيقاظ</b>.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 70,
+    "Length": 10,
+    "CoverUrl": "https://archive.org/download/RPRM001/Dreamcore%20Rabbit%20Hole%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Dreamcore%20Rabbit%20Hole%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Dreamcore%20Rabbit%20Hole%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Adventure"],
+    "DeveloperNames": ["Ankoku"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP024",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "9 GB",
+            "executable": "DreamcoreRabbitHole.exe",
+            "arguments": [],
+            "buildID": "25 April 2026",
+            "filename": "00759.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1777424146459_2",
+    "Name": "Kingdom Rush Vengeance",
+    "SortingName": "",
+    "Description": "Vez'nan, the once-banished <b style='color: #FF6B6B; text-shadow: 0 0 8px #FF6B6B;'>wizard</b>, has returned with a thirst for <b style='color: #4ECDC4; text-shadow: 0 0 8px #4ECDC4;'>vengeance</b>.<br>He gathers a <b style='color: #FFD166; text-shadow: 0 0 8px #FFD166;'>dark army</b> of <b style='color: #06D6A0; text-shadow: 0 0 8px #06D6A0;'>orcs</b>, <b style='color: #118AB2; text-shadow: 0 0 8px #118AB2;'>goblins</b>, and <b style='color: #073B4C; text-shadow: 0 0 8px #073B4C;'>demons</b> to conquer the once-peaceful <b style='color: #EF476F; text-shadow: 0 0 8px #EF476F;'>kingdom</b>.<br>His goal is clear: march towards the capital of <b style='color: #FFD166; text-shadow: 0 0 8px #FFD166;'>Linirea</b> and claim the throne for himself.<br>Along the way, he must overcome the <b style='color: #06D6A0; text-shadow: 0 0 8px #06D6A0;'>legions</b> of <b style='color: #118AB2; text-shadow: 0 0 8px #118AB2;'>heroes</b> who defend the land.<br>He'll face mighty <b style='color: #073B4C; text-shadow: 0 0 8px #073B4C;'>bosses</b> like <b style='color: #EF476F; text-shadow: 0 0 8px #EF476F;'>Bolgur</b>, Lord of the <b style='color: #FF6B6B; text-shadow: 0 0 8px #FF6B6B;'>Dwarves</b>, and <b style='color: #4ECDC4; text-shadow: 0 0 8px #4ECDC4;'>Jokull</b>, mother of <b style='color: #118AB2; text-shadow: 0 0 8px #118AB2;'>Wyverns</b>.<br>The journey will take him through <b style='color: #06D6A0; text-shadow: 0 0 8px #06D6A0;'>realms</b> old and new, from the <b style='color: #073B4C; text-shadow: 0 0 8px #073B4C;'>Dwarven Kingdom</b> to the <b style='color: #EF476F; text-shadow: 0 0 8px #EF476F;'>desert shores</b>.<br>Will his <b style='color: #FF6B6B; text-shadow: 0 0 8px #FF6B6B;'>devious plans</b> succeed, or will the forces of good prevail?<br>Only time will tell in this twisted tale of <b style='color: #4ECDC4; text-shadow: 0 0 8px #4ECDC4;'>conquest</b> and <b style='color: #118AB2; text-shadow: 0 0 8px #118AB2;'>retribution</b>.",
+    "DescriptionArabic": "<div dir='rtl'>فيزنان، <b style='color: #FF6B6B; text-shadow: 0 0 8px #FF6B6B;'>الساحر</b> المنفي سابقاً، عاد وهو يتوق لل<b style='color: #4ECDC4; text-shadow: 0 0 8px #4ECDC4;'>انتقام</b>.<br>يجمع <b style='color: #FFD166; text-shadow: 0 0 8px #FFD166;'>جيشًا مظلمًا</b> من <b style='color: #06D6A0; text-shadow: 0 0 8px #06D6A0;'>العفاريت</b> و<b style='color: #118AB2; text-shadow: 0 0 8px #118AB2;'>الغوبلينات</b> و<b style='color: #073B4C; text-shadow: 0 0 8px #073B4C;'>الشياطين</b> ليقتحم <b style='color: #EF476F; text-shadow: 0 0 8px #EF476F;'>المملكة</b> التي كانت يومًا مسالمة.<br>هدفه واضح: الزحف نحو عاصمة <b style='color: #FFD166; text-shadow: 0 0 8px #FFD166;'>لينيريا</b> وانتزاع العرش لنفسه.<br>في طريقه، عليه التغلب على <b style='color: #06D6A0; text-shadow: 0 0 8px #06D6A0;'>جحافل</b> <b style='color: #118AB2; text-shadow: 0 0 8px #118AB2;'>الأبطال</b> المدافعين عن الأرض.<br>سيواجه <b style='color: #073B4C; text-shadow: 0 0 8px #073B4C;'>قادةً أشداء</b> مثل <b style='color: #EF476F; text-shadow: 0 0 8px #EF476F;'>بولغور</b>، سيد <b style='color: #FF6B6B; text-shadow: 0 0 8px #FF6B6B;'>الأقزام</b>، و<b style='color: #4ECDC4; text-shadow: 0 0 8px #4ECDC4;'>جوكول</b>، أم <b style='color: #118AB2; text-shadow: 0 0 8px #118AB2;'>الوايفيرنز</b>.<br>ستأخذه الرحلة عبر <b style='color: #06D6A0; text-shadow: 0 0 8px #06D6A0;'>عوالم</b> قديمة وجديدة، من <b style='color: #073B4C; text-shadow: 0 0 8px #073B4C;'>مملكة الأقزام</b> إلى <b style='color: #EF476F; text-shadow: 0 0 8px #EF476F;'>شواطئ الصحراء</b>.<br>هل ستنجح <b style='color: #FF6B6B; text-shadow: 0 0 8px #FF6B6B;'>مخططاته الخبيثة</b>، أم سينتصر قوى الخير؟<br>الزمن فقط من سيحكي في هذه القصة الملتوية عن <b style='color: #4ECDC4; text-shadow: 0 0 8px #4ECDC4;'>الغزو</b> و<b style='color: #118AB2; text-shadow: 0 0 8px #118AB2;'>الثأر</b>.</div>",
+    "ReleaseDate": "2018",
+    "CriticScore": 80,
+    "Length": 20,
+    "CoverUrl": "https://archive.org/download/RPRM001/Kingdom%20Rush%20Vengeance%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Kingdom%20Rush%20Vengeance%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Kingdom%20Rush%20Vengeance%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Tower Defense"],
+    "DeveloperNames": ["Ironhide Game Studio"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP024",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "1 GB",
+            "filename": "00760.zip",
+            "executable": "Kingdom Rush Vengeance.exe",
+            "buildID": "parameter",
+            "arguments": []
           }
         ]
       }
