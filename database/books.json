@@ -7672,5 +7672,29 @@
       "fileSize": "2 GB",
       "hasAudiobook": false
     }
+  },
+  {
+    "_id": "book_1777580857934_ynl2zw6vs",
+    "Title": "Veil",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "Status": {
+      "state": "ongoing",
+      "currentVolume": 7,
+      "currentChapter": null
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/Veil%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga"],
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00373.zip",
+      "fileSize": "1 GB",
+      "hasAudiobook": false
+    }
   }
 ]
