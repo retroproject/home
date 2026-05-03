@@ -7696,5 +7696,2309 @@
       "fileSize": "1 GB",
       "hasAudiobook": false
     }
+  },
+  {
+    "_id": "book_1777636992689_0l5ei5fof",
+    "Title": "House of the Sun",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/House%20of%20the%20Sun%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "completed",
+      "currentVolume": 13,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00374.zip",
+      "fileSize": "3 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777690086687_wyu4gs9uf",
+    "Title": "The Fragrant Flower Blooms With Dignity",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Fragrant%20Flower%20Blooms%20With%20Dignity%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "ongoing",
+      "currentVolume": 12,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00375.zip",
+      "fileSize": "1 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777732217627_ts0xnpvb4",
+    "Title": "2.5 Dimensional Seduction",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/2.5%20Dimensional%20Seduction%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 17,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00376.zip",
+      "fileSize": "3 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777733079723_jfnnnd4j5",
+    "Title": "7th Time Loop The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/7th%20Time%20Loop%20The%20Villainess%20Enjoys%20a%20Carefree%20Life%20Married%20to%20Her%20Worst%20Enemy!%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 7,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00377.zip",
+      "fileSize": "2 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777733375432_n6yqaf1j8",
+    "Title": "A Livid Lady's Guide to Getting Even",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/A%20Livid%20Lady's%20Guide%20to%20Getting%20Even%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 7,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00378.zip",
+      "fileSize": "2 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777733698600_pcl0vcgxq",
+    "Title": "After God",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/After%20God%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 9,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00379.zip",
+      "fileSize": "2 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777733965896_vz8fzdku9",
+    "Title": "Alice in Borderland",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Alice%20in%20Borderland%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 9,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00380.zip",
+      "fileSize": "4 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777734141349_18eidonnv",
+    "Title": "An Archdemon's Dilemma How To Love Your Elf Bride",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/An%20Archdemon's%20Dilemma%20How%20To%20Love%20Your%20Elf%20Bride%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 13,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00381.zip",
+      "fileSize": "8 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777734160513_evnxwcpyu",
+    "Title": "Apocalypse Bringer Mynoghra",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Apocalypse%20Bringer%20Mynoghra%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 4,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00382.zip",
+      "fileSize": "262 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777734369570_1nbazfrwg",
+    "Title": "Arifureta From Commonplace to World's Strongest",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Arifureta%20From%20Commonplace%20to%20World's%20Strongest%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 15,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00383.zip",
+      "fileSize": "5 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777734473077_x6vv3x1e3",
+    "Title": "Backstabbed in a Backwater Dungeon My Party Tried to Kill Me, But Thanks to an Infinite Gacha I Got LVL 9999 Friends and Am Out For Revenge",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Backstabbed%20in%20a%20Backwater%20Dungeon%20My%20Party%20Tried%20to%20Kill%20Me%2C%20But%20Thanks%20to%20an%20Infinite%20Gacha%20I%20Got%20LVL%209999%20Friends%20and%20Am%20Out%20For%20Revenge%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 10,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00384.zip",
+      "fileSize": "2 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777734601567_xjisvkbtv",
+    "Title": "Bloom Into You",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Bloom%20Into%20You%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 8,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00385.zip",
+      "fileSize": "2 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777734887452_nx4uh5qzp",
+    "Title": "Blue Period",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Blue%20Period%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 13,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00386.zip",
+      "fileSize": "6 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777734909070_ycjpmurpy",
+    "Title": "Bocchi the Rock!",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Bocchi%20the%20Rock!%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 7,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00387.zip",
+      "fileSize": "294 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777735112973_m6smrvx98",
+    "Title": "Call of the Night",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Call%20of%20the%20Night%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 20,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00388.zip",
+      "fileSize": "4 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777735185925_tn28i1q2t",
+    "Title": "Chained Soldier",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Chained%20Soldier%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 13,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00389.zip",
+      "fileSize": "972 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777735421472_7rpyyy31q",
+    "Title": "Dandadan",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Dandadan%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 17,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00390.zip",
+      "fileSize": "4 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777735609477_x9t39z9gi",
+    "Title": "Demon Lord, Retry! R",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Demon%20Lord%2C%20Retry!%20R%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 10,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00391.zip",
+      "fileSize": "4 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777735890835_wfe6nsh1a",
+    "Title": "Don't Toy With Me, Miss Nagatoro",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Don't%20Toy%20With%20Me%2C%20Miss%20Nagatoro%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 20,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00392.zip",
+      "fileSize": "6 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777736052678_1pf4zgfq5",
+    "Title": "Dungeon Builder The Demon King's Labyrinth is a Modern City!",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Dungeon%20Builder%20The%20Demon%20King's%20Labyrinth%20is%20a%20Modern%20City!%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 12,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00393.zip",
+      "fileSize": "3 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777736091059_v71d7wv2h",
+    "Title": "Dungeon Friends Forever",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Dungeon%20Friends%20Forever%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 6,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00394.zip",
+      "fileSize": "701 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777736122710_p4qzkqa85",
+    "Title": "Elden Ring The Road to the Erdtree",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Elden%20Ring%20The%20Road%20to%20the%20Erdtree%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 7,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00395.zip",
+      "fileSize": "582 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777736398428_hpefpz9kt",
+    "Title": "Fly Me to the Moon",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Fly%20Me%20to%20the%20Moon%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 31,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00396.zip",
+      "fileSize": "5 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777736564615_7rg3o4g4o",
+    "Title": "Flying Witch",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Flying%20Witch%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 13,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00397.zip",
+      "fileSize": "4 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777736833535_imx6v7idw",
+    "Title": "From Me to You",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/From%20Me%20to%20You%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 30,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00398.zip",
+      "fileSize": "5 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777736913270_j4r57uht8",
+    "Title": "Goblin Slayer",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Goblin%20Slayer%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 16,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00399.zip",
+      "fileSize": "1 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777737438491_o6sueesvv",
+    "Title": "Golden Kamuy",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Golden%20Kamuy%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 31,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00400.zip",
+      "fileSize": "11 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777737466163_0anxthi4u",
+    "Title": "Goodbye, Eri",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Goodbye%2C%20Eri%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 1,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00401.zip",
+      "fileSize": "320 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777737633236_nqzvdlwt4",
+    "Title": "Gushing Over Magical Girls",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Gushing%20Over%20Magical%20Girls%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 11,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00402.zip",
+      "fileSize": "4 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777737665255_gv305wcbf",
+    "Title": "Handyman Saitou in Another World",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Handyman%20Saitou%20in%20Another%20World%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 8,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00403.zip",
+      "fileSize": "498 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777737794272_pwj1zguu1",
+    "Title": "Helck",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Helck%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 12,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00404.zip",
+      "fileSize": "3 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777737937238_v3ofvq550",
+    "Title": "Hell Mode",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Hell%20Mode%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 10,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00405.zip",
+      "fileSize": "2 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777738103456_2qegq92zl",
+    "Title": "Hell's Paradise Jigokuraku",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Hell's%20Paradise%20Jigokuraku%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 13,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00406.zip",
+      "fileSize": "3 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777738169936_d91pfcw3a",
+    "Title": "Hirayasumi",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Hirayasumi%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 8,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00407.zip",
+      "fileSize": "1 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777738206038_e601ps55j",
+    "Title": "How Do I Turn My Best Friend Into My Girlfriend",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/How%20Do%20I%20Turn%20My%20Best%20Friend%20Into%20My%20Girlfriend%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 5,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00408.zip",
+      "fileSize": "532 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777738300571_tqtf0xj1p",
+    "Title": "How Do We Relationship",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/How%20Do%20We%20Relationship%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 13,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00409.zip",
+      "fileSize": "2 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777738349603_ea8fmvj6a",
+    "Title": "I Can't Believe I Slept With You!",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/I%20Can't%20Believe%20I%20Slept%20With%20You!%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 3,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00410.zip",
+      "fileSize": "1007 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777738382630_g27ucmhxh",
+    "Title": "I Got Married to the Girl I Hate Most in Class",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/I%20Got%20Married%20to%20the%20Girl%20I%20Hate%20Most%20in%20Class%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 5,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00411.zip",
+      "fileSize": "651 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777738422343_2jserwlxy",
+    "Title": "I'm a Behemoth, an S-Ranked Monster, but Mistaken for a Cat, I Live as an Elf Girl's Pet",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/I'm%20a%20Behemoth%2C%20an%20S-Ranked%20Monster%2C%20but%20Mistaken%20for%20a%20Cat%2C%20I%20Live%20as%20an%20Elf%20Girl's%20Pet%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 12,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00412.zip",
+      "fileSize": "876 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777738517960_tl9ya8f7m",
+    "Title": "I'm in Love with the Villainess",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/I'm%20in%20Love%20with%20the%20Villainess%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 10,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00413.zip",
+      "fileSize": "2 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777738543823_yuglbojm1",
+    "Title": "Imaizumi Brings All the Gals to His House",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Imaizumi%20Brings%20All%20the%20Gals%20to%20His%20House%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 5,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00414.zip",
+      "fileSize": "380 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777738565879_uawgsicjc",
+    "Title": "In the Land of Leadale",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/In%20the%20Land%20of%20Leadale%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 7,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00415.zip",
+      "fileSize": "425 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777738695255_37dloyyy4",
+    "Title": "Insomniacs After School",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Insomniacs%20After%20School%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 13,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00416.zip",
+      "fileSize": "3 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777738884690_zqp61yf7q",
+    "Title": "Into the Deepest, Most Unknowable Dungeon",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Into%20the%20Deepest%2C%20Most%20Unknowable%20Dungeon%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 12,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00417.zip",
+      "fileSize": "4 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777738958601_vzd1dym8n",
+    "Title": "Konosuba God's Blessing on This Wonderful World!",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Konosuba%20God's%20Blessing%20on%20This%20Wonderful%20World!%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 20,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00418.zip",
+      "fileSize": "1 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777739007821_22qfnmu46",
+    "Title": "Kowloon Generic Romance",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Kowloon%20Generic%20Romance%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 10,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00419.zip",
+      "fileSize": "735 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777739110601_spup1da8w",
+    "Title": "Kubo Won't Let Me Be Invisible",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Kubo%20Won't%20Let%20Me%20Be%20Invisible%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 12,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00420.zip",
+      "fileSize": "2 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777739175678_wmcm0d5ib",
+    "Title": "Laid-Back Camp",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Laid-Back%20Camp%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 17,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00421.zip",
+      "fileSize": "1 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777739254559_59x1maz7q",
+    "Title": "Let's Buy the Land and Cultivate It in a Different World",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Let's%20Buy%20the%20Land%20and%20Cultivate%20It%20in%20a%20Different%20World%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 9,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00422.zip",
+      "fileSize": "2 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777739280564_e2954w2m3",
+    "Title": "Look Back",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Look%20Back%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 1,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00423.zip",
+      "fileSize": "241 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777739443724_bq8r0p77d",
+    "Title": "Mashle Magic and Muscles",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mashle%20Magic%20and%20Muscles%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 18,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00424.zip",
+      "fileSize": "4 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777739478566_g3re3vdog",
+    "Title": "Mieruko-chan",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mieruko-chan%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 11,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00425.zip",
+      "fileSize": "740 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777739619867_51mnw7g6f",
+    "Title": "Miss Kobayashi's Dragon Maid",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Miss%20Kobayashi's%20Dragon%20Maid%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 16,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00426.zip",
+      "fileSize": "3 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777739675027_y06vcyot6",
+    "Title": "My Girlfriend's Not Here Today",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/My%20Girlfriend's%20Not%20Here%20Today%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 6,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00427.zip",
+      "fileSize": "1 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777739825100_fbf76fh0o",
+    "Title": "My Isekai Life",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/My%20Isekai%20Life%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 23,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00428.zip",
+      "fileSize": "3 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777739921166_yayl9i0xt",
+    "Title": "My Senpai is Annoying",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/My%20Senpai%20is%20Annoying%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 13,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00429.zip",
+      "fileSize": "2 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777739992717_ezoro36d1",
+    "Title": "Nichijou",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Nichijou%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 12,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00430.zip",
+      "fileSize": "2 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777740212362_mdv35pgcj",
+    "Title": "Nisekoi False Love",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Nisekoi%20False%20Love%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 25,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00431.zip",
+      "fileSize": "4 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777740293287_9gvzmnqm9",
+    "Title": "ROLL OVER AND DIE I Will Fight for an Ordinary Life with My Love and Cursed Sword!",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/ROLL%20OVER%20AND%20DIE%20I%20Will%20Fight%20for%20an%20Ordinary%20Life%20with%20My%20Love%20and%20Cursed%20Sword!%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 7,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00432.zip",
+      "fileSize": "2 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777740319995_eas6tgcr8",
+    "Title": "RuriDragon",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/RuriDragon%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 3,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00433.zip",
+      "fileSize": "334 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777740531940_8s64ko2ue",
+    "Title": "Sakamoto Days",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Sakamoto%20Days%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 21,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00434.zip",
+      "fileSize": "4 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777740554384_n15czfnz9",
+    "Title": "Secrets of the Silent Witch",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Secrets%20of%20the%20Silent%20Witch%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 4,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00435.zip",
+      "fileSize": "278 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777740570773_xe1yyrjme",
+    "Title": "Sister and Giant A Young Lady Is Reborn in Another World",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Sister%20and%20Giant%20A%20Young%20Lady%20Is%20Reborn%20in%20Another%20World%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 5,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00436.zip",
+      "fileSize": "362 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777740698979_u1yhulsg8",
+    "Title": "Skip and Loafer",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Skip%20and%20Loafer%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 11,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00437.zip",
+      "fileSize": "3 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777741144411_89574bgq4",
+    "Title": "Skip Beat!",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Skip%20Beat!%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 51,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00438.zip",
+      "fileSize": "9 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777741387083_1br3lb5b4",
+    "Title": "Sleepy Princess in the Demon Castle",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Sleepy%20Princess%20in%20the%20Demon%20Castle%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 29,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00439.zip",
+      "fileSize": "5 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777741452005_7emb4qb7j",
+    "Title": "Smoking Behind the Supermarket with You",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Smoking%20Behind%20the%20Supermarket%20with%20You%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 6,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00440.zip",
+      "fileSize": "1 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777741490154_syz24uw9t",
+    "Title": "So What's Wrong with Getting Reborn as a Goblin",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/So%20What's%20Wrong%20with%20Getting%20Reborn%20as%20a%20Goblin%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 9,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00441.zip",
+      "fileSize": "727 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777741503823_dxnd70g12",
+    "Title": "Statues Junji Ito Story Collection",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Statues%20Junji%20Ito%20Story%20Collection%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 1,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00442.zip",
+      "fileSize": "246 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777741573877_wxurupukn",
+    "Title": "Survival in Another World with My Mistress",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Survival%20in%20Another%20World%20with%20My%20Mistress%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 8,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00443.zip",
+      "fileSize": "2 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777741611266_tua9ziar4",
+    "Title": "Takopi's Original Sin",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Takopi's%20Original%20Sin%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 1,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00444.zip",
+      "fileSize": "575 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777741832738_ar0jeent2",
+    "Title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20100%20Girlfriends%20Who%20Really%2C%20Really%2C%20Really%2C%20Really%2C%20REALLY%20Love%20You%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 16,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00445.zip",
+      "fileSize": "4 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777742175505_u7vp8wmes",
+    "Title": "The Ancient Magus' Bride",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Ancient%20Magus'%20Bride%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 21,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00446.zip",
+      "fileSize": "8 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777742280305_ewhyelpxs",
+    "Title": "The Apothecary Diaries",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Apothecary%20Diaries%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 15,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00447.zip",
+      "fileSize": "2 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777742318610_ib89nun8d",
+    "Title": "The Barbarian's Bride",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Barbarian's%20Bride%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 5,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00448.zip",
+      "fileSize": "673 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777742460042_cem4rq2ne",
+    "Title": "The Dangers in My Heart",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Dangers%20in%20My%20Heart%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 12,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00449.zip",
+      "fileSize": "3 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777742508740_gp4s0zwt9",
+    "Title": "The Eminence in Shadow",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Eminence%20in%20Shadow%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 13,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00450.zip",
+      "fileSize": "814 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777742527826_zw3zofza5",
+    "Title": "The Guy She Was Interested In Wasn't a Guy at All",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Guy%20She%20Was%20Interested%20In%20Wasn't%20a%20Guy%20at%20All%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 3,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00451.zip",
+      "fileSize": "229 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777742699769_xtwic64fn",
+    "Title": "The Invincible Little Lady",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Invincible%20Little%20Lady%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 12,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00452.zip",
+      "fileSize": "3 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777742735258_ou54qqumq",
+    "Title": "The Strange House",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Strange%20House%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 5,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00453.zip",
+      "fileSize": "592 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777742763386_bed0g7kl5",
+    "Title": "The Summer Hikaru Died",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Summer%20Hikaru%20Died%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 6,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00454.zip",
+      "fileSize": "522 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777742817170_zv2ufiaov",
+    "Title": "The Summer You Were There",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Summer%20You%20Were%20There%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 6,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00455.zip",
+      "fileSize": "1 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777743000226_7w6jihwcq",
+    "Title": "The Way of the Househusband",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Way%20of%20the%20Househusband%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 15,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00456.zip",
+      "fileSize": "3 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777743037095_gek0678xu",
+    "Title": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20World's%20Finest%20Assassin%20Gets%20Reincarnated%20in%20Another%20World%20as%20an%20Aristocrat%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 8,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00457.zip",
+      "fileSize": "599 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777743094651_q5kyj1utw",
+    "Title": "There's No Freaking Way I'll be Your Lover! Unless",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/There's%20No%20Freaking%20Way%20I'll%20be%20Your%20Lover!%20Unless%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 7,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00458.zip",
+      "fileSize": "1 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777743118957_9uvwnmfd8",
+    "Title": "This Monster Wants to Eat Me",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/This%20Monster%20Wants%20to%20Eat%20Me%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 5,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00459.zip",
+      "fileSize": "361 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777743490121_am0vygqph",
+    "Title": "To Your Eternity",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/To%20Your%20Eternity%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 22,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00460.zip",
+      "fileSize": "7 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777743609847_fx36e9xiv",
+    "Title": "Trinity Seven",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Trinity%20Seven%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 31,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00461.zip",
+      "fileSize": "2 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777743665932_atqmdwb4u",
+    "Title": "Uncle from Another World",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Uncle%20from%20Another%20World%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 12,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00462.zip",
+      "fileSize": "1 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777743815594_pknan4g6d",
+    "Title": "Uzaki-chan Wants to Hang Out!",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Uzaki-chan%20Wants%20to%20Hang%20Out!%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 13,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00463.zip",
+      "fileSize": "3 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777743831681_wccd6cqj7",
+    "Title": "Virgin Knight I Became the Frontier Lord in a World Ruled by Women",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Virgin%20Knight%20I%20Became%20the%20Frontier%20Lord%20in%20a%20World%20Ruled%20by%20Women%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 2,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00464.zip",
+      "fileSize": "214 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777743873612_d0dfueftd",
+    "Title": "Wash It All Away",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Wash%20It%20All%20Away%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 6,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00465.zip",
+      "fileSize": "773 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777743982544_4cbe81bxt",
+    "Title": "Wotakoi Love Is Hard for Otaku",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Wotakoi%20Love%20Is%20Hard%20for%20Otaku%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 6,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00466.zip",
+      "fileSize": "3 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777744136862_xvcgoxnf1",
+    "Title": "Yokohama Kaidashi Kikou",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Yokohama%20Kaidashi%20Kikou%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 5,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00467.zip",
+      "fileSize": "3 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777744537817_05wv8a0fu",
+    "Title": "Yona of the Dawn",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Yona%20of%20the%20Dawn%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 45,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00468.zip",
+      "fileSize": "9 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1777744624759_avbukbexv",
+    "Title": "You and I Are Polar Opposites",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/You%20and%20I%20Are%20Polar%20Opposites%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga", "Hide"],
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 8,
+      "currentChapter": null
+    },
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00469.zip",
+      "fileSize": "2 GB",
+      "hasAudiobook": false
+    }
   }
 ]
