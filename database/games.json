@@ -15423,13 +15423,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "retro-pc",
+            "identifier": "RPRP031",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "grandia.exe",
             "fileSize": "5GB",
             "buildID": "26 May 2022",
-            "filename": "GRANDIA.zip"
+            "filename": "01744.zip"
           }
         ]
       }
@@ -18947,14 +18947,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC43",
+            "identifier": "RPRP031",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "5GB",
             "arguments": [],
             "executable": "Precinct.exe",
             "buildID": "2 April 2026",
-            "filename": "The Precinct.zip"
+            "filename": "01742.zip"
           }
         ]
       }
@@ -23949,13 +23949,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC37",
+            "identifier": "RPRP031",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "game.exe",
             "fileSize": "5GB",
             "buildID": "21 December 2025",
-            "filename": "Gal Guardians Servants of the Dark.zip"
+            "filename": "01743.zip"
           }
         ]
       }
@@ -34626,7 +34626,7 @@
   {
     "_id": "59c5ebe8-c7be-4860-9af4-d67d997702bb",
     "Name": "Soul Eater: Battle Resonance",
-    "SortingName": "",
+    "SortingName": "Soul Eater 01",
     "Description": "At the legendary <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Death Weapon Meister Academy</span>, students forge sacred bonds between <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>weapon</span> and <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>meister</span> to combat encroaching madness.<br><span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Maka Albarn</span> and her scythe partner <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Soul Evans</span> must achieve perfect <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>soul resonance</span> while hunting <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>kishin eggs</span> that spawn nightmares into reality.<br>Each battle tests not only combat prowess but the unbreakable trust required when souls synchronize against forces that seek to unravel <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>sanity itself</span>.<br>Victory belongs to those whose <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>resonance</span> burns brighter than <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>darkness</span> and <span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>madness</span>.",
     "DescriptionArabic": "في <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>أكاديمية أسياد أسلحة الموت</span> الأسطورية، يصنع الطلاب روابط مقدسة بين <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>السلاح</span> و<span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>السيد</span> لمحاربة الجنون الزاحف.<br>على <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>ماكا ألبارن</span> وشريكها المنجل <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>سول إيفانز</span> تحقيق <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>رنين الروح</span> المثالي أثناء صيد <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>بيوض الكيشين</span> التي تولد الكوابيس للواقع.<br>كل معركة تختبر ليس فقط البراعة القتالية بل الثقة التي لا تنكسر المطلوبة عندما تتزامن الأرواح ضد قوى تسعى لكشف <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>العقل ذاته</span>.<br>النصر ينتمي لأولئك الذين <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>رنينهم</span> يحترق أسطع من <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>الظلام</span> و<span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>الجنون</span>.",
     "ReleaseDate": "2009",
@@ -37656,13 +37656,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC03",
+            "identifier": "RPRP031",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "4GB",
             "arguments": [],
             "executable": "RXC2.exe",
-            "filename": "Mega Man Legacy Collection 2.zip"
+            "filename": "01745.zip"
           }
         ]
       }
@@ -76222,13 +76222,13 @@
             "filename": "01261.zip"
           },
           {
-            "identifier": "COPC03",
+            "identifier": "RPRP031",
             "name": "Offline",
             "platform": "PC Game",
             "fileSize": "3GB",
             "arguments": [],
             "executable": "Magicka2.exe",
-            "filename": "Magicka 2.zip"
+            "filename": "01746.zip"
           }
         ]
       }
@@ -77462,22 +77462,22 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPCAR02",
+            "identifier": "RPRP031",
             "name": "Arabic Enhanced",
             "platform": "PC Game",
-            "fileSize": "39GB",
+            "fileSize": "40GB",
             "arguments": [],
             "executable": "Bin32\\bio4.exe",
-            "filename": "Resident Evil 4.zip"
+            "filename": "01751.zip"
           },
           {
-            "identifier": "CPC40",
+            "identifier": "RPRP031",
             "name": "English Enhanced",
             "platform": "PC Game",
-            "fileSize": "37GB",
+            "fileSize": "40GB",
             "arguments": [],
             "executable": "Bin32\\bio4.exe",
-            "filename": "Resident Evil 4.zip"
+            "filename": "01750.zip"
           }
         ]
       }
@@ -127121,7 +127121,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1777424146459_1",
@@ -127157,7 +127157,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1777424146459_2",
@@ -127193,7 +127193,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1777780897378_0",
@@ -127228,7 +127228,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1777780897378_1",
@@ -127263,7 +127263,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1777780897378_2",
@@ -127294,11 +127294,21 @@
             "arguments": [],
             "buildID": "4 May 2026",
             "filename": "01724.zip"
+          },
+          {
+            "identifier": "RPRP031",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "executable": "FarFarWest.exe",
+            "arguments": [],
+            "buildID": "601",
+            "filename": "01749.zip"
           }
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1777780897378_3",
@@ -127333,7 +127343,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1777780897378_4",
@@ -127368,7 +127378,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1777780897378_5",
@@ -127403,7 +127413,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1777879274589_0",
@@ -127438,7 +127448,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1777879274589_1",
@@ -127473,7 +127483,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1777879274589_2",
@@ -127508,7 +127518,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1777879274589_3",
@@ -127543,7 +127553,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1777879274589_4",
@@ -127578,7 +127588,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1777879274589_5",
@@ -127613,7 +127623,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1777879274589_6",
@@ -127648,7 +127658,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1778021049872_0",
@@ -127683,7 +127693,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1778021049872_2",
@@ -127718,7 +127728,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1778021049872_3",
@@ -127753,7 +127763,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1778021049872_4",
@@ -127788,7 +127798,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1778021049872_5",
@@ -127823,7 +127833,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1778021049872_6",
@@ -127858,16 +127868,17 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1778113783966_0",
     "Name": "Soul Eater Monotone Princess",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "SortingName": "Soul Eater 02",
+    "Description": "In <b style='color: #FF6B6B; text-shadow: 0 0 8px #FF6B6B;'>Soul Eater: Monotone Princess</b>, students of the <b style='color: #4ECDC4; text-shadow: 0 0 8px #4ECDC4;'>Death Weapon Meister Academy</b> battle the enigmatic <b style='color: #45B7D1; text-shadow: 0 0 8px #45B7D1;'>Paraponera Clan</b>. Lead <b style='color: #F7DC6F; text-shadow: 0 0 8px #F7DC6F;'>Maka</b>, <b style='color: #A2D9CE; text-shadow: 0 0 8px #A2D9CE;'>Black Star</b>, or <b style='color: #D63384; text-shadow: 0 0 8px #D63384;'>Death the Kid</b> to confront masked foes and uncover the secrets of the <b style='color: #96CEB4; text-shadow: 0 0 8px #96CEB4;'>Monotone Princess</b>.<br>Dynamic combat blends exploration and boss fights, with unique characters like <b style='color: #88D8B0; text-shadow: 0 0 8px #88D8B0;'>Grimoire</b> and <b style='color: #FF9A8B; text-shadow: 0 0 8px #FF9A8B;'>Ponera</b> adding depth to the conflict. The game's <b style='color: #82E0AA; text-shadow: 0 0 8px #82E0AA;'>Wii</b>-exclusive action weaves anime-inspired thrills with strategic missions.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في <b style='color: #FF6B6B; text-shadow: 0 0 8px #FF6B6B;'>سول إيتر: مونوتون برينسيس</b>، يواجه طلاب <b style='color: #4ECDC4; text-shadow: 0 0 8px #4ECDC4;'>أكاديمية ويبن ميستر</b> العائلة المجهولة <b style='color: #45B7D1; text-shadow: 0 0 8px #45B7D1;'>بارا بونيرا</b>. توجّه مع <b style='color: #F7DC6F; text-shadow: 0 0 8px #F7DC6F;'>ماكا</b> أو <b style='color: #A2D9CE; text-shadow: 0 0 8px #A2D9CE;'>بلاك ستار</b> أو <b style='color: #D63384; text-shadow: 0 0 8px #D63384;'>ديث ذا كيد</b> لمحاربة الأعداء المقنعين واكتشاف أسرار <b style='color: #96CEB4; text-shadow: 0 0 8px #96CEB4;'>الملكة الصامتة</b>.<br>تجمع المغامرة بين القتال الديناميكي والمهام الاستراتيجية، مع شخصيات فريدة مثل <b style='color: #88D8B0; text-shadow: 0 0 8px #88D8B0;'>جرايموир</b> و <b style='color: #FF9A8B; text-shadow: 0 0 8px #FF9A8B;'>بونيرا</b> التي تضيف عمقًا للصراع. تدمج اللعبة الحركة والتشويق الأنيمي مع مهام حصرية لجهاز <b style='color: #82E0AA; text-shadow: 0 0 8px #82E0AA;'>ويب</b>.<br></div>",
+    "ReleaseDate": "2008",
+    "CriticScore": 60,
+    "Length": 10,
     "CoverUrl": "https://archive.org/download/RPRM001/Soul%20Eater%20Monotone%20Princess%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Soul%20Eater%20Monotone%20Princess%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Soul%20Eater%20Monotone%20Princess%20Theme.mp3",
@@ -127875,8 +127886,8 @@
     "videoStart": 0,
     "videoEnd": 0,
     "PlatformNames": ["Nintendo Wii"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Hack and Slash"],
+    "DeveloperNames": ["Square Enix"],
     "downloadInfo": {
       "Nintendo Wii": {
         "versions": [
@@ -127885,15 +127896,16 @@
             "name": "Vanilla",
             "platform": "Nintendo Wii",
             "fileSize": "2 GB",
-            "filename": "Soul Eater Monotone Princess.rvz",
             "romFile": "Soul Eater Monotone Princess.rvz",
             "emulator": "Dolphin",
-            "arguments": []
+            "arguments": [],
+            "buildID": "1.1",
+            "filename": "Soul Eater Monotone Princess.rvz"
           }
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1778113783966_1",
@@ -127924,6 +127936,110 @@
             "romFile": "Tatsunoko vs. Capcom  Ultimate All-Stars.iso",
             "emulator": "Dolphin",
             "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": []
+  },
+  {
+    "_id": "game_1778126891137_0",
+    "Name": "Lucky Luke",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Lucky%20Luke%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Lucky%20Luke%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Lucky%20Luke%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Lucky%20Luke%20Trailer.mp4",
+    "videoStart": 7.4,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "retro-psx",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation",
+            "fileSize": "274 MB",
+            "filename": "Lucky Luke.chd",
+            "romFile": "Lucky Luke.chd",
+            "emulator": "DuckStation",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1778134527847_0",
+    "Name": "Conan Exiles Enhanced",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Conan%20Exiles%20Enhanced%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Conan%20Exiles%20Enhanced%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Conan%20Exiles%20Enhanced%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP031",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "58 GB",
+            "executable": "ConanSandbox.exe",
+            "arguments": [],
+            "buildID": "6 May 2026",
+            "filename": "01747.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778134527847_1",
+    "Name": "Starship Troopers Ultimate Bug War",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Starship%20Troopers%20Ultimate%20Bug%20War%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Starship%20Troopers%20Ultimate%20Bug%20War%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Starship%20Troopers%20Ultimate%20Bug%20War%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP031",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "executable": "StarshipTroopers_UBW.exe",
+            "arguments": [],
+            "buildID": "4 May 2026",
+            "filename": "01748.zip"
           }
         ]
       }
