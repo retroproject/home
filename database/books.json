@@ -5637,6 +5637,10 @@
     "CoverUrl": "https://archive.org/download/RPRM001/To%20Your%20Eternity%20Cover.jpg",
     "Genre": ["Fantasy"],
     "Tags": ["Manga"],
+    "Status": {
+      "state": "ongoing",
+      "currentVolume": 22
+    },
     "packageUrl": {
       "identifier": "RBRB001",
       "filename": "00264.zip",
@@ -6422,7 +6426,7 @@
     "CriticScore": 80,
     "CoverUrl": "https://archive.org/download/RPRM001/Kaiju%20No%208%20Cover.jpg",
     "Genre": ["Action"],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "packageUrl": {
       "identifier": "RBRB001",
       "filename": "00316.zip",
@@ -7708,7 +7712,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/House%20of%20the%20Sun%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "completed",
       "currentVolume": 13,
@@ -7732,7 +7736,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Fragrant%20Flower%20Blooms%20With%20Dignity%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "ongoing",
       "currentVolume": 12,
@@ -7756,7 +7760,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/2.5%20Dimensional%20Seduction%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 17,
@@ -7780,7 +7784,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/7th%20Time%20Loop%20The%20Villainess%20Enjoys%20a%20Carefree%20Life%20Married%20to%20Her%20Worst%20Enemy!%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 7,
@@ -7804,7 +7808,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/A%20Livid%20Lady's%20Guide%20to%20Getting%20Even%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 7,
@@ -7828,7 +7832,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/After%20God%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 9,
@@ -7852,7 +7856,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Alice%20in%20Borderland%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 9,
@@ -7876,7 +7880,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/An%20Archdemon's%20Dilemma%20How%20To%20Love%20Your%20Elf%20Bride%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 13,
@@ -7900,7 +7904,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Apocalypse%20Bringer%20Mynoghra%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 4,
@@ -7924,7 +7928,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Arifureta%20From%20Commonplace%20to%20World's%20Strongest%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 15,
@@ -7948,7 +7952,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Backstabbed%20in%20a%20Backwater%20Dungeon%20My%20Party%20Tried%20to%20Kill%20Me%2C%20But%20Thanks%20to%20an%20Infinite%20Gacha%20I%20Got%20LVL%209999%20Friends%20and%20Am%20Out%20For%20Revenge%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 10,
@@ -7972,7 +7976,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Bloom%20Into%20You%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 8,
@@ -7996,7 +8000,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Blue%20Period%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 13,
@@ -8020,7 +8024,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Bocchi%20the%20Rock!%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 7,
@@ -8044,7 +8048,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Call%20of%20the%20Night%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 20,
@@ -8068,7 +8072,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Chained%20Soldier%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 13,
@@ -8092,7 +8096,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Dandadan%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 17,
@@ -8116,7 +8120,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Demon%20Lord%2C%20Retry!%20R%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 10,
@@ -8140,7 +8144,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Don't%20Toy%20With%20Me%2C%20Miss%20Nagatoro%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 20,
@@ -8164,7 +8168,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Dungeon%20Builder%20The%20Demon%20King's%20Labyrinth%20is%20a%20Modern%20City!%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 12,
@@ -8188,7 +8192,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Dungeon%20Friends%20Forever%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 6,
@@ -8212,7 +8216,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Elden%20Ring%20The%20Road%20to%20the%20Erdtree%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 7,
@@ -8236,7 +8240,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Fly%20Me%20to%20the%20Moon%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 31,
@@ -8260,7 +8264,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Flying%20Witch%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 13,
@@ -8284,7 +8288,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/From%20Me%20to%20You%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 30,
@@ -8308,7 +8312,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Goblin%20Slayer%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 16,
@@ -8332,7 +8336,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Golden%20Kamuy%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 31,
@@ -8356,7 +8360,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Goodbye%2C%20Eri%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 1,
@@ -8380,7 +8384,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Gushing%20Over%20Magical%20Girls%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 11,
@@ -8404,7 +8408,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Handyman%20Saitou%20in%20Another%20World%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 8,
@@ -8428,7 +8432,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Helck%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 12,
@@ -8452,7 +8456,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Hell%20Mode%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 10,
@@ -8476,7 +8480,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Hell's%20Paradise%20Jigokuraku%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 13,
@@ -8500,7 +8504,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Hirayasumi%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 8,
@@ -8524,7 +8528,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/How%20Do%20I%20Turn%20My%20Best%20Friend%20Into%20My%20Girlfriend%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 5,
@@ -8548,7 +8552,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/How%20Do%20We%20Relationship%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 13,
@@ -8572,7 +8576,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/I%20Can't%20Believe%20I%20Slept%20With%20You!%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 3,
@@ -8596,7 +8600,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/I%20Got%20Married%20to%20the%20Girl%20I%20Hate%20Most%20in%20Class%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 5,
@@ -8620,7 +8624,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/I'm%20a%20Behemoth%2C%20an%20S-Ranked%20Monster%2C%20but%20Mistaken%20for%20a%20Cat%2C%20I%20Live%20as%20an%20Elf%20Girl's%20Pet%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 12,
@@ -8644,7 +8648,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/I'm%20in%20Love%20with%20the%20Villainess%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 10,
@@ -8668,7 +8672,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Imaizumi%20Brings%20All%20the%20Gals%20to%20His%20House%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 5,
@@ -8692,7 +8696,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/In%20the%20Land%20of%20Leadale%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 7,
@@ -8716,7 +8720,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Insomniacs%20After%20School%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 13,
@@ -8740,7 +8744,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Into%20the%20Deepest%2C%20Most%20Unknowable%20Dungeon%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 12,
@@ -8764,7 +8768,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Konosuba%20God's%20Blessing%20on%20This%20Wonderful%20World!%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 20,
@@ -8788,7 +8792,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Kowloon%20Generic%20Romance%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 10,
@@ -8812,7 +8816,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Kubo%20Won't%20Let%20Me%20Be%20Invisible%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 12,
@@ -8836,7 +8840,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Laid-Back%20Camp%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 17,
@@ -8860,7 +8864,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Let's%20Buy%20the%20Land%20and%20Cultivate%20It%20in%20a%20Different%20World%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 9,
@@ -8884,7 +8888,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Look%20Back%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 1,
@@ -8908,7 +8912,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Mashle%20Magic%20and%20Muscles%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 18,
@@ -8932,7 +8936,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Mieruko-chan%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 11,
@@ -8956,7 +8960,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Miss%20Kobayashi's%20Dragon%20Maid%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 16,
@@ -8980,7 +8984,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/My%20Girlfriend's%20Not%20Here%20Today%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 6,
@@ -9004,7 +9008,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/My%20Isekai%20Life%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 23,
@@ -9028,7 +9032,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/My%20Senpai%20is%20Annoying%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 13,
@@ -9052,7 +9056,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Nichijou%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 12,
@@ -9076,7 +9080,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Nisekoi%20False%20Love%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 25,
@@ -9100,7 +9104,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/ROLL%20OVER%20AND%20DIE%20I%20Will%20Fight%20for%20an%20Ordinary%20Life%20with%20My%20Love%20and%20Cursed%20Sword!%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 7,
@@ -9124,7 +9128,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/RuriDragon%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 3,
@@ -9148,7 +9152,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Sakamoto%20Days%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 21,
@@ -9172,7 +9176,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Secrets%20of%20the%20Silent%20Witch%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 4,
@@ -9196,7 +9200,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Sister%20and%20Giant%20A%20Young%20Lady%20Is%20Reborn%20in%20Another%20World%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 5,
@@ -9220,7 +9224,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Skip%20and%20Loafer%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 11,
@@ -9244,7 +9248,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Skip%20Beat!%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 51,
@@ -9268,7 +9272,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Sleepy%20Princess%20in%20the%20Demon%20Castle%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 29,
@@ -9292,7 +9296,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Smoking%20Behind%20the%20Supermarket%20with%20You%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 6,
@@ -9316,7 +9320,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/So%20What's%20Wrong%20with%20Getting%20Reborn%20as%20a%20Goblin%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 9,
@@ -9340,7 +9344,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Statues%20Junji%20Ito%20Story%20Collection%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 1,
@@ -9364,7 +9368,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Survival%20in%20Another%20World%20with%20My%20Mistress%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 8,
@@ -9388,7 +9392,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Takopi's%20Original%20Sin%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 1,
@@ -9412,7 +9416,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/The%20100%20Girlfriends%20Who%20Really%2C%20Really%2C%20Really%2C%20Really%2C%20REALLY%20Love%20You%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 16,
@@ -9436,7 +9440,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Ancient%20Magus'%20Bride%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 21,
@@ -9460,7 +9464,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Apothecary%20Diaries%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 15,
@@ -9484,7 +9488,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Barbarian's%20Bride%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 5,
@@ -9508,7 +9512,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Dangers%20in%20My%20Heart%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 12,
@@ -9532,7 +9536,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Eminence%20in%20Shadow%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 13,
@@ -9556,7 +9560,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Guy%20She%20Was%20Interested%20In%20Wasn't%20a%20Guy%20at%20All%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 3,
@@ -9580,7 +9584,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Invincible%20Little%20Lady%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 12,
@@ -9604,7 +9608,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Strange%20House%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 5,
@@ -9628,7 +9632,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Summer%20Hikaru%20Died%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 6,
@@ -9652,7 +9656,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Summer%20You%20Were%20There%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 6,
@@ -9676,7 +9680,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Way%20of%20the%20Househusband%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 15,
@@ -9700,7 +9704,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/The%20World's%20Finest%20Assassin%20Gets%20Reincarnated%20in%20Another%20World%20as%20an%20Aristocrat%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 8,
@@ -9724,7 +9728,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/There's%20No%20Freaking%20Way%20I'll%20be%20Your%20Lover!%20Unless%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 7,
@@ -9748,7 +9752,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/This%20Monster%20Wants%20to%20Eat%20Me%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 5,
@@ -9758,30 +9762,6 @@
       "identifier": "RBRB002",
       "filename": "00459.zip",
       "fileSize": "361 MB",
-      "hasAudiobook": false
-    }
-  },
-  {
-    "_id": "book_1777743490121_am0vygqph",
-    "Title": "To Your Eternity",
-    "SortingTitle": "",
-    "Author": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": "",
-    "CriticScore": null,
-    "CoverUrl": "https://archive.org/download/RPRM001/To%20Your%20Eternity%20Cover.jpg",
-    "Genre": [],
-    "Tags": ["Manga", "Hide"],
-    "Status": {
-      "state": "unknown",
-      "currentVolume": 22,
-      "currentChapter": null
-    },
-    "packageUrl": {
-      "identifier": "RBRB002",
-      "filename": "00460.zip",
-      "fileSize": "7 GB",
       "hasAudiobook": false
     }
   },
@@ -9796,7 +9776,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Trinity%20Seven%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 31,
@@ -9820,7 +9800,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Uncle%20from%20Another%20World%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 12,
@@ -9844,7 +9824,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Uzaki-chan%20Wants%20to%20Hang%20Out!%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 13,
@@ -9868,7 +9848,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Virgin%20Knight%20I%20Became%20the%20Frontier%20Lord%20in%20a%20World%20Ruled%20by%20Women%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 2,
@@ -9892,7 +9872,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Wash%20It%20All%20Away%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 6,
@@ -9916,7 +9896,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Wotakoi%20Love%20Is%20Hard%20for%20Otaku%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 6,
@@ -9940,7 +9920,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Yokohama%20Kaidashi%20Kikou%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 5,
@@ -9964,7 +9944,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/Yona%20of%20the%20Dawn%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 45,
@@ -9988,7 +9968,7 @@
     "CriticScore": null,
     "CoverUrl": "https://archive.org/download/RPRM001/You%20and%20I%20Are%20Polar%20Opposites%20Cover.jpg",
     "Genre": [],
-    "Tags": ["Manga", "Hide"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 8,
