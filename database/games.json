@@ -43529,12 +43529,13 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC13",
-            "filename": "Dying Light 2.zip",
+            "identifier": "RPRP031",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "Launcher.exe",
-            "fileSize": "54GB"
+            "executable": "ph\\work\\bin\\x64\\DyingLightGame_x64_rwdi.exe",
+            "fileSize": "65GB",
+            "buildID": "5 May 2026",
+            "filename": "01758.zip"
           }
         ]
       }
@@ -105832,6 +105833,16 @@
         "versions": [
           {
             "identifier": "RPRP003",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "70GB",
+            "executable": "ph_ft\\work\\bin\\x64\\DyingLightGame_TheBeast_x64_rwdi.exe",
+            "buildID": "29 April 2026",
+            "arguments": [],
+            "filename": "00081.zip"
+          },
+          {
+            "identifier": "RPRP003",
             "name": "Online",
             "platform": "PC Game",
             "fileSize": "60GB",
@@ -105839,16 +105850,6 @@
             "buildID": "1.2.0C",
             "arguments": [],
             "filename": "00095.zip"
-          },
-          {
-            "identifier": "RPRP003",
-            "name": "Offline",
-            "platform": "PC Game",
-            "fileSize": "70GB",
-            "executable": "ph_ft\\work\\bin\\x64\\DyingLightGame_TheBeast_x64_rwdi.exe",
-            "buildID": "2 April 2026",
-            "arguments": [],
-            "filename": "00081.zip"
           }
         ]
       }
@@ -128009,7 +128010,7 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": ["Hide"]
   },
   {
     "_id": "game_1778134527847_1",
