@@ -68575,20 +68575,20 @@
         "versions": [
           {
             "identifier": "retro-ps2",
-            "filename": "Legend of Legaia 2 Duel Saga (Undub).iso",
             "name": "Japanese VA",
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "2GB",
-            "romFile": "Legend of Legaia 2 Duel Saga (Undub).iso"
+            "romFile": "Legend of Legaia 2 Duel Saga (Undub).iso",
+            "filename": "Legend of Legaia 2 Duel Saga (Undub).iso"
           },
           {
             "identifier": "retro-ps2",
-            "filename": "Legend of Legaia 2 Duel Saga HD Textures.zip",
-            "name": "Vanilla",
+            "name": "HD Textures",
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
-            "fileSize": "400MB"
+            "fileSize": "400MB",
+            "filename": "Legend of Legaia 2 Duel Saga HD Textures.zip"
           }
         ]
       }
@@ -128045,5 +128045,203 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1778254997601_0",
+    "Name": "Adorable Adventures",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Adorable%20Adventures%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Adorable%20Adventures%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Adorable%20Adventures%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP031",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "filename": "01752.zip",
+            "executable": "Adorable.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1778254997602_1",
+    "Name": "Adventure of Samsara",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Adventure%20of%20Samsara%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Adventure%20of%20Samsara%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Adventure%20of%20Samsara%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP031",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "10 GB",
+            "filename": "01753.zip",
+            "executable": "Adventure of Samsara.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1778254997602_2",
+    "Name": "Tempest Rising",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Tempest%20Rising%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Tempest%20Rising%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Tempest%20Rising%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP031",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "47 GB",
+            "filename": "01754.zip",
+            "executable": "Tempest.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1778254997602_3",
+    "Name": "The Awakener Battle Tendency",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Awakener%20Battle%20Tendency%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Awakener%20Battle%20Tendency%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/The%20Awakener%20Battle%20Tendency%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP031",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "24 GB",
+            "filename": "01755.zip",
+            "executable": "The Awakener Battle Tendency.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1778254997602_4",
+    "Name": "The Spell Brigade",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/The%20Spell%20Brigade%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Spell%20Brigade%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/The%20Spell%20Brigade%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP031",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "filename": "01756.zip",
+            "executable": "TheSpellBrigade.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1778254997602_5",
+    "Name": "WILL Follow The Light",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/WILL%20Follow%20The%20Light%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/WILL%20Follow%20The%20Light%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/WILL%20Follow%20The%20Light%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP031",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "22 GB",
+            "filename": "01757.zip",
+            "executable": "Will.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
