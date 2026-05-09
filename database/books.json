@@ -10060,5 +10060,53 @@
       "fileSize": "8 GB",
       "hasAudiobook": false
     }
+  },
+  {
+    "_id": "book_1778327919809_8vg2bv1jp",
+    "Title": "Nausicaa of the Valley of the Wind",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "Status": {
+      "state": "completed",
+      "currentVolume": 2,
+      "currentChapter": null
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/Nausicaa%20of%20the%20Valley%20of%20the%20Wind%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga"],
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00473.zip",
+      "fileSize": "3 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1778328032781_f5wbsggxk",
+    "Title": "Vinland Saga",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "Status": {
+      "state": "completed",
+      "currentVolume": 13,
+      "currentChapter": null
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/Vinland%20Saga%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga"],
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00474.zip",
+      "fileSize": "8 GB",
+      "hasAudiobook": false
+    }
   }
 ]
