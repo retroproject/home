@@ -128102,7 +128102,7 @@
         ]
       }
     },
-    "Tags": ["Need Music", "Hide"]
+    "Tags": ["Need Music"]
   },
   {
     "_id": "game_1778254997602_1",
@@ -128138,7 +128138,7 @@
         ]
       }
     },
-    "Tags": ["Need Music", "Hide"]
+    "Tags": ["Need Music"]
   },
   {
     "_id": "game_1778254997602_2",
@@ -128174,7 +128174,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1778254997602_3",
@@ -128210,7 +128210,7 @@
         ]
       }
     },
-    "Tags": ["Need Music", "Hide"]
+    "Tags": ["Need Music"]
   },
   {
     "_id": "game_1778254997602_4",
@@ -128246,7 +128246,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1778254997602_5",
@@ -128255,7 +128255,7 @@
     "Description": "<b style='color: #1E3A5F; text-shadow: 0 0 8px #1E3A5F;'>Will</b> watches over his lonely <b style='color: #4A6FA5; text-shadow: 0 0 8px #4A6FA5;'>lighthouse</b> on a bleak northern shore, where night never lifts.<br>A frantic <b style='color: #C43E00; text-shadow: 0 0 8px #C43E00;'>radio message</b> announces a disaster that has taken his hometown and left his <b style='color: #D9534F; text-shadow: 0 0 8px #D9534F;'>son</b> missing.<br>He departs aboard the weather‑worn <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>Molly</b>, cutting through the icy <b style='color: #6B8E23; text-shadow: 0 0 8px #6B8E23;'>northern seas</b> while haunted by old loss.<br>His path leads to an <b style='color: #708090; text-shadow: 0 0 8px #708090;'>abandoned island</b>, across a rugged <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>mountain range</b> on a humble <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>dog sled</b>, and finally to the ruins of his home where a distant <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>beacon</b> flickers.<br>Fragment of family <b style='color: #800080; text-shadow: 0 0 8px #800080;'>truth</b> forces him to ask whether following the light will reunite his <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>family</b> or his own soul.<br>",
     "DescriptionArabic": "<div dir='rtl'>\n<b style='color: #1E3A5F; text-shadow: 0 0 8px #1E3A5F;'>ويل</b> يراقب <b style='color: #4A6FA5; text-shadow: 0 0 8px #4A6FA5;'>منارته</b> الوحيدة على شاطئ شمالي قاحل، حيث لا يرتفع الليل أبداً.<br>\n<b style='color: #C43E00; text-shadow: 0 0 8px #C43E00;'>رسالة راديو</b> مريعة تُعلن عن كارثة أخذت مسقط رأسه وتركت <b style='color: #D9534F; text-shadow: 0 0 8px #D9534F;'>ابنه</b> مفقوداً.<br>\nينطلق على متن <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>مولي</b> المتآكلة، يخترق <b style='color: #6B8E23; text-shadow: 0 0 8px #6B8E23;'>البحار الشمالية</b> المتجمدة بينما تطارده ذكريات فقدان قديمة.<br>\nتقوده طريقه إلى <b style='color: #708090; text-shadow: 0 0 8px #708090;'>جزيرة مهجورة</b>، عبر <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>سلسلة جبال</b> وعرة على <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>مزلقة الكلاب</b> المتواضعة، وأخيراً إلى أطلال منزله حيث تومض <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>منارة</b> بعيدة.<br>\n<b style='color: #800080; text-shadow: 0 0 8px #800080;'>حقيقة</b> <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>العائلة</b> تجبره على التساؤل إن كان اتباع النور سيعيد جمع عائلته أم سيقوده إلى روحه الوحيدة.<br>\n</div>",
     "ReleaseDate": "2026",
-    "CriticScore": 60,
+    "CriticScore": 80,
     "Length": 5,
     "CoverUrl": "https://archive.org/download/RPRM001/WILL%20Follow%20The%20Light%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/WILL%20Follow%20The%20Light%20Background.jpg",
@@ -128282,7 +128282,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1778259609907_0",
@@ -128318,7 +128318,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1778259609907_1",
@@ -128354,7 +128354,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1778259609907_2",
@@ -128390,7 +128390,7 @@
         ]
       }
     },
-    "Tags": ["Need Music", "Hide"]
+    "Tags": ["Need Music"]
   },
   {
     "_id": "game_1778260134778_0",
@@ -128426,7 +128426,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1778260134778_1",
@@ -128462,6 +128462,6 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   }
 ]
