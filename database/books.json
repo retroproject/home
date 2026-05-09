@@ -10036,5 +10036,29 @@
       "fileSize": "13 GB",
       "hasAudiobook": false
     }
+  },
+  {
+    "_id": "book_1778322653623_0uywx18v8",
+    "Title": "Black Clover",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "Status": {
+      "state": "completed",
+      "currentVolume": 36,
+      "currentChapter": null
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/Black%20Clover%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga"],
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00472.zip",
+      "fileSize": "8 GB",
+      "hasAudiobook": false
+    }
   }
 ]
