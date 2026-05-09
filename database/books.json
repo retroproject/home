@@ -9840,17 +9840,18 @@
   {
     "_id": "book_1777743831681_wccd6cqj7",
     "Title": "Virgin Knight I Became the Frontier Lord in a World Ruled by Women",
+    "Series": "",
     "SortingTitle": "",
-    "Author": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": "",
-    "CriticScore": null,
+    "Author": "Michizo",
+    "Description": "Reborn through <b style='color:#1E90FF; text-shadow: 0 0 8px #1E90FF;'>isekai</b> into a realm where <b style='color:#7B68EE; text-shadow: 0 0 8px #7B68EE;'>gender</b> expectations are reversed, the solitary male <b style='color:#FF4500; text-shadow: 0 0 8px #FF4500;'>knight</b> <b style='color:#FF69B4; text-shadow: 0 0 8px #FF69B4;'>Faust</b> clings to his unwavering <b style='color:#32CD32; text-shadow: 0 0 8px #32CD32;'>honor</b> and rigid <b style='color:#DA70D6; text-shadow: 0 0 8px #DA70D6;'>chastity</b>.<br>Raised as a <b style='color:#FFD700; text-shadow: 0 0 8px #FFD700;'>frontier</b> lord, his legendary <b style='color:#8B0000; text-shadow: 0 0 8px #8B0000;'>battle</b> prowess draws the attention of a barely‑clothed <b style='color:#FF69B4; text-shadow: 0 0 8px #FF69B4;'>queen</b> and a forward‑leaning <b style='color:#20B2AA; text-shadow: 0 0 8px #20B2AA;'>duchess</b> who constantly test his resolve.<br>When tasked to <b style='color:#FF8C00; text-shadow: 0 0 8px #FF8C00;'>mentor</b> the fiery <b style='color:#00CED1; text-shadow: 0 0 8px #00CED1;'>princess</b> Valiele on her first campaign, an unexpected <b style='color:#800080; text-shadow: 0 0 8px #800080;'>tragedy</b> strikes the remote village they aim to protect.<br>Amidst looming <b style='color:#B22222; text-shadow: 0 0 8px #B22222;'>war</b>, the rigid <b style='color:#4682B4; text-shadow: 0 0 8px #4682B4;'>society</b> forces him to navigate dangerous <b style='color:#2E8B57; text-shadow: 0 0 8px #2E8B57;'>adventure</b> while his personal code clashes with the world’s flipped <b style='color:#7B68EE; text-shadow: 0 0 8px #7B68EE;'>gender</b> norms.<br>",
+    "DescriptionArabic": "<div dir='rtl'>ولد من جديد عبر <b style='color:#1E90FF; text-shadow: 0 0 8px #1E90FF;'>إيسيكاي</b> إلى عالم تُقلب فيه توقعات <b style='color:#7B68EE; text-shadow: 0 0 8px #7B68EE;'>الجنس</b> رأساً على عقب، <b style='color:#FF4500; text-shadow: 0 0 8px #FF4500;'>الفارس</b> الذكر الوحيد <b style='color:#FF69B4; text-shadow: 0 0 8px #FF69B4;'>فاؤست</b> يتمسك بـ<b style='color:#32CD32; text-shadow: 0 0 8px #32CD32;'>الشرف</b> الثابت و<b style='color:#DA70D6; text-shadow: 0 0 8px #DA70D6;'>العفة</b> الصارمة.<br>نشأ كـ<b style='color:#FFD700; text-shadow: 0 0 8px #FFD700;'>حكم حدودي</b>، وتُجذب قوته الأسطورية في <b style='color:#8B0000; text-shadow: 0 0 8px #8B0000;'>المعركة</b> انتباه <b style='color:#FF69B4; text-shadow: 0 0 8px #FF69B4;'>الملكة</b> شبه العارية و<b style='color:#20B2AA; text-shadow: 0 0 8px #20B2AA;'>الدوقة</b> الجريئة التي تُختبر باستمرار صموده.<br>عندما يُكلف بـ<b style='color:#FF8C00; text-shadow: 0 0 8px #FF8C00;'>تدريب</b> <b style='color:#00CED1; text-shadow: 0 0 8px #00CED1;'>الأميرة</b> النارية <b style='color:#00CED1; text-shadow: 0 0 8px #00CED1;'>فاليلي</b> في حملتها الأولى، تُصيب <b style='color:#800080; text-shadow: 0 0 8px #800080;'>مأساة</b> غير متوقعة القرية النائية التي يهدفون لحمايتها.<br>في ظل <b style='color:#B22222; text-shadow: 0 0 8px #B22222;'>حرب</b> وشيكة، يُجبر <b style='color:#4682B4; text-shadow: 0 0 8px #4682B4;'>المجتمع</b> الصارم على تخطي <b style='color:#2E8B57; text-shadow: 0 0 8px #2E8B57;'>مغامرة</b> خطرة بينما تتصادم قناعه الشخصي مع معايير <b style='color:#7B68EE; text-shadow: 0 0 8px #7B68EE;'>الجنس</b> المقلوبة في هذا العالم.<br></div>",
+    "ReleaseDate": "2022",
+    "CriticScore": 70,
     "CoverUrl": "https://archive.org/download/RPRM001/Virgin%20Knight%20I%20Became%20the%20Frontier%20Lord%20in%20a%20World%20Ruled%20by%20Women%20Cover.jpg",
-    "Genre": [],
+    "Genre": ["Fantasy"],
     "Tags": ["Manga"],
     "Status": {
-      "state": "unknown",
+      "state": "ongoing",
       "currentVolume": 2,
       "currentChapter": null
     },
@@ -9983,6 +9984,30 @@
       "identifier": "RBRB002",
       "filename": "00469.zip",
       "fileSize": "2 GB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1778310830547_12utt6dpx",
+    "Title": "Defying Expectations with Gravity Magic to Be Unparalleled",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 3,
+      "currentChapter": null
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/Defying%20Expectations%20with%20Gravity%20Magic%20to%20Be%20Unparalleled%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga"],
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00470.zip",
+      "fileSize": "519 MB",
       "hasAudiobook": false
     }
   }
