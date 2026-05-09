@@ -128075,7 +128075,7 @@
     "Description": "<b style='color: #FF6F61; text-shadow: 0 0 8px #FF6F61;'>Boris</b>, a curious <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>baby boar</b>, is torn from his <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>family</b> when a raging <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>forest fire</b> sweeps through the woods.<br>He wanders the rolling <b style='color: #6B8E23; text-shadow: 0 0 8px #6B8E23;'>meadows</b> and sun‑dappled <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>forest paths</b> of the <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>park</b>, following lingering <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>scents</b> that whisper his lost kin.<br>Along the way he meets <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Maxime</b>, a gentle ranger who notes each discovery in a weathered <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>journal</b>.<br>Each fragrance reveals a memory of his scattered <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>brothers</b> and <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>sisters</b>, hidden in echoing <b style='color: #708090; text-shadow: 0 0 8px #708090;'>caves</b>, rugged <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>highlands</b>, and quiet <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>streams</b>.<br>As the aromas intertwine, the young boar slowly rebuilds the bonds of his <b style='color: #FF6F61; text-shadow: 0 0 8px #FF6F61;'>family</b>, uncovering the park’s quiet wonders one scent at a time.<br>",
     "DescriptionArabic": "<div dir='rtl'><b style='color: #FF6F61; text-shadow: 0 0 8px #FF6F61;'>بوريس</b>، الخنزير الصغير الفضولي، يُفصل عن <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>عائلته</b> عندما يشتعل <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>حريق الغابة</b> الهائل.<br>يتجول عبر <b style='color: #6B8E23; text-shadow: 0 0 8px #6B8E23;'>المروج</b> المتدحرجة و<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>مسارات الغابة</b> المشمسة داخل <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>الحديقة</b>، متبعاً <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>الروائح</b> التي تهمس بوجود أقارائه الضائعين.<br>في رحلته يلتقي بـ<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>ماكسيم</b>، حارس الحديقة الودود، الذي يدون كل اكتشاف في <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>المذكرات</b> القديمة.<br>كل رائحة تكشف عن ذكرى <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الإخوة</b> و<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الأخوات</b> المتناثرة، المخفية في <b style='color: #708090; text-shadow: 0 0 8px #708090;'>الكهوف</b> الصاخبة، <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>المرتفعات</b> الوعرة، و<b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>الجداول</b> الهادئة.<br>مع تلاقي الروائح، يعيد الصغير <b style='color: #FF6F61; text-shadow: 0 0 8px #FF6F61;'>عائلته</b> شيئاً فشيئاً، مكتشفاً عجائب الحديقة الهادئة رائحةً وراء رائحة.<br></div>",
     "ReleaseDate": "2026",
-    "CriticScore": 60,
+    "CriticScore": 70,
     "Length": 5,
     "CoverUrl": "https://archive.org/download/RPRM001/Adorable%20Adventures%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Adorable%20Adventures%20Background.jpg",
@@ -128094,9 +128094,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "4 GB",
-            "filename": "01752.zip",
             "executable": "Adorable.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "7 May 2026",
+            "filename": "01752.zip"
           }
         ]
       }
@@ -128129,9 +128130,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "10 GB",
-            "filename": "01753.zip",
             "executable": "Adventure of Samsara.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "27 April 2026",
+            "filename": "01753.zip"
           }
         ]
       }
@@ -128164,9 +128166,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "47 GB",
-            "filename": "01754.zip",
             "executable": "Tempest.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "29 April 2026",
+            "filename": "01754.zip"
           }
         ]
       }
@@ -128199,9 +128202,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "24 GB",
-            "filename": "01755.zip",
             "executable": "The Awakener Battle Tendency.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "6 May 2026",
+            "filename": "01755.zip"
           }
         ]
       }
@@ -128234,9 +128238,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "3 GB",
-            "filename": "01756.zip",
             "executable": "TheSpellBrigade.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "6 May 2026",
+            "filename": "01756.zip"
           }
         ]
       }
@@ -128269,9 +128274,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "22 GB",
-            "filename": "01757.zip",
             "executable": "Will.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "8 May 2026",
+            "filename": "01757.zip"
           }
         ]
       }
@@ -128304,9 +128310,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "27 GB",
-            "filename": "01759.zip",
             "executable": "GroundZero.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "27 April 2026",
+            "filename": "01759.zip"
           }
         ]
       }
@@ -128339,9 +128346,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "11 GB",
-            "filename": "01760.zip",
             "executable": "Mixtape.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "7 May 2026",
+            "filename": "01760.zip"
           }
         ]
       }
@@ -128374,9 +128382,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
-            "filename": "01761.zip",
             "executable": "RainbowLegends.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "8 May 2026",
+            "filename": "01761.zip"
           }
         ]
       }
@@ -128409,9 +128418,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "11 GB",
-            "filename": "01762.zip",
             "executable": "AetherAndIron.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "7 May 2026",
+            "filename": "01762.zip"
           }
         ]
       }
@@ -128444,9 +128454,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "670 MB",
-            "filename": "01763.zip",
             "executable": "alabaster_dawn.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "8 May 2026",
+            "filename": "01763.zip"
           }
         ]
       }
