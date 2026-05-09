@@ -44829,8 +44829,8 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Ship\\Hades2.exe",
-            "fileSize": "10GB",
-            "buildID": "12 November 2025",
+            "fileSize": "17GB",
+            "buildID": "23 April 2026",
             "filename": "00705.zip"
           }
         ]
@@ -127200,10 +127200,11 @@
     "_id": "game_1777780897378_0",
     "Name": "Ariana and the Elder Codex",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "When the world’s magic abruptly fades, the lone <b style='color: #FF6F61; text-shadow: 0 0 8px #FF6F61;'>Librarian</b> <b style='color: #6A5ACD; text-shadow: 0 0 8px #6A5ACD;'>Ariana</b> discovers the <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>Seven Hero Codices</b> are corrupted.<br>Guided by whispers of <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Ancient Tomes</b>, she enters each <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>Altered Codex</b> to reclaim the dangerous <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>Forgotten Magic</b>.<br>Enigmatic <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Guardians</b> test her resolve, while relentless memories of missing <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>Parents</b> drive a desperate search.<br>Each repaired <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Repair Point</b> restores a flickering sliver of <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Magic</b>, unveiling <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>Hidden Truths</b> about the past.<br>Now the final <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Library</b> stands, but will its solemn revival reignite the lost enchantments or let shadows linger?<br>",
+    "DescriptionArabic": "<div dir='rtl'>عندما يتلاشى سحر العالم فجأة، يكتشف <b style='color: #FF6F61; text-shadow: 0 0 8px #FF6F61;'>الأمين</b> <b style='color: #6A5ACD; text-shadow: 0 0 8px #6A5ACD;'>أريانا</b> أن <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>سبعة دفاتر الأبطال</b> قد تفسدت.<br>مستوحاة من همسات <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>المخطوطات القديمة</b>، تدخل كل <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>دفتر متغير</b> لاستعادة <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>السحر المنسي</b> الخطير.<br><b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الحراس</b> الغامضون يختبرون عزمها، بينما تذكرها المتواصلة ب<b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>والديها المفقودين</b> تدفعها إلى بحث يائس.<br>كل <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>نقطة إصلاح</b> مستعادة تعيد جزءًا وامضًا من <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>السحر</b>، كاشفة عن <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>الحقائق المخفية</b> في الماضي.<br>الآن تقف <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>المكتبة</b> النهائية، لكن هل إحياؤها الجليل سيعيد إشعال السحر الضائع أم ستبقى الظلال قائمة إلى الأبد؟<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "Length": 15,
     "CoverUrl": "https://archive.org/download/RPRM001/Ariana%20and%20the%20Elder%20Codex%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Ariana%20and%20the%20Elder%20Codex%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Ariana%20and%20the%20Elder%20Codex%20Theme.mp3",
@@ -127211,8 +127212,8 @@
     "videoStart": 3.790016,
     "videoEnd": 133.904194,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Metroidvania"],
+    "DeveloperNames": ["Hyde"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -127235,10 +127236,11 @@
     "_id": "game_1777780897378_1",
     "Name": "Bolt Bot Screwy Viruses",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "In the bustling street of <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>Bit's and Bot's</b>, the cheerful robot <b style='color: #33C1FF; text-shadow: 0 0 8px #33C1FF;'>Bolt</b> runs a thriving shop that dazzles <b style='color: #FF33A8; text-shadow: 0 0 8px #FF33A8;'>customers</b> with quirky <b style='color: #8D33FF; text-shadow: 0 0 8px #8D33FF;'>toy models</b>.<br>Across the way, the sneaky rival <b style='color: #33FF57; text-shadow: 0 0 8px #33FF57;'>Mr Coin</b> of <b style='color: #FFC133; text-shadow: 0 0 8px #FFC133;'>Treasure Cove</b> growls with envy, then releases a mischievous <b style='color: #FF3333; text-shadow: 0 0 8px #FF3333;'>virus</b> that infects every <b style='color: #33FFF5; text-shadow: 0 0 8px #33FFF5;'>product</b> in Bolt's <b style='color: #FF8C33; text-shadow: 0 0 8px #FF8C33;'>store</b>.<br>Undeterred, Bolt straps on his trusty <b style='color: #33FF8C; text-shadow: 0 0 8px #33FF8C;'>robot</b> chassis and dives into the infected <b style='color: #8D33FF; text-shadow: 0 0 8px #8D33FF;'>toy models</b>, fixing gears and <b style='color: #B833FF; text-shadow: 0 0 8px #B833FF;'>repair</b>ing chaos to boost the <b style='color: #FF3339; text-shadow: 0 0 8px #FF3339;'>shop rating</b>.<br>Each successful fix lights up the hub, turning the once‑infected aisles back into a sparkling playground of wonder for all <b style='color: #FF33A8; text-shadow: 0 0 8px #FF33A8;'>customers</b>.",
+    "DescriptionArabic": "<div dir='rtl'>في شارع <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>بيتس وبوتس</b> المزدحم، يدير الروبوت البهيج <b style='color: #33C1FF; text-shadow: 0 0 8px #33C1FF;'>بولت</b> متجرًا مزدهرًا يبهر <b style='color: #FF33A8; text-shadow: 0 0 8px #FF33A8;'>العملاء</b> بنماذج <b style='color: #8D33FF; text-shadow: 0 0 8px #8D33FF;'>الألعاب</b> الغريبة.<br>على الجانب الآخر، يغار المنافس الماكر <b style='color: #33FF57; text-shadow: 0 0 8px #33FF57;'>السيد كوين</b> من <b style='color: #FFC133; text-shadow: 0 0 8px #FFC133;'>خليج الكنز</b>، ثم يطلق <b style='color: #FF3333; text-shadow: 0 0 8px #FF3333;'>فيروس</b> شَرّير يصيب كل <b style='color: #33FFF5; text-shadow: 0 0 8px #33FFF5;'>منتج</b> في <b style='color: #FF8C33; text-shadow: 0 0 8px #FF8C33;'>المتجر</b>.<br>غير مكترث، يلبس <b style='color: #33C1FF; text-shadow: 0 0 8px #33C1FF;'>بولت</b> هيكله <b style='color: #33FF8C; text-shadow: 0 0 8px #33FF8C;'>روبوت</b> الوفي ويغوص في نماذج <b style='color: #8D33FF; text-shadow: 0 0 8px #8D33FF;'>الألعاب</b> المصابة، مُصلحًا التروس ومُجريًا <b style='color: #B833FF; text-shadow: 0 0 8px #B833FF;'>إصلاح</b> للفوضى ليعزز <b style='color: #FF3339; text-shadow: 0 0 8px #FF3339;'>تصنيف المتجر</b>.<br>كل <b style='color: #B833FF; text-shadow: 0 0 8px #B833FF;'>إصلاح</b> ناجح يُضيء القاعة، محوّلًا الممرات المصابة إلى ساحة لعب لامعة مليئة بال<b style='color: #FF33A8; text-shadow: 0 0 8px #FF33A8;'>العملاء</b>.</div>",
+    "ReleaseDate": "2023",
+    "CriticScore": 60,
+    "Length": 20,
     "CoverUrl": "https://archive.org/download/RPRM001/Bolt%20Bot%20Screwy%20Viruses%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Bolt%20Bot%20Screwy%20Viruses%20Background.jpg",
     "MusicUrl": "",
@@ -127246,8 +127248,8 @@
     "videoStart": 0,
     "videoEnd": 0,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Platformer"],
+    "DeveloperNames": ["Dream Safe"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -127270,10 +127272,11 @@
     "_id": "game_1777780897378_2",
     "Name": "Far Far West",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "In the dust‑laden frontier of the <b style='color:#FF5733; text-shadow:0 0 8px #FF5733;'>Far Far West</b>, a desperate band of <b style='color:#C70039; text-shadow:0 0 8px #C70039;'>robot cowboys</b> answer the <b style='color:#900C3F; text-shadow:0 0 8px #900C3F;'>Town Sheriff</b>’s call for bounties.<br>They venture into stormy deep <b style='color:#581845; text-shadow:0 0 8px #581845;'>cursed mines</b> where restless spirits guard <b style='color:#DAF7A6; text-shadow:0 0 8px #DAF7A6;'>ancient relics</b>.<br>Inside a <b style='color:#FFC300; text-shadow:0 0 8px #FFC300;'>haunted saloon</b> they face a roaring <b style='color:#FF5733; text-shadow:0 0 8px #FF5733;'>ghost train</b> and a looming <b style='color:#C70039; text-shadow:0 0 8px #C70039;'>giant specter</b>.<br>Each contract forces a painful cruel choice between the promised <b style='color:#900C3F; text-shadow:0 0 8px #900C3F;'>bounty</b> and hidden <b style='color:#581845; text-shadow:0 0 8px #581845;'>secret graves</b>.<br>At twilight they race back to the <b style='color:#DAF7A6; text-shadow:0 0 8px #DAF7A6;'>town</b>, gears rattling, before the looming <b style='color:#900C3F; text-shadow:0 0 8px #900C3F;'>darkness</b> devours the <b style='color:#FF5733; text-shadow:0 0 8px #FF5733;'>frontier</b>.",
+    "DescriptionArabic": "<div dir='rtl'>في حدود الصحراء المغبرة لــ<b style='color:#FF5733; text-shadow:0 0 8px #FF5733;'>البرّ البعيد</b>، يردّ صاخب من <b style='color:#C70039; text-shadow:0 0 8px #C70039;'>روّاد الروبوتات</b> على نداء <b style='color:#900C3F; text-shadow:0 0 8px #900C3F;'>شرطي المدينة</b> للقبض على <b style='color:#900C3F; text-shadow:0 0 8px #900C3F;'>المكافأة</b>.<br>يخوضون غمار <b style='color:#581845; text-shadow:0 0 8px #581845;'>المناجم الملعونة</b> العميقة المتعرّضة للعواصف حيث تحرس الأرواح القلقة <b style='color:#DAF7A6; text-shadow:0 0 8px #DAF7A6;'>الآثار القديمة</b>.<br>داخل <b style='color:#FFC300; text-shadow:0 0 8px #FFC300;'>الصحن المسكون</b> يواجهون <b style='color:#FF5733; text-shadow:0 0 8px #FF5733;'>قطار الأشباح</b> الهدام و<b style='color:#C70039; text-shadow:0 0 8px #C70039;'>الشبح الضخم</b> المتربص.<br>كل عقد يجبرهم على اختيار مؤلم بين <b style='color:#900C3F; text-shadow:0 0 8px #900C3F;'>المكافأة</b> الموعودة و<b style='color:#581845; text-shadow:0 0 8px #581845;'>القُبور السرية</b> المخفية.<br>مع حلول الشفق يندفعون عائدين إلى <b style='color:#DAF7A6; text-shadow:0 0 8px #DAF7A6;'>المدينة</b>، أصوات التروس تدوي، قبل أن يبتلع <b style='color:#900C3F; text-shadow:0 0 8px #900C3F;'>الظلام</b> المتسلّق <b style='color:#FF5733; text-shadow:0 0 8px #FF5733;'>الحدود</b> للأبد.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
+    "Length": 5,
     "CoverUrl": "https://archive.org/download/RPRM001/Far%20Far%20West%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Far%20Far%20West%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Far%20Far%20West%20Theme.mp3",
@@ -127281,8 +127284,8 @@
     "videoStart": 0,
     "videoEnd": 0,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Shooter"],
+    "DeveloperNames": ["Evil Raptor"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -127315,10 +127318,11 @@
     "_id": "game_1777780897378_3",
     "Name": "Invincible VS",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "<b style='color: #ff0000; text-shadow: 0 0 8px #ff0000;'>Invincible</b> and allies awaken in a hidden <b style='color: #ff6600; text-shadow: 0 0 8px #ff6600;'>asteroid facility</b>, disoriented by violent <b style='color: #ffcc00; text-shadow: 0 0 8px #ffcc00;'>hallucinations</b> and the echo of <b style='color: #99ff00; text-shadow: 0 0 8px #99ff00;'>Omni-Man</b> looming.<br>They discover invasive <b style='color: #33ff33; text-shadow: 0 0 8px #33ff33;'>implants</b> forcing false realities, the presence of <b style='color: #00ff99; text-shadow: 0 0 8px #00ff99;'>Viltrumites</b> lingering, while secret <b style='color: #00ffff; text-shadow: 0 0 8px #00ffff;'>Technicians</b> observe.<br>New fighters <b style='color: #0066ff; text-shadow: 0 0 8px #0066ff;'>Ella Mental</b>, <b style='color: #6600ff; text-shadow: 0 0 8px #6600ff;'>Robot</b> and <b style='color: #ff00ff; text-shadow: 0 0 8px #ff00ff;'>Rex Splode</b> join, each battling the unseen shackles.<br>The technicians trap them on a dazzling <b style='color: #ff0066; text-shadow: 0 0 8px #ff0066;'>holographic battlefield</b> powered by a central <b style='color: #ff9999; text-shadow: 0 0 8px #ff9999;'>power source</b>.<br>In a brutal <b style='color: #999999; text-shadow: 0 0 8px #999999;'>battle</b>, the heroes must break the implants and destroy the source before the facility erupts, endangering Earth.<br>",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #ff0000; text-shadow: 0 0 8px #ff0000;'>إنفينيبل</b> وحلفاؤه يستيقظون في <b style='color: #ff6600; text-shadow: 0 0 8px #ff6600;'>مرفق كويكبي</b> مخفي، مشوشين بسبب <b style='color: #ffcc00; text-shadow: 0 0 8px #ffcc00;'>الهلوسات</b> العنيفة وصوت صدى <b style='color: #99ff00; text-shadow: 0 0 8px #99ff00;'>أومني-مان</b> المتربص.<br>يكتشفون <b style='color: #33ff33; text-shadow: 0 0 8px #33ff33;'>الزرعات</b> الغازية التي تفرض واقعاً زائفاً، وتبقى <b style='color: #00ff99; text-shadow: 0 0 8px #00ff99;'>فيلتروميتس</b> حاضرة، بينما يراقب <b style='color: #00ffff; text-shadow: 0 0 8px #00ffff;'>الفنيون</b> من الظل.<br>ينضم مقاتلون جدد مثل <b style='color: #0066ff; text-shadow: 0 0 8px #0066ff;'>إيلا مينتال</b>، <b style='color: #6600ff; text-shadow: 0 0 8px #6600ff;'>روبوت</b> و<b style='color: #ff00ff; text-shadow: 0 0 8px #ff00ff;'>ريكس سبلود</b>، كلهم يكافحون القيود غير المرئية.<br>يُحاصرهم الفنيون في <b style='color: #ff0066; text-shadow: 0 0 8px #ff0066;'>ساحة معركة هولوغرافية</b> تغذيها <b style='color: #ff9999; text-shadow: 0 0 8px #ff9999;'>مصدر الطاقة</b> المركزي.<br>في <b style='color: #999999; text-shadow: 0 0 8px #999999;'>معركة</b> شديدة، يجب على الأبطال تحطيم الزرعات وتدمير المصدر قبل أن ينفجر المرفق، مهددًا الأرض.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
+    "Length": 5,
     "CoverUrl": "https://archive.org/download/RPRM001/Invincible%20VS%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Invincible%20VS%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Invincible%20VS%20Theme.mp3",
@@ -127326,8 +127330,8 @@
     "videoStart": 0.69654,
     "videoEnd": 125.893423,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Fighting"],
+    "DeveloperNames": ["Quarter Up"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -127350,10 +127354,11 @@
     "_id": "game_1777780897378_4",
     "Name": "MEMOLITH Forsaken by Light",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "In the shattered city of <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>ريموير</b>, the holy relic <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>ميموليث</b> has fractured, casting the land into endless night.<br> A suffocating <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>الستار المظلم</b> devours the minds of those who linger, draining their <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>قوة الإرادة</b> until they become mindless husks.<br> The dwindling band of <b style='color: #556B2F; text-shadow: 0 0 8px #556B2F;'>الناجون</b> must brave the twisted streets, guided only by flickering hope of the <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>العمود الهادي</b>.<br> Among them stand the steadfast <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الحرس الملكي</b>, the precise <b style='color: #800080; text-shadow: 0 0 8px #800080;'>قوس الماس</b>, the raging <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>البرابرة</b>, the silent <b style='color: #708090; text-shadow: 0 0 8px #708090;'>أخت الظل</b>, and the relentless <b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>المحقق</b>.<br> By binding the ancient <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>شظايا ميموليث</b>, they can inherit lost abilities and turn the tide against the grotesque monsters that stalk the ruins.<br> Their only refuge lies deep within the <b style='color: #2C3E50; text-shadow: 0 0 8px #2C3E50;'>سراديب الموتى</b>, where each step brings the threat of the darkness ever closer.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في المدينة المحطمة <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>ريموير</b>، تحطمت القطعة المقدسة <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>ميموليث</b>، مما ألقى الأرض في ليل لا نهاية له.<br> يبتلع <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>الستار المظلم</b> عقول من يبقون، مستنزلاً <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>قوة الإرادة</b> حتى يتحولوا إلى هياكل بلا عقل.<br> يجب على القلة المتبقية من <b style='color: #556B2F; text-shadow: 0 0 8px #556B2F;'>الناجون</b> شقّ الطرق المتشابكة، مسترشدين بأمل خافت من <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>العمود الهادي</b>.<br> بينهم يقف <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الحرس الملكي</b> الصامد، و<b style='color: #800080; text-shadow: 0 0 8px #800080;'>قوس الماس</b> الدقيق، و<b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>البرابرة</b> الغاضب، و<b style='color: #708090; text-shadow: 0 0 8px #708090;'>أخت الظل</b> الصامتة، و<b style='color: #8B4513; text-shadow: 0 0 8px #8B4513;'>المحقق</b> القاسي.<br> عبر ربط <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>شظايا ميموليث</b> القديمة، يمكنهم وراثة القدرات الضائعة وتحويل المجريات ضد الوحوش المشوهة التي تطارد الأنقاض.<br> ملاذهم الوحيد يكمن عميقًا في <b style='color: #2C3E50; text-shadow: 0 0 8px #2C3E50;'>سراديب الموتى</b>، حيث يقترب خطر الظلام مع كل خطوة.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 60,
+    "Length": 5,
     "CoverUrl": "https://archive.org/download/RPRM001/MEMOLITH%20Forsaken%20by%20Light%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/MEMOLITH%20Forsaken%20by%20Light%20Background.jpg",
     "MusicUrl": "",
@@ -127361,8 +127366,8 @@
     "videoStart": 0,
     "videoEnd": 0,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["RPG"],
+    "DeveloperNames": ["Black Anchor"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -127385,10 +127390,11 @@
     "_id": "game_1777780897378_5",
     "Name": "Yunyun Syndrome Rhythm Psychosis",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "<b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>Qtie</b> is a reclusive teen whose days dissolve in endless <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>denpa songs</b>, locking her in a state of <b style='color: #6A5ACD; text-shadow: 0 0 8px #6A5ACD;'>hikikomori</b> isolation.<br><b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>Yunyun</b> whispers from the screen, urging her to flood the <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>internet</b> with frantic <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>anonymous posts</b> that spread a subtle <b style='color: #7B68EE; text-shadow: 0 0 8px #7B68EE;'>psychosis</b>.<br>Each post spawns a growing <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>cult</b> of <b style='color: #483D8B; text-shadow: 0 0 8px #483D8B;'>brain rot</b>, warping shared <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>reality</b> while her mind splinters.<br>She battles relentless <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>isolation</b> and a consuming <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>obsession</b>, hoping the imagined savior can stop the looming <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>world corruption</b> and find a glimmer of <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>salvation</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>\n<b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>كواي</b> هي مراهقة معزولة يذوب أيامها في <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>أغاني دينبا</b> اللامتناهية، محاصرةً في حالة <b style='color: #6A5ACD; text-shadow: 0 0 8px #6A5ACD;'>المعزل</b>.<br>\n<b style='color: #FF00FF; text-shadow: 0 0 8px #FF00FF;'>يونيون</b> تهمس من الشاشة، تحثها على إغراق <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>الإنترنت</b> بـ<b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>منشورات مجهولة</b> متعجبة تنشر <b style='color: #7B68EE; text-shadow: 0 0 8px #7B68EE;'>الذهان</b>.<br>\nكل منشور يخلق <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>عبادة</b> متزايدة من <b style='color: #483D8B; text-shadow: 0 0 8px #483D8B;'>تحلل الدماغ</b>، مشوّهًا <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>الواقع</b> المشترك بينما يتشقق عقلها.<br>\nتواجه <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>العزلة</b> المستمرة و<b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>الهوس</b> المستبد، آملةً أن يوقف المنقذ المتخيل <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>فساد العالم</b> وتجد <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الخلاص</b>.<br>\n</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
+    "Length": 15,
     "CoverUrl": "https://archive.org/download/RPRM001/Yunyun%20Syndrome%20Rhythm%20Psychosis%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Yunyun%20Syndrome%20Rhythm%20Psychosis%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Yunyun%20Syndrome%20Rhythm%20Psychosis%20Theme.mp3",
@@ -127396,8 +127402,8 @@
     "videoStart": 0,
     "videoEnd": 0,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Music"],
+    "DeveloperNames": ["Alliance Arts"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -127420,10 +127426,11 @@
     "_id": "game_1777879274589_0",
     "Name": "Goblin Vyke The Thief Tycoon",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "The dying <b style='color: #ff4500; text-shadow: 0 0 8px #ff4500;'>father</b> left his goblin son with a crushing <b style='color: #8b0000; text-shadow: 0 0 8px #8b0000;'>debt</b> and a warning to be <b style='color: #ffd700; text-shadow: 0 0 8px #ffd700;'>greedy</b>.<br>By night <b style='color: #00ced1; text-shadow: 0 0 8px #00ced1;'>Vyke</b> skulks into the <b style='color: #7fff00; text-shadow: 0 0 8px #7fff00;'>Gold Dungeon</b>, evading the <b style='color: #ff1493; text-shadow: 0 0 8px #ff1493;'>Demon King</b>'s minions to pilfer forgotten treasures.<br>By day he runs a grim <b style='color: #1e90ff; text-shadow: 0 0 8px #1e90ff;'>black market</b>, bargaining with desperate <b style='color: #ffa500; text-shadow: 0 0 8px #ffa500;'>customers</b> while hiring ragtag <b style='color: #ff69b4; text-shadow: 0 0 8px #ff69b4;'>employees</b> to grow his <b style='color: #b22222; text-shadow: 0 0 8px #b22222;'>franchise</b>.<br>Shadows loom from the <b style='color: #4b0082; text-shadow: 0 0 8px #4b0082;'>Adventurers' Guild</b> and a secretive <b style='color: #00ff7f; text-shadow: 0 0 8px #00ff7f;'>Mysterious Organization</b>, each demanding his aid.<br>Each heist and sale pulls <b style='color: #00ced1; text-shadow: 0 0 8px #00ced1;'>Vyke</b> closer to a showdown that could crown him king of the underworld or doom him to the <b style='color: #dc143c; text-shadow: 0 0 8px #dc143c;'>loan shark</b>'s grasp.<br>",
+    "DescriptionArabic": "<div dir='rtl'>ترك <b style='color: #ff4500; text-shadow: 0 0 8px #ff4500;'>الأب</b> المريض ابنه القزم مع <b style='color: #8b0000; text-shadow: 0 0 8px #8b0000;'>الدين</b> وتحذيره بأن يكون <b style='color: #ffd700; text-shadow: 0 0 8px #ffd700;'>جشعًا</b>.<br>في الليل يتسلل <b style='color: #00ced1; text-shadow: 0 0 8px #00ced1;'>فيك</b> إلى <b style='color: #7fff00; text-shadow: 0 0 8px #7fff00;'>قَبْحَة الذهب</b>، متفادياً أتباع <b style='color: #ff1493; text-shadow: 0 0 8px #ff1493;'>ملك الشياطين</b> ليسرق الكنوز المنسية.<br>في النهار يدير <b style='color: #1e90ff; text-shadow: 0 0 8px #1e90ff;'>سوقًا سودًا</b> قاسيًا، يتفاوض مع <b style='color: #ffa500; text-shadow: 0 0 8px #ffa500;'>الزبائن</b> المتعطشين بينما يوظف <b style='color: #ff69b4; text-shadow: 0 0 8px #ff69b4;'>الموظفين</b> المتناثرين لتوسيع <b style='color: #b22222; text-shadow: 0 0 8px #b22222;'>سلسلته</b>.<br>تلوح الظلال من <b style='color: #4b0082; text-shadow: 0 0 8px #4b0082;'>نقابة المغامرين</b> ومن <b style='color: #00ff7f; text-shadow: 0 0 8px #00ff7f;'>المنظمة الغامضة</b>، كلٌّ يطلب مساعدته.<br>كل عملية سرقة وبيع تقرب <b style='color: #00ced1; text-shadow: 0 0 8px #00ced1;'>فيك</b> من معركة قد تجعله ملكًا للعالم السفلي أو تلقيه في قبضة <b style='color: #dc143c; text-shadow: 0 0 8px #dc143c;'>قرض الصياد</b>.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 40,
+    "Length": 5,
     "CoverUrl": "https://archive.org/download/RPRM001/Goblin%20Vyke%20The%20Thief%20Tycoon%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Goblin%20Vyke%20The%20Thief%20Tycoon%20Background.jpg",
     "MusicUrl": "",
@@ -127431,8 +127438,8 @@
     "videoStart": 0,
     "videoEnd": 0,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Adventure"],
+    "DeveloperNames": ["Art Thieves"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -127455,10 +127462,10 @@
     "_id": "game_1777879274589_1",
     "Name": "Pocket Bravery",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "A global surge of <b style='color:#FF5733; text-shadow: 0 0 8px #FF5733;'>Ichor</b> awakens latent powers, stirring turmoil across nations.<br><b style='color:#1E90FF; text-shadow: 0 0 8px #1E90FF;'>Nuno Alves</b>, ex‑operative of the ruthless <b style='color:#8B0000; text-shadow: 0 0 8px #8B0000;'>Pack</b>, is betrayed by <b style='color:#FFD700; text-shadow: 0 0 8px #FFD700;'>Hector Silva</b> and locked in the <b style='color:#2E8B57; text-shadow: 0 0 8px #2E8B57;'>Kennel</b>.<br>There he meets mentor <b style='color:#800080; text-shadow: 0 0 8px #800080;'>Lobo</b>, who teaches him to wield Ichor and plots a daring escape.<br>Escaping, <b style='color:#1E90FF; text-shadow: 0 0 8px #1E90FF;'>Nuno</b> joins <b style='color:#FF69B4; text-shadow: 0 0 8px #FF69B4;'>Mingmei Wong</b>, <b style='color:#00CED1; text-shadow: 0 0 8px #00CED1;'>Sebastian Mcclane</b> and <b style='color:#DAA520; text-shadow: 0 0 8px #DAA520;'>Hadassa Silva</b> to strike back at the <b style='color:#8B0000; text-shadow: 0 0 8px #8B0000;'>Pack</b>.<br>They confront the deadly <b style='color:#FF1493; text-shadow: 0 0 8px #FF1493;'>Sho Kamui</b> while allies <b style='color:#7FFF00; text-shadow: 0 0 8px #7FFF00;'>Aleksander Arshavin</b>, <b style='color:#FF8C00; text-shadow: 0 0 8px #FF8C00;'>Kimberly Moore</b> and <b style='color:#4682B4; text-shadow: 0 0 8px #4682B4;'>Daisuke Sato</b> rally together for the future.<br>",
+    "DescriptionArabic": "<div dir='rtl'>تدفق عالمي من <b style='color:#FF5733; text-shadow: 0 0 8px #FF5733;'>Ichor</b> يوقظ قوى كامنة، يثير الفوضى عبر الأمم.<br><b style='color:#1E90FF; text-shadow: 0 0 8px #1E90FF;'>Nuno Alves</b>، عميل سابق للـ <b style='color:#8B0000; text-shadow: 0 0 8px #8B0000;'>Pack</b> القاسي، يُخنق من قبل <b style='color:#FFD700; text-shadow: 0 0 8px #FFD700;'>Hector Silva</b> ويسجن في <b style='color:#2E8B57; text-shadow: 0 0 8px #2E8B57;'>Kennel</b>.<br>هناك يلتقي بالمرشد <b style='color:#800080; text-shadow: 0 0 8px #800080;'>Lobo</b>، الذي يعلمه كيفية التحكم في Ichor ويخطط لهروبًا جريئًا.<br>بعد الهروب، ينضم <b style='color:#1E90FF; text-shadow: 0 0 8px #1E90FF;'>Nuno</b> إلى <b style='color:#FF69B4; text-shadow: 0 0 8px #FF69B4;'>Mingmei Wong</b> و<b style='color:#00CED1; text-shadow: 0 0 8px #00CED1;'>Sebastian Mcclane</b> و<b style='color:#DAA520; text-shadow: 0 0 8px #DAA520;'>Hadassa Silva</b> ليضربوا الـ <b style='color:#8B0000; text-shadow: 0 0 8px #8B0000;'>Pack</b> من جديد.<br>يواجهون القاتل <b style='color:#FF1493; text-shadow: 0 0 8px #FF1493;'>Sho Kamui</b> بينما يتحشد الحلفاء <b style='color:#7FFF00; text-shadow: 0 0 8px #7FFF00;'>Aleksander Arshavin</b> و<b style='color:#FF8C00; text-shadow: 0 0 8px #FF8C00;'>Kimberly Moore</b> و<b style='color:#4682B4; text-shadow: 0 0 8px #4682B4;'>Daisuke Sato</b> معًا من أجل المستقبل.<br></div>",
+    "ReleaseDate": "2023",
+    "CriticScore": 80,
     "CoverUrl": "https://archive.org/download/RPRM001/Pocket%20Bravery%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Pocket%20Bravery%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Pocket%20Bravery%20Theme.mp3",
@@ -127466,8 +127473,8 @@
     "videoStart": 2.6,
     "videoEnd": 93.805743,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Fighting"],
+    "DeveloperNames": ["Statera Studio"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -127490,10 +127497,11 @@
     "_id": "game_1777879274589_2",
     "Name": "Possessors",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "<b style='color: #1a73e8; text-shadow: 0 0 8px #1a73e8;'>Luca</b> and <b style='color: #d93025; text-shadow: 0 0 8px #d93025;'>Rhem</b> awaken in a <b style='color: #188038; text-shadow: 0 0 8px #188038;'>quarantined city</b> flooded by an unending tide.<br><b style='color: #e37400; text-shadow: 0 0 8px #e37400;'>interdimensional catastrophe</b> shattered reality, turning the <b style='color: #8e24aa; text-shadow: 0 0 8px #8e24aa;'>broken megacity</b> into a maze of drowned streets and a haunting <b style='color: #ff6d00; text-shadow: 0 0 8px #ff6d00;'>abandoned aquarium</b>.<br>As the <b style='color: #5e35b1; text-shadow: 0 0 8px #5e35b1;'>host</b> and the reluctant <b style='color: #c2185b; text-shadow: 0 0 8px #c2185b;'>counterpart</b>, they must learn to coexist while hunted by unseen forces.<br>Their only hope is to uncover the hidden <b style='color: #00796b; text-shadow: 0 0 8px #00796b;'>truth</b>, confronting the twisted <b style='color: #fdd835; text-shadow: 0 0 8px #fdd835;'>antagonist</b> and cryptic <b style='color: #6d4c41; text-shadow: 0 0 8px #6d4c41;'>eye holders</b> who guard forbidden knowledge.<br>Each step pulls the duo deeper into a nightmare where the <b style='color: #3949ab; text-shadow: 0 0 8px #3949ab;'>survivors</b> whisper doom, and failure will drown the world in endless darkness.<br>",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #1a73e8; text-shadow: 0 0 8px #1a73e8;'>لوكا</b> و<b style='color: #d93025; text-shadow: 0 0 8px #d93025;'>ريم</b> يستيقظان في <b style='color: #188038; text-shadow: 0 0 8px #188038;'>المدينة المعزولة</b> تغمرها مدّ لا ينتهي.<br><b style='color: #e37400; text-shadow: 0 0 8px #e37400;'>الكارثة البُعدية</b> شوهت الواقع، محولةً <b style='color: #8e24aa; text-shadow: 0 0 8px #8e24aa;'>المدينة الضخمة المتكسرة</b> إلى متاهة من الشوارع الغارقة و<b style='color: #ff6d00; text-shadow: 0 0 8px #ff6d00;'>حوض السمك المتروك</b>.<br>كـ<b style='color: #5e35b1; text-shadow: 0 0 8px #5e35b1;'>المضيف</b> و<b style='color: #c2185b; text-shadow: 0 0 8px #c2185b;'>النظير</b> غير المتعاون، يجب عليهما تعلم التعايش بينما يطاردهما قوى غير مرئية.<br>أملهما الوحيد هو كشف <b style='color: #00796b; text-shadow: 0 0 8px #00796b;'>الحقيقة</b> المخفية، ومواجهة <b style='color: #fdd835; text-shadow: 0 0 8px #fdd835;'>الخصم</b> المتعرّج و<b style='color: #6d4c41; text-shadow: 0 0 8px #6d4c41;'>حاملي العين</b> الذين يحرسون المعرفة المحرمة.<br>كل خطوة تسحب الثنائي أعمق إلى كابوس حيث يهمس <b style='color: #3949ab; text-shadow: 0 0 8px #3949ab;'>الناجون</b> بالموت، وفشلهم سيغمر العالم في ظلام لا نهائي.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "Length": 20,
     "CoverUrl": "https://archive.org/download/RPRM001/Possessors%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Possessors%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Possessors%20Theme.mp3",
@@ -127501,8 +127509,8 @@
     "videoStart": 2.710003,
     "videoEnd": 100.656779,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Metroidvania"],
+    "DeveloperNames": ["Heart Machine"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -127525,10 +127533,11 @@
     "_id": "game_1777879274589_3",
     "Name": "SoulQuest",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "When the ruthless <b style='color: #FF9999; text-shadow: 0 0 8px #FF9999;'>Celtic</b> gods seize her beloved <b style='color: #FF7777; text-shadow: 0 0 8px #FF7777;'>husband</b>, the warrior <b style='color: #FF5555; text-shadow: 0 0 8px #FF5555;'>Alys</b> refuses to accept their cruel verdict.<br>Guided by the enigmatic druid <b style='color: #FFAA00; text-shadow: 0 0 8px #FFAA00;'>Abanus</b>, she ventures into the shattered village of <b style='color: #88FF88; text-shadow: 0 0 8px #88FF88;'>Cetonia</b>, seeking the forbidden power of the <b style='color: #FF77AA; text-shadow: 0 0 8px #FF77AA;'>goddess of death</b>, <b style='color: #AA88FF; text-shadow: 0 0 8px #AA88FF;'>Morrigan</b>.<br>Along the way she confronts ancient Celtic deities and the fallen knight <b style='color: #FFCC00; text-shadow: 0 0 8px #FFCC00;'>Gwydre</b>, whose spirit still haunts the ruins, urging her onward.<br>Each clash draws her deeper into a web of myth and <b style='color: #99FF99; text-shadow: 0 0 8px #99FF99;'>prophecy</b>, where <b style='color: #FF3333; text-shadow: 0 0 8px #FF3333;'>love</b> and <b style='color: #00AACC; text-shadow: 0 0 8px #00AACC;'>grief</b> become weapons against the relentless <b style='color: #FF4444; text-shadow: 0 0 8px #FF4444;'>gods</b> who guard the <b style='color: #00CCFF; text-shadow: 0 0 8px #00CCFF;'>soul</b> of her <b style='color: #FF7777; text-shadow: 0 0 8px #FF7777;'>husband</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>عندما تستولي الآلهة <b style='color: #FF9999; text-shadow: 0 0 8px #FF9999;'>سيلتية</b> القاسية على <b style='color: #FF7777; text-shadow: 0 0 8px #FF7777;'>زوجها</b> الحبيب، ترفض المحاربة <b style='color: #FF5555; text-shadow: 0 0 8px #FF5555;'>أليز</b> قبول حكمهم القاسي.<br>بتوجيه من الكاهن الغامض <b style='color: #FFAA00; text-shadow: 0 0 8px #FFAA00;'>أبانوس</b>، تنقلب إلى قرية <b style='color: #88FF88; text-shadow: 0 0 8px #88FF88;'>سيتونيا</b> المدمرة، ساعيةً إلى قوة <b style='color: #FF77AA; text-shadow: 0 0 8px #FF77AA;'>إلهة الموت</b> <b style='color: #AA88FF; text-shadow: 0 0 8px #AA88FF;'>مورغان</b> المحرمة.<br>في طريقها تواجه آلهة <b style='color: #FF9999; text-shadow: 0 0 8px #FF9999;'>سيلتية</b> قديمة والفارس السقوط <b style='color: #FFCC00; text-shadow: 0 0 8px #FFCC00;'>غويدري</b>، الذي لا يزال روحه تحوم في الأنقاض تدفعها إلى الأمام.<br>كل صراع يغوصها أعمق في نسيج الأساطير وال<b style='color: #99FF99; text-shadow: 0 0 8px #99FF99;'>نبؤات</b>، حيث يصبح <b style='color: #FF3333; text-shadow: 0 0 8px #FF3333;'>الحب</b> و<b style='color: #00AACC; text-shadow: 0 0 8px #00AACC;'>الحزن</b> سلاحين ضد <b style='color: #FF4444; text-shadow: 0 0 8px #FF4444;'>الآلهة</b> المتعطشة التي تحرس <b style='color: #00CCFF; text-shadow: 0 0 8px #00CCFF;'>روح</b> <b style='color: #FF7777; text-shadow: 0 0 8px #FF7777;'>زوجها</b>.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 60,
+    "Length": 5,
     "CoverUrl": "https://archive.org/download/RPRM001/SoulQuest%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/SoulQuest%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/SoulQuest%20Theme.mp3",
@@ -127536,8 +127545,8 @@
     "videoStart": 0,
     "videoEnd": 0,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Hack and Slash"],
+    "DeveloperNames": ["SoulBlade Studio LLC"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -127560,10 +127569,11 @@
     "_id": "game_1777879274589_4",
     "Name": "The Outer Worlds Spacer's Choice",
     "SortingName": "The Outer Worlds 01.02",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Awakening from a cryosleep aboard a lost <b style='color: #ff33ff; text-shadow: 0 0 8px #ff33ff;'>colonist ship</b>, the protagonist finds the frontier of <b style='color: #ff5733; text-shadow: 0 0 8px #ff5733;'>Halcyon</b> now ruled by ruthless <b style='color: #33ff33; text-shadow: 0 0 8px #33ff33;'>Corporate Interests</b>.<br>Guided by the mechanic <b style='color: #33ff57; text-shadow: 0 0 8px #33ff57;'>Parvati Holcomb</b> and mercenary <b style='color: #3357ff; text-shadow: 0 0 8px #3357ff;'>Felix Millstone</b>, they uncover a plot involving the secret <b style='color: #ff33a1; text-shadow: 0 0 8px #ff33a1;'>Board</b>.<br>Factions such as the profit‑driven <b style='color: #a133ff; text-shadow: 0 0 8px #a133ff;'>Corporate Council</b> and the miners of <b style='color: #33fff6; text-shadow: 0 0 8px #33fff6;'>Eridanos</b> offer dangerous alliances.<br>Ancient terraforming experiments have awakened deadly <b style='color: #ff8c33; text-shadow: 0 0 8px #ff8c33;'>mutants</b> on the asteroid <b style='color: #8c33ff; text-shadow: 0 0 8px #8c33ff;'>Gorgon</b>, forcing a choice to exploit or protect the fragile ecosystem.<br>Every decision ripples through the <b style='color: #33ffff; text-shadow: 0 0 8px #33ffff;'>settlements</b>, revealing how <b style='color: #ff3333; text-shadow: 0 0 8px #ff3333;'>Corporate Greed</b> can become the ultimate antagonist.",
+    "DescriptionArabic": "<div dir='rtl'>الاستيقاظ من النوم المتجمد على متن <b style='color: #ff33ff; text-shadow: 0 0 8px #ff33ff;'>سفينة المستعمرين</b> الضائعة، يكتشف البطل حدود <b style='color: #ff5733; text-shadow: 0 0 8px #ff5733;'>هالسيون</b> التي تحكمها الآن <b style='color: #33ff33; text-shadow: 0 0 8px #33ff33;'>المصالح التجارية</b> القاسية.<br>بدعم من الميكانيكي <b style='color: #33ff57; text-shadow: 0 0 8px #33ff57;'>بارفاتي هولكوم</b> والمرتزق <b style='color: #3357ff; text-shadow: 0 0 8px #3357ff;'>فيليكس ميلستون</b>، يكتشفون مؤامرة تشمل <b style='color: #ff33a1; text-shadow: 0 0 8px #ff33a1;'>المجلس</b> السري.<br>الفصائل مثل <b style='color: #a133ff; text-shadow: 0 0 8px #a133ff;'>مجلس الشركات</b> المدفوع بالربح ومنقبين <b style='color: #33fff6; text-shadow: 0 0 8px #33fff6;'>إريدانوس</b> يقدمون تحالفات خطرة.<br>تجارب استصلاح قديمة أيقظت <b style='color: #ff8c33; text-shadow: 0 0 8px #ff8c33;'>المتحولين</b> القاتلة على الكويكب <b style='color: #8c33ff; text-shadow: 0 0 8px #8c33ff;'>غورغون</b>، مما يجبر الاختيار بين الاستغلال أو حماية النظام البيئي الهش.<br>كل قرار يصدّ صدى عبر <b style='color: #33ffff; text-shadow: 0 0 8px #33ffff;'>المستوطنات</b>، كاشفاً كيف يمكن أن يصبح <b style='color: #ff3333; text-shadow: 0 0 8px #ff3333;'>الجشع التجاري</b> الخصم النهائي.</div>",
+    "ReleaseDate": "2019",
+    "CriticScore": 80,
+    "Length": 35,
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Outer%20Worlds%20Spacer's%20Choice%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Outer%20Worlds%20Spacer's%20Choice%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/The%20Outer%20Worlds%20Spacers%20Choice%20Theme.mp3",
@@ -127571,8 +127581,8 @@
     "videoStart": 2.2,
     "videoEnd": 0,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["RPG"],
+    "DeveloperNames": ["Obsidian Entertainment"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -127595,10 +127605,11 @@
     "_id": "game_1777879274589_5",
     "Name": "Weird RPG",
     "SortingName": "Weird RPG 01",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "In the shattered realm of <b style='color:#ff4500; text-shadow:0 0 8px #ff4500;'>Challenger Land</b>, a lone wanderer called the <b style='color:#1e90ff; text-shadow:0 0 8px #1e90ff;'>Challenger</b> awakens to a dire prophecy.<br>Guided by a cryptic <b style='color:#da70d6; text-shadow:0 0 8px #da70d6;'>Celestial Map</b>, they brave the treacherous <b style='color:#32cd32; text-shadow:0 0 8px #32cd32;'>Endless Labyrinth</b> and clash with the fearsome <b style='color:#ff0000; text-shadow:0 0 8px #ff0000;'>Crimson Beast</b>.<br>Deep within the <b style='color:#ffa500; text-shadow:0 0 8px #ffa500;'>Forgotten Shrine</b>, the <b style='color:#8a2be2; text-shadow:0 0 8px #8a2be2;'>Shadow Council</b>'s hidden schemes surface, threatening to rend the worlds.<br>Equipped with the <b style='color:#00ced1; text-shadow:0 0 8px #00ced1;'>Whispering Forge</b> and its <b style='color:#ff1493; text-shadow:0 0 8px #ff1493;'>Eternal Flame</b>, the Challenger forges strange weapons through the <b style='color:#00bfff; text-shadow:0 0 8px #00bfff;'>Rift Gate</b> to pierce the chaos.<br>Each triumph uncovers a page of the <b style='color:#ffd700; text-shadow:0 0 8px #ffd700;'>Ancient Tome</b>, hinting that only the united <b style='color:#7fff00; text-shadow:0 0 8px #7fff00;'>Sacred Relics</b> can seal the corruption forever.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في عالمٍ مكسورٍ يُدعى <b style='color:#ff4500; text-shadow:0 0 8px #ff4500;'>أرض المتحدي</b>، يَستيقظُ المتجول الوحيد المُسمّى <b style='color:#1e90ff; text-shadow:0 0 8px #1e90ff;'>المتحدي</b> على نبوءةٍ مروّعة.<br>مُسترشدًا بـ <b style='color:#da70d6; text-shadow:0 0 8px #da70d6;'>الخريطة السماوية</b>، يواجهُ المتحدي المتاهة <b style='color:#32cd32; text-shadow:0 0 8px #32cd32;'>لا نهائية</b> ويصطدم بالوحش <b style='color:#ff0000; text-shadow:0 0 8px #ff0000;'>القرمزي</b> المخيف.<br>في أعماق <b style='color:#ffa500; text-shadow:0 0 8px #ffa500;'>المعبد المنسي</b>، تظهر مخططات <b style='color:#8a2be2; text-shadow:0 0 8px #8a2be2;'>مجلس الظلال</b> الخفية، مهددةً تمزيق العوالم.<br>مسلحًا بـ <b style='color:#00ced1; text-shadow:0 0 8px #00ced1;'>المصنع الهمس</b> و<b style='color:#ff1493; text-shadow:0 0 8px #ff1493;'>اللَّهَب الأبدي</b>، يصنع المتحدي أسلحةً غريبةً عبر <b style='color:#00bfff; text-shadow:0 0 8px #00bfff;'>بوابة الشق</b> لاختراق الفوضى.<br>كل انتصارٍ يكشف عن صفحةٍ من <b style='color:#ffd700; text-shadow:0 0 8px #ffd700;'>المخطوطة القديمة</b>، مما يوحي بأن جمع <b style='color:#7fff00; text-shadow:0 0 8px #7fff00;'>الآثار المقدسة</b> هو السبيل الوحيد لإغلاق الفساد إلى الأبد.<br></div>",
+    "ReleaseDate": "2022",
+    "CriticScore": 60,
+    "Length": 10,
     "CoverUrl": "https://archive.org/download/RPRM001/Weird%20RPG%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Weird%20RPG%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Weird%20RPG%20Theme.mp3",
@@ -127606,8 +127617,8 @@
     "videoStart": null,
     "videoEnd": null,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["RPG"],
+    "DeveloperNames": ["yuzhen"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -127630,10 +127641,11 @@
     "_id": "game_1777879274589_6",
     "Name": "Weird RPG 2",
     "SortingName": "Weird RPG 02",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "A cryptic <b style='color:#FF6F61; text-shadow: 0 0 8px #FF6F61;'>vending machine oracle</b> warns that the <b style='color:#6B5B95; text-shadow: 0 0 8px #6B5B95;'>Whispering Forest</b> is reshaping itself in a bizarre fashion.<br><b style='color:#88B04B; text-shadow: 0 0 8px #88B04B;'>Mira the Mechanic</b> teams with a riddling <b style='color:#F7CAC9; text-shadow: 0 0 8px #F7CAC9;'>philosopher rabbit</b> to chase the mysterious <b style='color:#92A8D1; text-shadow: 0 0 8px #92A8D1;'>Echoing Clocktower</b>.<br>The tower opens a portal to the <b style='color:#955251; text-shadow: 0 0 8px #955251;'>Realm of Forgotten Echoes</b>, its secret <b style='color:#D5A6BD; text-shadow: 0 0 8px #D5A6BD;'>Crystalline Library</b>, and a glowing <b style='color:#6F4E37; text-shadow: 0 0 8px #6F4E37;'>talking lantern</b>.<br>There, a cursed <b style='color:#DEB887; text-shadow: 0 0 8px #DEB887;'>helmet of karaoke</b> forces a duel with the chaotic <b style='color:#B565A7; text-shadow: 0 0 8px #B565A7;'>God of Glitches</b>, while the enigmatic <b style='color:#009B77; text-shadow: 0 0 8px #009B77;'>Mysterious Maestro</b> and his mischievous <b style='color:#C09F80; text-shadow: 0 0 8px #C09F80;'>shadow cat</b> watch, revealing the chaos was a playful test.<br>",
+    "DescriptionArabic": "<div dir='rtl'>تحذر <b style='color:#FF6F61; text-shadow: 0 0 8px #FF6F61;'>عرافة آلة البيع</b> أن <b style='color:#6B5B95; text-shadow: 0 0 8px #6B5B95;'>غابة الهمس</b> تعيد تشكيل نفسها بطريقة غريبة.<br><b style='color:#88B04B; text-shadow: 0 0 8px #88B04B;'>ميرا الميكانيكية</b> تتعاون مع <b style='color:#F7CAC9; text-shadow: 0 0 8px #F7CAC9;'>الأرنب الفيلسوف</b> لملاحقة <b style='color:#92A8D1; text-shadow: 0 0 8px #92A8D1;'>برج الساعة الصادحة</b> الغامضة.<br>يفتح البرج بوابة إلى <b style='color:#955251; text-shadow: 0 0 8px #955251;'>عالم الصدى المنسي</b>، ومكتبة <b style='color:#D5A6BD; text-shadow: 0 0 8px #D5A6BD;'>المكتبة البلورية</b>، وتضيء <b style='color:#6F4E37; text-shadow: 0 0 8px #6F4E37;'>الفانوس المتكلم</b>.<br>هناك، تجبر <b style='color:#DEB887; text-shadow: 0 0 8px #DEB887;'>خوذة الكاريوكي</b> على خوض معركة مع <b style='color:#B565A7; text-shadow: 0 0 8px #B565A7;'>إله العيوب</b>، بينما يراقب <b style='color:#009B77; text-shadow: 0 0 8px #009B77;'>المايسترو الغامض</b> و<b style='color:#C09F80; text-shadow: 0 0 8px #C09F80;'>القطة الظلية</b>، كاشفين أن الفوضى كانت اختبارًا لعالم الخيال.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 60,
+    "Length": 5,
     "CoverUrl": "https://archive.org/download/RPRM001/Weird%20RPG%202%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Weird%20RPG%202%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Weird%20RPG%202%20Theme.mp3",
@@ -127641,8 +127653,8 @@
     "videoStart": 0,
     "videoEnd": 61.5,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["RPG"],
+    "DeveloperNames": ["yuzhen"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -127665,10 +127677,11 @@
     "_id": "game_1778021049872_0",
     "Name": "Dead as Disco",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "In the <b style='color:#00CED1; text-shadow: 0 0 8px #00CED1;'>neon city</b> aftermath of a decade’s silence, the fallen drummer <b style='color:#FF5733; text-shadow: 0 0 8px #FF5733;'>Charlie Disco</b> awakens, hungry for one last <b style='color:#FFA500; text-shadow: 0 0 8px #FFA500;'>spotlight</b>.<br>He learns the surviving members of <b style='color:#33C3FF; text-shadow: 0 0 8px #33C3FF;'>Dead as Disco</b>, a once‑famed <b style='color:#DA70D6; text-shadow: 0 0 8px #DA70D6;'>legend</b>, plan a grand <b style='color:#FFD700; text-shadow: 0 0 8px #FFD700;'>reunion concert</b>, yet hidden motives pulse beneath the glittering stage.<br>Determined to expose who silenced him, Charlie faces the towering <b style='color:#8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>Idols</b>, his former bandmates guarding fragments of a <b style='color:#FF1493; text-shadow: 0 0 8px #FF1493;'>secret</b> shrouded in <b style='color:#708090; text-shadow: 0 0 8px #708090;'>betrayal</b> and <b style='color:#20B2AA; text-shadow: 0 0 8px #20B2AA;'>mystery</b>.<br>Battles echo through the <b style='color:#2E8B57; text-shadow: 0 0 8px #2E8B57;'>Dive Bar</b> and neon arenas, forcing him to choose <b style='color:#DC143C; text-shadow: 0 0 8px #DC143C;'>revenge</b> or redemption as the <b style='color:#4B0082; text-shadow: 0 0 8px #4B0082;'>truth</b> about his death threatens the band's <b style='color:#8B4513; text-shadow: 0 0 8px #8B4513;'>legacy</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في <b style='color:#00CED1; text-shadow: 0 0 8px #00CED1;'>مدينة نيون</b> بعد صمت عقد كامل، ينهض العازف المتوفى <b style='color:#FF5733; text-shadow: 0 0 8px #FF5733;'>تشارلي ديسكو</b> وهو يتوق إلى <b style='color:#FFA500; text-shadow: 0 0 8px #FFA500;'>الأضواء</b> الأخيرة.<br>يكتشف أن الأعضاء الباقين من <b style='color:#33C3FF; text-shadow: 0 0 8px #33C3FF;'>ديد أس ديسكو</b>، التي كانت <b style='color:#DA70D6; text-shadow: 0 0 8px #DA70D6;'>أسطورة</b> سابقة، يخططون لـ <b style='color:#FFD700; text-shadow: 0 0 8px #FFD700;'>حفل إعادة الجمع</b> الضخم، لكن دوافع خفية تنبض تحت السطح اللامع.<br>مصممًا على كشف من أسكته، يواجه تشارلي الـ<b style='color:#8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>آيدولز</b> الضخمين، زملاءه السابقين الذين يحرسون شظايا <b style='color:#FF1493; text-shadow: 0 0 8px #FF1493;'>سر</b> مغطى بـ<b style='color:#708090; text-shadow: 0 0 8px #708090;'>خيانة</b> و<b style='color:#20B2AA; text-shadow: 0 0 8px #20B2AA;'>غموض</b>.<br>تتردد أصوات القتال عبر <b style='color:#2E8B57; text-shadow: 0 0 8px #2E8B57;'>بار الغوص</b> والساحات النيونية، مما يجبره على اختيار <b style='color:#DC143C; text-shadow: 0 0 8px #DC143C;'>الانتقام</b> أو الفداء بينما <b style='color:#4B0082; text-shadow: 0 0 8px #4B0082;'>حقيقة</b> موته تهدد <b style='color:#8B4513; text-shadow: 0 0 8px #8B4513;'>إرث</b> الفرقة.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
+    "Length": 5,
     "CoverUrl": "https://archive.org/download/RPRM001/Dead%20as%20Disco%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Dead%20as%20Disco%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Dead%20as%20Disco%20Theme.mp3",
@@ -127676,8 +127689,8 @@
     "videoStart": 0,
     "videoEnd": 89.650527,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Beat 'em Up"],
+    "DeveloperNames": ["Brain Jar Games, Inc."],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -127700,10 +127713,11 @@
     "_id": "game_1778021049872_2",
     "Name": "Kotama and Academy Citadel",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "When the <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>Kotama</b> arrives as an exchange student, the towering <b style='color: #C70039; text-shadow: 0 0 8px #C70039;'>Academy Citadel</b> looms, its corridors pulsing with relentless <b style='color: #900C3F; text-shadow: 0 0 8px #900C3F;'>high‑tech</b> marvels and hidden dangers.<br>The centennial <b style='color: #581845; text-shadow: 0 0 8px #581845;'>Carmel Star</b> contest sparks a fierce race for honor, yet a looming <b style='color: #DAF7A6; text-shadow: 0 0 8px #DAF7A6;'>crisis</b> threatens to shatter the institution.<br>Armed with mysterious <b style='color: #FFC300; text-shadow: 0 0 8px #FFC300;'>Memocards</b> and her unique <b style='color: #FF8D1A; text-shadow: 0 0 8px #FF8D1A;'>fluid powers</b>, Kotama must pierce deceptive <b style='color: #FF33A6; text-shadow: 0 0 8px #FF33A6;'>illusions</b>, traverse shifting <b style='color: #33FF57; text-shadow: 0 0 8px #33FF57;'>biomes</b>, and rally tentative <b style='color: #3357FF; text-shadow: 0 0 8px #3357FF;'>allies</b> against a dark <b style='color: #8D33FF; text-shadow: 0 0 8px #8D33FF;'>sci‑fi plot</b>.<br>Every decision tests her <b style='color: #FF3333; text-shadow: 0 0 8px #FF3333;'>strength</b> and compassion, as the pursuit of the coveted <b style='color: #581845; text-shadow: 0 0 8px #581845;'>Carmel Star</b> becomes a battle to avert the academy’s ultimate <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>danger</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>عندما تصل <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>كوتاما</b> كطالبة تبادل غير متوقعة، تبرز <b style='color: #C70039; text-shadow: 0 0 8px #C70039;'>قلعة الأكاديمية</b> الشاهقة، وممراتها تهمس بـ <b style='color: #900C3F; text-shadow: 0 0 8px #900C3F;'>تقنية عالية</b> لا تعرف الرحمة وأخطار خفية.<br>يُشعل احتفال الذكرى المئوية لـ <b style='color: #581845; text-shadow: 0 0 8px #581845;'>نجم كارمل</b> سباقًا شرسًا من أجل الشرف، لكن <b style='color: #DAF7A6; text-shadow: 0 0 8px #DAF7A6;'>الأزمة</b> المتربصة تهدد بتمزيق المؤسسة.<br>مسلحةً بـ <b style='color: #FFC300; text-shadow: 0 0 8px #FFC300;'>بطاقات الذاكرة</b> الغامضة و<b style='color: #FF8D1A; text-shadow: 0 0 8px #FF8D1A;'>قوى سائلة</b> فريدة، يجب على كوتاما اختراق <b style='color: #FF33A6; text-shadow: 0 0 8px #FF33A6;'>الوهم</b> المتحيّرة، عبور <b style='color: #33FF57; text-shadow: 0 0 8px #33FF57;'>الأنظمة البيئية</b> المتقلبة، وجمع <b style='color: #3357FF; text-shadow: 0 0 8px #3357FF;'>حلفاء</b> مترددين ضد <b style='color: #8D33FF; text-shadow: 0 0 8px #8D33FF;'>حبكة خيال علمي</b> مظلمة.<br>كل قرار يختبر <b style='color: #FF3333; text-shadow: 0 0 8px #FF3333;'>قوة</b> كوتاما وتعاطفها، إذ يتحول السعي وراء <b style='color: #581845; text-shadow: 0 0 8px #581845;'>نجم كارمل</b> المرغوب إلى معركة لتفادي <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>الخطر</b> النهائي للقلعة.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
+    "Length": 15,
     "CoverUrl": "https://archive.org/download/RPRM001/Kotama%20and%20Academy%20Citadel%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Kotama%20and%20Academy%20Citadel%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Kotama%20and%20Academy%20Citadel%20Theme.mp3",
@@ -127711,8 +127725,8 @@
     "videoStart": 0.5,
     "videoEnd": 47.265053,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Metroidvania"],
+    "DeveloperNames": ["Atomstring Games"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -127735,10 +127749,11 @@
     "_id": "game_1778021049872_3",
     "Name": "MOTORSLICE",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "In the silent corridors of a massive <b style='color:#A020F0; text-shadow:0 0 8px #A020F0;'>megastructure</b>, the lone <b style='color:#FF4500; text-shadow:0 0 8px #FF4500;'>Slicer</b> named <b style='color:#1E90FF; text-shadow:0 0 8px #1E90FF;'>P</b> begins a deeply dangerous <b style='color:#DAA520; text-shadow:0 0 8px #DAA520;'>routine</b> job today.<br>She uncovers a hidden <b style='color:#4B0082; text-shadow:0 0 8px #4B0082;'>secret</b> when a towering <b style='color:#8B0000; text-shadow:0 0 8px #8B0000;'>dreadful machine</b> looms, turning the halls into <b style='color:#00CED1; text-shadow:0 0 8px #00CED1;'>liminal spaces</b> echoing with <b style='color:#00FF7F; text-shadow:0 0 8px #00FF7F;'>echoes</b>.<br>Guided by a glitching <b style='color:#32CD32; text-shadow:0 0 8px #32CD32;'>Orbie</b> <b style='color:#FF8C00; text-shadow:0 0 8px #FF8C00;'>drone</b>, P wields a humming <b style='color:#FFD700; text-shadow:0 0 8px #FFD700;'>chainsaw</b> to confront massive <b style='color:#FF69B4; text-shadow:0 0 8px #FF69B4;'>bosses</b> of steel and memory.<br>The tale feels like a <b style='color:#FF1493; text-shadow:0 0 8px #FF1493;'>slice‑of‑life</b> set in a <b style='color:#708090; text-shadow:0 0 8px #708090;'>brutalist</b> world, where the line between duty and the <b style='color:#2F4F4F; text-shadow:0 0 8px #2F4F4F;'>unknown</b> blurs.",
+    "DescriptionArabic": "<div dir='rtl'>في ممرات الصمت داخل <b style='color:#A020F0; text-shadow:0 0 8px #A020F0;'>الهيكل الضخم</b>، يبدأ <b style='color:#FF4500; text-shadow:0 0 8px #FF4500;'>القاطع</b> المسمى <b style='color:#1E90FF; text-shadow:0 0 8px #1E90FF;'>بي</b> وظيفة <b style='color:#DAA520; text-shadow:0 0 8px #DAA520;'>روتينية</b> خطرة وعميقة اليوم.<br>تكتشف <b style='color:#4B0082; text-shadow:0 0 8px #4B0082;'>سرًا</b> مخفيًا عندما تبرز <b style='color:#8B0000; text-shadow:0 0 8px #8B0000;'>آلة مروعة</b> شاهقة، محوّلةً القاعات إلى <b style='color:#00CED1; text-shadow:0 0 8px #00CED1;'>مساحات شبيهة بالحدود</b> تتردد فيها <b style='color:#00FF7F; text-shadow:0 0 8px #00FF7F;'>صدى</b>.<br>بمساعدة <b style='color:#32CD32; text-shadow:0 0 8px #32CD32;'>أوربي</b> <b style='color:#FF8C00; text-shadow:0 0 8px #FF8C00;'>طائرة</b> المتعطلة، يحمل بي <b style='color:#FFD700; text-shadow:0 0 8px #FFD700;'>منشارًا</b> يهمس لتحدي <b style='color:#FF69B4; text-shadow:0 0 8px #FF69B4;'>رؤساء</b> من الفولاذ والذكريات.<br>القصة تشبه <b style='color:#FF1493; text-shadow:0 0 8px #FF1493;'>قصة حياة</b> تُروى في عالم <b style='color:#708090; text-shadow:0 0 8px #708090;'>بروليت</b>، حيث يطمس الخط الفاصل بين الواجب و <b style='color:#2F4F4F; text-shadow:0 0 8px #2F4F4F;'>المجهول</b>.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
+    "Length": 10,
     "CoverUrl": "https://archive.org/download/RPRM001/MOTORSLICE%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/MOTORSLICE%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/MOTORSLICE%20Theme.mp3",
@@ -127746,8 +127761,8 @@
     "videoStart": 0,
     "videoEnd": 0,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Adventure"],
+    "DeveloperNames": ["Regular Studio"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -127770,10 +127785,11 @@
     "_id": "game_1778021049872_4",
     "Name": "Outworld Station",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "The newly appointed <b style='color:#FFD700; text-shadow:0 0 8px #FFD700;'>Station Commander</b> awakens in the distant <b style='color:#1E90FF; text-shadow:0 0 8px #1E90FF;'>TAU System</b>, a cluster of alien worlds within a <b style='color:#8B0000; text-shadow:0 0 8px #8B0000;'>Hostile Universe</b> teeming with untapped riches and unseen dangers.<br>Guided by ancient <b style='color:#8A2BE2; text-shadow:0 0 8px #8A2BE2;'>Mysterious Artifacts</b>, the commander must forge powerful <b style='color:#00FF7F; text-shadow:0 0 8px #00FF7F;'>Starships</b>, harness volatile <b style='color:#FF4500; text-shadow:0 0 8px #FF4500;'>Antimatter</b>, and unlock cutting‑edge <b style='color:#4B0082; text-shadow:0 0 8px #4B0082;'>Advanced Technology</b> to claim dominion over the hostile frontier.<br>Rival <b style='color:#DC143C; text-shadow:0 0 8px #DC143C;'>Enemies</b>—ruthless alien fleets and treacherous space fauna—patrol the <b style='color:#2E8B57; text-shadow:0 0 8px #2E8B57;'>Alien Star System</b>, threatening any incursion and testing the commander’s resolve.<br>By deploying fleets of <b style='color:#00CED1; text-shadow:0 0 8px #00CED1;'>Robot Freighters</b> and constructing <b style='color:#DAA520; text-shadow:0 0 8px #DAA520;'>Wormholes</b>, the commander weaves supply lines that bind <b style='color:#7FFF00; text-shadow:0 0 8px #7FFF00;'>Colonies</b> to <b style='color:#FF1493; text-shadow:0 0 8px #FF1493;'>Resource Veins</b>, forging the backbone of <b style='color:#7FFFD4; text-shadow:0 0 8px #7FFFD4;'>Outworld Station</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>يقوم <b style='color:#FFD700; text-shadow:0 0 8px #FFD700;'>قائد المحطة</b> المستيقظ في <b style='color:#1E90FF; text-shadow:0 0 8px #1E90FF;'>نظام تاو</b> البعيد، وهو مجموعة من العوالم الغريبة داخل <b style='color:#8B0000; text-shadow:0 0 8px #8B0000;'>الكون العدائي</b> مليء بالثروات غير المستغلة والمخاطر غير المرئية.<br>بتوجيه من <b style='color:#8A2BE2; text-shadow:0 0 8px #8A2BE2;'>القطع الأثرية الغامضة</b> القديمة، يجب على القائد صُنع <b style='color:#00FF7F; text-shadow:0 0 8px #00FF7F;'>السفن الفضائية</b> القوية، واستغلال <b style='color:#FF4500; text-shadow:0 0 8px #FF4500;'>مضاد المادة</b> المتقلبة، وتفعيل <b style='color:#4B0082; text-shadow:0 0 8px #4B0082;'>التكنولوجيا المتقدمة</b> لفرض السيادة على الحدود العدائية.<br>الأعداء <b style='color:#DC143C; text-shadow:0 0 8px #DC143C;'>المتنافسون</b>—أساطيل فضائية قاسية وحيوانات فضائية خبيثة—يدورون في <b style='color:#2E8B57; text-shadow:0 0 8px #2E8B57;'>نظام النجوم الغريب</b>، مهددين أي توغل ومختبرين صمود القائد.<br>من خلال نشر <b style='color:#00CED1; text-shadow:0 0 8px #00CED1;'>الشاحنات الروبوتية</b> وبناء <b style='color:#DAA520; text-shadow:0 0 8px #DAA520;'>بوابات الفجوة</b>، ينسج القائد خطوط إمداد تربط <b style='color:#7FFF00; text-shadow:0 0 8px #7FFF00;'>المستعمرات</b> <b style='color:#FF1493; text-shadow:0 0 8px #FF1493;'>بالموارد الغنية</b>، مكونًا العمود الفقري <b style='color:#7FFFD4; text-shadow:0 0 8px #7FFFD4;'>لمحطة العالم الخارجي</b>.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "Length": 30,
     "CoverUrl": "https://archive.org/download/RPRM001/Outworld%20Station%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Outworld%20Station%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Outworld%20Station%20Theme.mp3",
@@ -127781,8 +127797,8 @@
     "videoStart": 0,
     "videoEnd": 0,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Strategy"],
+    "DeveloperNames": ["Trickjump Games Ltd"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -127805,10 +127821,10 @@
     "_id": "game_1778021049872_5",
     "Name": "Winx Club The Magic is Back",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "When the mischievous <b style='color:#FF5733; text-shadow:0 0 8px #FF5733;'>Trix</b> steal the ancient <b style='color:#C70039; text-shadow:0 0 8px #C70039;'>Artifact</b>, they risk opening a dangerous <b style='color:#900C3F; text-shadow:0 0 8px #900C3F;'>Dimension Rift</b> that could unleash <b style='color:#581845; text-shadow:0 0 8px #581845;'>Chaos</b>.<br>The six brave <b style='color:#FFC300; text-shadow:0 0 8px #FFC300;'>Bloom</b>, <b style='color:#FF5733; text-shadow:0 0 8px #FF5733;'>Stella</b>, <b style='color:#DAF7A6; text-shadow:0 0 8px #DAF7A6;'>Flora</b>, <b style='color:#C70039; text-shadow:0 0 8px #C70039;'>Musa</b>, <b style='color:#900C3F; text-shadow:0 0 8px #900C3F;'>Tecna</b> and <b style='color:#581845; text-shadow:0 0 8px #581845;'>Aisha</b> gather at <b style='color:#FF5733; text-shadow:0 0 8px #FF5733;'>Alfea</b> to devise a plan.<br>They trek through the glittering <b style='color:#FFC300; text-shadow:0 0 8px #FFC300;'>Enchanted Forest</b>, climb the breezy <b style='color:#C70039; text-shadow:0 0 8px #C70039;'>Coastal Cliffs</b>, and brave the scorching <b style='color:#DAF7A6; text-shadow:0 0 8px #DAF7A6;'>Desert Ruins of Red Fountain</b>.<br>Each fairy draws upon her unique magic, growing stronger as the looming threat intensifies.<br>In the final clash they unite their powers to seal the rift and restore peace.",
+    "DescriptionArabic": "<div dir='rtl'>عندما تسرق الـ<b style='color:#FF5733; text-shadow:0 0 8px #FF5733;'>تريكس</b> القطعة <b style='color:#C70039; text-shadow:0 0 8px #C70039;'>الأثرية</b> القديمة، فإنها تخاطر بفتح شق <b style='color:#900C3F; text-shadow:0 0 8px #900C3F;'>الأبعاد</b> قد يطلق <b style='color:#581845; text-shadow:0 0 8px #581845;'>الفوضى</b>.<br>تجتمع الست فتيات الشجاعات <b style='color:#FFC300; text-shadow:0 0 8px #FFC300;'>بلوم</b>، <b style='color:#FF5733; text-shadow:0 0 8px #FF5733;'>ستيلا</b>، <b style='color:#DAF7A6; text-shadow:0 0 8px #DAF7A6;'>فلورا</b>، <b style='color:#C70039; text-shadow:0 0 8px #C70039;'>موسا</b>، <b style='color:#900C3F; text-shadow:0 0 8px #900C3F;'>تكنا</b> و<b style='color:#581845; text-shadow:0 0 8px #581845;'>آيشا</b> في <b style='color:#FF5733; text-shadow:0 0 8px #FF5733;'>ألفيا</b> لوضع خطة.<br>يسافرن عبر <b style='color:#FFC300; text-shadow:0 0 8px #FFC300;'>الغابة المسحورة</b>، ويتسلقن <b style='color:#C70039; text-shadow:0 0 8px #C70039;'>المنحدرات الساحلية</b>، ويواجهن <b style='color:#DAF7A6; text-shadow:0 0 8px #DAF7A6;'>أطلال صحراء نافورة الأحمر</b> الحار.<br>كل جنيّة تستدعي سحرها الفريد، فتزداد قوتها مع تصاعد التهديد.<br>في المواجهة النهائية يتحدن قواهن لسد الشق وإعادة السلام.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 40,
     "CoverUrl": "https://archive.org/download/RPRM001/Winx%20Club%20The%20Magic%20is%20Back%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Winx%20Club%20The%20Magic%20is%20Back%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Winx%20Club%20The%20Magic%20is%20Back%20Theme.mp3",
@@ -127816,8 +127832,8 @@
     "videoStart": 0,
     "videoEnd": 0,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Adventure"],
+    "DeveloperNames": ["Iron Frog"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -127840,10 +127856,11 @@
     "_id": "game_1778021049872_6",
     "Name": "World Heroes Perfect",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "A year after the clash, the mysterious <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>Dr. Brown</b> sends summons for the <b style='color: #C70039; text-shadow: 0 0 8px #C70039;'>World Heroes</b> tournament.<br>God <b style='color: #900C3F; text-shadow: 0 0 8px #900C3F;'>Zeus</b> readies thunder, while revived villain <b style='color: #581845; text-shadow: 0 0 8px #581845;'>Neo Dio</b> plots in shadow.<br>The brute <b style='color: #1F618D; text-shadow: 0 0 8px #1F618D;'>Julius Carn</b>, mystic <b style='color: #148F77; text-shadow: 0 0 8px #148F77;'>Rasputin</b>, and fiery <b style='color: #117A65; text-shadow: 0 0 8px #117A65;'>Kim Dragon</b> sharpen legendary moves.<br>Brave <b style='color: #B7950B; text-shadow: 0 0 8px #B7950B;'>Jeanne d'Arc</b>, roguish <b style='color: #D68910; text-shadow: 0 0 8px #D68910;'>Captain Kidd</b>, and silent ninja <b style='color: #A04000; text-shadow: 0 0 8px #A04000;'>Hanzō Hattori</b> join the fray.<br>Bold <b style='color: #2471A3; text-shadow: 0 0 8px #2471A3;'>Johnny Maximum</b>, cunning <b style='color: #2E4053; text-shadow: 0 0 8px #2E4053;'>Fuuma Kotaro</b>, and monk <b style='color: #7D3C98; text-shadow: 0 0 8px #7D3C98;'>Shura</b> add flair.<br>Powerhouse <b style='color: #8E44AD; text-shadow: 0 0 8px #8E44AD;'>Muscle Power</b> and hidden champion <b style='color: #F1C40F; text-shadow: 0 0 8px #F1C40F;'>Son Gokū</b> arrive, unaware of the ancient enemy.<br>",
+    "DescriptionArabic": "<div dir='rtl'>بعد عام من الصراع، يرسل الدكتور <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>د. براون</b> الدعوات لبطولة <b style='color: #C70039; text-shadow: 0 0 8px #C70039;'>أبطال العالم</b>.<br>الإله <b style='color: #900C3F; text-shadow: 0 0 8px #900C3F;'>زيوس</b> يجهز رعده، بينما يخطط الشرير المتجدد <b style='color: #581845; text-shadow: 0 0 8px #581845;'>نيو ديو</b> في الظل.<br>المقاتل الضخم <b style='color: #1F618D; text-shadow: 0 0 8px #1F618D;'>جولياس كارن</b>، الصوفي <b style='color: #148F77; text-shadow: 0 0 8px #148F77;'>راسوتين</b>، والتنين الناري <b style='color: #117A65; text-shadow: 0 0 8px #117A65;'>كيم دراغون</b> يصقلون حركاتهم الأسطورية.<br>البطلة الشجاعة <b style='color: #B7950B; text-shadow: 0 0 8px #B7950B;'>جان دارك</b>، القراصنة الماكر <b style='color: #D68910; text-shadow: 0 0 8px #D68910;'>الكابتن كيد</b>، والنينجا الصامت <b style='color: #A04000; text-shadow: 0 0 8px #A04000;'>هانزو هاتوري</b> ينضمون إلى الساحة.<br>المتحدي <b style='color: #2471A3; text-shadow: 0 0 8px #2471A3;'>جوني ماكسيموم</b>، الماكر <b style='color: #2E4053; text-shadow: 0 0 8px #2E4053;'>فواما كوتارو</b>، والراهب <b style='color: #7D3C98; text-shadow: 0 0 8px #7D3C98;'>شورا</b> يضيفون لمستهم.<br>القوة الضخمة <b style='color: #8E44AD; text-shadow: 0 0 8px #8E44AD;'>عضلة باور</b> والبطل الخفي <b style='color: #F1C40F; text-shadow: 0 0 8px #F1C40F;'>سون جوكو</b> يصلان، غير مدركين العدو القديم المتربص.<br></div>",
+    "ReleaseDate": "1995",
+    "CriticScore": 60,
+    "Length": 5,
     "CoverUrl": "https://archive.org/download/RPRM001/World%20Heroes%20Perfect%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/World%20Heroes%20Perfect%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/World%20Heroes%20Perfect%20Theme.mp3",
@@ -127851,8 +127868,8 @@
     "videoStart": 7.4,
     "videoEnd": 0,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Fighting"],
+    "DeveloperNames": ["SNK"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -127912,10 +127929,11 @@
     "_id": "game_1778113783966_1",
     "Name": "Tatsunoko vs. Capcom Ultimate All Stars",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "The <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>Capcom universe</b> collides with the <b style='color: #33A1FF; text-shadow: 0 0 8px #33A1FF;'>Tatsunoko realm</b>, threatening the stability of both.<br>Heroes such as <b style='color: #E91E63; text-shadow: 0 0 8px #E91E63;'>Ryu</b>, <b style='color: #9C27B0; text-shadow: 0 0 8px #9C27B0;'>Chun‑Li</b> and <b style='color: #FF9800; text-shadow: 0 0 8px #FF9800;'>Joe the Condor</b> rally to confront the darkness.<br>Opposing them, the malevolent <b style='color: #3F51B5; text-shadow: 0 0 8px #3F51B5;'>Yami</b> and the towering <b style='color: #009688; text-shadow: 0 0 8px #009688;'>Gold Lightan</b> seek domination over the dimensions.<br>Alliances form between <b style='color: #795548; text-shadow: 0 0 8px #795548;'>Ken the Eagle</b> and <b style='color: #607D8B; text-shadow: 0 0 8px #607D8B;'>Casshan</b>, while <b style='color: #8BC34A; text-shadow: 0 0 8px #8BC34A;'>Zero</b> and <b style='color: #FFC107; text-shadow: 0 0 8px #FFC107;'>Frank West</b> bring unexpected power.<br>In the final epic clash, <b style='color: #F44336; text-shadow: 0 0 8px #F44336;'>Ultimate All‑Stars</b> decides the fate of both realms, leaving their destiny hanging in a fragile balance forever.<br>",
+    "DescriptionArabic": "<div dir='rtl'>تتصادم <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>عالم كابكوم</b> مع <b style='color: #33A1FF; text-shadow: 0 0 8px #33A1FF;'>عالم تاتسونوكو</b>، ما يهدد استقرار كلاهما.<br>يتجمع أبطال مثل <b style='color: #E91E63; text-shadow: 0 0 8px #E91E63;'>ريو</b> و<b style='color: #9C27B0; text-shadow: 0 0 8px #9C27B0;'>تشون-لي</b> و<b style='color: #FF9800; text-shadow: 0 0 8px #FF9800;'>جو النسر</b> لتحدي الظلام.<br>في الجهة المقابلة، يسعى <b style='color: #3F51B5; text-shadow: 0 0 8px #3F51B5;'>يامي</b> و<b style='color: #009688; text-shadow: 0 0 8px #009688;'>غولد لايتان</b> للهيمنة على الأبعاد.<br>تتحالف <b style='color: #795548; text-shadow: 0 0 8px #795548;'>كين الصقر</b> مع <b style='color: #607D8B; text-shadow: 0 0 8px #607D8B;'>كاشان</b>، بينما يضيف <b style='color: #8BC34A; text-shadow: 0 0 8px #8BC34A;'>زيرو</b> و<b style='color: #FFC107; text-shadow: 0 0 8px #FFC107;'>فرانك ويست</b> قوة غير متوقعة.<br>في النهاية، يقرر <b style='color: #F44336; text-shadow: 0 0 8px #F44336;'>ألتيميت أُل-ستارز</b> مصير كلتا العوالم، وتبقى الأقدار معلقة في ربعٍ من التوازن إلى الأبد.<br></div>",
+    "ReleaseDate": "2010",
+    "CriticScore": 80,
+    "Length": 10,
     "CoverUrl": "https://archive.org/download/RPRM001/Tatsunoko%20vs.%20Capcom%20Ultimate%20All%20Stars%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Tatsunoko%20vs.%20Capcom%20Ultimate%20All%20Stars%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Tatsunoko%20vs.%20Capcom%20Ultimate%20All%20Stars%20Theme.mp3",
@@ -127923,8 +127941,8 @@
     "videoStart": 34.8,
     "videoEnd": 154.672111,
     "PlatformNames": ["Nintendo Wii"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Fighting"],
+    "DeveloperNames": ["Eighting"],
     "downloadInfo": {
       "Nintendo Wii": {
         "versions": [
@@ -127947,10 +127965,11 @@
     "_id": "game_1778126891137_0",
     "Name": "Lucky Luke",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "A gang of outlaws is on the run, and the whole Wild West is banking on you to catch them. From Mississippi to Colorado, your ride's sure to give you saddle sores. Yep, you're gonna have to be the fastest draw in the west, if you don't want to find yourself <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>6 feet under</b>. So prove you're a real cowboy by putting that dangerous band of <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>outlaws</b> behind bars. <br> Lucky Luke must track down the <b style='color: #008000; text-shadow: 0 0 8px #008000;'>Dalton brothers</b> across <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>deserts</b> and <b style='color: #000080; text-shadow: 0 0 8px #000080;'>ghost towns</b>. The <b style='color: #800080; text-shadow: 0 0 8px #800080;'>Dalton gang</b> plans to rob banks and escape on a <b style='color: #A52A2A; text-shadow: 0 0 8px #A52A2A;'>runaway wagon</b>, forcing Luke to solve <b style='color: #0000FF; text-shadow: 0 0 8px #0000FF;'>puzzles</b> and survive <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>tornados</b>. <br> With <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>Billy the Kid</b> and <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Jesse James</b> as rivals, Luke must collect <b style='color: #808080; text-shadow: 0 0 8px #808080;'>money</b> to buy extra lives while dodging <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>hostages</b> and <b style='color: #008080; text-shadow: 0 0 8px #008080;'>buffalo stampedes</b>. <br>",
+    "DescriptionArabic": "<div dir='rtl'>هروب عصابة من المجرمين، ويُعتمد علىك كي تُوقفهم في الغرب المتوحش. من ميسيسيبي إلى كولورادو، سيضمن لك الركض على الخيل إصابتك بآلام في الظهر. إذًا، يجب أن تكون أسرع رامي في الغرب، إذا أردت التخلص من فكرة أنك ستقع <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>في القبر</b>. لذا أثبت أنك فارس حقيقي بإحباط تلك العصابة الخطرة من <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>المجرمين</b>. <br> يجب على لوكى لوك تتبع <b style='color: #008000; text-shadow: 0 0 8px #008000;'>إخوة دالتون</b> عبر <b style='color: #FFA500; text-shadow: 0 0 8px #FFA500;'>الصحراء</b> و <b style='color: #000080; text-shadow: 0 0 8px #000080;'>المدن المهجورة</b>. تخطط <b style='color: #800080; text-shadow: 0 0 8px #800080;'>عصابة دالتون</b> لسرقة البنوك و탈بص على عربة <b style='color: #A52A2A; text-shadow: 0 0 8px #A52A2A;'>مُسرعة</b>، مما يجبر لوك على حل <b style='color: #0000FF; text-shadow: 0 0 8px #0000FF;'>الألغاز</b> وتجنب <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>الرياح العاتية</b>. <br> مع وجود <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>بيلي ذا كيد</b> و <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>جيسى جيمس</b> كخصوم، يجب على لوك جمع <b style='color: #808080; text-shadow: 0 0 8px #808080;'>المال</b> لشراء حياة إضافية بينما يتجنب <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>المُختطفين</b> و <b style='color: #008080; text-shadow: 0 0 8px #008080;'>الهجمات العدوانية للثيران</b>. <br></div>",
+    "ReleaseDate": "1998",
+    "CriticScore": 40,
+    "Length": 5,
     "CoverUrl": "https://archive.org/download/RPRM001/Lucky%20Luke%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Lucky%20Luke%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Lucky%20Luke%20Theme.mp3",
@@ -127958,8 +127977,8 @@
     "videoStart": 7.4,
     "videoEnd": 0,
     "PlatformNames": ["Sony PlayStation"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Platformer"],
+    "DeveloperNames": ["Infogrames"],
     "downloadInfo": {
       "Sony PlayStation": {
         "versions": [
@@ -127981,10 +128000,11 @@
     "_id": "game_1778134527847_0",
     "Name": "Conan Exiles Enhanced",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Cast from the gallows into the scorching dunes, the condemned awaken beneath a dead tree where <b style='color: #D32F2F; text-shadow: 0 0 8px #D32F2F;'>Conan</b> offers a razor‑sharp blade of mercy.<br>They are thrust into the <b style='color: #4A148C; text-shadow: 0 0 8px #4A148C;'>Exiled Lands</b>, a brutal wasteland ruled by ancient <b style='color: #00695C; text-shadow: 0 0 8px #00695C;'>gods</b> whose whispers promise <b style='color: #E65100; text-shadow: 0 0 8px #E65100;'>power</b> at a <b style='color: #B71C1C; text-shadow: 0 0 8px #B71C1C;'>blood</b> price.<br>A hidden path leads to the cursed <b style='color: #0D47A1; text-shadow: 0 0 8px #0D47A1;'>Isle of Siptah</b>, where forgotten <b style='color: #BF360C; text-shadow: 0 0 8px #BF360C;'>cultists</b> and restless <b style='color: #5D4037; text-shadow: 0 0 8px #5D4037;'>thralls</b> await the desperate.<br>To survive, they barter with <b style='color: #F57F17; text-shadow: 0 0 8px #F57F17;'>Crom</b>, appease the cunning <b style='color: #1A237E; text-shadow: 0 0 8px #1A237E;'>Set</b>, or surrender to seductive <b style='color: #880E4F; text-shadow: 0 0 8px #880E4F;'>Derketo</b> and her dark <b style='color: #004D40; text-shadow: 0 0 8px #004D40;'>sorcery</b>.<br>Each choice summons a towering <b style='color: #212121; text-shadow: 0 0 8px #212121;'>avatar</b> of a deity, crushing foes and reshaping fate in a quest.<br>",
+    "DescriptionArabic": "<div dir='rtl'>بعد أن يُلقون من المشنقة إلى الكثبان الحارقة، يفيق المحكومون تحت شجرة ميتة حيث يمنحهم <b style='color: #D32F2F; text-shadow: 0 0 8px #D32F2F;'>كونان</b> شفرة حادة من الرحمة.<br>يُسقون إلى <b style='color: #4A148C; text-shadow: 0 0 8px #4A148C;'>الأراضي المنفية</b>، صحراء قاسية تحكمها <b style='color: #00695C; text-shadow: 0 0 8px #00695C;'>الآلهة</b> القديمة التي تُهمس بـ <b style='color: #E65100; text-shadow: 0 0 8px #E65100;'>القوة</b> مقابل <b style='color: #B71C1C; text-shadow: 0 0 8px #B71C1C;'>الدم</b>.<br>مسار مخفي يقود إلى <b style='color: #0D47A1; text-shadow: 0 0 8px #0D47A1;'>جزيرة سيبتاه</b> الملعونة، حيث ينتظر <b style='color: #BF360C; text-shadow: 0 0 8px #BF360C;'>المعابد</b> و <b style='color: #5D4037; text-shadow: 0 0 8px #5D4037;'>الخدم</b> الجائعون.<br>للبقاء، يتاجرون مع <b style='color: #F57F17; text-shadow: 0 0 8px #F57F17;'>كروم</b>، يرضون <b style='color: #1A237E; text-shadow: 0 0 8px #1A237E;'>ست</b> الماكرة، أو يخضعون لساحرة <b style='color: #880E4F; text-shadow: 0 0 8px #880E4F;'>ديركيتو</b> وسحرها <b style='color: #004D40; text-shadow: 0 0 8px #004D40;'>الداكن</b>.<br>كل قرار يوقظ <b style='color: #212121; text-shadow: 0 0 8px #212121;'>الصورة</b> الشاهقة لإله، تسحق الأعداء وتعيد تشكيل المصير في سعي.<br></div>",
+    "ReleaseDate": "2018",
+    "CriticScore": 60,
+    "Length": 120,
     "CoverUrl": "https://archive.org/download/RPRM001/Conan%20Exiles%20Enhanced%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Conan%20Exiles%20Enhanced%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Conan%20Exiles%20Enhanced%20Theme.mp3",
@@ -127992,8 +128012,8 @@
     "videoStart": 2.5,
     "videoEnd": 99.246008,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Survival"],
+    "DeveloperNames": ["Funcom"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -128010,16 +128030,17 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1778134527847_1",
     "Name": "Starship Troopers Ultimate Bug War",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "In a tongue‑in‑cheek <b style='color:#FF5733; text-shadow: 0 0 8px #FF5733;'>Training Simulation</b>, the bold <b style='color:#33FF57; text-shadow: 0 0 8px #33FF57;'>Major Samantha \\\"Sammy\\\" Dietz</b> gets a smug pep talk from <b style='color:#3357FF; text-shadow: 0 0 8px #3357FF;'>General Johnny Rico</b> before diving into the chaotic <b style='color:#FF33A1; text-shadow: 0 0 8px #FF33A1;'>Bug War</b>.<br>Her goal is to track the elusive <b style='color:#A133FF; text-shadow: 0 0 8px #A133FF;'>Assassin Bug</b> across iconic sites like <b style='color:#33FFF6; text-shadow: 0 0 8px #33FFF6;'>Klendathu</b>, <b style='color:#F6FF33; text-shadow: 0 0 8px #F6FF33;'>Planet P</b> and sun‑scorched <b style='color:#FF8C33; text-shadow: 0 0 8px #FF8C33;'>Zegema Beach</b>.<br>Meanwhile the <b style='color:#8C33FF; text-shadow: 0 0 8px #8C33FF;'>Federation</b> showers recruits with glossy <b style='color:#33FF8C; text-shadow: 0 0 8px #33FF8C;'>propaganda</b> and bombastic <b style='color:#FF3333; text-shadow: 0 0 8px #FF3333;'>FMV</b> celebrating the heroic <b style='color:#33A1FF; text-shadow: 0 0 8px #33A1FF;'>Mobile Infantry</b>.<br>A secret <b style='color:#A1FF33; text-shadow: 0 0 8px #A1FF33;'>Bug Mode</b> lets players become a snarling <b style='color:#FF33A8; text-shadow: 0 0 8px #FF33A8;'>Arachnid</b>, flipping the script for absurd fun.<br>Witty dialogue and exaggerated danger poke fun at militaristic zeal while delivering a nostalgic romp through overrun outposts.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في <b style='color:#FF5733; text-shadow: 0 0 8px #FF5733;'>محاكاة التدريب</b> ساخرة، تتلقى <b style='color:#33FF57; text-shadow: 0 0 8px #33FF57;'>الرائدة سامنثا \\\"سامي\\\" دييتز</b> نصيحة مبالغ فيها من <b style='color:#3357FF; text-shadow: 0 0 8px #3357FF;'>الجنرال جوني ريكو</b> قبل القفز إلى <b style='color:#FF33A1; text-shadow: 0 0 8px #FF33A1;'>حرب الحشرات</b> الفوضوية.<br>هدفها هو تعقب <b style='color:#A133FF; text-shadow: 0 0 8px #A133FF;'>حشرة القاتل</b> عبر مواقع أيقونية مثل <b style='color:#33FFF6; text-shadow: 0 0 8px #33FFF6;'>كلنداثو</b>، <b style='color:#F6FF33; text-shadow: 0 0 8px #F6FF33;'>كوكب P</b> وشاطئ <b style='color:#FF8C33; text-shadow: 0 0 8px #FF8C33;'>زيجيما</b> المشمس.<br>في الوقت نفسه، يملأ <b style='color:#8C33FF; text-shadow: 0 0 8px #8C33FF;'>الاتحاد</b> المجندين بـ <b style='color:#33FF8C; text-shadow: 0 0 8px #33FF8C;'>الدعاية</b> اللامعة و<b style='color:#FF3333; text-shadow: 0 0 8px #FF3333;'>فيديو FMV</b> المتفجرة التي تحتفي بـ <b style='color:#33A1FF; text-shadow: 0 0 8px #33A1FF;'>المشاة المتنقلة</b> البطولية.<br>يتيح <b style='color:#A1FF33; text-shadow: 0 0 8px #A1FF33;'>وضع الحشرة</b> السري للاعبين أن يصبحوا <b style='color:#FF33A8; text-shadow: 0 0 8px #FF33A8;'>العنكبوتية</b>، مقلوبين السيناريو للمتعة العبثية.<br>الحوار الظريف والخطر المبالغ فيه يسخر من التطرف العسكري مع تقديم رحلة حنينية عبر المواقع المتضررة.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
+    "Length": 5,
     "CoverUrl": "https://archive.org/download/RPRM001/Starship%20Troopers%20Ultimate%20Bug%20War%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Starship%20Troopers%20Ultimate%20Bug%20War%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Starship%20Troopers%20Ultimate%20Bug%20War%20Theme.mp3",
@@ -128027,8 +128048,8 @@
     "videoStart": 9.5,
     "videoEnd": 0,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Shooter"],
+    "DeveloperNames": ["Auroch Digital"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -128051,19 +128072,20 @@
     "_id": "game_1778254997601_0",
     "Name": "Adorable Adventures",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "<b style='color: #FF6F61; text-shadow: 0 0 8px #FF6F61;'>Boris</b>, a curious <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>baby boar</b>, is torn from his <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>family</b> when a raging <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>forest fire</b> sweeps through the woods.<br>He wanders the rolling <b style='color: #6B8E23; text-shadow: 0 0 8px #6B8E23;'>meadows</b> and sun‑dappled <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>forest paths</b> of the <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>park</b>, following lingering <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>scents</b> that whisper his lost kin.<br>Along the way he meets <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Maxime</b>, a gentle ranger who notes each discovery in a weathered <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>journal</b>.<br>Each fragrance reveals a memory of his scattered <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>brothers</b> and <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>sisters</b>, hidden in echoing <b style='color: #708090; text-shadow: 0 0 8px #708090;'>caves</b>, rugged <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>highlands</b>, and quiet <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>streams</b>.<br>As the aromas intertwine, the young boar slowly rebuilds the bonds of his <b style='color: #FF6F61; text-shadow: 0 0 8px #FF6F61;'>family</b>, uncovering the park’s quiet wonders one scent at a time.<br>",
+    "DescriptionArabic": "<div dir='rtl'><b style='color: #FF6F61; text-shadow: 0 0 8px #FF6F61;'>بوريس</b>، الخنزير الصغير الفضولي، يُفصل عن <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>عائلته</b> عندما يشتعل <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>حريق الغابة</b> الهائل.<br>يتجول عبر <b style='color: #6B8E23; text-shadow: 0 0 8px #6B8E23;'>المروج</b> المتدحرجة و<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>مسارات الغابة</b> المشمسة داخل <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>الحديقة</b>، متبعاً <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>الروائح</b> التي تهمس بوجود أقارائه الضائعين.<br>في رحلته يلتقي بـ<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>ماكسيم</b>، حارس الحديقة الودود، الذي يدون كل اكتشاف في <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>المذكرات</b> القديمة.<br>كل رائحة تكشف عن ذكرى <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الإخوة</b> و<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الأخوات</b> المتناثرة، المخفية في <b style='color: #708090; text-shadow: 0 0 8px #708090;'>الكهوف</b> الصاخبة، <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>المرتفعات</b> الوعرة، و<b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>الجداول</b> الهادئة.<br>مع تلاقي الروائح، يعيد الصغير <b style='color: #FF6F61; text-shadow: 0 0 8px #FF6F61;'>عائلته</b> شيئاً فشيئاً، مكتشفاً عجائب الحديقة الهادئة رائحةً وراء رائحة.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 60,
+    "Length": 5,
     "CoverUrl": "https://archive.org/download/RPRM001/Adorable%20Adventures%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Adorable%20Adventures%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Adorable%20Adventures%20Theme.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Adorable%20Adventures%20Trailer.mp4",
+    "videoStart": 2.7,
+    "videoEnd": 92.5,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Adventure"],
+    "DeveloperNames": ["Wild Sheep Studio"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -128079,25 +128101,26 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": ["Need Music", "Hide"]
   },
   {
     "_id": "game_1778254997602_1",
     "Name": "Adventure of Samsara",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Awakened from eternal silence, the <b style='color:#FF5733; text-shadow: 0 0 8px #FF5733;'>Solar Champion</b> is a resurrected <b style='color:#C70039; text-shadow: 0 0 8px #C70039;'>Plutonian</b> summoned by the <b style='color:#900C3F; text-shadow: 0 0 8px #900C3F;'>Primordial Light</b>.<br>Tasked to reignite the dormant <b style='color:#581845; text-shadow: 0 0 8px #581845;'>Interdimensional Fortress</b>, they must traverse fractured <b style='color:#1C2833; text-shadow: 0 0 8px #1C2833;'>Biomes</b> that echo the forgotten <b style='color:#2E4053; text-shadow: 0 0 8px #2E4053;'>Memory</b> of a shattered cosmos.<br>Each hidden <b style='color:#117A65; text-shadow: 0 0 8px #117A65;'>Ancient Relic</b> reveals a fragment of the <b style='color:#0E6655; text-shadow: 0 0 8px #0E6655;'>Celestial Gate</b>, a portal binding <b style='color:#145A32; text-shadow: 0 0 8px #145A32;'>Death</b> and <b style='color:#196F3D; text-shadow: 0 0 8px #196F3D;'>Rebirth</b>.<br>Whispers of the <b style='color:#7D3C98; text-shadow: 0 0 8px #7D3C98;'>Void</b> and the <b style='color:#512E5F; text-shadow: 0 0 8px #512E5F;'>Shadow Realm</b> haunt the journey, urging the champion toward the ultimate <b style='color:#2C3E50; text-shadow: 0 0 8px #2C3E50;'>Cosmic Nexus</b>.<br>Only by reconciling the tangled threads of <b style='color:#1B4F72; text-shadow: 0 0 8px #1B4F72;'>Echoes</b> can balance the multiverse before its endless darkness consumes all.<br>",
+    "DescriptionArabic": "<div dir='rtl'>استفاقًا من صمت أبدي، يصبح <b style='color:#FF5733; text-shadow: 0 0 8px #FF5733;'>البطل الشمسي</b> بلقَبٍ من <b style='color:#C70039; text-shadow: 0 0 8px #C70039;'>بلوتوني</b> مستدعيًا بواسطة <b style='color:#900C3F; text-shadow: 0 0 8px #900C3F;'>الضوء البدائي</b>.<br>مُكلَّفًا بإشعال <b style='color:#581845; text-shadow: 0 0 8px #581845;'>الحصن البُعدي</b> الخامل، يجب عليه عبور <b style='color:#1C2833; text-shadow: 0 0 8px #1C2833;'>البيئات المتشققة</b> التي تُردد صدى <b style='color:#2E4053; text-shadow: 0 0 8px #2E4053;'>الذاكرة</b> المنسية لكونٍ محطم.<br>كل <b style='color:#117A65; text-shadow: 0 0 8px #117A65;'>أثر قديم</b> يُظهر شريحة من <b style='color:#0E6655; text-shadow: 0 0 8px #0E6655;'>البوابة السماوية</b>، بوابة تربط بين <b style='color:#145A32; text-shadow: 0 0 8px #145A32;'>الموت</b> و<b style='color:#196F3D; text-shadow: 0 0 8px #196F3D;'>البعث</b>.<br>همسات <b style='color:#7D3C98; text-shadow: 0 0 8px #7D3C98;'>الفراغ</b> و<b style='color:#512E5F; text-shadow: 0 0 8px #512E5F;'>عالم الظل</b> تطارد الرحلة، تدفع البطل نحو <b style='color:#2C3E50; text-shadow: 0 0 8px #2C3E50;'>العقدة الكونية</b> النهائية.<br>فقط عبر مصالحة خيوط <b style='color:#1B4F72; text-shadow: 0 0 8px #1B4F72;'>الصدى</b> المتشابكة يمكن موازنة الكون المتعدد قبل أن يبتلع ظلامه اللامتناهي كل شيء.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "Length": 20,
     "CoverUrl": "https://archive.org/download/RPRM001/Adventure%20of%20Samsara%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Adventure%20of%20Samsara%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Adventure%20of%20Samsara%20Theme.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Adventure%20of%20Samsara%20Trailer.mp4",
+    "videoStart": 2.1,
+    "videoEnd": 65.879427,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Metroidvania"],
+    "DeveloperNames": ["Ilex Games"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -128113,25 +128136,26 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": ["Need Music", "Hide"]
   },
   {
     "_id": "game_1778254997602_2",
     "Name": "Tempest Rising",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "In the wake of the <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>Cuban Missile Crisis</b>, a cataclysmic <b style='color: #C70039; text-shadow: 0 0 8px #C70039;'>Third World War</b> turned the globe into a scarred, irradiated wasteland.<br>From this ruin rose two rival powers: the disciplined <b style='color: #900C3F; text-shadow: 0 0 8px #900C3F;'>Global Defense Force</b> and the ferocious <b style='color: #581845; text-shadow: 0 0 8px #581845;'>Tempest Dynasty</b>, each seeking the pulsing <b style='color: #DAF7A6; text-shadow: 0 0 8px #DAF7A6;'>Tempest vines</b> that radiate untamed <b style='color: #FFC300; text-shadow: 0 0 8px #FFC300;'>Tempest energy</b>.<br>GDF tactician <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Colonel Robert Fisher</b> allies with scientist <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Doctor Lyssa Francis</b> to secure the resource.<br>Opposing them, the enigmatic ruler <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Domovoy Molchalin</b> commands the Dynasty, driven by a desperate claim to the vines.<br>The covert <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>Hawthorne Initiative</b> watches as the alien <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>Veti</b> rise at the <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>Iraq excavation</b> and frozen <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>Iceland</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في أعقاب <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>أزمة الصواريخ الكوبية</b>، أدت <b style='color: #C70039; text-shadow: 0 0 8px #C70039;'>الحرب العالمية الثالثة</b> إلى تحوّل الكوكب إلى صحراء مشعَّة ومُتَشقَّقة.<br>من هذه الأنقاض ارتفعت قوتان متنافستان: <b style='color: #900C3F; text-shadow: 0 0 8px #900C3F;'>قوة الدفاع العالمية</b> المنضبطة و<b style='color: #581845; text-shadow: 0 0 8px #581845;'>سلالة العاصفة</b> المتوحشة، كلُّهما يَسعى إلى <b style='color: #DAF7A6; text-shadow: 0 0 8px #DAF7A6;'>نباتات العاصفة</b> النابضة التي تنبعث منها <b style='color: #FFC300; text-shadow: 0 0 8px #FFC300;'>طاقة العاصفة</b> غير المستقرة.<br>يتعاون <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>العقيد روبرت فيشر</b> من قوات الدفاع العالمية مع <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>الدكتورة ليسا فرانسيس</b> لتأمين هذا المورد.<br>مقابلهم، يحكم <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>دوموفوي مولتشالين</b> سلالة العاصفة، مدفوعًا برغبة يائسة للسيطرة على النباتات.<br>تراقب <b style='color: #D2691E; text-shadow: 0 0 8px #D2691E;'>مبادرة هوثورن</b> سرًا بينما ينهض <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>فيتي</b> الغامض عند <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>حفر العراق</b> وعلى جليد <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>آيسلندا</b>.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "Length": 25,
     "CoverUrl": "https://archive.org/download/RPRM001/Tempest%20Rising%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Tempest%20Rising%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Tempest%20Rising%20Theme.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Tempest%20Rising%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Strategy"],
+    "DeveloperNames": ["Slipgate Ironworks"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -128153,19 +128177,20 @@
     "_id": "game_1778254997602_3",
     "Name": "The Awakener Battle Tendency",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "In a fractured realm where shattered timelines bleed into one another, the ancient heroes known as <b style='color:#FF5733; text-shadow: 0 0 8px #FF5733;'>Awakeners</b> are summoned to confront a rising darkness.<br>Guided by the lingering whispers of <b style='color:#33FF57; text-shadow: 0 0 8px #33FF57;'>fate’s echoes</b>, they battle across ever‑shifting <b style='color:#3357FF; text-shadow: 0 0 8px #3357FF;'>illusive battlefields</b> and the volatile <b style='color:#FFAA33; text-shadow: 0 0 8px #FFAA33;'>Chrono Rift</b> that tears reality.<br>The malevolent <b style='color:#FF33A1; text-shadow: 0 0 8px #FF33A1;'>Erosion King</b> corrupts the world from his <b style='color:#33AAFF; text-shadow: 0 0 8px #33AAFF;'>Echoing Sanctum</b>, shattering the <b style='color:#AA33FF; text-shadow: 0 0 8px #AA33FF;'>Shattered Chronology</b> itself.<br>Awakeners—<b style='color:#FFA533; text-shadow: 0 0 8px #FFA533;'>samurai of forgotten dynasties</b>, <b style='color:#33FFF5; text-shadow: 0 0 8px #33FFF5;'>mythic knights</b>, and <b style='color:#F5FF33; text-shadow: 0 0 8px #F5FF33;'>warriors of ancient myths</b>—draw strength from the <b style='color:#33FFAA; text-shadow: 0 0 8px #33FFAA;'>Lost Epoch</b> to defy the <b style='color:#8A33FF; text-shadow: 0 0 8px #8A33FF;'>Veil of Corruption</b> and seal the fate of all realms.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في عالم مكسور حيث تتسرب الخطوط الزمنية الممزقة إلى بعضها البعض، يُستدعى الأبطال القدامى المعروفون بـ <b style='color:#FF5733; text-shadow: 0 0 8px #FF5733;'>المستيقظون</b> لمواجهة ظلامٍ متصاعد.<br>مُرشدين بأصداء <b style='color:#33FF57; text-shadow: 0 0 8px #33FF57;'>صدى القدر</b>، يقاتلون عبر <b style='color:#3357FF; text-shadow: 0 0 8px #3357FF;'>حقول المعركة الوهمية</b> المتقلبة و<b style='color:#FFAA33; text-shadow: 0 0 8px #FFAA33;'>شق الزمن</b> الذي يمزق الواقع.<br>الملك المتآكل <b style='color:#FF33A1; text-shadow: 0 0 8px #FF33A1;'>ملك التآكل</b> يفسد العالم من <b style='color:#33AAFF; text-shadow: 0 0 8px #33AAFF;'>المقبرة الصدائية</b>، محطماً <b style='color:#AA33FF; text-shadow: 0 0 8px #AA33FF;'>الجدول الزمني الممزق</b> نفسه.<br>المستيقظون—<b style='color:#FFA533; text-shadow: 0 0 8px #FFA533;'>ساموراي من سلالات منسية</b>، <b style='color:#33FFF5; text-shadow: 0 0 8px #33FFF5;'>فرسان أسطوريون</b>، و<b style='color:#F5FF33; text-shadow: 0 0 8px #F5FF33;'>محاربون من أساطير قديمة</b>—يستمدون القوة من <b style='color:#33FFAA; text-shadow: 0 0 8px #33FFAA;'>العصر المفقود</b> لتحدي <b style='color:#8A33FF; text-shadow: 0 0 8px #8A33FF;'>حجاب الفساد</b> وإغلاق مصير جميع العوالم.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 40,
+    "Length": 20,
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Awakener%20Battle%20Tendency%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Awakener%20Battle%20Tendency%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/The%20Awakener%20Battle%20Tendency%20Theme.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Awakener%20Battle%20Tendency%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 93.456846,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Hack and Slash"],
+    "DeveloperNames": ["Taner Games"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -128181,25 +128206,26 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": ["Need Music", "Hide"]
   },
   {
     "_id": "game_1778254997602_4",
     "Name": "The Spell Brigade",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "When the <b style='color: #1F8EF1; text-shadow: 0 0 8px #1F8EF1;'>Arcane Council</b> sees the sky split at the <b style='color: #D32F2F; text-shadow: 0 0 8px #D32F2F;'>Obsidian Rift</b>, a flood of night‑marred creatures pours in.<br>The fledgling wizards form the <b style='color: #7B1FA2; text-shadow: 0 0 8px #7B1FA2;'>Eldritch Swarm</b> and the <b style='color: #F57C00; text-shadow: 0 0 8px #F57C00;'>Twilight Vanguard</b> to halt the invasion.<br>Their path leads through the haunted <b style='color: #388E3C; text-shadow: 0 0 8px #388E3C;'>Cursed Grove</b>, across the floating <b style='color: #0097A7; text-shadow: 0 0 8px #0097A7;'>Crystal Nexus</b>, and into the towering <b style='color: #C2185B; text-shadow: 0 0 8px #C2185B;'>Flameheart Tower</b> where ancient <b style='color: #FFEB3B; text-shadow: 0 0 8px #FFEB3B;'>Runic Relics</b> await.<br>Guided by the cryptic <b style='color: #795548; text-shadow: 0 0 8px #795548;'>Veiled Prophet</b>, they must ignite the <b style='color: #607D8B; text-shadow: 0 0 8px #607D8B;'>Starlight Sigil</b> before the relentless <b style='color: #E91E63; text-shadow: 0 0 8px #E91E63;'>Shadowspawn</b> consume all.<br>Each victory uncovers deeper secrets of the <b style='color: #3F51B5; text-shadow: 0 0 8px #3F51B5;'>Moonlit Sanctum</b>, hinting the darkness is a twisted echo of forgotten magic.<br>",
+    "DescriptionArabic": "<div dir='rtl'>عندما يرى <b style='color: #1F8EF1; text-shadow: 0 0 8px #1F8EF1;'>مجلس السحر</b> السماء تنشق عند <b style='color: #D32F2F; text-shadow: 0 0 8px #D32F2F;'>شقّ الأوبسيديان</b>، فيضان من المخلوقات المشوهة بالظلام يندفع داخلًا.<br>يشكّل السحرة الصغار <b style='color: #7B1FA2; text-shadow: 0 0 8px #7B1FA2;'>سرب إلدرِتش</b> و<b style='color: #F57C00; text-shadow: 0 0 8px #F57C00;'>فرسان الشفق</b> لوقف الغزو.<br>تقودهم مسارهم عبر <b style='color: #388E3C; text-shadow: 0 0 8px #388E3C;'>غابة ملعونة</b> المسكونة، وعبر <b style='color: #0097A7; text-shadow: 0 0 8px #0097A7;'>نقطة البلور</b> العائمة، وإلى <b style='color: #C2185B; text-shadow: 0 0 8px #C2185B;'>برج قلب النار</b> الشاهق حيث تنتظر <b style='color: #FFEB3B; text-shadow: 0 0 8px #FFEB3B;'>آثار رونية</b> القديمة.<br>بتوجيه من <b style='color: #795548; text-shadow: 0 0 8px #795548;'>النبي المكمَّن</b> الغامض، يجب عليهم إشعال <b style='color: #607D8B; text-shadow: 0 0 8px #607D8B;'>رمز ضوء النجوم</b> قبل أن تبتلع <b style='color: #E91E63; text-shadow: 0 0 8px #E91E63;'>كائنات الظل</b> الجميع.<br>كل انتصار يكشف أسرارًا أعمق في <b style='color: #3F51B5; text-shadow: 0 0 8px #3F51B5;'>ملاذ القمر</b>، مما يوحي أن الظلام صدى مشوه لسحر منسي.<br></div>",
+    "ReleaseDate": "2024",
+    "CriticScore": 80,
+    "Length": 15,
     "CoverUrl": "https://archive.org/download/RPRM001/The%20Spell%20Brigade%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/The%20Spell%20Brigade%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/The%20Spell%20Brigade%20Theme.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/The%20Spell%20Brigade%20Trailer.mp4",
+    "videoStart": 2.6,
+    "videoEnd": 87.556712,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Roguelite"],
+    "DeveloperNames": ["Bolt Blaster Games"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -128221,19 +128247,20 @@
     "_id": "game_1778254997602_5",
     "Name": "WILL Follow The Light",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "<b style='color: #1E3A5F; text-shadow: 0 0 8px #1E3A5F;'>Will</b> watches over his lonely <b style='color: #4A6FA5; text-shadow: 0 0 8px #4A6FA5;'>lighthouse</b> on a bleak northern shore, where night never lifts.<br>A frantic <b style='color: #C43E00; text-shadow: 0 0 8px #C43E00;'>radio message</b> announces a disaster that has taken his hometown and left his <b style='color: #D9534F; text-shadow: 0 0 8px #D9534F;'>son</b> missing.<br>He departs aboard the weather‑worn <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>Molly</b>, cutting through the icy <b style='color: #6B8E23; text-shadow: 0 0 8px #6B8E23;'>northern seas</b> while haunted by old loss.<br>His path leads to an <b style='color: #708090; text-shadow: 0 0 8px #708090;'>abandoned island</b>, across a rugged <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>mountain range</b> on a humble <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>dog sled</b>, and finally to the ruins of his home where a distant <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>beacon</b> flickers.<br>Fragment of family <b style='color: #800080; text-shadow: 0 0 8px #800080;'>truth</b> forces him to ask whether following the light will reunite his <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>family</b> or his own soul.<br>",
+    "DescriptionArabic": "<div dir='rtl'>\n<b style='color: #1E3A5F; text-shadow: 0 0 8px #1E3A5F;'>ويل</b> يراقب <b style='color: #4A6FA5; text-shadow: 0 0 8px #4A6FA5;'>منارته</b> الوحيدة على شاطئ شمالي قاحل، حيث لا يرتفع الليل أبداً.<br>\n<b style='color: #C43E00; text-shadow: 0 0 8px #C43E00;'>رسالة راديو</b> مريعة تُعلن عن كارثة أخذت مسقط رأسه وتركت <b style='color: #D9534F; text-shadow: 0 0 8px #D9534F;'>ابنه</b> مفقوداً.<br>\nينطلق على متن <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>مولي</b> المتآكلة، يخترق <b style='color: #6B8E23; text-shadow: 0 0 8px #6B8E23;'>البحار الشمالية</b> المتجمدة بينما تطارده ذكريات فقدان قديمة.<br>\nتقوده طريقه إلى <b style='color: #708090; text-shadow: 0 0 8px #708090;'>جزيرة مهجورة</b>، عبر <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>سلسلة جبال</b> وعرة على <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>مزلقة الكلاب</b> المتواضعة، وأخيراً إلى أطلال منزله حيث تومض <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>منارة</b> بعيدة.<br>\n<b style='color: #800080; text-shadow: 0 0 8px #800080;'>حقيقة</b> <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>العائلة</b> تجبره على التساؤل إن كان اتباع النور سيعيد جمع عائلته أم سيقوده إلى روحه الوحيدة.<br>\n</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 60,
+    "Length": 5,
     "CoverUrl": "https://archive.org/download/RPRM001/WILL%20Follow%20The%20Light%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/WILL%20Follow%20The%20Light%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/WILL%20Follow%20The%20Light%20Theme.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/WILL%20Follow%20The%20Light%20Trailer.mp4",
+    "videoStart": 2.719255,
+    "videoEnd": 130.710785,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Adventure"],
+    "DeveloperNames": ["TomorrowHead Studio"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -128244,6 +128271,181 @@
             "fileSize": "22 GB",
             "filename": "01757.zip",
             "executable": "Will.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778259609907_0",
+    "Name": "Ground Zero",
+    "SortingName": "",
+    "Description": "Two months after a devastating <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>meteor impact</b> turned <b style='color: #C70039; text-shadow: 0 0 8px #C70039;'>South Korea</b> into a wasteland of <b style='color: #900C3F; text-shadow: 0 0 8px #900C3F;'>dust storms</b> and <b style='color: #581845; text-shadow: 0 0 8px #581845;'>toxic air</b>, the sky finally clears.<br>Elite <b style='color: #FFC300; text-shadow: 0 0 8px #FFC300;'>Seo‑Yeon</b> and her Canadian partner <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>Evan</b> are dispatched to the ruined coastal city of <b style='color: #DAF7A6; text-shadow: 0 0 8px #DAF7A6;'>Busan</b> to investigate.<br>They find <b style='color: #900C3F; text-shadow: 0 0 8px #900C3F;'>mutated monstrosities</b> sprouting from an ominous <b style='color: #C70039; text-shadow: 0 0 8px #C70039;'>orange mass</b> that devours everything.<br>Hidden clues in <b style='color: #581845; text-shadow: 0 0 8px #581845;'>labs</b> and fragmented <b style='color: #FFC300; text-shadow: 0 0 8px #FFC300;'>lost data</b> hint at a secret experiment that awakened the nightmare.<br>The duo learns the <b style='color: #DAF7A6; text-shadow: 0 0 8px #DAF7A6;'>survivors</b> are doomed unless they stop the source of the contamination.",
+    "DescriptionArabic": "<div dir='rtl'>بعد شهرين من سقوط <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>تأثير النيزك</b> حول <b style='color: #C70039; text-shadow: 0 0 8px #C70039;'>كوريا الجنوبية</b>، تحولت البلاد إلى صحراء من <b style='color: #900C3F; text-shadow: 0 0 8px #900C3F;'>عواصف الغبار</b> و <b style='color: #581845; text-shadow: 0 0 8px #581845;'>الهواء السام</b>، وأخيرًا انقشعت السماء.<br>تم إرسال العميلة الكورية <b style='color: #FFC300; text-shadow: 0 0 8px #FFC300;'>سي‑يون</b> وشريكها الكندي <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>إيفان</b> إلى مدينة <b style='color: #DAF7A6; text-shadow: 0 0 8px #DAF7A6;'>بوسان</b> الساحلية المدمرة للتحقيق.<br>يجدون <b style='color: #900C3F; text-shadow: 0 0 8px #900C3F;'>وحوشًا متحولة شنيعة</b> تنبت من <b style='color: #C70039; text-shadow: 0 0 8px #C70039;'>كتلة برتقالية</b> مخيفة تبتلع كل شيء.<br>تشير الأدلة المخفية في <b style='color: #581845; text-shadow: 0 0 8px #581845;'>المختبرات المهجورة</b> و<b style='color: #FFC300; text-shadow: 0 0 8px #FFC300;'>البيانات المفقودة</b> إلى <b style='color: #C70039; text-shadow: 0 0 8px #C70039;'>تجربة سرية</b> أطلقت <b style='color: #900C3F; text-shadow: 0 0 8px #900C3F;'>الكابوس</b>.<br>يدرك الثنائي أن <b style='color: #DAF7A6; text-shadow: 0 0 8px #DAF7A6;'>الناجين</b> المتبقين محكوم عليهم بالموت ما لم يوقفوا مصدر التلوث.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 60,
+    "Length": 10,
+    "CoverUrl": "https://archive.org/download/RPRM001/Ground%20Zero%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Ground%20Zero%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Ground%20Zero%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Ground%20Zero%20Trailer.mp4",
+    "videoStart": 2.6,
+    "videoEnd": 57.1,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Horror"],
+    "DeveloperNames": ["Malformation Games"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP031",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "27 GB",
+            "filename": "01759.zip",
+            "executable": "GroundZero.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778259609907_1",
+    "Name": "Mixtape",
+    "SortingName": "",
+    "Description": "On the <b style='color: #FF6F61; text-shadow: 0 0 8px #FF6F61;'>last night of high school</b>, three inseparable friends set out for one final adventure.<br>When the <b style='color: #FFB400; text-shadow: 0 0 8px #FFB400;'>final party</b> looms, a perfectly‑curated <b style='color: #6B5B95; text-shadow: 0 0 8px #6B5B95;'>mixtape</b> pulls <b style='color: #88B04B; text-shadow: 0 0 8px #88B04B;'>Rockford</b>, <b style='color: #F7CAC9; text-shadow: 0 0 8px #F7CAC9;'>Slater</b> and <b style='color: #92A8D1; text-shadow: 0 0 8px #92A8D1;'>Cassandra</b> into <b style='color: #955251; text-shadow: 0 0 8px #955251;'>dreamlike reenactments</b>.<br>Their <b style='color: #B565A7; text-shadow: 0 0 8px #B565A7;'>first kiss</b>, <b style='color: #009B77; text-shadow: 0 0 8px #009B77;'>last dance</b> and every <b style='color: #DD4124; text-shadow: 0 0 8px #DD4124;'>curated playlist</b> echo the depth of their <b style='color: #D65076; text-shadow: 0 0 8px #D65076;'>teenage friendship</b>.<br>Across the neon streets of <b style='color: #45B8AC; text-shadow: 0 0 8px #45B8AC;'>Northern California</b>, they relive <b style='color: #EFC050; text-shadow: 0 0 8px #EFC050;'>formative memories</b>, each vignette a note in their growing symphony.<br>At dawn, the <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>soundtrack</b> wraps the night, a bittersweet reminder that every ending sparks a new beginning.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في <b style='color: #FF6F61; text-shadow: 0 0 8px #FF6F61;'>الليلة الأخيرة من المدرسة الثانوية</b>، يشرع ثلاثة أصدقاء لا يمكن فصلهم في مغامرة نهائية واحدة.<br>عندما تقترب <b style='color: #FFB400; text-shadow: 0 0 8px #FFB400;'>الحفلة النهائية</b>، تبدأ <b style='color: #6B5B95; text-shadow: 0 0 8px #6B5B95;'>قائمة مختلطة</b> في التشغيل، لتجذب <b style='color: #88B04B; text-shadow: 0 0 8px #88B04B;'>روكفورد</b>، <b style='color: #F7CAC9; text-shadow: 0 0 8px #F7CAC9;'>سليتر</b> و<b style='color: #92A8D1; text-shadow: 0 0 8px #92A8D1;'>كاساندرا</b> إلى <b style='color: #955251; text-shadow: 0 0 8px #955251;'>إعادة تمثيل حالمة</b>.<br>تتجلى <b style='color: #B565A7; text-shadow: 0 0 8px #B565A7;'>القُبلة الأولى</b> و<b style='color: #009B77; text-shadow: 0 0 8px #009B77;'>الرقصة الأخيرة</b>، وتُردد <b style='color: #DD4124; text-shadow: 0 0 8px #DD4124;'>قائمة تشغيل مختارة</b> صدى عمق <b style='color: #D65076; text-shadow: 0 0 8px #D65076;'>صداقة مراهقة</b>.<br>عبر شوارع <b style='color: #45B8AC; text-shadow: 0 0 8px #45B8AC;'>شمال كاليفورنيا</b> النيونية، يعيدون استرجاع <b style='color: #EFC050; text-shadow: 0 0 8px #EFC050;'>ذكريات تكوينية</b>، كل مشهد نغمة في سيمفونية نموهم.<br>مع الفجر، تُحاط <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>الموسيقى التصويرية</b> بالليل، لتذكرهم أن كل وداع يولد بداية جديدة.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 100,
+    "Length": 5,
+    "CoverUrl": "https://archive.org/download/RPRM001/Mixtape%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Mixtape%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Mixtape%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Mixtape%20Trailer.mp4",
+    "videoStart": 0.6,
+    "videoEnd": 151.4,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Adventure"],
+    "DeveloperNames": ["Beethoven & Dinosaur"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP031",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "11 GB",
+            "filename": "01760.zip",
+            "executable": "Mixtape.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778259609907_2",
+    "Name": "PixelHero Rainbow Legend",
+    "SortingName": "",
+    "Description": "In the shattered <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Rainbow Realm</b>, ancient powers stir as the <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Core</b> trembles under looming war.<br>The daring <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>Mage</b> and the ruthless <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Tyrant</b> each rally their <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Factions</b>, seeking to claim dominion over every tile.<br>Mystic <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>Runes</b>—the <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Twin Rune</b> and the volatile <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Explosive Rune</b>—are forged into battlefields, turning simple assaults into cataclysmic tides.<br>Legendary <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Relics</b> and the eight <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Classes</b> intertwine, each unlocking hidden stories that could either seal the realm or plunge it into eternal chaos.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>عالم القوس القزحي</b> المتفتت، تتقلب قوى قديمة بينما تهتز <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>النواة</b> تحت تهديد الحرب.<br>الساحر <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>الساحر</b> والطاغية <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الطاغية</b> يجمعان <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الفصائل</b> الخاصة بهما، ساعيًا للسيطرة على كل بلاطة.<br>الأحجار السحرية <b style='color: #9400D3; text-shadow: 0 0 8px #9400D3;'>الأحجار السحرية</b>—حجر التوأم <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>حجر التوأم</b> والحجر المتفجر <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>حجر الانفجار</b>—تُصنع في ساحات القتال، محولةً الهجمات البسيطة إلى أمواج كارثية.<br>الآثار <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>الآثار</b> والثماني <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>الفئات</b> تتشابك، كلٌ يفتح قصصًا خفية قد تغلق العالم أو تغمره في فوضى أبدية.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 60,
+    "Length": 5,
+    "CoverUrl": "https://archive.org/download/RPRM001/PixelHero%20Rainbow%20Legend%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/PixelHero%20Rainbow%20Legend%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/PixelHero%20Rainbow%20Legend%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/PixelHero%20Rainbow%20Legend%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Card & Board Games"],
+    "DeveloperNames": ["Unpixel Cloud Cedar Studio"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP031",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "01761.zip",
+            "executable": "RainbowLegends.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Need Music", "Hide"]
+  },
+  {
+    "_id": "game_1778260134778_0",
+    "Name": "Aether and Iron",
+    "SortingName": "",
+    "Description": "In a sky‑borne <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>New York</b>, anti‑gravity <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>Aether</b> lifts whole districts, splitting grimy <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Lowers</b> from gleaming <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Uppers</b> and the unreachable <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>Heights</b>.<br>The story follows <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Gia</b>, a hardened <b style='color: #00FA9A; text-shadow: 0 0 8px #00FA9A;'>smuggler</b> pulled into a tangled <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>conspiracy</b> involving the city's ruling <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Barons</b> and the dwindling <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Aether</b> supply.<br>She uncovers secret <b style='color: #6A5ACD; text-shadow: 0 0 8px #6A5ACD;'>Factions</b> vying for control, each promising a different future for the floating metropolis.<br>As tensions flare, <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>rebellion</b> brews, forcing Gia to choose between personal survival and a chance to ignite a city‑wide <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>Uprising</b>.<br>Every decision drags her deeper into a web of <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>dark secrets</b> that could shatter the fragile balance above the clouds.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في نسخة عائمة من <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>نيويورك</b>، يرفع <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>الأثير</b> كامل الأحياء، مما يفرق بين القذر <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>المنخفضات</b> واللامع <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>العلوية</b> والبعيد <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>المرتفعات</b>.<br>القصة تتبع <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>جيا</b>، <b style='color: #00FA9A; text-shadow: 0 0 8px #00FA9A;'>مهرب</b> صلب يُجبر على الدخول في <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>مؤامرة</b> معقدة تشمل <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>البارونات</b> المدينة و<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>الأثير</b> المتناقص.<br>تكتشف <b style='color: #6A5ACD; text-shadow: 0 0 8px #6A5ACD;'>الفصائل</b> السرية التي تتصارع على السيطرة، كل منها يعد بمستقبل مختلف للمدينة العائمة.<br>مع تصاعد التوترات، تنمو <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>ثورة</b> وتدفع جيا لاختيار بين البقاء الشخصي وفرصة لإشعال <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>انتفاضة</b> شاملة للمدينة.<br>كل قرار يغمرها أعمق في شبكة من <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الأسرار المظلمة</b> قد تدمر التوازن الهش فوق السحاب.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
+    "Length": 25,
+    "CoverUrl": "https://archive.org/download/RPRM001/Aether%20and%20Iron%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Aether%20and%20Iron%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Aether%20and%20Iron%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Aether%20and%20Iron%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["RPG"],
+    "DeveloperNames": ["Seismic Squirrel"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP031",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "11 GB",
+            "filename": "01762.zip",
+            "executable": "AetherAndIron.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778260134778_1",
+    "Name": "Alabaster Dawn",
+    "SortingName": "",
+    "Description": "In the shattered world of <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>Tiran Sol</b>, the ancient gods have vanished, leaving the land cursed by <b style='color: #33FF57; text-shadow: 0 0 8px #33FF57;'>Nyx</b>.<br>Awakening as the <b style='color: #3357FF; text-shadow: 0 0 8px #3357FF;'>Outcast Chosen</b>, <b style='color: #FF33A1; text-shadow: 0 0 8px #FF33A1;'>Juno</b> must rally the scattered <b style='color: #A133FF; text-shadow: 0 0 8px #A133FF;'>humanity</b> to break the lingering curse.<br>To restore hope, she must rebuild <b style='color: #33FFF5; text-shadow: 0 0 8px #33FFF5;'>settlements</b>, forge new <b style='color: #F5FF33; text-shadow: 0 0 8px #F5FF33;'>trade routes</b>, and advance <b style='color: #FF8C33; text-shadow: 0 0 8px #FF8C33;'>science</b> among the survivors.<br>Powerful <b style='color: #33FF8C; text-shadow: 0 0 8px #33FF8C;'>divine weapons</b> and ancient <b style='color: #8C33FF; text-shadow: 0 0 8px #8C33FF;'>relics</b> grant her control over elemental forces and <b style='color: #FF3380; text-shadow: 0 0 8px #FF3380;'>divine arts</b> needed to confront the darkness.<br>As the battle unfolds, the fate of <b style='color: #80FF33; text-shadow: 0 0 8px #80FF33;'>gods</b> and the future of the world hang in the balance, urging her to unravel the mystery of the curse and guide a new dawn.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في عالم <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>تياران سول</b> المتفتت، اختفت الآلهة القديمة، تاركةً الأرض ملعونةً بـ <b style='color: #33FF57; text-shadow: 0 0 8px #33FF57;'>نِكس</b>.<br>تستيقظ كـ <b style='color: #3357FF; text-shadow: 0 0 8px #3357FF;'>المختارة المنفية</b>، <b style='color: #FF33A1; text-shadow: 0 0 8px #FF33A1;'>جونو</b> يجب أن تجمع البشرية المتناثرة لتكسر اللعنة المستمرة.<br>لإعادة الأمل، عليها أن تعيد بناء <b style='color: #33FFF5; text-shadow: 0 0 8px #33FFF5;'>المستوطنات</b>، وتؤسس <b style='color: #F5FF33; text-shadow: 0 0 8px #F5FF33;'>طرق التجارة</b> الجديدة، وتدفع <b style='color: #FF8C33; text-shadow: 0 0 8px #FF8C33;'>العلم</b> بين الناجين.<br>تمنحها <b style='color: #33FF8C; text-shadow: 0 0 8px #33FF8C;'>الأسلحة الإلهية</b> و<b style='color: #8C33FF; text-shadow: 0 0 8px #8C33FF;'>الآثار</b> القديمة سيطرةً على قوى العناصر و<b style='color: #FF3380; text-shadow: 0 0 8px #FF3380;'>الفنون الإلهية</b> اللازمة لمواجهة الظلام.<br>مع تصاعد المعركة، مصير <b style='color: #80FF33; text-shadow: 0 0 8px #80FF33;'>الآلهة</b> ومستقبل العالم معلّقان على الحافة، ما يدفعها لكشف سر اللعنة وإرشاد فجر جديد.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
+    "Length": 40,
+    "CoverUrl": "https://archive.org/download/RPRM001/Alabaster%20Dawn%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Alabaster%20Dawn%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Alabaster%20Dawn%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Alabaster%20Dawn%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["RPG"],
+    "DeveloperNames": ["Radical Fish Games"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP031",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "670 MB",
+            "filename": "01763.zip",
+            "executable": "alabaster_dawn.exe",
             "arguments": []
           }
         ]
