@@ -7680,14 +7680,15 @@
   {
     "_id": "book_1777580857934_ynl2zw6vs",
     "Title": "Veil",
+    "Series": "",
     "SortingTitle": "",
-    "Author": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": "",
-    "CriticScore": null,
+    "Author": "Kotteri",
+    "Description": "In a sun‑drenched cobblestone <b style='color:#D5A6BD; text-shadow: 0 0 8px #D5A6BD;'>city</b>, a diligent <b style='color:#FF6F61; text-shadow: 0 0 8px #FF6F61;'>officer</b> meets a graceful <b style='color:#6B5B95; text-shadow: 0 0 8px #6B5B95;'>heiress</b> who has lost her sight.<br>He offers her a job as the police station’s <b style='color:#88B04B; text-shadow: 0 0 8px #88B04B;'>operator</b>, and their shy exchanges blossom into tender <b style='color:#F7CAC9; text-shadow: 0 0 8px #F7CAC9;'>dialogue</b> over steaming <b style='color:#C09F80; text-shadow: 0 0 8px #C09F80;'>coffee</b>.<br>Each <b style='color:#C1C1C1; text-shadow: 0 0 8px #C1C1C1;'>vignettes</b> is rendered in lush <b style='color:#92A8D1; text-shadow: 0 0 8px #92A8D1;'>color</b>, capturing the delicate <b style='color:#955251; text-shadow: 0 0 8px #955251;'>distance</b> and growing <b style='color:#009B77; text-shadow: 0 0 8px #009B77;'>affection</b> that often linger in quiet <b style='color:#808080; text-shadow: 0 0 8px #808080;'>silence</b>.<br>The manga weaves moments of shared glances, whispered promises, and a gentle <b style='color:#DD4124; text-shadow: 0 0 8px #DD4124;'>romance</b> that feels like a classic film.<br>Kotteri’s soft <b style='color:#45B8AC; text-shadow: 0 0 8px #45B8AC;'>illustrations</b> and subtle humor invite readers to linger in the everyday beauty of their <b style='color:#EFC050; text-shadow: 0 0 8px #EFC050;'>world</b>.",
+    "DescriptionArabic": "<div dir='rtl'>في <b style='color:#D5A6BD; text-shadow: 0 0 8px #D5A6BD;'>المدينة</b> مرصوفةٍ بالحصى تحت شمسٍ دافئة، يلتقي <b style='color:#FF6F61; text-shadow: 0 0 8px #FF6F61;'>الضابط</b> المجتهد بـ <b style='color:#6B5B95; text-shadow: 0 0 8px #6B5B95;'>الوريثة</b> الرشيقة التي فقدت بصرها.<br>يعرض عليها وظيفة كـ <b style='color:#88B04B; text-shadow: 0 0 8px #88B04B;'>المشغل</b> في مركز الشرطة، وتتحول تبادلاتهما الخجولة إلى <b style='color:#F7CAC9; text-shadow: 0 0 8px #F7CAC9;'>حوار</b> رقيق على فنجانٍ من <b style='color:#C09F80; text-shadow: 0 0 8px #C09F80;'>القهوة</b> المتصاعدة.<br>كل <b style='color:#C1C1C1; text-shadow: 0 0 8px #C1C1C1;'>مشهد قصير</b> يُرسم بألوانٍ غنيةٍ <b style='color:#92A8D1; text-shadow: 0 0 8px #92A8D1;'>اللون</b>، ليُظهر <b style='color:#955251; text-shadow: 0 0 8px #955251;'>المسافة</b> الدقيقة و<b style='color:#009B77; text-shadow: 0 0 8px #009B77;'>العاطفة</b> المتزايدة التي تتسلل في <b style='color:#808080; text-shadow: 0 0 8px #808080;'>الصمت</b> الهادئ.<br>تنسج القصة لحظات من النظرات المتشاركة والوعود الهمسة، مع <b style='color:#DD4124; text-shadow: 0 0 8px #DD4124;'>رومانسية</b> ناعمة تشبه أفلامًا كلاسيكية.<br>رسومات كوتيري الناعمة <b style='color:#45B8AC; text-shadow: 0 0 8px #45B8AC;'>الرسوم</b> وفكاهتها الخفيفة تدعو القارئ للانغماس في جمال <b style='color:#EFC050; text-shadow: 0 0 8px #EFC050;'>العالم</b> اليومي.</div>",
+    "ReleaseDate": "2019",
+    "CriticScore": 100,
     "CoverUrl": "https://archive.org/download/RPRM001/Veil%20Cover.jpg",
-    "Genre": [],
+    "Genre": ["Romance"],
     "Tags": ["Manga"],
     "Status": {
       "state": "ongoing",
@@ -10009,6 +10010,30 @@
       "identifier": "RBRB002",
       "filename": "00470.zip",
       "fileSize": "519 MB",
+      "hasAudiobook": false
+    }
+  },
+  {
+    "_id": "book_1778314612202_q3ehylj9j",
+    "Title": "Pokemon Adventures",
+    "SortingTitle": "",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "Status": {
+      "state": "unknown",
+      "currentVolume": 63,
+      "currentChapter": null
+    },
+    "CoverUrl": "https://archive.org/download/RPRM001/Pokemon%20Adventures%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga"],
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00471.zip",
+      "fileSize": "13 GB",
       "hasAudiobook": false
     }
   }
