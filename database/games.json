@@ -128463,5 +128463,75 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1778300115555_0",
+    "Name": "Sacred 2 Remaster",
+    "SortingName": "Sacred 02",
+    "Description": "In the shattered realm of <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Ancaria</b>, a volatile force known as <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>T‑Energy</b> has twisted the land into chaos.<br>Seven distinct <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>heroes</b> rise, each bearing a destiny to either purify the world with <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Light</b> or seize its power through <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Shadow</b>.<br>Their paths intersect amid rising <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>war</b>, relentless <b style='color: #708090; text-shadow: 0 0 8px #708090;'>betrayal</b>, and the looming threat of the <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Great Machine</b>.<br>Ancient factions such as the <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Seraphim</b>, fierce <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Orcs</b>, and noble <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Elves</b> vie for survival, their own secrets buried in forgotten <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>ruins</b>.<br>As the heroes confront <b style='color: #800000; text-shadow: 0 0 8px #800000;'>corruption</b> and shape their own <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>destiny</b>, the fate of Ancaria hangs in the balance.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في مملكة <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>أنكاريا</b> الممزقة، قوة متقلبة تُدعى <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>تي‑إنرجي</b> تُشوّه الأرض إلى فوضى.<br>يظهر <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>الأبطال</b> السبعة، كلٌّ يحمل مصيرًا إما لتطهير العالم بـ <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>النور</b> أو لاحتلال قوته عبر <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الظل</b>.<br>تتقاطع مساراتهم وسط <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الحرب</b> المتصاعدة، <b style='color: #708090; text-shadow: 0 0 8px #708090;'>الخيانة</b> المتواصلة، والتهديد القائم من <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الآلة العظيمة</b>.<br>الفصائل القديمة مثل <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>السرافيم</b>، <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>الأورك</b> و<b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>الإلف</b> تتصارع من أجل البقاء، أسرارهم مخبأة في <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>الأطلال</b> المنسية.<br>بينما يواجه <b style='color: #800000; text-shadow: 0 0 8px #800000;'>الفساد</b> الأبطال ويشكلون <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>مصيرهم</b>، يظل مصير أنكاريا على حافة الميزان.<br></div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 60,
+    "Length": 20,
+    "CoverUrl": "https://archive.org/download/RPRM001/Sacred%202%20Remaster%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Sacred%202%20Remaster%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Sacred%202%20Remaster%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Sacred%202%20Remaster%20Trailer.mp4",
+    "videoStart": 0.6,
+    "videoEnd": 90.34867,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["RPG"],
+    "DeveloperNames": ["THQ Nordic"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP031",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "18 GB",
+            "filename": "01764.zip",
+            "executable": "sacred2.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1778300115555_1",
+    "Name": "Sacred Gold",
+    "SortingName": "Sacred 01",
+    "Description": "When the ancient demon Sakkara awakens, the realm of <b style='color:#A020F0; text-shadow: 0 0 8px #A020F0;'>Ancaria</b> is plunged into chaos.<br>Heroes such as the fierce <b style='color:#FF4500; text-shadow: 0 0 8px #FF4500;'>Gladiator</b>, the radiant <b style='color:#1E90FF; text-shadow: 0 0 8px #1E90FF;'>Seraphim</b>, the cursed <b style='color:#8B0000; text-shadow: 0 0 8px #8B0000;'>Vampiress</b>, and the arcane <b style='color:#32CD32; text-shadow: 0 0 8px #32CD32;'>Battlemage</b> answer the call.<br>Guided by the noble <b style='color:#FFD700; text-shadow: 0 0 8px #FFD700;'>Prince Valor</b>, they must retrieve the five elemental fragments of <b style='color:#FF69B4; text-shadow: 0 0 8px #FF69B4;'>Caesarian</b> to seal the demon.<br>Their journey leads them through the shadowed <b style='color:#708090; text-shadow: 0 0 8px #708090;'>Underworld</b>, across the war‑torn fields of the <b style='color:#B22222; text-shadow: 0 0 8px #B22222;'>Orc</b> invasion, and into the cursed <b style='color:#4B0082; text-shadow: 0 0 8px #4B0082;'>Baron's Castle</b> where betrayal awaits.<br>Only by uniting the diverse powers of the <b style='color:#00CED1; text-shadow: 0 0 8px #00CED1;'>Wood Elf</b>, <b style='color:#DAA520; text-shadow: 0 0 8px #DAA520;'>Dark Elf</b>, <b style='color:#8FBC8F; text-shadow: 0 0 8px #8FBC8F;'>Dwarf</b>, and <b style='color:#FF8C00; text-shadow: 0 0 8px #FF8C00;'>Daemon</b> can the heroes hope to shatter the darkness and restore peace.<br>",
+    "DescriptionArabic": "<div dir='rtl'>عندما يستيقظ الشيطان القديم سكارا، يغرق مملكة <b style='color:#A020F0; text-shadow: 0 0 8px #A020F0;'>أنكاريا</b> في الفوضى.<br>يستجيب الأبطال مثل <b style='color:#FF4500; text-shadow: 0 0 8px #FF4500;'>المصارع</b> الشجاع، <b style='color:#1E90FF; text-shadow: 0 0 8px #1E90FF;'>السرافيم</b> المتألق، <b style='color:#8B0000; text-shadow: 0 0 8px #8B0000;'>مصاصة الدماء</b> الملعونة، و<b style='color:#32CD32; text-shadow: 0 0 8px #32CD32;'>محاربة السحر</b> السحري للنداء.<br>بتوجيه من <b style='color:#FFD700; text-shadow: 0 0 8px #FFD700;'>الأمير فالور</b> النبيل، يجب عليهم استعادة الخمس شظايا عنصرية <b style='color:#FF69B4; text-shadow: 0 0 8px #FF69B4;'>كايزارين</b> لإغلاق الشيطان.<br>تقودهم رحلتهم عبر <b style='color:#708090; text-shadow: 0 0 8px #708090;'>العالم السفلي</b> المظلم، عبر حقول الغزو <b style='color:#B22222; text-shadow: 0 0 8px #B22222;'>الأورك</b> المدمرة، وإلى <b style='color:#4B0082; text-shadow: 0 0 8px #4B0082;'>قلعة البارون</b> الملعونة حيث الخيانة تنتظر.<br>فقط بتوحيد قوى <b style='color:#00CED1; text-shadow: 0 0 8px #00CED1;'>إلف الغابة</b>، <b style='color:#DAA520; text-shadow: 0 0 8px #DAA520;'>إلف الظلام</b>، <b style='color:#8FBC8F; text-shadow: 0 0 8px #8FBC8F;'>قزم</b>، و<b style='color:#FF8C00; text-shadow: 0 0 8px #FF8C00;'>شيطان</b> يمكن للأبطال أن يطمحوا إلى كسر الظلام وإعادة السلام.<br></div>",
+    "ReleaseDate": "2005",
+    "CriticScore": 80,
+    "Length": 50,
+    "CoverUrl": "https://archive.org/download/RPRM001/Sacred%20Gold%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Sacred%20Gold%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Sacred%20Gold%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Sacred%20Gold%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["RPG"],
+    "DeveloperNames": ["Ascaron Entertainment"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP031",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executableFiles": ["Sacred.exe", "Config.exe"],
+            "executableLabels": ["Game", "Configure"],
+            "arguments": [],
+            "filename": "01765.zip"
+          }
+        ]
+      }
+    },
+    "Tags": []
   }
 ]
