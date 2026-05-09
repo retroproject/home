@@ -10022,14 +10022,14 @@
     "DescriptionArabic": "",
     "ReleaseDate": "",
     "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Pokemon%20Adventures%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga"],
     "Status": {
       "state": "unknown",
       "currentVolume": 63,
       "currentChapter": null
     },
-    "CoverUrl": "https://archive.org/download/RPRM001/Pokemon%20Adventures%20Cover.jpg",
-    "Genre": [],
-    "Tags": ["Manga"],
     "packageUrl": {
       "identifier": "RBRB002",
       "filename": "00471.zip",
@@ -10046,14 +10046,14 @@
     "DescriptionArabic": "",
     "ReleaseDate": "",
     "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Black%20Clover%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga"],
     "Status": {
       "state": "completed",
       "currentVolume": 36,
       "currentChapter": null
     },
-    "CoverUrl": "https://archive.org/download/RPRM001/Black%20Clover%20Cover.jpg",
-    "Genre": [],
-    "Tags": ["Manga"],
     "packageUrl": {
       "identifier": "RBRB002",
       "filename": "00472.zip",
@@ -10070,14 +10070,14 @@
     "DescriptionArabic": "",
     "ReleaseDate": "",
     "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Nausicaa%20of%20the%20Valley%20of%20the%20Wind%20Cover.jpg",
+    "Genre": [],
+    "Tags": ["Manga"],
     "Status": {
       "state": "completed",
       "currentVolume": 2,
       "currentChapter": null
     },
-    "CoverUrl": "https://archive.org/download/RPRM001/Nausicaa%20of%20the%20Valley%20of%20the%20Wind%20Cover.jpg",
-    "Genre": [],
-    "Tags": ["Manga"],
     "packageUrl": {
       "identifier": "RBRB002",
       "filename": "00473.zip",
@@ -10088,20 +10088,21 @@
   {
     "_id": "book_1778328032781_f5wbsggxk",
     "Title": "Vinland Saga",
+    "Series": "",
     "SortingTitle": "",
-    "Author": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": "",
-    "CriticScore": null,
+    "Author": "Makoto Yukimura",
+    "Description": "In 11th‑century <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>Vikings</b> clash across England and Denmark, driven by ambition and the looming threat of King Sweyn.<br>Young <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Thorfinn</b> swears <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>revenge</b> against the cunning mercenary <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>Askeladd</b>, who killed his father, and hones his skill in every brutal <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>battle</b>.<br>As the war escalates, Prince <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Canute</b> transforms from a timid heir into a ruthless ruler, forcing <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Thorfinn</b> into a life of <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>slave</b> labor that reshapes his sense of <b style='color: #6A5ACD; text-shadow: 0 0 8px #6A5ACD;'>honor</b> and <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>blood</b>.<br>Seeking a land of <b style='color: #7FFFD4; text-shadow: 0 0 8px #7FFFD4;'>peace</b>, he joins explorer <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Leif</b> on a perilous <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>journey</b> toward the legendary <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Vinland</b>, where <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>hope</b> battles the scars of the past.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في القرن الحادي عشر يتصادم <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>الفايكنغ</b> عبر إنجلترا والدنمارك، مدفوعين بالطموح والتهديد المتربص من الملك سويين.<br>الشاب <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>ثورفين</b> يقسم بالـ<b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>انتقام</b> من القائد المرتزق الماكر <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>أسكيلاد</b> الذي قتل والده، ويصقل مهارته في كل <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>معركة</b> عنيفة.<br>مع تصاعد الحرب، يتحول الأمير <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>كانوت</b> من وريث خجول إلى حاكم لا يرحم، مما يجبر <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>ثورفين</b> على حياة <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>عبيد</b> تعيد تشكيل إحساسه بـ<b style='color: #6A5ACD; text-shadow: 0 0 8px #6A5ACD;'>الشرف</b> و<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الدم</b>.<br>باحثًا عن أرض <b style='color: #7FFFD4; text-shadow: 0 0 8px #7FFFD4;'>سلام</b>، ينضم إلى المستكشف <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>ليف</b> في <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>رحلة</b> محفوفة بالمخاطر نحو الأسطورية <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>فينلند</b>، حيث <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>الأمل</b> يواجه آثار الماضي.<br></div>",
+    "ReleaseDate": "2005",
+    "CriticScore": 80,
+    "CoverUrl": "https://archive.org/download/RPRM001/Vinland%20Saga%20Cover.jpg",
+    "Genre": ["Historical"],
+    "Tags": ["Manga"],
     "Status": {
       "state": "completed",
       "currentVolume": 13,
       "currentChapter": null
     },
-    "CoverUrl": "https://archive.org/download/RPRM001/Vinland%20Saga%20Cover.jpg",
-    "Genre": [],
-    "Tags": ["Manga"],
     "packageUrl": {
       "identifier": "RBRB002",
       "filename": "00474.zip",
