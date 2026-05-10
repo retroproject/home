@@ -64705,20 +64705,29 @@
     "YouTubeUrl": "",
     "videoStart": null,
     "videoEnd": null,
-    "PlatformNames": ["Nintendo Wii U"],
+    "PlatformNames": ["Nintendo Wii U", "PC Game"],
     "GenreNames": ["Adventure"],
     "DeveloperNames": ["Nintendo EAD Software Development Group No.3"],
     "downloadInfo": {
-      "Nintendo Wii U": {
+      "Cross-Platform": {
         "versions": [
           {
             "identifier": "retro-cafe",
-            "filename": "The Legend of Zelda Twilight Princess HD.zip",
-            "name": "Vanilla",
+            "name": "Wii U",
             "platform": "Nintendo Wii U",
             "emulator": "Cemu",
             "fileSize": "5GB",
-            "romFile": "code\\Zelda.rpx"
+            "romFile": "code\\Zelda.rpx",
+            "filename": "The Legend of Zelda Twilight Princess HD.zip"
+          },
+          {
+            "identifier": "RPRP032",
+            "filename": "01766.zip",
+            "platform": "PC Game",
+            "name": "Dusk",
+            "fileSize": "10GB",
+            "buildID": "1.0.0",
+            "executableFiles": ["dusk.exe"]
           }
         ]
       }
