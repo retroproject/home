@@ -5927,13 +5927,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "CPC45",
+            "identifier": "RPRP032",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "44GB",
+            "fileSize": "52GB",
             "arguments": [],
             "executable": "MindsEye.exe",
-            "filename": "MindsEye.zip"
+            "buildID": "6 May 2026",
+            "filename": "01767.zip"
           }
         ]
       }
@@ -117205,7 +117206,7 @@
             "fileSize": "14 GB",
             "executable": "HeroGame\\Binaries\\Win64\\AJGAME.exe",
             "arguments": [],
-            "buildID": "5 February 2026",
+            "buildID": "6 May 2026",
             "filename": "00408.zip"
           }
         ]
@@ -128542,5 +128543,212 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1778412028650_0",
+    "Name": "FROGGY HATES SNOW",
+    "SortingName": "",
+    "Description": "In the cozy <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Swamp</b>, <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>Froggy</b> lives a carefree life, basking in warm mud and sunshine.<br>One bitter morning, a <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>Snowstorm</b> blankets his home, turning the pond into a frozen mirror and stealing his heat.<br>Determined to restore warmth, Froggy sets off on a chilly quest, guided by the mischievous <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Snowflake Witch</b> and the grumbling <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>Ice King</b>.<br>Along the way he traverses the glittering <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>Crystal Cavern</b>, the howling winds of <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>Gusty Gale</b>, the eerie silence of <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Frostbite Forest</b>, and the frosted streets of <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>Chillwind Village</b>, collecting the radiant <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Sunstone</b>, the legendary <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Warmth Amulet</b>, and a shard of the ominous <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>Frozen Crown</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>في <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>المستنقع</b> الدافئ، يعيش <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>فروجي</b> حياة هانئة مستمتعاً بالوحل المشمس.<br>في صباحٍ قارس، يغمر عاصفة <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>ثلج</b> منزله، محوّلةً البركة إلى مرآة جليدية وسارقةً دفئه.<br>عازماً على استعادة الحرارة، ينطلق فروجي في رحلة باردة يُرشدها <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>ساحرة ندفة الثلج</b> المتقلبة و<b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>ملك الجليد</b> المتذمر.<br>يعبر خلال <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>كهف البلور</b>، و<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>غابة الصقيع</b>، و<b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>قرية نسيم البرد</b>، ليجمع <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>حجر الشمس</b>، و<b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>تميمة الدفء</b>، وشظية من <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>التاج المتجمد</b>.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
+    "Length": 5,
+    "CoverUrl": "https://archive.org/download/RPRM001/FROGGY%20HATES%20SNOW%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/FROGGY%20HATES%20SNOW%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/FROGGY%20HATES%20SNOW%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/FROGGY%20HATES%20SNOW%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Roguelite"],
+    "DeveloperNames": ["Crying Brick"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "928 MB",
+            "filename": "01768.zip",
+            "executable": "FROGGY HATES SNOW.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1778412028650_1",
+    "Name": "HELLBREAK",
+    "SortingName": "",
+    "Description": "When the <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Astra</b> awakens in the ruined <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Eclipsed City</b>, where the ancient <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Maw</b> warns that the coveted <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Obsidian Crown</b> now rests in the hands of the cruel <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>Sable Warden</b>.<br>The outlawed <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Crimson Legion</b> offers a shaky pact, promising to fire the <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Void Engine</b> and tear open the <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Rift</b> for a strike on the tyrant’s citadel.<br>Guided by the cryptic <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Ashen Prophecy</b>, mercenary <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Vesper</b> leads <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Astra</b> through the furnace of <b style='color: #800080; text-shadow: 0 0 8px #800080;'>Shadeforge</b>, forging deadly resolve.<br>At the citadel’s apex, the <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>Fallen Council</b> demands the Crown, but <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Astra</b> and <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Vesper</b> ignite the <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Rift</b>, threatening to swallow the tyrant’s reign in endless darkness.<br>",
+    "DescriptionArabic": "<div dir='rtl'>عندما تستيقظ <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>أسترا</b> في أنقاض <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>مدينة الكسوف</b>، حيث تحذر <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الهوة</b> القديمة من أن <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>التاج البركاني</b> الآن في قبضة <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>حارس الساتر</b> القاسي.<br>يعرض <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>فيلق القرمزي</b> الممنوع تحالفًا هشًا، مع وعد بتشغيل <b style='color: #708090; text-shadow: 0 0 8px #708090;'>محرك الفراغ</b> وتمزيق <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>الشق</b> لشن هجوم على قلعة الطاغية.<br>بإرشاد من <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>نبوءة الرماد</b> الغامضة، يقود المرتزق <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>فيسبر</b> <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>أسترا</b> عبر فرن <b style='color: #800080; text-shadow: 0 0 8px #800080;'>محمرة الظلال</b>، صاغًا عزيمة قاتلة.<br>في قمة القلعة، يطلب <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>مجلس السقوط</b> التاج، لكن <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>أسترا</b> و<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>فيسبر</b> يشعلان <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>الشق</b>، مهددين بابتلاع حكم الطاغية في ظلام لا نهائي.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": null,
+    "Length": 10,
+    "CoverUrl": "https://archive.org/download/RPRM001/HELLBREAK%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/HELLBREAK%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/HELLBREAK%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/HELLBREAK%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 59.204992,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Shooter"],
+    "DeveloperNames": ["Double Barrel Games"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "9 GB",
+            "filename": "01769.zip",
+            "executable": "HELLBREAK.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1778412028650_2",
+    "Name": "Whisper of the House",
+    "SortingName": "",
+    "Description": "When <b style='color: #FF6F61; text-shadow: 0 0 8px #FF6F61;'>Ariya</b> inherits the crumbling <b style='color: #6A5ACD; text-shadow: 0 0 8px #6A5ACD;'>Whispering House</b>, she hears faint murmurs drifting through its empty corridors.<br>Guided by a <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Mysterious Diary</b> she discovers that the <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Echoing Hall</b> once hosted a troupe of <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Lost Children</b> whose laughter was silenced by a <b style='color: #7FFFD4; text-shadow: 0 0 8px #7FFFD4;'>Silent Guardian</b>.<br>Each night the <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>Broken Mirror</b> reflects a <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Forgotten Curse</b> that binds the spirit of the house to the <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>Moonlit Attic</b>, where <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>Whispering Shadows</b> swirl around an <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Ancient Bell</b>.<br>To break the cycle, Ariya must piece together the <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>Veiled Truth</b> hidden within the house’s walls and confront the <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>Unseen Presence</b>, lest the <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Eternal Echo</b> forever seal her fate.<br>",
+    "DescriptionArabic": "<div dir='rtl'>عندما ترث <b style='color: #FF6F61; text-shadow: 0 0 8px #FF6F61;'>آريا</b> الـ <b style='color: #6A5ACD; text-shadow: 0 0 8px #6A5ACD;'>منزل الهمس</b> المتداعية، تسمع همسات خافتة تتسلل عبر ممراته الفارغة.<br>بدعم من <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>المذكرة الغامضة</b> تكتشف أن <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>القُاعة الصادحة</b> كانت تستضيف في الماضي فرقة من <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الأطفال الضائعون</b> الذي صمت ضحكتهم بسبب <b style='color: #7FFFD4; text-shadow: 0 0 8px #7FFFD4;'>الحارس الصامت</b>.<br>كل ليلة تعكس <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>المرآة المكسورة</b> <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>اللعنة المنسية</b> التي تربط روح المنزل بـ <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>العُلية تحت ضوء القمر</b>، حيث تدور <b style='color: #FFB6C1; text-shadow: 0 0 8px #FFB6C1;'>الظلال الهمسية</b> حول <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الجرس القديم</b>.<br>لكسر الحلقة، يجب على آريا تجميع <b style='color: #20B2AA; text-shadow: 0 0 8px #20B2AA;'>الحقيقة المغطاة</b> المخفية داخل جدران المنزل ومواجهة <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>الوجود غير المرئي</b>، وإلا سيحكم <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الصدى الأبدي</b> مصيرها إلى الأبد.<br></div>",
+    "ReleaseDate": "2024",
+    "CriticScore": 100,
+    "Length": 5,
+    "CoverUrl": "https://archive.org/download/RPRM001/Whisper%20of%20the%20House%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Whisper%20of%20the%20House%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Whisper%20of%20the%20House%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Whisper%20of%20the%20House%20Trailer.mp4",
+    "videoStart": 2.237855,
+    "videoEnd": 39.3,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Cozy"],
+    "DeveloperNames": ["GD Studio"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "filename": "01770.zip",
+            "executable": "Whisper of the House.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1778466873534_0",
+    "Name": "Amber Isle",
+    "SortingName": "",
+    "Description": "When the last flicker of hope fades on <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>Amber Isle</b>, the weary <b style='color: #33FF57; text-shadow: 0 0 8px #33FF57;'>Paleofolk</b> look to a newcomer for salvation.<br>Guided by the grumpy <b style='color: #3357FF; text-shadow: 0 0 8px #3357FF;'>Mayor Clawsworth</b>, the eager courier <b style='color: #FF33A1; text-shadow: 0 0 8px #FF33A1;'>Maple</b> and the enthusiastic intern <b style='color: #A133FF; text-shadow: 0 0 8px #A133FF;'>Adi</b>, the island's secrets begin to stir.<br>Among the towering <b style='color: #33FFF5; text-shadow: 0 0 8px #33FFF5;'>Brachiosaur</b> and nimble <b style='color: #FFC733; text-shadow: 0 0 8px #FFC733;'>Microraptor</b>, whispers of ancient <b style='color: #FF8333; text-shadow: 0 0 8px #FF8333;'>ruins</b> hint at a forgotten prosperity.<br>Meanwhile, gentle <b style='color: #33FF83; text-shadow: 0 0 8px #33FF83;'>Plesiosaur</b> and curious <b style='color: #8333FF; text-shadow: 0 0 8px #8333FF;'>Ice Age mammals</b> join forces with <b style='color: #FF3333; text-shadow: 0 0 8px #FF3333;'>Permian amphibians</b>, <b style='color: #33A1FF; text-shadow: 0 0 8px #33A1FF;'>Marine life</b> and quirky <b style='color: #A1FF33; text-shadow: 0 0 8px #A1FF33;'>Invertebrates</b> to revive the island's heart.<br>Together they hope to restore <b style='color: #FF6666; text-shadow: 0 0 8px #FF6666;'>Sunrise Meadow</b> to a thriving home where every creature shares stories beneath the sunrise.<br>",
+    "DescriptionArabic": "<div dir='rtl'>عندما يتلاشى آخر بريق أمل على <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>جزيرة العنبر</b>، ينظر <b style='color: #33FF57; text-shadow: 0 0 8px #33FF57;'>شعوب ما قبل التاريخ</b> المتعبة إلى الوافد الجديد طلبًا للخلاص.<br>بإرشاد <b style='color: #3357FF; text-shadow: 0 0 8px #3357FF;'>العمدة كلوزورث</b> المتقلب، وساعي البريد <b style='color: #FF33A1; text-shadow: 0 0 8px #FF33A1;'>مابل</b> المتحمس، والمتدرب <b style='color: #A133FF; text-shadow: 0 0 8px #A133FF;'>آدي</b>، تبدأ أسرار الجزيرة في الظهور.<br>بين <b style='color: #33FFF5; text-shadow: 0 0 8px #33FFF5;'>براخيصور</b> الشامخ وال<b style='color: #FFC733; text-shadow: 0 0 8px #FFC733;'>ميكرو رابتور</b> الخفيف، تهمس <b style='color: #FF8333; text-shadow: 0 0 8px #FF8333;'>الأطلال</b> القديمة بوعد بعودة الازدهار المنسي.<br>وفي الوقت نفسه، يلتقي <b style='color: #33FF83; text-shadow: 0 0 8px #33FF83;'>بليزيوصور</b> اللطيف و<b style='color: #8333FF; text-shadow: 0 0 8px #8333FF;'>ثدييات العصر الجليدي</b> الفضولية مع <b style='color: #FF3333; text-shadow: 0 0 8px #FF3333;'>برمائيات البرمي</b> و<b style='color: #33A1FF; text-shadow: 0 0 8px #33A1FF;'>الكائنات البحرية</b> لإحياء قلب الجزيرة.<br>معًا يأملون في إحياء <b style='color: #FF6666; text-shadow: 0 0 8px #FF6666;'>مرج الشروق</b> إلى موطن مزدهر حيث يشارك كل مخلوق قصصه تحت شمس الصباح.<br></div>",
+    "ReleaseDate": "2024",
+    "CriticScore": 70,
+    "Length": 45,
+    "CoverUrl": "https://archive.org/download/RPRM001/Amber%20Isle%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Amber%20Isle%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Amber%20Isle%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Amber%20Isle%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Cozy"],
+    "DeveloperNames": ["Ambertail Games"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "01771.zip",
+            "executable": "Amber Isle.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778466873535_1",
+    "Name": "Directive 8020",
+    "SortingName": "",
+    "Description": "The crew of the colony ship <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>Cassiopeia</b> crashes on the distant world <b style='color: #33FF57; text-shadow: 0 0 8px #33FF57;'>Tau Ceti f</b>, leaving its five survivors stranded.<br>Pilot <b style='color: #FF33A1; text-shadow: 0 0 8px #FF33A1;'>Brianna Young</b> and commander <b style='color: #33A1FF; text-shadow: 0 0 8px #33A1FF;'>Nolan Stafford</b> must rally senior officer <b style='color: #FFC300; text-shadow: 0 0 8px #FFC300;'>Laura Eisele</b>, medic <b style='color: #C70039; text-shadow: 0 0 8px #C70039;'>Samantha Cooper</b> and engineer <b style='color: #900C3F; text-shadow: 0 0 8px #900C3F;'>Josef Cernan</b> to survive.<br>Unseen in the shadows, a shape‑shifting <b style='color: #DAF7A6; text-shadow: 0 0 8px #DAF7A6;'>alien organism</b> mimics their appearances, turning trust into terror.<br>As supplies dwindle, the crew faces a harrowing dilemma: stay hidden and risk the death of <b style='color: #581845; text-shadow: 0 0 8px #581845;'>Earth</b>’s last hope, or attempt a desperate escape that may awaken the predator, testing their will to <b style='color: #117A65; text-shadow: 0 0 8px #117A65;'>survival</b>.<br>Every <b style='color: #7D3C98; text-shadow: 0 0 8px #7D3C98;'>choice</b> spirals toward one of the many possible outcomes, where a single wrong move can seal the fate of the entire mission.<br>The hidden directive known as <b style='color: #1C2833; text-shadow: 0 0 8px #1C2833;'>Directive 8020</b> looms over every action, promising salvation only to those who can outwit the mimic’s <b style='color: #2E4053; text-shadow: 0 0 8px #2E4053;'>deception</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>تحطمت سفينة الاستعمار <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>كاسيوبييا</b> على الكوكب البعيد <b style='color: #33FF57; text-shadow: 0 0 8px #33FF57;'>تاو سيتي f</b>، تاركة الناجين الخمسة عالقين.<br>الطيارة <b style='color: #FF33A1; text-shadow: 0 0 8px #FF33A1;'>بريانا يونغ</b> والقائد <b style='color: #33A1FF; text-shadow: 0 0 8px #33A1FF;'>نولان ستافورد</b> يجب أن يجمعوا الضابطة العليا <b style='color: #FFC300; text-shadow: 0 0 8px #FFC300;'>لورا إيزل</b>، الطبيبة <b style='color: #C70039; text-shadow: 0 0 8px #C70039;'>سامانثا كوبر</b> والمهندس <b style='color: #900C3F; text-shadow: 0 0 8px #900C3F;'>جوزيف سيرنان</b> للبقاء على قيد الحياة.<br>في الظلال الخفية، <b style='color: #DAF7A6; text-shadow: 0 0 8px #DAF7A6;'>الكائن الغريب</b> يتقن تقليد مظهرهم، محولاً الثقة إلى رعب.<br>مع تناقص الإمدادات، يواجه الطاقم معضلة مرعبة: البقاء مختبئين ومخاطرة وفاة <b style='color: #581845; text-shadow: 0 0 8px #581845;'>الأرض</b> الأخيرة، أو محاولة هروب يائس قد يوقظ المفترس، مختبراً إرادتهم للبقاء <b style='color: #117A65; text-shadow: 0 0 8px #117A65;'>البقاء</b>.<br>كل <b style='color: #7D3C98; text-shadow: 0 0 8px #7D3C98;'>قرار</b> يتصاعد نحو أحد النتائج المتعددة المحتملة، حيث يمكن لحركة خاطئة واحدة أن تحكم على المهمة بأكملها بالمصير.<br>التوجيه المخفي المعروف باسم <b style='color: #1C2833; text-shadow: 0 0 8px #1C2833;'>التوجيه 8020</b> يلوح فوق كل فعل، واعداً الخلاص فقط لأولئك الذين يستطيعون التفوق على <b style='color: #2E4053; text-shadow: 0 0 8px #2E4053;'>الخداع</b> الذي يمارسه المقلد.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
+    "Length": 10,
+    "CoverUrl": "https://archive.org/download/RPRM001/Directive%208020%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Directive%208020%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Directive%208020%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Directive%208020%20Trailer.mp4",
+    "videoStart": 2.9,
+    "videoEnd": 108.934417,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Horror"],
+    "DeveloperNames": ["Supermassive Games"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "35 GB",
+            "filename": "01772.zip",
+            "executable": "Directive8020.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Need Music", "Hide"]
+  },
+  {
+    "_id": "game_1778466873535_2",
+    "Name": "Forza Horizon 6",
+    "SortingName": "",
+    "Description": "A lone <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>tourist</b> arrives in <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Japan</b>, drawn by rumors of a legendary gathering.<br>Guided by whispers of the <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Horizon Festival</b>, they must prove themselves in the sprawling streets of <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Tokyo City</b> and beyond.<br>Each victory earns a glowing <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>wristband</b>, unlocking new challenges that wind through the <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>mountain passes</b> and beneath blooming <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>cherry blossoms</b>.<br>Along the way they meet fierce <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Daikoku</b> car meets, a quiet <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>ancient shrine</b>, and a <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>mentor</b> who reveals a hidden <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>secret</b>.<br>When <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>Legend Island</b> beckons, the traveler must master a midnight <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>night race</b> that fuses the pulse of <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>car culture</b> with the land's soul.<br>",
+    "DescriptionArabic": "<div dir='rtl'>يصل <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>السائح</b> الوحيد إلى <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>اليابان</b>، مدفوعًا بشائعات عن تجمع أسطوري.<br>بدافع همسات <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>مهرجان الأفق</b>، يجب عليهم إثبات أنفسهم في شوارع <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>طوكيو</b> الواسعة وما وراءها.<br>كل انتصار يمنح <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>سوار المعصم</b> المتوهج، مفتحًا تحديات جديدة تتعرج عبر <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>الممرات الجبلية</b> وتحت <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>أزهار الكرز</b> المتفتحة.<br>في الطريق يلتقون بـ <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>دايكوكو</b> ساحة السيارات، و<b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>معبد قديم</b> هادئ، و<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>معلم</b> يكشف <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>سرًا</b> مخفيًا.<br>عندما تدعو <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>جزيرة الأسطورة</b>، يجب على الرحالة إتقان <b style='color: #00FF7F; text-shadow: 0 0 8px #00FF7F;'>سباق ليل</b> منتصف الليل الذي يدمج نبض <b style='color: #4682B4; text-shadow: 0 0 8px #4682B4;'>ثقافة السيارات</b> مع روح الأرض.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 100,
+    "Length": 50,
+    "CoverUrl": "https://archive.org/download/RPRM001/Forza%20Horizon%206%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Forza%20Horizon%206%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Forza%20Horizon%206%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Forza%20Horizon%206%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 90.79297,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Racing"],
+    "DeveloperNames": ["Playground Games"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "156 GB",
+            "filename": "01773.zip",
+            "executable": "Launcher.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
