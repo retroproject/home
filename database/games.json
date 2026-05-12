@@ -93718,6 +93718,7 @@
             "fileSize": "200MB",
             "romFile": "Breath of Fire IV.chd",
             "arguments": ["-L", ".\\cores\\mednafen_psx_hw_libretro.dll"],
+            "mods": ["Uncensored 1.12a", "Subtitled Opening FMV 1.1", "Dengeki Store Restoration 1.0"],
             "filename": "Breath of Fire IV.zip"
           },
           {
@@ -129020,5 +129021,108 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1778595861951_0",
+    "Name": "Crash Bandicoot 2 Cortex Strikes Back",
+    "SortingName": "Crash Bandicoot 00.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Crash%20Bandicoot%202%20Cortex%20Strikes%20Back%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Crash%20Bandicoot%202%20Cortex%20Strikes%20Back%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Crash%20Bandicoot%202%20Cortex%20Strikes%20Back%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Crash%20Bandicoot%202%20Cortex%20Strikes%20Back%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "retro-psx",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation",
+            "fileSize": "94 MB",
+            "filename": "Crash Bandicoot 2 Cortex Strikes Back.chd",
+            "romFile": "Crash Bandicoot 2 Cortex Strikes Back.chd",
+            "emulator": "DuckStation",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1778595861951_1",
+    "Name": "Crash Bandicoot Warped",
+    "SortingName": "Crash Bandicoot 00.03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Crash%20Bandicoot%20Warped%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Crash%20Bandicoot%20Warped%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Crash%20Bandicoot%20Warped%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Crash%20Bandicoot%20Warped%20Trailer.mp4",
+    "videoStart": 8.4,
+    "videoEnd": 64.4,
+    "PlatformNames": ["Sony PlayStation"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "retro-psx",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation",
+            "fileSize": "99 MB",
+            "filename": "Crash Bandicoot Warped.chd",
+            "romFile": "Crash Bandicoot Warped.chd",
+            "emulator": "DuckStation",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1778595861951_2",
+    "Name": "Crash Bandicoot",
+    "SortingName": "Crash Bandicoot 00.01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Crash%20Bandicoot%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Crash%20Bandicoot%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Crash%20Bandicoot%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Crash%20Bandicoot%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "retro-psx",
+            "name": "Enhanced",
+            "platform": "Sony PlayStation",
+            "fileSize": "443 MB",
+            "romFile": "Crash Bandicoot.chd",
+            "emulator": "DuckStation",
+            "arguments": [],
+            "mods": "Quality of Life 1.1",
+            "filename": "Crash Bandicoot.chd"
+          }
+        ]
+      }
+    }
   }
 ]
