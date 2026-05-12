@@ -128575,7 +128575,7 @@
             "fileSize": "928 MB",
             "executable": "FROGGY HATES SNOW.exe",
             "arguments": [],
-            "useGofile": true,
+            "useGofile": false,
             "gofileUrl": "https://store4.gofile.io/download/direct/16473ca1-536a-4cac-9e10-4ff1723d9c8d/01768.zip",
             "buildID": "7 May 2026",
             "filename": "01768.zip"
