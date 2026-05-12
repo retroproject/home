@@ -128764,10 +128764,19 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "156 GB",
-            "executable": "Launcher.exe",
+            "executable": "forzahorizon6.exe",
             "arguments": [],
             "buildID": "10 May 2026",
             "filename": "01773.zip"
+          },
+          {
+            "identifier": "RPRP032",
+            "name": "Crash Fix",
+            "platform": "PC Game",
+            "fileSize": "10MB",
+            "arguments": [],
+            "buildID": "10 May 2026",
+            "filename": "01773 Fix.zip"
           }
         ]
       }
