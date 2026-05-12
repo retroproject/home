@@ -128785,9 +128785,9 @@
     "CoverUrl": "https://archive.org/download/RPRM001/Airborne%20Empire%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Airborne%20Empire%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Airborne%20Empire%20Theme.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Airborne%20Empire%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "PlatformNames": ["PC Game"],
     "GenreNames": [],
     "DeveloperNames": [],
@@ -128806,7 +128806,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1778556944283_1",
@@ -128819,9 +128819,9 @@
     "CoverUrl": "https://archive.org/download/RPRM001/ChainStaff%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/ChainStaff%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/ChainStaff%20Theme.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/ChainStaff%20Trailer.mp4",
+    "videoStart": 2.2,
+    "videoEnd": 57.7,
     "PlatformNames": ["PC Game"],
     "GenreNames": [],
     "DeveloperNames": [],
@@ -128840,7 +128840,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1778556944283_2",
@@ -128853,9 +128853,9 @@
     "CoverUrl": "https://archive.org/download/RPRM001/Crimson%20Oath%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Crimson%20Oath%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Crimson%20Oath%20Theme.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Crimson%20Oath%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "PlatformNames": ["PC Game"],
     "GenreNames": [],
     "DeveloperNames": [],
@@ -128874,7 +128874,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1778556944283_3",
@@ -128887,9 +128887,9 @@
     "CoverUrl": "https://archive.org/download/RPRM001/Lorns%20Lure%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Lorns%20Lure%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Lorns%20Lure%20Theme.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Lorns%20Lure%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "PlatformNames": ["PC Game"],
     "GenreNames": [],
     "DeveloperNames": [],
@@ -128908,41 +128908,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
-  },
-  {
-    "_id": "game_1778556944283_4",
-    "Name": "Love Delivery",
-    "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
-    "CoverUrl": "https://archive.org/download/RPRM001/Love%20Delivery%20Cover.jpg",
-    "BackgroundUrl": "https://archive.org/download/RPRM001/Love%20Delivery%20Background.jpg",
-    "MusicUrl": "https://archive.org/download/RPRM001/Love%20Delivery%20Theme.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
-    "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
-    "downloadInfo": {
-      "PC Game": {
-        "versions": [
-          {
-            "identifier": "RPRP032",
-            "name": "Vanilla",
-            "platform": "PC Game",
-            "fileSize": "3 GB",
-            "filename": "01779.zip",
-            "executable": "LoveDelivery.exe",
-            "arguments": []
-          }
-        ]
-      }
-    },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1778556944283_5",
@@ -128952,12 +128918,12 @@
     "DescriptionArabic": "",
     "ReleaseDate": null,
     "CriticScore": null,
-    "CoverUrl": "https://archive.org/download/RPRM001/Sani%20Yang's%20Laboratory%20Cover.jpg",
-    "BackgroundUrl": "https://archive.org/download/RPRM001/Sani%20Yang's%20Laboratory%20Background.jpg",
-    "MusicUrl": "https://archive.org/download/RPRM001/Sani%20Yang's%20Laboratory%20Theme.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Sani%20Yang%27s%20Laboratory%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Sani%20Yangs%20Laboratory%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Sani%20Yangs%20Laboratory%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Sani%20Yangs%20Laboratory%20Trailer.mp4",
+    "videoStart": 4.099999,
+    "videoEnd": 0,
     "PlatformNames": ["PC Game"],
     "GenreNames": [],
     "DeveloperNames": [],
@@ -128976,7 +128942,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1778560941602_0",
@@ -128989,9 +128955,9 @@
     "CoverUrl": "https://archive.org/download/RPRM001/Lucid%20Blocks%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Lucid%20Blocks%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Lucid%20Blocks%20Theme.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Lucid%20Blocks%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "PlatformNames": ["PC Game"],
     "GenreNames": [],
     "DeveloperNames": [],
@@ -129010,7 +128976,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1778560941602_1",
@@ -129023,9 +128989,9 @@
     "CoverUrl": "https://archive.org/download/RPRM001/Nocturnal%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Nocturnal%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Nocturnal%20Theme.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Nocturnal%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 62.902933,
     "PlatformNames": ["PC Game"],
     "GenreNames": [],
     "DeveloperNames": [],
@@ -129044,6 +129010,6 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   }
 ]
