@@ -64723,12 +64723,13 @@
           },
           {
             "identifier": "RPRP032",
-            "filename": "01766.zip",
             "platform": "PC Game",
             "name": "Dusk",
             "fileSize": "10GB",
             "buildID": "1.0.0",
-            "executableFiles": ["dusk.exe"]
+            "executableFiles": ["dusk.exe"],
+            "customSavePath": "portable\\Dusk\\USA",
+            "filename": "01766.zip"
           }
         ]
       }
@@ -128500,9 +128501,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "18 GB",
-            "filename": "01764.zip",
             "executable": "sacred2.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "6 May 2026",
+            "filename": "01764.zip"
           }
         ]
       }
@@ -128537,6 +128539,7 @@
             "executableFiles": ["Sacred.exe", "Config.exe"],
             "executableLabels": ["Game", "Configure"],
             "arguments": [],
+            "buildID": "1 May 2014",
             "filename": "01765.zip"
           }
         ]
@@ -128570,11 +128573,12 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "928 MB",
-            "filename": "01768.zip",
             "executable": "FROGGY HATES SNOW.exe",
             "arguments": [],
             "useGofile": true,
-            "gofileUrl": "https://store4.gofile.io/download/direct/16473ca1-536a-4cac-9e10-4ff1723d9c8d/01768.zip"
+            "gofileUrl": "https://store4.gofile.io/download/direct/16473ca1-536a-4cac-9e10-4ff1723d9c8d/01768.zip",
+            "buildID": "7 May 2026",
+            "filename": "01768.zip"
           }
         ]
       }
@@ -128607,9 +128611,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "9 GB",
-            "filename": "01769.zip",
             "executable": "HELLBREAK.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "10 May 2026",
+            "filename": "01769.zip"
           }
         ]
       }
@@ -128641,9 +128646,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "3 GB",
-            "filename": "01770.zip",
             "executable": "Whisper of the House.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "23 April 2026",
+            "filename": "01770.zip"
           }
         ]
       }
@@ -128675,9 +128681,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
-            "filename": "01771.zip",
             "executable": "Amber Isle.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "16 March 2026",
+            "filename": "01771.zip"
           }
         ]
       }
@@ -128710,9 +128717,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "35 GB",
-            "filename": "01772.zip",
             "executable": "Directive8020.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "11 May 2026",
+            "filename": "01772.zip"
           }
         ]
       }
@@ -128745,9 +128753,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "156 GB",
-            "filename": "01773.zip",
             "executable": "Launcher.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "10 May 2026",
+            "filename": "01773.zip"
           }
         ]
       }
