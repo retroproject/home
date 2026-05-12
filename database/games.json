@@ -9514,12 +9514,22 @@
       "PC Game": {
         "versions": [
           {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "executable": "CoreKeeper.exe",
+            "fileSize": "400MB",
+            "buildID": "7 May 2026",
+            "filename": "01774.zip"
+          },
+          {
             "identifier": "RPRP024",
-            "filename": "00884.zip",
             "name": "Online",
             "platform": "PC Game",
             "executable": "CoreKeeper.exe",
-            "fileSize": "400MB"
+            "fileSize": "400MB",
+            "buildID": "1.2.0.4",
+            "filename": "00884.zip"
           }
         ]
       }
@@ -25193,11 +25203,12 @@
         "versions": [
           {
             "identifier": "RPRP029",
-            "filename": "01689.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "inZOI.exe",
-            "fileSize": "21GB"
+            "fileSize": "21GB",
+            "buildID": "11 May 2026",
+            "filename": "01689.zip"
           }
         ]
       }
@@ -109556,7 +109567,7 @@
             "fileSize": "33 GB",
             "executable": "UNBEATABLE.exe",
             "arguments": [],
-            "buildID": "23 December 2025",
+            "buildID": "29 April 2026",
             "filename": "00220.zip"
           }
         ]
@@ -128762,5 +128773,277 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1778556944283_0",
+    "Name": "Airborne Empire",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Airborne%20Empire%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Airborne%20Empire%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Airborne%20Empire%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "filename": "01775.zip",
+            "executable": "AirborneEmpire.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778556944283_1",
+    "Name": "ChainStaff",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/ChainStaff%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/ChainStaff%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/ChainStaff%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "filename": "01776.zip",
+            "executable": "ChainStaff.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778556944283_2",
+    "Name": "Crimson Oath",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Crimson%20Oath%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Crimson%20Oath%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Crimson%20Oath%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "8 GB",
+            "filename": "01777.zip",
+            "executable": "RedSoul.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778556944283_3",
+    "Name": "Lorns Lure",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Lorns%20Lure%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Lorns%20Lure%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Lorns%20Lure%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "01778.zip",
+            "executable": "LornsLure.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778556944283_4",
+    "Name": "Love Delivery",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Love%20Delivery%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Love%20Delivery%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Love%20Delivery%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "filename": "01779.zip",
+            "executable": "LoveDelivery.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778556944283_5",
+    "Name": "Sani Yang's Laboratory",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Sani%20Yang's%20Laboratory%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Sani%20Yang's%20Laboratory%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Sani%20Yang's%20Laboratory%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "13 GB",
+            "filename": "01780.zip",
+            "executable": "sanyPlus.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778560941602_0",
+    "Name": "Lucid Blocks",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Lucid%20Blocks%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Lucid%20Blocks%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Lucid%20Blocks%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "1 GB",
+            "filename": "01781.zip",
+            "executable": "lucid-blocks.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778560941602_1",
+    "Name": "Nocturnal",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Nocturnal%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Nocturnal%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Nocturnal%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "1 GB",
+            "filename": "01782.zip",
+            "executable": "Nocturnal.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
