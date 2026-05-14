@@ -15347,15 +15347,25 @@
     "YouTubeUrl": "",
     "videoStart": null,
     "videoEnd": null,
-    "PlatformNames": ["Sony PlayStation 3"],
+    "PlatformNames": ["PC Game", "Sony PlayStation 3"],
     "GenreNames": ["Stealth"],
     "DeveloperNames": ["IO Interactive"],
     "downloadInfo": {
-      "Sony PlayStation 3": {
+      "Cross-Platform": {
         "versions": [
           {
+            "identifier": "RPRP032",
+            "filename": "01807.zip",
+            "platform": "PC Game",
+            "name": "PC",
+            "fileSize": "4GB",
+            "executableFiles": ["HitmanBloodMoney.exe", "configure.exe"],
+            "executableLabels": ["Game", "Configure"],
+            "buildID": "1 May 2014"
+          },
+          {
             "identifier": "rpcs3-P3",
-            "name": "Vanilla",
+            "name": "Playstation 3",
             "platform": "Sony PlayStation 3",
             "emulator": "RPCS3",
             "fileSize": "5GB",
@@ -57913,7 +57923,7 @@
   {
     "_id": "92d19341-f54c-460c-a9c9-31b59834a939",
     "Name": "Dragon Quest VII: Fragments of the Forgotten Past",
-    "SortingName": "Dragon Quest 07",
+    "SortingName": "Dragon Quest 07.01",
     "Description": "On the isolated island of <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>Estard</span>, young <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>Prince Kiefer</span> discovers mysterious <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>stone tablets</span> that hold the power to restore lost worlds.<br>Together with his loyal friend <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>Auster</span> and the enigmatic <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>Maribel</span>, he journeys through time to islands that vanished from history.<br>Each <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>fragment</span> reveals a tale of sorrow, as communities struggle against an ancient evil that seeks to erase hope itself.<br>Through acts of courage and compassion, they slowly piece together the <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>shattered world</span>, learning that even the smallest kindness can restore what was lost.<br>This epic spans generations, showing how <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>love</span> and <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>memory</span> can triumph over the forces of <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>oblivion</span>.",
     "DescriptionArabic": "<div dir='rtl'>في جزيرة معزولة تدعى <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>إستارد</span>، يكتشف أمير شاب ألواحاً حجرية غامضة تحمل سر <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>العوالم المفقودة</span>.<br>برفقة أصدقائه المخلصين، ينطلق في رحلة عبر الزمن لإنقاذ جزر محيت من التاريخ بواسطة <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>قوة شريرة قديمة</span>.<br>كل جزيرة يزورونها تحكي قصة مأساوية عن شعوب واجهت <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>اليأس والظلام</span>، لكنها لم تفقد إيمانها بقدوم <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>المنقذين</span>.<br>يتعلم الأبطال أن أصغر <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>أعمال اللطف</span> يمكنها أن تضيء أحلك الليالي، وأن <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الحب الصادق</span> قادر على استعادة ما ظُن أنه ضاع إلى الأبد.<br>عبر أجيال وقرون، تثبت هذه الملحمة أن <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>الذاكرة</span> أقوى من النسيان، و<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>الأمل</span> أقوى من <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>قوى الفناء</span>.</div>",
     "ReleaseDate": "2013",
@@ -116628,7 +116638,7 @@
   {
     "_id": "game_1770082597657_0",
     "Name": "DRAGON QUEST VII Reimagined",
-    "SortingName": "",
+    "SortingName": "Dragon Quest 07.02",
     "Description": "On the isolated island of <b style='color: #5DADE2; text-shadow: 0 0 8px #5DADE2;'>Estard</b>, a fisherman's son known simply as <b style='color: #F1C40F; text-shadow: 0 0 8px #F1C40F;'>the Hero</b>, the bold <b style='color: #D4AC0D; text-shadow: 0 0 8px #D4AC0D;'>Prince Kiefer</b>, and sharp-tongued <b style='color: #E91E63; text-shadow: 0 0 8px #E91E63;'>Maribel</b> uncover <b style='color: #E74C3C; text-shadow: 0 0 8px #E74C3C;'>stone tablet fragments</b> that hurl them back through time.<br> Each fragment opens a gateway to an age where entire lands have been <b style='color: #8E44AD; text-shadow: 0 0 8px #8E44AD;'>sealed from existence</b> by a <b style='color: #922B21; text-shadow: 0 0 8px #922B21;'>sinister darkness</b>.<br> Restoring a fragment returns its <b style='color: #27AE60; text-shadow: 0 0 8px #27AE60;'>lost civilization</b> to the present, but the <b style='color: #C0392B; text-shadow: 0 0 8px #C0392B;'>malevolent power</b> behind these vanishings grows more terrifying with every revelation.<br> <b style='color: #7F8C8D; text-shadow: 0 0 8px #7F8C8D;'>Ancient shrines</b> and <b style='color: #1ABC9C; text-shadow: 0 0 8px #1ABC9C;'>forgotten prophets</b> scattered across centuries of <b style='color: #F39C12; text-shadow: 0 0 8px #F39C12;'>sealed history</b> point toward a catastrophe that no single era survived alone.<br> The road to Estard's truth demands courage that spans <b style='color: #9B59B6; text-shadow: 0 0 8px #9B59B6;'>millennia</b> — and a will to restore what was never meant to be forgotten.",
     "DescriptionArabic": "<div dir='rtl'>على الجزيرة المعزولة <b style='color: #5DADE2; text-shadow: 0 0 8px #5DADE2;'>إستارد</b>، يكتشف ابن الصياد المعروف بـ<b style='color: #F1C40F; text-shadow: 0 0 8px #F1C40F;'>البطل</b> والجريء <b style='color: #D4AC0D; text-shadow: 0 0 8px #D4AC0D;'>الأمير كيفر</b> والشجاعة <b style='color: #E91E63; text-shadow: 0 0 8px #E91E63;'>ماريبيل</b> شظايا <b style='color: #E74C3C; text-shadow: 0 0 8px #E74C3C;'>ألواح حجرية</b> تحملهم عبر الزمن إلى ماضٍ بعيد.<br> كل شظية تفتح بوابةً إلى حقبة طُمست فيها أراضٍ بأسرها من الوجود بفعل <b style='color: #8E44AD; text-shadow: 0 0 8px #8E44AD;'>أختام من العدم</b> صنعتها <b style='color: #922B21; text-shadow: 0 0 8px #922B21;'>ظلمة شريرة</b>.<br> استعادة كل شظية تُعيد <b style='color: #27AE60; text-shadow: 0 0 8px #27AE60;'>الحضارة المفقودة</b> إلى الحاضر، لكن <b style='color: #C0392B; text-shadow: 0 0 8px #C0392B;'>القوة الخبيثة</b> وراء هذه الاختفاءات تزداد رعباً مع كل كشف جديد.<br> <b style='color: #7F8C8D; text-shadow: 0 0 8px #7F8C8D;'>ضرائح قديمة</b> و<b style='color: #1ABC9C; text-shadow: 0 0 8px #1ABC9C;'>أنبياء منسيون</b> عبر قرون من <b style='color: #F39C12; text-shadow: 0 0 8px #F39C12;'>التاريخ المختوم</b> تُشير إلى كارثة لم تصمد لها حقبة منفردة.<br> والطريق إلى حقيقة إستارد يستلزم شجاعةً تمتد عبر <b style='color: #9B59B6; text-shadow: 0 0 8px #9B59B6;'>آلاف السنين</b> وعزماً على استعادة ما لم يكن يجوز نسيانه.</div>",
     "ReleaseDate": "2026",
@@ -117713,7 +117723,7 @@
             "fileSize": "11 GB",
             "executable": "Shape of Dreams.exe",
             "arguments": [],
-            "buildID": "17 December 2025",
+            "buildID": "9 April 2026",
             "filename": "00424.zip"
           }
         ]
@@ -128788,10 +128798,11 @@
     "_id": "game_1778556944283_0",
     "Name": "Airborne Empire",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "High above the clouds, the fledgling <b style='color:#00BFFF; text-shadow: 0 0 8px #00BFFF;'>Skyward City</b> seeks to unite the scattered kingdoms of the heavens.<br>Young engineer <b style='color:#FF4500; text-shadow: 0 0 8px #FF4500;'>Zephyr</b> uncovers the <b style='color:#FFD700; text-shadow: 0 0 8px #FFD700;'>Relic of Lumin</b>, a beacon that could restore balance to <b style='color:#228B22; text-shadow: 0 0 8px #228B22;'>Aeyrie</b>, <b style='color:#8B0000; text-shadow: 0 0 8px #8B0000;'>Blackspine</b> and <b style='color:#1E90FF; text-shadow: 0 0 8px #1E90FF;'>Kingsfell</b>.<br>But the ruthless <b style='color:#8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>Sky Pirates</b>, commanded by <b style='color:#FF1493; text-shadow: 0 0 8px #FF1493;'>Captain Mara</b>, hunt the relic to fuel their conquest.<br>Zephyr must ally with the secretive <b style='color:#2E8B57; text-shadow: 0 0 8px #2E8B57;'>Lift Guild</b>, the mystic <b style='color:#DA70D6; text-shadow: 0 0 8px #DA70D6;'>Prophets</b>, and scholars of the <b style='color:#708090; text-shadow: 0 0 8px #708090;'>Floating Archives</b>.<br>With the storm over the <b style='color:#4682B4; text-shadow: 0 0 8px #4682B4;'>Stormforge</b> looming, the fate of the empire rests on igniting the dormant <b style='color:#FF8C00; text-shadow: 0 0 8px #FF8C00;'>Ember Engine</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>فوق السحب العالية، تسعى <b style='color:#00BFFF; text-shadow: 0 0 8px #00BFFF;'>مدينة سكايورد</b> الناشئة لتوحيد الممالك المتناثرة في السماء.<br>المهندس <b style='color:#FF4500; text-shadow: 0 0 8px #FF4500;'>زيفر</b> يكتشف <b style='color:#FFD700; text-shadow: 0 0 8px #FFD700;'>آثار لومن</b>، منارة قد تعيد التوازن إلى <b style='color:#228B22; text-shadow: 0 0 8px #228B22;'>إياري</b> و<b style='color:#8B0000; text-shadow: 0 0 8px #8B0000;'>العمود الأسود</b> و<b style='color:#1E90FF; text-shadow: 0 0 8px #1E90FF;'>كينغسفيل</b>.<br>لكن <b style='color:#8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>قراصنة السماء</b> القساة، بقيادة <b style='color:#FF1493; text-shadow: 0 0 8px #FF1493;'>القائدة مارا</b>، يطاردون الآثار لتقوية غزوهم.<br>يجب على زيفر التحالف مع <b style='color:#2E8B57; text-shadow: 0 0 8px #2E8B57;'>نقابة الرفع</b>، و<b style='color:#DA70D6; text-shadow: 0 0 8px #DA70D6;'>النبوءات</b>، والعلماء في <b style='color:#708090; text-shadow: 0 0 8px #708090;'>الأرشيف العائم</b>.<br>مع اقتراب العاصفة من <b style='color:#4682B4; text-shadow: 0 0 8px #4682B4;'>معمل العواصف</b>، يعتمد مصير الإمبراطورية على إشتعال <b style='color:#FF8C00; text-shadow: 0 0 8px #FF8C00;'>محرك الجمر</b>.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 70,
+    "Length": 30,
     "CoverUrl": "https://archive.org/download/RPRM001/Airborne%20Empire%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Airborne%20Empire%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Airborne%20Empire%20Theme.mp3",
@@ -128799,8 +128810,8 @@
     "videoStart": 0,
     "videoEnd": 0,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Adventure"],
+    "DeveloperNames": ["The Wandering Band LLC"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -128809,9 +128820,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "4 GB",
-            "filename": "01775.zip",
             "executable": "AirborneEmpire.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "7 May 2026",
+            "filename": "01775.zip"
           }
         ]
       }
@@ -128822,10 +128834,11 @@
     "_id": "game_1778556944283_1",
     "Name": "ChainStaff",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "When the relentless <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Star Spores</b> descend upon <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>Earth</b>, they warp its wildlife into grotesque <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>uber‑bugs</b> and plunge humanity into chaos.<br>A parasitic <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>alien</b> grafts itself to the hero’s skull, granting the cursed weapon known as the <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>ChainStaff</b>.<br>Now the protagonist must choose between <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>rescue</b> <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>survivors</b> or <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>harvest</b> their organs for <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>dark upgrades</b>, a decision that will shape the planet’s destiny.<br>The trek spans <b style='color: #00FA9A; text-shadow: 0 0 8px #00FA9A;'>misty mountains</b>, <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>icy caves</b>, and <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>jellyfish islands</b>, each pulsing to a relentless <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>metal soundtrack</b>, while every choice leads to <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>divergent endings</b> for the <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>shattered world</b>.<br>",
+    "DescriptionArabic": "<div dir='rtl'>عندما تهبط <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>نشرات النجوم</b> بلا هوادة على <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>الأرض</b>، فإنها تحوّل الحياة البرية إلى <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الوحوش المتحولة</b> وتغمر الإنسانية في الفوضى.<br>كائن غريب طفيلي يلحم نفسه على جمجمة البطل، مانحاً إياه السلاح الملعون المعروف باسم <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>العصا المتسلسلة</b>.<br>الآن يجب على البطل أن يختار بين <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>إنقاذ</b> <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>الناجين</b> أو <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>حصاد</b> أعضائهم من أجل <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>تحسينات مظلمة</b>، قرار سيشكل مصير الكوكب.<br>تستمر الرحلة عبر <b style='color: #00FA9A; text-shadow: 0 0 8px #00FA9A;'>الجبال الضبابية</b>، <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>الكهوف المتجمدة</b>، و<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>جزر قناديل البحر</b>، كلٌّ يردد أنغام <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>الموسيقى المعدنية</b> المتواصلة، بينما كل اختيار يقود إلى <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>نهايات متباينة</b> في <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>العالم المتحطم</b>.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
+    "Length": 10,
     "CoverUrl": "https://archive.org/download/RPRM001/ChainStaff%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/ChainStaff%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/ChainStaff%20Theme.mp3",
@@ -128833,8 +128846,8 @@
     "videoStart": 2.2,
     "videoEnd": 57.7,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Platformer"],
+    "DeveloperNames": ["Mommy's Best Games"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -128843,9 +128856,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "3 GB",
-            "filename": "01776.zip",
             "executable": "ChainStaff.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "11 May 2026",
+            "filename": "01776.zip"
           }
         ]
       }
@@ -128856,10 +128870,11 @@
     "_id": "game_1778556944283_2",
     "Name": "Crimson Oath",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "On the ancient continent of <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>Guretvo</b>, the <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>golden dragon dynasty</b> has decayed into tyrannical rule.<br>The fanatical <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>White Cult</b> rises, unleashing monstrous insurrections that tear the land under relentless <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Corruption</b>.<br>Divine envoys intervene: the western god <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Sith</b> quells the cult, while the eastern deity <b style='color: #006400; text-shadow: 0 0 8px #006400;'>Eagle</b> and northern god <b style='color: #00008B; text-shadow: 0 0 8px #00008B;'>Leon</b> empower the rebel <b style='color: #800080; text-shadow: 0 0 8px #800080;'>Master William</b>.<br>William founds the <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Youth Sect</b> and the <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>Red Sect</b>, but his sudden death on the eve of the northern campaign sparks the brutal <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Night of the Massacre</b>.<br>Now the <b style='color: #A52A2A; text-shadow: 0 0 8px #A52A2A;'>Dragon Academy</b> forces its apprentices to choose allegiance, and every oath sworn could decide the fate of Guretvo.<br>",
+    "DescriptionArabic": "<div dir='rtl'>على القارة القديمة <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>جوريتفو</b>، <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>سلالة التنين الذهبي</b> تدهورت إلى حكم طاغي.<br>تنهض <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>الطائفة البيضاء</b> المتعصبة، وتطلق تمردات وحشية تمزق الأرض تحت وطأة <b style='color: #708090; text-shadow: 0 0 8px #708090;'>الفساد</b> المستمر.<br>يتدخل رسل الآلهة: إله الغرب <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>سيث</b> يطرد الطائفة، بينما يساند الإله الشرقي <b style='color: #006400; text-shadow: 0 0 8px #006400;'>النسر</b> والإله الشمالي <b style='color: #00008B; text-shadow: 0 0 8px #00008B;'>ليون</b> المتمرد <b style='color: #800080; text-shadow: 0 0 8px #800080;'>المعلم ويليام</b>.<br>يؤسس ويليام <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>طائفة الشباب</b> و<b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>الطائفة الحمراء</b>، لكن وفاته المفاجئة قبل الحملة الشمالية تشعل <b style='color: #708090; text-shadow: 0 0 8px #708090;'>ليلة المذبحة</b> الدامية.<br>الآن <b style='color: #A52A2A; text-shadow: 0 0 8px #A52A2A;'>أكاديمية التنين</b> تجبر المتدربين على اختيار ولائهم، وكل عهد يُعقَد قد يحدد مصير جوريتفو.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 70,
+    "Length": 5,
     "CoverUrl": "https://archive.org/download/RPRM001/Crimson%20Oath%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Crimson%20Oath%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Crimson%20Oath%20Theme.mp3",
@@ -128867,8 +128882,8 @@
     "videoStart": 0,
     "videoEnd": 0,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["RPG"],
+    "DeveloperNames": ["Parry Frames Studio"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -128877,9 +128892,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "8 GB",
-            "filename": "01777.zip",
             "executable": "RedSoul.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "14 May 2026",
+            "filename": "01777.zip"
           }
         ]
       }
@@ -128890,10 +128906,11 @@
     "_id": "game_1778556944283_3",
     "Name": "Lorns Lure",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "When a lone <b style='color:#1abc9c; text-shadow: 0 0 8px #1abc9c;'>android</b> detects a persistent <b style='color:#e74c3c; text-shadow: 0 0 8px #e74c3c;'>glitch</b> in its visual feed, it leaves its distant <b style='color:#9b59b6; text-shadow: 0 0 8px #9b59b6;'>colony</b> to follow the <b style='color:#2ecc71; text-shadow: 0 0 8px #2ecc71;'>signal</b>.<br>The beacon draws it into a towering <b style='color:#3498db; text-shadow: 0 0 8px #3498db;'>megastructure</b>, a relic whose walls pulse with forgotten <b style='color:#f1c40f; text-shadow: 0 0 8px #f1c40f;'>echoes</b> of a vanished civilization.<br>Within, the <b style='color:#e74c3c; text-shadow: 0 0 8px #e74c3c;'>glitch</b> becomes a haunting <b style='color:#e67e22; text-shadow: 0 0 8px #e67e22;'>vision</b>, guiding the wanderer past colossal <b style='color:#95a5a6; text-shadow: 0 0 8px #95a5a6;'>voids</b> and crumbling <b style='color:#d35400; text-shadow: 0 0 8px #d35400;'>horizons</b> toward an enigmatic <b style='color:#c0392b; text-shadow: 0 0 8px #c0392b;'>core</b>.<br>Fragmented data reveal a centuries‑old <b style='color:#8e44ad; text-shadow: 0 0 8px #8e44ad;'>war</b> between synthetic <b style='color:#16a085; text-shadow: 0 0 8px #16a085;'>sentinels</b> and the colony’s creators, suggesting the <b style='color:#34495e; text-shadow: 0 0 8px #34495e;'>paradox</b> is self‑inflicted.<br>Now the <b style='color:#1abc9c; text-shadow: 0 0 8px #1abc9c;'>android</b> must choose to expose the truth, repair the fracture, or become the echo that haunts the structure forever.<br>",
+    "DescriptionArabic": "<div dir='rtl'>عندما يكتشف <b style='color:#1abc9c; text-shadow: 0 0 8px #1abc9c;'>آندرويد</b> وحيد <b style='color:#e74c3c; text-shadow: 0 0 8px #e74c3c;'>خلل</b> مستمراً في تغذيته البصرية، يترك <b style='color:#9b59b6; text-shadow: 0 0 8px #9b59b6;'>المستعمرة</b> البعيدة ليتبع <b style='color:#2ecc71; text-shadow: 0 0 8px #2ecc71;'>الإشارة</b>.<br>تقوده الإشارة إلى <b style='color:#3498db; text-shadow: 0 0 8px #3498db;'>هيكل عملاق</b>، بقايا تدق جدرانه بأصداء <b style='color:#f1c40f; text-shadow: 0 0 8px #f1c40f;'>صدى</b> حضارة مفقودة.<br>في الداخل، يتحول <b style='color:#e74c3c; text-shadow: 0 0 8px #e74c3c;'>خلل</b> إلى <b style='color:#e67e22; text-shadow: 0 0 8px #e67e22;'>رؤية</b> مخيفة، تقود المتجول عبر <b style='color:#95a5a6; text-shadow: 0 0 8px #95a5a6;'>فراغات</b> شاسعة و<b style='color:#d35400; text-shadow: 0 0 8px #d35400;'>آفاق</b> متداعية نحو <b style='color:#c0392b; text-shadow: 0 0 8px #c0392b;'>النواة</b> الغامضة.<br>تكشف البيانات المجزأة عن <b style='color:#8e44ad; text-shadow: 0 0 8px #8e44ad;'>حرب</b> قديمة بين <b style='color:#16a085; text-shadow: 0 0 8px #16a085;'>حراس</b> صناعية ومبدعي المستعمرة، موحية بأن <b style='color:#34495e; text-shadow: 0 0 8px #34495e;'>تناقض</b> ربما يكون ذاتيًا.<br>الآن يجب على <b style='color:#1abc9c; text-shadow: 0 0 8px #1abc9c;'>آندرويد</b> أن يقرر ما إذا كان سيكشف الحقيقة، يُصلّح الشق، أو يصبح الصدى الذي يطارد الهيكل إلى الأبد.<br></div>",
+    "ReleaseDate": "2024",
+    "CriticScore": 80,
+    "Length": 15,
     "CoverUrl": "https://archive.org/download/RPRM001/Lorns%20Lure%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Lorns%20Lure%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Lorns%20Lure%20Theme.mp3",
@@ -128901,8 +128918,8 @@
     "videoStart": 0,
     "videoEnd": 0,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Platformer"],
+    "DeveloperNames": ["Rubeki Games"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -128911,9 +128928,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
-            "filename": "01778.zip",
             "executable": "LornsLure.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "25 March 2026",
+            "filename": "01778.zip"
           }
         ]
       }
@@ -128924,10 +128942,11 @@
     "_id": "game_1778556944283_5",
     "Name": "Sani Yang's Laboratory",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "You awaken amid the vibrant city of <b style='color: #6A0DAD; text-shadow: 0 0 8px #6A0DAD;'>Therio</b>, a realm inhabited by quirky anthropomorphic beings.<br> A compassionate <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Professor Sani</b> and her diligent assistant <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>Namo</b> rescue you, but the cost is becoming a test subject in their sprawling <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Laboratory</b>.<br> Within the walls, the enigmatic <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>Experiments</b> reveal hidden <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Secrets</b> that may bridge the gap between this world and the <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Human World</b>.<br> Your growing <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Bonds</b> with the gentle <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Kiwi</b> and the array of curious researchers force you to make pivotal <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Choices</b> that shape divergent <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>Endings</b>.<br> Each decision pulls you deeper into a web of <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>Mystery</b>, leaving you to wonder whether the <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>Research</b> will rescue or doom both realms.",
+    "DescriptionArabic": "<div dir='rtl'>تستيقظ في مدينة <b style='color: #6A0DAD; text-shadow: 0 0 8px #6A0DAD;'>ثيريو</b> النابضة بالحياة، عالم يسكنه مخلوقات أنثروبومورفية غريبة.<br> تأتيك يد الإنقاذ من <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>الأستاذة ساني</b> المبدعة ومساعدتها المخلصة <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>نامو</b>، لكن الثمن هو أن تصبح موضوع اختبار في <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>المختبر</b> الواسع.<br> داخل الجدران، تكشف <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>التجارب</b> الغامضة عن <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>الأسرار</b> التي قد تجسر الفجوة بين هذا العالم و<b style='color: #708090; text-shadow: 0 0 8px #708090;'>العالم البشري</b>.<br> تنمو <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>العلاقات</b> مع <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>كيوي</b> اللطيفة ومع مجموعة الباحثين الفضوليين، ما يجبرك على اتخاذ <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>الخيارات</b> الحاسمة التي تشكّل <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>النهايات</b> المتباينة.<br> كل قرار يغوص بك أعمق في شبكة من <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>الغموض</b>، لتتساءل إن كان <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>البحث</b> سيخلص أو يدمر كلا العوالم.</div>",
+    "ReleaseDate": "2025",
+    "CriticScore": 80,
+    "Length": 20,
     "CoverUrl": "https://archive.org/download/RPRM001/Sani%20Yang%27s%20Laboratory%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Sani%20Yangs%20Laboratory%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Sani%20Yangs%20Laboratory%20Theme.mp3",
@@ -128935,8 +128954,8 @@
     "videoStart": 4.099999,
     "videoEnd": 0,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Adventure"],
+    "DeveloperNames": ["TALESSHOP Co., Ltd."],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -128945,9 +128964,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "13 GB",
-            "filename": "01780.zip",
             "executable": "sanyPlus.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "11 May 2026",
+            "filename": "01780.zip"
           }
         ]
       }
@@ -128958,10 +128978,11 @@
     "_id": "game_1778560941602_0",
     "Name": "Lucid Blocks",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "The <b style='color: #ff6f61; text-shadow: 0 0 8px #ff6f61;'>Protagonist</b> awakens within a <b style='color: #6a0dad; text-shadow: 0 0 8px #6a0dad;'>Liminal Void</b>, a mutable <b style='color: #00bfff; text-shadow: 0 0 8px #00bfff;'>Dreamscape</b> that murmurs of lost purpose in the fading light.<br>Guided by a shattered <b style='color: #ffd700; text-shadow: 0 0 8px #ffd700;'>Rosary</b>, they chase the radiant <b style='color: #ff4500; text-shadow: 0 0 8px #ff4500;'>Tiamana Leylines</b>, each guarded by a silent <b style='color: #8b0000; text-shadow: 0 0 8px #8b0000;'>Final Guardian</b>.<br>Through the forbidden <b style='color: #7fff00; text-shadow: 0 0 8px #7fff00;'>Apotheosis</b>, fragments of <b style='color: #ff69b4; text-shadow: 0 0 8px #ff69b4;'>Qualia</b> fuse, summoning allies like the bright <b style='color: #ffa500; text-shadow: 0 0 8px #ffa500;'>Bubblebear</b> and the shy <b style='color: #32cd32; text-shadow: 0 0 8px #32cd32;'>Kodama</b>.<br>Above, the endless <b style='color: #1e90ff; text-shadow: 0 0 8px #1e90ff;'>Firmament</b> glows, yet its echo warns of lurking <b style='color: #ff1493; text-shadow: 0 0 8px #ff1493;'>Fruit Femmes</b> and alien <b style='color: #9400d3; text-shadow: 0 0 8px #9400d3;'>Higher-dimensional Beings</b>, leaving the <b style='color: #ff6f61; text-shadow: 0 0 8px #ff6f61;'>Protagonist</b> on the brink of an unresolved fate.<br>",
+    "DescriptionArabic": "<div dir='rtl'>يستيقظ <b style='color: #ff6f61; text-shadow: 0 0 8px #ff6f61;'>البطل</b> داخل <b style='color: #6a0dad; text-shadow: 0 0 8px #6a0dad;'>الفراغ اللامنتهي</b>، وهو <b style='color: #00bfff; text-shadow: 0 0 8px #00bfff;'>مشهد الأحلام</b> المتقلب الذي يهمس بغرض مفقود في الضوء المتلاشي.<br>مسترشدًا بـ <b style='color: #ffd700; text-shadow: 0 0 8px #ffd700;'>المسبحة</b> المتكسرة، يطاردون <b style='color: #ff4500; text-shadow: 0 0 8px #ff4500;'>خطوط تيامانا الطاقية</b> المتوهجة، كلٌ منها يحرسه <b style='color: #8b0000; text-shadow: 0 0 8px #8b0000;'>الحارس النهائي</b> الصامت.<br>من خلال <b style='color: #7fff00; text-shadow: 0 0 8px #7fff00;'>التحول</b> المحرم، تندمج شظايا <b style='color: #ff69b4; text-shadow: 0 0 8px #ff69b4;'>كواليا</b>، مستدعيةً حلفاءً مثل <b style='color: #ffa500; text-shadow: 0 0 8px #ffa500;'>دب الفقاعات</b> الساطع و<b style='color: #32cd32; text-shadow: 0 0 8px #32cd32;'>كوداما</b> الخجولة.<br>فوق، يضيء <b style='color: #1e90ff; text-shadow: 0 0 8px #1e90ff;'>السماوات</b> اللامتناهية، لكن صداها يحذر من <b style='color: #ff1493; text-shadow: 0 0 8px #ff1493;'>فواكه الأنثى</b> و<b style='color: #9400d3; text-shadow: 0 0 8px #9400d3;'>الكائنات متعددة الأبعاد</b> الكامنة، مما يترك <b style='color: #ff6f61; text-shadow: 0 0 8px #ff6f61;'>البطل</b> على حافة مصير غير محسوم.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
+    "Length": 20,
     "CoverUrl": "https://archive.org/download/RPRM001/Lucid%20Blocks%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Lucid%20Blocks%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Lucid%20Blocks%20Theme.mp3",
@@ -128969,8 +128990,8 @@
     "videoStart": 0,
     "videoEnd": 0,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Survival"],
+    "DeveloperNames": ["Lucy B. Locks"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -128979,9 +129000,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "1 GB",
-            "filename": "01781.zip",
             "executable": "lucid-blocks.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "9 May 2026",
+            "filename": "01781.zip"
           }
         ]
       }
@@ -128992,10 +129014,11 @@
     "_id": "game_1778560941602_1",
     "Name": "Nocturnal",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "Veteran <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Ardeshir</b> of the <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Enduring Flame</b> returns to his home <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>Nahran</b>.<br>A choking <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Mist</b> cloaks the <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Island</b>, and only the blazing <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>Fire</b> of his <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>Sword</b> can pierce it.<br>He gathers <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>Ash</b> to feed ancient <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Phoenix</b> statues, earning fleeting abilities.<br>Each ember reveals hidden <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>Secrets</b>, where shafts of <b style='color: #FFFFE0; text-shadow: 0 0 8px #FFFFE0;'>Light</b> clash with oppressive <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Darkness</b>, and his solitary <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Journey</b> raises more questions than answers.",
+    "DescriptionArabic": "<div dir='rtl'>المحارب <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Ardeshir</b> من <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>اللهب الدائم</b> يعود إلى موطنه <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>Nahran</b>.<br>الضباب <b style='color: #708090; text-shadow: 0 0 8px #708090;'>الضباب</b> يغمر <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>الجزيرة</b>، ولا يستطيع اختراقه سوى <b style='color: #FF0000; text-shadow: 0 0 8px #FF0000;'>النار</b> المتأججة من <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>السيف</b>.<br>يجمع <b style='color: #A0522D; text-shadow: 0 0 8px #A0522D;'>الرماد</b> لتغذية تماثيل <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>الفينيق</b> القديمة، مكتسبًا قدرات مؤقتة.<br>كل شرارة تكشف <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>الأسرار</b> المخفية، حيث يتصادم <b style='color: #FFFFE0; text-shadow: 0 0 8px #FFFFE0;'>النور</b> مع <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>الظلام</b> القمعي، وتُثير <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>الرحلة</b> الوحيدة المزيد من الأسئلة دون إجابات.</div>",
+    "ReleaseDate": "2023",
+    "CriticScore": 80,
+    "Length": 5,
     "CoverUrl": "https://archive.org/download/RPRM001/Nocturnal%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Nocturnal%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Nocturnal%20Theme.mp3",
@@ -129003,8 +129026,8 @@
     "videoStart": 0,
     "videoEnd": 62.902933,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Platformer"],
+    "DeveloperNames": ["Sunnyside Games"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -129013,9 +129036,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "1 GB",
-            "filename": "01782.zip",
             "executable": "Nocturnal.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "26 April 2026",
+            "filename": "01782.zip"
           }
         ]
       }
@@ -129026,10 +129050,11 @@
     "_id": "game_1778595861951_0",
     "Name": "Crash Bandicoot 2 Cortex Strikes Back",
     "SortingName": "Crash Bandicoot 00.02",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "<b style='color:#FF5733; text-shadow: 0 0 8px #FF5733;'>Crash Bandicoot</b> is snatched by the scheming <b style='color:#C70039; text-shadow: 0 0 8px #C70039;'>Dr. Neo Cortex</b>, who warns of a dangerous <b style='color:#900C3F; text-shadow: 0 0 8px #900C3F;'>planetary alignment</b>.<br><b style='color:#C70039; text-shadow: 0 0 8px #C70039;'>Cortex</b> sends <b style='color:#FF5733; text-shadow: 0 0 8px #FF5733;'>Crash Bandicoot</b> to collect twenty‑five glowing <b style='color:#581845; text-shadow: 0 0 8px #581845;'>crystals</b> hidden in the island’s <b style='color:#DAF7A6; text-shadow: 0 0 8px #DAF7A6;'>warp rooms</b>, promising to save the world.<br><b style='color:#FFC300; text-shadow: 0 0 8px #FFC300;'>Coco</b> and <b style='color:#FF8C00; text-shadow: 0 0 8px #FF8C00;'>Dr. Nitrus Brio</b> reveal the true plan: the <b style='color:#581845; text-shadow: 0 0 8px #581845;'>crystals</b> will power the <b style='color:#C70039; text-shadow: 0 0 8px #C70039;'>Cortex Vortex</b>, a mind‑controlling weapon.<br>Instead, they urge <b style='color:#FF5733; text-shadow: 0 0 8px #FF5733;'>Crash Bandicoot</b> to gather <b style='color:#900C3F; text-shadow: 0 0 8px #900C3F;'>gems</b> while battling <b style='color:#581845; text-shadow: 0 0 8px #581845;'>Tiny Tiger</b>, <b style='color:#DAF7A6; text-shadow: 0 0 8px #DAF7A6;'>Ripper Roo</b>, and the <b style='color:#FFC300; text-shadow: 0 0 8px #FFC300;'>Komodo Brothers</b> across varied levels.<br>With the <b style='color:#581845; text-shadow: 0 0 8px #581845;'>crystals</b> secured, <b style='color:#FF5733; text-shadow: 0 0 8px #FF5733;'>Crash Bandicoot</b> rockets aboard a <b style='color:#FF5733; text-shadow: 0 0 8px #FF5733;'>jetpack</b> to <b style='color:#C70039; text-shadow: 0 0 8px #C70039;'>Cortex’s</b> <b style='color:#C70039; text-shadow: 0 0 8px #C70039;'>space station</b>, confronting the villain one last time.<br>",
+    "DescriptionArabic": "<div dir='rtl'><b style='color:#FF5733; text-shadow: 0 0 8px #FF5733;'>كروش بانديكوت</b> يُختطف من قبل <b style='color:#C70039; text-shadow: 0 0 8px #C70039;'>الدكتور نيو كورتيكس</b> المخادع، الذي يحذر من <b style='color:#900C3F; text-shadow: 0 0 8px #900C3F;'>محاذاة كوكبية</b> خطيرة.<br><b style='color:#C70039; text-shadow: 0 0 8px #C70039;'>كورتيكس</b> يرسل <b style='color:#FF5733; text-shadow: 0 0 8px #FF5733;'>كروش بانديكوت</b> لجمع خمسة وعشرين <b style='color:#581845; text-shadow: 0 0 8px #581845;'>كريستالات</b> متوهجًا مخبئًا في <b style='color:#DAF7A6; text-shadow: 0 0 8px #DAF7A6;'>غرف التحويل</b> للجزيرة، واعدًا بإنقاذ العالم.<br><b style='color:#FFC300; text-shadow: 0 0 8px #FFC300;'>كوكو</b> و<b style='color:#FF8C00; text-shadow: 0 0 8px #FF8C00;'>د. نيتروس ب ريو</b> يكشفان الخطة الحقيقية: <b style='color:#581845; text-shadow: 0 0 8px #581845;'>الكريستالات</b> ستُشغل <b style='color:#C70039; text-shadow: 0 0 8px #C70039;'>دوامة كورتيكس</b>، سلاح يسيطر على العقول.<br>بدلاً من ذلك، يحثان <b style='color:#FF5733; text-shadow: 0 0 8px #FF5733;'>كروش بانديكوت</b> على جمع <b style='color:#900C3F; text-shadow: 0 0 8px #900C3F;'>جواهر</b> أثناء مواجهته <b style='color:#581845; text-shadow: 0 0 8px #581845;'>تايني تايجر</b>، <b style='color:#DAF7A6; text-shadow: 0 0 8px #DAF7A6;'>ريبر رو</b>، و<b style='color:#FFC300; text-shadow: 0 0 8px #FFC300;'>إخوان كومودو</b> عبر مستويات متنوعة.<br>بعد تأمين <b style='color:#581845; text-shadow: 0 0 8px #581845;'>الكريستالات</b>، ينطلق <b style='color:#FF5733; text-shadow: 0 0 8px #FF5733;'>كروش بانديكوت</b> على <b style='color:#FF5733; text-shadow: 0 0 8px #FF5733;'>حقيبة نفاثة</b> إلى <b style='color:#C70039; text-shadow: 0 0 8px #C70039;'>محطة فضائية</b> تابعة لـ<b style='color:#C70039; text-shadow: 0 0 8px #C70039;'>كورتيكس</b>، ليواجه الخصم للمرة الأخيرة.<br></div>",
+    "ReleaseDate": "1997",
+    "CriticScore": 100,
+    "Length": 10,
     "CoverUrl": "https://archive.org/download/RPRM001/Crash%20Bandicoot%202%20Cortex%20Strikes%20Back%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Crash%20Bandicoot%202%20Cortex%20Strikes%20Back%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Crash%20Bandicoot%202%20Cortex%20Strikes%20Back%20Theme.mp3",
@@ -129037,8 +129062,8 @@
     "videoStart": 0,
     "videoEnd": 0,
     "PlatformNames": ["Sony PlayStation"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Platformer"],
+    "DeveloperNames": ["Sony Interactive Entertainment"],
     "downloadInfo": {
       "Sony PlayStation": {
         "versions": [
@@ -129060,10 +129085,11 @@
     "_id": "game_1778595861951_1",
     "Name": "Crash Bandicoot Warped",
     "SortingName": "Crash Bandicoot 00.03",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "When <b style='color:#FF5733; text-shadow: 0 0 8px #FF5733;'>Doctor Neo Cortex</b>'s crashed station releases the mischievous <b style='color:#C70039; text-shadow: 0 0 8px #C70039;'>Uka Uka</b> and the time‑obsessed <b style='color:#900C3F; text-shadow: 0 0 8px #900C3F;'>Doctor Nefarious Tropy</b>, trouble begins.<br><b style='color:#581845; text-shadow: 0 0 8px #581845;'>Crash</b> and his sister <b style='color:#DAF7A6; text-shadow: 0 0 8px #DAF7A6;'>Coco</b> jump into the humming <b style='color:#FFC300; text-shadow: 0 0 8px #FFC300;'>Time‑Twisting Machine</b> to chase the glittering <b style='color:#FF8C00; text-shadow: 0 0 8px #FF8C00;'>Crystals</b> quickly.<br>They dash through <b style='color:#FF4500; text-shadow: 0 0 8px #FF4500;'>Ancient Egypt</b>, <b style='color:#C71585; text-shadow: 0 0 8px #C71585;'>Medieval Kingdom</b>, <b style='color:#228B22; text-shadow: 0 0 8px #228B22;'>Prehistoric Jungle</b> and neon <b style='color:#1E90FF; text-shadow: 0 0 8px #1E90FF;'>Future City</b>, spotting dazzling <b style='color:#8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>Gems</b> and hidden <b style='color:#FFD700; text-shadow: 0 0 8px #FFD700;'>Secret Warp Room</b>.<br>Gathering all <b style='color:#FF8C00; text-shadow: 0 0 8px #FF8C00;'>Crystals</b> and <b style='color:#8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>Gems</b> yields very rare <b style='color:#00CED1; text-shadow: 0 0 8px #00CED1;'>Relics</b>, unlocking extra challenges.<br>If they outwit the villains, the timeline stays bright and safe.<br>",
+    "DescriptionArabic": "<div dir='rtl'>عندما تُطلق محطة <b style='color:#FF5733; text-shadow: 0 0 8px #FF5733;'>دكتور نيو كورتيكس</b> المتحطمة كيان <b style='color:#C70039; text-shadow: 0 0 8px #C70039;'>يوكا يوكا</b> المخادع و <b style='color:#900C3F; text-shadow: 0 0 8px #900C3F;'>دكتور نيفاريوس تروبي</b> المهووس بالوقت، تبدأ المتاعب.<br><b style='color:#581845; text-shadow: 0 0 8px #581845;'>كراش</b> وأخته <b style='color:#DAF7A6; text-shadow: 0 0 8px #DAF7A6;'>كوكو</b> يقفزان داخل <b style='color:#FFC300; text-shadow: 0 0 8px #FFC300;'>آلة التواء الزمن</b> الهمّاسة لتطارد <b style='color:#FF8C00; text-shadow: 0 0 8px #FF8C00;'>الكريستالات</b> المتلألئة بسرعة.<br>إنهما يندفعان عبر <b style='color:#FF4500; text-shadow: 0 0 8px #FF4500;'>مصر القديمة</b>، <b style='color:#C71585; text-shadow: 0 0 8px #C71585;'>المملكة الوسطى</b>، <b style='color:#228B22; text-shadow: 0 0 8px #228B22;'>الغابة ما قبل التاريخ</b> و <b style='color:#1E90FF; text-shadow: 0 0 8px #1E90FF;'>مدينة المستقبل</b> النيونية، حيث يلمحان <b style='color:#8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>الجواهر</b> المتلألئة و <b style='color:#FFD700; text-shadow: 0 0 8px #FFD700;'>غرفة التحويل السري</b> المخفية.<br>جمع كل <b style='color:#FF8C00; text-shadow: 0 0 8px #FF8C00;'>الكريستالات</b> و <b style='color:#8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>الجواهر</b> يُنتج <b style='color:#00CED1; text-shadow: 0 0 8px #00CED1;'>الآثار</b> النادرة جداً، فتُفتح تحديات إضافية.<br>إذا تغلبا على الأشرار، يبقى خط الزمان مشرقاً وآمناً.<br></div>",
+    "ReleaseDate": "1998",
+    "CriticScore": 100,
+    "Length": 10,
     "CoverUrl": "https://archive.org/download/RPRM001/Crash%20Bandicoot%20Warped%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Crash%20Bandicoot%20Warped%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Crash%20Bandicoot%20Warped%20Theme.mp3",
@@ -129071,8 +129097,8 @@
     "videoStart": 8.4,
     "videoEnd": 64.4,
     "PlatformNames": ["Sony PlayStation"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Platformer"],
+    "DeveloperNames": ["Sony Interactive Entertainment"],
     "downloadInfo": {
       "Sony PlayStation": {
         "versions": [
@@ -129094,10 +129120,11 @@
     "_id": "game_1778595861951_2",
     "Name": "Crash Bandicoot",
     "SortingName": "Crash Bandicoot 00.01",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "When the mischievous <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>Crash</b> awakens on a bright <b style='color: #28A745; text-shadow: 0 0 8px #28A745;'>Island</b>, his brain fizzles from the mad scientist’s failed experiment.<br>He discovers his beloved <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Tawna</b> trapped by the towering <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>Dr. Neo Cortex</b> and must dash through wild <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Jungle</b> and humming <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>Factory</b> corridors.<br>Guided by the wise <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>Aku Aku</b>, he smashes crates, avoids the hyper‑active <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Ripper Roo</b> and outwits the hulking <b style='color: #6A5ACD; text-shadow: 0 0 8px #6A5ACD;'>Papu Papu</b>.<br>He also faces the boisterous <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Koala Kong</b>, sneaky <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Pinstripe Potoroo</b>, and bubbling <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>Dr. Nitrus Brio</b> in slapstick showdowns.<br>With each triumph he earns a glowing <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>Mask</b>, inching closer to freeing <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>Tawna</b> and restoring peace to the quirky world.<br>",
+    "DescriptionArabic": "<div dir='rtl'>عندما يستيقظ <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>كراش</b> على <b style='color: #28A745; text-shadow: 0 0 8px #28A745;'>جزيرة</b> مشرقة، يطنش دماغه من تجربة العالم المجنونة للفوق علمي.<br>يكتشف أن <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>توانا</b> أسيرة بقبضة <b style='color: #8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>د. نيو كورتيكس</b> الضخم، وعليه أن يندفع عبر <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>غابة</b> وحيوية و< b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>مصنع</b> صاخب.<br>مستعينًا بـ <b style='color: #DAA520; text-shadow: 0 0 8px #DAA520;'>أكو أكو</b> الحكيم، يكسر الصناديق، يتجنب <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>ريبر رو</b> المتحمس، ويتفوق على <b style='color: #6A5ACD; text-shadow: 0 0 8px #6A5ACD;'>بابو بابو</b> الضخم.<br>يواجه أيضًا <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>كوالا كونغ</b> الصاخب، <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>بينسترايب بوتورو</b> الماكر، و<b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>د. نيتروس بريو</b> الفقاع في معارك هزلية.<br>مع كل انتصار يحصل على <b style='color: #FF1493; text-shadow: 0 0 8px #FF1493;'>قناع</b> متوهج، يقترب أكثر من تحرير <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>توانا</b> وإعادة السلام إلى هذا العالم الغريب.<br></div>",
+    "ReleaseDate": "1996",
+    "CriticScore": 80,
+    "Length": 10,
     "CoverUrl": "https://archive.org/download/RPRM001/Crash%20Bandicoot%20Cover.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM001/Crash%20Bandicoot%20Background.jpg",
     "MusicUrl": "https://archive.org/download/RPRM001/Crash%20Bandicoot%20Theme.mp3",
@@ -129105,8 +129132,8 @@
     "videoStart": 0,
     "videoEnd": 0,
     "PlatformNames": ["Sony PlayStation"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Platformer"],
+    "DeveloperNames": ["Sony"],
     "downloadInfo": {
       "Sony PlayStation": {
         "versions": [
@@ -129129,13 +129156,194 @@
     "_id": "game_1778652588836_0",
     "Name": "Everything is Crab The Animal Evolution Roguelite",
     "SortingName": "",
+    "Description": "A curious <b style='color:#1E90FF; text-shadow: 0 0 8px #1E90FF;'>blue blob</b> awakens within a sprawling <b style='color:#32CD32; text-shadow: 0 0 8px #32CD32;'>living ecosystem</b>, where every morsel reshapes its future.<br>Legends warn of unstoppable <b style='color:#FF4500; text-shadow: 0 0 8px #FF4500;'>carcinisation</b>, a tide that forces all life toward a crab destiny unless daring <b style='color:#FFD700; text-shadow: 0 0 8px #FFD700;'>evolution</b> outpaces it.<br>The fledgling must dodge hungry <b style='color:#8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>predators</b>, outwit massive <b style='color:#FF69B4; text-shadow: 0 0 8px #FF69B4;'>bosses</b>, and cross ever‑changing <b style='color:#00CED1; text-shadow: 0 0 8px #00CED1;'>biomes</b> from deserts to frozen wastes.<br>When the <b style='color:#4B0082; text-shadow: 0 0 8px #4B0082;'>night</b> falls, hidden <b style='color:#FF8C00; text-shadow: 0 0 8px #FF8C00;'>genes</b> awaken, their secrets logged in the ancient <b style='color:#228B22; text-shadow: 0 0 8px #228B22;'>Codex</b>.<br>Each daring <b style='color:#DC143C; text-shadow: 0 0 8px #DC143C;'>challenge</b> raises the <b style='color:#4169E1; text-shadow: 0 0 8px #4169E1;'>pressure</b>, urging the creature to reinvent itself before the inevitable crab fate catches up.",
+    "DescriptionArabic": "<div dir='rtl'>تستيقظ <b style='color:#1E90FF; text-shadow: 0 0 8px #1E90FF;'>الكتلة الزرقاء</b> الفضولية داخل <b style='color:#32CD32; text-shadow: 0 0 8px #32CD32;'>النظام البيئي الحي</b> الواسع، حيث كل لقمة تعيد تشكيل مستقبلها.<br>تحذّر الأساطير من <b style='color:#FF4500; text-shadow: 0 0 8px #FF4500;'>التحول إلى سلطعون</b> المتسلسل، وهو تدفق يجبر كل الكائنات على مصير السلطعون ما لم يتفوق <b style='color:#FFD700; text-shadow: 0 0 8px #FFD700;'>التطور</b> الشجاع.<br>يجب على الصغير تجنب <b style='color:#8A2BE2; text-shadow: 0 0 8px #8A2BE2;'>المفترسين</b> الجائعين، وتفادي <b style='color:#FF69B4; text-shadow: 0 0 8px #FF69B4;'>الزعماء</b> الضخام، والعبور عبر <b style='color:#00CED1; text-shadow: 0 0 8px #00CED1;'>البيئات</b> المتقلبة من الصحارى إلى البرد القارس.<br>عندما يهبط <b style='color:#4B0082; text-shadow: 0 0 8px #4B0082;'>الليل</b>، تستفيق <b style='color:#FF8C00; text-shadow: 0 0 8px #FF8C00;'>الجينات</b> المخفية، وتُسجل أسرارها في <b style='color:#228B22; text-shadow: 0 0 8px #228B22;'>الكتاب القديم</b>.<br>كل <b style='color:#DC143C; text-shadow: 0 0 8px #DC143C;'>التحدي</b> جريء يرفع <b style='color:#4169E1; text-shadow: 0 0 8px #4169E1;'>الضغط</b>، محرضًا الكائن على تجديد نفسه قبل أن يلحق به مصير السلطعون الحتمي.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
+    "Length": 15,
+    "CoverUrl": "https://archive.org/download/RPRM001/Everything%20is%20Crab%20The%20Animal%20Evolution%20Roguelite%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Everything%20is%20Crab%20The%20Animal%20Evolution%20Roguelite%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Everything%20is%20Crab%20The%20Animal%20Evolution%20Roguelite%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Roguelite"],
+    "DeveloperNames": ["Odd Dreams Digital"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "1 GB",
+            "executable": "Everything is Crab.exe",
+            "arguments": [],
+            "buildID": "8 May 2026",
+            "filename": "01783.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778652588836_1",
+    "Name": "Subnautica 2",
+    "SortingName": "",
+    "Description": "The colony ship <b style='color:#1E90FF; text-shadow:0 0 8px #1E90FF;'>CICADA</b> shatters on the alien ocean world <b style='color:#8A2BE2; text-shadow:0 0 8px #8A2BE2;'>Zezura</b>, leaving the lone <b style='color:#FF4500; text-shadow:0 0 8px #FF4500;'>Pioneer</b> stranded amid endless waves.<br>A relentless <b style='color:#FFD700; text-shadow:0 0 8px #FFD700;'>AI</b> issues cryptic <b style='color:#32CD32; text-shadow:0 0 8px #32CD32;'>Mission</b> directives, urging deeper descent into the unknown.<br>Sunken <b style='color:#FF69B4; text-shadow:0 0 8px #FF69B4;'>Ruins</b> hint at a lost civilization, guarded by towering <b style='color:#FF6347; text-shadow:0 0 8px #FF6347;'>Leviathans</b> and silent predators.<br>Clues reveal that <b style='color:#00CED1; text-shadow:0 0 8px #00CED1;'>Alterra</b> concealed a catastrophic <b style='color:#ADFF2F; text-shadow:0 0 8px #ADFF2F;'>Experiment</b>, warping the planet's <b style='color:#9370DB; text-shadow:0 0 8px #9370DB;'>Genetics</b> and upsetting its balance.<br>Now, every breath is a gamble in the dark <b style='color:#B22222; text-shadow:0 0 8px #B22222;'>Abyss</b>, where humanity's fate hangs on a fragile thread of hope.<br>",
+    "DescriptionArabic": "<div dir='rtl'>سفينة المستعمرة <b style='color:#1E90FF; text-shadow:0 0 8px #1E90FF;'>CICADA</b> تتحطم على عالم الزئبق <b style='color:#8A2BE2; text-shadow:0 0 8px #8A2BE2;'>Zezura</b>، تاركة الـ<b style='color:#FF4500; text-shadow:0 0 8px #FF4500;'>المستكشف</b> وحيدًا بين الأمواج اللامتناهية.<br>الـ<b style='color:#FFD700; text-shadow:0 0 8px #FFD700;'>AI</b> المتعطش يصدر أوامر <b style='color:#32CD32; text-shadow:0 0 8px #32CD32;'>المهمة</b> المشفرة، تدفعه للغوص أعمق في المجهول.<br>الأطلال <b style='color:#FF69B4; text-shadow:0 0 8px #FF69B4;'>المغروسة</b> تكشف عن حضارة مفقودة، يحرسها <b style='color:#FF6347; text-shadow:0 0 8px #FF6347;'>اللوفيات</b> العملاقة ومفترسات صامتة.<br>الدلائل تُظهر أن <b style='color:#00CED1; text-shadow:0 0 8px #00CED1;'>Alterra</b> أخفت <b style='color:#ADFF2F; text-shadow:0 0 8px #ADFF2F;'>تجربة</b> كارثية، غيّرت <b style='color:#9370DB; text-shadow:0 0 8px #9370DB;'>جينات</b> الكوكب وأفسدت توازنه.<br>الآن، كل نفس يُعَدّ مقامرة في الـ<b style='color:#B22222; text-shadow:0 0 8px #B22222;'>الهوة</b> المظلمة، حيث يعلق مصير البشرية على خيط أمل هش.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": null,
+    "Length": 30,
+    "CoverUrl": "https://archive.org/download/RPRM001/Subnautica%202%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Subnautica%202%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Subnautica%202%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Survival"],
+    "DeveloperNames": ["Unknown Worlds Entertainment"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "15 GB",
+            "filename": "01784.zip",
+            "executable": "Subnautica2.exe",
+            "buildID": "CompatibleBuildNumber",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778679905218_0",
+    "Name": "Demon Lord Just a Block",
+    "SortingName": "",
+    "Description": "The disembodied <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Demon Lord</b> awakens as a floating, <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Beheaded</b> head, shards of memory flickering within the shattered empire.<br>A burning thirst drives it to reclaim the <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Lost Throne</b> from <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>Dragon Queen Heyla</b>'s iron grip, over the.<br>Through the <b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>Shadowed Forest</b> and <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Crimson Castle</b>, it finds a <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Betrayer</b> pact with the fallen heroes bound deeply.<br>The forbidden <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>Ancient Pact</b> seals <b style='color: #800080; text-shadow: 0 0 8px #800080;'>Soul Contracts</b> in <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>blood</b>, binding the demon's destiny to the cursed realm forever.<br>Now it faces the truth of the <b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>Sealed Realm</b> and chooses <b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>Eternal Vengeance</b> or fragile peace for the.",
+    "DescriptionArabic": "<div dir='rtl'>يستفيق الـ<b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>شيطان لورد</b> غير المتجسد كرأس عائم <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>مقطوع الرأس</b>، تتراقص شظايا الذاكرة داخل الإمبراطورية المدمرة.<br>يدفعه شغف حارق لاستعادة الـ<b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>عرش المفقود</b> من قبضة <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>الملكة التنين هيلا</b> الحديدية، فوقها.<br>عبر الـ<b style='color: #1E90FF; text-shadow: 0 0 8px #1E90FF;'>الغابة المظللة</b> والـ<b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>قلعة القرمزية</b>، يكتشف ميثاقًا <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>الخائن</b> مع الأبطال الساقطين المربوطين بعمق.<br>العهد <b style='color: #2E8B57; text-shadow: 0 0 8px #2E8B57;'>القديم</b> يحكم <b style='color: #800080; text-shadow: 0 0 8px #800080;'>عقود الروح</b> في <b style='color: #FF69B4; text-shadow: 0 0 8px #FF69B4;'>دم</b>، رابطًا مصير الشيطان إلى العالم الملعون إلى الأبد.<br>الآن يواجه الحقيقة في الـ<b style='color: #00CED1; text-shadow: 0 0 8px #00CED1;'>العالم المختوم</b> ويختار بين الـ<b style='color: #7FFF00; text-shadow: 0 0 8px #7FFF00;'>الانتقام الأبدي</b> أو سلامٍ هش من أجل العالم.</div>",
+    "ReleaseDate": "2026",
+    "CriticScore": 80,
+    "Length": 10,
+    "CoverUrl": "https://archive.org/download/RPRM001/Demon%20Lord%20Just%20a%20Block%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Demon%20Lord%20Just%20a%20Block%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Demon%20Lord%20Just%20a%20Block%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Roguelite"],
+    "DeveloperNames": ["YuWave"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "DemonLordJustABlock.exe",
+            "arguments": [],
+            "buildID": "13 May 2026",
+            "filename": "01785.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778679905218_1",
+    "Name": "Dragon Marked For Death",
+    "SortingName": "",
+    "Description": "When the ruthless <b style='color: #d32f2f; text-shadow: 0 0 8px #d32f2f;'>Kingdom of Medius</b> razed the hidden valley of the <b style='color: #4a148c; text-shadow: 0 0 8px #4a148c;'>Dragonblood Clan</b>, it also seized the sacred <b style='color: #1565c0; text-shadow: 0 0 8px #1565c0;'>Oracle Amica</b> and left the survivors craving vengeance.<br>The four champions – the fierce <b style='color: #ff6f00; text-shadow: 0 0 8px #ff6f00;'>Empress</b>, stalwart <b style='color: #2e7d32; text-shadow: 0 0 8px #2e7d32;'>Warrior</b>, swift <b style='color: #00695c; text-shadow: 0 0 8px #00695c;'>Shinobi</b>, and arcane <b style='color: #c51162; text-shadow: 0 0 8px #c51162;'>Witch</b> forged a <b style='color: #ffab00; text-shadow: 0 0 8px #ffab00;'>Pact</b> with the enigmatic <b style='color: #283593; text-shadow: 0 0 8px #283593;'>Astral Dragon Atruum</b> to claim its terrible power.<br>Empowered, they trek across a bleak <b style='color: #5d4037; text-shadow: 0 0 8px #5d4037;'>dark‑fantasy world</b>, battling cursed legions and unearthing <b style='color: #006064; text-shadow: 0 0 8px #006064;'>ancient ruins</b> that whisper the dragon’s true intent.<br>Their quest ends in cataclysmic clashes with <b style='color: #ff1744; text-shadow: 0 0 8px #ff1744;'>gargantuan bosses</b> whose fall could shatter Medius’ iron grip.<br>Haunted by <b style='color: #9e9d24; text-shadow: 0 0 8px #9e9d24;'>revenge</b>, they walk a <b style='color: #8e24aa; text-shadow: 0 0 8px #8e24aa;'>blood‑soaked path</b>, uncovering <b style='color: #006064; text-shadow: 0 0 8px #006064;'>ancient ruins</b> that reveal the dragon’s scheme.",
+    "DescriptionArabic": "<div dir='rtl'>عندما دمرت <b style='color: #d32f2f; text-shadow: 0 0 8px #d32f2f;'>مملكة ميديوس</b> الوادي المخفي لـ <b style='color: #4a148c; text-shadow: 0 0 8px #4a148c;'>عشيرة دم التنين</b>، أسروا أيضًا <b style='color: #1565c0; text-shadow: 0 0 8px #1565c0;'>العرافة أمِكا</b> وتركوا الناجين يشتاقون إلى الانتقام.<br>الأبطال الأربعة – <b style='color: #ff6f00; text-shadow: 0 0 8px #ff6f00;'>الإمبراطور</b>، <b style='color: #2e7d32; text-shadow: 0 0 8px #2e7d32;'>المحارب</b>، <b style='color: #00695c; text-shadow: 0 0 8px #00695c;'>النينجا</b> و<b style='color: #c51162; text-shadow: 0 0 8px #c51162;'>الساحرة</b> شكلوا <b style='color: #ffab00; text-shadow: 0 0 8px #ffab00;'>عهدًا</b> مع <b style='color: #283593; text-shadow: 0 0 8px #283593;'>التنين السماوي أتروم</b> لاستمداد قوته الرهيبة.<br>مسلحين، يجوبون <b style='color: #5d4037; text-shadow: 0 0 8px #5d4037;'>عالم خيال مظلم</b>، يقاتلون جيوشًا ملعونة ويكتشفون <b style='color: #006064; text-shadow: 0 0 8px #006064;'>الأطلال القديمة</b> التي تهمس بنوايا التنين.<br>مواجهتهم الأخيرة مع <b style='color: #ff1744; text-shadow: 0 0 8px #ff1744;'>الزعماء الضخمين</b> قد تمزق قبضة ميديوس الحديدية إذا سقطوا.<br>مطرودون من وعد <b style='color: #9e9d24; text-shadow: 0 0 8px #9e9d24;'>الانتقام</b>، يسيرون في <b style='color: #8e24aa; text-shadow: 0 0 8px #8e24aa;'>درب دموي</b>، ويكشفون <b style='color: #006064; text-shadow: 0 0 8px #006064;'>الأطلال القديمة</b> التي تكشف مخطط التنين النهائي.</div>",
+    "ReleaseDate": "2019",
+    "CriticScore": 60,
+    "Length": 30,
+    "CoverUrl": "https://archive.org/download/RPRM001/Dragon%20Marked%20For%20Death%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Dragon%20Marked%20For%20Death%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Dragon%20Marked%20For%20Death%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["RPG"],
+    "DeveloperNames": ["Inti Creates"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "822 MB",
+            "executable": "game.exe",
+            "arguments": [],
+            "buildID": "30 October 2020",
+            "filename": "01786.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778680248651_0",
+    "Name": "Star Wars Jedi Knight II Jedi Outcast",
+    "SortingName": "",
+    "Description": "When the galaxy still bears Empire's scars, ex‑mercenary <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>Kyle Katarn</b> lives in exile, having forsaken his <b style='color: #33FF57; text-shadow: 0 0 8px #33FF57;'>lightsaber</b> and the Force.<br>An assault on the outpost <b style='color: #3357FF; text-shadow: 0 0 8px #3357FF;'>Kejim</b> pulls him back, revealing dark Jedi <b style='color: #FF33A1; text-shadow: 0 0 8px #FF33A1;'>Desann</b>'s plot to weaponize the <b style='color: #A133FF; text-shadow: 0 0 8px #A133FF;'>Valley of the Jedi</b>.<br>Guided by the steadfast pilot <b style='color: #33FFF5; text-shadow: 0 0 8px #33FFF5;'>Jan Ors</b> and the charismatic <b style='color: #F5FF33; text-shadow: 0 0 8px #F5FF33;'>Lando Calrissian</b>, Katarn journeys to the floating metropolis of <b style='color: #FF8C33; text-shadow: 0 0 8px #FF8C33;'>Cloud City</b>, confronting the cyber‑enhanced soldiers known as <b style='color: #8C33FF; text-shadow: 0 0 8px #8C33FF;'>Reborn</b> and the armored <b style='color: #33FF8C; text-shadow: 0 0 8px #33FF8C;'>Shadowtrooper</b>.<br>With Jedi Master <b style='color: #FF3333; text-shadow: 0 0 8px #FF3333;'>Luke Skywalker</b> on <b style='color: #33FF33; text-shadow: 0 0 8px #33FF33;'>Yavin IV</b>, he reclaims his blade and infiltrates the <b style='color: #3333FF; text-shadow: 0 0 8px #3333FF;'>Imperial Remnant</b> warship <b style='color: #FF33FF; text-shadow: 0 0 8px #FF33FF;'>Doomgiver</b> to rescue his ally.<br>",
+    "DescriptionArabic": "<div dir='rtl'>عندما لا يزال المجرة تحمل ندوب الإمبراطورية، يعيش المرتزق السابق <b style='color: #FF5733; text-shadow: 0 0 8px #FF5733;'>كايل كاتران</b> في منفاه، وقد تخلى عن <b style='color: #33FF57; text-shadow: 0 0 8px #33FF57;'>سيف الضوء</b> والقوة.<br>هجوم على موقع <b style='color: #3357FF; text-shadow: 0 0 8px #3357FF;'>كيم</b> يجذبه مرة أخرى، كاشفًا عن مخطط الجيداي المظلم <b style='color: #FF33A1; text-shadow: 0 0 8px #FF33A1;'>ديسان</b> لتسليح <b style='color: #A133FF; text-shadow: 0 0 8px #A133FF;'>وادي الجيداي</b>.<br>بتوجيه من الطيار المخلص <b style='color: #33FFF5; text-shadow: 0 0 8px #33FFF5;'>جان أورس</b> والساخر <b style='color: #F5FF33; text-shadow: 0 0 8px #F5FF33;'>لاندو كالريس</b>, يتجه كاتران إلى مدينة السحاب العائمة، مواجهًا الجنود المدعومين بالتحسينات السيبرانية المعروفين بـ <b style='color: #8C33FF; text-shadow: 0 0 8px #8C33FF;'>ري بورن</b> وجندي الظل المدرع <b style='color: #33FF8C; text-shadow: 0 0 8px #33FF8C;'>شادو تروبر</b>.<br>مع الماستر الجيداي <b style='color: #FF3333; text-shadow: 0 0 8px #FF3333;'>لوك سكاي ووكر</b> على <b style='color: #33FF33; text-shadow: 0 0 8px #33FF33;'>يافين الرابع</b>, يستعيد سيفه ويتسلل إلى سفينة <b style='color: #3333FF; text-shadow: 0 0 8px #3333FF;'>بقايا الإمبراطورية</b> <b style='color: #FF33FF; text-shadow: 0 0 8px #FF33FF;'>دوومجيفر</b> لإنقاذ حليفه.<br></div>",
+    "ReleaseDate": "2002",
+    "CriticScore": 80,
+    "Length": 15,
+    "CoverUrl": "https://archive.org/download/RPRM001/Star%20Wars%20Jedi%20Knight%20II%20Jedi%20Outcast%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Star%20Wars%20Jedi%20Knight%20II%20Jedi%20Outcast%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Star%20Wars%20Jedi%20Knight%20II%20Jedi%20Outcast%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Shooter"],
+    "DeveloperNames": ["Activision"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "601 MB",
+            "executableFiles": ["jk2sp.exe", "jk2mp.exe"],
+            "executableLabels": ["Story Mode", "Multiplayer"],
+            "arguments": [],
+            "buildID": "21 October 2013",
+            "filename": "01787.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778680248652_1",
+    "Name": "Star Wars Jedi Knight Jedi Academy",
+    "SortingName": "",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
     "CriticScore": null,
-    "CoverUrl": "https://archive.org/download/RPRM001/Everything%20is%20Crab%20The%20Animal%20Evolution%20Roguelite%20Cover.jpg",
-    "BackgroundUrl": "https://archive.org/download/RPRM001/Everything%20is%20Crab%20The%20Animal%20Evolution%20Roguelite%20Background.jpg",
-    "MusicUrl": "https://archive.org/download/RPRM001/Everything%20is%20Crab%20The%20Animal%20Evolution%20Roguelite%20Theme.mp3",
+    "CoverUrl": "https://archive.org/download/RPRM001/Star%20Wars%20Jedi%20Knight%20Jedi%20Academy%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Star%20Wars%20Jedi%20Knight%20Jedi%20Academy%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Star%20Wars%20Jedi%20Knight%20Jedi%20Academy%20Theme.mp3",
     "YouTubeUrl": "",
     "videoStart": null,
     "videoEnd": null,
@@ -129150,9 +129358,11 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "1 GB",
-            "filename": "01783.zip",
-            "executable": "Everything is Crab.exe",
-            "arguments": []
+            "executableFiles": ["jasp.exe", "jamp.exe"],
+            "executableLabels": ["Story Mode", "Multiplayer"],
+            "arguments": [],
+            "buildID": "21 October 2013",
+            "filename": "01788.zip"
           }
         ]
       }
@@ -129160,16 +129370,52 @@
     "Tags": ["Hide"]
   },
   {
-    "_id": "game_1778652588836_1",
-    "Name": "Subnautica 2",
+    "_id": "game_1778680248652_2",
+    "Name": "Star Wars Republic Commando",
+    "SortingName": "",
+    "Description": "When the <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>Clone Wars</b> erupt, <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>Delta Squad</b> launches from <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>Kamino</b> to infiltrate <b style='color: #800080; text-shadow: 0 0 8px #800080;'>Geonosis</b> and eliminate the Separatist lieutenant <b style='color: #A020F0; text-shadow: 0 0 8px #A020F0;'>Sun Fac</b>.<br>Led by the stoic commander <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>Boss</b>, the team of <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>Scorch</b>, <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Fixer</b> and <b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>Sev</b> executes a daring breach that triggers a cascade of sabotage across the droid factories.<br>After the Geonosis mission, orders from the <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>Jedi Advisor</b> send them to a derelict <b style='color: #708090; text-shadow: 0 0 8px #708090;'>Republic Assault Ship</b> where they discover a hidden Trandoshan slave crew and a plot to sell the vessel to the Separatists.<br>The squad fights through the ship’s corridors, rescues the captive <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>Wookiee chieftain Tarfful</b>, and cripples the enemy’s launch codes before a massive <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>Core Ship</b> arrives, forcing a desperate stand.<br>Their final task leads them to the jungle world of <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>Kashyyyk</b>, where they must halt a Trandoshan supply depot, confront the looming presence of <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>General Grievous</b>, and trigger the first thunderous battle that will shape the Republic’s fate.<br>",
+    "DescriptionArabic": "<div dir='rtl'>عندما تنفجر <b style='color: #8B0000; text-shadow: 0 0 8px #8B0000;'>حروب المستنسخين</b>، ينطلق <b style='color: #2F4F4F; text-shadow: 0 0 8px #2F4F4F;'>فريق دلتا</b> من <b style='color: #4B0082; text-shadow: 0 0 8px #4B0082;'>كامينو</b> للتسلل إلى <b style='color: #800080; text-shadow: 0 0 8px #800080;'>جيوونوسيس</b> وإقصاء الضابط الانفصالي <b style='color: #A020F0; text-shadow: 0 0 8px #A020F0;'>سَن فاك</b>.<br>يقودهم القائد الصامد <b style='color: #FF4500; text-shadow: 0 0 8px #FF4500;'>بوس</b>، مع فريقه من <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>سكورش</b>، <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>فيكسر</b> و<b style='color: #8B008B; text-shadow: 0 0 8px #8B008B;'>سيف</b> الذين ينفذون اختراقًا جريئًا يطلق سلسلة من التخريب عبر مصانع الدرويد.<br>بعد مهمة جيوونوسيس، تصدر أوامر <b style='color: #FFD700; text-shadow: 0 0 8px #FFD700;'>المستشار الجيدي</b> لإرسالهم إلى <b style='color: #708090; text-shadow: 0 0 8px #708090;'>سفينة هجوم الجمهورية</b> المهجورة حيث يكتشفون طاقمًا سجينًا من التراندوشان ومخططًا لبيع السفينة للانفصاليين.<br>يخوض الفريق معارك داخل ممرات السفينة، وينقذون <b style='color: #32CD32; text-shadow: 0 0 8px #32CD32;'>زعيم الوكي تارفول</b>، ويعطلون رموز الإطلاق للعدو قبل وصول <b style='color: #FF8C00; text-shadow: 0 0 8px #FF8C00;'>السفينة الأساسية</b> الضخمة، ما يجبرهم على الوقوف بشجاعة.<br>مهمتهم الأخيرة تقودهم إلى عالم الغابة <b style='color: #228B22; text-shadow: 0 0 8px #228B22;'>كاشيك</b>، حيث يجب أن يوقفوا مستودع إمدادات التراندوشان، ويواجهوا حضور <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>الجنرال غريفوس</b> المتربص، ويشعلوا أول معركة رعدية ستشكل مستقبل الجمهورية.<br></div>",
+    "ReleaseDate": "2005",
+    "CriticScore": 80,
+    "Length": 10,
+    "CoverUrl": "https://archive.org/download/RPRM001/Star%20Wars%20Republic%20Commando%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Star%20Wars%20Republic%20Commando%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Star%20Wars%20Republic%20Commando%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Shooter"],
+    "DeveloperNames": ["Disney"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "GameData\\System\\SWRepublicCommando.exe",
+            "arguments": [],
+            "buildID": "1 May 2014",
+            "filename": "01789.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778748067191_0",
+    "Name": "Star Wars Battlefront",
     "SortingName": "",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
     "CriticScore": null,
-    "CoverUrl": "https://archive.org/download/RPRM001/Subnautica%202%20Cover.jpg",
-    "BackgroundUrl": "https://archive.org/download/RPRM001/Subnautica%202%20Background.jpg",
-    "MusicUrl": "https://archive.org/download/RPRM001/Subnautica%202%20Theme.mp3",
+    "CoverUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Battlefront%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Battlefront%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Battlefront%20Theme.mp3",
     "YouTubeUrl": "",
     "videoStart": null,
     "videoEnd": null,
@@ -129183,10 +129429,888 @@
             "identifier": "RPRP032",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "15 GB",
-            "filename": "01784.zip",
-            "executable": "Subnautica2.exe",
-            "buildID": "CompatibleBuildNumber",
+            "fileSize": "52 GB",
+            "filename": "01790.zip",
+            "executable": "starwarsbattlefront.exe",
+            "buildID": "dbdata",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778748067193_1",
+    "Name": "Star Wars Battlefront Classic Collection",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Battlefront%20Classic%20Collection%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Battlefront%20Classic%20Collection%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Battlefront%20Classic%20Collection%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "35 GB",
+            "executable": "Battlefront.exe",
+            "arguments": [],
+            "buildID": "20 June 2024",
+            "filename": "01791.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778748067193_2",
+    "Name": "Star Wars Battlefront II",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Battlefront%20II%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Battlefront%20II%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Battlefront%20II%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "90 GB",
+            "executable": "starwarsbattlefrontii.exe",
+            "arguments": [],
+            "buildID": "31 January 2023",
+            "filename": "01792.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778748067193_3",
+    "Name": "Star Wars Bounty Hunter Remaster",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Bounty%20Hunter%20Remaster%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Bounty%20Hunter%20Remaster%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Bounty%20Hunter%20Remaster%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "10 GB",
+            "executable": "TangoPC.exe",
+            "arguments": [],
+            "buildID": "21 November 2024",
+            "filename": "01793.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778748067193_4",
+    "Name": "Star Wars Dark Forces Remaster",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Dark%20Forces%20Remaster%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Dark%20Forces%20Remaster%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Dark%20Forces%20Remaster%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "khonsu_Shipping_Steam_x64.exe",
+            "arguments": [],
+            "buildID": "7 May 2024",
+            "filename": "01794.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778748067193_5",
+    "Name": "Star Wars Episode I Jedi Power Battles",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Episode%20I%20Jedi%20Power%20Battles%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Episode%20I%20Jedi%20Power%20Battles%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Episode%20I%20Jedi%20Power%20Battles%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "executable": "game.exe",
+            "arguments": [],
+            "buildID": "17 April 2025",
+            "filename": "01795.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778748067193_6",
+    "Name": "Star Wars Knights of the Old Republic",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Knights%20of%20the%20Old%20Republic%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Knights%20of%20the%20Old%20Republic%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Knights%20of%20the%20Old%20Republic%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executableFiles": ["swkotor.exe", "swconfig.exe"],
+            "executableLabels": ["Game", "Configure"],
+            "arguments": [],
+            "buildID": "27 August 2019",
+            "filename": "01796.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778748067193_7",
+    "Name": "Star Wars Knights of the Old Republic II",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Knights%20of%20the%20Old%20Republic%20II%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Knights%20of%20the%20Old%20Republic%20II%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Knights%20of%20the%20Old%20Republic%20II%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "executable": "swkotor2.exe",
+            "arguments": [],
+            "buildID": "15 October 2015",
+            "filename": "01797.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778748067193_8",
+    "Name": "Star Wars Squadrons",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Squadrons%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Squadrons%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Squadrons%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "31 GB",
+            "executable": "starwarssquadrons.exe",
+            "arguments": [],
+            "buildID": "10 February 2022",
+            "filename": "01798.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778748067193_9",
+    "Name": "Star Wars The Force Unleashed",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20The%20Force%20Unleashed%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20The%20Force%20Unleashed%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20The%20Force%20Unleashed%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "29 GB",
+            "executable": "SWTFU.exe",
+            "arguments": [],
+            "buildID": "29 November 2016",
+            "filename": "01799.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778748067193_10",
+    "Name": "Star Wars The Force Unleashed II",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20The%20Force%20Unleashed%20II%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20The%20Force%20Unleashed%20II%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20The%20Force%20Unleashed%20II%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "9 GB",
+            "executable": "SWTFU2.exe",
+            "arguments": [],
+            "buildID": "7 May 2016",
+            "filename": "01800.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778748964621_0",
+    "Name": "Star Wars Rogue Squadron",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Rogue%20Squadron%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Rogue%20Squadron%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Rogue%20Squadron%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["Nintendo 64"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo 64": {
+        "versions": [
+          {
+            "identifier": "e03e03",
+            "name": "Vanilla",
+            "platform": "Nintendo 64",
+            "fileSize": "16 MB",
+            "filename": "STAR WARS Rogue Squadron.z64",
+            "romFile": "STAR WARS Rogue Squadron.z64",
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\mupen64plus_next_libretro.dll"]
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778749303300_0",
+    "Name": "Star Wars Rogue Squadron II Rogue Leader",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Rogue%20Squadron%20II%20Rogue%20Leader%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Rogue%20Squadron%20II%20Rogue%20Leader%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Rogue%20Squadron%20II%20Rogue%20Leader%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["Nintendo GameCube"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo GameCube": {
+        "versions": [
+          {
+            "identifier": "retro-dolphin",
+            "name": "Vanilla",
+            "platform": "Nintendo GameCube",
+            "fileSize": "1 GB",
+            "filename": "STAR WARS Rogue Squadron II Rogue Leader.iso",
+            "romFile": "STAR WARS Rogue Squadron II Rogue Leader.iso",
+            "emulator": "Dolphin",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778749303300_1",
+    "Name": "Star Wars Rogue Squadron III Rebel Strike",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Rogue%20Squadron%20III%20Rebel%20Strike%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Rogue%20Squadron%20III%20Rebel%20Strike%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Rogue%20Squadron%20III%20Rebel%20Strike%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["Nintendo GameCube"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo GameCube": {
+        "versions": [
+          {
+            "identifier": "retro-dolphin",
+            "name": "Vanilla",
+            "platform": "Nintendo GameCube",
+            "fileSize": "1 GB",
+            "filename": "STAR WARS Rogue Squadron III Rebel Strike.iso",
+            "romFile": "STAR WARS Rogue Squadron III Rebel Strike.iso",
+            "emulator": "Dolphin",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778749387313_0",
+    "Name": "Star Wars Jedi Starfighter",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Jedi%20Starfighter%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Jedi%20Starfighter%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Jedi%20Starfighter%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["Sony PlayStation 2"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "2 GB",
+            "filename": "STAR WARS Jedi Starfighter.iso",
+            "romFile": "STAR WARS Jedi Starfighter.iso",
+            "emulator": "PCSX2",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778749463041_0",
+    "Name": "Star Wars Empire at War",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Empire%20at%20War%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Empire%20at%20War%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Empire%20at%20War%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "executable": "GameData\\sweaw.exe",
+            "arguments": [],
+            "buildID": "22 October 2024",
+            "filename": "01801.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778749504987_0",
+    "Name": "Black Jacket",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Black%20Jacket%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Black%20Jacket%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Black%20Jacket%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "BlackJacket.exe",
+            "arguments": [],
+            "buildID": "13 May 2026",
+            "filename": "01802.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778749504987_1",
+    "Name": "Dragon Quest Heroes",
+    "SortingName": "Dragon Quest Heroes 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Dragon%20Quest%20Heroes%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Dragon%20Quest%20Heroes%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Dragon%20Quest%20Heroes%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "20 GB",
+            "executableFiles": ["DQH.exe", "Config.exe"],
+            "executableLabels": ["Game", "Configure"],
+            "arguments": [],
+            "buildID": "3 August 2016",
+            "filename": "01803.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778749504987_2",
+    "Name": "Dragon Quest Heroes II",
+    "SortingName": "Dragon Quest Heroes 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Dragon%20Quest%20Heroes%20II%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Dragon%20Quest%20Heroes%20II%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Dragon%20Quest%20Heroes%20II%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "30 GB",
+            "executableFiles": ["DQH2.exe", "Config.exe"],
+            "executableLabels": ["Game", "Configure"],
+            "arguments": [],
+            "buildID": "1 June 2017",
+            "filename": "01804.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778749504987_3",
+    "Name": "NITRO GEN OMEGA",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/NITRO%20GEN%20OMEGA%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/NITRO%20GEN%20OMEGA%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/NITRO%20GEN%20OMEGA%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Overdrive.exe",
+            "arguments": [],
+            "buildID": "12 May 2026",
+            "filename": "01805.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778750319856_0",
+    "Name": "Star Wars Racer Revenge",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Racer%20Revenge%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Racer%20Revenge%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/STAR%20WARS%20Racer%20Revenge%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["Sony PlayStation 2"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "423 MB",
+            "filename": "STAR WARS Racer Revenge.chd",
+            "romFile": "STAR WARS Racer Revenge.chd",
+            "emulator": "PCSX2",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778752916601_0",
+    "Name": "Vultures Scavengers of Death Prelude",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Vultures%20Scavengers%20of%20Death%20Prelude%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Vultures%20Scavengers%20of%20Death%20Prelude%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Vultures%20Scavengers%20of%20Death%20Prelude%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP032",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "vultures.exe",
+            "arguments": [],
+            "buildID": "14 May 2026",
+            "filename": "01806.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778772050658_0",
+    "Name": "NBA Street",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/NBA%20Street%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/NBA%20Street%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/NBA%20Street%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["Sony PlayStation 2"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "P0211",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "298 MB",
+            "filename": "NBA Street.chd",
+            "romFile": "NBA Street.chd",
+            "emulator": "PCSX2",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778772657979_0",
+    "Name": "Pac Man World Rally",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Pac%20Man%20World%20Rally%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Pac%20Man%20World%20Rally%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Pac%20Man%20World%20Rally%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["Nintendo GameCube"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo GameCube": {
+        "versions": [
+          {
+            "identifier": "retro-dolphin",
+            "name": "Vanilla",
+            "platform": "Nintendo GameCube",
+            "fileSize": "389 MB",
+            "filename": "Pac-Man World Rally.rvz",
+            "romFile": "Pac-Man World Rally.rvz",
+            "emulator": "Dolphin",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778772657979_1",
+    "Name": "X Men Legends II Rise of Apocalypse",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/X%20Men%20Legends%20II%20Rise%20of%20Apocalypse%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/X%20Men%20Legends%20II%20Rise%20of%20Apocalypse%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/X%20Men%20Legends%20II%20Rise%20of%20Apocalypse%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["Nintendo GameCube"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo GameCube": {
+        "versions": [
+          {
+            "identifier": "retro-dolphin",
+            "name": "Vanilla",
+            "platform": "Nintendo GameCube",
+            "fileSize": "1 GB",
+            "filename": "X-Men Legends II Rise of Apocalypse.rvz",
+            "romFile": "X-Men Legends II Rise of Apocalypse.rvz",
+            "emulator": "Dolphin",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1778772657979_2",
+    "Name": "X Men Legends",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/X%20Men%20Legends%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/X%20Men%20Legends%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/X%20Men%20Legends%20Theme.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["Nintendo GameCube"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo GameCube": {
+        "versions": [
+          {
+            "identifier": "retro-dolphin",
+            "name": "Vanilla",
+            "platform": "Nintendo GameCube",
+            "fileSize": "1 GB",
+            "filename": "X-Men Legends.rvz",
+            "romFile": "X-Men Legends.rvz",
+            "emulator": "Dolphin",
             "arguments": []
           }
         ]
