@@ -48700,7 +48700,7 @@
             "identifier": "RPRP007",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "27.3GB",
+            "fileSize": "30GB",
             "arguments": [],
             "buildID": "3 December 2025",
             "executable": "nightreign.exe",
@@ -48710,9 +48710,9 @@
             "identifier": "RPRP010",
             "name": "Online",
             "platform": "PC Game",
-            "fileSize": "27GB",
+            "fileSize": "30GB",
             "arguments": [],
-            "buildID": "1.03.2 & 1.1.2",
+            "buildID": "2 February 2026 [1.03.2 & 1.1.2]",
             "executable": "nrsc_launcher.exe",
             "filename": "00344.zip"
           }
@@ -87567,7 +87567,7 @@
             "platform": "PC Game",
             "executable": "ersc_launcher.exe",
             "fileSize": "66GB",
-            "buildID": "1.16.1 & 1.9.3",
+            "buildID": "18 February 2026 [1.16.1 & 1.9.3]",
             "filename": "00194.zip"
           }
         ]
@@ -130182,7 +130182,7 @@
   {
     "_id": "game_1778772050658_0",
     "Name": "NBA Street",
-    "SortingName": "",
+    "SortingName": "NBA 01",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -130318,5 +130318,73 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1778876327698_0",
+    "Name": "NBA Street V3",
+    "SortingName": "NBA 03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/NBA%20Street%20V3%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/NBA%20Street%20V3%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/NBA%20Street%20V3%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/NBA%20Street%20V3%20Trailer.mp4",
+    "videoStart": 12.1,
+    "videoEnd": 36.871113,
+    "PlatformNames": ["Nintendo GameCube"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo GameCube": {
+        "versions": [
+          {
+            "identifier": "retro-dolphin",
+            "name": "Vanilla",
+            "platform": "Nintendo GameCube",
+            "fileSize": "939 MB",
+            "filename": "NBA Street V3.rvz",
+            "romFile": "NBA Street V3.rvz",
+            "emulator": "Dolphin",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1778876327698_1",
+    "Name": "NBA Street Vol. 2",
+    "SortingName": "NBA 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/NBA%20Street%20Vol.%202%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/NBA%20Street%20Vol.%202%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/NBA%20Street%20Vol.%202%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/NBA%20Street%20Vol%202%20Trailer.mp4",
+    "videoStart": 6.6,
+    "videoEnd": 47.194211,
+    "PlatformNames": ["Nintendo GameCube"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo GameCube": {
+        "versions": [
+          {
+            "identifier": "retro-dolphin",
+            "name": "Vanilla",
+            "platform": "Nintendo GameCube",
+            "fileSize": "757 MB",
+            "filename": "NBA Street Vol. 2.rvz",
+            "romFile": "NBA Street Vol. 2.rvz",
+            "emulator": "Dolphin",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
