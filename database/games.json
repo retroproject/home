@@ -130486,5 +130486,38 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1778941476485_0",
+    "Name": "Outbound",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Outbound%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Outbound%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Outbound%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Outbound%20Trailer.mp4",
+    "videoStart": 0.807591,
+    "videoEnd": 120.146695,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP033",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "12 GB",
+            "filename": "01812.zip",
+            "executable": "Outbound.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
