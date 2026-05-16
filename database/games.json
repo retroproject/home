@@ -130386,5 +130386,105 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1778913874663_0",
+    "Name": "Crime Boss Rockay City",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Crime%20Boss%20Rockay%20City%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Crime%20Boss%20Rockay%20City%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Crime%20Boss%20Rockay%20City%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Crime%20Boss%20Rockay%20City%20Trailer.mp4",
+    "videoStart": 2.597211,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP033",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "93 GB",
+            "filename": "01809.zip",
+            "executable": "CrimeBoss.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1778913874663_1",
+    "Name": "Underling Uprising",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Underling%20Uprising%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Underling%20Uprising%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Underling%20Uprising%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Underling%20Uprising%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP033",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "1 GB",
+            "filename": "01810.zip",
+            "executable": "Underling Uprising.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Need Music"]
+  },
+  {
+    "_id": "game_1778934933401_0",
+    "Name": "Tavern Manager Simulator",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Tavern%20Manager%20Simulator%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Tavern%20Manager%20Simulator%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Tavern%20Manager%20Simulator%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Tavern%20Manager%20Simulator%20Trailer.mp4",
+    "videoStart": 0,
+    "videoEnd": 65.684023,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP033",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "01811.zip",
+            "executable": "Tavern Manager Simulator.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
