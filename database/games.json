@@ -72345,11 +72345,20 @@
         "versions": [
           {
             "identifier": "CPC12",
-            "filename": "Dying Light.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "DyingLightGame.exe",
-            "fileSize": "28GB"
+            "fileSize": "28GB",
+            "filename": "Dying Light.zip"
+          },
+          {
+            "identifier": "RPRP033",
+            "name": "Online",
+            "platform": "PC Game",
+            "executable": "DyingLightGame.exe",
+            "fileSize": "28GB",
+            "buildID": "13 August 2025 [1.52.0]",
+            "filename": "01813.zip"
           }
         ]
       }
@@ -104585,7 +104594,7 @@
             "fileSize": "20 GB",
             "executable": "Jotunnslayer.exe",
             "arguments": [],
-            "buildID": "3 September 2025",
+            "buildID": "14 May 2026",
             "filename": "00045.zip"
           }
         ]
