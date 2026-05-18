@@ -115779,7 +115779,7 @@
             "fileSize": "31 GB",
             "executable": "RelicCoH3.exe",
             "arguments": [],
-            "buildID": "29 January 2026",
+            "buildID": "15 May 2026",
             "filename": "00380.zip"
           }
         ]
@@ -128788,16 +128788,8 @@
             "executable": "forzahorizon6.exe",
             "arguments": [],
             "buildID": "10 May 2026",
-            "filename": "01773.zip"
-          },
-          {
-            "identifier": "RPRP032",
-            "name": "Crash Fix",
-            "platform": "PC Game",
-            "fileSize": "10MB",
-            "arguments": [],
-            "buildID": "10 May 2026",
-            "filename": "01773 Fix.zip"
+            "executableFiles": ["forzahorizon6.exe"],
+            "filenames": ["01773.zip"]
           }
         ]
       }
