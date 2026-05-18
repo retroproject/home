@@ -130520,5 +130520,73 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1779081085804_0",
+    "Name": "Lost in Shadow",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Lost%20in%20Shadow%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Lost%20in%20Shadow%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Lost%20in%20Shadow%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Lost%20in%20Shadow%20Trailer.mp4",
+    "videoStart": 5,
+    "videoEnd": 0,
+    "PlatformNames": ["Nintendo Wii"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Wii": {
+        "versions": [
+          {
+            "identifier": "W05E05",
+            "name": "Vanilla",
+            "platform": "Nintendo Wii",
+            "fileSize": "4 GB",
+            "filename": "Lost in Shadow.iso",
+            "romFile": "Lost in Shadow.iso",
+            "emulator": "Dolphin",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1779081085804_1",
+    "Name": "Rodea the Sky Soldier",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM001/Rodea%20the%20Sky%20Soldier%20Cover.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM001/Rodea%20the%20Sky%20Soldier%20Background.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM001/Rodea%20the%20Sky%20Soldier%20Theme.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM001/Rodea%20the%20Sky%20Soldier%20Trailer.mp4",
+    "videoStart": 48.687703,
+    "videoEnd": 129.877591,
+    "PlatformNames": ["Nintendo Wii"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Wii": {
+        "versions": [
+          {
+            "identifier": "W05E05",
+            "name": "Vanilla",
+            "platform": "Nintendo Wii",
+            "fileSize": "2 GB",
+            "filename": "Rodea the Sky Soldier.rvz",
+            "romFile": "Rodea the Sky Soldier.rvz",
+            "emulator": "Dolphin",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
