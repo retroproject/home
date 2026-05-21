@@ -735,6 +735,281 @@
             gap: 1.5rem;
         }
 
+        .main-content.subscription-tier-layout {
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+            gap: 1.7rem;
+            width: 950px;
+            box-sizing: border-box;
+        }
+
+        body.arabic-mode .main-content.subscription-tier-layout {
+            align-items: center;
+        }
+
+        body.arabic-mode .subscription-tier-layout .tier-card {
+            padding: 1.8rem;
+        }
+
+        .subscription-email-panel {
+            width: min(540px, 100%);
+            margin-bottom: 0.15rem;
+            align-self: center;
+            transform: translateX(58px);
+        }
+
+        body.arabic-mode .subscription-email-panel {
+            transform: translateX(-78px);
+        }
+
+        .subscription-email-control {
+            position: relative;
+            width: 100%;
+            display: flex;
+            align-items: stretch;
+            gap: 0.75rem;
+        }
+
+        .subscription-email-input {
+            flex: 1 1 auto;
+            min-width: 0;
+            width: auto;
+            height: 56px;
+            box-sizing: border-box;
+            border: 2px solid rgba(184, 134, 11, 0.42);
+            border-radius: 8px;
+            background: linear-gradient(145deg, rgba(10, 10, 10, 0.72), rgba(28, 28, 28, 0.42));
+            color: #f2f2f2;
+            font-family: 'Inter', sans-serif;
+            font-size: 1rem;
+            font-weight: 700;
+            letter-spacing: 0;
+            padding: 0 1.05rem;
+            outline: none;
+            box-shadow: 0 0 22px rgba(184, 134, 11, 0.18);
+            transition: border-color 0.25s ease, box-shadow 0.25s ease, background 0.25s ease;
+        }
+
+        body.arabic-mode .subscription-email-input {
+            font-family: 'Cairo', sans-serif;
+            direction: ltr;
+            text-align: left;
+        }
+
+        .subscription-email-input::placeholder {
+            color: rgba(255, 255, 255, 0.42);
+        }
+
+        .subscription-email-input:focus {
+            border-color: rgba(184, 134, 11, 0.95);
+            background: linear-gradient(145deg, rgba(12, 12, 12, 0.82), rgba(32, 28, 18, 0.52));
+            box-shadow: 0 0 28px rgba(184, 134, 11, 0.38);
+        }
+
+        .subscription-paypal-btn {
+            position: relative;
+            flex: 0 0 78px;
+            height: 56px;
+            border: 1px solid rgba(184, 134, 11, 0.62);
+            border-radius: 8px;
+            background: rgba(0, 0, 0, 0.38);
+            color: #f5d67a;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            box-shadow: 0 0 16px rgba(184, 134, 11, 0.22);
+            overflow: hidden;
+            transition: border-color 0.25s ease, box-shadow 0.25s ease, opacity 0.25s ease;
+        }
+
+        .subscription-paypal-btn::before {
+            content: '';
+            position: absolute;
+            top: -2px;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(
+                90deg,
+                transparent,
+                rgba(255, 255, 255, 0.2) 20%,
+                rgba(255, 255, 255, 0.5) 50%,
+                rgba(255, 255, 255, 0.2) 80%,
+                transparent
+            );
+            transform: skewX(-25deg) translateX(-100%);
+            transition: none;
+            will-change: transform;
+            backface-visibility: hidden;
+        }
+
+        .subscription-paypal-btn:hover:not(:disabled) {
+            border-color: rgba(245, 214, 122, 0.95);
+            box-shadow: 0 0 24px rgba(184, 134, 11, 0.42);
+        }
+
+        .subscription-paypal-btn:hover:not(:disabled)::before {
+            transform: skewX(-25deg) translateX(200%);
+            transition: transform 1s ease-out;
+        }
+
+        .subscription-paypal-btn:disabled {
+            opacity: 0.46;
+            cursor: default;
+            box-shadow: none;
+        }
+
+        .subscription-paypal-btn.paypal-loading {
+            opacity: 1;
+            border-color: rgba(245, 214, 122, 0.95);
+            box-shadow: 0 0 28px rgba(184, 134, 11, 0.46);
+        }
+
+        .subscription-paypal-icon {
+            display: block;
+            width: 37px;
+            height: auto;
+            border-radius: 3px;
+            position: relative;
+            z-index: 1;
+            opacity: 1;
+            transform: scale(1);
+            transition: opacity 0.25s ease, transform 0.25s ease;
+        }
+
+        .subscription-paypal-btn.paypal-loading .subscription-paypal-icon {
+            opacity: 0;
+            transform: scale(0.82);
+        }
+
+        .subscription-paypal-spinner {
+            position: absolute;
+            width: 24px;
+            height: 24px;
+            border: 3px solid rgba(70, 130, 180, 0.72);
+            border-top-color: #ff4757;
+            border-right-color: #a855f7;
+            border-bottom-color: #4682b4;
+            border-radius: 50%;
+            opacity: 0;
+            transform: scale(0.75);
+            z-index: 2;
+            pointer-events: none;
+            transition: opacity 0.25s ease, transform 0.25s ease;
+            box-shadow: 0 0 12px rgba(255, 71, 87, 0.26), 0 0 16px rgba(168, 85, 247, 0.22), 0 0 18px rgba(70, 130, 180, 0.24);
+        }
+
+        .subscription-paypal-btn.paypal-loading .subscription-paypal-spinner {
+            opacity: 1;
+            transform: scale(1);
+            animation: paypalButtonSpin 0.8s linear infinite;
+        }
+
+        @keyframes paypalButtonSpin {
+            to {
+                transform: scale(1) rotate(360deg);
+            }
+        }
+
+        .subscription-tier-row {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            gap: 3rem;
+            width: 100%;
+        }
+
+        .subscription-tier-row .tier-card {
+            flex: 0 0 450px;
+            max-width: 450px;
+        }
+
+        .subscription-tier-row.subscription-tier-yearly {
+            padding-top: 0.2rem;
+        }
+
+        @media (max-width: 1024px) {
+            .subscription-tier-row {
+                flex-direction: column;
+                gap: 1.5rem;
+            }
+
+            .subscription-tier-row .tier-card {
+                flex: 0 0 auto;
+                max-width: 450px;
+                width: 100%;
+            }
+        }
+
+        .tier-card.paypal-plan-selected {
+            transform: translateY(-2px);
+        }
+
+        .tier-card.paypal-plan-selected::after {
+            content: 'Selected';
+            position: absolute;
+            top: 14px;
+            right: 16px;
+            padding: 0.3rem 0.65rem;
+            border: 1px solid currentColor;
+            border-radius: 8px;
+            background: rgba(0, 0, 0, 0.36);
+            color: #f5d67a;
+            font-family: 'Orbitron', monospace;
+            font-size: 0.68rem;
+            font-weight: 800;
+            line-height: 1;
+            letter-spacing: 0;
+            text-transform: uppercase;
+            box-shadow: 0 0 14px currentColor;
+            text-shadow: 0 0 8px rgba(245, 214, 122, 0.68);
+            pointer-events: none;
+        }
+
+        body.arabic-mode .tier-card.paypal-plan-selected::after {
+            content: 'مختار';
+            right: auto;
+            left: 16px;
+            font-family: 'Cairo', sans-serif;
+            text-transform: none;
+        }
+
+        .dante.paypal-plan-selected {
+            border-color: #ff4757;
+            box-shadow: 0 0 42px rgba(255, 71, 87, 0.62);
+        }
+
+        .dante.paypal-plan-selected::after {
+            border-color: #ff4757;
+            background: rgba(220, 20, 60, 0.34);
+            box-shadow: 0 0 16px rgba(255, 71, 87, 0.56);
+        }
+
+        .nero.paypal-plan-selected {
+            border-color: #a855f7;
+            box-shadow: 0 0 42px rgba(168, 85, 247, 0.56);
+        }
+
+        .nero.paypal-plan-selected::after {
+            border-color: #a855f7;
+            background: rgba(168, 85, 247, 0.30);
+            box-shadow: 0 0 16px rgba(168, 85, 247, 0.52);
+        }
+
+        .premium.paypal-plan-selected {
+            border-color: #4682b4;
+            box-shadow: 0 0 42px rgba(70, 130, 180, 0.56);
+        }
+
+        .premium.paypal-plan-selected::after {
+            border-color: #4682b4;
+            background: rgba(70, 130, 180, 0.32);
+            box-shadow: 0 0 16px rgba(70, 130, 180, 0.52);
+        }
+
         .tier-card {
             background: linear-gradient(145deg, rgba(15, 15, 15, 0.15), rgba(30, 30, 30, 0.15));
             border: 2px solid rgba(220, 20, 60, 0.4);
@@ -3192,6 +3467,15 @@
                 text-align: center;
             }
 
+            .main-content.subscription-tier-layout {
+                width: 100%;
+            }
+
+            .subscription-email-panel,
+            body.arabic-mode .subscription-email-panel {
+                transform: none;
+            }
+
             body.arabic-mode .main-content {
                 padding-left: 1rem;
                 padding-right: 1rem;
@@ -4845,6 +5129,7 @@
         <button class="nav-btn" onclick="showSection('faq')" data-en="FAQ" data-ar="الأسئلة الشائعة">FAQ</button>
         <button class="nav-btn social-toggle" onclick="showSection('social')" data-en="Follow Us"
             data-ar="تابعنا">Follow Us</button>
+        <button class="nav-btn home-toggle" onclick="showSection('main')" data-en="Subscribe" data-ar="الاشتراك">Subscribe</button>
         <button class="nav-btn arabic-toggle" onclick="toggleLanguage()" data-en="Arabic"
             data-ar="الإنجليزيه">العربية</button>
         <button class="mute-btn" onclick="toggleMute()" id="muteButton">
@@ -4876,6 +5161,8 @@
             data-ar="الأسئلة الشائعة">FAQ</button>
         <button class="mobile-nav-btn social-toggle" onclick="showSection('social'); closeMobileMenu()"
             data-en="Follow Us" data-ar="تابعنا">Follow Us</button>
+        <button class="mobile-nav-btn home-toggle" onclick="showSection('main'); closeMobileMenu()" data-en="Subscribe"
+            data-ar="الاشتراك">Subscribe</button>
         <button class="mobile-nav-btn arabic-toggle" onclick="toggleLanguage(); closeMobileMenu()" data-en="Arabic"
             data-ar="الإنجليزيه">العربية</button>
         <button class="mobile-mute-btn" onclick="toggleMute()" id="mobileMuteButton">
@@ -4896,30 +5183,65 @@
             <p class="subtitle" data-en="Subscription Tiers" data-ar="باقات الاشتراك">Subscription Tiers</p>
         </div>
 
-        <div class="main-content">
-            <div class="left-section">
-                <div class="monthly-tiers">
-                    <div class="tier-card dante extended-plan" style="cursor: pointer;">
-                        <h3 class="tier-name" data-en="Dark Knight" data-ar="الفارس المظلم">Dark Knight</h3>
-                        <div class="tier-details">
-                            <div class="price" data-en="50 SAR" data-ar="٥٠ ريال">50 SAR</div>
-                            <div class="duration-label" data-en="Monthly" data-ar="شهري">Monthly</div>
-                        </div>
-                    </div>
+        <div class="main-content subscription-tier-layout">
+            <div class="subscription-email-panel">
+                <div class="subscription-email-control">
+                    <input type="email"
+                        class="subscription-email-input"
+                        id="subscriptionEmailInput"
+                        placeholder="Enter your email"
+                        data-placeholder-en="Enter your email"
+                        data-placeholder-ar="أدخل بريدك الإلكتروني"
+                        autocomplete="email"
+                        oninput="updatePayPalSubscribeState()"
+                        onkeydown="handleSubscriptionEmailKeydown(event)">
+                    <button type="button"
+                        class="subscription-paypal-btn"
+                        id="subscriptionPayPalButton"
+                        onclick="submitSelectedPayPalSubscription()"
+                        disabled>
+                        <img class="subscription-paypal-icon"
+                            src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg"
+                            alt="PayPal">
+                        <span class="subscription-paypal-spinner" aria-hidden="true"></span>
+                    </button>
                 </div>
             </div>
 
-            <div class="right-section">
-                <div class="multi-month-tiers">
-                    <div class="tier-card premium extended-plan" style="cursor: pointer;">
+            <div class="monthly-tiers subscription-tier-row">
+                <div class="tier-card dante extended-plan paypal-plan-card" style="cursor: pointer;"
+                    data-paypal-plan="DARK_KNIGHT_MONTHLY"
+                    onclick="selectPayPalPlan('DARK_KNIGHT_MONTHLY')">
+                        <h3 class="tier-name" data-en="Dark Knight" data-ar="الفارس المظلم">Dark Knight</h3>
+                        <div class="tier-details">
+                            <div class="price" data-en="15 USD" data-ar="١٥ دولار">15 USD</div>
+                            <div class="duration-label" data-en="Monthly" data-ar="شهري">Monthly</div>
+                        </div>
+                    </div>
+
+                <div class="tier-card nero extended-plan paypal-plan-card" style="cursor: pointer;"
+                    data-paypal-plan="DEVIL_HUNTER_QUARTERLY"
+                    onclick="selectPayPalPlan('DEVIL_HUNTER_QUARTERLY')">
+                        <h3 class="tier-name" data-en="Devil Hunter" data-ar="صائد الشياطين">Devil Hunter</h3>
+                        <div class="tier-details">
+                            <div class="price" data-en="30 USD" data-ar="٣٠ دولار">30 USD</div>
+                            <div class="duration-label" data-en="3 Months" data-ar="٣ أشهر">3 Months</div>
+                        </div>
+                    </div>
+            </div>
+
+            <div class="multi-month-tiers subscription-tier-row subscription-tier-yearly">
+                <div class="tier-card premium extended-plan paypal-plan-card" style="cursor: pointer;"
+                    data-paypal-plan="DARK_SLAYER_YEARLY"
+                    onclick="selectPayPalPlan('DARK_SLAYER_YEARLY')">
                         <h3 class="tier-name" data-en="Dark Slayer" data-ar="قاتل الظلام">Dark Slayer</h3>
                         <div class="tier-details">
-                            <div class="price" data-en="400 SAR" data-ar="٤٠٠ ريال">400 SAR</div>
+                            <div class="price" data-en="100 USD" data-ar="١٠٠ دولار">100 USD</div>
                             <div class="duration-label" data-en="Yearly" data-ar="سنوي">Yearly</div>
                         </div>
                     </div>
-                </div>
             </div>
+
         </div>
     </div>
 
@@ -5572,6 +5894,121 @@
                 window._supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
             }
             return window._supabaseClient || null;
+        }
+
+        const PAYPAL_PLANS = {
+            DARK_KNIGHT_MONTHLY: 'P-6KB57061846721847NHY33XA',
+            DEVIL_HUNTER_QUARTERLY: 'P-16R38177V0196502RNIHQYNY',
+            DARK_SLAYER_YEARLY: 'P-57675874KX480001KNHY345A'
+        };
+
+        let selectedPayPalPlanKey = null;
+
+        function isValidSubscriptionEmail(email) {
+            return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(String(email || '').trim());
+        }
+
+        function getSubscriptionEmailInput() {
+            return document.getElementById('subscriptionEmailInput');
+        }
+
+        function updatePayPalSubscribeState() {
+            const input = getSubscriptionEmailInput();
+            const button = document.getElementById('subscriptionPayPalButton');
+            if (!button) return;
+
+            const email = input ? input.value.trim() : '';
+            button.disabled = !selectedPayPalPlanKey || !isValidSubscriptionEmail(email);
+        }
+
+        function selectPayPalPlan(planKey) {
+            if (!PAYPAL_PLANS[planKey]) return;
+            selectedPayPalPlanKey = planKey;
+
+            document.querySelectorAll('.paypal-plan-card').forEach(card => {
+                card.classList.toggle('paypal-plan-selected', card.dataset.paypalPlan === planKey);
+            });
+
+            updatePayPalSubscribeState();
+        }
+
+        function handleSubscriptionEmailKeydown(event) {
+            if (event.key !== 'Enter') return;
+            event.preventDefault();
+            submitSelectedPayPalSubscription();
+        }
+
+        function muteSiteForPayPalCheckout() {
+            if (isMuted) return;
+            if (typeof toggleMute === 'function') {
+                toggleMute();
+                return;
+            }
+
+            const audio = document.getElementById('backgroundMusic');
+            const visualizer = document.getElementById('audioVisualizer');
+            const mobileVisualizers = document.querySelectorAll('.mobile-mute-btn .audio-visualizer');
+            if (audio) {
+                audio.volume = 0;
+                audio.muted = true;
+            }
+            visualizer?.classList.add('muted');
+            mobileVisualizers.forEach(v => v.classList.add('muted'));
+            isMuted = true;
+        }
+
+        async function submitSelectedPayPalSubscription() {
+            const input = getSubscriptionEmailInput();
+            const button = document.getElementById('subscriptionPayPalButton');
+            const email = input ? input.value.trim() : '';
+
+            if (!selectedPayPalPlanKey || !PAYPAL_PLANS[selectedPayPalPlanKey]) {
+                showErrorToast(currentLanguage === 'ar' ? 'اختر باقة الاشتراك أولاً.' : 'Please choose a subscription plan.');
+                return;
+            }
+
+            if (!isValidSubscriptionEmail(email)) {
+                showErrorToast(currentLanguage === 'ar' ? 'أدخل بريد حسابك في ريترو بروجكت.' : 'Please enter your Retro Project account email.');
+                input?.focus();
+                return;
+            }
+
+            muteSiteForPayPalCheckout();
+
+            if (button) {
+                button.disabled = true;
+                button.classList.add('paypal-loading');
+            }
+
+            try {
+                const resp = await fetch(`${SUPABASE_URL}/functions/v1/create-paypal-subscription`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'apikey': SUPABASE_ANON_KEY,
+                        'Authorization': `Bearer ${SUPABASE_ANON_KEY}`
+                    },
+                    body: JSON.stringify({
+                        plan_id: PAYPAL_PLANS[selectedPayPalPlanKey],
+                        email
+                    })
+                });
+
+                if (!resp.ok) throw new Error(`create-paypal-subscription ${resp.status}`);
+                const data = await resp.json();
+                if (!data.approval_url) throw new Error('No approval_url in response');
+
+                window.open(data.approval_url, '_blank', 'noopener');
+                showSuccessToast(currentLanguage === 'ar' ? 'تم فتح باي بال لإكمال الاشتراك.' : 'PayPal opened to complete your subscription.');
+            } catch (error) {
+                console.error('PayPal subscription failed:', error);
+                showErrorToast(currentLanguage === 'ar' ? 'تعذر فتح اشتراك باي بال. حاول مرة أخرى.' : 'Could not start PayPal subscription. Please try again.');
+            } finally {
+                if (button) {
+                    button.classList.remove('paypal-loading');
+                    updatePayPalSubscribeState();
+                }
+            }
         }
 
         // Toast notification system
@@ -8237,25 +8674,17 @@
             }
         }
 
-        // Add click effects to tier cards
+        // Add press effects to PayPal tier cards without overriding checkout flow
         function setupTierCards() {
-            document.querySelectorAll('.monthly-plan').forEach(card => {
-                card.addEventListener('click', function () {
-                    this.style.transform = 'scale(0.95)';
-                    setTimeout(() => {
-                        this.style.transform = '';
-                        window.open('https://gahweni.com/Dark1Vergil/memberships', '_blank');
-                    }, 150);
+            document.querySelectorAll('.paypal-plan-card').forEach(card => {
+                card.addEventListener('mousedown', function () {
+                    this.style.transform = 'scale(0.98)';
                 });
-            });
-
-            document.querySelectorAll('.extended-plan').forEach(card => {
-                card.addEventListener('click', function () {
-                    this.style.transform = 'scale(0.95)';
-                    setTimeout(() => {
-                        this.style.transform = '';
-                        window.open('https://gahweni.com/Dark1Vergil/memberships', '_blank');
-                    }, 150);
+                card.addEventListener('mouseup', function () {
+                    this.style.transform = '';
+                });
+                card.addEventListener('mouseleave', function () {
+                    this.style.transform = '';
                 });
             });
         }
