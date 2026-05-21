@@ -4845,7 +4845,6 @@
         <button class="nav-btn" onclick="showSection('faq')" data-en="FAQ" data-ar="الأسئلة الشائعة">FAQ</button>
         <button class="nav-btn social-toggle" onclick="showSection('social')" data-en="Follow Us"
             data-ar="تابعنا">Follow Us</button>
-        <button class="nav-btn home-toggle" onclick="showSection('main')" data-en="Subscribe" data-ar="اشتراك">Subscribe</button>
         <button class="nav-btn arabic-toggle" onclick="toggleLanguage()" data-en="Arabic"
             data-ar="الإنجليزيه">العربية</button>
         <button class="mute-btn" onclick="toggleMute()" id="muteButton">
@@ -4877,8 +4876,6 @@
             data-ar="الأسئلة الشائعة">FAQ</button>
         <button class="mobile-nav-btn social-toggle" onclick="showSection('social'); closeMobileMenu()"
             data-en="Follow Us" data-ar="تابعنا">Follow Us</button>
-        <button class="mobile-nav-btn" onclick="showSection('main'); closeMobileMenu()" data-en="Subscribe"
-            data-ar="اشتراك">Subscribe</button>
         <button class="mobile-nav-btn arabic-toggle" onclick="toggleLanguage(); closeMobileMenu()" data-en="Arabic"
             data-ar="الإنجليزيه">العربية</button>
         <button class="mobile-mute-btn" onclick="toggleMute()" id="mobileMuteButton">
@@ -5173,9 +5170,9 @@
                         </button>
                         <div class="faq-answer">
                             <div class="faq-answer-content"
-                                data-en='Download our free demo from <a href="https://github.com/retroproject/home/releases/download/emulators/Setup.exe" target="_blank">📥Download</a>'
-                                data-ar='حمل النسخة التجريبية المجانية من <a href="https://github.com/retroproject/home/releases/download/emulators/Setup.exe" target="_blank">📥التحميل</a>'>
-                                Download our free demo from <a href="https://github.com/retroproject/home/releases/download/emulators/Setup.exe"
+                                data-en='Download our free demo from <a href="https://archive.org/download/NNBB01/Setup.exe" target="_blank">📥Download</a>'
+                                data-ar='حمل النسخة التجريبية المجانية من <a href="https://archive.org/download/NNBB01/Setup.exe" target="_blank">📥التحميل</a>'>
+                                Download our free demo from <a href="https://archive.org/download/NNBB01/Setup.exe"
                                     target="_blank">📥𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝</a>
                             </div>
                         </div>
@@ -6687,7 +6684,7 @@
 
         // Download setup function
         function downloadSetup() {
-            window.open('https://github.com/retroproject/home/releases/download/emulators/Setup.exe', '_blank');
+            window.open('https://archive.org/download/NNBB01/Setup.exe', '_blank');
         }
 
         function closeLightbox(event) {
@@ -8324,22 +8321,10 @@
         // Guide images data
         const guideImages = {
             en: [
-                'https://i.imgur.com/XgNYMvT.jpeg', // First image (same for both)
-                'https://i.imgur.com/rbd0CKW.png',
-                'https://i.imgur.com/FOicUjx.png',
-                'https://i.imgur.com/dYRmh0m.png',
-                'https://i.imgur.com/x4tcSv2.png',
-                'https://i.imgur.com/QWt80E1.png',
-                'https://i.imgur.com/CeZJ6fZ.png'
+                'https://i.imgur.com/XgNYMvT.jpeg' // First image (same for both)
             ],
             ar: [
-                'https://i.imgur.com/XgNYMvT.jpeg', // First image (same for both)
-                'https://i.imgur.com/dtpcZHD.png',
-                'https://i.imgur.com/ZTRUBxT.png',
-                'https://i.imgur.com/8sjzi64.png',
-                'https://i.imgur.com/3BVpHPH.png',
-                'https://i.imgur.com/yiZXSZs.png',
-                'https://i.imgur.com/46DESS3.png'
+                'https://i.imgur.com/XgNYMvT.jpeg' // First image (same for both)
             ]
         };
         let currentGuideIndex = 0;
