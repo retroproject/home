@@ -793,8 +793,8 @@
 
         body.arabic-mode .subscription-email-input {
             font-family: 'Cairo', sans-serif;
-            direction: ltr;
-            text-align: left;
+            direction: rtl;
+            text-align: right;
         }
 
         .subscription-email-input::placeholder {
@@ -3989,10 +3989,16 @@
             pointer-events: auto;
         }
 
-        #gamePageCover + .video-overlay iframe {
+        #gamePageCover + .video-overlay iframe,
+        #gamePageCover + .video-overlay video {
             width: 100%;
             height: 100%;
             border: none;
+            display: block;
+            background: #000;
+        }
+
+        #gamePageCover + .video-overlay iframe {
             pointer-events: none;
         }
 
@@ -5877,7 +5883,7 @@
     </div>
 
     <audio id="backgroundMusic" loop>
-        <source src="https://archive.org/download/gmusicfame/Demon%20World.mp3" type="audio/mpeg">
+        <source src="https://db.retroproject.org/shared/S001.mp3" type="audio/mpeg">
     </audio>
 
     <script>
@@ -7809,6 +7815,7 @@
         function wireInfiniteCoverRetry(img, card) {
             const STALL_TIMEOUT_MS = 15000;
             const originalSrc = img.src;
+            const getRetryBaseSrc = () => img.dataset?.originalAssetUrl || originalSrc;
             let attempt = 0;
             let generation = 0;
             let settled = false;
@@ -7836,8 +7843,9 @@
                 const delay = Math.min(1000 * Math.pow(2, attempt - 1), 30000);
                 setTimeout(() => {
                     if (settled || myGen !== generation) return;
-                    const sep = originalSrc.indexOf('?') === -1 ? '?' : '&';
-                    img.src = originalSrc + sep + '_retry=' + attempt;
+                    const retrySrc = getRetryBaseSrc();
+                    const sep = retrySrc.indexOf('?') === -1 ? '?' : '&';
+                    img.src = retrySrc + sep + '_retry=' + attempt;
                     armStall(myGen);
                 }, delay);
             };
@@ -7904,6 +7912,7 @@
                     <div class="game-card" style="opacity: 0; visibility: visible;" onclick="showErrorToast('App only feature')">
                         <img class="game-cover"
                              src="${game.cover}"
+                             data-original-asset-url="${escapeHtml(game.originalCover || '')}"
                              alt="${game.name}"
                              loading="eager">
                     </div>
@@ -7947,6 +7956,7 @@
                         <div class="game-card" style="opacity: 0; visibility: visible;" onclick="showErrorToast('App only feature')">
                             <img class="game-cover"
                                  src="${game.cover}"
+                                 data-original-asset-url="${escapeHtml(game.originalCover || '')}"
                                  alt="${game.name}"
                                  loading="eager">
                         </div>
@@ -8772,6 +8782,175 @@ let isVideoPlaying = false; // Add this line
 let currentVideoStart = null; // Start boundary for current video
 let currentVideoEnd = null; // End boundary for current video
 let videoMonitorInterval = null; // Interval to monitor video position
+let directTrailerPlayer = null;
+
+        const GAMES_DATABASE_URL = 'https://raw.githubusercontent.com/retroproject/home/refs/heads/main/database/games[db].json';
+        const CLOUDFLARE_LOCALDB_BASE_URL = 'https://db.retroproject.org/localdb';
+        const cloudflareAssetFallbacks = new Map();
+
+        function normalizeAssetUrlKey(url) {
+            try {
+                const parsed = new URL(String(url || ''), window.location.href);
+                return `${parsed.origin}${parsed.pathname}`;
+            } catch (_error) {
+                return String(url || '').split('?')[0].split('#')[0];
+            }
+        }
+
+        function isArchiveDownloadAssetUrl(url) {
+            try {
+                const parsed = new URL(String(url || ''));
+                const host = parsed.hostname.toLowerCase();
+                const pathParts = parsed.pathname.split('/').filter(Boolean);
+                return (host === 'archive.org' || host === 'www.archive.org') &&
+                    pathParts.length >= 3 &&
+                    pathParts[0] === 'download';
+            } catch (_error) {
+                return false;
+            }
+        }
+
+        function isCloudflareLocalDbAssetUrl(url) {
+            try {
+                const parsed = new URL(String(url || ''));
+                return parsed.origin === 'https://db.retroproject.org' &&
+                    parsed.pathname.startsWith('/localdb/');
+            } catch (_error) {
+                return false;
+            }
+        }
+
+        function extractAndDecodeFilename(url) {
+            try {
+                const parsed = new URL(String(url || ''));
+                const parts = parsed.pathname.split('/').filter(Boolean);
+                return decodeURIComponent(parts[parts.length - 1] || '');
+            } catch (_error) {
+                const parts = String(url || '').split('?')[0].split('#')[0].split('/');
+                try {
+                    return decodeURIComponent(parts[parts.length - 1] || '');
+                } catch (__error) {
+                    return parts[parts.length - 1] || '';
+                }
+            }
+        }
+
+        function encodeLocalDbFilename(filename) {
+            return encodeURIComponent(filename)
+                .replace(/[!'()*]/g, char => `%${char.charCodeAt(0).toString(16).toUpperCase()}`);
+        }
+
+        function getCloudflareLocalDbUrl(originalUrl) {
+            if (!isArchiveDownloadAssetUrl(originalUrl)) return '';
+            const filename = extractAndDecodeFilename(originalUrl);
+            return filename ? `${CLOUDFLARE_LOCALDB_BASE_URL}/${encodeLocalDbFilename(filename)}` : '';
+        }
+
+        function registerCloudflareAssetFallback(cloudflareUrl, originalUrl) {
+            if (!cloudflareUrl || !originalUrl || cloudflareUrl === originalUrl) return;
+            cloudflareAssetFallbacks.set(normalizeAssetUrlKey(cloudflareUrl), originalUrl);
+        }
+
+        function getCloudflareAssetFallback(url, originalUrl = '') {
+            const mapped = cloudflareAssetFallbacks.get(normalizeAssetUrlKey(url));
+            if (mapped) return mapped;
+            if (originalUrl && isCloudflareLocalDbAssetUrl(url) && url !== originalUrl) return originalUrl;
+            return '';
+        }
+
+        function resolveSiteAssetUrl(originalUrl) {
+            if (!originalUrl || typeof originalUrl !== 'string') return originalUrl;
+            const cloudflareUrl = getCloudflareLocalDbUrl(originalUrl);
+            if (cloudflareUrl) {
+                registerCloudflareAssetFallback(cloudflareUrl, originalUrl);
+                return cloudflareUrl;
+            }
+            return originalUrl;
+        }
+
+        function tryCloudflareAssetFallback(element, originalUrl = '') {
+            if (!element || element.dataset?.cloudflareFallbackTried === '1') return false;
+
+            const currentUrl = element.currentSrc || element.src || '';
+            const fallbackUrl = getCloudflareAssetFallback(currentUrl, originalUrl || element.dataset?.originalAssetUrl || '');
+            if (!fallbackUrl || fallbackUrl === currentUrl) return false;
+
+            if (element.dataset) {
+                element.dataset.cloudflareFallbackTried = '1';
+                element.dataset.originalAssetUrl = fallbackUrl;
+            }
+
+            element.src = fallbackUrl;
+            if (element.tagName === 'SOURCE' && typeof element.parentElement?.load === 'function') {
+                try { element.parentElement.load(); } catch (_error) {}
+            } else if (typeof element.load === 'function') {
+                try { element.load(); } catch (_error) {}
+            }
+            return true;
+        }
+
+        function installCloudflareAssetFallbackHandler() {
+            if (window.__cloudflareAssetFallbackHandlerInstalled) return;
+            window.__cloudflareAssetFallbackHandlerInstalled = true;
+
+            document.addEventListener('error', (event) => {
+                const element = event.target;
+                const tagName = element?.tagName;
+                if (!tagName || !['IMG', 'AUDIO', 'VIDEO', 'SOURCE'].includes(tagName)) return;
+
+                if (tryCloudflareAssetFallback(element)) {
+                    event.preventDefault();
+                    event.stopImmediatePropagation();
+                }
+            }, true);
+        }
+
+        function preloadImageWithCloudflareFallback(resolvedUrl, originalUrl = '') {
+            return new Promise((resolve) => {
+                const img = new Image();
+                let triedFallback = false;
+
+                img.onload = () => resolve(img.src);
+                img.onerror = () => {
+                    const fallbackUrl = getCloudflareAssetFallback(img.src, originalUrl);
+                    if (!triedFallback && fallbackUrl && fallbackUrl !== img.src) {
+                        triedFallback = true;
+                        img.src = fallbackUrl;
+                        return;
+                    }
+                    resolve('');
+                };
+
+                img.src = resolvedUrl;
+            });
+        }
+
+        function createAudioWithCloudflareFallback(resolvedUrl, originalUrl = '') {
+            const audio = new Audio();
+            let triedFallback = false;
+            audio.addEventListener('error', () => {
+                const fallbackUrl = getCloudflareAssetFallback(audio.src, originalUrl);
+                if (!triedFallback && fallbackUrl && fallbackUrl !== audio.src) {
+                    triedFallback = true;
+                    audio.src = fallbackUrl;
+                    audio.load();
+                    audio.play().catch(() => {});
+                }
+            });
+            audio.src = resolvedUrl;
+            return audio;
+        }
+
+        function isDirectVideoUrl(url) {
+            try {
+                const parsed = new URL(String(url || ''));
+                return /\.(mp4|webm|ogg|mov)$/i.test(parsed.pathname);
+            } catch (_error) {
+                return /\.(mp4|webm|ogg|mov)(?:$|[?#])/i.test(String(url || ''));
+            }
+        }
+
+        installCloudflareAssetFallbackHandler();
 
         // Enhanced game information database
         const gameInfo = {
@@ -8836,7 +9015,7 @@ let videoMonitorInterval = null; // Interval to monitor video position
         // Load game data from GitHub (same source as the app)
         async function loadGameData() {
     try {
-        const response = await fetch(`https://raw.githubusercontent.com/retroproject/home/main/database/games.json?t=${Date.now()}`);
+        const response = await fetch(`${GAMES_DATABASE_URL}?t=${Date.now()}`);
         const retroData = await response.json();
         
         // Make retroData globally accessible for language switching
@@ -8845,34 +9024,46 @@ let videoMonitorInterval = null; // Interval to monitor video position
                 
                 
                 // Process the data to match our site's format
-allGameData = retroData.map(game => ({
-    id: game._id || "",
-    name: game.Name || "Unknown Game",
-    sortingName: game.SortingName || game.Name || "Unknown Game",
-    cover: game.CoverUrl || "",
-    background: game.BackgroundUrl || "",
-    music: game.MusicUrl || "",
-    story: game.Description || "Story information not available.",
-    releaseDate: game.ReleaseDate || "Unknown",
-    // Keep single values for display (backward compatibility)
-    platform: getFirstItem(game.PlatformNames) || "Unknown",
-    genre: getFirstItem(game.GenreNames) || "Unknown",
-    developer: getFirstItem(game.DeveloperNames) || "Unknown",
-    // Add full arrays for filtering
-    platforms: game.PlatformNames || [],
-    genres: game.GenreNames || [],
-    developers: game.DeveloperNames || [],
-    tags: game.Tags || [],
-    rating: convertToStars(game.CriticScore),
-    youtubeUrl: game.YouTubeUrl || "",
-    videoStart: game.videoStart || null,
-    videoEnd: game.videoEnd || null
-})).sort((a, b) => a.sortingName.localeCompare(b.sortingName));
+allGameData = retroData.map(game => {
+    const coverOriginal = game.CoverUrl || "";
+    const backgroundOriginal = game.BackgroundUrl || "";
+    const musicOriginal = game.MusicUrl || "";
+    const trailerOriginal = game.YouTubeUrl || "";
+
+    return {
+        id: game._id || "",
+        name: game.Name || "Unknown Game",
+        sortingName: game.SortingName || game.Name || "Unknown Game",
+        cover: resolveSiteAssetUrl(coverOriginal),
+        coverOriginal,
+        background: resolveSiteAssetUrl(backgroundOriginal),
+        backgroundOriginal,
+        music: resolveSiteAssetUrl(musicOriginal),
+        musicOriginal,
+        story: game.Description || "Story information not available.",
+        releaseDate: game.ReleaseDate || "Unknown",
+        // Keep single values for display (backward compatibility)
+        platform: getFirstItem(game.PlatformNames) || "Unknown",
+        genre: getFirstItem(game.GenreNames) || "Unknown",
+        developer: getFirstItem(game.DeveloperNames) || "Unknown",
+        // Add full arrays for filtering
+        platforms: game.PlatformNames || [],
+        genres: game.GenreNames || [],
+        developers: game.DeveloperNames || [],
+        tags: game.Tags || [],
+        rating: convertToStars(game.CriticScore),
+        youtubeUrl: resolveSiteAssetUrl(trailerOriginal),
+        youtubeOriginal: trailerOriginal,
+        videoStart: game.videoStart || null,
+        videoEnd: game.videoEnd || null
+    };
+}).sort((a, b) => a.sortingName.localeCompare(b.sortingName));
 
                 // Also use this data for the game covers display
                 allGames = allGameData.map(game => ({
                     name: game.name,
                     cover: game.cover,
+                    originalCover: game.coverOriginal,
                     sortingName: game.sortingName || game.name,
                     searchName: game.name.toLowerCase()
                 })).sort((a, b) => a.sortingName.localeCompare(b.sortingName));
@@ -8974,17 +9165,21 @@ allGameData = retroData.map(game => ({
             // Use background from JSON data only
             if (gameData && gameData.background && !isMobile) {
                 info.backgroundImage = gameData.background;
+                info.backgroundOriginal = gameData.backgroundOriginal || '';
             } else {
                 info.backgroundImage = null;
+                info.backgroundOriginal = '';
             }
             // On mobile, explicitly prevent background images
             if (isMobile) {
                 info.backgroundImage = null;
+                info.backgroundOriginal = '';
             }
             
             // Use music from JSON data
             if (gameData && gameData.music) {
                 info.musicUrl = gameData.music;
+                info.musicOriginal = gameData.musicOriginal || '';
             }
             
             // Find dynamic music for this game
@@ -8993,12 +9188,14 @@ allGameData = retroData.map(game => ({
 
             // Set basic info immediately
             cover.src = coverUrl;
+            cover.dataset.originalAssetUrl = gameData ? (gameData.coverOriginal || '') : '';
             cover.alt = gameName;
             
             // Add click handler ONLY for gamePageCover trailer animation
 if (cover.id === 'gamePageCover') {
     // Store YouTube URL and video timing as data attributes
     cover.dataset.youtubeUrl = youtubeUrl || (gameData ? gameData.youtubeUrl : '');
+    cover.dataset.originalTrailerUrl = gameData ? (gameData.youtubeOriginal || '') : '';
     cover.dataset.videoStart = gameData ? gameData.videoStart : null;
     cover.dataset.videoEnd = gameData ? gameData.videoEnd : null;
     cover.onclick = () => playGameCoverTrailer(gameName);
@@ -9260,25 +9457,23 @@ if (cover.id === 'gamePageCover') {
 
             // Preload background image if available
             if (info.backgroundImage && !isMobile) {
-                const bgImg = new Image();
-                bgImg.onload = () => {
+                preloadImageWithCloudflareFallback(info.backgroundImage, info.backgroundOriginal).then((loadedSrc) => {
+                    if (loadedSrc) {
+                        info.backgroundImage = loadedSrc;
+                    }
                     backgroundLoaded = true;
                     checkAllAssetsLoaded();
-                };
-                bgImg.onerror = () => {
-                    backgroundLoaded = true;
-                    checkAllAssetsLoaded();
-                };
-                bgImg.src = info.backgroundImage;
+                });
             } else {
                 backgroundLoaded = true;
             }
 
             // Preload music if available
             if (info.musicUrl) {
-                const audio = new Audio();
+                const audio = createAudioWithCloudflareFallback(info.musicUrl, info.musicOriginal);
                 audio.preload = 'auto';
                 audio.addEventListener('canplaythrough', () => {
+                    info.musicUrl = audio.src || info.musicUrl;
                     musicLoaded = true;
                     checkAllAssetsLoaded();
                 });
@@ -9292,16 +9487,13 @@ if (cover.id === 'gamePageCover') {
             }
 
             // Preload cover image
-            const coverImg = new Image();
-            coverImg.onload = () => {
+            preloadImageWithCloudflareFallback(coverUrl, gameData ? gameData.coverOriginal : '').then((loadedSrc) => {
+                if (loadedSrc && cover.src !== loadedSrc) {
+                    cover.src = loadedSrc;
+                }
                 coverLoaded = true;
                 checkAllAssetsLoaded();
-            };
-            coverImg.onerror = () => {
-                coverLoaded = true;
-                checkAllAssetsLoaded();
-            };
-            coverImg.src = coverUrl;
+            });
 
             // Handle music transition
             if (info.musicUrl) {
@@ -9322,7 +9514,7 @@ if (cover.id === 'gamePageCover') {
                             clearInterval(fadeOutInterval);
                             
                             // Start new music
-                            gamePageAudio = new Audio(info.musicUrl);
+                            gamePageAudio = createAudioWithCloudflareFallback(info.musicUrl, info.musicOriginal);
                             gamePageAudio.loop = true;
                             gamePageAudio.volume = 0;
                             gamePageAudio.play().then(() => {
@@ -9347,7 +9539,7 @@ if (cover.id === 'gamePageCover') {
                     }, 80);
                 } else {
                     // No original music, just start new music with smooth fade in
-                    gamePageAudio = new Audio(info.musicUrl);
+                    gamePageAudio = createAudioWithCloudflareFallback(info.musicUrl, info.musicOriginal);
                     gamePageAudio.loop = true;
                     gamePageAudio.volume = 0;
                     gamePageAudio.play().then(() => {
@@ -9602,6 +9794,7 @@ async function playGameCoverTrailer(gameName) {
 
     // Get YouTube URL and timing from data attributes
     const youtubeUrl = cover.dataset.youtubeUrl;
+    const originalTrailerUrl = cover.dataset.originalTrailerUrl || youtubeUrl;
     const videoStart = cover.dataset.videoStart !== 'null' ? parseFloat(cover.dataset.videoStart) : null;
     const videoEnd = cover.dataset.videoEnd !== 'null' ? parseFloat(cover.dataset.videoEnd) : null;
     
@@ -9611,6 +9804,11 @@ async function playGameCoverTrailer(gameName) {
 
     if (!youtubeUrl) {
         // No YouTube URL found for this game
+        return;
+    }
+
+    if (isDirectVideoUrl(youtubeUrl)) {
+        playDirectVideoTrailer(cover, youtubeUrl, originalTrailerUrl);
         return;
     }
 
@@ -9684,6 +9882,50 @@ async function playGameCoverTrailer(gameName) {
         }, 100);
         
     }, 800); // Wait for fade animation
+}
+
+function playDirectVideoTrailer(cover, trailerUrl, originalTrailerUrl = '') {
+    cover.classList.add('fade-black');
+    fadeBackgroundMusicDown();
+
+    setTimeout(() => {
+        cover.classList.add('video-mode');
+
+        const videoOverlay = document.createElement('div');
+        videoOverlay.className = 'video-overlay';
+        videoOverlay.innerHTML = `<video id="direct-trailer-player" autoplay loop playsinline></video>`;
+        videoOverlay.addEventListener('dblclick', toggleVideoFullscreen);
+        cover.parentNode.insertBefore(videoOverlay, cover.nextSibling);
+
+        setTimeout(() => {
+            videoOverlay.classList.add('show');
+
+            directTrailerPlayer = videoOverlay.querySelector('video');
+            directTrailerPlayer.dataset.originalAssetUrl = originalTrailerUrl || '';
+
+            let triedFallback = false;
+            directTrailerPlayer.addEventListener('error', () => {
+                const fallbackUrl = getCloudflareAssetFallback(directTrailerPlayer.src, originalTrailerUrl);
+                if (!triedFallback && fallbackUrl && fallbackUrl !== directTrailerPlayer.src) {
+                    triedFallback = true;
+                    directTrailerPlayer.src = fallbackUrl;
+                    directTrailerPlayer.load();
+                    directTrailerPlayer.play().catch(() => {});
+                }
+            });
+
+            directTrailerPlayer.src = trailerUrl;
+            directTrailerPlayer.volume = 1;
+
+            directTrailerPlayer.play().catch(() => {
+                directTrailerPlayer.controls = true;
+            });
+
+            isVideoPlaying = true;
+            document.removeEventListener('keydown', handleVideoKeyboard);
+            document.addEventListener('keydown', handleVideoKeyboard);
+        }, 100);
+    }, 800);
 }
 
 // YouTube player ready callback
@@ -9763,7 +10005,7 @@ function onPlayerStateChange(event) {
 
 // Handle keyboard controls for video
 function handleVideoKeyboard(e) {
-    if (!youtubePlayer) return;
+    if (!youtubePlayer && !directTrailerPlayer) return;
     
     // Don't handle keyboard if user is typing in an input field
     const activeElement = document.activeElement;
@@ -9776,6 +10018,15 @@ function handleVideoKeyboard(e) {
         case 'Spacebar':
             // Prevent default behavior only for handled keys
             e.preventDefault();
+            if (directTrailerPlayer) {
+                directTrailerPlayer.muted = !directTrailerPlayer.muted;
+                if (directTrailerPlayer.muted) {
+                    fadeBackgroundMusicUp();
+                } else {
+                    fadeBackgroundMusicDown();
+                }
+                break;
+            }
             // Toggle mute/unmute instantly
             if (youtubePlayer.isMuted()) {
                 // Unmute video and stop background music
@@ -9808,6 +10059,10 @@ function handleVideoKeyboard(e) {
             
         case 'ArrowLeft':
             e.preventDefault();
+            if (directTrailerPlayer) {
+                directTrailerPlayer.currentTime = Math.max(0, directTrailerPlayer.currentTime - 5);
+                break;
+            }
             // Rewind 5 seconds with boundary check
             const currentTimeLeft = youtubePlayer.getCurrentTime();
             const minTime = currentVideoStart !== null ? currentVideoStart : 0;
@@ -9816,6 +10071,10 @@ function handleVideoKeyboard(e) {
             
         case 'ArrowRight':
             e.preventDefault();
+            if (directTrailerPlayer) {
+                directTrailerPlayer.currentTime = Math.min(directTrailerPlayer.duration || directTrailerPlayer.currentTime + 5, directTrailerPlayer.currentTime + 5);
+                break;
+            }
             // Forward 5 seconds with boundary check
             const currentTimeRight = youtubePlayer.getCurrentTime();
             const duration = youtubePlayer.getDuration();
@@ -9856,6 +10115,13 @@ function closeVideoTrailer() {
             youtubePlayer.stopVideo();
             youtubePlayer.destroy();
             youtubePlayer = null;
+        }
+
+        if (directTrailerPlayer) {
+            directTrailerPlayer.pause();
+            directTrailerPlayer.removeAttribute('src');
+            directTrailerPlayer.load();
+            directTrailerPlayer = null;
         }
         
         // Clear video boundaries and monitoring
