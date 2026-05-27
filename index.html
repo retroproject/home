@@ -1012,6 +1012,17 @@
             box-shadow: 0 0 16px rgba(70, 130, 180, 0.52);
         }
 
+        .sparda.paypal-plan-selected {
+            border-color: #d4af37;
+            box-shadow: 0 0 42px rgba(212, 175, 55, 0.58);
+        }
+
+        .sparda.paypal-plan-selected::after {
+            border-color: #d4af37;
+            background: rgba(94, 20, 32, 0.38);
+            box-shadow: 0 0 16px rgba(212, 175, 55, 0.52);
+        }
+
         .tier-card {
             background: linear-gradient(145deg, rgba(15, 15, 15, 0.15), rgba(30, 30, 30, 0.15));
             border: 2px solid rgba(220, 20, 60, 0.4);
@@ -1260,6 +1271,40 @@
         }
 
         body.arabic-mode .premium .tier-name {
+            font-family: 'Cairo', sans-serif;
+        }
+
+        .sparda {
+            border-color: #8f6f19;
+            background: linear-gradient(145deg, rgba(8, 8, 8, 0.24), rgba(42, 10, 18, 0.16));
+            animation: spardaPulse 4.2s ease-in-out infinite;
+        }
+
+        @keyframes spardaPulse {
+
+            0%,
+            100% {
+                box-shadow: 0 0 20px rgba(143, 111, 25, 0.32);
+            }
+
+            50% {
+                box-shadow: 0 0 36px rgba(212, 175, 55, 0.48);
+            }
+        }
+
+        .sparda .duration-label {
+            color: #d4af37;
+            text-shadow: 0 0 8px rgba(212, 175, 55, 0.48);
+        }
+
+        .sparda .tier-name {
+            color: #d4af37;
+            text-shadow: 0 0 10px rgba(212, 175, 55, 0.42);
+            font-size: 1.4rem;
+            font-family: 'Orbitron', monospace;
+        }
+
+        body.arabic-mode .sparda .tier-name {
             font-family: 'Cairo', sans-serif;
         }
 
@@ -5255,6 +5300,15 @@
                             <div class="duration-label" data-en="Yearly" data-ar="سنوي">Yearly</div>
                         </div>
                     </div>
+                <div class="tier-card sparda extended-plan paypal-plan-card" style="cursor: pointer;"
+                    data-paypal-plan="SON_OF_SPARDA_LIFETIME"
+                    onclick="selectPayPalPlan('SON_OF_SPARDA_LIFETIME')">
+                        <h3 class="tier-name" data-en="Son of Sparda" data-ar="ابن سباردا">Son of Sparda</h3>
+                        <div class="tier-details">
+                            <div class="price" data-en="200 USD" data-ar="٢٠٠ دولار">200 USD</div>
+                            <div class="duration-label" data-en="Lifetime" data-ar="مدى الحياة">Lifetime</div>
+                        </div>
+                    </div>
             </div>
 
         </div>
@@ -5911,10 +5965,15 @@
             return window._supabaseClient || null;
         }
 
-        const PAYPAL_PLANS = {
+        const PAYPAL_SUBSCRIPTION_PLANS = {
             DARK_KNIGHT_MONTHLY: 'P-6KB57061846721847NHY33XA',
             DEVIL_HUNTER_QUARTERLY: 'P-16R38177V0196502RNIHQYNY',
             DARK_SLAYER_YEARLY: 'P-57675874KX480001KNHY345A'
+        };
+        const PAYPAL_LIFETIME_PLAN_KEY = 'SON_OF_SPARDA_LIFETIME';
+        const PAYPAL_PLANS = {
+            ...PAYPAL_SUBSCRIPTION_PLANS,
+            [PAYPAL_LIFETIME_PLAN_KEY]: 'LIFETIME'
         };
 
         let selectedPayPalPlanKey = null;
@@ -5996,33 +6055,88 @@
             }
 
             try {
-                const resp = await fetch(`${SUPABASE_URL}/functions/v1/create-paypal-subscription`, {
+                const isLifetime = selectedPayPalPlanKey === PAYPAL_LIFETIME_PLAN_KEY;
+                const endpoint = isLifetime ? 'create-paypal-lifetime-order' : 'create-paypal-subscription';
+                const payload = isLifetime
+                    ? { email }
+                    : {
+                        plan_id: PAYPAL_SUBSCRIPTION_PLANS[selectedPayPalPlanKey],
+                        email
+                    };
+
+                const resp = await fetch(`${SUPABASE_URL}/functions/v1/${endpoint}`, {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
                         'apikey': SUPABASE_ANON_KEY,
                         'Authorization': `Bearer ${SUPABASE_ANON_KEY}`
                     },
-                    body: JSON.stringify({
-                        plan_id: PAYPAL_PLANS[selectedPayPalPlanKey],
-                        email
-                    })
+                    body: JSON.stringify(payload)
                 });
 
-                if (!resp.ok) throw new Error(`create-paypal-subscription ${resp.status}`);
+                if (!resp.ok) throw new Error(`${endpoint} ${resp.status}`);
                 const data = await resp.json();
                 if (!data.approval_url) throw new Error('No approval_url in response');
 
                 window.open(data.approval_url, '_blank', 'noopener');
-                showSuccessToast(currentLanguage === 'ar' ? 'تم فتح باي بال لإكمال الاشتراك.' : 'PayPal opened to complete your subscription.');
+                showSuccessToast(currentLanguage === 'ar' ? 'تم فتح باي بال لإكمال الدفع.' : 'PayPal opened to complete your payment.');
             } catch (error) {
-                console.error('PayPal subscription failed:', error);
-                showErrorToast(currentLanguage === 'ar' ? 'تعذر فتح اشتراك باي بال. حاول مرة أخرى.' : 'Could not start PayPal subscription. Please try again.');
+                console.error('PayPal checkout failed:', error);
+                showErrorToast(currentLanguage === 'ar' ? 'تعذر فتح باي بال. حاول مرة أخرى.' : 'Could not start PayPal checkout. Please try again.');
             } finally {
                 if (button) {
                     button.classList.remove('paypal-loading');
                     updatePayPalSubscribeState();
                 }
+            }
+        }
+
+        async function handlePayPalLifetimeReturn() {
+            const params = new URLSearchParams(window.location.search);
+            const lifetimeState = params.get('paypal_lifetime');
+            if (!lifetimeState) return;
+
+            const cleanUrl = `${window.location.origin}${window.location.pathname}${window.location.hash || ''}`;
+            const orderId = params.get('token') || params.get('order_id');
+
+            if (lifetimeState === 'cancel') {
+                window.history.replaceState({}, document.title, cleanUrl);
+                showInfoToast(currentLanguage === 'ar' ? 'تم إلغاء دفع باي بال.' : 'PayPal payment was cancelled.');
+                return;
+            }
+
+            if (lifetimeState !== 'success' || !orderId) {
+                window.history.replaceState({}, document.title, cleanUrl);
+                return;
+            }
+
+            showInfoToast(currentLanguage === 'ar' ? 'جاري تفعيل Son of Sparda...' : 'Activating Son of Sparda...');
+
+            try {
+                const resp = await fetch(`${SUPABASE_URL}/functions/v1/capture-paypal-lifetime-order`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'apikey': SUPABASE_ANON_KEY,
+                        'Authorization': `Bearer ${SUPABASE_ANON_KEY}`
+                    },
+                    body: JSON.stringify({ order_id: orderId })
+                });
+
+                if (!resp.ok) throw new Error(`capture-paypal-lifetime-order ${resp.status}`);
+                const data = await resp.json();
+                if (!data.ok) throw new Error(data.error || 'Lifetime capture failed');
+
+                showSuccessToast(
+                    data.orphan
+                        ? (currentLanguage === 'ar' ? 'تم الدفع. سيتم التفعيل عند تسجيل الدخول بنفس البريد.' : 'Payment complete. Sign in with the same email to activate lifetime access.')
+                        : (currentLanguage === 'ar' ? 'تم تفعيل Son of Sparda مدى الحياة.' : 'Son of Sparda lifetime access activated.')
+                );
+            } catch (error) {
+                console.error('PayPal lifetime activation failed:', error);
+                showErrorToast(currentLanguage === 'ar' ? 'تم الدفع لكن تعذر التفعيل التلقائي. افتح التطبيق أو تواصل معنا.' : 'Payment completed, but automatic activation failed. Open the app or contact support.');
+            } finally {
+                window.history.replaceState({}, document.title, cleanUrl);
             }
         }
 
@@ -8751,6 +8865,7 @@
             initializeMusic();
             loadGameData();
             updateLanguageContent();
+            handlePayPalLifetimeReturn();
 
             // Fade in page after everything is loaded
             setTimeout(() => {
