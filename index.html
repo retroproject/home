@@ -5182,14 +5182,14 @@
     <!-- Navigation -->
     <div class="nav">
         <!-- Keep same order in HTML -->
-        <button class="nav-btn active" onclick="showSection('games')" data-en="Games" data-ar="الألعاب">Games</button>
+        <button class="nav-btn" onclick="showSection('games')" data-en="Games" data-ar="الألعاب">Games</button>
         <button class="nav-btn" onclick="showSection('guide')" data-en="Guide" data-ar="الدليل" style="display: none;">Guide</button>
         <button class="nav-btn" onclick="showSection('screenshots')" data-en="Screenshots"
             data-ar="صور البرنامج">Screenshots</button>
         <button class="nav-btn" onclick="showSection('faq')" data-en="FAQ" data-ar="الأسئلة الشائعة">FAQ</button>
         <button class="nav-btn social-toggle" onclick="showSection('social')" data-en="Follow Us"
             data-ar="تابعنا">Follow Us</button>
-        <button class="nav-btn home-toggle" onclick="showSection('main')" data-en="Subscribe" data-ar="الاشتراك">Subscribe</button>
+        <button class="nav-btn home-toggle active" onclick="showSection('main')" data-en="Subscribe" data-ar="الاشتراك">Subscribe</button>
         <button class="nav-btn arabic-toggle" onclick="toggleLanguage()" data-en="Arabic"
             data-ar="الإنجليزيه">العربية</button>
         <button class="mute-btn" onclick="toggleMute()" id="muteButton">
@@ -5211,7 +5211,7 @@
     </div>
 
     <div class="mobile-menu" id="mobileMenu">
-        <button class="mobile-nav-btn active" onclick="showSection('games'); closeMobileMenu()" data-en="Games"
+        <button class="mobile-nav-btn" onclick="showSection('games'); closeMobileMenu()" data-en="Games"
             data-ar="الألعاب">Games</button>
         <button class="mobile-nav-btn" onclick="showSection('guide'); closeMobileMenu()" data-en="Guide"
             data-ar="الدليل" style="display: none;">Guide</button>
@@ -5221,7 +5221,7 @@
             data-ar="الأسئلة الشائعة">FAQ</button>
         <button class="mobile-nav-btn social-toggle" onclick="showSection('social'); closeMobileMenu()"
             data-en="Follow Us" data-ar="تابعنا">Follow Us</button>
-        <button class="mobile-nav-btn home-toggle" onclick="showSection('main'); closeMobileMenu()" data-en="Subscribe"
+        <button class="mobile-nav-btn home-toggle active" onclick="showSection('main'); closeMobileMenu()" data-en="Subscribe"
             data-ar="الاشتراك">Subscribe</button>
         <button class="mobile-nav-btn arabic-toggle" onclick="toggleLanguage(); closeMobileMenu()" data-en="Arabic"
             data-ar="الإنجليزيه">العربية</button>
@@ -5237,7 +5237,7 @@
     </div>
 
     <!-- Main Content (Original Subscription Page) -->
-    <div id="main-section" class="content-section">
+    <div id="main-section" class="content-section active">
         <div class="header">
             <h1 class="main-title" data-en="Retro Project" data-ar="مشروع ريترو">Retro Project</h1>
             <p class="subtitle" data-en="Subscription Tiers" data-ar="باقات الاشتراك">Subscription Tiers</p>
@@ -5315,7 +5315,7 @@
     </div>
 
     <!-- Games Content -->
-    <div id="games-section" class="content-section active">
+    <div id="games-section" class="content-section">
         <div class="games-content">
             <div class="search-container">
                 <div class="search-input-wrapper">
