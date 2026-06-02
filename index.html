@@ -98,6 +98,23 @@
             background-image: url('https://db.retroproject.org/shared/S002.jpg');
         }
 
+        body.arabic-mode [data-ar],
+        body.arabic-mode [data-ar] *,
+        body.arabic-mode [data-format-ar],
+        body.arabic-mode [data-placeholder-ar],
+        body.arabic-mode button,
+        body.arabic-mode input,
+        body.arabic-mode textarea,
+        body.arabic-mode select,
+        body.arabic-mode .toast {
+            font-family: 'Cairo', 'Segoe UI', 'Roboto', sans-serif !important;
+        }
+
+        body.arabic-mode input::placeholder,
+        body.arabic-mode textarea::placeholder {
+            font-family: 'Cairo', 'Segoe UI', 'Roboto', sans-serif !important;
+        }
+
         /* Language transition overlay */
         /* Language transition overlay */
         .language-transition-overlay {
@@ -6492,25 +6509,6 @@
             submitSelectedPayPalSubscription();
         }
 
-        function muteSiteForPayPalCheckout() {
-            if (isMuted) return;
-            if (typeof toggleMute === 'function') {
-                toggleMute();
-                return;
-            }
-
-            const audio = document.getElementById('backgroundMusic');
-            const visualizer = document.getElementById('audioVisualizer');
-            const mobileVisualizers = document.querySelectorAll('.mobile-mute-btn .audio-visualizer');
-            if (audio) {
-                audio.volume = 0;
-                audio.muted = true;
-            }
-            visualizer?.classList.add('muted');
-            mobileVisualizers.forEach(v => v.classList.add('muted'));
-            isMuted = true;
-        }
-
         async function submitSelectedPayPalSubscription() {
             const input = getSubscriptionEmailInput();
             const button = document.getElementById('subscriptionPayPalButton');
@@ -6526,8 +6524,6 @@
                 input?.focus();
                 return;
             }
-
-            muteSiteForPayPalCheckout();
 
             if (button) {
                 button.disabled = true;
@@ -6558,8 +6554,7 @@
                 const data = await resp.json();
                 if (!data.approval_url) throw new Error('No approval_url in response');
 
-                window.open(data.approval_url, '_blank', 'noopener');
-                showSuccessToast(currentLanguage === 'ar' ? 'تم فتح باي بال لإكمال الدفع.' : 'PayPal opened to complete your payment.');
+                window.location.assign(data.approval_url);
             } catch (error) {
                 console.error('PayPal checkout failed:', error);
                 showErrorToast(currentLanguage === 'ar' ? 'تعذر فتح باي بال. حاول مرة أخرى.' : 'Could not start PayPal checkout. Please try again.');
