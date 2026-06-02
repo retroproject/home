@@ -11,8 +11,9 @@
     <!-- Fetch both language backgrounds early so the EN↔AR toggle swap is
          instant. EN is used immediately (preload), AR is used on first toggle
          (prefetch — avoids the "preloaded but not used" console warning). -->
-    <link rel="preload" as="image" href="https://i.imgur.com/Dc7CikC.jpeg">
-    <link rel="prefetch" as="image" href="https://i.imgur.com/Rw6Jial.jpeg">
+    <link rel="preload" as="image" href="https://db.retroproject.org/shared/S001.jpg">
+    <link rel="prefetch" as="image" href="https://db.retroproject.org/shared/S002.jpg">
+    <link rel="prefetch" as="image" href="https://db.retroproject.org/shared/S003.jpg">
 
     <!-- Open Graph / Discord Embed Meta Tags -->
     <meta property="og:type" content="website">
@@ -82,7 +83,7 @@
         }
 
         body {
-            background: #0d0d0d url('https://i.imgur.com/Dc7CikC.jpeg') center/cover no-repeat fixed;
+            background: #0d0d0d url('https://db.retroproject.org/shared/S001.jpg') center/cover no-repeat fixed;
             min-height: 100vh;
             font-family: 'Orbitron', monospace;
             color: #e0e0e0;
@@ -94,7 +95,7 @@
         /* Arabic mode styles */
         body.arabic-mode {
             font-family: 'Cairo', sans-serif;
-            background-image: url('https://i.imgur.com/Rw6Jial.jpeg');
+            background-image: url('https://db.retroproject.org/shared/S002.jpg');
         }
 
         /* Language transition overlay */
@@ -1333,11 +1334,58 @@
             scrollbar-width: none;
         }
 
+        .books-content {
+            max-width: 1048px;
+            margin: 0;
+            padding: 100px 40px 2rem 40px;
+            position: relative;
+            z-index: 2;
+            overflow-y: auto;
+            overflow-x: hidden;
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+
+        body.arabic-mode .books-content {
+            padding: 100px 40px 2rem 40px;
+            direction: rtl;
+        }
+
+        .books-content::-webkit-scrollbar {
+            display: none;
+        }
+
         .search-container {
             max-width: 475px;
             margin: 2rem 0 3rem 300px;
             position: relative;
             animation: fadeInUp 1s ease-out 0.5s both;
+        }
+
+        .catalog-search-container {
+            max-width: 600px;
+            margin: 2rem 0 3rem 250px;
+            position: relative;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: margin 0.8s cubic-bezier(0.4, 0, 0.2, 1),
+                        max-width 0.8s cubic-bezier(0.4, 0, 0.2, 1),
+                        transform 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .catalog-search-container .search-input-wrapper {
+            background: transparent;
+            border-radius: 8px;
+            flex: 1;
+        }
+
+        .catalog-search-container .search-box {
+            min-width: 0;
+        }
+
+        body.arabic-mode .catalog-search-container {
+            margin: 2rem 250px 3rem 0;
         }
 
         /* Search input wrapper for inline chips */
@@ -1844,6 +1892,263 @@
             display: block;
         }
 
+        .book-category-toggle {
+            background: transparent;
+            border: 2px solid rgba(220, 20, 60, 0.4);
+            border-radius: 8px;
+            padding: 0.8rem 1rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+        }
+
+        .book-category-toggle:hover {
+            border-color: rgba(220, 20, 60, 0.8);
+            box-shadow: 0 0 20px rgba(220, 20, 60, 0.3);
+        }
+
+        .book-category-toggle img {
+            width: 28px;
+            height: 28px;
+            object-fit: contain;
+            display: block;
+        }
+
+        .books-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 16px;
+            animation: fadeInUp 1s ease-out 1s both;
+            padding: 0;
+            margin-bottom: 2rem;
+        }
+
+        body.arabic-mode .books-grid {
+            direction: rtl;
+        }
+
+        .book-card {
+            position: relative;
+            width: 100%;
+            aspect-ratio: 5 / 8;
+            border-radius: 12px;
+            overflow: hidden;
+            cursor: pointer;
+            background: linear-gradient(145deg, rgba(30, 30, 30, 0.8), rgba(50, 50, 50, 0.8));
+            opacity: 0;
+            transition: opacity 1s ease-in-out;
+            contain: layout style paint;
+        }
+
+        .book-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2) 20%, rgba(255, 255, 255, 0.3) 50%, rgba(255, 255, 255, 0.2) 80%, transparent);
+            transform: skewX(-25deg) translateX(-100%);
+            transition: none;
+            z-index: 2;
+            pointer-events: none;
+        }
+
+        .book-card:hover {
+            will-change: transform;
+        }
+
+        .book-card:hover::before {
+            transform: skewX(-25deg) translateX(200%);
+            transition: transform 1s ease-out;
+            will-change: transform;
+        }
+
+        .book-cover {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 12px;
+            display: block;
+        }
+
+        .cinema-content {
+            max-width: 1048px;
+            margin: 0;
+            padding: 100px 40px 2rem 40px;
+            position: relative;
+            z-index: 2;
+            overflow-y: auto;
+            overflow-x: hidden;
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+
+        body.arabic-mode .cinema-content {
+            padding: 100px 40px 2rem 40px;
+            direction: rtl;
+        }
+
+        .cinema-content::-webkit-scrollbar {
+            display: none;
+        }
+
+        .cinema-category-toggle {
+            background: transparent;
+            border: 2px solid rgba(220, 20, 60, 0.4);
+            border-radius: 8px;
+            padding: 0.8rem 1rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+        }
+
+        .cinema-category-toggle:hover {
+            border-color: rgba(220, 20, 60, 0.8);
+            box-shadow: 0 0 20px rgba(220, 20, 60, 0.3);
+        }
+
+        .cinema-category-toggle img {
+            width: 28px;
+            height: 28px;
+            object-fit: contain;
+            display: block;
+        }
+
+        .cinema-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 16px;
+            animation: fadeInUp 1s ease-out 1s both;
+            padding: 0;
+            margin-bottom: 2rem;
+        }
+
+        .cinema-grid.is-transitioning {
+            pointer-events: none;
+        }
+
+        body.arabic-mode .cinema-grid {
+            direction: rtl;
+        }
+
+        .cinema-card {
+            position: relative;
+            width: 100%;
+            aspect-ratio: 2 / 3;
+            border-radius: 12px;
+            overflow: hidden;
+            cursor: pointer;
+            background: linear-gradient(145deg, rgba(30, 30, 30, 0.8), rgba(50, 50, 50, 0.8));
+            opacity: 0;
+            transition: opacity 1s ease-in-out;
+            contain: layout style paint;
+        }
+
+        .cinema-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2) 20%, rgba(255, 255, 255, 0.3) 50%, rgba(255, 255, 255, 0.2) 80%, transparent);
+            transform: skewX(-25deg) translateX(-100%);
+            transition: none;
+            z-index: 2;
+            pointer-events: none;
+        }
+
+        .cinema-card:hover {
+            will-change: transform;
+        }
+
+        .cinema-card:hover::before {
+            transform: skewX(-25deg) translateX(200%);
+            transition: transform 1s ease-out;
+            will-change: transform;
+        }
+
+        .cinema-poster {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 12px;
+            display: block;
+        }
+
+        .cinema-rank-badge {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            width: 36px;
+            height: 36px;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Orbitron', monospace;
+            font-weight: bold;
+            font-size: 0.9rem;
+            z-index: 5;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+        }
+
+        .cinema-rank-badge.rank-s { background: linear-gradient(135deg, #FFD700, #FFA500); color: #000; box-shadow: 0 0 15px rgba(255, 215, 0, 0.6); }
+        .cinema-rank-badge.rank-a { background: linear-gradient(135deg, #DC143C, #B22222); color: #fff; box-shadow: 0 0 12px rgba(220, 20, 60, 0.5); }
+        .cinema-rank-badge.rank-b { background: linear-gradient(135deg, #4169E1, #1E90FF); color: #fff; box-shadow: 0 0 10px rgba(65, 105, 225, 0.4); }
+        .cinema-rank-badge.rank-c { background: linear-gradient(135deg, #00CED1, #20B2AA); color: #000; box-shadow: 0 0 8px rgba(0, 206, 209, 0.4); }
+        .cinema-rank-badge.rank-d { background: linear-gradient(135deg, #C0C0C0, #A8A8A8); color: #000; box-shadow: 0 0 6px rgba(192, 192, 192, 0.4); }
+
+        .cinema-card-info {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            padding: 1rem;
+            background: linear-gradient(to top, rgba(0, 0, 0, 0.95), rgba(0, 0, 0, 0.7) 60%, transparent);
+            opacity: 0;
+            transform: translateY(10px);
+            transition: opacity 0.3s ease, transform 0.3s ease;
+            z-index: 3;
+        }
+
+        .cinema-card:hover .cinema-card-info {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .cinema-card-title {
+            font-family: 'Orbitron', monospace;
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: #fff;
+            margin-bottom: 0.3rem;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8);
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .cinema-card-year {
+            color: #93c5fd;
+            font-family: 'Orbitron', monospace;
+            font-weight: 600;
+            font-size: 0.78rem;
+            text-shadow: 0 1px 2px rgba(0, 0, 0, 0.85);
+        }
 
         /* Loading indicator for infinite scroll */
         .loading-indicator {
@@ -2252,7 +2557,7 @@
             padding: 0.6rem 1.2rem;
             font-size: 0.8rem;
             font-weight: 700;
-            border-radius: 25px;
+            border-radius: 10px;
             letter-spacing: 1px;
             text-align: center;
             display: flex;
@@ -2807,7 +3112,7 @@
             font-weight: 700;
             font-size: 0.9rem;
             letter-spacing: 1px;
-            border-radius: 20px;
+            border-radius: 10px;
             border: 2px solid;
             z-index: 5;
         }
@@ -3341,28 +3646,18 @@
             transition: all 0.3s ease;
             backdrop-filter: none;
             text-decoration: none;
-            display: inline-block;
-            min-width: 200px;
+            appearance: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 240px;
+            height: 62px;
+            max-width: calc(100vw - 4rem);
+            box-sizing: border-box;
             text-align: center;
             font-size: 1.1rem;
-        }
-
-        .mobile-nav-btn.arabic-toggle {
-            border: 2px solid rgba(184, 134, 11, 0.6);
-        }
-
-        .mobile-nav-btn.arabic-toggle:hover {
-            border-color: #FFD700;
-            box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
-        }
-
-        .mobile-nav-btn.social-toggle {
-            border: 2px solid rgba(70, 130, 180, 0.6);
-        }
-
-        .mobile-nav-btn.social-toggle:hover {
-            border-color: #4682b4;
-            box-shadow: 0 0 20px rgba(70, 130, 180, 0.3);
+            line-height: 1.15;
+            white-space: nowrap;
         }
 
         .mobile-nav-btn:hover {
@@ -3374,6 +3669,72 @@
         .mobile-nav-btn.active {
             background: linear-gradient(145deg, rgba(220, 20, 60, 0.2), rgba(30, 30, 30, 0.9));
             border-color: #dc143c;
+        }
+
+        .mobile-nav-btn.arabic-toggle {
+            border: 2px solid rgba(147, 112, 219, 0.6);
+        }
+
+        .mobile-nav-btn.arabic-toggle:hover {
+            border-color: #9370db;
+            box-shadow: 0 0 20px rgba(147, 112, 219, 0.4);
+        }
+
+        .mobile-nav-btn.arabic-toggle.active {
+            background: rgba(147, 112, 219, 0.1);
+            border-color: #9370db;
+            box-shadow: 0 0 15px rgba(147, 112, 219, 0.5);
+        }
+
+        .mobile-nav-btn.social-toggle {
+            border: 2px solid rgba(70, 130, 180, 0.6);
+        }
+
+        .mobile-nav-btn.social-toggle:hover {
+            border-color: #4682b4;
+            box-shadow: 0 0 20px rgba(70, 130, 180, 0.3);
+        }
+
+        .mobile-nav-btn.social-toggle.active {
+            background: rgba(70, 130, 180, 0.1);
+            border-color: #4682b4;
+            box-shadow: 0 0 15px rgba(70, 130, 180, 0.4);
+        }
+
+        .mobile-nav-btn.home-toggle {
+            border: 2px solid rgba(255, 215, 0, 0.6);
+            position: relative;
+            overflow: hidden;
+            text-shadow: 0 0 10px rgba(255, 215, 0, 0.8);
+            min-height: 62px;
+        }
+
+        .mobile-nav-btn.home-toggle:hover {
+            border-color: #ffd700;
+            box-shadow: 0 0 20px rgba(255, 215, 0, 0.4);
+        }
+
+        .mobile-nav-btn.home-toggle.active {
+            background: linear-gradient(145deg, rgba(255, 215, 0, 0.2), rgba(30, 30, 30, 0.9));
+            border-color: #ffd700;
+            box-shadow: 0 0 15px rgba(255, 215, 0, 0.5);
+            height: 62px;
+            min-height: 62px;
+        }
+
+        .mobile-nav-btn.home-toggle::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 215, 0, 0.2), transparent);
+            transition: left 0.5s;
+        }
+
+        .mobile-nav-btn.home-toggle:hover::before {
+            left: 100%;
         }
 
         .mobile-mute-btn {
@@ -3424,14 +3785,17 @@
                 grid-template-columns: 1fr;
             }
 
-            .games-grid {
+            .games-grid,
+            .books-grid,
+            .cinema-grid {
                 grid-template-columns: repeat(3, 180px);
-                grid-template-rows: repeat(5, 180px);
                 margin-left: 2rem;
                 min-height: 950px;
             }
 
-            body.arabic-mode .games-grid {
+            body.arabic-mode .games-grid,
+            body.arabic-mode .books-grid,
+            body.arabic-mode .cinema-grid {
                 margin-right: 2rem;
                 margin-left: 0;
             }
@@ -3441,7 +3805,17 @@
                 max-width: 400px;
             }
 
+            .catalog-search-container {
+                margin-left: 2rem;
+                max-width: 400px;
+            }
+
             body.arabic-mode .search-container {
+                margin-right: 2rem;
+                margin-left: 0;
+            }
+
+            body.arabic-mode .catalog-search-container {
                 margin-right: 2rem;
                 margin-left: 0;
             }
@@ -3455,25 +3829,25 @@
                 left: 0;
                 width: 100%;
                 height: calc(100vh + 30px);
-                background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat;
+                background: #0d0d0d url('https://db.retroproject.org/shared/S003.jpg') center/cover no-repeat;
                 background-size: cover;
                 z-index: -1;
             }
 
             body {
-                background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat fixed !important;
+                background: #0d0d0d url('https://db.retroproject.org/shared/S003.jpg') center/cover no-repeat fixed !important;
                 background-size: cover !important;
                 min-height: calc(100vh + 30px);
                 position: relative;
             }
 
             body.arabic-mode {
-                background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat fixed !important;
+                background: #0d0d0d url('https://db.retroproject.org/shared/S003.jpg') center/cover no-repeat fixed !important;
                 background-size: cover !important;
             }
 
             body.arabic-mode::before {
-                background: #0d0d0d url('https://i.imgur.com/DdYKWbi.png') center/cover no-repeat;
+                background: #0d0d0d url('https://db.retroproject.org/shared/S003.jpg') center/cover no-repeat;
                 background-size: cover;
             }
 
@@ -3562,15 +3936,18 @@
                 font-size: 0.9rem;
             }
 
-            .games-grid {
+            .games-grid,
+            .books-grid,
+            .cinema-grid {
                 grid-template-columns: repeat(2, 150px);
-                grid-template-rows: repeat(7, 150px);
                 margin: 0 auto;
                 justify-content: center;
                 min-height: 1050px;
             }
 
-            body.arabic-mode .games-grid {
+            body.arabic-mode .games-grid,
+            body.arabic-mode .books-grid,
+            body.arabic-mode .cinema-grid {
                 margin: 0 auto !important;
                 justify-content: center !important;
                 margin-left: auto !important;
@@ -3590,18 +3967,31 @@
                 max-width: 300px;
             }
 
+            .catalog-search-container {
+                margin: 0 auto 3rem auto;
+                max-width: 300px;
+            }
+
             body.arabic-mode .search-container {
                 margin: 0 auto 3rem auto;
             }
 
-            .games-content {
+            body.arabic-mode .catalog-search-container {
+                margin: 0 auto 3rem auto;
+            }
+
+            .games-content,
+            .books-content,
+            .cinema-content {
                 padding-left: 1rem;
                 padding-right: 1rem;
                 padding-top: 80px;
                 text-align: center;
             }
 
-            body.arabic-mode .games-content {
+            body.arabic-mode .games-content,
+            body.arabic-mode .books-content,
+            body.arabic-mode .cinema-content {
                 padding-left: 1rem;
                 padding-right: 1rem;
                 text-align: center;
@@ -3806,14 +4196,17 @@
                 padding: 1.5rem;
             }
 
-            .games-grid {
+            .games-grid,
+            .books-grid,
+            .cinema-grid {
                 grid-template-columns: repeat(2, 120px);
-                grid-template-rows: repeat(7, 120px);
                 margin-left: 0.5rem;
                 min-height: 840px;
             }
 
-            body.arabic-mode .games-grid {
+            body.arabic-mode .games-grid,
+            body.arabic-mode .books-grid,
+            body.arabic-mode .cinema-grid {
                 margin-right: 0.5rem;
                 margin-left: 0;
             }
@@ -5127,6 +5520,11 @@
             max-width: calc(100vw - 40px);
         }
 
+        body.arabic-mode .toast-container {
+            right: auto;
+            left: 20px;
+        }
+
         .toast {
             background: #4682b4;
             border: none;
@@ -5145,6 +5543,12 @@
             position: relative;
             overflow: hidden;
             word-wrap: break-word;
+        }
+
+        body.arabic-mode .toast {
+            font-family: 'Cairo', 'Segoe UI', 'Roboto', sans-serif;
+            direction: rtl;
+            text-align: right;
         }
 
         .toast.show {
@@ -5183,6 +5587,8 @@
     <div class="nav">
         <!-- Keep same order in HTML -->
         <button class="nav-btn" onclick="showSection('games')" data-en="Games" data-ar="الألعاب">Games</button>
+        <button class="nav-btn" onclick="showSection('books')" data-en="Books" data-ar="الكتب">Books</button>
+        <button class="nav-btn" onclick="showSection('cinema')" data-en="Cinema" data-ar="السينما">Cinema</button>
         <button class="nav-btn" onclick="showSection('guide')" data-en="Guide" data-ar="الدليل" style="display: none;">Guide</button>
         <button class="nav-btn" onclick="showSection('screenshots')" data-en="Screenshots"
             data-ar="صور البرنامج">Screenshots</button>
@@ -5213,6 +5619,10 @@
     <div class="mobile-menu" id="mobileMenu">
         <button class="mobile-nav-btn" onclick="showSection('games'); closeMobileMenu()" data-en="Games"
             data-ar="الألعاب">Games</button>
+        <button class="mobile-nav-btn" onclick="showSection('books'); closeMobileMenu()" data-en="Books"
+            data-ar="الكتب">Books</button>
+        <button class="mobile-nav-btn" onclick="showSection('cinema'); closeMobileMenu()" data-en="Cinema"
+            data-ar="السينما">Cinema</button>
         <button class="mobile-nav-btn" onclick="showSection('guide'); closeMobileMenu()" data-en="Guide"
             data-ar="الدليل" style="display: none;">Guide</button>
         <button class="mobile-nav-btn" onclick="showSection('screenshots'); closeMobileMenu()" data-en="Screenshots"
@@ -5274,8 +5684,8 @@
                     onclick="selectPayPalPlan('DARK_KNIGHT_MONTHLY')">
                         <h3 class="tier-name" data-en="Dark Knight" data-ar="الفارس المظلم">Dark Knight</h3>
                         <div class="tier-details">
-                            <div class="price" data-en="15 USD" data-ar="١٥ دولار">15 USD</div>
-                            <div class="duration-label" data-en="Month" data-ar="شهر">Month</div>
+                            <div class="price" data-en="15 USD" data-ar="٦٠ ريال">15 USD</div>
+                            <div class="duration-label" data-en="Month · 2 Devices" data-ar="شهر · جهازين">Month</div>
                         </div>
                     </div>
 
@@ -5284,8 +5694,8 @@
                     onclick="selectPayPalPlan('DEVIL_HUNTER_QUARTERLY')">
                         <h3 class="tier-name" data-en="Devil Hunter" data-ar="صائد الشياطين">Devil Hunter</h3>
                         <div class="tier-details">
-                            <div class="price" data-en="30 USD" data-ar="٣٠ دولار">30 USD</div>
-                            <div class="duration-label" data-en="3 Months" data-ar="٣ أشهر">3 Months</div>
+                            <div class="price" data-en="30 USD" data-ar="١٢٠ ريال">30 USD</div>
+                            <div class="duration-label" data-en="3 Months · 2 Devices" data-ar="٣ أشهر · جهازين">3 Months</div>
                         </div>
                     </div>
             </div>
@@ -5296,8 +5706,8 @@
                     onclick="selectPayPalPlan('DARK_SLAYER_YEARLY')">
                         <h3 class="tier-name" data-en="Dark Slayer" data-ar="قاتل الظلام">Dark Slayer</h3>
                         <div class="tier-details">
-                            <div class="price" data-en="100 USD" data-ar="١٠٠ دولار">100 USD</div>
-                            <div class="duration-label" data-en="Year" data-ar="سنه">Year</div>
+                            <div class="price" data-en="100 USD" data-ar="٤٠٠ ريال">100 USD</div>
+                            <div class="duration-label" data-en="Year · 2 Devices" data-ar="سنه · جهازين">Year</div>
                         </div>
                     </div>
                 <div class="tier-card sparda extended-plan paypal-plan-card" style="cursor: pointer;"
@@ -5305,8 +5715,8 @@
                     onclick="selectPayPalPlan('SON_OF_SPARDA_LIFETIME')">
                         <h3 class="tier-name" data-en="Son of Sparda" data-ar="ابن سباردا">Son of Sparda</h3>
                         <div class="tier-details">
-                            <div class="price" data-en="200 USD" data-ar="٢٠٠ دولار">200 USD</div>
-                            <div class="duration-label" data-en="Lifetime" data-ar="مدى الحياة">Lifetime</div>
+                            <div class="price" data-en="250 USD" data-ar="١٠٠٠ ريال">250 USD</div>
+                            <div class="duration-label" data-en="Lifetime · 2 Devices" data-ar="مدى الحياة · جهازين">Lifetime</div>
                         </div>
                     </div>
             </div>
@@ -5335,6 +5745,60 @@
                 <div class="no-results-icon">🎮</div>
                 <div data-en="No games found matching your search." data-ar="لم يتم العثور على ألعاب مطابقة لبحثك.">No
                     games found matching your search.</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Books Content -->
+    <div id="books-section" class="content-section">
+        <div class="books-content">
+            <div class="search-container catalog-search-container">
+                <div class="search-input-wrapper">
+                    <input type="text" class="search-box" placeholder="Search" id="bookSearch"
+                        oninput="handleBookSearchInput()"
+                        data-placeholder-en="Search" data-placeholder-ar="بحث">
+                </div>
+                <button class="book-category-toggle" id="bookCategoryToggle" onclick="cycleBooksCategory()"
+                    data-tooltip-text="Book Category" data-category-en="All Books" data-category-ar="كل الكتب">
+                    <img src="https://db.retroproject.org/icons/Book%20%5B004%5D.png" alt="All Books" id="bookCategoryIcon">
+                </button>
+            </div>
+
+            <div class="books-grid" id="booksGrid">
+                <!-- Books will be loaded here -->
+            </div>
+
+            <div class="no-results" id="booksNoResults" style="display: none;">
+                <div class="no-results-icon">📚</div>
+                <div data-en="No books found matching your search." data-ar="لم يتم العثور على كتب مطابقة لبحثك.">No
+                    books found matching your search.</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Cinema Content -->
+    <div id="cinema-section" class="content-section">
+        <div class="cinema-content">
+            <div class="search-container catalog-search-container cinema-search-container">
+                <div class="search-input-wrapper">
+                    <input type="text" class="search-box" placeholder="Search" id="cinemaSearch"
+                        oninput="handleCinemaSearchInput()"
+                        data-placeholder-en="Search" data-placeholder-ar="بحث">
+                </div>
+                <button class="cinema-category-toggle" id="cinemaCategoryToggle" onclick="cycleCinemaCategory()"
+                    data-tooltip-text="Category" data-category-en="Movies" data-category-ar="أفلام">
+                    <img src="https://db.retroproject.org/icons/Movie%20%5B001%5D.png" alt="Movies" id="cinemaCategoryIcon">
+                </button>
+            </div>
+
+            <div class="cinema-grid" id="cinemaGrid">
+                <!-- Cinema cards will be loaded here -->
+            </div>
+
+            <div class="no-results" id="cinemaNoResults" style="display: none;">
+                <div class="no-results-icon">🎬</div>
+                <div data-en="No media found matching your search." data-ar="لم يتم العثور على نتائج مطابقة لبحثك.">No
+                    media found matching your search.</div>
             </div>
         </div>
     </div>
@@ -5439,13 +5903,13 @@
                     <div class="image-comparison-container" id="enhancementsContent" style="display: none;">
                         <div class="image-comparison-slider" id="comparisonSlider">
                             <div class="comparison-image original-image">
-                                <img id="originalImg" src="https://i.imgur.com/zt35DB9.jpg" alt="Original"
+                                <img id="originalImg" src="https://db.retroproject.org/shared/O001.jpg" alt="Original"
                                     draggable="false">
                                 <div class="image-label original-label" data-en="ORIGINAL" data-ar="الأصلية">ORIGINAL
                                 </div>
                             </div>
                             <div class="comparison-image enhanced-image">
-                                <img id="enhancedImg" src="https://i.imgur.com/XSOBrWv.jpg" alt="Enhanced"
+                                <img id="enhancedImg" src="https://db.retroproject.org/shared/E001.jpg" alt="Enhanced"
                                     draggable="false">
                                 <div class="image-label enhanced-label" data-en="ENHANCED" data-ar="المحسنة">ENHANCED
                                 </div>
@@ -6141,12 +6605,26 @@
         }
 
         // Toast notification system
+        const toastArabicMessages = {
+            'App only feature': 'هذه الميزة متوفرة في التطبيق فقط'
+        };
+
+        function getToastMessage(message) {
+            if (currentLanguage !== 'ar') return message;
+            return toastArabicMessages[message] || message;
+        }
+
         function showToast(message, type = 'info') {
             const toastContainer = document.getElementById('toastContainer');
             if (toastContainer) {
+                const isArabic = currentLanguage === 'ar' || document.body.classList.contains('arabic-mode');
+                const slideOffset = isArabic ? '-100%' : '100%';
+                toastContainer.style.left = isArabic ? '20px' : 'auto';
+                toastContainer.style.right = isArabic ? 'auto' : '20px';
                 const toast = document.createElement('div');
                 toast.className = `toast toast-${type}`;
-                toast.textContent = message;
+                toast.textContent = getToastMessage(message);
+                toast.dir = isArabic ? 'rtl' : 'ltr';
                 const colors = {
                     error: '#dc3545',
                     success: '#4682b4',
@@ -6159,8 +6637,9 @@
                     border-radius: 10px;
                     margin-bottom: 1rem;
                     opacity: 0;
-                    transform: translateX(100%);
+                    transform: translateX(${slideOffset});
                     transition: all 0.3s ease;
+                    text-align: ${isArabic ? 'right' : 'left'};
                 `;
                 toastContainer.appendChild(toast);
 
@@ -6171,7 +6650,7 @@
 
                 setTimeout(() => {
                     toast.style.opacity = '0';
-                    toast.style.transform = 'translateX(100%)';
+                    toast.style.transform = `translateX(${slideOffset})`;
                     setTimeout(() => toast.remove(), 300);
                 }, 3000);
             }
@@ -7040,11 +7519,15 @@
                         currentLanguage = 'ar';
                         document.body.classList.add('arabic-mode');
                         document.documentElement.dir = 'rtl';
+                        document.documentElement.lang = 'ar';
                     } else {
                         currentLanguage = 'en';
                         document.body.classList.remove('arabic-mode');
                         document.documentElement.dir = 'ltr';
+                        document.documentElement.lang = 'en';
                     }
+
+                    localStorage.setItem('preferredLanguage', currentLanguage);
 
                     // Update all text content
                     updateLanguageContent();
@@ -7095,8 +7578,6 @@
                 }, 500);
             }, 500);
 
-            // Save language preference
-            localStorage.setItem('preferredLanguage', currentLanguage);
         }
 
         // Update all text content based on current language
@@ -7124,6 +7605,14 @@
                 const key = currentLanguage === 'en' ? 'data-placeholder-en' : 'data-placeholder-ar';
                 element.placeholder = element.getAttribute(key);
             });
+
+            if (typeof updateBookCategoryToggle === 'function') {
+                updateBookCategoryToggle();
+            }
+
+            if (typeof updateCinemaCategoryToggle === 'function') {
+                updateCinemaCategoryToggle();
+            }
 
             // Update screenshot title based on current mode
             const screenshotTitle = document.getElementById('screenshotTitle');
@@ -7200,6 +7689,112 @@
         let isSearching = false;
         const ITEMS_PER_BATCH = 24;
         const SCROLL_THRESHOLD = 300;
+
+        const BOOKS_DATABASE_URL = 'https://raw.githubusercontent.com/retroproject/home/refs/heads/main/database/books.json';
+        const BOOKS_ITEMS_PER_BATCH = 24;
+        const BOOK_CATEGORY_ICONS = {
+            all: 'https://db.retroproject.org/icons/Book%20%5B004%5D.png',
+            englishNovels: 'https://db.retroproject.org/icons/Book%20%5B006%5D.png',
+            japaneseNovels: 'https://db.retroproject.org/icons/Book%20%5B005%5D.png',
+            manga: 'https://db.retroproject.org/icons/Book%20%5B007%5D.png',
+            manhwa: 'https://db.retroproject.org/icons/Book%20%5B011%5D.png',
+            comics: 'https://db.retroproject.org/icons/Book%20%5B009%5D.png',
+            gaming: 'https://db.retroproject.org/icons/Book%20%5B010%5D.png'
+        };
+        const bookCategories = [
+            { name: 'All Books', nameAr: 'كل الكتب', icon: BOOK_CATEGORY_ICONS.all, tag: null },
+            { name: 'English Novels', nameAr: 'الروايات الإنجليزية', icon: BOOK_CATEGORY_ICONS.englishNovels, tag: 'English Novels' },
+            { name: 'Japanese Novels', nameAr: 'الروايات اليابانية', icon: BOOK_CATEGORY_ICONS.japaneseNovels, tag: 'Japanese Novels' },
+            { name: 'Manga', nameAr: 'مانجا', icon: BOOK_CATEGORY_ICONS.manga, tag: 'Manga' },
+            { name: 'Manhwa', nameAr: 'مانهوا', icon: BOOK_CATEGORY_ICONS.manhwa, tag: 'Manhwa' },
+            { name: 'Comics', nameAr: 'كوميكس', icon: BOOK_CATEGORY_ICONS.comics, tag: 'Comic' },
+            { name: 'Gaming', nameAr: 'الألعاب', icon: BOOK_CATEGORY_ICONS.gaming, tag: 'Gaming' }
+        ];
+        let allBooks = [];
+        let filteredBooks = [];
+        let loadedBooksCount = BOOKS_ITEMS_PER_BATCH;
+        let isLoadingMoreBooks = false;
+        let booksLoaded = false;
+        let booksLoading = false;
+        let currentBookCategoryIndex = 0;
+        let displayBooksVersion = 0;
+        let booksSearchDebounceTimer = null;
+
+        const TMDB_READ_TOKEN = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyYzUwMGE4YzhiYjM4YWY5MTZjMGQ4OGJkMTFkYzQ1OCIsIm5iZiI6MTc2NjQ3ODI2My44ODQsInN1YiI6IjY5NGE1MWI3Y2M4OGU1ZDJkOTgxMmJiNSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.6iNj7tKjlVja61F4yEogZkuEkb4OLqwj6VMHZzk8o-U';
+        const TMDB_BASE_URL = 'https://api.themoviedb.org/3';
+        const TMDB_IMAGE_BASE = 'https://image.tmdb.org/t/p/';
+        const ANILIST_API_URL = 'https://graphql.anilist.co';
+        const CINEMA_ITEMS_PER_BATCH = 20;
+        const CINEMA_CATEGORY_ICONS = {
+            movie: 'https://db.retroproject.org/icons/Movie%20%5B001%5D.png',
+            tv: 'https://db.retroproject.org/icons/TV%20Show%20%5B001%5D.png',
+            anime: 'https://db.retroproject.org/icons/Anime%20%5B001%5D.png'
+        };
+        const cinemaCategories = [
+            { key: 'movie', name: 'Movies', nameAr: 'أفلام', icon: CINEMA_CATEGORY_ICONS.movie, mediaType: 'movie' },
+            { key: 'tv', name: 'TV Shows', nameAr: 'مسلسلات', icon: CINEMA_CATEGORY_ICONS.tv, mediaType: 'tv' },
+            { key: 'anime', name: 'Anime', nameAr: 'أنمي', icon: CINEMA_CATEGORY_ICONS.anime, mediaType: 'tv' }
+        ];
+        let cinemaData = [];
+        let filteredCinemaData = [];
+        let loadedCinemaCount = CINEMA_ITEMS_PER_BATCH;
+        let isLoadingMoreCinema = false;
+        let cinemaLoaded = false;
+        let cinemaLoading = false;
+        let currentCinemaCategoryIndex = 0;
+        let cinemaPage = 1;
+        let cinemaHasMore = true;
+        let cinemaSearchTerm = '';
+        let cinemaMode = 'discover';
+        let displayCinemaVersion = 0;
+        let cinemaSearchDebounceTimer = null;
+        let cinemaAniListHasNextPage = false;
+
+        const ANILIST_ANIME_QUERY = `
+            query ($page: Int, $perPage: Int, $search: String, $seasonYear: Int, $season: MediaSeason, $sort: [MediaSort], $genre_in: [String], $format_in: [MediaFormat], $yearGreater: FuzzyDateInt, $yearLesser: FuzzyDateInt) {
+                Page(page: $page, perPage: $perPage) {
+                    pageInfo {
+                        total
+                        currentPage
+                        hasNextPage
+                    }
+                    media(type: ANIME, search: $search, seasonYear: $seasonYear, season: $season, sort: $sort, genre_in: $genre_in, format_in: $format_in, startDate_greater: $yearGreater, startDate_lesser: $yearLesser, isAdult: false) {
+                        id
+                        idMal
+                        title {
+                            romaji
+                            english
+                            native
+                        }
+                        synonyms
+                        format
+                        episodes
+                        duration
+                        status
+                        startDate {
+                            year
+                            month
+                            day
+                        }
+                        averageScore
+                        meanScore
+                        popularity
+                        description(asHtml: false)
+                        coverImage {
+                            extraLarge
+                            large
+                        }
+                        bannerImage
+                        genres
+                        studios(isMain: true) {
+                            nodes {
+                                name
+                            }
+                        }
+                    }
+                }
+            }
+        `;
 
         // Screenshot mode tracking
         let currentScreenshotMode = 'program';
@@ -7324,24 +7919,24 @@
         // Example data
         const comparisonExamples = [
             {
-                original: 'https://i.imgur.com/zt35DB9.jpg',
-                enhanced: 'https://i.imgur.com/XSOBrWv.jpg'
+                original: 'https://db.retroproject.org/shared/O001.jpg',
+                enhanced: 'https://db.retroproject.org/shared/E001.jpg'
             },
             {
-                original: 'https://i.imgur.com/tbgcbCL.jpg',
-                enhanced: 'https://i.imgur.com/NlGhtKi.jpg'
+                original: 'https://db.retroproject.org/shared/O002.jpg',
+                enhanced: 'https://db.retroproject.org/shared/E002.jpg'
             },
             {
-                original: 'https://i.imgur.com/BauyXiu.png',
-                enhanced: 'https://i.imgur.com/9ySKA6T.png'
+                original: 'https://db.retroproject.org/shared/O003.png',
+                enhanced: 'https://db.retroproject.org/shared/E003.png'
             },
             {
-                original: 'https://i.imgur.com/jcTDMAx.jpeg',
-                enhanced: 'https://i.imgur.com/u5GcKFQ.jpeg'
+                original: 'https://db.retroproject.org/shared/O004.jpg',
+                enhanced: 'https://db.retroproject.org/shared/E004.jpg'
             },
             {
-                original: 'https://i.imgur.com/rqwJYb0.png',
-                enhanced: 'https://i.imgur.com/5kSNI74.png'
+                original: 'https://db.retroproject.org/shared/O005.png',
+                enhanced: 'https://db.retroproject.org/shared/E005.png'
             }
         ];
 
@@ -8001,6 +8596,699 @@
             }
         }
 
+        function createBookPlaceholderCover() {
+            const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 400"><rect width="250" height="400" fill="#222"/><text x="125" y="200" text-anchor="middle" fill="#dc143c" font-family="Arial" font-size="18">No Cover</text></svg>`;
+            return `data:image/svg+xml,${encodeURIComponent(svg)}`;
+        }
+
+        function normalizeBookForSite(book) {
+            const title = book.Title || book.title || 'Unknown Book';
+            const coverOriginal = book.CoverUrl || book.coverUrl || '';
+            const tags = Array.isArray(book.Tags) ? book.Tags : [];
+
+            return {
+                id: book._id || book.id || title,
+                title,
+                sortingTitle: book.SortingTitle || book.sortingTitle || title,
+                author: book.Author || book.author || '',
+                series: book.Series || book.series || '',
+                tags,
+                cover: coverOriginal ? resolveSiteAssetUrl(coverOriginal) : createBookPlaceholderCover(),
+                originalCover: coverOriginal,
+                searchText: [
+                    title,
+                    book.SortingTitle || '',
+                    book.Author || '',
+                    book.Series || '',
+                    tags.join(' ')
+                ].join(' ').toLowerCase()
+            };
+        }
+
+        async function loadAllBooksForSite() {
+            try {
+                const response = await fetch(`${BOOKS_DATABASE_URL}?t=${Date.now()}`);
+                if (!response.ok) throw new Error(`Books database HTTP ${response.status}`);
+                const rawBooks = await response.json();
+                return (Array.isArray(rawBooks) ? rawBooks : [])
+                    .filter(book => !(Array.isArray(book.Tags) && book.Tags.includes('Hide')))
+                    .map(normalizeBookForSite)
+                    .sort((a, b) => a.sortingTitle.localeCompare(b.sortingTitle));
+            } catch (error) {
+                console.error('Books database failed to load:', error);
+                return [];
+            }
+        }
+
+        function updateBookCategoryToggle() {
+            const category = bookCategories[currentBookCategoryIndex] || bookCategories[0];
+            const button = document.getElementById('bookCategoryToggle');
+            const icon = document.getElementById('bookCategoryIcon');
+            if (!button || !icon) return;
+
+            const label = currentLanguage === 'ar' ? category.nameAr : category.name;
+            icon.src = category.icon;
+            icon.alt = label;
+            button.setAttribute('aria-label', label);
+        }
+
+        function cycleBooksCategory() {
+            currentBookCategoryIndex = (currentBookCategoryIndex + 1) % bookCategories.length;
+            updateBookCategoryToggle();
+
+            const input = document.getElementById('bookSearch');
+            if (input) input.value = '';
+
+            applyBooksFilter();
+        }
+
+        function handleBookSearchInput() {
+            if (currentBookCategoryIndex !== 0) {
+                currentBookCategoryIndex = 0;
+                updateBookCategoryToggle();
+            }
+
+            if (booksSearchDebounceTimer) clearTimeout(booksSearchDebounceTimer);
+            booksSearchDebounceTimer = setTimeout(() => {
+                applyBooksFilter();
+            }, 300);
+        }
+
+        function applyBooksFilter() {
+            const input = document.getElementById('bookSearch');
+            const searchTerm = input ? input.value.toLowerCase().trim() : '';
+            const category = bookCategories[currentBookCategoryIndex] || bookCategories[0];
+
+            let nextBooks = [...allBooks];
+
+            if (category.tag) {
+                nextBooks = nextBooks.filter(book => book.tags.includes(category.tag));
+            }
+
+            if (searchTerm) {
+                nextBooks = nextBooks.filter(book => book.searchText.includes(searchTerm));
+            }
+
+            filteredBooks = nextBooks.sort((a, b) => a.sortingTitle.localeCompare(b.sortingTitle));
+            loadedBooksCount = BOOKS_ITEMS_PER_BATCH;
+            displayBooks();
+        }
+
+        function animateBookCards(startIndex) {
+            const bookCards = document.querySelectorAll('.book-card');
+            const begin = startIndex || 0;
+
+            for (let i = begin; i < bookCards.length; i++) {
+                const card = bookCards[i];
+                const img = card.querySelector('.book-cover');
+                if (!img) { fadeInCard(card); continue; }
+                if (img.dataset.retryWired === '1') continue;
+                img.dataset.retryWired = '1';
+                wireInfiniteCoverRetry(img, card);
+            }
+        }
+
+        async function displayBooks() {
+            const myVersion = ++displayBooksVersion;
+            const booksGrid = document.getElementById('booksGrid');
+            const noResults = document.getElementById('booksNoResults');
+            if (!booksGrid || !noResults) return;
+
+            const existingBookCards = booksGrid.querySelectorAll('.book-card');
+            if (existingBookCards.length > 0) {
+                existingBookCards.forEach((card) => {
+                    card.style.transition = 'opacity 1s ease-in-out';
+                    card.style.opacity = '0';
+                });
+                await new Promise(resolve => setTimeout(resolve, 1000));
+                if (myVersion !== displayBooksVersion) return;
+            }
+
+            if (filteredBooks.length === 0) {
+                booksGrid.innerHTML = '';
+                noResults.style.display = 'block';
+                return;
+            }
+
+            noResults.style.display = 'none';
+
+            const displayedBooks = filteredBooks.slice(0, Math.min(loadedBooksCount, filteredBooks.length));
+            const newHTML = displayedBooks.map(book => `
+                <div class="book-card" style="opacity: 0; visibility: visible;" onclick="showErrorToast('App only feature')">
+                    <img class="book-cover"
+                         src="${escapeHtml(book.cover)}"
+                         data-original-asset-url="${escapeHtml(book.originalCover || '')}"
+                         alt="${escapeHtml(book.title)}"
+                         loading="eager">
+                </div>
+            `).join('');
+
+            booksGrid.innerHTML = newHTML;
+
+            setTimeout(() => {
+                if (myVersion !== displayBooksVersion) return;
+                animateBookCards();
+            }, 50);
+
+            setTimeout(() => {
+                checkIfNeedsMoreBooksContent();
+            }, 500);
+        }
+
+        function loadMoreBooks() {
+            if (isLoadingMoreBooks || loadedBooksCount >= filteredBooks.length) {
+                return;
+            }
+
+            isLoadingMoreBooks = true;
+
+            setTimeout(() => {
+                const booksGrid = document.getElementById('booksGrid');
+                if (!booksGrid) {
+                    isLoadingMoreBooks = false;
+                    return;
+                }
+
+                const startIndex = loadedBooksCount;
+                const endIndex = Math.min(loadedBooksCount + BOOKS_ITEMS_PER_BATCH, filteredBooks.length);
+                const newBooks = filteredBooks.slice(startIndex, endIndex);
+                loadedBooksCount = endIndex;
+
+                const newHTML = newBooks.map(book => `
+                    <div class="book-card" style="opacity: 0; visibility: visible;" onclick="showErrorToast('App only feature')">
+                        <img class="book-cover"
+                             src="${escapeHtml(book.cover)}"
+                             data-original-asset-url="${escapeHtml(book.originalCover || '')}"
+                             alt="${escapeHtml(book.title)}"
+                             loading="eager">
+                    </div>
+                `).join('');
+
+                booksGrid.insertAdjacentHTML('beforeend', newHTML);
+
+                setTimeout(() => {
+                    animateBookCards(startIndex);
+                }, 50);
+
+                isLoadingMoreBooks = false;
+                checkIfNeedsMoreBooksContent();
+            }, 300);
+        }
+
+        function checkIfNeedsMoreBooksContent() {
+            const activeSection = document.querySelector('.content-section.active');
+            if (!activeSection || activeSection.id !== 'books-section') return;
+            const docHeight = document.documentElement.scrollHeight;
+            const winHeight = window.innerHeight;
+            if (docHeight <= winHeight && loadedBooksCount < filteredBooks.length) {
+                loadMoreBooks();
+            }
+        }
+
+        async function ensureBooksLoaded() {
+            if (booksLoaded || booksLoading) return;
+            booksLoading = true;
+            updateBookCategoryToggle();
+
+            try {
+                allBooks = await loadAllBooksForSite();
+                filteredBooks = [...allBooks];
+                loadedBooksCount = BOOKS_ITEMS_PER_BATCH;
+                await displayBooks();
+                booksLoaded = true;
+            } finally {
+                booksLoading = false;
+            }
+        }
+
+        function getCurrentCinemaCategory() {
+            return cinemaCategories[currentCinemaCategoryIndex] || cinemaCategories[0];
+        }
+
+        function getTMDBImage(path, size = 'w500') {
+            if (!path) return '';
+            if (/^https?:\/\//i.test(path)) return path;
+            return `${TMDB_IMAGE_BASE}${size}${path}`;
+        }
+
+        async function fetchTMDB(endpoint, params = {}) {
+            const url = new URL(`${TMDB_BASE_URL}${endpoint}`);
+            const mergedParams = {
+                language: 'en-US',
+                include_adult: 'false',
+                ...params
+            };
+
+            Object.entries(mergedParams).forEach(([key, value]) => {
+                if (value !== undefined && value !== null && value !== '') {
+                    url.searchParams.set(key, value);
+                }
+            });
+
+            const response = await fetch(url.toString(), {
+                headers: {
+                    Authorization: `Bearer ${TMDB_READ_TOKEN}`,
+                    Accept: 'application/json'
+                }
+            });
+
+            if (!response.ok) {
+                throw new Error(`TMDB ${endpoint} HTTP ${response.status}`);
+            }
+
+            return response.json();
+        }
+
+        async function fetchAniList(query, variables = {}) {
+            for (let attempt = 0; attempt < 2; attempt++) {
+                const response = await fetch(ANILIST_API_URL, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Accept': 'application/json'
+                    },
+                    body: JSON.stringify({ query, variables })
+                });
+
+                if (response.status >= 500 && attempt === 0) {
+                    await new Promise(resolve => setTimeout(resolve, 1000));
+                    continue;
+                }
+
+                if (!response.ok) {
+                    const errorText = await response.text().catch(() => '');
+                    throw new Error(`AniList API error: ${response.status} ${errorText}`.trim());
+                }
+
+                const data = await response.json();
+                if (data.errors) {
+                    throw new Error(data.errors[0]?.message || 'AniList GraphQL error');
+                }
+                return data.data;
+            }
+        }
+
+        function updateCinemaCategoryToggle() {
+            const category = getCurrentCinemaCategory();
+            const button = document.getElementById('cinemaCategoryToggle');
+            const icon = document.getElementById('cinemaCategoryIcon');
+            if (!button || !icon) return;
+
+            const label = currentLanguage === 'ar' ? category.nameAr : category.name;
+            icon.src = category.icon;
+            icon.alt = label;
+            button.setAttribute('aria-label', label);
+            button.setAttribute('data-category-en', category.name);
+            button.setAttribute('data-category-ar', category.nameAr);
+        }
+
+        function getCinemaTitle(item) {
+            return item.title || item.name || item.original_title || item.original_name || 'Untitled';
+        }
+
+        function getCinemaYear(item) {
+            return (item.release_date || item.first_air_date || '').slice(0, 4);
+        }
+
+        function getCinemaRankLetter(rating) {
+            const value = Number(rating) || 0;
+            if (value >= 8.5) return 'S';
+            if (value >= 7.5) return 'A';
+            if (value >= 6.5) return 'B';
+            if (value >= 5) return 'C';
+            return 'D';
+        }
+
+        function getCinemaRankClass(rating) {
+            return `rank-${getCinemaRankLetter(rating).toLowerCase()}`;
+        }
+
+        function normalizeCinemaItem(item, category) {
+            const title = getCinemaTitle(item);
+            const mediaType = category.mediaType || (item.media_type === 'movie' ? 'movie' : 'tv');
+            return {
+                id: item.id,
+                mediaType,
+                categoryKey: category.key,
+                title,
+                year: getCinemaYear(item),
+                poster: getTMDBImage(item.poster_path, 'w500'),
+                originalPosterPath: item.poster_path || '',
+                backdrop: getTMDBImage(item.backdrop_path, 'w780'),
+                rating: Number(item.vote_average) || 0,
+                overview: item.overview || '',
+                searchText: [
+                    title,
+                    item.original_title || '',
+                    item.original_name || '',
+                    getCinemaYear(item)
+                ].join(' ').toLowerCase()
+            };
+        }
+
+        function transformAniListToCinema(anime) {
+            const startDate = anime.startDate || {};
+            const displayTitle = anime.title?.english || anime.title?.romaji || 'Unknown';
+            const year = startDate.year ? String(startDate.year) : '';
+            const poster = anime.coverImage?.extraLarge || anime.coverImage?.large || '';
+
+            return {
+                id: anime.idMal || anime.id,
+                anilistId: anime.id,
+                malId: anime.idMal,
+                mediaType: 'tv',
+                categoryKey: 'anime',
+                title: displayTitle,
+                titleRomaji: anime.title?.romaji || '',
+                titleEnglish: anime.title?.english || '',
+                titleNative: anime.title?.native || '',
+                year,
+                poster,
+                originalPosterPath: poster,
+                backdrop: anime.bannerImage || poster,
+                rating: anime.averageScore ? anime.averageScore / 10 : 0,
+                overview: anime.description ? anime.description.replace(/<[^>]*>/g, '') : '',
+                format: anime.format,
+                episodes: anime.episodes,
+                status: anime.status,
+                studios: (anime.studios?.nodes || []).map(studio => studio.name),
+                searchText: [
+                    displayTitle,
+                    anime.title?.romaji || '',
+                    anime.title?.english || '',
+                    anime.title?.native || '',
+                    (anime.synonyms || []).join(' '),
+                    year
+                ].join(' ').toLowerCase()
+            };
+        }
+
+        async function fetchAniListAnimePage(page) {
+            const currentYear = new Date().getFullYear();
+            const isSearch = cinemaMode === 'search' && cinemaSearchTerm;
+
+            if (isSearch) {
+                const data = await fetchAniList(ANILIST_ANIME_QUERY, {
+                    page,
+                    perPage: 40,
+                    search: cinemaSearchTerm,
+                    sort: ['SEARCH_MATCH', 'SCORE_DESC'],
+                    format_in: ['TV', 'MOVIE', 'TV_SHORT', 'ONA', 'OVA']
+                });
+                cinemaAniListHasNextPage = !!data.Page?.pageInfo?.hasNextPage;
+                return (data.Page?.media || [])
+                    .map(transformAniListToCinema)
+                    .filter(item => item.id && item.poster);
+            }
+
+            if (page === 1) {
+                const [tvData, movieData] = await Promise.all([
+                    fetchAniList(ANILIST_ANIME_QUERY, {
+                        page: 1,
+                        perPage: 40,
+                        seasonYear: currentYear,
+                        sort: ['SCORE_DESC'],
+                        format_in: ['TV', 'TV_SHORT', 'ONA', 'OVA']
+                    }),
+                    fetchAniList(ANILIST_ANIME_QUERY, {
+                        page: 1,
+                        perPage: 40,
+                        seasonYear: currentYear,
+                        sort: ['SCORE_DESC'],
+                        format_in: ['MOVIE']
+                    })
+                ]);
+
+                cinemaAniListHasNextPage = !!(tvData.Page?.pageInfo?.hasNextPage || movieData.Page?.pageInfo?.hasNextPage);
+                return [
+                    ...(tvData.Page?.media || []).map(transformAniListToCinema),
+                    ...(movieData.Page?.media || []).map(transformAniListToCinema)
+                ]
+                    .sort((a, b) => (b.rating || 0) - (a.rating || 0))
+                    .filter(item => item.id && item.poster);
+            }
+
+            const data = await fetchAniList(ANILIST_ANIME_QUERY, {
+                page,
+                perPage: 40,
+                seasonYear: currentYear,
+                sort: ['SCORE_DESC'],
+                format_in: ['TV', 'MOVIE', 'TV_SHORT']
+            });
+            cinemaAniListHasNextPage = !!data.Page?.pageInfo?.hasNextPage;
+            return (data.Page?.media || [])
+                .map(transformAniListToCinema)
+                .filter(item => item.id && item.poster);
+        }
+
+        function buildCinemaRequest(page) {
+            const category = getCurrentCinemaCategory();
+            if (cinemaMode === 'search') {
+                return {
+                    endpoint: category.mediaType === 'movie' ? '/search/movie' : '/search/tv',
+                    params: {
+                        query: cinemaSearchTerm,
+                        page
+                    }
+                };
+            }
+
+            if (category.key === 'movie') {
+                return {
+                    endpoint: '/discover/movie',
+                    params: {
+                        page,
+                        sort_by: 'popularity.desc',
+                        'vote_count.gte': '30'
+                    }
+                };
+            }
+
+            return {
+                endpoint: '/discover/tv',
+                params: {
+                    page,
+                    sort_by: 'popularity.desc',
+                    include_null_first_air_dates: 'false',
+                    'vote_count.gte': '10'
+                }
+            };
+        }
+
+        async function fetchCinemaPage(page) {
+            const category = getCurrentCinemaCategory();
+
+            if (category.key === 'anime') {
+                const animeItems = await fetchAniListAnimePage(page);
+                cinemaHasMore = cinemaAniListHasNextPage;
+                return animeItems;
+            }
+
+            const request = buildCinemaRequest(page);
+            const data = await fetchTMDB(request.endpoint, request.params);
+            let results = Array.isArray(data.results) ? data.results : [];
+
+            const normalized = results
+                .map(item => normalizeCinemaItem(item, category))
+                .filter(item => item.id && item.poster);
+
+            cinemaHasMore = page < Math.min(Number(data.total_pages) || page, 500);
+            return normalized;
+        }
+
+        function mergeCinemaItems(existing, incoming) {
+            const seen = new Set(existing.map(item => `${item.mediaType}:${item.id}`));
+            const merged = [...existing];
+            incoming.forEach(item => {
+                const key = `${item.mediaType}:${item.id}`;
+                if (!seen.has(key)) {
+                    seen.add(key);
+                    merged.push(item);
+                }
+            });
+            return merged;
+        }
+
+        async function reloadCinema(resetSearch = false) {
+            if (cinemaLoading) return;
+            cinemaLoading = true;
+            const cinemaGrid = document.getElementById('cinemaGrid');
+            const cinemaToggle = document.getElementById('cinemaCategoryToggle');
+            if (cinemaGrid) cinemaGrid.classList.add('is-transitioning');
+            if (cinemaToggle) {
+                cinemaToggle.style.pointerEvents = 'none';
+                cinemaToggle.style.opacity = '0.65';
+            }
+            cinemaPage = 1;
+            cinemaHasMore = true;
+            loadedCinemaCount = CINEMA_ITEMS_PER_BATCH;
+            if (resetSearch) {
+                cinemaSearchTerm = '';
+                cinemaMode = 'discover';
+                const input = document.getElementById('cinemaSearch');
+                if (input) input.value = '';
+            }
+
+            try {
+                cinemaData = await fetchCinemaPage(cinemaPage);
+                filteredCinemaData = [...cinemaData];
+                await displayCinema();
+                cinemaLoaded = true;
+            } catch (error) {
+                console.error('Cinema failed to load:', error);
+                cinemaData = [];
+                filteredCinemaData = [];
+                await displayCinema();
+            } finally {
+                if (cinemaGrid) cinemaGrid.classList.remove('is-transitioning');
+                if (cinemaToggle) {
+                    cinemaToggle.style.pointerEvents = '';
+                    cinemaToggle.style.opacity = '';
+                }
+                cinemaLoading = false;
+            }
+        }
+
+        function cycleCinemaCategory() {
+            currentCinemaCategoryIndex = (currentCinemaCategoryIndex + 1) % cinemaCategories.length;
+            updateCinemaCategoryToggle();
+            reloadCinema(true);
+        }
+
+        function handleCinemaSearchInput() {
+            const input = document.getElementById('cinemaSearch');
+            cinemaSearchTerm = input ? input.value.trim() : '';
+
+            if (cinemaSearchDebounceTimer) clearTimeout(cinemaSearchDebounceTimer);
+            cinemaSearchDebounceTimer = setTimeout(() => {
+                cinemaMode = cinemaSearchTerm ? 'search' : 'discover';
+                reloadCinema(false);
+            }, 350);
+        }
+
+        function animateCinemaCards(startIndex) {
+            const cinemaCards = document.querySelectorAll('.cinema-card');
+            const begin = startIndex || 0;
+
+            for (let i = begin; i < cinemaCards.length; i++) {
+                const card = cinemaCards[i];
+                const img = card.querySelector('.cinema-poster');
+                if (!img) { fadeInCard(card); continue; }
+                if (img.dataset.retryWired === '1') continue;
+                img.dataset.retryWired = '1';
+                wireInfiniteCoverRetry(img, card);
+            }
+        }
+
+        function buildCinemaCardHtml(item) {
+            const rankLetter = getCinemaRankLetter(item.rating);
+            const rankClass = getCinemaRankClass(item.rating);
+            const yearHtml = item.year ? `<div class="cinema-card-year">${escapeHtml(item.year)}</div>` : '';
+            return `
+                <div class="cinema-card" style="opacity: 0; visibility: visible;" onclick="showErrorToast('App only feature')">
+                    <img class="cinema-poster"
+                         src="${escapeHtml(item.poster)}"
+                         alt="${escapeHtml(item.title)}"
+                         loading="eager">
+                    <div class="cinema-rank-badge ${rankClass}">${rankLetter}</div>
+                    <div class="cinema-card-info">
+                        <div class="cinema-card-title">${escapeHtml(item.title)}</div>
+                        ${yearHtml}
+                    </div>
+                </div>
+            `;
+        }
+
+        async function displayCinema() {
+            const myVersion = ++displayCinemaVersion;
+            const cinemaGrid = document.getElementById('cinemaGrid');
+            const noResults = document.getElementById('cinemaNoResults');
+            if (!cinemaGrid || !noResults) return;
+
+            const existingCinemaCards = cinemaGrid.querySelectorAll('.cinema-card');
+            if (existingCinemaCards.length > 0) {
+                existingCinemaCards.forEach(card => {
+                    card.style.transition = 'opacity 1s ease-in-out';
+                    card.style.opacity = '0';
+                });
+                await new Promise(resolve => setTimeout(resolve, 1000));
+                if (myVersion !== displayCinemaVersion) return;
+            }
+
+            if (filteredCinemaData.length === 0) {
+                cinemaGrid.innerHTML = '';
+                loadedCinemaCount = 0;
+                noResults.style.display = 'block';
+                return;
+            }
+
+            noResults.style.display = 'none';
+            const displayedCinema = filteredCinemaData.slice(0, Math.min(loadedCinemaCount, filteredCinemaData.length));
+            loadedCinemaCount = displayedCinema.length;
+            cinemaGrid.innerHTML = displayedCinema.map(buildCinemaCardHtml).join('');
+
+            setTimeout(() => {
+                if (myVersion !== displayCinemaVersion) return;
+                animateCinemaCards();
+            }, 50);
+
+            setTimeout(() => {
+                checkIfNeedsMoreCinemaContent();
+            }, 500);
+        }
+
+        async function loadMoreCinema() {
+            if (isLoadingMoreCinema || cinemaLoading) return;
+            if (loadedCinemaCount >= filteredCinemaData.length && !cinemaHasMore) return;
+
+            isLoadingMoreCinema = true;
+            const cinemaGrid = document.getElementById('cinemaGrid');
+            if (!cinemaGrid) {
+                isLoadingMoreCinema = false;
+                return;
+            }
+
+            try {
+                if (loadedCinemaCount >= filteredCinemaData.length && cinemaHasMore) {
+                    cinemaPage += 1;
+                    const nextPageItems = await fetchCinemaPage(cinemaPage);
+                    cinemaData = mergeCinemaItems(cinemaData, nextPageItems);
+                    filteredCinemaData = [...cinemaData];
+                }
+
+                const startIndex = loadedCinemaCount;
+                const endIndex = Math.min(loadedCinemaCount + CINEMA_ITEMS_PER_BATCH, filteredCinemaData.length);
+                const newItems = filteredCinemaData.slice(startIndex, endIndex);
+                loadedCinemaCount = endIndex;
+
+                if (newItems.length > 0) {
+                    cinemaGrid.insertAdjacentHTML('beforeend', newItems.map(buildCinemaCardHtml).join(''));
+                    setTimeout(() => animateCinemaCards(startIndex), 50);
+                }
+            } catch (error) {
+                console.error('Cinema pagination failed:', error);
+            } finally {
+                isLoadingMoreCinema = false;
+                checkIfNeedsMoreCinemaContent();
+            }
+        }
+
+        function checkIfNeedsMoreCinemaContent() {
+            const activeSection = document.querySelector('.content-section.active');
+            if (!activeSection || activeSection.id !== 'cinema-section') return;
+            const docHeight = document.documentElement.scrollHeight;
+            const winHeight = window.innerHeight;
+            if (docHeight <= winHeight && (loadedCinemaCount < filteredCinemaData.length || cinemaHasMore)) {
+                loadMoreCinema();
+            }
+        }
+
+        async function ensureCinemaLoaded() {
+            updateCinemaCategoryToggle();
+            if (cinemaLoaded || cinemaLoading) return;
+            await reloadCinema(false);
+        }
+
         async function displayGames() {
             const myVersion = ++displayGamesVersion;
             const gamesGrid = document.getElementById('gamesGrid');
@@ -8113,7 +9401,14 @@
             const documentHeight = document.documentElement.scrollHeight;
 
             if (scrollTop + windowHeight >= documentHeight - SCROLL_THRESHOLD) {
-                loadMoreGames();
+                const activeSection = document.querySelector('.content-section.active');
+                if (activeSection && activeSection.id === 'books-section') {
+                    loadMoreBooks();
+                } else if (activeSection && activeSection.id === 'cinema-section') {
+                    loadMoreCinema();
+                } else if (activeSection && activeSection.id === 'games-section') {
+                    loadMoreGames();
+                }
             }
         }
 
@@ -8681,6 +9976,14 @@
                 preloadGuideImages();
             }
 
+            if (sectionName === 'books') {
+                ensureBooksLoaded();
+            }
+
+            if (sectionName === 'cinema') {
+                ensureCinemaLoaded();
+            }
+
             // Handle background music
             const audio = document.getElementById('backgroundMusic');
             audio.play().catch(() => { });
@@ -8844,13 +10147,13 @@
             });
         }
 
-        // Load language preference - Always start in English
+        // Load language preference - Always start in Arabic
         function loadLanguagePreference() {
-            // Force English language on load
-            currentLanguage = 'en';
-            localStorage.setItem('preferredLanguage', 'en');
-            document.body.classList.remove('arabic-mode');
-            document.documentElement.dir = 'ltr';
+            currentLanguage = 'ar';
+            localStorage.setItem('preferredLanguage', 'ar');
+            document.body.classList.add('arabic-mode');
+            document.documentElement.dir = 'rtl';
+            document.documentElement.lang = 'ar';
             updateLanguageContent();
         }
 
@@ -9863,6 +11166,11 @@ if (cover.id === 'gamePageCover') {
         // Initialize music
         function initializeMusic() {
             const audio = document.getElementById('backgroundMusic');
+            if (!audio || audio.dataset.musicInitialized === 'true') {
+                return;
+            }
+
+            audio.dataset.musicInitialized = 'true';
             audio.volume = 0.2;
 
             function attemptAutoPlay() {
