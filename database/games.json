@@ -135039,5 +135039,41 @@
       }
     },
     "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1782673868449_0",
+    "Name": "Thank Goodness Youre Here",
+    "MediaId": "004169",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004169C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004169B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004169M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004169T.mp4",
+    "videoStart": 1.8,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP063",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "805 MB",
+            "executable": "Thank Goodness You're Here!.exe",
+            "arguments": [],
+            "buildID": "17 September 2024",
+            "filename": "02493.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
