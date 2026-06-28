@@ -134859,5 +134859,185 @@
       }
     },
     "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1782671249707_0",
+    "Name": "Alien Strike Blasting the Intruders",
+    "MediaId": "004164",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004164C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004164B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004164M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004164T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP063",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Alien Strike - Blasting the Intruders.exe",
+            "arguments": [],
+            "buildID": "16 June 2026",
+            "filename": "02488.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide", "Need Music"]
+  },
+  {
+    "_id": "game_1782671249708_1",
+    "Name": "Astrea Six Sided Oracles",
+    "MediaId": "004165",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004165C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004165B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004165M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004165T.mp4",
+    "videoStart": 3.799513,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP063",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Astrea.exe",
+            "arguments": [],
+            "buildID": "16 June 2026",
+            "filename": "02489.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1782671249708_2",
+    "Name": "Beat The Champions",
+    "MediaId": "004166",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004166C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004166B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004166M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004166T.mp4",
+    "videoStart": 2.68159,
+    "videoEnd": 55.579578,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP063",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "BeatTheChampions.exe",
+            "arguments": [],
+            "buildID": "11 June 2026",
+            "filename": "02490.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1782671249708_3",
+    "Name": "Blood High",
+    "MediaId": "004167",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004167C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004167B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004167M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004167T.mp4",
+    "videoStart": 6.1,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP063",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "1 GB",
+            "executable": "BloodHigh!.exe",
+            "arguments": [],
+            "buildID": "9 June 2026",
+            "filename": "02491.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1782671249708_4",
+    "Name": "Bubsy 4D",
+    "MediaId": "004168",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004168C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004168B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004168M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004168T.mp4",
+    "videoStart": 2,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP063",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Bubsy 4D.exe",
+            "arguments": [],
+            "buildID": "29 May 2026",
+            "filename": "02492.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
