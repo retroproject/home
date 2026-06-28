@@ -135110,5 +135110,41 @@
       }
     },
     "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1782678201925_0",
+    "Name": "Xiaolin Showdown",
+    "MediaId": "004171",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004171C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004171B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004171M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004171T.mp4",
+    "videoStart": 4.8,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation 2"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "RPRP063",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "1 GB",
+            "filename": "02495.iso",
+            "romFile": "02495.iso",
+            "emulator": "PCSX2",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
