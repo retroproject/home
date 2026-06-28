@@ -135075,5 +135075,40 @@
       }
     },
     "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1782674519078_0",
+    "Name": "Mario.EXE Fan Remake",
+    "MediaId": "004170",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004170C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004170B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004170M.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP063",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "87 MB",
+            "filename": "02494.zip",
+            "executable": "Mario.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
