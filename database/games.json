@@ -134823,5 +134823,41 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1782669420787_0",
+    "Name": "Blood+ One Night Kiss",
+    "MediaId": "004163",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004163C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004163B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004163M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004163T.mp4",
+    "videoStart": 0,
+    "videoEnd": 94.1,
+    "PlatformNames": ["Sony PlayStation 2"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "RPRP063",
+            "name": "Japanese",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "2 GB",
+            "romFile": "02487.iso",
+            "emulator": "PCSX2",
+            "arguments": [],
+            "filename": "02487.iso"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
