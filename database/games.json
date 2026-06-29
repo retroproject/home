@@ -126776,7 +126776,7 @@
         "versions": [
           {
             "identifier": "RPRP018",
-            "name": "Vanilla",
+            "name": "AMD & INTEL",
             "platform": "PC Game",
             "fileSize": "125GB",
             "executable": "bin64\\CrimsonDesert.exe",
@@ -126787,7 +126787,7 @@
         ]
       }
     },
-    "Tags": ["Need Music"]
+    "Tags": ["Need Music", "Hypervisor 2.0"]
   },
   {
     "_id": "game_1774373473007_0",
