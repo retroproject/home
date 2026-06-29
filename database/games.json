@@ -121472,7 +121472,7 @@
             "fileSize": "34 GB",
             "executable": "SevGame.exe",
             "arguments": [],
-            "buildID": "10 February 2026",
+            "buildID": "25 June 2026",
             "filename": "00438.zip"
           }
         ]
@@ -135270,7 +135270,7 @@
     "_id": "game_1782694288051_2",
     "Name": "Fighting EX Layer",
     "MediaId": "004175",
-    "SortingName": "",
+    "SortingName": "Street Fighter EX 04",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -135662,5 +135662,113 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1782738807766_0",
+    "Name": "Street Fighter EX Plus Alpha",
+    "MediaId": "004187",
+    "SortingName": "Street Fighter EX 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004187C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004187B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004187M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004187T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "RPRP063",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation",
+            "fileSize": "504 MB",
+            "filename": "02512.img",
+            "romFile": "02512.img",
+            "emulator": "DuckStation",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1782738807766_1",
+    "Name": "Street Fighter EX2 Plus",
+    "MediaId": "004188",
+    "SortingName": "Street Fighter EX 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004188C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004188B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004188M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004188T.mp4",
+    "videoStart": 1.4,
+    "videoEnd": 36.804532,
+    "PlatformNames": ["Sony PlayStation"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "RPRP063",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation",
+            "fileSize": "426 MB",
+            "filename": "02513.img",
+            "romFile": "02513.img",
+            "emulator": "DuckStation",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1782738824064_0",
+    "Name": "Street Fighter EX3",
+    "MediaId": "004189",
+    "SortingName": "Street Fighter EX 03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004189C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004189B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004189M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004189T.mp4",
+    "videoStart": 4.099999,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation 2"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "RPRP063",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "669 MB",
+            "filename": "02514.iso",
+            "romFile": "02514.iso",
+            "emulator": "PCSX2",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
