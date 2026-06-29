@@ -82855,13 +82855,14 @@
       "PC Game": {
         "versions": [
           {
-            "identifier": "RPRP026",
+            "identifier": "RPRP063",
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "3GB",
             "arguments": [],
             "executable": "vigil.exe",
-            "filename": "01455.zip"
+            "buildID": "23 June 2026",
+            "filename": "02507.zip"
           }
         ]
       }
@@ -135173,9 +135174,479 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "130 MB",
-            "filename": "02496.zip",
             "executable": "Contra - Back to 2633.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "0.7.7",
+            "filename": "02496.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1782694288051_0",
+    "Name": "Cavalry Girls",
+    "MediaId": "004173",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004173C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004173B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004173M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004173T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP063",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "executable": "CavalryGirls.exe",
+            "arguments": [],
+            "buildID": "26 June 2026",
+            "filename": "02497.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1782694288051_1",
+    "Name": "Demeo x Dungeons and Dragons Battlemarked",
+    "MediaId": "004174",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004174C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004174B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004174M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004174T.mp4",
+    "videoStart": 0,
+    "videoEnd": 91.066813,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP063",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "6 GB",
+            "executable": "battlemarked.exe",
+            "arguments": [],
+            "buildID": "16 June 2026",
+            "filename": "02498.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Need Music", "Hide"]
+  },
+  {
+    "_id": "game_1782694288051_2",
+    "Name": "Fighting EX Layer",
+    "MediaId": "004175",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004175C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004175B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004175M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004175T.mp4",
+    "videoStart": 3.103627,
+    "videoEnd": 96.26609,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP063",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "EXF.exe",
+            "arguments": [],
+            "buildID": "10 December 2025",
+            "filename": "02499.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1782694288051_3",
+    "Name": "LumenTale Memories of Trey",
+    "MediaId": "004176",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004176C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004176B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004176M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004176T.mp4",
+    "videoStart": 0,
+    "videoEnd": 77.672472,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP063",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "LumenTale Memories of Trey.exe",
+            "arguments": [],
+            "buildID": "4 June 2026",
+            "filename": "02500.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1782694288051_4",
+    "Name": "Nickelodeon Extreme Tennis Next",
+    "MediaId": "004177",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004177C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004177B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004177M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004177T.mp4",
+    "videoStart": 2.7,
+    "videoEnd": 67.304678,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP063",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "Nickelodeon Extreme Tennis.exe",
+            "arguments": [],
+            "buildID": "28 May 2026",
+            "filename": "02501.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1782694288051_5",
+    "Name": "PlatyGuard Swarm Slayer",
+    "MediaId": "004178",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004178C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004178B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004178M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004178T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP063",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "绝地鸭卫.exe",
+            "arguments": [],
+            "buildID": "27 May 2026",
+            "filename": "02502.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1782694288051_6",
+    "Name": "Sinister Remains",
+    "MediaId": "004179",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004179C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004179B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004179M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004179T.mp4",
+    "videoStart": 4.60365,
+    "videoEnd": 60.586645,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP063",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "6 GB",
+            "executable": "Sinister Remains.exe",
+            "arguments": [],
+            "buildID": "30 May 2026",
+            "filename": "02503.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1782694288051_7",
+    "Name": "STARDUST Wish of Witch",
+    "MediaId": "004180",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004180C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004180B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004180M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004180T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP063",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "1 GB",
+            "executable": "StarDust_Steam.exe",
+            "arguments": [],
+            "buildID": "20 June 2026",
+            "filename": "02504.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1782694288051_8",
+    "Name": "The Remake of the End of the Greatest RPG of All Time",
+    "MediaId": "004181",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004181C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004181B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004181M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004181T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP063",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "6 GB",
+            "executable": "The Remake the End of the Greatest RPG of All Time.exe",
+            "arguments": [],
+            "buildID": "31 May 2026",
+            "filename": "02505.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1782694288051_9",
+    "Name": "Tower of Babel Survivors of Chaos",
+    "MediaId": "004182",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004182C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004182B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004182M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004182T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP063",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "687 MB",
+            "executable": "Tower Of Babel.exe",
+            "arguments": [],
+            "buildID": "25 June 2026",
+            "filename": "02506.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1782694288051_11",
+    "Name": "Where the Forest Ends",
+    "MediaId": "004184",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004184C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004184B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004184M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004184T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP063",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "executable": "ZombieShooter.exe",
+            "arguments": [],
+            "buildID": "25 June 2026",
+            "filename": "02508.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1782694288051_12",
+    "Name": "Xanadu Next",
+    "MediaId": "004185",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004185C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004185B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004185M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004185T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP063",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "1 GB",
+            "executableFiles": ["XANADU.exe", "xanadu_cfg.exe"],
+            "executableLabels": ["Game", "Configure"],
+            "arguments": [],
+            "buildID": "18 January 2022",
+            "filename": "02509.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1782694288051_13",
+    "Name": "XF Extreme Formula",
+    "MediaId": "004186",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004186C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004186B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004186M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004186T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP063",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "9 GB",
+            "executable": "XF ExtremeFormula.exe",
+            "arguments": [],
+            "buildID": "27 May 2026",
+            "filename": "02510.zip"
           }
         ]
       }
