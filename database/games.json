@@ -52783,14 +52783,15 @@
       "Sony PlayStation 2": {
         "versions": [
           {
-            "identifier": "P0201",
-            "name": "Vanilla",
+            "identifier": "RPRP063",
+            "name": "Ns Edition",
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "2GB",
-            "romFile": "Mega Man X7 Ns Edition.iso",
-            "mods": "N Edition 1.4",
-            "filename": "Mega Man X7 Ns Edition.iso"
+            "romFile": "02515.iso",
+            "mods": null,
+            "buildID": "1.5.2",
+            "filename": "02515.iso"
           }
         ]
       }
@@ -135697,7 +135698,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1782738807766_1",
@@ -135733,7 +135734,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1782738824064_0",
@@ -135769,6 +135770,6 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   }
 ]
