@@ -135771,5 +135771,40 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1782851658403_0",
+    "Name": "Ehrgeiz God Bless the Ring",
+    "MediaId": "004190",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004190C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004190B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004190M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004190T.mp4",
+    "videoStart": 0,
+    "videoEnd": 122.947617,
+    "PlatformNames": ["Sony PlayStation"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation",
+            "fileSize": "665 MB",
+            "filename": "02516.img",
+            "romFile": "02516.img",
+            "emulator": "DuckStation",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
