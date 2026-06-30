@@ -126779,7 +126779,7 @@
             "name": "AMD & INTEL",
             "platform": "PC Game",
             "fileSize": "125GB",
-            "executable": "bin64\\CrimsonDesert.exe",
+            "executable": "bin64\\steamclient_loader_x64.exe",
             "arguments": [],
             "buildID": "29 May 2026",
             "filename": "00605.zip"
