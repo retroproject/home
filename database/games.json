@@ -98120,14 +98120,15 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
-            "filename": "Alundra (Un-Working Designs).chd",
-            "name": "Un-Working Designs",
+            "identifier": "RPRP064",
+            "name": "Definitive Edition",
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "300MB",
             "arguments": [],
-            "romFile": "Alundra (Un-Working Designs).chd"
+            "romFile": "02517.img",
+            "buildID": "Definitive Edition v4",
+            "filename": "02517.img"
           }
         ]
       }
