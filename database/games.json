@@ -7792,16 +7792,13 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
-            "filename": "Bakusou Kyoudai Let's & Go!!.zip",
+            "identifier": "RPRP064",
+            "filename": "02529.zip",
             "name": "Collection",
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "500MB",
-            "romFiles": [
-              "Bakusou Kyoudai Let's & Go!! Eternal Wings (Japanese).img",
-              "Mini Yonku Bakusou Kyoudai Let's & Go!! WGP Hyper Heat (Japanese).img"
-            ],
+            "romFiles": ["R1.img", "R2.img"],
             "romLabels": ["Eternal Wings", "WGP Hyper Heat"]
           }
         ]
@@ -10999,13 +10996,13 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
-            "filename": "Countdown Vampires.zip",
+            "identifier": "RPRP064",
+            "filename": "02545.zip",
             "name": "Vanilla",
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "1GB",
-            "romFiles": ["Countdown Vampires (Disc 1).img", "Countdown Vampires (Disc 2).img"],
+            "romFiles": ["R1.img", "R2.img"],
             "romLabels": ["Disc 1", "Disc 2"]
           }
         ]
@@ -25466,19 +25463,14 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
-            "filename": "Armored Core 1.zip",
+            "identifier": "RPRP064",
+            "filename": "02527.zip",
             "name": "Collection",
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "3GB",
-            "romFiles": [
-              "Armored Core (Japanese VA).img",
-              "Armored Core Project Phantasma (Japanese VA).img",
-              "Armored Core Master of Arena (Disc 1) (Japanese VA).img",
-              "Armored Core Master of Arena (Disc 2) (Japanese VA).img"
-            ],
-            "romLabels": ["Armored Core", "Project Phantasma", "Master of Arena Disc 1", "Master of Arena Disc "]
+            "romFiles": ["R1.img", "R2.img", "R3.img", "R4.img"],
+            "romLabels": ["Armored Core", "Project Phantasma", "Master of Arena Disc 1", "Master of Arena Disc"]
           }
         ]
       }
@@ -29193,13 +29185,13 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
-            "filename": "Bugs Bunny Lost in Time.chd",
+            "identifier": "RPRP064",
+            "filename": "02540.chd",
             "name": "Vanilla",
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "300MB",
-            "romFile": "Bugs Bunny Lost in Time.chd"
+            "romFile": "02540.chd"
           }
         ]
       }
@@ -30544,13 +30536,13 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
-            "filename": "Castlevania Symphony of the Night.zip",
+            "identifier": "RPRP064",
+            "filename": "02542.zip",
             "name": "Vanilla",
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "900MB",
-            "romFiles": ["Castlevania Symphony of the Night.chd", "Castlevania Symphony of the Night (Japanese VA).chd"],
+            "romFiles": ["R1.chd", "R2.chd"],
             "romLabels": ["English VA", "Japanese VA"]
           }
         ]
@@ -37061,15 +37053,15 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
+            "identifier": "RPRP064",
             "name": "Collection",
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "1GB",
-            "romFiles": ["Mega Man X4.img", "Mega Man X4 [Undub+Retranslation].chd"],
+            "romFiles": ["R1.img", "R2.chd"],
             "romLabels": ["Vanilla", "Enhanced"],
             "buildID": "1.14",
-            "filename": "Mega Man X4.zip"
+            "filename": "02522.zip"
           }
         ]
       }
@@ -40739,13 +40731,13 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
-            "filename": "Bloody Roar 2.img",
+            "identifier": "RPRP064",
+            "filename": "02534.img",
             "name": "Vanilla",
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "600MB",
-            "romFile": "Bloody Roar 2.img"
+            "romFile": "02534.img"
           }
         ]
       }
@@ -45687,13 +45679,13 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
-            "filename": "Arc the Lad II.img",
+            "identifier": "RPRP064",
+            "filename": "02525.img",
             "name": "Vanilla",
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "700MB",
-            "romFile": "Arc the Lad II.img"
+            "romFile": "02525.img"
           }
         ]
       }
@@ -52585,13 +52577,13 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
-            "filename": "Bugs Bunny & Taz Time Busters.chd",
+            "identifier": "RPRP064",
+            "filename": "02539.chd",
             "name": "Vanilla",
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "400MB",
-            "romFile": "Bugs Bunny & Taz Time Busters.chd"
+            "romFile": "02539.chd"
           }
         ]
       }
@@ -62474,13 +62466,13 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
-            "filename": "Ape Escape.img",
+            "identifier": "RPRP064",
+            "filename": "02523.img",
             "name": "Vanilla",
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "400MB",
-            "romFile": "Ape Escape.img"
+            "romFile": "02523.img"
           }
         ]
       }
@@ -69068,13 +69060,13 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
-            "filename": "Breath of Fire III.img",
+            "identifier": "RPRP064",
+            "filename": "02536.img",
             "name": "Vanilla",
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "500MB",
-            "romFile": "Breath of Fire III.img"
+            "romFile": "02536.img"
           }
         ]
       }
@@ -74305,13 +74297,13 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
-            "filename": "Bloody Roar.img",
+            "identifier": "RPRP064",
+            "filename": "02533.img",
             "name": "Vanilla",
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "200MB",
-            "romFile": "Bloody Roar.img"
+            "romFile": "02533.img"
           }
         ]
       }
@@ -79610,13 +79602,13 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
+            "identifier": "RPRP064",
             "name": "Japanese VA",
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "410MB",
-            "romFile": "Clock Tower II The Struggle Within.img",
-            "filename": "Clock Tower II The Struggle Within.img"
+            "romFile": "02543.img",
+            "filename": "02543.img"
           }
         ]
       }
@@ -79872,21 +79864,21 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
-            "filename": "Batman Beyond Return of the Joker.chd",
+            "identifier": "RPRP064",
             "name": "Vanilla",
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "600MB",
-            "romFile": "Batman Beyond Return of the Joker.chd"
+            "romFile": "02531.chd",
+            "filename": "02531.chd"
           },
           {
-            "identifier": "retro-psx",
-            "filename": "Batman Beyond Return of the Joker Duckstation HD Textures.zip",
+            "identifier": "RPRP064",
             "name": "HD Textures",
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
-            "fileSize": "200MB"
+            "fileSize": "200MB",
+            "filename": "02531 DuckStation HD Textures.zip"
           }
         ]
       }
@@ -83393,13 +83385,13 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
-            "filename": "Barbie Explorer.chd",
+            "identifier": "RPRP064",
+            "filename": "02530.chd",
             "name": "Vanilla",
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "100MB",
-            "romFile": "Barbie Explorer.chd"
+            "romFile": "02530.chd"
           }
         ]
       }
@@ -84551,13 +84543,13 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
-            "filename": "Arc the Lad III.zip",
+            "identifier": "RPRP064",
+            "filename": "02526.zip",
             "name": "Vanilla",
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "2GB",
-            "romFiles": ["Arc the Lad III (Disc 1).img", "Arc the Lad III (Disc 2).img"],
+            "romFiles": ["R1.img", "R2.img"],
             "romLabels": ["Disc 1", "Disc 2"]
           }
         ]
@@ -90698,13 +90690,13 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
-            "filename": "C The Contra Adventure.chd",
+            "identifier": "RPRP064",
+            "filename": "02541.chd",
             "name": "Vanilla",
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "200MB",
-            "romFile": "C The Contra Adventure.chd"
+            "romFile": "02541.chd"
           }
         ]
       }
@@ -94981,13 +94973,13 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
-            "filename": "Alundra 2 A New Legend Begins.img",
+            "identifier": "RPRP064",
+            "filename": "02521.img",
             "name": "Vanilla",
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "600MB",
-            "romFile": "Alundra 2 A New Legend Begins.img"
+            "romFile": "02521.img"
           }
         ]
       }
@@ -96401,24 +96393,24 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
+            "identifier": "RPRP064",
             "name": "Enhanced",
             "platform": "Sony PlayStation",
             "emulator": "RetroArch",
             "fileSize": "200MB",
-            "romFile": "Breath of Fire IV.chd",
+            "romFile": "R1.chd",
             "arguments": ["-L", ".\\cores\\mednafen_psx_hw_libretro.dll"],
             "mods": ["Uncensored 1.12a", "Subtitled Opening FMV 1.1", "Dengeki Store Restoration 1.0"],
-            "filename": "Breath of Fire IV.zip"
+            "filename": "02537.zip"
           },
           {
-            "identifier": "retro-psx",
+            "identifier": "RPRP064",
             "name": "HD Textures",
             "platform": "Sony PlayStation",
             "emulator": "RetroArch",
             "fileSize": "3GB",
             "arguments": [],
-            "filename": "Breath of Fire IV RetroArch HD Textures.zip"
+            "filename": "02537 RetroArch HD Textures.zip"
           }
         ]
       }
@@ -103695,13 +103687,13 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
-            "filename": "Arc the Lad.img",
+            "identifier": "RPRP064",
+            "filename": "02524.img",
             "name": "Enhanced",
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "600MB",
-            "romFile": "Arc the Lad.img"
+            "romFile": "02524.img"
           }
         ]
       }
@@ -108179,14 +108171,14 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
+            "identifier": "RPRP064",
             "name": "Vanilla",
             "platform": "Sony PlayStation",
             "fileSize": "180 MB",
             "arguments": [],
             "emulator": "DuckStation",
-            "romFile": "Colin McRae Rally.chd",
-            "filename": "Colin McRae Rally.chd"
+            "romFile": "02544.chd",
+            "filename": "02544.chd"
           }
         ]
       }
@@ -119101,12 +119093,12 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
+            "identifier": "RPRP064",
             "name": "Vanilla",
             "platform": "Sony PlayStation",
             "fileSize": "560 MB",
-            "filename": "Ace Combat 2.img",
-            "romFile": "Ace Combat 2.img",
+            "filename": "02518.img",
+            "romFile": "02518.img",
             "emulator": "DuckStation",
             "arguments": []
           }
@@ -119138,12 +119130,12 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
+            "identifier": "RPRP064",
             "name": "Vanilla",
             "platform": "Sony PlayStation",
             "fileSize": "2 GB",
-            "filename": "Ace Combat 3 Electrosphere.zip",
-            "romFiles": ["Ace Combat 3 Electrosphere [Disc 1].img", "Ace Combat 3 Electrosphere [Disc 2].img"],
+            "filename": "02519.zip",
+            "romFiles": ["R1.img", "R2.img"],
             "romLabels": ["Disc 1", "Disc 2"],
             "emulator": "DuckStation",
             "arguments": []
@@ -119176,12 +119168,12 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
+            "identifier": "RPRP064",
             "name": "Vanilla",
             "platform": "Sony PlayStation",
             "fileSize": "340 MB",
-            "filename": "Air Combat.chd",
-            "romFile": "Air Combat.chd",
+            "filename": "02520.chd",
+            "romFile": "02520.chd",
             "emulator": "DuckStation",
             "arguments": []
           }
@@ -129919,12 +129911,12 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
+            "identifier": "RPRP064",
             "name": "Vanilla",
             "platform": "Sony PlayStation",
             "fileSize": "285 MB",
-            "filename": "Azure Dreams.img",
-            "romFile": "Azure Dreams.img",
+            "filename": "02528.img",
+            "romFile": "02528.img",
             "emulator": "DuckStation",
             "arguments": []
           }
@@ -129955,12 +129947,12 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
+            "identifier": "RPRP064",
             "name": "Vanilla",
             "platform": "Sony PlayStation",
             "fileSize": "201 MB",
-            "filename": "Brave Fencer Musashi.chd",
-            "romFile": "Brave Fencer Musashi.chd",
+            "filename": "02535.chd",
+            "romFile": "02535.chd",
             "emulator": "DuckStation",
             "arguments": []
           }
@@ -132693,12 +132685,12 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
+            "identifier": "RPRP064",
             "name": "Vanilla",
             "platform": "Sony PlayStation",
             "fileSize": "94 MB",
-            "filename": "Crash Bandicoot 2 Cortex Strikes Back.chd",
-            "romFile": "Crash Bandicoot 2 Cortex Strikes Back.chd",
+            "filename": "02547.chd",
+            "romFile": "02547.chd",
             "emulator": "DuckStation",
             "arguments": []
           }
@@ -132765,15 +132757,15 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
+            "identifier": "RPRP064",
             "name": "Enhanced",
             "platform": "Sony PlayStation",
             "fileSize": "443 MB",
-            "romFile": "Crash Bandicoot.chd",
+            "romFile": "02546.chd",
             "emulator": "DuckStation",
             "arguments": [],
             "mods": "Quality of Life 1.1",
-            "filename": "Crash Bandicoot.chd"
+            "filename": "02546.chd"
           }
         ]
       }
