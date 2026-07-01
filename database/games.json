@@ -135799,5 +135799,75 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1782919193462_0",
+    "Name": "Meccha Chameleon",
+    "MediaId": "004191",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004191C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004191B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004191M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004191T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "PenguinHotel.exe",
+            "arguments": [],
+            "buildID": "2.3.0",
+            "filename": "02548.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1782919193462_1",
+    "Name": "Warhammer 40000 Mechanicus II",
+    "MediaId": "004192",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004192C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004192B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004192M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004192T.mp4",
+    "videoStart": 3.7,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "14 GB",
+            "executable": "Mechanicus2.exe",
+            "arguments": [],
+            "buildID": "24 June 2026",
+            "filename": "02549.zip"
+          }
+        ]
+      }
+    }
   }
 ]
