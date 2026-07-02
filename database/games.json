@@ -15858,7 +15858,7 @@
             "platform": "PC Game",
             "executable": "Expedition33_Steam.exe",
             "fileSize": "40GB",
-            "buildID": "12 December 2025",
+            "buildID": "30 June 2026",
             "filename": "00165.zip"
           },
           {
@@ -135865,6 +135865,76 @@
             "arguments": [],
             "buildID": "24 June 2026",
             "filename": "02549.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1782997675582_0",
+    "Name": "Lost Kingdoms II",
+    "MediaId": "004193",
+    "SortingName": "Lost Kingdoms 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004193C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004193B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004193M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004193T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Nintendo GameCube"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo GameCube": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Nintendo GameCube",
+            "fileSize": "769 MB",
+            "filename": "02550.rvz",
+            "romFile": "02550.rvz",
+            "emulator": "Dolphin",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1782997675582_1",
+    "Name": "Lost Kingdoms",
+    "MediaId": "004194",
+    "SortingName": "Lost Kingdoms 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004194C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004194B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004194M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004194T.mp4",
+    "videoStart": 22.8,
+    "videoEnd": 94.9,
+    "PlatformNames": ["Nintendo GameCube"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo GameCube": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Nintendo GameCube",
+            "fileSize": "428 MB",
+            "filename": "02551.rvz",
+            "romFile": "02551.rvz",
+            "emulator": "Dolphin",
+            "arguments": []
           }
         ]
       }
