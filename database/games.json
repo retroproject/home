@@ -130954,7 +130954,7 @@
             "fileSize": "11 GB",
             "executable": "InvincibleVS.exe",
             "arguments": [],
-            "buildID": "1 May 2026",
+            "buildID": "2 July 2026",
             "filename": "01725.zip"
           }
         ]
@@ -136014,6 +136014,76 @@
             "filename": "02553.img",
             "romFile": "02553.img",
             "emulator": "DuckStation",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1783033547215_0",
+    "Name": "Ninja Masters",
+    "MediaId": "004197",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004197C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004197B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004197M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004197T.mp4",
+    "videoStart": 7.2,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "266 MB",
+            "filename": "02554.zip",
+            "executable": "Ninja Master's.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1783033547215_1",
+    "Name": "Sudeki",
+    "MediaId": "004198",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004198C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004198B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004198M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004198T.mp4",
+    "videoStart": 10.265078,
+    "videoEnd": 121.733029,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "filename": "02555.zip",
+            "executableFiles": ["SUDEKI.exe", "SudekiLauncher.exe"],
+            "executableLabels": ["Game", "Configure"],
+            "executable": "SUDEKI.exe",
             "arguments": []
           }
         ]
