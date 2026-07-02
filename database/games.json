@@ -135931,10 +135931,19 @@
             "name": "Vanilla",
             "platform": "Nintendo GameCube",
             "fileSize": "428 MB",
-            "filename": "02551.rvz",
             "romFile": "02551.rvz",
             "emulator": "Dolphin",
-            "arguments": []
+            "arguments": [],
+            "filename": "02551.rvz"
+          },
+          {
+            "identifier": "RPRP064",
+            "name": "HD Textures",
+            "platform": "Nintendo GameCube",
+            "fileSize": "600MB",
+            "emulator": "Dolphin",
+            "arguments": [],
+            "filename": "02551 HD Textures.zip"
           }
         ]
       }
