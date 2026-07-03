@@ -104879,21 +104879,32 @@
     "YouTubeUrl": "",
     "videoStart": null,
     "videoEnd": null,
-    "PlatformNames": ["Nintendo Entertainment System"],
+    "PlatformNames": ["Nintendo Entertainment System", "Nintendo Super Entertainment System"],
     "GenreNames": ["Japanese Role-Playing"],
     "DeveloperNames": ["Ape"],
     "downloadInfo": {
-      "Nintendo Entertainment System": {
+      "Cross-Platform": {
         "versions": [
           {
             "identifier": "retro-nes",
-            "filename": "Mother (Restored).nes",
             "name": "Restored",
             "platform": "Nintendo Entertainment System",
             "emulator": "RetroArch",
-            "romFile": "Mother (Restored).nes",
             "fileSize": "500KB",
-            "arguments": ["-L", ".\\cores\\mesen_libretro.dll"]
+            "arguments": ["-L", ".\\cores\\mesen_libretro.dll"],
+            "romFile": "Mother (Restored).nes",
+            "filename": "Mother (Restored).nes"
+          },
+          {
+            "identifier": "RPRP064",
+            "platform": "Nintendo Super Entertainment System",
+            "name": "SNES Remake",
+            "emulator": "RetroArch",
+            "fileSize": "2MB",
+            "arguments": ["-L", ".\\cores\\snes9x_libretro.dll"],
+            "buildID": "1.2",
+            "romFile": "02557.sfc",
+            "filename": "02557.sfc"
           }
         ]
       }
