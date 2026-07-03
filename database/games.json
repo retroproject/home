@@ -59276,7 +59276,7 @@
     "_id": "925af353-1f4c-41c3-84fd-9ca8b486b217",
     "Name": "Yu-Gi-Oh! Early Days Collection",
     "MediaId": "001628",
-    "SortingName": "Yu-Gi-Oh! 00",
+    "SortingName": "Yu-Gi-Oh! 00.01",
     "Description": "Young <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Yugi Muto</span> solves an ancient Egyptian puzzle, awakening the spirit of a <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>pharaoh</span> trapped within the mysterious <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Millennium Puzzle</span> for over 3,000 years.<br>As the <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>King of Games</span>, this ancient spirit guides Yugi through dangerous duels against opponents who wield <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Shadow Magic</span> and seek to claim the pharaoh's power for themselves.<br>From school bullies to international criminals, each victory brings Yugi closer to uncovering the pharaoh's forgotten identity while learning that true strength comes not from powerful cards, but from the <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>bonds of friendship</span> and trust in one's <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 6px #FFB6C1;'>heart of the cards</span>.<br>In this collection spanning the early adventures, Yugi discovers that every duel is a test of character where <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>courage</span>, <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 8px #FF4500;'>determination</span>, and <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>loyalty</span> matter more than any monster's attack points or spell card's <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>magical power</span>.",
     "DescriptionArabic": "<div dir='rtl'>في زمن قديم عندما حكم فرعون عظيم أرض مصر، حمل في قلبه سراً عظيماً: قدرة خارقة على استدعاء <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>أرواح الوحوش الأسطورية</span> من عالم آخر.<br>لكن القدر شاء أن يضيع ذاكرته ويحبس روحه في <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>لغز ذهبي معقد</span> لثلاثة آلاف عام، إلى أن يأتي يوم ينجح فيه فتى ياباني صغير في حل اللغز.<br>يستيقظ الفرعون في عالم غريب مليء بالتقنية والعجائب، حيث يتبارى الناس بـ<span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>بطاقات سحرية</span> بدلاً من السيوف والرماح.<br>يكتشف هذا الفرعون القديم أن هذا الفتى الطيب يحمل في قلبه <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>شجاعة لا تعرف الخوف</span> و<span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 6px #FFB6C1;'>قلباً عطوفاً</span> يرفض أن يترك أصدقاءه يعانون وحدهم.<br>في معارك تتراوح بين أروقة المدرسة وساحات القتال العالمية، يتعلم هذا الثنائي العجيب أن القوة الحقيقية لا تأتي من <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>قوة الوحوش المستدعاة</span>، بل من قوة الروابط التي تربط بين الأصدقاء الأوفياء.<br>حكاية عن فرعون فقد مملكته لكنه اقتنى <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>عائلة</span> تحبه، وفتى تعلم أن بعض الكنوز أعظم من أي <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>قوة سحرية</span>.</div>",
     "ReleaseDate": "2025",
@@ -136085,6 +136085,42 @@
             "executableLabels": ["Game", "Configure"],
             "executable": "SUDEKI.exe",
             "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1783082766841_0",
+    "Name": "Yu Gi Oh! Forbidden Memories",
+    "MediaId": "004199",
+    "SortingName": "Yu-Gi-Oh! 00.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004199C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004199B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004199M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004199T.mp4",
+    "videoStart": 4,
+    "videoEnd": 26.359336,
+    "PlatformNames": ["Sony PlayStation"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Collection",
+            "platform": "Sony PlayStation",
+            "fileSize": "2 GB",
+            "romFiles": ["R4.img", "R1.img", "R2.img", "R3.img"],
+            "romLabels": ["Vanilla", "Arrange", "Mod 15", "Yugi Z World Tournament 2022"],
+            "emulator": "DuckStation",
+            "arguments": [],
+            "filename": "02556.zip"
           }
         ]
       }
