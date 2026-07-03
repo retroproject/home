@@ -10744,5 +10744,26 @@
       "fileSize": "7 GB",
       "hasAudiobook": false
     }
+  },
+  {
+    "_id": "book_1783109024818_0",
+    "Title": "Parasite Eve",
+    "MediaId": "004200",
+    "Series": "Parasite Eve",
+    "SortingTitle": "Parasite Eve 01",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004200C.jpg",
+    "Genre": [],
+    "Tags": [],
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00481.zip",
+      "fileSize": "328 KB",
+      "hasAudiobook": false
+    }
   }
 ]
