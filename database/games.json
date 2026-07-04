@@ -35807,20 +35807,31 @@
     "YouTubeUrl": "",
     "videoStart": null,
     "videoEnd": null,
-    "PlatformNames": ["PC Game"],
+    "PlatformNames": ["PC Game", "Sony PlayStation"],
     "GenreNames": ["Horror"],
     "DeveloperNames": ["Capcom"],
     "downloadInfo": {
-      "PC Game": {
+      "Cross-Platform": {
         "versions": [
           {
             "identifier": "RPRP025",
-            "name": "Enhanced",
+            "name": "PC Enhanced",
             "platform": "PC Game",
             "fileSize": "3GB",
             "arguments": [],
             "executable": "Biohazard.exe",
+            "executableFiles": ["Biohazard.exe"],
             "filename": "01206.zip"
+          },
+          {
+            "identifier": "RPRP064",
+            "platform": "Sony PlayStation",
+            "name": "PSX AI Upscaled",
+            "emulator": "DuckStation",
+            "fileSize": "2GB",
+            "filenames": ["02561.chd", "02561 DuckStation HD Textures.zip"],
+            "buildID": "1.1",
+            "romFile": "02561.chd"
           }
         ]
       }
