@@ -136136,5 +136136,75 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1783166419764_0",
+    "Name": "Wii Sports Resort",
+    "MediaId": "004201",
+    "SortingName": "Wii Sports 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004201C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004201B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004201M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004201T.mp4",
+    "videoStart": 13.846149,
+    "videoEnd": 120.73152,
+    "PlatformNames": ["Nintendo Wii"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Wii": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Nintendo Wii",
+            "fileSize": "805 MB",
+            "filename": "02558.rvz",
+            "romFile": "02558.rvz",
+            "emulator": "Dolphin",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1783166419764_1",
+    "Name": "Wii Sports",
+    "MediaId": "004202",
+    "SortingName": "Wii Sports 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004202C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004202B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004202M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004202T.mp4",
+    "videoStart": 5.4,
+    "videoEnd": 103.865884,
+    "PlatformNames": ["Nintendo Wii"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Wii": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Nintendo Wii",
+            "fileSize": "422 MB",
+            "filename": "02559.rvz",
+            "romFile": "02559.rvz",
+            "emulator": "Dolphin",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
