@@ -136206,5 +136206,40 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1783167909959_0",
+    "Name": "The Tale of Despereaux",
+    "MediaId": "004203",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004203C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004203B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004203M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004203T.mp4",
+    "videoStart": 8,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation 2"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "1 GB",
+            "filename": "02560.iso",
+            "romFile": "02560.iso",
+            "emulator": "PCSX2",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
