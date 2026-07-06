@@ -126787,6 +126787,7 @@
             "executable": "bin64\\steamclient_loader_x64.exe",
             "arguments": [],
             "buildID": "4 July 2026",
+            "customSavePath": "bin64\\userdata",
             "filename": "00605.zip"
           }
         ]
