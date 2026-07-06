@@ -42560,31 +42560,31 @@
         "versions": [
           {
             "identifier": "retro-nes",
-            "filename": "Super Mario Bros.nes",
             "platform": "Nintendo Entertainment System",
             "name": "Vanilla",
             "emulator": "RetroArch",
             "fileSize": "40KB",
             "arguments": ["-L", ".\\cores\\mesen_libretro.dll"],
-            "romFile": "Super Mario Bros.nes"
+            "romFile": "Super Mario Bros.nes",
+            "filename": "Super Mario Bros.nes"
           },
           {
             "identifier": "retro-nes",
-            "filename": "Super Mario Bros Definitive.nes",
             "platform": "Nintendo Entertainment System",
             "name": "Definitive",
             "emulator": "RetroArch",
             "fileSize": "80KB",
             "arguments": ["-L", ".\\cores\\mesen_libretro.dll"],
             "buildID": "1.3.1",
-            "romFile": "Super Mario Bros Definitive.nes"
+            "romFile": "Super Mario Bros Definitive.nes",
+            "filename": "Super Mario Bros Definitive.nes"
           },
           {
             "identifier": "RPRP002",
             "platform": "PC Game",
             "name": "Remastered",
             "fileSize": "70MB",
-            "buildID": "1.0.2",
+            "buildID": "May 27 2026",
             "executableFiles": ["SMB1R.exe"],
             "filenames": ["00073.zip", "00073 Roaming Data.zip"],
             "mods": [
@@ -105624,7 +105624,7 @@
     "_id": "ff24bf5d-9b93-4c0a-a1b2-0c8e02cfbf1c",
     "Name": "Snufkin: Melody of Moominvalley",
     "MediaId": "002896",
-    "SortingName": "",
+    "SortingName": "Snufkin 01",
     "Description": "Wandering musician <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>Snufkin</span> returns to the enchanted <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Moominvalley</span> for spring, only to discover that rigid <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Park Keeper</span> has imposed suffocating rules that threaten the valley's natural harmony and free-spirited way of life.<br>Armed with his trusty <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>harmonica</span> and gentle wisdom, Snufkin embarks on a peaceful mission of creative resistance, using <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>musical melodies</span> and clever problem-solving to quietly subvert authority while restoring joy to his beloved woodland home.<br>Each puzzle solved through <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>stealth and compassion</span> rather than conflict, as Snufkin removes oppressive signs, frees trapped <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>woodland creatures</span>, and reminds everyone that true freedom comes from respecting both <span style='color:#20B2AA; font-weight:bold; text-shadow: 0 0 8px #20B2AA;'>nature's wildness</span> and each other's individuality.<br>This gentle adventure celebrates the power of quiet rebellion and reminds us that sometimes the most profound changes happen through <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>kindness</span>, <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>creativity</span>, and <span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>understanding</span>.",
     "DescriptionArabic": "<div dir='rtl'>يعود الموسيقي المتجول <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>سنوفكين</span> إلى <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>وادي المومين</span> المسحور للربيع، ليكتشف فقط أن <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>حارس الحديقة</span> الجامد قد فرض قواعد خانقة تهدد الانسجام الطبيعي للوادي وطريقة الحياة الحرة الروح.<br>مسلحاً <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>بهارمونيكاه</span> الموثوقة والحكمة اللطيفة، ينطلق سنوفكين في مهمة سلمية من المقاومة الإبداعية، مستخدماً <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>الألحان الموسيقية</span> وحل المشاكل الذكي لتقويض السلطة بهدوء بينما يستعيد الفرح لبيته الغابي المحبوب.<br>كل لغز يُحل من خلال <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>التخفي والرحمة</span> بدلاً من الصراع، بينما يزيل سنوفكين اللافتات القمعية ويحرر <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>مخلوقات الغابة</span> المحاصرة ويذكر الجميع أن الحرية الحقيقية تأتي من احترام <span style='color:#20B2AA; font-weight:bold; text-shadow: 0 0 8px #20B2AA;'>برية الطبيعة</span> وفردية كل منا.<br>هذه المغامرة اللطيفة تحتفل بقوة التمرد الهادئ وتذكرنا أن أحياناً أعمق التغييرات تحدث من خلال <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>اللطف</span> و<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>الإبداع</span> و<span style='color:#CD853F; font-weight:bold; text-shadow: 0 0 8px #CD853F;'>التفهم</span>.</div>",
     "ReleaseDate": "2024",
@@ -120792,7 +120792,7 @@
             "fileSize": "31 GB",
             "executable": "Carma.exe",
             "arguments": [],
-            "buildID": "27 February 2026",
+            "buildID": "3 July 2026",
             "filename": "00416.zip"
           }
         ]
@@ -126783,10 +126783,10 @@
             "identifier": "RPRP018",
             "name": "AMD & INTEL",
             "platform": "PC Game",
-            "fileSize": "125GB",
+            "fileSize": "130GB",
             "executable": "bin64\\steamclient_loader_x64.exe",
             "arguments": [],
-            "buildID": "29 May 2026",
+            "buildID": "4 July 2026",
             "filename": "00605.zip"
           }
         ]
