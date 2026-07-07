@@ -96395,24 +96395,24 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "RPRP064",
+            "identifier": "retro-psx",
             "name": "Enhanced",
             "platform": "Sony PlayStation",
             "emulator": "RetroArch",
             "fileSize": "200MB",
-            "romFile": "R1.chd",
+            "romFile": "Breath of Fire IV.chd",
             "arguments": ["-L", ".\\cores\\mednafen_psx_hw_libretro.dll"],
             "mods": ["Uncensored 1.12a", "Subtitled Opening FMV 1.1", "Dengeki Store Restoration 1.0"],
-            "filename": "02537.zip"
+            "filename": "Breath of Fire IV.zip"
           },
           {
-            "identifier": "RPRP064",
+            "identifier": "retro-psx",
             "name": "HD Textures",
             "platform": "Sony PlayStation",
             "emulator": "RetroArch",
             "fileSize": "3GB",
             "arguments": [],
-            "filename": "02537 RetroArch HD Textures.zip"
+            "filename": "Breath of Fire IV RetroArch HD Textures.zip"
           }
         ]
       }
