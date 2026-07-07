@@ -34567,15 +34567,16 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "name": "Enhanced",
+            "name": "Perfect Works",
             "fileSize": "1.3GB",
             "platform": "Sony PlayStation",
             "emulator": "RetroArch",
             "romFiles": ["Xenogears (Disc 1).chd", "Xenogears (Disc 2).chd"],
             "romLabels": ["Disc 1", "Disc 2"],
             "identifier": "retro-psx",
-            "filename": "Xenogears.zip",
-            "arguments": ["-L", ".\\cores\\mednafen_psx_hw_libretro.dll"]
+            "arguments": ["-L", ".\\cores\\mednafen_psx_hw_libretro.dll"],
+            "buildID": "0.11.0",
+            "filename": "Xenogears.zip"
           },
           {
             "name": "HD Textures",
