@@ -63116,12 +63116,13 @@
         "versions": [
           {
             "identifier": "E0702",
-            "filename": "Xenoblade Chronicles X Definitive Edition.xci",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
-            "emulator": "Ryujinx",
+            "emulator": "Eden",
             "fileSize": "14GB",
-            "romFile": "Xenoblade Chronicles X Definitive Edition.xci"
+            "romFile": "Xenoblade Chronicles X Definitive Edition.xci",
+            "buildID": "1.0.1",
+            "filename": "Xenoblade Chronicles X Definitive Edition.xci"
           }
         ]
       }
