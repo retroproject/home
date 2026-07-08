@@ -63751,7 +63751,7 @@
     "_id": "9dcc6946-d885-4307-9d76-a30b05766a06",
     "Name": "Assassin's Creed Black Flag",
     "MediaId": "001750",
-    "SortingName": "Assassin's Creed 04.00",
+    "SortingName": "Assassin's Creed 04.00.01",
     "Description": "In the Golden Age of Piracy, <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>Edward Kenway</span> abandons his family to seek fortune in the <span style='color:#20B2AA; font-weight:bold; text-shadow: 0 0 6px #20B2AA;'>Caribbean</span>, only to become entangled in the ancient war between <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Assassins</span> and <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 6px #8B0000;'>Templars</span> while pursuing legendary pirate treasures.<br>Commanding his ship the <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Jackdaw</span> across treacherous waters, Edward plunders Spanish galleons, battles legendary pirates like <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 6px #FFD700;'>Blackbeard</span>, and searches for the mysterious <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Observatory</span> that could grant unimaginable power.<br>As the age of piracy draws to its violent close and former allies become bitter enemies, Edward discovers that the pursuit of <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 6px #32CD32;'>freedom</span> comes at the cost of those he holds dear, including his crew and the <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>love</span> he left behind.<br>Through political intrigue in <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 6px #8A2BE2;'>Havana</span> and bloody naval battles across the open seas, Edward must choose between his selfish ambitions and protecting the people who trusted him with their <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>lives</span>.",
     "DescriptionArabic": "<div dir='rtl'>في العصر الذهبي للقرصنة، يهجر <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>إدوارد كنواي</span> عائلته ليبحث عن الثروة في <span style='color:#20B2AA; font-weight:bold; text-shadow: 0 0 6px #20B2AA;'>البحر الكاريبي</span>، فقط ليصبح متورطاً في الحرب القديمة بين <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>القتلة</span> و<span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 6px #8B0000;'>فرسان الهيكل</span> بينما يطارد كنوز القراصنة الأسطورية.<br>قائداً سفينته <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>الغراب الأسود</span> عبر المياه الغادرة، ينهب إدوارد السفن الإسبانية ويحارب القراصنة الأسطوريين مثل <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 6px #FFD700;'>اللحية السوداء</span> ويبحث عن <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>المرصد</span> الغامض الذي يمكن أن يمنح قوة لا تُصدق.<br>مع اقتراب عصر القرصنة من نهايته العنيفة وتحول الحلفاء السابقين إلى أعداء مرّين، يكتشف إدوارد أن السعي وراء <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 6px #32CD32;'>الحرية</span> يأتي على حساب أولئك الذين يعزّ عليهم، بما في ذلك طاقمه و<span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>الحب</span> الذي تركه وراءه.<br>من خلال المؤامرات السياسية في <span style='color:#8A2BE2; font-weight:bold; text-shadow: 0 0 6px #8A2BE2;'>هافانا</span> والمعارك البحرية الدموية عبر البحار المفتوحة، يجب على إدوارد أن يختار بين طموحاته الأنانية وحماية الأشخاص الذين وثقوا به بـ<span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>حياتهم</span>.</div>",
     "ReleaseDate": "2013",
@@ -64320,11 +64320,12 @@
         "versions": [
           {
             "identifier": "RPRP025",
-            "filename": "01242.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Blood West.exe",
-            "fileSize": "4GB"
+            "fileSize": "4GB",
+            "buildID": "6 July 2026",
+            "filename": "01242.zip"
           }
         ]
       }
@@ -124233,10 +124234,11 @@
             "identifier": "RPRP014",
             "name": "AMD & INTEL",
             "platform": "PC Game",
-            "fileSize": "73 GB",
-            "executable": "steamclient_loader_x64.exe",
+            "fileSize": "80GB",
+            "executable": "re9.exe",
             "arguments": [],
-            "buildID": "1.1",
+            "buildID": "25 June 2026",
+            "customSavePath": "userdata",
             "filename": "00523.zip"
           }
         ]
@@ -124679,10 +124681,11 @@
             "identifier": "RPRP016",
             "name": "AMD & INTEL",
             "platform": "PC Game",
-            "fileSize": "160GB",
-            "executable": "hypervisor-launcher.exe",
+            "fileSize": "180GB",
+            "executable": "ACShadows.exe",
             "arguments": [],
-            "buildID": "26 February 2026",
+            "buildID": "16 June 2026",
+            "customSavePath": "userdata",
             "filename": "00541.zip"
           }
         ]
@@ -136281,5 +136284,42 @@
       }
     },
     "Tags": ["Need Music"]
+  },
+  {
+    "_id": "game_1783480959299_0",
+    "Name": "Assassin's Creed Black Flag Resynced",
+    "MediaId": "004205",
+    "SortingName": "Assassin's Creed 04.00.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004205C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004205B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004205M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004205T.mp4",
+    "videoStart": 0.9,
+    "videoEnd": 85.1,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "AMD & INTEL",
+            "platform": "PC Game",
+            "fileSize": "70GB",
+            "executable": "ACBlackFlag.exe",
+            "arguments": [],
+            "customSavePath": "saves",
+            "buildID": "7 July 2026",
+            "filename": "02562.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hypervisor 2.0", "Hide"]
   }
 ]
