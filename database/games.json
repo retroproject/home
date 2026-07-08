@@ -106004,11 +106004,12 @@
         "versions": [
           {
             "identifier": "RPRP043",
-            "filename": "02249.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "bin\\DBXV2.exe",
-            "fileSize": "32GB"
+            "fileSize": "40GB",
+            "buildID": "7 July 2026",
+            "filename": "02249.zip"
           }
         ]
       }
@@ -136064,9 +136065,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "266 MB",
-            "filename": "02554.zip",
             "executable": "Ninja Master's.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "28 June 2026",
+            "filename": "02554.zip"
           }
         ]
       }
@@ -136098,11 +136100,11 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "5 GB",
-            "filename": "02555.zip",
             "executableFiles": ["SUDEKI.exe", "SudekiLauncher.exe"],
             "executableLabels": ["Game", "Configure"],
-            "executable": "SUDEKI.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "20 March 2014",
+            "filename": "02555.zip"
           }
         ]
       }
@@ -136321,5 +136323,180 @@
       }
     },
     "Tags": ["Hypervisor 2.0"]
+  },
+  {
+    "_id": "game_1783521181166_0",
+    "Name": "Angeline Era",
+    "MediaId": "004206",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004206C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004206B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004206M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004206T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Angeline Era.exe",
+            "arguments": [],
+            "buildID": "11 April 2026",
+            "filename": "02563.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1783521181167_1",
+    "Name": "Moomintroll Winters Warmth",
+    "MediaId": "004207",
+    "SortingName": "Snufkin 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004207C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004207B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004207M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004207T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "WintersWarmth.exe",
+            "arguments": [],
+            "buildID": "3 July 2026",
+            "filename": "02564.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1783521181167_2",
+    "Name": "Trespasser",
+    "MediaId": "004208",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004208C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004208B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004208M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004208T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "909 MB",
+            "executable": "trespass.exe",
+            "arguments": [],
+            "buildID": "CE 1.1",
+            "filename": "02565.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1783521181167_3",
+    "Name": "Yes Your Grace Snowfall",
+    "MediaId": "004209",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004209C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004209B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004209M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004209T.mp4",
+    "videoStart": 1,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "executable": "Yes Your Grace Snowfall.exe",
+            "arguments": [],
+            "buildID": "7 July 2026",
+            "filename": "02566.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1783521181167_4",
+    "Name": "Yume Nikki",
+    "MediaId": "004210",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004210C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004210B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004210M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004210T.mp4",
+    "videoStart": 0.945906,
+    "videoEnd": 38.6,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "YumeNikki.exe",
+            "arguments": [],
+            "buildID": "4 April 2018",
+            "filename": "02567.zip"
+          }
+        ]
+      }
+    }
   }
 ]
