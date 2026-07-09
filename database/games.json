@@ -72250,8 +72250,8 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "ddv.exe",
-            "fileSize": "22GB",
-            "buildID": "10 December 2025",
+            "fileSize": "25GB",
+            "buildID": "8 July 2026",
             "filename": "00221.zip"
           }
         ]
@@ -100294,11 +100294,12 @@
         "versions": [
           {
             "identifier": "RPRP055",
-            "filename": "02417.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "granblue_fantasy_relink.exe",
-            "fileSize": "81GB"
+            "fileSize": "130GB",
+            "buildID": "8 July 2026",
+            "filename": "02417.zip"
           }
         ]
       }
@@ -106411,7 +106412,7 @@
             "platform": "PC Game",
             "fileSize": "4GB",
             "executable": "Hell Clock.exe",
-            "buildID": "27 August 2025",
+            "buildID": "9 July 2026",
             "arguments": [],
             "filename": "00005.zip"
           }
@@ -120098,7 +120099,7 @@
     "PlatformNames": ["PC Game"],
     "GenreNames": ["Monster Taming"],
     "DeveloperNames": ["Media Vision"],
-    "Tags": ["Hall of Fame", "Hypervisor 2.0"],
+    "Tags": ["Hall of Fame"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -120108,8 +120109,8 @@
             "platform": "PC Game",
             "fileSize": "30GB",
             "arguments": [],
-            "executable": "steamclient_loader_x64.exe",
-            "buildID": "11 March 2026",
+            "executable": "Digimon Story Time Stranger.exe",
+            "buildID": "9 July 2026",
             "filename": "00620.zip"
           }
         ]
@@ -124460,10 +124461,10 @@
             "identifier": "RPRP017",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "81 GB",
+            "fileSize": "100GB",
             "executable": "DOOMTheDarkAges.exe",
             "arguments": [],
-            "buildID": "18 November 2025",
+            "buildID": "7 July 2026",
             "filename": "00591.zip"
           }
         ]
@@ -132854,10 +132855,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "15 GB",
-            "filename": "01784.zip",
             "executable": "Subnautica2.exe",
-            "buildID": "CompatibleBuildNumber",
-            "arguments": []
+            "buildID": "8 July 2026",
+            "arguments": [],
+            "filename": "01784.zip"
           }
         ]
       }
@@ -136494,6 +136495,41 @@
             "arguments": [],
             "buildID": "4 April 2018",
             "filename": "02567.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1783629782263_0",
+    "Name": "Wrecking Crew 98",
+    "MediaId": "004211",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004211C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004211B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004211M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004211T.mp4",
+    "videoStart": 7.00559,
+    "videoEnd": 39.821186,
+    "PlatformNames": ["Nintendo Super Entertainment System"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Super Entertainment System": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Nintendo Super Entertainment System",
+            "fileSize": "2 MB",
+            "filename": "02568.sfc",
+            "romFile": "02568.sfc",
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\snes9x_libretro.dll"]
           }
         ]
       }
