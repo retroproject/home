@@ -4667,11 +4667,12 @@
         "versions": [
           {
             "identifier": "RPRP029",
-            "name": "Online",
+            "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "22GB",
+            "fileSize": "40GB",
             "arguments": [],
             "executable": "Palworld.exe",
+            "buildID": "10 July 2026",
             "filename": "01687.zip"
           }
         ]
@@ -10735,7 +10736,7 @@
     "_id": "1a0694d8-222c-4b2e-8147-50b9da6b0676",
     "Name": "Gunvolt Chronicles: Luminous Avenger iX 2",
     "MediaId": "000294",
-    "SortingName": "Azure Striker GUNVOLT 05",
+    "SortingName": "Azure Striker GUNVOLT 05.01",
     "Description": "Beneath neon-drenched skyscrapers, the totalitarian <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>Sumeragi Conglomerate</span> hunts down every last <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Adept</span> with psychic powers, leaving only scattered survivors hiding in the shadows of a broken world.<br>The enigmatic hunter <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Copen</span> slices through the air on advanced <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Bullit Dash</span> thrusters, accompanied by his AI companion <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>Lola</span> who transforms into devastating <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>EX Weapons</span> with each enemy he defeats.<br>As he tears through corporate death squads and rogue Adepts alike, a conspiracy emerges involving the catastrophic <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Butterfly Effect</span> that could reshape reality itself.<br>Racing against time to save the few remaining <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>Minos survivors</span>, Copen must decide whether his mission of vengeance is worth sacrificing the very people he swore to <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>protect</span>.",
     "DescriptionArabic": "<div dir='rtl'>تحت ناطحات السحاب المغمورة بضوء النيون، تطارد <span style='color:#800080; font-weight:bold; text-shadow: 0 0 8px #800080;'>شركة سوميراغي</span> الاستبدادية كل <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>ماهر بقوى عقلية</span> متبقٍ، تاركة فقط ناجين متفرقين يختبئون في ظلال عالم محطّم.<br>الصياد الغامض <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>كوبين</span> يندفع عبر الهواء على <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>محرّكات بوليت داش</span> المتقدمة، مرفقاً برفيقته الذكية الاصطناعية <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>لولا</span> التي تتحول إلى <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>أسلحة مدمرة</span> مع كل عدو يهزمه.<br>بينما يمزرى فرق الموت الشركاتية والمهرة المارقين على حد سواء، تبرز مؤامرة تشمل <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>تأثير الفراشة</span> الكارثي الذي يمكن أن يعيد تشكيل الواقع نفسه.<br>يسابق الزمن لإنقاذ القلة المتبقية من <span style='color:#FF8C00; font-weight:bold; text-shadow: 0 0 8px #FF8C00;'>ناجي مينوس</span>، يجب على كوبين أن يقرر ما إذا كانت مهمته الانتقامية تستحق التضحية بالأشخاص ذاتهم الذين أقسم على <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>حمايتهم</span>.</div>",
     "ReleaseDate": "2022",
@@ -31211,13 +31212,14 @@
             "identifier": "RPRP045",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "41GB",
+            "fileSize": "90GB",
             "executableFiles": [
               "bin\\Win64_Shipping_Client\\Bannerlord.exe",
               "bin\\Win64_Shipping_Client\\TaleWorlds.MountAndBlade.Launcher.exe"
             ],
             "executableLabels": ["Game", "Configure"],
             "arguments": [],
+            "buildID": "9 July 2026",
             "filename": "02290.zip"
           }
         ]
@@ -39232,7 +39234,7 @@
     "_id": "62eb4662-c38c-4f3a-9433-2e9e7eac1377",
     "Name": "Dead or Alive 6",
     "MediaId": "001078",
-    "SortingName": "Dead or Alive 06",
+    "SortingName": "Dead or Alive 06.01",
     "Description": "The <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>sixth Dead or Alive Tournament</span> beckons the world's deadliest fighters to compete in brutal combat where every strike could be their last, and victory demands both lethal precision and unbreakable will.<br>Legendary warriors like <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 8px #FFB6C1;'>Kasumi</span> the runaway kunoichi, <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>Ryu Hayabusa</span> the legendary ninja, and <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Helena</span> the operatic assassin return to face new challengers in arenas where the environment itself becomes a weapon.<br>Behind the tournament's bloody spectacle lurks the shadowy conspiracy of <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>DOATEC</span>, where scientific ambition and corporate greed fuel experiments that blur the line between humanity and something far more dangerous.<br>In this symphony of violence where <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>martial artistry meets cutting-edge technology</span>, each fighter must confront not only their opponents but the demons of their past, knowing that some battles can only end in <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>death or rebirth</span>.",
     "DescriptionArabic": "<div dir='rtl'>تستدعي <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>بطولة ميت أو حي السادسة</span> أقتل مقاتلي العالم للتنافس في قتال وحشي حيث كل ضربة قد تكون الأخيرة، والنصر يتطلب دقة قاتلة وإرادة لا تُكسر.<br>محاربون أسطوريون مثل <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 8px #FFB6C1;'>كاسومي</span> الكونويتشي الهاربة و<span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>ريو هايابوسا</span> النينجا الأسطوري و<span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>هيلينا</span> القاتلة الأوبرالية يعودون لمواجهة تحديات جديدة في حلبات تصبح فيها البيئة نفسها سلاحاً.<br>خلف المشهد الدموي للبطولة تكمن مؤامرة <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>دواتيك</span> الظليلة، حيث الطموح العلمي والجشع المؤسسي يغذيان تجارب تضبب الخط بين الإنسانية وشيء أكثر خطورة.<br>في هذه السيمفونية من العنف حيث <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>تلتقي فنون القتال بالتكنولوجيا المتطورة</span>، على كل مقاتل أن يواجه ليس فقط خصومه بل شياطين ماضيه، عالماً أن بعض المعارك لا يمكن أن تنتهي إلا بـ<span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>الموت أو الولادة الجديدة</span>.</div>",
     "ReleaseDate": "2019",
@@ -119849,8 +119851,8 @@
             "platform": "PC Game",
             "fileSize": "80GB",
             "arguments": [],
-            "executable": "CodeVein2\\Binaries\\Win64\\steamclient_loader_x64.exe",
-            "buildID": "17 March 2026",
+            "executable": "CodeVein2.exe",
+            "buildID": "30 April 2026",
             "customSavePath": "CodeVein2\\Binaries\\Win64\\userdata",
             "filename": "00618.zip"
           }
@@ -129415,7 +129417,7 @@
             "fileSize": "10 GB",
             "executable": "MOUSE.exe",
             "arguments": [],
-            "buildID": "16 April 2026",
+            "buildID": "9 July 2026",
             "filename": "00724.zip"
           }
         ]
@@ -136534,5 +136536,146 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1783657211433_0",
+    "Name": "Dead or Alive 6 Last Round",
+    "MediaId": "004212",
+    "SortingName": "Dead or Alive 06.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004212C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004212B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004212M.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "82 GB",
+            "filename": "02569.zip",
+            "executable": "DOA6LR.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1783657957276_0",
+    "Name": "Echoes of Aincrad",
+    "MediaId": "004213",
+    "SortingName": "Sword Art Online 08",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004213C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004213B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004213M.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "54 GB",
+            "executable": "EchoesofAincrad.exe",
+            "arguments": [],
+            "buildID": "9 July 2026",
+            "filename": "02570.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1783700736750_0",
+    "Name": "Craftlings",
+    "MediaId": "004214",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004214C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004214B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004214M.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "668 MB",
+            "filename": "02571.zip",
+            "executable": "Craftlings.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1783700736750_1",
+    "Name": "Gunvolt Chronicles Luminous Avenger iX 1+2 Dual Collection",
+    "MediaId": "004215",
+    "SortingName": "Azure Striker GUNVOLT 05.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004215C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004215B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004215M.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "6 GB",
+            "filename": "02572.zip",
+            "executable": "game.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
