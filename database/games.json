@@ -136563,9 +136563,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "82 GB",
-            "filename": "02569.zip",
             "executable": "DOA6LR.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "9 July 2026",
+            "filename": "02569.zip"
           }
         ]
       }
@@ -136606,7 +136607,7 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": ["Hypervisor 2.0"]
   },
   {
     "_id": "game_1783700736750_0",
@@ -136634,9 +136635,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "668 MB",
-            "filename": "02571.zip",
             "executable": "Craftlings.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "7 July 2026",
+            "filename": "02571.zip"
           }
         ]
       }
@@ -136669,9 +136671,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "6 GB",
-            "filename": "02572.zip",
             "executable": "game.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "9 July 2026",
+            "filename": "02572.zip"
           }
         ]
       }
