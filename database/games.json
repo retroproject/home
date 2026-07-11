@@ -136701,14 +136701,14 @@
         "versions": [
           {
             "identifier": "RPRP064",
-            "name": "Vanilla",
+            "name": "Collection",
             "platform": "Sony PlayStation 2",
             "fileSize": "149 MB",
-            "filename": "02573.zip",
             "romFiles": ["R1.iso", "R2.iso"],
             "romLabels": ["English", "Japanese"],
             "emulator": "PCSX2",
-            "arguments": []
+            "arguments": [],
+            "filename": "02573.zip"
           }
         ]
       }
@@ -136754,6 +136754,42 @@
             "emulator": "PCSX2",
             "arguments": [],
             "filename": "02574 HD Textures.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1783730511079_0",
+    "Name": "D2",
+    "MediaId": "004218",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004218C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004218B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004218M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004218T.mp4",
+    "videoStart": 55.46241,
+    "videoEnd": 260.494851,
+    "PlatformNames": ["Sega Dreamcast"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sega Dreamcast": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Sega Dreamcast",
+            "fileSize": "2 GB",
+            "filename": "02575.zip",
+            "romFiles": ["R1.chd", "R2.chd", "R3.chd", "R4.chd"],
+            "romLabels": ["Disc 1", "Disc 2", "Disc 3", "Disc 4"],
+            "emulator": "Redream",
+            "arguments": []
           }
         ]
       }
