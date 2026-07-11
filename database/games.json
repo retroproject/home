@@ -136766,7 +136766,7 @@
     "_id": "game_1783730511079_0",
     "Name": "D2",
     "MediaId": "004218",
-    "SortingName": "",
+    "SortingName": "D 03",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -136793,6 +136793,78 @@
             "romLabels": ["Disc 1", "Disc 2", "Disc 3", "Disc 4"],
             "emulator": "Redream",
             "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1783736191340_0",
+    "Name": "D",
+    "MediaId": "004219",
+    "SortingName": "D 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004219C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004219B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004219M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004219T.mp4",
+    "videoStart": 7.25873,
+    "videoEnd": 0,
+    "PlatformNames": ["Sega Saturn"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sega Saturn": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Sega Saturn",
+            "fileSize": "750 MB",
+            "filename": "02576.zip",
+            "romFiles": ["R1.chd", "R2.chd"],
+            "romLabels": ["Disc 1", "Disc 2"],
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\mednafen_saturn_libretro.dll"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1783736191341_1",
+    "Name": "Enemy Zero",
+    "MediaId": "004220",
+    "SortingName": "D 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004220C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004220B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004220M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004220T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Sega Saturn"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sega Saturn": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Sega Saturn",
+            "fileSize": "1 GB",
+            "filename": "02577.zip",
+            "romFiles": ["R1.chd", "R2.chd", "R3.chd", "R4.chd"],
+            "romLabels": ["Disc 1", "Disc 2", "Disc 3", "Disc 4"],
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\mednafen_saturn_libretro.dll"]
           }
         ]
       }
