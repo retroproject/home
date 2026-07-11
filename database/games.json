@@ -50106,7 +50106,7 @@
             "platform": "PC Game",
             "fileSize": "30GB",
             "arguments": [],
-            "buildID": "2 February 2026 [1.03.2 & 1.1.2]",
+            "buildID": "7 July 2026",
             "executable": "nrsc_launcher.exe",
             "filename": "00344.zip"
           }
@@ -90067,7 +90067,7 @@
             "platform": "PC Game",
             "executable": "ersc_launcher.exe",
             "fileSize": "66GB",
-            "buildID": "18 February 2026 [1.16.1 & 1.9.3]",
+            "buildID": "17 June 2026",
             "filename": "00194.zip"
           }
         ]
@@ -136549,9 +136549,9 @@
     "CoverUrl": "https://archive.org/download/RPRM002/004212C.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM002/004212B.jpg",
     "MusicUrl": "https://archive.org/download/RPRM002/004212M.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004212T.mp4",
+    "videoStart": 2.6,
+    "videoEnd": 97.766847,
     "PlatformNames": ["PC Game"],
     "GenreNames": [],
     "DeveloperNames": [],
@@ -136570,7 +136570,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1783657957276_0",
@@ -136584,9 +136584,9 @@
     "CoverUrl": "https://archive.org/download/RPRM002/004213C.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM002/004213B.jpg",
     "MusicUrl": "https://archive.org/download/RPRM002/004213M.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004213T.mp4",
+    "videoStart": 6.3,
+    "videoEnd": 99.26756,
     "PlatformNames": ["PC Game"],
     "GenreNames": [],
     "DeveloperNames": [],
@@ -136606,7 +136606,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1783700736750_0",
@@ -136620,9 +136620,9 @@
     "CoverUrl": "https://archive.org/download/RPRM002/004214C.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM002/004214B.jpg",
     "MusicUrl": "https://archive.org/download/RPRM002/004214M.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004214T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "PlatformNames": ["PC Game"],
     "GenreNames": [],
     "DeveloperNames": [],
@@ -136641,7 +136641,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1783700736750_1",
@@ -136655,9 +136655,9 @@
     "CoverUrl": "https://archive.org/download/RPRM002/004215C.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM002/004215B.jpg",
     "MusicUrl": "https://archive.org/download/RPRM002/004215M.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004215T.mp4",
+    "videoStart": 3.359638,
+    "videoEnd": 0,
     "PlatformNames": ["PC Game"],
     "GenreNames": [],
     "DeveloperNames": [],
@@ -136676,6 +136676,87 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
+  },
+  {
+    "_id": "game_1783727819857_0",
+    "Name": "Vampire Panic",
+    "MediaId": "004216",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004216C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004216B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004216M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004216T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation 2"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "149 MB",
+            "filename": "02573.zip",
+            "romFiles": ["R1.iso", "R2.iso"],
+            "romLabels": ["English", "Japanese"],
+            "emulator": "PCSX2",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1783729292331_0",
+    "Name": "Crimson Tears",
+    "MediaId": "004217",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004217C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004217B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004217M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004217T.mp4",
+    "videoStart": 4.4,
+    "videoEnd": 111.970134,
+    "PlatformNames": ["Sony PlayStation 2"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Collection",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "6 GB",
+            "romFiles": ["R1.iso", "R2.iso"],
+            "romLabels": ["English VA", "Japanese VA"],
+            "emulator": "PCSX2",
+            "arguments": [],
+            "filename": "02574.zip"
+          },
+          {
+            "identifier": "RPRP064",
+            "name": "HD Textures",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "5GB",
+            "emulator": "PCSX2",
+            "arguments": [],
+            "filename": "02574 HD Textures.zip"
+          }
+        ]
+      }
+    }
   }
 ]
