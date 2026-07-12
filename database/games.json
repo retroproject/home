@@ -7841,7 +7841,7 @@
             "identifier": "RPRP005",
             "name": "English",
             "platform": "PC Game",
-            "executable": "DevilMayCry4SpecialEdition.exe",
+            "executable": "DMC4SE Smart Launcher.exe",
             "fileSize": "25GB",
             "filename": "00156.zip"
           }
@@ -136898,14 +136898,15 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "25 GB",
-            "filename": "02578.zip",
             "executable": "APK\\Binaries\\Win64\\steamclient_loader_x64.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "20 April 2023",
+            "filename": "02578.zip"
           }
         ]
       }
     },
-    "Tags": ["Hypervisor 2.0", "Hide"]
+    "Tags": ["Hypervisor 2.0"]
   },
   {
     "_id": "game_1783874909796_1",
@@ -136933,14 +136934,15 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "24 GB",
-            "filename": "02579.zip",
             "executable": "Binaries\\Win64\\Shipping-ThiefGame.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "11 April 2019",
+            "filename": "02579.zip"
           }
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1783874909796_2",
@@ -136968,14 +136970,15 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "1 GB",
-            "filename": "02580.zip",
             "executable": "TrueFear1.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "20 March 2026",
+            "filename": "02580.zip"
           }
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1783874909796_3",
@@ -137003,14 +137006,15 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "941 MB",
-            "filename": "02581.zip",
             "executable": "True Fear 2.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "7 May 2026",
+            "filename": "02581.zip"
           }
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1783874909796_4",
@@ -137038,14 +137042,15 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "3 GB",
-            "filename": "02582.zip",
             "executable": "TrueFear3.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "30 March 2026",
+            "filename": "02582.zip"
           }
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1783875037625_0",
@@ -137073,14 +137078,15 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "15 GB",
-            "filename": "02583.zip",
             "executable": "Langrisser I & II.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "30 April 2020",
+            "filename": "02583.zip"
           }
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1783875090136_0",
@@ -137117,7 +137123,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1783875283604_0",
@@ -137153,7 +137159,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1783875283607_1",
@@ -137189,6 +137195,6 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   }
 ]
