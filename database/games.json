@@ -7833,7 +7833,7 @@
             "identifier": "RPRP005",
             "name": "Arabic",
             "platform": "PC Game",
-            "executable": "DevilMayCry4SpecialEdition.exe",
+            "executable": "DMC4SE Smart Launcher.exe",
             "fileSize": "35GB",
             "filename": "00157.zip"
           },
@@ -70570,13 +70570,14 @@
       "Sony PlayStation 2": {
         "versions": [
           {
-            "identifier": "retro-ps2",
-            "name": "Japanese VA",
+            "identifier": "RPRP064",
+            "name": "Collection",
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
-            "fileSize": "2GB",
-            "romFile": "Legend of Legaia 2 Duel Saga (Undub).iso",
-            "filename": "Legend of Legaia 2 Duel Saga (Undub).iso"
+            "fileSize": "4GB",
+            "romFiles": ["R1.iso", "R2.iso"],
+            "romLabels": ["English VA", "Japanese VA"],
+            "filename": "02587.zip"
           },
           {
             "identifier": "retro-ps2",
@@ -115287,8 +115288,8 @@
             "platform": "PC Game",
             "fileSize": "10GB",
             "arguments": [],
-            "executable": "hypervisor-launcher.exe",
-            "buildID": "2 March 2026",
+            "executable": "Hello Kitty.exe",
+            "buildID": "12 June 2026",
             "filename": "00621.zip"
           }
         ]
@@ -127880,7 +127881,7 @@
             "fileSize": "252 MB",
             "executable": "Link's Awakening DX HD.exe",
             "arguments": [],
-            "buildID": "1.7.0",
+            "buildID": "2.0.0",
             "filename": "00650.zip"
           }
         ]
