@@ -137197,5 +137197,76 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1784006167881_0",
+    "Name": "Beyond the Beyond",
+    "MediaId": "004230",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004230C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004230B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004230M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004230T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Reunion",
+            "platform": "Sony PlayStation",
+            "fileSize": "47 MB",
+            "romFile": "02589.chd",
+            "emulator": "DuckStation",
+            "arguments": [],
+            "buildID": "1.4",
+            "filename": "02589.chd"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1784006167881_1",
+    "Name": "Looney Tunes Racing",
+    "MediaId": "004231",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004231C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004231B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004231M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004231T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation",
+            "fileSize": "276 MB",
+            "filename": "02590.chd",
+            "romFile": "02590.chd",
+            "emulator": "DuckStation",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
