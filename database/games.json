@@ -21435,14 +21435,14 @@
           },
           {
             "identifier": "RPRP064",
-            "filename": "02591.zip",
             "platform": "PC Game",
             "name": "Severed Chains",
             "fileSize": "5GB",
-            "executableFiles": ["launch.bat"],
+            "executableFiles": ["launch.exe"],
             "buildID": "15 July 2026",
             "customSavePath": "saves",
-            "mods": ["Roses Are Red", "Full Script Revision", "Stardust Indicators"]
+            "mods": ["Roses Are Red", "Full Script Revision", "Stardust Indicators"],
+            "filename": "02591.zip"
           }
         ]
       }
