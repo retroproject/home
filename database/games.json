@@ -21411,15 +21411,15 @@
     "YouTubeUrl": "",
     "videoStart": null,
     "videoEnd": null,
-    "PlatformNames": ["Sony PlayStation"],
+    "PlatformNames": ["Sony PlayStation", "PC Game"],
     "GenreNames": ["Japanese Role-Playing"],
     "DeveloperNames": ["SCE Japan Studio"],
     "Tags": ["Hall of Fame"],
     "downloadInfo": {
-      "Sony PlayStation": {
+      "Cross-Platform": {
         "versions": [
           {
-            "name": "Enhanced",
+            "name": "PSX Enhanced",
             "fileSize": "2.3GB",
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
@@ -21432,6 +21432,17 @@
             "romLabels": ["Disc 1", "Disc 2", "Disc 3", "Disc 4"],
             "identifier": "retro-psx",
             "filename": "The Legend of Dragoon.zip"
+          },
+          {
+            "identifier": "RPRP064",
+            "filename": "02591.zip",
+            "platform": "PC Game",
+            "name": "Severed Chains",
+            "fileSize": "5GB",
+            "executableFiles": ["launch.bat"],
+            "buildID": "15 July 2026",
+            "customSavePath": "saves",
+            "mods": ["Roses Are Red", "Full Script Revision", "Stardust Indicators"]
           }
         ]
       }
