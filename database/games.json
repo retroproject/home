@@ -23283,7 +23283,7 @@
             "identifier": "RPRP064",
             "platform": "PC Game",
             "name": "PC Enhanced",
-            "fileSize": "10GB",
+            "fileSize": "5GB",
             "executableFiles": ["SilentHillPC.exe", "SilentHillPC_Launcher.exe"],
             "executableLabels": ["Game", "Configure"],
             "buildID": "15 July 2026",
