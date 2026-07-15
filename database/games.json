@@ -23262,15 +23262,15 @@
     "YouTubeUrl": "https://archive.org/download/RPRM002/000637T.mp4",
     "videoStart": null,
     "videoEnd": null,
-    "PlatformNames": ["Sony PlayStation"],
+    "PlatformNames": ["Sony PlayStation", "PC Game"],
     "GenreNames": ["Horror"],
     "DeveloperNames": ["Team Silent"],
     "downloadInfo": {
-      "Sony PlayStation": {
+      "Cross-Platform": {
         "versions": [
           {
             "identifier": "retro-psx",
-            "name": "Collection",
+            "name": "PSX Collection",
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "1GB",
@@ -23278,11 +23278,23 @@
             "romLabels": ["Arabic", "English"],
             "buildID": "Arabic [2026]",
             "filename": "Silent Hill.zip"
+          },
+          {
+            "identifier": "RPRP064",
+            "platform": "PC Game",
+            "name": "PC Enhanced",
+            "fileSize": "10GB",
+            "executableFiles": ["SilentHillPC.exe", "SilentHillPC_Launcher.exe"],
+            "executableLabels": ["Game", "Configure"],
+            "buildID": "15 July 2026",
+            "customSavePath": "gamedata\\save",
+            "mods": "HD Textures 2.0",
+            "filename": "02592.zip"
           }
         ]
       }
     },
-    "Tags": ["Arabic", "Has Issues"]
+    "Tags": ["Arabic"]
   },
   {
     "_id": "387c4806-6280-4aeb-ac0a-dbeabaac3c99",
