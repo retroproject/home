@@ -26174,23 +26174,17 @@
         "versions": [
           {
             "identifier": "RPRP024",
-            "filename": "01082.zip",
-            "name": "Arabic",
+            "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "DeathsDoor.exe",
-            "fileSize": "2GB"
-          },
-          {
-            "identifier": "RPRP024",
-            "filename": "01083.zip",
-            "name": "English",
-            "platform": "PC Game",
-            "executable": "DeathsDoor.exe",
-            "fileSize": "2GB"
+            "executable": "Deathloop.exe",
+            "fileSize": "2GB",
+            "buildID": "26 March 2026",
+            "filename": "01083.zip"
           }
         ]
       }
-    }
+    },
+    "Tags": ["Hypervisor 2.0"]
   },
   {
     "_id": "40c2af8d-feae-49b6-98a0-f941e4ca969a",
@@ -110533,7 +110527,7 @@
             "platform": "PC Game",
             "fileSize": "12GB",
             "executable": "DoubleDragonRevive_Steam.exe",
-            "buildID": "22 October 2025",
+            "buildID": "6 July 2026",
             "arguments": [],
             "filename": "00140.zip"
           }
@@ -128231,7 +128225,7 @@
             "fileSize": "10 GB",
             "executable": "FFT_enhanced.exe",
             "arguments": [],
-            "buildID": "17 November 2025",
+            "buildID": "13 July 2026",
             "filename": "00663.zip"
           }
         ]
@@ -137320,6 +137314,40 @@
             "fileSize": "158 MB",
             "filename": "02593.zip",
             "executable": "MegaMaker.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1784498048867_0",
+    "Name": "Eriksholm The Stolen Dream",
+    "MediaId": "004233",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004233C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004233B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004233M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004233T.mp4",
+    "videoStart": 2.5,
+    "videoEnd": 76.727746,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "11 GB",
+            "filename": "02594.zip",
+            "executable": "Eriksholm.exe",
             "arguments": []
           }
         ]
