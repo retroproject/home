@@ -111544,10 +111544,10 @@
             "identifier": "RPRP007",
             "name": "Vanilla",
             "platform": "PC Game",
-            "fileSize": "51 GB",
+            "fileSize": "65GB",
             "executable": "TheAlters.exe",
             "arguments": [],
-            "buildID": "8 December 2025",
+            "buildID": "17 July 2026",
             "filename": "00192.zip"
           }
         ]
@@ -137312,9 +137312,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "158 MB",
-            "filename": "02593.zip",
             "executable": "MegaMaker.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "1.10.5.1",
+            "filename": "02593.zip"
           }
         ]
       }
@@ -137346,9 +137347,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "11 GB",
-            "filename": "02594.zip",
             "executable": "Eriksholm.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "21 October 2025",
+            "filename": "02594.zip"
           }
         ]
       }
@@ -137377,13 +137379,233 @@
         "versions": [
           {
             "identifier": "RPRP064",
-            "name": "Vanilla",
+            "name": "Enhanced",
             "platform": "Sony PlayStation 2",
             "fileSize": "2 GB",
-            "filename": "02595.iso",
             "romFile": "02595.iso",
             "emulator": "PCSX2",
-            "arguments": []
+            "arguments": [],
+            "filename": "02595.iso"
+          },
+          {
+            "identifier": "RPRP064",
+            "name": "HD Textures",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "3GB",
+            "emulator": "PCSX2",
+            "arguments": [],
+            "filename": "02595 HD Textures.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1784564230961_0",
+    "Name": "Denshattack",
+    "MediaId": "004235",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004235C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004235B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004235M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004235T.mp4",
+    "videoStart": 0.6,
+    "videoEnd": 60.257146,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "8 GB",
+            "executable": "Denshattack_Proto.exe",
+            "arguments": [],
+            "buildID": "15 July 2026",
+            "filename": "02596.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1784564230962_1",
+    "Name": "Gambonanza",
+    "MediaId": "004236",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004236C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004236B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004236M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004236T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "385 MB",
+            "executable": "Gambonanza.exe",
+            "arguments": [],
+            "buildID": "10 July 2026",
+            "filename": "02597.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1784564230962_2",
+    "Name": "Meta Ghost Breaking Show",
+    "MediaId": "004237",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004237C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004237B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004237M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004237T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "executable": "Meta Ghost.exe",
+            "arguments": [],
+            "buildID": "18 July 2026",
+            "filename": "02598.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Need Music"]
+  },
+  {
+    "_id": "game_1784564230962_3",
+    "Name": "Moss The Forgotten Relic",
+    "MediaId": "004238",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004238C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004238B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004238M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004238T.mp4",
+    "videoStart": 0.9,
+    "videoEnd": 100.554188,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "11 GB",
+            "executable": "MossCollection.exe",
+            "arguments": [],
+            "buildID": "16 July 2026",
+            "filename": "02599.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1784564230962_4",
+    "Name": "While We Wait Here",
+    "MediaId": "004239",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004239C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004239B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004239M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004239T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "While_We_Wait_Here.exe",
+            "arguments": [],
+            "buildID": "5 December 2024",
+            "filename": "02600.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1784600552172_0",
+    "Name": "EDENS ZERO",
+    "MediaId": "004240",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004240C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004240B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004240M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004240T.mp4",
+    "videoStart": 4.204371,
+    "videoEnd": 70.22029,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "11 GB",
+            "executable": "EDENSZERO.exe",
+            "arguments": [],
+            "buildID": "11 July 2025",
+            "filename": "02601.zip"
           }
         ]
       }
