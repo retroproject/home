@@ -137610,5 +137610,40 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1784615801570_0",
+    "Name": "Noddy and the Magic Book",
+    "MediaId": "004241",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004241C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004241B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004241M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004241T.mp4",
+    "videoStart": 3,
+    "videoEnd": 93.498728,
+    "PlatformNames": ["Sony PlayStation 2"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "2 GB",
+            "filename": "02602.iso",
+            "romFile": "02602.iso",
+            "emulator": "PCSX2",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
