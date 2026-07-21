@@ -137645,5 +137645,145 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1784625696821_0",
+    "Name": "Dead to Rights Retribution",
+    "MediaId": "004242",
+    "SortingName": "Dead to Rights 04",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004242C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004242B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004242M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004242T.mp4",
+    "videoStart": 8.255006,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation 3"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "fileSize": "6 GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "emulator": "RPCS3",
+            "arguments": [],
+            "filenames": ["02603.zip", "02603 Update.zip"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1784626854077_0",
+    "Name": "Dead to Rights II",
+    "MediaId": "004243",
+    "SortingName": "Dead to Rights 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004243C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004243B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004243M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004243T.mp4",
+    "videoStart": 4.3,
+    "videoEnd": 90.334629,
+    "PlatformNames": ["Sony PlayStation 2"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "4 GB",
+            "filename": "02604.iso",
+            "romFile": "02604.iso",
+            "emulator": "PCSX2",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1784626854077_1",
+    "Name": "Dead to Rights",
+    "MediaId": "004244",
+    "SortingName": "Dead to Rights 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004244C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004244B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004244M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004244T.mp4",
+    "videoStart": 11.085847,
+    "videoEnd": 202.711596,
+    "PlatformNames": ["Sony PlayStation 2"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "2 GB",
+            "filename": "02605.iso",
+            "romFile": "02605.iso",
+            "emulator": "PCSX2",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1784627041326_0",
+    "Name": "Dead To Rights Reckoning",
+    "MediaId": "004245",
+    "SortingName": "Dead To Rights 03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004245C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004245B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004245M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004245T.mp4",
+    "videoStart": 19.4,
+    "videoEnd": 102.199099,
+    "PlatformNames": ["Sony PlayStation Portable"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation Portable": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation Portable",
+            "fileSize": "182 MB",
+            "filename": "02606.iso",
+            "romFile": "02606.iso",
+            "emulator": "PPSSPP",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
