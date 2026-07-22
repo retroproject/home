@@ -137732,21 +137732,29 @@
     "YouTubeUrl": "https://archive.org/download/RPRM002/004244T.mp4",
     "videoStart": 11.085847,
     "videoEnd": 202.711596,
-    "PlatformNames": ["Sony PlayStation 2"],
+    "PlatformNames": ["Sony PlayStation 2", "PC Game"],
     "GenreNames": [],
     "DeveloperNames": [],
     "downloadInfo": {
-      "Sony PlayStation 2": {
+      "Cross-Platform": {
         "versions": [
           {
             "identifier": "RPRP064",
-            "name": "Vanilla",
+            "name": "Playstation 2",
             "platform": "Sony PlayStation 2",
             "fileSize": "2 GB",
-            "filename": "02605.iso",
-            "romFile": "02605.iso",
             "emulator": "PCSX2",
-            "arguments": []
+            "arguments": [],
+            "romFile": "02605.iso",
+            "filename": "02605.iso"
+          },
+          {
+            "identifier": "RPRP064",
+            "filename": "02614.zip",
+            "platform": "PC Game",
+            "name": "PC",
+            "fileSize": "2GB",
+            "executableFiles": ["DTRPC_WS.EXE"]
           }
         ]
       }
