@@ -135149,9 +135149,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "87 MB",
-            "filename": "02494.zip",
             "executable": "Mario.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "Final",
+            "filename": "02494.zip"
           }
         ]
       }
@@ -137781,6 +137782,251 @@
             "romFile": "02606.iso",
             "emulator": "PPSSPP",
             "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1784632191880_0",
+    "Name": "Beholder",
+    "MediaId": "004246",
+    "SortingName": "Beholder 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004246C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004246B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004246M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004246T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Beholder.exe",
+            "arguments": [],
+            "buildID": "9 December 2024",
+            "filename": "02607.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1784632191881_1",
+    "Name": "Beholder 2",
+    "MediaId": "004247",
+    "SortingName": "Beholder 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004247C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004247B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004247M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004247T.mp4",
+    "videoStart": 3.423939,
+    "videoEnd": 84.236947,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "Beholder2.exe",
+            "arguments": [],
+            "buildID": "9 December 2024",
+            "filename": "02608.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1784632191881_2",
+    "Name": "Beholder 3",
+    "MediaId": "004248",
+    "SortingName": "Beholder 03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004248C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004248B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004248M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004248T.mp4",
+    "videoStart": 2.2,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "10 GB",
+            "executable": "HDRP\\Beholder3.exe",
+            "arguments": [],
+            "buildID": "9 December 2024",
+            "filename": "02609.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1784632191881_3",
+    "Name": "Beholder Conductor",
+    "MediaId": "004249",
+    "SortingName": "Beholder 04",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004249C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004249B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004249M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004249T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "5 GB",
+            "executable": "BeholderConductor.exe",
+            "arguments": [],
+            "buildID": "24 November 2025",
+            "filename": "02610.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1784632191881_4",
+    "Name": "Perennial Order",
+    "MediaId": "004250",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004250C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004250B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004250M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004250T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "10 GB",
+            "executable": "Perennial Order.exe",
+            "arguments": [],
+            "buildID": "1.0.3",
+            "filename": "02611.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1784632191881_5",
+    "Name": "Wargroove",
+    "MediaId": "004251",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004251C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004251B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004251M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004251T.mp4",
+    "videoStart": 0,
+    "videoEnd": 53.651306,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "351 MB",
+            "executable": "win64_bin\\wargroove64.exe",
+            "arguments": [],
+            "buildID": "5 August 2020",
+            "filename": "02612.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1784632191881_6",
+    "Name": "Wargroove 2",
+    "MediaId": "004252",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004252C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004252B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004252M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004252T.mp4",
+    "videoStart": 4.124046,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "515 MB",
+            "executable": "win64_bin\\wargroove64.exe",
+            "arguments": [],
+            "buildID": "29 January 2026",
+            "filename": "02613.zip"
           }
         ]
       }
