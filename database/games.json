@@ -78344,14 +78344,16 @@
       "Nintendo 64": {
         "versions": [
           {
-            "identifier": "e03e03",
-            "filename": "Paper Mario.zip",
-            "name": "Vanilla",
+            "identifier": "RPRP64",
+            "name": "Collection",
             "platform": "Nintendo 64",
             "emulator": "RetroArch",
-            "romFile": "Paper Mario.z64",
-            "fileSize": "40MB",
-            "arguments": ["-L", ".\\cores\\mupen64plus_next_libretro.dll"]
+            "fileSize": "100MB",
+            "arguments": ["-L", ".\\cores\\mupen64plus_next_libretro.dll"],
+            "romFiles": ["R1.z64", "R2.z64"],
+            "romLabels": ["Vanilla", "Star Nova"],
+            "mods": "Star Nova 1.3.0",
+            "filename": "02635.zip"
           }
         ]
       }
@@ -138744,6 +138746,252 @@
             "romFiles": ["R1.chd", "R2.chd"],
             "romLabels": ["Disc 1", "Disc 2"],
             "emulator": "DuckStation",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1785102452894_0",
+    "Name": "F Zero",
+    "MediaId": "004273",
+    "SortingName": "F Zero 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004273C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004273B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004273M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004273T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Nintendo Super Entertainment System"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Super Entertainment System": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Nintendo Super Entertainment System",
+            "fileSize": "512 KB",
+            "filename": "02636.sfc",
+            "romFile": "02636.sfc",
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\snes9x_libretro.dll"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1785102479727_0",
+    "Name": "F Zero X",
+    "MediaId": "004274",
+    "SortingName": "F Zero 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004274C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004274B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004274M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004274T.mp4",
+    "videoStart": 1.910254,
+    "videoEnd": 37.941704,
+    "PlatformNames": ["Nintendo 64"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo 64": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Nintendo 64",
+            "fileSize": "32 MB",
+            "filename": "02637.zip",
+            "romFiles": ["R1.z64", "R2.z64"],
+            "romLabels": ["Vanilla", "ZX Overdrive"],
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\mupen64plus_next_libretro.dll"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1785102561529_0",
+    "Name": "F Zero GP Legend",
+    "MediaId": "004275",
+    "SortingName": "F Zero 04",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004275C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004275B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004275M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004275T.mp4",
+    "videoStart": 6.39131,
+    "videoEnd": 0,
+    "PlatformNames": ["Nintendo Game Boy Advance"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Game Boy Advance": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Nintendo Game Boy Advance",
+            "fileSize": "16 MB",
+            "filename": "02638.gba",
+            "romFile": "02638.gba",
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\mgba_libretro.dll"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1785102561529_1",
+    "Name": "F Zero Maximum Velocity",
+    "MediaId": "004276",
+    "SortingName": "F Zero 03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004276C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004276B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004276M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004276T.mp4",
+    "videoStart": 1.7,
+    "videoEnd": 34.388433,
+    "PlatformNames": ["Nintendo Game Boy Advance"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Game Boy Advance": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Nintendo Game Boy Advance",
+            "fileSize": "4 MB",
+            "filename": "02639.gba",
+            "romFile": "02639.gba",
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\mgba_libretro.dll"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1785102593757_0",
+    "Name": "F Zero GX",
+    "MediaId": "004277",
+    "SortingName": "F Zero 06",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004277C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004277B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004277M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004277T.mp4",
+    "videoStart": 6.362255,
+    "videoEnd": 66.656495,
+    "PlatformNames": ["Nintendo GameCube"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo GameCube": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Nintendo GameCube",
+            "fileSize": "1 GB",
+            "filename": "02640.iso",
+            "romFile": "02640.iso",
+            "emulator": "Dolphin",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1785102790729_0",
+    "Name": "F Zero Climax",
+    "MediaId": "004278",
+    "SortingName": "F Zero 05",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004278C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004278B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004278M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004278T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Nintendo Game Boy Advance"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Game Boy Advance": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Nintendo Game Boy Advance",
+            "fileSize": "16 MB",
+            "filename": "02641.gba",
+            "romFile": "02641.gba",
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\mgba_libretro.dll"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1785102800739_0",
+    "Name": "F ZERO 99",
+    "MediaId": "004279",
+    "SortingName": "F Zero 07",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004279C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004279B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004279M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004279T.mp4",
+    "videoStart": 1.996634,
+    "videoEnd": 0,
+    "PlatformNames": ["Nintendo Switch"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Switch": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Nintendo Switch",
+            "fileSize": "1 GB",
+            "filename": "02642.nsp",
+            "romFile": "02642.nsp",
+            "emulator": "Citron",
             "arguments": []
           }
         ]
