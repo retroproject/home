@@ -26520,7 +26520,7 @@
     "_id": "4181beca-c0c3-48fd-863f-190dd36ac097",
     "Name": "Halo: The Master Chief Collection",
     "MediaId": "000727",
-    "SortingName": "Halo 01",
+    "SortingName": "Halo 01.01",
     "Description": "The legendary saga of <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Master Chief Petty Officer John-117</span> unfolds across four epic campaigns that chronicle humanity's desperate struggle against the alien <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Covenant</span> and the terrifying parasitic <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Flood</span>.<br>From the discovery of the first mysterious <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 6px #FFD700;'>Halo ring</span> to the final confrontation with the rogue AI <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Cortana</span>, players witness the evolution of one of gaming's greatest heroes alongside his artificial intelligence companion who becomes more human than machine.<br>Through intense firefights against alien forces and vehicular combat across diverse worlds, the Master Chief must navigate political conspiracies, ancient mysteries, and the weight of being humanity's last hope against extinction.<br>In this complete collection of heroic sacrifice and technological wonder, every battle fought and every life lost brings the galaxy closer to understanding that sometimes the greatest victory requires the ultimate <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>sacrifice</span>, and that even machines can learn to <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>love</span>.",
     "DescriptionArabic": "<div dir='rtl'>تتكشف الملحمة الأسطورية لـ <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>الرقيب الأول جون-117</span> عبر أربع حملات ملحمية تسجل صراع البشرية اليائس ضد <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>التحالف</span> الفضائي و<span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>الطوفان</span> الطفيلي المرعب.<br>من اكتشاف أول <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 6px #FFD700;'>حلقة هالو</span> غامضة إلى المواجهة النهائية مع الذكاء الاصطناعي المارق <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>كورتانا</span>، يشهد اللاعبون تطور أحد أعظم أبطال الألعاب إلى جانب رفيقته الذكاء الاصطناعي التي تصبح أكثر إنسانية من الآلة.<br>من خلال معارك نارية مكثفة ضد القوات الفضائية وقتال المركبات عبر عوالم متنوعة، يجب على الرقيب الأول أن يتنقل عبر المؤامرات السياسية والألغاز القديمة وثقل كونه الأمل الأخير للبشرية ضد الانقراض.<br>في هذه المجموعة الكاملة من التضحية البطولية والعجائب التكنولوجية، كل معركة تُخاض وكل حياة تُفقد تقرب المجرة من فهم أن أعظم انتصار أحياناً يتطلب <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>التضحية</span> النهائية، وأن حتى الآلات يمكنها أن تتعلم <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>الحب</span>.</div>",
     "ReleaseDate": "2014",
@@ -50296,11 +50296,12 @@
         "versions": [
           {
             "identifier": "RPRP026",
-            "filename": "01400.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "BLUE PRINCE.exe",
-            "fileSize": "3GB"
+            "fileSize": "3GB",
+            "buildID": "21 July 2026",
+            "filename": "01400.zip"
           }
         ]
       }
@@ -98429,6 +98430,7 @@
             "fileSize": "29GB",
             "arguments": [],
             "executable": "HUNDRED_LINE.exe",
+            "buildID": "27 May 2026",
             "filename": "02230.zip"
           }
         ]
@@ -119505,9 +119507,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "3 GB",
-            "filename": "00383.zip",
             "executable": "I Hate This Place.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "22 May 2026",
+            "filename": "00383.zip"
           }
         ]
       }
@@ -125250,18 +125253,18 @@
         "versions": [
           {
             "identifier": "RPRP021",
-            "name": "AMD & INTEL",
+            "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "53 GB",
-            "executable": "BBQ\\Binaries\\Win64\\BBQ-Win64-Shipping.exe",
+            "executable": "KZ.exe",
             "arguments": [],
-            "buildID": "27 November 2025",
+            "buildID": "1 April 2026",
             "filename": "00674.zip"
           }
         ]
       }
     },
-    "Tags": ["Hypervisor 2.0"]
+    "Tags": []
   },
   {
     "_id": "game_1773045962403_0",
@@ -137975,10 +137978,11 @@
     "Name": "Wargroove",
     "MediaId": "004251",
     "SortingName": "",
-    "Description": "",
-    "DescriptionArabic": "",
-    "ReleaseDate": null,
-    "CriticScore": null,
+    "Description": "After the cold-blooded assassination of <b style='color:#FF5733; text-shadow:0 0 8px #FF5733;'>King Mercival II</b>, his young daughter <b style='color:#C70039; text-shadow:0 0 8px #C70039;'>Mercia</b> is thrust onto the throne of the <b style='color:#900C3F; text-shadow:0 0 8px #900C3F;'>Cherrystone Kingdom</b> and must confront a ravenous invasion by the undead <b style='color:#581845; text-shadow:0 0 8px #581845;'>Felheim Legion</b>, commanded by the ruthless warlord <b style='color:#1C2833; text-shadow:0 0 8px #1C2833;'>Valder</b> and the cunning vampire <b style='color:#2E4053; text-shadow:0 0 8px #2E4053;'>Sigrid</b>. <br>Desperate for allies, Mercia seeks aid from <b style='color:#154360; text-shadow:0 0 8px #154360;'>Empress Tenri</b> of the technologically advanced <b style='color:#1F618D; text-shadow:0 0 8px #1F618D;'>Heavensong Empire</b>, while her path is tangled with the wild <b style='color:#2471A3; text-shadow:0 0 8px #2471A3;'>Floran Tribes</b> of the misty <b style='color:#2980B9; text-shadow:0 0 8px #2980B9;'>Gloomwoods</b>. <br>Together they discover that Sigrid’s true ambition is to claim the legendary <b style='color:#884EA0; text-shadow:0 0 8px #884EA0;'>Cherryblade</b>, the key to unsealing the ancient weapon of destruction known as <b style='color:#7D3C98; text-shadow:0 0 8px #7D3C98;'>Requiem</b>. <br>In a desperate gamble, Mercia convinces Valder to switch sides, and their united forces storm the volcanic stronghold of <b style='color:#6C3483; text-shadow:0 0 8px #6C3483;'>Dragon’s Cradle</b>, confronting the vengeful spirit <b style='color:#512E5F; text-shadow:0 0 8px #512E5F;'>Elodie</b> and Mercia’s own dark doppelganger. <br>The clash will decide whether Aurania’s fragile peace can survive the resurgence of an age‑old cataclysm.",
+    "DescriptionArabic": "<div dir='rtl'>بعد اغتيال الملك <b style='color:#FF5733; text-shadow:0 0 8px #FF5733;'>ميرسيفال الثاني</b> البارد، تُعْلَن ابنتُه الشابة <b style='color:#C70039; text-shadow:0 0 8px #C70039;'>ميرسيا</b> على عرش <b style='color:#900C3F; text-shadow:0 0 8px #900C3F;'>مملكة تشيرستون</b> وتواجه غزوًا شرسًا من <b style='color:#581845; text-shadow:0 0 8px #581845;'>فيلهم ليجن الميتة</b> بقيادة الحرباء القاسية <b style='color:#1C2833; text-shadow:0 0 8px #1C2833;'>فالدر</b> والمصاص الدموي الذكي <b style='color:#2E4053; text-shadow:0 0 8px #2E4053;'>سيغريد</b>. <br>في يأسها من العثور على حلفاء، تسعى ميرسيا للمساعدة من <b style='color:#154360; text-shadow:0 0 8px #154360;'>الإمبراطورة تينري</b> في إمبراطورية هيفنسون التقنية المتقدمة، بينما يتشابك طريقها مع قبائل <b style='color:#2471A3; text-shadow:0 0 8px #2471A3;'>الفورلان</b> البرية في غابات <b style='color:#2980B9; text-shadow:0 0 8px #2980B9;'>غلوموودز الضبابية</b>. <br>معًا يكتشفون أن طموح سيغريد الحقيقي هو الحصول على سيف <b style='color:#884EA0; text-shadow:0 0 8px #884EA0;'>تشيري بليد</b> الأسطوري، المفتاح لإطلاق سلاح الدمار القديم المعروف باسم <b style='color:#7D3C98; text-shadow:0 0 8px #7D3C98;'>ريكييم</b>. <br>في مخاطرة يائسة، تقنع ميرسيا فالدر بالتحول إلى جانبها، وتندفع قواتهما المتحدة إلى معقل البركان <b style='color:#6C3483; text-shadow:0 0 8px #6C3483;'>مهد التنين</b>، مواجهتين الروح الانتقامية <b style='color:#512E5F; text-shadow:0 0 8px #512E5F;'>إلودي</b> وتوأم ميرسيا المظلم. <br>هذه المعركة ستحدد ما إذا كان سلام أورانيا الهش سيصمد أمام عودة الكارثة القديمة.</div>",
+    "ReleaseDate": "2019",
+    "CriticScore": 80,
+    "Length": 40,
     "CoverUrl": "https://archive.org/download/RPRM002/004251C.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM002/004251B.jpg",
     "MusicUrl": "https://archive.org/download/RPRM002/004251M.mp3",
@@ -137986,8 +137990,8 @@
     "videoStart": 0,
     "videoEnd": 53.651306,
     "PlatformNames": ["PC Game"],
-    "GenreNames": [],
-    "DeveloperNames": [],
+    "GenreNames": ["Strategy"],
+    "DeveloperNames": ["Chucklefish"],
     "downloadInfo": {
       "PC Game": {
         "versions": [
@@ -138035,6 +138039,533 @@
             "arguments": [],
             "buildID": "29 January 2026",
             "filename": "02613.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1785001494043_0",
+    "Name": "Avatar Legends The Fighting Game",
+    "MediaId": "004253",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004253C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004253B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004253M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004253T.mp4",
+    "videoStart": 4.658824,
+    "videoEnd": 74.8,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "8 GB",
+            "executable": "Atla.exe",
+            "arguments": [],
+            "buildID": "23 July 2026",
+            "filename": "02615.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1785001494044_1",
+    "Name": "Disgaea Mayhem",
+    "MediaId": "004254",
+    "SortingName": "Disgaea 20",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004254C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004254B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004254M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004254T.mp4",
+    "videoStart": 2.8,
+    "videoEnd": 126.630369,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "Disgaea_Mayhem.exe",
+            "arguments": [],
+            "buildID": "23 July 2026",
+            "filename": "02616.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1785001494044_2",
+    "Name": "DragonSword Awakening",
+    "MediaId": "004255",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004255C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004255B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004255M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004255T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "20 GB",
+            "executable": "DSClient.exe",
+            "arguments": [],
+            "buildID": "25 July 2026",
+            "filename": "02617.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1785001494044_3",
+    "Name": "Flotsam",
+    "MediaId": "004256",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004256C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004256B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004256M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004256T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "1 GB",
+            "executable": "Flotsam.exe",
+            "arguments": [],
+            "buildID": "9 June 2026",
+            "filename": "02618.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1785001494044_4",
+    "Name": "FOUNTAINS",
+    "MediaId": "004257",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004257C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004257B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004257M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004257T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "308 MB",
+            "executable": "FOUNTAINS.exe",
+            "arguments": [],
+            "buildID": "3 October 2025",
+            "filename": "02619.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1785001494044_5",
+    "Name": "Halo Campaign Evolved",
+    "MediaId": "004258",
+    "SortingName": "Halo 01.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004258C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004258B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004258M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004258T.mp4",
+    "videoStart": 2.3,
+    "videoEnd": 123.125163,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "71 GB",
+            "executable": "Meteorite\\Binaries\\Win64\\HaloCampaignEvolved.exe",
+            "arguments": [],
+            "buildID": "23 July 2026",
+            "filename": "02620.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1785001494044_6",
+    "Name": "KYOTO XANADU the Blooming Phantom",
+    "MediaId": "004259",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004259C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004259B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004259M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004259T.mp4",
+    "videoStart": 0,
+    "videoEnd": 108.524628,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Japanese",
+            "platform": "PC Game",
+            "fileSize": "25 GB",
+            "executable": "kyoto_xanadu.exe",
+            "arguments": [],
+            "buildID": "16 July 2026",
+            "filename": "02621.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1785001494044_7",
+    "Name": "Pass The Fear",
+    "MediaId": "004260",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004260C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004260B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004260M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004260T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "PassTheFear.exe",
+            "arguments": [],
+            "buildID": "25 July 2026",
+            "filename": "02622.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Need Music"]
+  },
+  {
+    "_id": "game_1785001494044_8",
+    "Name": "Rubinite",
+    "MediaId": "004261",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004261C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004261B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004261M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004261T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "Rubinite.exe",
+            "arguments": [],
+            "buildID": "25 July 2026",
+            "filename": "02623.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1785001494044_9",
+    "Name": "Sunset Hills",
+    "MediaId": "004262",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004262C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004262B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004262M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004262T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "12 GB",
+            "executable": "SunsetHills.exe",
+            "arguments": [],
+            "buildID": "3 July 2026",
+            "filename": "02624.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1785001494044_10",
+    "Name": "The Mound Omen of Cthulhu",
+    "MediaId": "004263",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004263C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004263B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004263M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004263T.mp4",
+    "videoStart": 2.6,
+    "videoEnd": 95.975837,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "23 GB",
+            "executable": "TheMound.exe",
+            "arguments": [],
+            "buildID": "14 July 2026",
+            "filename": "02625.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1785001494044_11",
+    "Name": "Tormentum II",
+    "MediaId": "004264",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004264C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004264B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004264M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004264T.mp4",
+    "videoStart": 0,
+    "videoEnd": 97.482158,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Tormentum II.exe",
+            "arguments": [],
+            "buildID": "25 July 2026",
+            "filename": "02626.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Need Music"]
+  },
+  {
+    "_id": "game_1785042153619_0",
+    "Name": "Jump King",
+    "MediaId": "004265",
+    "SortingName": "Jump King 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004265C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004265B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004265M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004265T.mp4",
+    "videoStart": 0,
+    "videoEnd": 56.852467,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "JumpKing.exe",
+            "arguments": [],
+            "buildID": "30 May 2025",
+            "filename": "02627.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1785042153619_1",
+    "Name": "Jump King Quest",
+    "MediaId": "004266",
+    "SortingName": "Jump King 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004266C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004266B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004266M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004266T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "JKQ.exe",
+            "arguments": [],
+            "buildID": "8 July 2026",
+            "filename": "02628.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1785042153619_2",
+    "Name": "Phenomeno Mitsurugi Yoishi wa Kowagaranai",
+    "MediaId": "004267",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004267C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004267B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004267M.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "934 MB",
+            "executable": "Phenomeno.exe",
+            "arguments": [],
+            "buildID": "English Translation",
+            "filename": "02629.zip"
           }
         ]
       }
