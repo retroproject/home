@@ -138434,7 +138434,7 @@
     "_id": "game_1785001494044_11",
     "Name": "Tormentum II",
     "MediaId": "004264",
-    "SortingName": "",
+    "SortingName": "Tormentum 02",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -138566,6 +138566,41 @@
             "arguments": [],
             "buildID": "English Translation",
             "filename": "02629.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1785055678380_0",
+    "Name": "Tormentum Dark Sorrow",
+    "MediaId": "004268",
+    "SortingName": "Tormentum 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004268C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004268B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004268M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004268T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "319 MB",
+            "executable": "Tormentum.exe",
+            "buildID": "3 May 2020",
+            "arguments": [],
+            "filename": "02630.zip"
           }
         ]
       }
