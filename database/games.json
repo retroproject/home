@@ -138713,5 +138713,41 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1785086202918_0",
+    "Name": "Serial Experiments Lain",
+    "MediaId": "004272",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004272C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004272B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004272M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004272T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation",
+            "fileSize": "736 MB",
+            "filename": "02634.zip",
+            "romFiles": ["R1.chd", "R2.chd"],
+            "romLabels": ["Disc 1", "Disc 2"],
+            "emulator": "DuckStation",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
