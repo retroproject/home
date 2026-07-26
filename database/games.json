@@ -138640,5 +138640,78 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1785078293029_0",
+    "Name": "Brightis",
+    "MediaId": "004270",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004270C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004270B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004270M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004270T.mp4",
+    "videoStart": 314.6,
+    "videoEnd": 404.105476,
+    "PlatformNames": ["Sony PlayStation"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation",
+            "fileSize": "65 MB",
+            "romFile": "02632.chd",
+            "emulator": "DuckStation",
+            "arguments": [],
+            "buildID": "English Wado Version V1.0.1",
+            "filename": "02632.chd"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1785078293029_1",
+    "Name": "Kowloons Gate",
+    "MediaId": "004271",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004271C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004271B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004271M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004271T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation",
+            "fileSize": "2 GB",
+            "romFiles": ["R1.chd", "R2.chd", "R3.chd", "R4.chd"],
+            "romLabels": ["Disc 1", "Disc 2", "Disc 3", "Disc 4"],
+            "emulator": "DuckStation",
+            "arguments": [],
+            "buildID": "English 1.1",
+            "filename": "02633.zip"
+          }
+        ]
+      }
+    }
   }
 ]
