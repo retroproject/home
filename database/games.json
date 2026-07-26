@@ -138605,5 +138605,40 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1785071049111_0",
+    "Name": "Stonemachia",
+    "MediaId": "004269",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004269C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004269B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004269M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004269T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "11 GB",
+            "executable": "Stonemachia.exe",
+            "arguments": [],
+            "buildID": "25 June 2026",
+            "filename": "02631.zip"
+          }
+        ]
+      }
+    }
   }
 ]
