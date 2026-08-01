@@ -7103,21 +7103,10 @@
             "emulator": "RetroArch",
             "fileSize": "5MB",
             "arguments": ["-L", ".\\cores\\snes9x_libretro.dll"],
-            "romFiles": ["Super Metroid.smc", "Super Junkoid.sfc"],
-            "romLabels": ["Super Metroid", "Super Junkoid"],
-            "filename": "Super Metroid.zip"
-          },
-          {
-            "identifier": "retro-snes",
-            "name": "X Fusion",
-            "platform": "Nintendo Super Entertainment System",
-            "emulator": "RetroArch",
-            "fileSize": "10MB",
-            "arguments": ["-L", ".\\cores\\snes9x_libretro.dll"],
-            "romFiles": ["Super Metroid X Fusion [GBA Controls].smc", "Super Metroid X Fusion [SNES Controls].smc"],
-            "romLabels": ["GBA Controls", "SNES Controls"],
-            "buildID": "1.2",
-            "filename": "Super Metroid X Fusion.zip"
+            "romFiles": ["R1.smc", "R2.sfc", "R3.smc", "R4.smc"],
+            "romLabels": ["Original", "Super Junkoid", "Cryogenesis", "X Fusion"],
+            "mods": ["Super Junkoid", "Cryogenesis 2.0.4", "X Fusion"],
+            "filename": "02643.zip"
           }
         ]
       }
@@ -138992,6 +138981,41 @@
             "filename": "02642.nsp",
             "romFile": "02642.nsp",
             "emulator": "Citron",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1785603811015_0",
+    "Name": "Beast of Reincarnation",
+    "MediaId": "004280",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004280C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004280B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004280M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004280T.mp4",
+    "videoStart": 3.234067,
+    "videoEnd": 98.038294,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP064",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "32 GB",
+            "filename": "02644.zip",
+            "executable": "BeastOfReincarnation.exe",
             "arguments": []
           }
         ]
