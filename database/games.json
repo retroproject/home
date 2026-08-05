@@ -66144,20 +66144,21 @@
     "YouTubeUrl": "",
     "videoStart": null,
     "videoEnd": null,
-    "PlatformNames": ["Microsoft Xbox 360"],
+    "PlatformNames": ["PC Game"],
     "GenreNames": ["Shooter"],
     "DeveloperNames": ["Epic Games"],
     "downloadInfo": {
-      "Microsoft Xbox 360": {
+      "PC Game": {
         "versions": [
           {
-            "identifier": "X01X01",
-            "name": "Vanilla",
-            "platform": "Microsoft Xbox 360",
-            "emulator": "Xenia",
-            "fileSize": "7GB",
-            "filenames": ["Gears of War 2.iso", "Gears of War 2 Xbox Update.zip"],
-            "romFile": "Gears of War 2.iso"
+            "identifier": "RPRP064",
+            "name": "Enhanced",
+            "platform": "PC Game",
+            "fileSize": "11GB",
+            "executableFiles": ["Binaries\\GoW2Hollow.exe", "GoW2Hollow_Launcher.exe"],
+            "executableLabels": ["Game", "Configure"],
+            "arguments": [],
+            "filename": "02645.zip"
           }
         ]
       }
