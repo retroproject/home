@@ -140081,7 +140081,7 @@
     "_id": "game_1787011739150_2",
     "Name": "Mortal Shell II",
     "MediaId": "004310",
-    "SortingName": "",
+    "SortingName": "Mortal Shell 02",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -140112,5 +140112,75 @@
       }
     },
     "Tags": ["Need Music", "Hide"]
+  },
+  {
+    "_id": "game_1787013668193_0",
+    "Name": "Mortal Shell",
+    "MediaId": "004311",
+    "SortingName": "Mortal Shell 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004311C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004311B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004311M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004311T.mp4",
+    "videoStart": 4.764156,
+    "videoEnd": 121.044216,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "14 GB",
+            "filename": "02775.zip",
+            "executable": "Dungeonhaven.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1787017226870_0",
+    "Name": "Mega Man X Regenesis",
+    "MediaId": "004312",
+    "SortingName": "Mega Man X08.03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004312C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004312B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004312M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004312T.mp4",
+    "videoStart": 5.270477,
+    "videoEnd": 109.295415,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "181 MB",
+            "executable": "Mega Man X Regenesis.exe",
+            "arguments": [],
+            "buildID": "1.00.1",
+            "filename": "02776.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
