@@ -81129,12 +81129,21 @@
       "PC Game": {
         "versions": [
           {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "executable": "BLEACH_Rebirth_of_Souls.exe",
+            "fileSize": "66GB",
+            "buildID": "18 December 2025",
+            "filename": "02777.zip"
+          },
+          {
             "identifier": "RPRP052",
-            "filename": "02392.zip",
             "name": "Online",
             "platform": "PC Game",
             "executable": "BLEACH_Rebirth_of_Souls.exe",
-            "fileSize": "66GB"
+            "fileSize": "66GB",
+            "filename": "02392.zip"
           }
         ]
       }
@@ -91359,11 +91368,12 @@
         "versions": [
           {
             "identifier": "RPRP027",
-            "filename": "01606.zip",
             "name": "Vanilla",
             "platform": "PC Game",
             "executable": "Grim Dawn.exe",
-            "fileSize": "9GB"
+            "fileSize": "9GB",
+            "buildID": "16 August 2026",
+            "filename": "01606.zip"
           }
         ]
       }
@@ -139065,7 +139075,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1786239498797_1",
@@ -139101,7 +139111,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1786239498797_2",
@@ -139137,7 +139147,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1786239498797_3",
@@ -139173,7 +139183,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1786239498797_4",
@@ -139210,7 +139220,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1786239498797_5",
@@ -139246,7 +139256,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1786239498797_6",
@@ -139282,7 +139292,7 @@
         ]
       }
     },
-    "Tags": ["Need Music", "Hide"]
+    "Tags": ["Need Music"]
   },
   {
     "_id": "game_1786239498797_7",
@@ -139318,7 +139328,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1786239498798_8",
@@ -139354,7 +139364,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1786239498798_9",
@@ -139391,7 +139401,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1786239498798_10",
@@ -139428,7 +139438,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1786239498798_11",
@@ -139464,7 +139474,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1786239498798_12",
@@ -139500,7 +139510,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1786239498798_13",
@@ -139536,7 +139546,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1786239498798_14",
@@ -139572,7 +139582,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1786239498798_15",
@@ -139608,7 +139618,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1786341654992_0",
@@ -139644,7 +139654,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1786341654993_1",
@@ -139680,7 +139690,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1786341654993_2",
@@ -139716,7 +139726,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1786341654993_3",
@@ -139752,7 +139762,7 @@
         ]
       }
     },
-    "Tags": ["Hide", "Hypervisor 2.0"]
+    "Tags": ["Hypervisor 2.0"]
   },
   {
     "_id": "game_1786744167296_0",
@@ -139788,7 +139798,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1786744167296_1",
@@ -139824,7 +139834,7 @@
         ]
       }
     },
-    "Tags": ["Need Music", "Hide"]
+    "Tags": ["Need Music"]
   },
   {
     "_id": "game_1786744167296_2",
@@ -139860,7 +139870,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1786744167296_3",
@@ -139896,7 +139906,7 @@
         ]
       }
     },
-    "Tags": ["Need Music", "Hide"]
+    "Tags": ["Need Music"]
   },
   {
     "_id": "game_1786744167296_4",
@@ -139932,7 +139942,7 @@
         ]
       }
     },
-    "Tags": ["Need Music", "Hide"]
+    "Tags": ["Need Music"]
   },
   {
     "_id": "game_1786883807845_0",
@@ -139968,7 +139978,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1786883807845_1",
@@ -140004,7 +140014,7 @@
         ]
       }
     },
-    "Tags": ["Need Music", "Hide"]
+    "Tags": ["Need Music"]
   },
   {
     "_id": "game_1787011739150_0",
@@ -140040,7 +140050,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787011739150_1",
@@ -140076,7 +140086,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787011739150_2",
@@ -140147,7 +140157,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787017226870_0",
@@ -140183,6 +140193,6 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   }
 ]
