@@ -60372,6 +60372,7 @@
             "executableFiles": ["bin\\Win32\\ed8_2_PC_US.exe", "bin\\Win32\\Sen2Launcher.exe"],
             "executableLabels": ["Game", "Configure"],
             "arguments": [],
+            "buildID": "31 January 2019",
             "filename": "02469.zip"
           }
         ]
@@ -140145,7 +140146,8 @@
           }
         ]
       }
-    }
+    },
+    "Tags": ["Hide"]
   },
   {
     "_id": "game_1787017226870_0",
