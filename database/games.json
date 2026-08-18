@@ -140004,5 +140004,113 @@
       }
     },
     "Tags": ["Need Music", "Hide"]
+  },
+  {
+    "_id": "game_1787011739150_0",
+    "Name": "MARVEL Tokon Fighting Souls",
+    "MediaId": "004308",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004308C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004308B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004308M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004308T.mp4",
+    "videoStart": 0.736249,
+    "videoEnd": 99.9,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "26 GB",
+            "executable": "MTFS.exe",
+            "arguments": [],
+            "buildID": "10 August 2026",
+            "filename": "02772.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787011739150_1",
+    "Name": "Minds Beneath Us",
+    "MediaId": "004309",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004309C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004309B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004309M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004309T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "executable": "MindsBeneathUs.exe",
+            "arguments": [],
+            "buildID": "20 March 2026",
+            "filename": "02773.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787011739150_2",
+    "Name": "Mortal Shell II",
+    "MediaId": "004310",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004310C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004310B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004310M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004310T.mp4",
+    "videoStart": 2.623581,
+    "videoEnd": 103.852739,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "68 GB",
+            "executable": "MortalShell2.exe",
+            "arguments": [],
+            "buildID": "17 August 2026",
+            "filename": "02774.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Need Music", "Hide"]
   }
 ]
