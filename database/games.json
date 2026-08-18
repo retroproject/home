@@ -616,9 +616,9 @@
             "fileSize": "1.2GB",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
-            "romFile": "Pikmin 2.nsp",
-            "identifier": "E0701",
-            "filename": "Pikmin 2.nsp"
+            "romFile": "02661.nsp",
+            "identifier": "RPRP065",
+            "filename": "02661.nsp"
           }
         ]
       }
@@ -2312,20 +2312,29 @@
     "YouTubeUrl": "",
     "videoStart": null,
     "videoEnd": null,
-    "PlatformNames": ["Sony PlayStation 3"],
+    "PlatformNames": ["Sony PlayStation 3", "PC Game"],
     "GenreNames": ["Japanese Role-Playing"],
     "DeveloperNames": ["tri-Crescendo"],
     "downloadInfo": {
-      "Sony PlayStation 3": {
+      "Cross-Platform": {
         "versions": [
           {
-            "name": "Vanilla",
+            "name": "Playstation 3",
             "identifier": "P0301",
-            "filename": "Eternal Sonata.zip",
             "fileSize": "8GB",
             "emulator": "RPCS3",
             "platform": "Sony PlayStation 3",
-            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN"
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "filename": "Eternal Sonata.zip"
+          },
+          {
+            "identifier": "RPRP066",
+            "filename": "02763.zip",
+            "platform": "PC Game",
+            "name": "PC",
+            "fileSize": "8GB",
+            "executableFiles": ["eternalsonata.exe"],
+            "buildID": "8 August 2026"
           }
         ]
       }
@@ -2706,13 +2715,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0701",
+            "identifier": "RPRP065",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Ryujinx",
             "fileSize": "8GB",
-            "romFile": "Super Mario Party Jamboree.xci",
-            "filenames": ["Super Mario Party Jamboree.xci", "Super Mario Party Jamboree Ryujinx Update.zip"]
+            "romFile": "02669.xci",
+            "filenames": ["02669.xci", "02669 Ryujinx Update.zip"]
           }
         ]
       }
@@ -4517,13 +4526,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Super Mario 3D World + Bowser's Fury.nsp",
+            "identifier": "RPRP065",
+            "filename": "02724.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "3GB",
-            "romFile": "Super Mario 3D World + Bowser's Fury.nsp"
+            "romFile": "02724.nsp"
           }
         ]
       }
@@ -6145,13 +6154,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Kirby Return to Dream Land Deluxe.nsp",
+            "identifier": "RPRP065",
+            "filename": "02700.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "5GB",
-            "romFile": "Kirby Return to Dream Land Deluxe.nsp"
+            "romFile": "02700.nsp"
           }
         ]
       }
@@ -6462,13 +6471,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Paper Mario The Thousand-Year Door.xci",
+            "identifier": "RPRP065",
+            "filename": "02709.xci",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "8GB",
-            "romFile": "Paper Mario The Thousand-Year Door.xci"
+            "romFile": "02709.xci"
           }
         ]
       }
@@ -9163,13 +9172,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Unicorn Overlord.nsp",
+            "identifier": "RPRP065",
+            "filename": "02736.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Ryujinx",
             "fileSize": "3GB",
-            "romFile": "Unicorn Overlord.nsp"
+            "romFile": "02736.nsp"
           }
         ]
       }
@@ -9232,13 +9241,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
+            "identifier": "RPRP065",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "3GB",
-            "romFile": "Super Mario Maker 2.nsp",
-            "filename": "Super Mario Maker 2.nsp"
+            "romFile": "02726.nsp",
+            "filename": "02726.nsp"
           }
         ]
       }
@@ -10349,13 +10358,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0701",
-            "filename": "Pikmin 3.nsp",
+            "identifier": "RPRP065",
+            "filename": "02662.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "7GB",
-            "romFile": "Pikmin 3.nsp"
+            "romFile": "02662.nsp"
           }
         ]
       }
@@ -11766,13 +11775,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0701",
-            "filename": "Another Code Recollection.nsp",
+            "identifier": "RPRP065",
+            "filename": "02647.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "6GB",
-            "romFile": "Another Code Recollection.nsp"
+            "romFile": "02647.nsp"
           }
         ]
       }
@@ -19041,13 +19050,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Famicom Detective Club The Missing Heir.nsp",
+            "identifier": "RPRP065",
+            "filename": "02690.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "2GB",
-            "romFile": "Famicom Detective Club The Missing Heir.nsp"
+            "romFile": "02690.nsp"
           }
         ]
       }
@@ -19296,13 +19305,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Mario + Rabbids Kingdom Battle.nsp",
+            "identifier": "RPRP065",
+            "filename": "02703.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "5GB",
-            "romFile": "Mario + Rabbids Kingdom Battle.nsp"
+            "romFile": "02703.nsp"
           }
         ]
       }
@@ -19551,13 +19560,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Kirby Star Allies.nsp",
+            "identifier": "RPRP065",
+            "filename": "02699.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "4GB",
-            "romFile": "Kirby Star Allies.nsp"
+            "romFile": "02699.nsp"
           }
         ]
       }
@@ -23085,13 +23094,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Pokemon Let's Go, Pikachu!.nsp",
+            "identifier": "RPRP065",
+            "filename": "02719.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "4GB",
-            "romFile": "Pokemon Let's Go, Pikachu!.nsp"
+            "romFile": "02719.nsp"
           }
         ]
       }
@@ -23793,13 +23802,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Baten Kaitos I&II HD Remaster.nsp",
+            "identifier": "RPRP065",
+            "filename": "02683.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "8GB",
-            "romFile": "Baten Kaitos I&II HD Remaster.nsp"
+            "romFile": "02683.nsp"
           }
         ]
       }
@@ -25726,13 +25735,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Advance Wars 1+2 Re-Boot Camp.nsp",
+            "identifier": "RPRP065",
+            "filename": "02681.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "7GB",
-            "romFile": "Advance Wars 1+2 Re-Boot Camp.nsp"
+            "romFile": "02681.nsp"
           }
         ]
       }
@@ -26423,13 +26432,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Mario + Rabbids Sparks of Hope.nsp",
+            "identifier": "RPRP065",
+            "filename": "02704.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "9GB",
-            "romFile": "Mario + Rabbids Sparks of Hope.nsp"
+            "romFile": "02704.nsp"
           }
         ]
       }
@@ -26771,13 +26780,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0701",
+            "identifier": "RPRP065",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "7GB",
-            "filenames": ["Animal Crossing New Horizons.nsp", "Animal Crossing New Horizons Yuzu Update.zip"],
-            "romFile": "Animal Crossing New Horizons.nsp"
+            "filenames": ["02646.nsp", "02646 Yuzu Update.zip"],
+            "romFile": "02646.nsp"
           }
         ]
       }
@@ -27130,13 +27139,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Xenoblade Chronicles 3.nsp",
+            "identifier": "RPRP066",
+            "filename": "02738.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "14GB",
-            "romFile": "Xenoblade Chronicles 3.nsp"
+            "romFile": "02738.nsp"
           }
         ]
       }
@@ -27165,13 +27174,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Star Ocean First Departure R.nsp",
+            "identifier": "RPRP065",
+            "filename": "02722.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "4GB",
-            "romFile": "Star Ocean First Departure R.nsp"
+            "romFile": "02722.nsp"
           }
         ]
       }
@@ -27235,13 +27244,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0701",
-            "filename": "Pikmin 4.nsp",
+            "identifier": "RPRP065",
+            "filename": "02663.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "11GB",
-            "romFile": "Pikmin 4.nsp"
+            "romFile": "02663.nsp"
           }
         ]
       }
@@ -28821,13 +28830,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Mario Strikers Battle League.nsp",
+            "identifier": "RPRP065",
+            "filename": "02705.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "3GB",
-            "romFile": "Mario Strikers Battle League.nsp"
+            "romFile": "02705.nsp"
           }
         ]
       }
@@ -29079,13 +29088,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Fire Emblem Engage.nsp",
+            "identifier": "RPRP065",
+            "filename": "02691.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "20GB",
-            "romFile": "Fire Emblem Engage.nsp"
+            "romFile": "02691.nsp"
           }
         ]
       }
@@ -32544,13 +32553,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Luigi's Mansion 3.nsp",
+            "identifier": "RPRP065",
+            "filename": "02702.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "8GB",
-            "romFile": "Luigi's Mansion 3.nsp"
+            "romFile": "02702.nsp"
           }
         ]
       }
@@ -32734,13 +32743,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Luigi's Mansion 2 HD.xci",
+            "identifier": "RPRP065",
+            "filename": "02701.xci",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "900MB",
-            "romFile": "Luigi's Mansion 2 HD.xci"
+            "romFile": "02701.xci"
           }
         ]
       }
@@ -32812,13 +32821,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Kirby Fighters 2.nsp",
+            "identifier": "RPRP065",
+            "filename": "02698.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "1GB",
-            "romFile": "Kirby Fighters 2.nsp"
+            "romFile": "02698.nsp"
           }
         ]
       }
@@ -35021,13 +35030,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "The Legend of Zelda Link's Awakening.nsp",
+            "identifier": "RPRP065",
+            "filename": "02731.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "6GB",
-            "romFile": "The Legend of Zelda Link's Awakening.nsp"
+            "romFile": "02731.nsp"
           }
         ]
       }
@@ -35161,13 +35170,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Fire Emblem Warriors Three Hopes.nsp",
+            "identifier": "RPRP065",
+            "filename": "02694.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "14GB",
-            "romFile": "Fire Emblem Warriors Three Hopes.nsp"
+            "romFile": "02694.nsp"
           }
         ]
       }
@@ -36630,13 +36639,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Famicom Detective Club The Girl Who Stands Behind.nsp",
+            "identifier": "RPRP065",
+            "filename": "02689.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "2GB",
-            "romFile": "Famicom Detective Club The Girl Who Stands Behind.nsp"
+            "romFile": "02689.nsp"
           }
         ]
       }
@@ -36957,13 +36966,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Kirby Dream Buffet.nsp",
+            "identifier": "RPRP065",
+            "filename": "02697.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "1GB",
-            "romFile": "Kirby Dream Buffet.nsp"
+            "romFile": "02697.nsp"
           }
         ]
       }
@@ -37068,7 +37077,7 @@
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "1GB",
-            "romFiles": ["R1.img", "R2.chd"],
+            "romFiles": ["R2.img", "R1.chd"],
             "romLabels": ["Vanilla", "Enhanced"],
             "buildID": "1.14",
             "filename": "02522.zip"
@@ -37779,13 +37788,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0701",
-            "filename": "Detective Pikachu Returns.nsp",
+            "identifier": "RPRP065",
+            "filename": "02650.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "9GB",
-            "romFile": "Detective Pikachu Returns.nsp"
+            "romFile": "02650.nsp"
           }
         ]
       }
@@ -38572,13 +38581,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0701",
-            "filename": "Mario and Luigi Brothership.nsp",
+            "identifier": "RPRP065",
+            "filename": "02654.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "10GB",
-            "romFile": "Mario and Luigi Brothership.nsp"
+            "romFile": "02654.nsp"
           }
         ]
       }
@@ -38724,15 +38733,15 @@
     "YouTubeUrl": "https://archive.org/download/RPRM002/001064T.mp4",
     "videoStart": null,
     "videoEnd": null,
-    "PlatformNames": ["Sony PlayStation 2"],
+    "PlatformNames": ["Sony PlayStation 2", "PC Game"],
     "GenreNames": ["Horror"],
     "DeveloperNames": ["Team Silent"],
     "downloadInfo": {
-      "Sony PlayStation 2": {
+      "Cross-Platform": {
         "versions": [
           {
             "identifier": "P0211",
-            "name": "Enhanced",
+            "name": "Playstation 2",
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "4GB",
@@ -38741,11 +38750,20 @@
           },
           {
             "identifier": "retro-ps2",
-            "name": "HD Textures",
+            "name": "Playstation 2 HD Textures",
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "3GB",
             "filename": "Silent Hill 4 The Room HD Textures.zip"
+          },
+          {
+            "identifier": "RPRP066",
+            "filename": "02764.zip",
+            "platform": "PC Game",
+            "name": "PC Arabic",
+            "fileSize": "8GB",
+            "executableFiles": ["SILENT HILL 4.exe", "SH4Config.exe"],
+            "executableLabels": ["Game", "Configure"]
           }
         ]
       }
@@ -38973,13 +38991,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0702",
-            "filename": "New Super Mario Bros U Deluxe.nsp",
+            "identifier": "RPRP065",
+            "filename": "02676.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "3GB",
-            "romFile": "New Super Mario Bros U Deluxe.nsp"
+            "romFile": "02676.nsp"
           }
         ]
       }
@@ -39076,16 +39094,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0701",
+            "identifier": "RPRP065",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "2GB",
-            "romFile": "Pokemon Mystery Dungeon Rescue Team DX.nsp",
-            "filenames": [
-              "Pokemon Mystery Dungeon Rescue Team DX.nsp",
-              "Pokemon Mystery Dungeon Rescue Team DX Yuzu Update.zip"
-            ]
+            "romFile": "02665.nsp",
+            "filenames": ["02665.nsp", "02665 Yuzu Update.zip"]
           }
         ]
       }
@@ -40377,13 +40392,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Super Smash Bros. Ultimate.nsp",
+            "identifier": "RPRP065",
+            "filename": "02729.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "18GB",
-            "romFile": "Super Smash Bros. Ultimate.nsp"
+            "romFile": "02729.nsp"
           }
         ]
       }
@@ -40482,13 +40497,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Kirby and the Forgotten Land.nsp",
+            "identifier": "RPRP065",
+            "filename": "02696.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "6GB",
-            "romFile": "Kirby and the Forgotten Land.nsp"
+            "romFile": "02696.nsp"
           }
         ]
       }
@@ -41441,13 +41456,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Super Mario RPG.xci",
+            "identifier": "RPRP065",
+            "filename": "02728.xci",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Ryujinx",
             "fileSize": "7GB",
-            "romFile": "Super Mario RPG.xci"
+            "romFile": "02728.xci"
           }
         ]
       }
@@ -42633,13 +42648,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
+            "identifier": "RPRP065",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "2GB",
-            "romFile": "Famicom Detective Club Emio The Smiling Man.nsp",
-            "filename": "Famicom Detective Club Emio The Smiling Man.nsp"
+            "romFile": "02688.nsp",
+            "filename": "02688.nsp"
           }
         ]
       }
@@ -44911,13 +44926,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Super Mario Bros. Wonder.xci",
+            "identifier": "RPRP065",
+            "filename": "02725.xci",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "4GB",
-            "romFile": "Super Mario Bros. Wonder.xci"
+            "romFile": "02725.xci"
           }
         ]
       }
@@ -45156,16 +45171,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
+            "identifier": "RPRP065",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Ryujinx",
             "fileSize": "24GB",
-            "filenames": [
-              "TSUKIHIME A Piece of Blue Glass Moon.xci",
-              "TSUKIHIME A Piece of Blue Glass Moon Ryujinx Update.zip"
-            ],
-            "romFile": "TSUKIHIME A Piece of Blue Glass Moon.xci"
+            "filenames": ["02735.xci", "02735 Ryujinx Update.zip"],
+            "romFile": "02735.xci"
           }
         ]
       }
@@ -45448,13 +45460,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0701",
-            "filename": "Hyrule Warriors Age of Calamity.nsp",
+            "identifier": "RPRP065",
+            "filename": "02652.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "13GB",
-            "romFile": "Hyrule Warriors Age of Calamity.nsp"
+            "romFile": "02652.nsp"
           }
         ]
       }
@@ -46103,16 +46115,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0701",
+            "identifier": "RPRP065",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "17GB",
-            "romFile": "The Legend of Zelda Tears of the Kingdom.nsp",
-            "filenames": [
-              "The Legend of Zelda Tears of the Kingdom.nsp",
-              "The Legend of Zelda Tears of the Kingdom Yuzu Update.zip"
-            ]
+            "romFile": "02671.nsp",
+            "filenames": ["02671.nsp", "02671 Yuzu Update.zip"]
           }
         ]
       }
@@ -46882,22 +46891,22 @@
       "Nintendo Wii U": {
         "versions": [
           {
-            "identifier": "E06AR00",
-            "filename": "Bayonetta 2.zip",
+            "identifier": "RPRP066",
             "name": "Arabic",
             "platform": "Nintendo Wii U",
             "emulator": "Cemu",
             "fileSize": "18GB",
-            "romFile": "code\\PRJ_010.rpx"
+            "romFile": "code\\PRJ_010.rpx",
+            "filename": "02742.zip"
           },
           {
             "identifier": "retro-cafe",
-            "filename": "Bayonetta 2.zip",
             "name": "English",
             "platform": "Nintendo Wii U",
             "emulator": "Cemu",
             "fileSize": "18GB",
-            "romFile": "code\\PRJ_010.rpx"
+            "romFile": "code\\PRJ_010.rpx",
+            "filename": "Bayonetta 2.zip"
           }
         ]
       }
@@ -47854,16 +47863,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0701",
+            "identifier": "RPRP065",
             "name": "Japanese",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "5GB",
-            "filenames": [
-              "BLADE ARCUS Rebellion from Shining (Japanese).nsp",
-              "BLADE ARCUS Rebellion from Shining (Japanese) Yuzu Update.zip"
-            ],
-            "romFile": "BLADE ARCUS Rebellion from Shining (Japanese).nsp"
+            "filenames": ["02649.nsp", "02649 Yuzu Update.zip"],
+            "romFile": "02649.nsp"
           }
         ]
       }
@@ -47961,13 +47967,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Dragon Quest X Awakening Five Races.nsp",
+            "identifier": "RPRP065",
+            "filename": "02687.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "20GB",
-            "romFile": "Dragon Quest X Awakening Five Races.nsp"
+            "romFile": "02687.nsp"
           }
         ]
       }
@@ -48170,13 +48176,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0701",
+            "identifier": "RPRP065",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "5GB",
-            "romFile": "Super Bomberman R 2.nsp",
-            "filenames": ["Super Bomberman R 2.nsp", "Super Bomberman R 2 Yuzu Update.zip"]
+            "romFile": "02668.nsp",
+            "filenames": ["02668.nsp", "02668 Yuzu Update.zip"]
           }
         ]
       }
@@ -49692,13 +49698,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Super Mario Odyssey.nsp",
+            "identifier": "RPRP065",
+            "filename": "02727.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "5GB",
-            "romFile": "Super Mario Odyssey.nsp"
+            "romFile": "02727.nsp"
           }
         ]
       }
@@ -51182,13 +51188,13 @@
             "buildID": "29 April 2025"
           },
           {
-            "identifier": "E0701",
+            "identifier": "RPRP065",
             "platform": "Nintendo Switch",
             "name": "Switch Vanilla",
             "emulator": "Yuzu",
             "fileSize": "5GB",
-            "filenames": ["No More Heroes.nsp", "No More Heroes Yuzu Update.zip"],
-            "romFile": "No More Heroes.nsp"
+            "filenames": ["02659.nsp", "02659 Yuzu Update.zip"],
+            "romFile": "02659.nsp"
           }
         ]
       }
@@ -51538,13 +51544,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "13 Sentinels Aegis Rim.nsp",
+            "identifier": "RPRP065",
+            "filename": "02680.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "5GB",
-            "romFile": "13 Sentinels Aegis Rim.nsp"
+            "romFile": "02680.nsp"
           }
         ]
       }
@@ -51679,13 +51685,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0702",
-            "filename": "Mario Party Super.nsp",
+            "identifier": "RPRP065",
+            "filename": "02677.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "3GB",
-            "romFile": "Mario Party Super.nsp"
+            "romFile": "02677.nsp"
           }
         ]
       }
@@ -52079,7 +52085,7 @@
     "_id": "7fdbb145-396e-435f-8719-ae86f461d350",
     "Name": "The Legend of Heroes: Trails of Cold Steel III",
     "MediaId": "001430",
-    "SortingName": "The Legend of Heroes 12",
+    "SortingName": "The Legend of Heroes 12.02",
     "Description": "Military instructor <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>Rean Schwarzer</span> returns to <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 6px #228B22;'>Thors Military Academy</span> as a professor, guiding a new generation of students while the <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>Erebonian Empire</span> teeters on the brink of civil war.<br>Haunted by his role as the <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Ashen Chevalier</span> and wielding the mighty <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 6px #9370DB;'>Divine Knight Valimar</span>, Rean struggles with the devastating power he possesses while political conspiracies and ancient <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Sept-Terrion</span> artifacts threaten the continent.<br>As old allies become enemies and former classmates stand on opposite sides of an inevitable conflict, Rean must navigate through <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 6px #FF4500;'>battlefield politics</span>, supernatural mysteries, and his own inner demons. The bonds he forges with his new students and the choices he makes will determine not only the fate of the empire but also whether he can maintain his humanity while commanding the <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>crimson machine</span> of war that threatens to consume his very soul.",
     "DescriptionArabic": "<div dir='rtl'>يعود المدرب العسكري <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>ريان شوارزر</span> إلى <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 6px #228B22;'>أكاديمية ثورز العسكرية</span> كأستاذ، ليرشد جيلاً جديداً من الطلاب بينما تقف <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>إمبراطورية إيريبونيا</span> على شفا حرب أهلية.<br>مطارد بدوره كـ<span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>فارس الرماد</span> ويقود <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 6px #9370DB;'>الفارس الإلهي فاليمار</span> الجبار، يصارع ريان مع القوة المدمرة التي يمتلكها بينما تهدد المؤامرات السياسية وقطع <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>سيبت-تيريون</span> الأثرية القارة.<br>بينما يصبح الحلفاء القدامى أعداءً ويقف زملاء الدراسة السابقون على جانبين متضادين من صراع حتمي، يجب على ريان التنقل عبر <span style='color:#FF4500; font-weight:bold; text-shadow: 0 0 6px #FF4500;'>سياسات المعركة</span> والأسرار الخارقة وشياطينه الداخلية. الروابط التي يكونها مع طلابه الجدد والخيارات التي يتخذها ستحدد ليس فقط مصير الإمبراطورية بل أيضاً ما إذا كان بإمكانه المحافظة على إنسانيته بينما يقود <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>آلة الحرب القرمزية</span> التي تهدد بابتلاع روحه.</div>",
     "ReleaseDate": "2017",
@@ -52317,13 +52323,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Crash Team Racing Nitro-Fueled.nsp",
+            "identifier": "RPRP065",
+            "filename": "02686.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "6GB",
-            "romFile": "Crash Team Racing Nitro-Fueled.nsp"
+            "romFile": "02686.nsp"
           }
         ]
       }
@@ -59644,13 +59650,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0702",
-            "filename": "WarioWare Get It Together!.nsp",
+            "identifier": "RPRP065",
+            "filename": "02678.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "2GB",
-            "romFile": "WarioWare Get It Together!.nsp"
+            "romFile": "02678.nsp"
           }
         ]
       }
@@ -60340,7 +60346,7 @@
     "_id": "94f0f5a6-43e8-482d-b0bd-a634de3faaa5",
     "Name": "The Legend of Heroes: Trails of Cold Steel II",
     "MediaId": "001657",
-    "SortingName": "The Legend of Heroes 12",
+    "SortingName": "The Legend of Heroes 12.01",
     "Description": "Following the shocking events at <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Trista</span>, <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Rean Schwarzer</span> awakens to find the <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Erebonian Empire</span> torn apart by civil war between the <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Noble Alliance</span> and <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Imperial Army</span>.<br>Reuniting the scattered <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>Class VII</span> members, Rean discovers his true heritage as the son of <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Chancellor Osborne</span> and heir to the <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>Ashen Knight Valimar</span>'s power.<br>As the civil war reaches its climax, Rean learns that the conflict was orchestrated by the mysterious <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>Ouroboros</span> society and their <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>Phantasmal Blaze Plan</span>.<br>The devastating revelation that <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>Crow Armbrust</span>, his trusted friend, is actually <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>Azure Siegfried</span> and responsible for the emperor's assassination forces a heartbreaking final duel.<br>In this tale of war and brotherhood, Rean must choose between his bonds with Class VII and his <span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>cursed bloodline</span>, knowing that some victories leave <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>scars that never heal</span>.",
     "DescriptionArabic": "<div dir='rtl'>بعد الأحداث الصادمة في <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>تريستا</span>، يستيقظ <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>رين شفارتزر</span> ليجد <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>إمبراطورية إيريبونيا</span> ممزقة بحرب أهلية بين <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>تحالف النبلاء</span> و<span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>الجيش الإمبراطوري</span>.<br>بتجميع أعضاء <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>الفصل السابع</span> المتفرقين، يكتشف رين أصله الحقيقي كابن للمستشار <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>أوزبورن</span> ووارث قوة <span style='color:#2F4F4F; font-weight:bold; text-shadow: 0 0 8px #2F4F4F;'>فارس الرماد فاليمار</span>.<br>بينما تصل الحرب الأهلية إلى ذروتها، يتعلم رين أن النزاع قد خُطط له من قبل جمعية <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 8px #8B4513;'>أوروبوروس الغامضة</span> و<span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>خطتهم اللهب الوهمي</span>.<br>الكشف المدمر عن أن <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>كرو آرمبراست</span>، صديقه الموثوق، هو في الحقيقة <span style='color:#B8860B; font-weight:bold; text-shadow: 0 0 8px #B8860B;'>زيجفريد الأزرق</span> والمسؤول عن اغتيال الإمبراطور يجبره على خوض مبارزة نهائية محطمة للقلب.<br>في هذه الحكاية عن الحرب والأخوة، على رين أن يختار بين روابطه مع الفصل السابع و<span style='color:#DDA0DD; font-weight:bold; text-shadow: 0 0 8px #DDA0DD;'>نسبه الملعون</span>، عالماً أن بعض الانتصارات تترك <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>جراحاً لا تشفى أبداً</span>.</div>",
     "ReleaseDate": "2014",
@@ -61417,13 +61423,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Paper Mario The Origami King.nsp",
+            "identifier": "RPRP065",
+            "filename": "02710.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "7GB",
-            "romFile": "Paper Mario The Origami King.nsp"
+            "romFile": "02710.nsp"
           }
         ]
       }
@@ -61851,13 +61857,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "GrimGrimoire OnceMore.nsp",
+            "identifier": "RPRP065",
+            "filename": "02695.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "900MB",
-            "romFile": "GrimGrimoire OnceMore.nsp"
+            "romFile": "02695.nsp"
           }
         ]
       }
@@ -62315,13 +62321,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Xenoblade Chronicles 2.nsp",
+            "identifier": "RPRP066",
+            "filename": "02737.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "14GB",
-            "romFile": "Xenoblade Chronicles 2.nsp"
+            "romFile": "02737.nsp"
           }
         ]
       }
@@ -62986,13 +62992,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0701",
+            "identifier": "RPRP065",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "3GB",
-            "romFile": "Splatoon 3.nsp",
-            "filenames": ["Splatoon 3.nsp", "Splatoon 3 Yuzu Update.zip"]
+            "romFile": "02667.nsp",
+            "filenames": ["02667.nsp", "02667 Yuzu Update.zip"]
           }
         ]
       }
@@ -63127,14 +63133,14 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0702",
+            "identifier": "RPRP065",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Eden",
             "fileSize": "14GB",
-            "romFile": "Xenoblade Chronicles X Definitive Edition.xci",
+            "romFile": "02679.xci",
             "buildID": "1.0.1",
-            "filename": "Xenoblade Chronicles X Definitive Edition.xci"
+            "filename": "02679.xci"
           }
         ]
       }
@@ -63970,13 +63976,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Catherine Full Body.nsp",
+            "identifier": "RPRP065",
+            "filename": "02685.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "15GB",
-            "romFile": "Catherine Full Body.nsp"
+            "romFile": "02685.nsp"
           }
         ]
       }
@@ -64005,13 +64011,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Metroid Prime Remastered.nsp",
+            "identifier": "RPRP065",
+            "filename": "02707.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "7GB",
-            "romFile": "Metroid Prime Remastered.nsp"
+            "romFile": "02707.nsp"
           }
         ]
       }
@@ -66560,13 +66566,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
+            "identifier": "RPRP066",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Ryujinx",
             "fileSize": "5GB",
-            "romFile": "Yo-kai Watch 1.nsp",
-            "filenames": ["Yo-kai Watch 1.nsp", "Yo-kai Watch 1 Update.zip"]
+            "romFile": "02740.nsp",
+            "filenames": ["02740.nsp", "02740 Update.zip"]
           }
         ]
       }
@@ -66824,13 +66830,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0701",
+            "identifier": "RPRP065",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "3GB",
-            "filenames": ["Splatoon 2.nsp", "Splatoon 2 Yuzu Update.zip"],
-            "romFile": "Splatoon 2.nsp"
+            "filenames": ["02666.nsp", "02666 Yuzu Update.zip"],
+            "romFile": "02666.nsp"
           }
         ]
       }
@@ -68209,13 +68215,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Metroid Dread.nsp",
+            "identifier": "RPRP065",
+            "filename": "02706.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "5GB",
-            "romFile": "Metroid Dread.nsp"
+            "romFile": "02706.nsp"
           }
         ]
       }
@@ -70045,13 +70051,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Monster Hunter Genration Ultimate.nsp",
+            "identifier": "RPRP065",
+            "filename": "02708.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "12GB",
-            "romFile": "Monster Hunter Genration Ultimate.nsp"
+            "romFile": "02708.nsp"
           }
         ]
       }
@@ -70780,13 +70786,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0701",
-            "filename": "Mario Kart 8 Deluxe.nsp",
+            "identifier": "RPRP065",
+            "filename": "02655.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "10GB",
-            "romFile": "Mario Kart 8 Deluxe.nsp"
+            "romFile": "02655.nsp"
           }
         ]
       }
@@ -71995,13 +72001,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Pokemon Legends Arceus.nsp",
+            "identifier": "RPRP065",
+            "filename": "02712.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "6GB",
-            "romFile": "Pokemon Legends Arceus.nsp"
+            "romFile": "02712.nsp"
           }
         ]
       }
@@ -73174,13 +73180,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
+            "identifier": "RPRP065",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Eden",
             "fileSize": "6GB",
-            "filenames": ["The Legend of Zelda Echoes of Wisdom.xci", "The Legend of Zelda Echoes of Wisdom Eden Update.zip"],
-            "romFile": "The Legend of Zelda Echoes of Wisdom.xci"
+            "filenames": ["02730.xci", "02730 Eden Update.zip"],
+            "romFile": "02730.xci"
           }
         ]
       }
@@ -75977,13 +75983,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Xenoblade Chronicles 1 Definitive Edition.nsp",
+            "identifier": "RPRP066",
+            "filename": "02739.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "15GB",
-            "romFile": "Xenoblade Chronicles 1 Definitive Edition.nsp"
+            "romFile": "02739.nsp"
           }
         ]
       }
@@ -77915,13 +77921,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0701",
+            "identifier": "RPRP065",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "2GB",
-            "romFile": "Ys Memoire The Oath in Felghana.nsp",
-            "filenames": ["Ys Memoire The Oath in Felghana.nsp", "Ys Memoire The Oath in Felghana Yuzu Update.zip"]
+            "romFile": "02674.nsp",
+            "filenames": ["02674.nsp", "02674 Yuzu Update.zip"]
           }
         ]
       }
@@ -78335,7 +78341,7 @@
       "Nintendo 64": {
         "versions": [
           {
-            "identifier": "RPRP64",
+            "identifier": "RPRP064",
             "name": "Collection",
             "platform": "Nintendo 64",
             "emulator": "RetroArch",
@@ -81461,13 +81467,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Pokemon Violet.nsp",
+            "identifier": "RPRP065",
+            "filename": "02717.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "12GB",
-            "romFile": "Pokemon Violet.nsp"
+            "romFile": "02717.nsp"
           }
         ]
       }
@@ -83137,13 +83143,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Pokemon Shield.nsp",
+            "identifier": "RPRP065",
+            "filename": "02714.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "12GB",
-            "romFile": "Pokemon Shield.nsp"
+            "romFile": "02714.nsp"
           }
         ]
       }
@@ -83183,13 +83189,13 @@
             "buildID": "29 April 2025"
           },
           {
-            "identifier": "E0701",
-            "filename": "No More Heroes 2 Desperate Struggle.nsp",
+            "identifier": "RPRP065",
+            "filename": "02658.nsp",
             "platform": "Nintendo Switch",
             "name": "Switch Vanilla",
             "emulator": "Yuzu",
             "fileSize": "5GB",
-            "romFile": "No More Heroes 2 Desperate Struggle.nsp"
+            "romFile": "02658.nsp"
           }
         ]
       }
@@ -83219,13 +83225,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0701",
+            "identifier": "RPRP065",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Citron",
             "fileSize": "15GB",
-            "filenames": ["Bayonetta 3.xci", "Bayonetta 3 Citron Update.zip"],
-            "romFile": "Bayonetta 3.xci"
+            "filenames": ["02648.xci", "02648 Citron Update.zip"],
+            "romFile": "02648.xci"
           }
         ]
       }
@@ -83325,13 +83331,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Pokemon Brilliant Diamond.nsp",
+            "identifier": "RPRP065",
+            "filename": "02711.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "7GB",
-            "romFile": "Pokemon Brilliant Diamond.nsp"
+            "romFile": "02711.nsp"
           }
         ]
       }
@@ -83518,13 +83524,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Astral Chain.nsp",
+            "identifier": "RPRP065",
+            "filename": "02682.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "10GB",
-            "romFile": "Astral Chain.nsp"
+            "romFile": "02682.nsp"
           }
         ]
       }
@@ -84739,13 +84745,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Princess Peach Showtime!.xci",
+            "identifier": "RPRP065",
+            "filename": "02720.xci",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Ryujinx",
             "fileSize": "5GB",
-            "romFile": "Princess Peach Showtime!.xci"
+            "romFile": "02720.xci"
           }
         ]
       }
@@ -84809,13 +84815,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Pokemon Let's Go, Eevee!.nsp",
+            "identifier": "RPRP065",
+            "filename": "02718.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "4GB",
-            "romFile": "Pokemon Let's Go, Eevee!.nsp"
+            "romFile": "02718.nsp"
           }
         ]
       }
@@ -86739,13 +86745,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
+            "identifier": "RPRP066",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Ryujinx",
             "fileSize": "9GB",
-            "romFile": "Yo-kai Watch 4.nsp",
-            "filenames": ["Yo-kai Watch 4.nsp", "Yo-kai Watch 4 Update.zip"]
+            "romFile": "02741.nsp",
+            "filenames": ["02741.nsp", "02741 Update.zip"]
           }
         ]
       }
@@ -89673,13 +89679,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Fire Emblem Warriors.nsp",
+            "identifier": "RPRP065",
+            "filename": "02693.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "20GB",
-            "romFile": "Fire Emblem Warriors.nsp"
+            "romFile": "02693.nsp"
           }
         ]
       }
@@ -90352,13 +90358,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Super Kirby Clash.nsp",
+            "identifier": "RPRP065",
+            "filename": "02723.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "1GB",
-            "romFile": "Super Kirby Clash.nsp"
+            "romFile": "02723.nsp"
           }
         ]
       }
@@ -92187,13 +92193,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0701",
-            "filename": "Hyrule Warriors Definitive Edition.nsp",
+            "identifier": "RPRP065",
+            "filename": "02653.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "13GB",
-            "romFile": "Hyrule Warriors Definitive Edition.nsp"
+            "romFile": "02653.nsp"
           }
         ]
       }
@@ -93068,13 +93074,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0701",
-            "filename": "Pikmin 1.nsp",
+            "identifier": "RPRP065",
+            "filename": "02660.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "1GB",
-            "romFile": "Pikmin 1.nsp"
+            "romFile": "02660.nsp"
           }
         ]
       }
@@ -94184,13 +94190,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Tokyo Mirage Sessions FE Encore.nsp",
+            "identifier": "RPRP065",
+            "filename": "02734.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "12GB",
-            "romFile": "Tokyo Mirage Sessions FE Encore.nsp"
+            "romFile": "02734.nsp"
           }
         ]
       }
@@ -94219,13 +94225,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0702",
-            "filename": "Mario Party Superstars.nsp",
+            "identifier": "RPRP065",
+            "filename": "02675.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "3GB",
-            "romFile": "Mario Party Superstars.nsp"
+            "romFile": "02675.nsp"
           }
         ]
       }
@@ -96333,13 +96339,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Bayonetta Origins Cereza and the Lost Demon.xci",
+            "identifier": "RPRP065",
+            "filename": "02684.xci",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "8GB",
-            "romFile": "Bayonetta Origins Cereza and the Lost Demon.xci"
+            "romFile": "02684.xci"
           }
         ]
       }
@@ -97174,13 +97180,13 @@
             "romFile": "Sonic Colors.nds"
           },
           {
-            "identifier": "retro-nx",
-            "filename": "Sonic Colors Ultimate.nsp",
+            "identifier": "RPRP065",
+            "filename": "02721.nsp",
             "platform": "Nintendo Switch",
             "name": "Switch",
             "emulator": "Yuzu",
             "fileSize": "8GB",
-            "romFile": "Sonic Colors Ultimate.nsp"
+            "romFile": "02721.nsp"
           }
         ]
       }
@@ -98096,13 +98102,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0701",
-            "filename": "Donkey Kong Country Tropical Freeze.nsp",
+            "identifier": "RPRP065",
+            "filename": "02651.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "7GB",
-            "romFile": "Donkey Kong Country Tropical Freeze.nsp"
+            "romFile": "02651.nsp"
           }
         ]
       }
@@ -99992,13 +99998,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Fire Emblem Three Houses.nsp",
+            "identifier": "RPRP065",
+            "filename": "02692.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "13GB",
-            "romFile": "Fire Emblem Three Houses.nsp"
+            "romFile": "02692.nsp"
           }
         ]
       }
@@ -100178,13 +100184,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
+            "identifier": "RPRP065",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "7GB",
-            "romFile": "The Legend of Zelda Skyward Sword HD.nsp",
-            "filenames": ["The Legend of Zelda Skyward Sword HD.nsp", "The Legend of Zelda Skyward Sword HD Yuzu Update.zip"],
+            "romFile": "02732.nsp",
+            "filenames": ["02732.nsp", "02732 Yuzu Update.zip"],
             "buildID": "1.0.1"
           }
         ]
@@ -100449,13 +100455,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Pokemon Shining Pearl.nsp",
+            "identifier": "RPRP065",
+            "filename": "02715.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "7GB",
-            "romFile": "Pokemon Shining Pearl.nsp"
+            "romFile": "02715.nsp"
           }
         ]
       }
@@ -101557,13 +101563,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Pokemon Sword.nsp",
+            "identifier": "RPRP065",
+            "filename": "02716.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "12GB",
-            "romFile": "Pokemon Sword.nsp"
+            "romFile": "02716.nsp"
           }
         ]
       }
@@ -102311,13 +102317,13 @@
             "filename": "01716.zip"
           },
           {
-            "identifier": "E0701",
+            "identifier": "RPRP065",
             "platform": "Nintendo Switch",
             "name": "Switch Dreams of the Revenants Edition",
             "emulator": "Yuzu",
             "fileSize": "4GB",
-            "romFile": "The House in Fata Morgana Dreams of the Revenants Edition.nsp",
-            "filename": "The House in Fata Morgana Dreams of the Revenants Edition.nsp"
+            "romFile": "02670.nsp",
+            "filename": "02670.nsp"
           }
         ]
       }
@@ -102563,6 +102569,7 @@
             "fileSize": "17GB",
             "arguments": [],
             "executable": "SO2R.exe",
+            "buildID": "14 October 2025",
             "filename": "01914.zip"
           }
         ]
@@ -103496,13 +103503,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "Pokemon Scarlet.nsp",
+            "identifier": "RPRP065",
+            "filename": "02713.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "12GB",
-            "romFile": "Pokemon Scarlet.nsp"
+            "romFile": "02713.nsp"
           }
         ]
       }
@@ -105557,13 +105564,13 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "retro-nx",
-            "filename": "The World Ends with You Final Remix.nsp",
+            "identifier": "RPRP065",
+            "filename": "02733.nsp",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "emulator": "Yuzu",
             "fileSize": "3GB",
-            "romFile": "The World Ends with You Final Remix.nsp"
+            "romFile": "02733.nsp"
           }
         ]
       }
@@ -111573,15 +111580,15 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0701",
+            "identifier": "RPRP065",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "fileSize": "26 GB",
             "arguments": [],
-            "filenames": ["Metroid Prime 4 Beyond.xci", "Metroid Prime 4 Beyond Citron Update.zip"],
+            "filenames": ["02657.xci", "02657 Citron Update.zip"],
             "emulator": "Citron",
             "buildID": "1.1.0",
-            "romFile": "Metroid Prime 4 Beyond.xci"
+            "romFile": "02657.xci"
           }
         ]
       }
@@ -118338,18 +118345,15 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0701",
+            "identifier": "RPRP065",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "fileSize": "14 GB",
             "arguments": [],
-            "filenames": [
-              "Marvel Ultimate Alliance 3 The Black Order.nsp",
-              "Marvel Ultimate Alliance 3 The Black Order Citron Update.zip"
-            ],
+            "filenames": ["02656.nsp", "02656 Citron Update.zip"],
             "emulator": "Citron",
             "buildID": "4.0.1",
-            "romFile": "Marvel Ultimate Alliance 3 The Black Order.nsp"
+            "romFile": "02656.nsp"
           }
         ]
       }
@@ -118599,12 +118603,12 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0701",
+            "identifier": "RPRP065",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "fileSize": "2 GB",
-            "filenames": ["Valiant Hearts Coming Home.nsp", "Valiant Hearts Coming Home Citron Update.zip"],
-            "romFile": "Valiant Hearts Coming Home.nsp",
+            "filenames": ["02673.nsp", "02673 Citron Update.zip"],
+            "romFile": "02673.nsp",
             "emulator": "Citron",
             "arguments": [],
             "buildID": "1.0.1"
@@ -119935,15 +119939,15 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0701",
+            "identifier": "RPRP065",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "fileSize": "5 GB",
-            "romFile": "Pokémon Legends Z A.nsp",
+            "romFile": "02664.nsp",
             "emulator": "Citron",
             "arguments": [],
             "buildID": "2.0.0",
-            "filenames": ["Pokémon Legends Z A.nsp", "Pokemon Legends Z A Citron Update.zip"]
+            "filenames": ["02664.nsp", "02664 Citron Update.zip"]
           }
         ]
       }
@@ -122151,7 +122155,7 @@
             "fileSize": "15 GB",
             "executable": "Everholm\\Binaries\\Win64\\REANIMAL.exe",
             "arguments": [],
-            "buildID": "13 February 2026",
+            "buildID": "7 August 2026",
             "filename": "00457.zip"
           },
           {
@@ -129315,15 +129319,15 @@
       "Nintendo Switch": {
         "versions": [
           {
-            "identifier": "E0701",
+            "identifier": "RPRP065",
             "name": "Vanilla",
             "platform": "Nintendo Switch",
             "fileSize": "6 GB",
-            "romFile": "Tomodachi Life Living the Dream.nsp",
+            "romFile": "02672.nsp",
             "emulator": "Ryubing",
             "arguments": [],
             "buildID": "1.0",
-            "filename": "Tomodachi Life Living the Dream.nsp"
+            "filename": "02672.nsp"
           }
         ]
       }
@@ -139025,5 +139029,980 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1786239498797_0",
+    "Name": "Akatori",
+    "MediaId": "004281",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004281C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004281B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004281M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004281T.mp4",
+    "videoStart": 0,
+    "videoEnd": 87.051453,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "9 GB",
+            "executable": "Akatori.exe",
+            "arguments": [],
+            "buildID": "13 August 2026",
+            "filename": "02743.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1786239498797_1",
+    "Name": "Ao Oni",
+    "MediaId": "004282",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004282C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004282B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004282M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004282T.mp4",
+    "videoStart": 0,
+    "videoEnd": 62.905068,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP065",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "942 MB",
+            "executable": "Aooni.exe",
+            "arguments": [],
+            "buildID": "25 July 2024",
+            "filename": "02744.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1786239498797_2",
+    "Name": "Beastieball",
+    "MediaId": "004283",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004283C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004283B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004283M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004283T.mp4",
+    "videoStart": 0,
+    "videoEnd": 84.733433,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP065",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "02745.zip",
+            "executable": "beastieball.exe",
+            "buildID": "beastie_data",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1786239498797_3",
+    "Name": "Condemned 2 Bloodshot",
+    "MediaId": "004284",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004284C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004284B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004284M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004284T.mp4",
+    "videoStart": 5.720175,
+    "videoEnd": 75.316088,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "executable": "condemned2recomp.exe",
+            "arguments": [],
+            "buildID": "0.1.0",
+            "filename": "02746.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1786239498797_4",
+    "Name": "Condemned Criminal Origins",
+    "MediaId": "004285",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004285C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004285B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004285M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004285T.mp4",
+    "videoStart": 12.941935,
+    "videoEnd": 99.242697,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "6 GB",
+            "executableFiles": ["Condemned.exe", "Config.exe"],
+            "executableLabels": ["Game", "Configure"],
+            "arguments": [],
+            "buildID": "23 January 2017",
+            "filename": "02747.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1786239498797_5",
+    "Name": "Fields of Mistria",
+    "MediaId": "004286",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004286C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004286B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004286M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004286T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP065",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "625 MB",
+            "executable": "FieldsOfMistria.exe",
+            "arguments": [],
+            "buildID": "14 August 2026",
+            "filename": "02748.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1786239498797_6",
+    "Name": "GRAIN ROT",
+    "MediaId": "004287",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004287C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004287B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004287M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004287T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "Helden.exe",
+            "arguments": [],
+            "buildID": "12 August 2026",
+            "filename": "02749.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Need Music", "Hide"]
+  },
+  {
+    "_id": "game_1786239498797_7",
+    "Name": "Idols of Ash",
+    "MediaId": "004288",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004288C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004288B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004288M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004288T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP065",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "375 MB",
+            "executable": "idols_of_ash.exe",
+            "arguments": [],
+            "buildID": "29 May 2026",
+            "filename": "02750.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1786239498798_8",
+    "Name": "Kugayama Shioris Death Diary",
+    "MediaId": "004289",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004289C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004289B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004289M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004289T.mp4",
+    "videoStart": 1.1,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "KugayamaShiorisDeathDiary.exe",
+            "arguments": [],
+            "buildID": "6 August 2026",
+            "filename": "02751.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1786239498798_9",
+    "Name": "Mad Father",
+    "MediaId": "004290",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004290C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004290B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004290M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004290T.mp4",
+    "videoStart": 3.916991,
+    "videoEnd": 58.091223,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP065",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "90 MB",
+            "executableFiles": ["Game.exe", "Config.exe"],
+            "executableLabels": ["Game", "Configure"],
+            "arguments": [],
+            "buildID": "22 February 2023",
+            "filename": "02752.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1786239498798_10",
+    "Name": "Misao",
+    "MediaId": "004291",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004291C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004291B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004291M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004291T.mp4",
+    "videoStart": 0,
+    "videoEnd": 49.465689,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP065",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "177 MB",
+            "executableFiles": ["steamclient_loader.exe", "Config.exe"],
+            "executableLabels": ["Game", "Configure"],
+            "arguments": [],
+            "buildID": "3 October 2024",
+            "filename": "02753.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1786239498798_11",
+    "Name": "Partisans 1941",
+    "MediaId": "004292",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004292C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004292B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004292M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004292T.mp4",
+    "videoStart": 0,
+    "videoEnd": 60.203373,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "8 GB",
+            "executable": "Partisans.exe",
+            "arguments": [],
+            "buildID": "2 November 2021",
+            "filename": "02754.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1786239498798_12",
+    "Name": "Perfect Tides Station to Station",
+    "MediaId": "004293",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004293C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004293B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004293M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004293T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP065",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "455 MB",
+            "executable": "s2s.exe",
+            "arguments": [],
+            "buildID": "17 August 2026",
+            "filename": "02755.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1786239498798_13",
+    "Name": "Spiritstead",
+    "MediaId": "004294",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004294C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004294B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004294M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004294T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "1 GB",
+            "executable": "Spiritstead.exe",
+            "arguments": [],
+            "buildID": "15 August 2026",
+            "filename": "02756.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1786239498798_14",
+    "Name": "The Witchs House",
+    "MediaId": "004295",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004295C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004295B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004295M.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "292 MB",
+            "executable": "game.exe",
+            "arguments": [],
+            "buildID": "16 November 2021",
+            "filename": "02757.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1786239498798_15",
+    "Name": "Wax Heads",
+    "MediaId": "004296",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004296C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004296B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004296M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004296T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "wax_heads.exe",
+            "arguments": [],
+            "buildID": "31 July 2026",
+            "filename": "02758.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1786341654992_0",
+    "Name": "Anomaly President",
+    "MediaId": "004297",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004297C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004297B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004297M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004297T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "486 MB",
+            "executable": "Anomaly President.exe",
+            "arguments": [],
+            "buildID": "17 August 2026",
+            "filename": "02759.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1786341654993_1",
+    "Name": "Mr. Sleepy Man",
+    "MediaId": "004298",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004298C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004298B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004298M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004298T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "Mr Sleepy Man.exe",
+            "arguments": [],
+            "buildID": "7 August 2026",
+            "filename": "02760.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1786341654993_2",
+    "Name": "Tales of Seikyu",
+    "MediaId": "004299",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004299C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004299B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004299M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004299T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "10 GB",
+            "executable": "Tales Of Seikyu.exe",
+            "arguments": [],
+            "buildID": "24 July 2026",
+            "filename": "02761.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1786341654993_3",
+    "Name": "Tom Clancys Ghost Recon Wildlands",
+    "MediaId": "004300",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004300C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004300B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004300M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004300T.mp4",
+    "videoStart": 4.547025,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "94 GB",
+            "executable": "GRW.exe",
+            "arguments": [],
+            "buildID": "13 August 2026",
+            "filename": "02762.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1786744167296_0",
+    "Name": "Bramble The Mountain King",
+    "MediaId": "004301",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004301C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004301B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004301M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004301T.mp4",
+    "videoStart": 3.762614,
+    "videoEnd": 85.464563,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "executable": "Bramble_TMK.exe",
+            "arguments": [],
+            "buildID": "21 June 2023",
+            "filename": "02765.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1786744167296_1",
+    "Name": "Duskfade",
+    "MediaId": "004302",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004302C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004302B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004302M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004302T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "14 GB",
+            "executable": "Duskfade.exe",
+            "arguments": [],
+            "buildID": "13 August 2026",
+            "filename": "02766.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Need Music", "Hide"]
+  },
+  {
+    "_id": "game_1786744167296_2",
+    "Name": "IGS Classic Arcade Collection",
+    "MediaId": "004303",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004303C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004303B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004303M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004303T.mp4",
+    "videoStart": 11.4,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "1 GB",
+            "executable": "bin\\IGSClient.exe",
+            "arguments": [],
+            "buildID": "17 August 2026",
+            "filename": "02767.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1786744167296_3",
+    "Name": "Infinitevania",
+    "MediaId": "004304",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004304C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004304B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004304M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004304T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "executable": "Infinitevania.exe",
+            "arguments": [],
+            "buildID": "15 August 2026",
+            "filename": "02768.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Need Music", "Hide"]
+  },
+  {
+    "_id": "game_1786744167296_4",
+    "Name": "Wild Blue Skies",
+    "MediaId": "004305",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004305C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004305B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004305M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004305T.mp4",
+    "videoStart": 0.9,
+    "videoEnd": 94.056169,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Wild Blue Skies.exe",
+            "arguments": [],
+            "buildID": "13 August 2026",
+            "filename": "02769.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Need Music", "Hide"]
+  },
+  {
+    "_id": "game_1786883807845_0",
+    "Name": "GYLT",
+    "MediaId": "004306",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004306C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004306B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004306M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004306T.mp4",
+    "videoStart": 2.6,
+    "videoEnd": 70.405793,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "executable": "Gylt.exe",
+            "arguments": [],
+            "buildID": "26 February 2026",
+            "filename": "02770.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1786883807845_1",
+    "Name": "The Sinking City 2",
+    "MediaId": "004307",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004307C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004307B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004307M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004307T.mp4",
+    "videoStart": 2.7,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "49 GB",
+            "executable": "PlayGround\\Binaries\\Win64\\TheSinkingCity2.exe",
+            "arguments": [],
+            "buildID": "14 August 2026",
+            "filename": "02771.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Need Music", "Hide"]
   }
 ]
