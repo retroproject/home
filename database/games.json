@@ -40466,7 +40466,7 @@
             "platform": "Nintendo Game Boy Color",
             "emulator": "RetroArch",
             "fileSize": "10MB",
-            "arguments": ["-L", ".\\cores\\gambatte_libretro.dll"],
+            "arguments": ["-L", ".\\cores\\mgba_libretro.dll"],
             "romFile": "Wario Land [Quick Block Break + Fast Wario].gbc",
             "filename": "Wario Land [Quick Block Break + Fast Wario].gbc"
           }
@@ -113860,35 +113860,35 @@
         "versions": [
           {
             "identifier": "retro-nes",
-            "filename": "Dr. Mario.nes",
             "platform": "Nintendo Entertainment System",
             "name": "Nintendo Entertainment System",
             "emulator": "RetroArch",
             "fileSize": "256KB",
             "arguments": ["-L", ".\\cores\\mesen_libretro.dll"],
-            "romFile": "Dr. Mario.nes"
+            "romFile": "Dr. Mario.nes",
+            "filename": "Dr. Mario.nes"
           },
           {
             "identifier": "retro-snes",
-            "filename": "Dr. Mario.sfc",
             "platform": "Nintendo Super Entertainment System",
             "name": "Nintendo Super Entertainment System",
             "emulator": "RetroArch",
             "fileSize": "2MB",
             "arguments": ["-L", ".\\cores\\snes9x_libretro.dll"],
-            "romFile": "Dr. Mario.sfc"
+            "romFile": "Dr. Mario.sfc",
+            "filename": "Dr. Mario.sfc"
           },
           {
             "identifier": "retrod2",
-            "filename": "Dr. Mario DX.gbc",
             "platform": "Nintendo Game Boy Color",
             "name": "Nintendo Game Boy Color",
             "emulator": "RetroArch",
             "fileSize": "512KB",
-            "arguments": ["-L", ".\\cores\\gambatte_libretro.dll"],
+            "arguments": ["-L", ".\\cores\\mgba_libretro.dll"],
             "mods": "Dr. Mario DX",
             "buildID": "2.1",
-            "romFile": "Dr. Mario DX.gbc"
+            "romFile": "Dr. Mario DX.gbc",
+            "filename": "Dr. Mario DX.gbc"
           }
         ]
       }
@@ -140378,7 +140378,7 @@
             "filename": "02783.gbc",
             "romFile": "02783.gbc",
             "emulator": "RetroArch",
-            "arguments": ["-L", ".\\cores\\gambatte_libretro.dll"]
+            "arguments": ["-L", ".\\cores\\mgba_libretro.dll"]
           }
         ]
       }
@@ -140631,7 +140631,7 @@
             "filename": "02790.gbc",
             "romFile": "02790.gbc",
             "emulator": "RetroArch",
-            "arguments": ["-L", ".\\cores\\gambatte_libretro.dll"]
+            "arguments": ["-L", ".\\cores\\mgba_libretro.dll"]
           }
         ]
       }
