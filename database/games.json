@@ -140317,7 +140317,7 @@
     "_id": "game_1787101409109_0",
     "Name": "Mario Tennis 64",
     "MediaId": "004316",
-    "SortingName": "Super Mario Tennis 01.01",
+    "SortingName": "Super Mario Sports 04",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -140353,7 +140353,7 @@
     "_id": "game_1787101471093_0",
     "Name": "Mario Tennis GBC",
     "MediaId": "004317",
-    "SortingName": "Super Mario Tennis 01.02",
+    "SortingName": "Super Mario Sports 05",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -140389,7 +140389,7 @@
     "_id": "game_1787101497785_0",
     "Name": "Mario Tennis Power Tour",
     "MediaId": "004318",
-    "SortingName": "Super Mario Tennis 02.02",
+    "SortingName": "Super Mario Sports 07",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -140425,7 +140425,7 @@
     "_id": "game_1787101550735_0",
     "Name": "Mario Power Tennis",
     "MediaId": "004319",
-    "SortingName": "Super Mario Tennis 02.01",
+    "SortingName": "Super Mario Sports 06",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -140461,7 +140461,7 @@
     "_id": "game_1787101671321_0",
     "Name": "Mario Tennis Open",
     "MediaId": "004320",
-    "SortingName": "Super Mario Tennis 03",
+    "SortingName": "Super Mario Sports 08",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -140497,7 +140497,7 @@
     "_id": "game_1787101956750_0",
     "Name": "Mario Tennis Ultra Smash",
     "MediaId": "004321",
-    "SortingName": "Super Mario Tennis 04",
+    "SortingName": "Super Mario Sports 09",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -140534,7 +140534,7 @@
     "_id": "game_1787102037517_0",
     "Name": "Mario Tennis Aces",
     "MediaId": "004322",
-    "SortingName": "Super Mario Tennis 05",
+    "SortingName": "Super Mario Sports 10",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -140566,5 +140566,215 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1787108168221_0",
+    "Name": "Mario Golf 64",
+    "MediaId": "004323",
+    "SortingName": "Super Mario Sports 11",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004323C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004323B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004323M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004323T.mp4",
+    "videoStart": 1.668243,
+    "videoEnd": 43.2,
+    "PlatformNames": ["Nintendo 64"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo 64": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Nintendo 64",
+            "fileSize": "32 MB",
+            "filename": "02789.z64",
+            "romFile": "02789.z64",
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\mupen64plus_next_libretro.dll"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1787108177369_0",
+    "Name": "Mario Golf GBC",
+    "MediaId": "004324",
+    "SortingName": "Super Mario Sports 12",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004324C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004324B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004324M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004324T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Nintendo Game Boy Color"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Game Boy Color": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Nintendo Game Boy Color",
+            "fileSize": "2 MB",
+            "filename": "02790.gbc",
+            "romFile": "02790.gbc",
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\gambatte_libretro.dll"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1787108190680_0",
+    "Name": "Mario Golf Toadstool Tour",
+    "MediaId": "004325",
+    "SortingName": "Super Mario Sports 13",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004325C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004325B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004325M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004325T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Nintendo GameCube"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo GameCube": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Nintendo GameCube",
+            "fileSize": "1 GB",
+            "filename": "02791.iso",
+            "romFile": "02791.iso",
+            "emulator": "Dolphin",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1787108203005_0",
+    "Name": "Mario Golf Advance Tour",
+    "MediaId": "004326",
+    "SortingName": "Super Mario Sports 14",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004326C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004326B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004326M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004326T.mp4",
+    "videoStart": 5.279549,
+    "videoEnd": 78.901494,
+    "PlatformNames": ["Nintendo Game Boy Advance"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Game Boy Advance": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Nintendo Game Boy Advance",
+            "fileSize": "16 MB",
+            "filename": "02792.gba",
+            "romFile": "02792.gba",
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\mgba_libretro.dll"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1787108215588_0",
+    "Name": "Mario Golf World Tour",
+    "MediaId": "004327",
+    "SortingName": "Super Mario Sports 15",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004327C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004327B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004327M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004327T.mp4",
+    "videoStart": 4.602441,
+    "videoEnd": 91.797444,
+    "PlatformNames": ["Nintendo 3DS"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo 3DS": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Nintendo 3DS",
+            "fileSize": "1 GB",
+            "filename": "02793.3ds",
+            "romFile": "02793.3ds",
+            "emulator": "Citra",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1787108616498_0",
+    "Name": "Mario Golf Super Rush",
+    "MediaId": "004328",
+    "SortingName": "Super Mario Sports 16",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004328C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004328B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004328M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004328T.mp4",
+    "videoStart": 1.8,
+    "videoEnd": 170.188219,
+    "PlatformNames": ["Nintendo Switch"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Switch": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Nintendo Switch",
+            "fileSize": "3 GB",
+            "filename": "02794.nsp",
+            "romFile": "02794.nsp",
+            "emulator": "Citron",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
