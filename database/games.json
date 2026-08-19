@@ -140194,5 +140194,377 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1787101046256_0",
+    "Name": "Contract JACK",
+    "MediaId": "004313",
+    "SortingName": "The Operative 03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004313C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004313B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004313M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004313T.mp4",
+    "videoStart": 5.376185,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Contract JACK.exe",
+            "arguments": [],
+            "buildID": "MagiPack",
+            "filename": "02778.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787101046256_1",
+    "Name": "The Operative No One Lives Forever",
+    "MediaId": "004314",
+    "SortingName": "The Operative 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004314C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004314B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004314M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004314T.mp4",
+    "videoStart": 2.758034,
+    "videoEnd": 99.217198,
+    "PlatformNames": ["PC Game", "Sony PlayStation 2"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Cross-Platform": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "PC",
+            "platform": "PC Game",
+            "fileSize": "1 GB",
+            "executable": "No One Lives Forever.exe",
+            "arguments": [],
+            "executableFiles": ["No One Lives Forever.exe"],
+            "buildID": "MagiPack",
+            "filename": "02779.zip"
+          },
+          {
+            "identifier": "RPRP066",
+            "filename": "02781.iso",
+            "platform": "Sony PlayStation 2",
+            "name": "PlayStation 2",
+            "emulator": "PCSX2",
+            "fileSize": "4GB",
+            "romFile": "02781.iso"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787101046256_2",
+    "Name": "The Operative No One Lives Forever 2 A Spy in H.A.R.M.s Way",
+    "MediaId": "004315",
+    "SortingName": "The Operative 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004315C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004315B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004315M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004315T.mp4",
+    "videoStart": 16.628956,
+    "videoEnd": 100.217841,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "No One Lives Forever 2.exe",
+            "arguments": [],
+            "buildID": "MagiPack",
+            "filename": "02780.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787101409109_0",
+    "Name": "Mario Tennis 64",
+    "MediaId": "004316",
+    "SortingName": "Super Mario Tennis 01.01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004316C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004316B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004316M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004316T.mp4",
+    "videoStart": 8.44717,
+    "videoEnd": 176.239103,
+    "PlatformNames": ["Nintendo 64"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo 64": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Nintendo 64",
+            "fileSize": "16 MB",
+            "filename": "02782.z64",
+            "romFile": "02782.z64",
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\mupen64plus_next_libretro.dll"]
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787101471093_0",
+    "Name": "Mario Tennis GBC",
+    "MediaId": "004317",
+    "SortingName": "Super Mario Tennis 01.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004317C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004317B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004317M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004317T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Nintendo Game Boy Color"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Game Boy Color": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Nintendo Game Boy Color",
+            "fileSize": "2 MB",
+            "filename": "02783.gbc",
+            "romFile": "02783.gbc",
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\gambatte_libretro.dll"]
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787101497785_0",
+    "Name": "Mario Tennis Power Tour",
+    "MediaId": "004318",
+    "SortingName": "Super Mario Tennis 02.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004318C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004318B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004318M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004318T.mp4",
+    "videoStart": 3.392558,
+    "videoEnd": 0,
+    "PlatformNames": ["Nintendo Game Boy Advance"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Game Boy Advance": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Nintendo Game Boy Advance",
+            "fileSize": "16 MB",
+            "filename": "02784.gba",
+            "romFile": "02784.gba",
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\mgba_libretro.dll"]
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787101550735_0",
+    "Name": "Mario Power Tennis",
+    "MediaId": "004319",
+    "SortingName": "Super Mario Tennis 02.01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004319C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004319B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004319M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004319T.mp4",
+    "videoStart": 7.609254,
+    "videoEnd": 309.98753,
+    "PlatformNames": ["Nintendo GameCube"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo GameCube": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Nintendo GameCube",
+            "fileSize": "1 GB",
+            "filename": "02785.iso",
+            "romFile": "02785.iso",
+            "emulator": "Dolphin",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787101671321_0",
+    "Name": "Mario Tennis Open",
+    "MediaId": "004320",
+    "SortingName": "Super Mario Tennis 03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004320C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004320B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004320M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004320T.mp4",
+    "videoStart": 8.321034,
+    "videoEnd": 115.984211,
+    "PlatformNames": ["Nintendo 3DS"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo 3DS": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Nintendo 3DS",
+            "fileSize": "512 MB",
+            "filename": "02786.3ds",
+            "romFile": "02786.3ds",
+            "emulator": "Citra",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787101956750_0",
+    "Name": "Mario Tennis Ultra Smash",
+    "MediaId": "004321",
+    "SortingName": "Super Mario Tennis 04",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004321C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004321B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004321M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004321T.mp4",
+    "videoStart": 5.043659,
+    "videoEnd": 0,
+    "PlatformNames": ["Nintendo Wii U"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Wii U": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Nintendo Wii U",
+            "fileSize": "809 MB",
+            "romFile": "code\\main.rpx",
+            "emulator": "Cemu",
+            "arguments": [],
+            "buildID": "1.0.1",
+            "filename": "02787.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787102037517_0",
+    "Name": "Mario Tennis Aces",
+    "MediaId": "004322",
+    "SortingName": "Super Mario Tennis 05",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004322C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004322B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004322M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004322T.mp4",
+    "videoStart": 1.8,
+    "videoEnd": 40.3,
+    "PlatformNames": ["Nintendo Switch"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Switch": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Nintendo Switch",
+            "fileSize": "2 GB",
+            "romFile": "02788.nsp",
+            "emulator": "Citron",
+            "arguments": [],
+            "filenames": ["02788.nsp", "02788 Citron Update.zip"],
+            "buildID": "3.1.0"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
