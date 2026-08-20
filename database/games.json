@@ -38758,12 +38758,12 @@
           },
           {
             "identifier": "RPRP066",
-            "filename": "02764.zip",
             "platform": "PC Game",
             "name": "PC Arabic",
             "fileSize": "8GB",
-            "executableFiles": ["SILENT HILL 4.exe", "SH4Config.exe"],
-            "executableLabels": ["Game", "Configure"]
+            "executableFiles": ["SH4 Launcher.exe", "SH4Config.exe"],
+            "executableLabels": ["Game", "Configure"],
+            "filename": "02764.zip"
           }
         ]
       }
@@ -140771,6 +140771,253 @@
             "filename": "02794.nsp",
             "romFile": "02794.nsp",
             "emulator": "Citron",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1787187724711_0",
+    "Name": "Punch-Out!!",
+    "MediaId": "004329",
+    "SortingName": "Punch-Out 01.01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004329C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004329B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004329M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004329T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Final Arcade"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Final Arcade": {
+        "versions": [
+          {
+            "identifier": "RPRP000",
+            "name": "Vanilla",
+            "platform": "Final Arcade",
+            "fileSize": "161 KB",
+            "filename": "punchout.zip",
+            "romFile": "punchout.zip",
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\fbneo_libretro.dll"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1787187724711_1",
+    "Name": "Super Punch-Out!!",
+    "MediaId": "004330",
+    "SortingName": "Punch Out 02.01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004330C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004330B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004330M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004330T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Final Arcade"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Final Arcade": {
+        "versions": [
+          {
+            "identifier": "RPRP000",
+            "name": "Vanilla",
+            "platform": "Final Arcade",
+            "fileSize": "173 KB",
+            "filename": "spnchout.zip",
+            "romFile": "spnchout.zip",
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\fbneo_libretro.dll"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1787188350330_0",
+    "Name": "Galaga",
+    "MediaId": "004331",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004331C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004331B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004331M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004331T.mp4",
+    "videoStart": 2,
+    "videoEnd": 29.8,
+    "PlatformNames": ["Nintendo Entertainment System"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Entertainment System": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Nintendo Entertainment System",
+            "fileSize": "24 KB",
+            "filename": "02795.nes",
+            "romFile": "02795.nes",
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\mesen_libretro.dll"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1787188350330_1",
+    "Name": "Mike Tyson's Punch Out!!",
+    "MediaId": "004332",
+    "SortingName": "Punch Out 01.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004332C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004332B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004332M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004332T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Nintendo Entertainment System"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Entertainment System": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Nintendo Entertainment System",
+            "fileSize": "256 KB",
+            "filename": "02796.nes",
+            "romFile": "02796.nes",
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\mesen_libretro.dll"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1787188350330_2",
+    "Name": "Shatterhand",
+    "MediaId": "004333",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004333C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004333B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004333M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004333T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Nintendo Entertainment System"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Entertainment System": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Nintendo Entertainment System",
+            "fileSize": "512 KB",
+            "filename": "02797.zip",
+            "romFiles": ["R2.nes", "R1.nes"],
+            "romLabels": ["Vanilla", "Tokkyuu Shirei Solbrain"],
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\mesen_libretro.dll"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1787188377401_0",
+    "Name": "Super Punch Out",
+    "MediaId": "004334",
+    "SortingName": "Punch Out 02.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004334C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004334B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004334M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004334T.mp4",
+    "videoStart": 1.5,
+    "videoEnd": 0,
+    "PlatformNames": ["Nintendo Super Entertainment System"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Super Entertainment System": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Enhanced",
+            "platform": "Nintendo Super Entertainment System",
+            "fileSize": "3 MB",
+            "romFile": "02798.sfc",
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\snes9x_libretro.dll"],
+            "buildID": "Special Edition 2.0",
+            "filename": "02798.sfc"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1787188391253_0",
+    "Name": "Punch Out!! 2009",
+    "MediaId": "004335",
+    "SortingName": "Punch Out 03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004335C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004335B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004335M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004335T.mp4",
+    "videoStart": 5.1,
+    "videoEnd": 37.412588,
+    "PlatformNames": ["Nintendo Wii"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Wii": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Nintendo Wii",
+            "fileSize": "3 GB",
+            "filename": "02799.rvz",
+            "romFile": "02799.rvz",
+            "emulator": "Dolphin",
             "arguments": []
           }
         ]
