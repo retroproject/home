@@ -96476,6 +96476,16 @@
         "versions": [
           {
             "identifier": "RPRP014",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3GB",
+            "arguments": [],
+            "executable": "TMNTSF.exe",
+            "buildID": "19 August 2026",
+            "filename": "00514.zip"
+          },
+          {
+            "identifier": "RPRP014",
             "name": "Online",
             "platform": "PC Game",
             "fileSize": "2GB",
@@ -96483,16 +96493,6 @@
             "executable": "EOSAuthLauncher.exe",
             "buildID": "28072025",
             "filename": "00515.zip"
-          },
-          {
-            "identifier": "RPRP014",
-            "name": "Offline",
-            "platform": "PC Game",
-            "fileSize": "3GB",
-            "arguments": [],
-            "executable": "TMNTSF.exe",
-            "buildID": "24 February 2026",
-            "filename": "00514.zip"
           }
         ]
       }
@@ -122557,7 +122557,7 @@
             "fileSize": "11 GB",
             "executable": "StarsandIsland.exe",
             "arguments": [],
-            "buildID": "13 February 2026",
+            "buildID": "18 August 2026",
             "filename": "00469.zip"
           }
         ]
@@ -141023,5 +141023,576 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1787200273419_0",
+    "Name": "EvoCreo",
+    "MediaId": "004336",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004336C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004336B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004336M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004336T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "185 MB",
+            "filename": "02800.zip",
+            "executable": "EvoCreo.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787200273419_1",
+    "Name": "EvoCreo 2",
+    "MediaId": "004337",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004337C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004337B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004337M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004337T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "1 GB",
+            "filename": "02801.zip",
+            "executable": "EvoCreo 2.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787200273419_2",
+    "Name": "FEED IT",
+    "MediaId": "004338",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004338C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004338B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004338M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004338T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "1 GB",
+            "filename": "02802.zip",
+            "executable": "FEED IT.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787200273419_3",
+    "Name": "Quasimorph",
+    "MediaId": "004339",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004339C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004339B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004339M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004339T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "filename": "02803.zip",
+            "executable": "Quasimorph.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787200273419_4",
+    "Name": "Spirit X Strike",
+    "MediaId": "004340",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004340C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004340B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004340M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004340T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "12 GB",
+            "filename": "02804.zip",
+            "executableFiles": ["DX11\\Spirit X Strike.exe", "DX12\\Spirit X Strike.exe"],
+            "executableLabels": ["DX11", "DX12"],
+            "executable": "DX11\\Spirit X Strike.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide", "Need Music"]
+  },
+  {
+    "_id": "game_1787200273419_5",
+    "Name": "Tukoni Forest Keepers",
+    "MediaId": "004341",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004341C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004341B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004341M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004341T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "1 GB",
+            "filename": "02805.zip",
+            "executable": "TukoniForestKeepers.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide", "Need Music"]
+  },
+  {
+    "_id": "game_1787200273419_6",
+    "Name": "Twisted Tower",
+    "MediaId": "004342",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004342C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004342B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004342M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004342T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "filename": "02806.zip",
+            "executable": "Twisted Tower.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787200273419_7",
+    "Name": "Unrailed",
+    "MediaId": "004343",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004343C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004343B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004343M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004343T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "853 MB",
+            "filename": "02807.zip",
+            "executable": "UnrailedGame.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787200273419_8",
+    "Name": "Unrailed 2 Back on Track",
+    "MediaId": "004344",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004344C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004344B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004344M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004344T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "02808.zip",
+            "executable": "Unrailed2.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787205200569_0",
+    "Name": "Mario & Sonic at the Olympic Games",
+    "MediaId": "004345",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004345C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004345B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004345M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004345T.mp4",
+    "videoStart": 1.88883,
+    "videoEnd": 60.063841,
+    "PlatformNames": ["Nintendo Wii", "Nintendo DS"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Cross-Platform": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Wii",
+            "platform": "Nintendo Wii",
+            "fileSize": "2 GB",
+            "emulator": "Dolphin",
+            "arguments": [],
+            "romFile": "02809.rvz",
+            "filename": "02809.rvz"
+          },
+          {
+            "identifier": "RPRP066",
+            "filename": "02811.nds",
+            "platform": "Nintendo DS",
+            "name": "DS",
+            "emulator": "RetroArch",
+            "fileSize": "32MB",
+            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "romFile": "02811.nds"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787205200569_1",
+    "Name": "Mario & Sonic at the Olympic Winter Games",
+    "MediaId": "004346",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004346C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004346B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004346M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004346T.mp4",
+    "videoStart": 5.104674,
+    "videoEnd": 75.937721,
+    "PlatformNames": ["Nintendo Wii", "Nintendo DS"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Cross-Platform": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Wii",
+            "platform": "Nintendo Wii",
+            "fileSize": "3 GB",
+            "emulator": "Dolphin",
+            "arguments": [],
+            "romFile": "02810.rvz",
+            "filename": "02810.rvz"
+          },
+          {
+            "identifier": "RPRP066",
+            "filename": "02812.nds",
+            "platform": "Nintendo DS",
+            "name": "DS",
+            "emulator": "RetroArch",
+            "fileSize": "32MB",
+            "arguments": ["-L", ".\\cores\\melonds_libretro.dll"],
+            "romFile": "02812.nds"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787205844915_0",
+    "Name": "Mario & Sonic at the London 2012 Olympic Games",
+    "MediaId": "004347",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004347C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004347B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004347M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004347T.mp4",
+    "videoStart": 2.220218,
+    "videoEnd": 149.478233,
+    "PlatformNames": ["Nintendo Wii", "Nintendo 3DS"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Cross-Platform": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Wii",
+            "platform": "Nintendo Wii",
+            "fileSize": "4 GB",
+            "emulator": "Dolphin",
+            "arguments": [],
+            "romFile": "02813.rvz",
+            "filename": "02813.rvz"
+          },
+          {
+            "identifier": "RPRP066",
+            "filename": "02814.3ds",
+            "platform": "Nintendo 3DS",
+            "name": "3DS",
+            "emulator": "Citra",
+            "fileSize": "400MB",
+            "romFile": "02814.3ds"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787208829633_0",
+    "Name": "Mario & Sonic at the Rio 2016 Olympic Games",
+    "MediaId": "004348",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004348C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004348B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004348M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004348T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Nintendo Wii U", "Nintendo 3DS"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Cross-Platform": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Wii U",
+            "platform": "Nintendo Wii U",
+            "fileSize": "3 GB",
+            "emulator": "Cemu",
+            "arguments": [],
+            "romFile": "code\\unison.rpx",
+            "filename": "02815.zip"
+          },
+          {
+            "identifier": "RPRP066",
+            "filename": "02817.3ds",
+            "platform": "Nintendo 3DS",
+            "name": "3DS",
+            "emulator": "Citra",
+            "fileSize": "1GB",
+            "romFile": "02817.3ds"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787208829633_1",
+    "Name": "Mario & Sonic at the Sochi 2014 Olympic Winter Games",
+    "MediaId": "004349",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004349C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004349B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004349M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004349T.mp4",
+    "videoStart": 5.1,
+    "videoEnd": 124.2,
+    "PlatformNames": ["Nintendo Wii U"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Wii U": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Nintendo Wii U",
+            "fileSize": "8 GB",
+            "filename": "02816.zip",
+            "romFile": "code\\urals.rpx",
+            "emulator": "Cemu",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787209100852_0",
+    "Name": "Mario and Sonic at the Olympic Games Tokyo 2020",
+    "MediaId": "004350",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004350C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004350B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004350M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004350T.mp4",
+    "videoStart": 1.942446,
+    "videoEnd": 0,
+    "PlatformNames": ["Nintendo Switch"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Switch": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Nintendo Switch",
+            "fileSize": "7 GB",
+            "romFile": "02818.xci",
+            "emulator": "Citron Neo",
+            "arguments": [],
+            "filenames": ["02818.xci", "02818 Citron NEO Update.zip"]
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
