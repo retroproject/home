@@ -142103,7 +142103,7 @@
     "_id": "game_1787273799608_1",
     "Name": "Dragon Ball Origins 2",
     "MediaId": "004365",
-    "SortingName": "Dragon Ball 01.03",
+    "SortingName": "Dragon Ball 01.03.01",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -142273,6 +142273,42 @@
             "romFile": "02837.nds",
             "emulator": "RetroArch",
             "arguments": ["-L", ".\\cores\\melonds_libretro.dll"]
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787289502505_0",
+    "Name": "Dragon Ball Revenge of King Piccolo",
+    "MediaId": "004370",
+    "SortingName": "Dragon Ball 01.03.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004370C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004370B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004370M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004370T.mp4",
+    "videoStart": 0,
+    "videoEnd": 86.987295,
+    "PlatformNames": ["Nintendo Wii"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Wii": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Nintendo Wii",
+            "fileSize": "1 GB",
+            "filename": "02838.rvz",
+            "romFile": "02838.rvz",
+            "emulator": "Dolphin",
+            "arguments": []
           }
         ]
       }
