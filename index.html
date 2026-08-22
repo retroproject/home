@@ -9817,6 +9817,51 @@
             }, 200);
         }
 
+        function scoreGameSearchField(searchTerm, value, strongMatchBase, fuzzyMatchBase) {
+            const field = String(value || '').toLowerCase().trim();
+            if (!field) return 0;
+
+            if (field === searchTerm) return strongMatchBase + 300;
+            if (field.startsWith(searchTerm)) return strongMatchBase + 200;
+            if (field.includes(searchTerm)) return strongMatchBase + 100;
+
+            const fuzzyScore = fuzzyMatch(searchTerm, field);
+            return fuzzyScore > 0 ? fuzzyMatchBase + fuzzyScore : 0;
+        }
+
+        function getGameSearchScore(game, searchTerm) {
+            const term = String(searchTerm || '').toLowerCase().trim();
+            if (!term) return 0;
+
+            const nameScore = scoreGameSearchField(term, game?.name || game?.Name, 5000, 3000);
+            const sortingNameScore = scoreGameSearchField(term, game?.sortingName || game?.SortingName, 4000, 2000);
+            return Math.max(nameScore, sortingNameScore);
+        }
+
+        function filterAndRankGamesBySearch(games, searchTerm) {
+            const normalizedTerm = String(searchTerm || '').toLowerCase().trim();
+            const getSortingName = (game) => String(game?.sortingName || game?.SortingName || game?.name || game?.Name || '').toLowerCase();
+
+            return games
+                .map((game, originalIndex) => ({
+                    game,
+                    originalIndex,
+                    searchScore: getGameSearchScore(game, normalizedTerm),
+                    sortingName: getSortingName(game)
+                }))
+                .filter(result => result.searchScore > 0)
+                .sort((a, b) => {
+                    const aUsesFamilySort = normalizedTerm.length >= 3 && a.sortingName.startsWith(normalizedTerm);
+                    const bUsesFamilySort = normalizedTerm.length >= 3 && b.sortingName.startsWith(normalizedTerm);
+                    if (aUsesFamilySort && bUsesFamilySort) {
+                        return a.sortingName.localeCompare(b.sortingName) || a.originalIndex - b.originalIndex;
+                    }
+                    if (aUsesFamilySort !== bUsesFamilySort) return aUsesFamilySort ? -1 : 1;
+
+                    return b.searchScore - a.searchScore || a.sortingName.localeCompare(b.sortingName) || a.originalIndex - b.originalIndex;
+                })
+                .map(result => result.game);
+        }
         function performSearch() {
             const searchTerm = document.getElementById('gameSearch').value.toLowerCase().trim();
 
@@ -9867,16 +9912,9 @@
             // Check if recently added filter is active
             const hasRecentlyAddedFilter = activeFilters.some(f => f.type === 'recentlyAdded');
 
-            // Apply text search with relevance scoring
+            // Apply text search with the same name and family-ranking rules as the desktop app.
             if (searchTerm) {
-                filtered = filtered.filter(game =>
-                    fuzzyMatch(searchTerm, game.name.toLowerCase()) > 0
-                ).sort((a, b) => {
-                    const aScore = fuzzyMatch(searchTerm, a.name.toLowerCase());
-                    const bScore = fuzzyMatch(searchTerm, b.name.toLowerCase());
-                    return bScore - aScore; // Sort by relevance (highest score first)
-                });
-            } else if (hasRecentlyAddedFilter) {
+                filtered = filterAndRankGamesBySearch(filtered, searchTerm);            } else if (hasRecentlyAddedFilter) {
                 // Sort by timestamp descending (newest first) for recently added
                 filtered.sort((a, b) => {
                     const aId = a.id || '';
@@ -9914,17 +9952,8 @@
                 isSearching = false;
             } else {
                 isSearching = true;
-                // Fuzzy search with scoring
-                const searchResults = allGames.map(game => {
-                    const score = fuzzyMatch(searchTerm, game.searchName);
-                    return { game, score };
-                }).filter(result => result.score > 0);
-
-                // Sort by score (highest first)
-                searchResults.sort((a, b) => b.score - a.score);
-
-                filteredGames = searchResults.map(result => result.game);
-            }
+                // Keep legacy callers aligned with the main family-aware search.
+                filteredGames = filterAndRankGamesBySearch(allGames, searchTerm);            }
 
             // Reset loaded count when searching
             loadedGamesCount = ITEMS_PER_BATCH;
