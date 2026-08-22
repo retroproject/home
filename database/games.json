@@ -52108,9 +52108,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "15GB",
-            "executableFiles": ["bin\\Win32\\ed8_2_PC_US.exe", "bin\\Win32\\Sen2Launcher.exe"],
+            "executableFiles": ["bin\\x64\\ed8_3_PC.exe", "Sen3Launcher.exe"],
             "executableLabels": ["Game", "Configure"],
             "arguments": [],
+            "buildID": "9 December 2024",
             "filename": "01949.zip"
           }
         ]
@@ -142067,7 +142068,7 @@
     "_id": "game_1787273799608_0",
     "Name": "Dragon Ball Kai Ultimate Butouden",
     "MediaId": "004364",
-    "SortingName": "Dragon Ball 08.01",
+    "SortingName": "Dragon Ball 08.01.01",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -142314,5 +142315,75 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1787359096717_0",
+    "Name": "Dragon Ball Z Extreme Butoden",
+    "MediaId": "004371",
+    "SortingName": "Dragon Ball 08.01.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004371C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004371B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004371M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004371T.mp4",
+    "videoStart": 5.165633,
+    "videoEnd": 105.991513,
+    "PlatformNames": ["Nintendo 3DS"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo 3DS": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Nintendo 3DS",
+            "fileSize": "358 MB",
+            "romFile": "02839.cxi",
+            "emulator": "Citra",
+            "arguments": [],
+            "filenames": ["02839.cxi", "02839 Citra Update.zip"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1787359096717_1",
+    "Name": "Dragon Ball Fusions",
+    "MediaId": "004372",
+    "SortingName": "Dragon Ball 08.01.03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004372C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004372B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004372M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004372T.mp4",
+    "videoStart": 2.311954,
+    "videoEnd": 129.173055,
+    "PlatformNames": ["Nintendo 3DS"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo 3DS": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Nintendo 3DS",
+            "fileSize": "592 MB",
+            "romFile": "02840.3ds",
+            "emulator": "Citra",
+            "arguments": [],
+            "filenames": ["02840.3ds", "02840 Citra Update.zip"]
+          }
+        ]
+      }
+    }
   }
 ]
