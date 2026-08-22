@@ -89400,6 +89400,7 @@
             "fileSize": "29GB",
             "arguments": [],
             "executable": "NSUNSC.exe",
+            "buildID": "20 August 2026",
             "filename": "01709.zip"
           }
         ]
@@ -96736,7 +96737,7 @@
             "platform": "PC Game",
             "executable": "NFL1.exe",
             "fileSize": "11GB",
-            "buildID": "13 January 2026",
+            "buildID": "19 August 2026",
             "filename": "00392.zip"
           }
         ]
@@ -109105,7 +109106,7 @@
             "platform": "PC Game",
             "fileSize": "35GB",
             "executable": "sora_1st.exe",
-            "buildID": "19 September 2025",
+            "buildID": "18 August 2026",
             "arguments": [],
             "filename": "00086.zip"
           }
@@ -141200,7 +141201,7 @@
         ]
       }
     },
-    "Tags": ["Hide", "Need Music"]
+    "Tags": ["Need Music"]
   },
   {
     "_id": "game_1787200273419_5",
@@ -142419,7 +142420,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787362251269_1",
@@ -142454,7 +142455,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787362251269_2",
@@ -142489,7 +142490,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787362251269_3",
@@ -142524,6 +142525,6 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   }
 ]
