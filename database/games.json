@@ -101086,7 +101086,7 @@
     "_id": "f2aa4fb6-1f14-4527-9a8c-c9b2f3e8a634",
     "Name": "Pokemon Emerald Version",
     "MediaId": "002769",
-    "SortingName": "Pokemon 05.03",
+    "SortingName": "Pokemon 05.03.01",
     "Description": "Environmental harmony transforms into epic conflict as aspiring Champion <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Brendan</span> becomes caught between the ancient rivalry of legendary titans <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Groudon</span> and <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 6px #00CED1;'>Kyogre</span>, whose devastating battles threaten to reshape the very landscape of the <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Hoenn region</span>.<br>When the sinister <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>Team Aqua</span> and <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>Team Magma</span> awaken these primordial forces in misguided attempts to expand seas and land, trainers must master the bonds with companions like the forest guardian <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>Treecko</span>, the blazing fighter <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>Torchic</span>, and the agile swimmer <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>Mudkip</span>.<br>Through the mystical depths of <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Meteor Falls</span>, the challenging gauntlet of the <span style='color:#FFA500; font-weight:bold; text-shadow: 0 0 6px #FFA500;'>Battle Frontier</span>, and the ancient chambers where <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>Rayquaza</span> slumbers in the <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 6px #FFB6C1;'>Sky Pillar</span>, every encounter teaches that true strength comes from understanding balance.<br>This definitive Hoenn adventure proves that the greatest victories aren't achieved through domination but through harmony, where learning to respect the delicate equilibrium between opposing forces becomes the key to preventing ecological <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>catastrophe</span>.",
     "DescriptionArabic": "<div dir='rtl'>يتحول التناغم البيئي إلى صراع ملحمي عندما يجد البطل الطموح <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>بريندان</span> نفسه محاصراً بين العداء القديم للعمالقة الأسطوريين <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>غرودون</span> و<span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 6px #00CED1;'>كايوغري</span>، اللذين تهدد معاركهما المدمرة بإعادة تشكيل منظر <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>منطقة هوين</span> نفسها.<br>عندما يوقظ <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>فريق أكوا</span> الشرير و<span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>فريق ماجما</span> هذه القوى البدائية في محاولات مضللة لتوسيع البحار والأراضي، يجب على المدربين إتقان الروابط مع الرفاق مثل حارس الغابة <span style='color:#228B22; font-weight:bold; text-shadow: 0 0 8px #228B22;'>تريكو</span> والمقاتل الملتهب <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>تورتشيك</span> والسباح الرشيق <span style='color:#4682B4; font-weight:bold; text-shadow: 0 0 8px #4682B4;'>مودكيب</span>.<br>عبر الأعماق الغامضة لـ<span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>شلالات النيزك</span> والتحدي القاسي في <span style='color:#FFA500; font-weight:bold; text-shadow: 0 0 6px #FFA500;'>حدود المعركة</span> والغرف القديمة حيث يسبت في سبات عميق <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>رايكوازا</span> في <span style='color:#FFB6C1; font-weight:bold; text-shadow: 0 0 6px #FFB6C1;'>عمود السماء</span>، كل لقاء يعلم أن القوة الحقيقية تأتي من فهم التوازن.<br>تثبت هذه المغامرة النهائية في هوين أن أعظم الانتصارات لا تتحقق من خلال الهيمنة بل من خلال الانسجام، حيث يصبح تعلم احترام التوازن الحساس بين القوى المتضادة هو مفتاح منع <span style='color:#4B0082; font-weight:bold; text-shadow: 0 0 8px #4B0082;'>الكارثة</span> البيئية.</div>",
     "ReleaseDate": "2004",
@@ -142385,5 +142385,145 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1787362251268_0",
+    "Name": "Pokemon Gamma Emerald",
+    "MediaId": "004373",
+    "SortingName": "Pokemon 05.03.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004373C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004373B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004373M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004373T.mp4",
+    "videoStart": 0,
+    "videoEnd": 63.30199,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "filename": "02841.zip",
+            "executable": "PokemonEmerald.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787362251269_1",
+    "Name": "Resonance A Plague Tale Legacy",
+    "MediaId": "004374",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004374C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004374B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004374M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004374T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "76 GB",
+            "filename": "02842.zip",
+            "executable": "Resonance.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787362251269_2",
+    "Name": "STEINS GATE RE BOOT",
+    "MediaId": "004375",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004375C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004375B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004375M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004375T.mp4",
+    "videoStart": 0,
+    "videoEnd": 105.570195,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "11 GB",
+            "filename": "02843.zip",
+            "executable": "sgre_steam.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787362251269_3",
+    "Name": "Yet Another Zombie Survivors",
+    "MediaId": "004376",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004376C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004376B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004376M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004376T.mp4",
+    "videoStart": 0,
+    "videoEnd": 65.840956,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "6 GB",
+            "filename": "02844.zip",
+            "executable": "Yet Another Zombie Survivors.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
