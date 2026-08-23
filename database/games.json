@@ -142526,5 +142526,75 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1787487158014_0",
+    "Name": "Spindle",
+    "MediaId": "004377",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004377C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004377B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004377M.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "718 MB",
+            "filename": "02845.zip",
+            "executable": "spindle.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1787487184794_0",
+    "Name": "Dr. Slump",
+    "MediaId": "004378",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004378C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004378B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004378M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004378T.mp4",
+    "videoStart": 1.49493,
+    "videoEnd": 44.93661,
+    "PlatformNames": ["Sony PlayStation"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation",
+            "fileSize": "72 MB",
+            "filename": "02846.zip",
+            "romFiles": ["R1.chd", "R2.chd"],
+            "romLabels": ["Classic Arale", "Original Arale"],
+            "emulator": "DuckStation",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
