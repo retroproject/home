@@ -1968,13 +1968,14 @@
       "Sony PlayStation": {
         "versions": [
           {
-            "identifier": "retro-psx",
-            "filename": "Resident Evil 1.5.img",
+            "identifier": "RPRP066",
             "name": "Vanilla",
             "platform": "Sony PlayStation",
             "emulator": "DuckStation",
             "fileSize": "200MB",
-            "romFile": "Resident Evil 1.5.img"
+            "romFile": "02847.img",
+            "buildID": "09 August 2026",
+            "filename": "02847.img"
           }
         ]
       }
@@ -142597,5 +142598,328 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1787528021300_0",
+    "Name": "Hot Shots Golf",
+    "MediaId": "004379",
+    "SortingName": "Hot Shots Golf 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004379C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004379B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004379M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004379T.mp4",
+    "videoStart": 3.1,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation",
+            "fileSize": "290 MB",
+            "filename": "02848.img",
+            "romFile": "02848.img",
+            "emulator": "DuckStation",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787528021300_1",
+    "Name": "Hot Shots Golf 2",
+    "MediaId": "004380",
+    "SortingName": "Hot Shots Golf 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004380C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004380B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004380M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004380T.mp4",
+    "videoStart": 0,
+    "videoEnd": 67.946826,
+    "PlatformNames": ["Sony PlayStation"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation",
+            "fileSize": "304 MB",
+            "filename": "02849.img",
+            "romFile": "02849.img",
+            "emulator": "DuckStation",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787528021300_2",
+    "Name": "Pixy Garden",
+    "MediaId": "004381",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004381C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004381B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004381M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004381T.mp4",
+    "videoStart": 1.4,
+    "videoEnd": 172.838391,
+    "PlatformNames": ["Sony PlayStation"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation",
+            "fileSize": "355 MB",
+            "filename": "02850.img",
+            "romFile": "02850.img",
+            "emulator": "DuckStation",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1787528884307_0",
+    "Name": "Hot Shots Golf 3",
+    "MediaId": "004382",
+    "SortingName": "Hot Shots Golf 03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004382C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004382B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004382M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004382T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation 2"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "1 GB",
+            "filename": "02851.iso",
+            "romFile": "02851.iso",
+            "emulator": "PCSX2",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787528884308_1",
+    "Name": "Hot Shots Golf Fore!",
+    "MediaId": "004383",
+    "SortingName": "Hot Shots Golf 04",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004383C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004383B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004383M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004383T.mp4",
+    "videoStart": 0,
+    "videoEnd": 50.427686,
+    "PlatformNames": ["Sony PlayStation 2"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "3 GB",
+            "filename": "02852.iso",
+            "romFile": "02852.iso",
+            "emulator": "PCSX2",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787528901282_0",
+    "Name": "Hot Shots Golf Open Tee",
+    "MediaId": "004384",
+    "SortingName": "Hot Shots Golf 06",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004384C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004384B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004384M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004384T.mp4",
+    "videoStart": 3.1,
+    "videoEnd": 31.612907,
+    "PlatformNames": ["Sony PlayStation Portable"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation Portable": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation Portable",
+            "fileSize": "330 MB",
+            "filename": "02853.chd",
+            "romFile": "02853.chd",
+            "emulator": "PPSSPP",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787528901282_1",
+    "Name": "Hot Shots Golf Open Tee 2",
+    "MediaId": "004385",
+    "SortingName": "Hot Shots Golf 05",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004385C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004385B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004385M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004385T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation Portable"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation Portable": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation Portable",
+            "fileSize": "706 MB",
+            "filename": "02854.chd",
+            "romFile": "02854.chd",
+            "emulator": "PPSSPP",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787532538003_0",
+    "Name": "Hot Shots Golf Out of Bounds",
+    "MediaId": "004386",
+    "SortingName": "Hot Shots Golf 06",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004386C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004386B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004386M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004386T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation 3 PSN"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3 PSN": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3 PSN",
+            "fileSize": "6 GB",
+            "filename": "02855 DLC.zip",
+            "romFile": "NPUA80765/USRDIR/EBOOT.BIN",
+            "emulator": "RPCS3",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787533875005_0",
+    "Name": "Hot Shots Golf World Invitational",
+    "MediaId": "004387",
+    "SortingName": "Hot Shots Golf 07",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004387C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004387B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004387M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004387T.mp4",
+    "videoStart": 19.609127,
+    "videoEnd": 103.205044,
+    "PlatformNames": ["Sony PlayStation 3 PSN"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3 PSN": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3 PSN",
+            "fileSize": "3 GB",
+            "filename": "02856 DLC.zip",
+            "romFile": "NPUA80864/USRDIR/EBOOT.BIN",
+            "emulator": "RPCS3",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
