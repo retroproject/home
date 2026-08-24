@@ -143133,5 +143133,400 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1787570928674_0",
+    "Name": "Ace Combat 04 Shattered Skies",
+    "MediaId": "004394",
+    "SortingName": "Ace Combat 04",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004394C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004394B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004394M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004394T.mp4",
+    "videoStart": 5.935691,
+    "videoEnd": 53.928154,
+    "PlatformNames": ["Sony PlayStation 2"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "3 GB",
+            "filename": "02863.iso",
+            "romFile": "02863.iso",
+            "emulator": "PCSX2",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787570928675_1",
+    "Name": "Ace Combat 5 The Unsung War",
+    "MediaId": "004395",
+    "SortingName": "Ace Combat 05.01.01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004395C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004395B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004395M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004395T.mp4",
+    "videoStart": 0,
+    "videoEnd": 207.239978,
+    "PlatformNames": ["Sony PlayStation 2"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "4 GB",
+            "filename": "02864.iso",
+            "romFile": "02864.iso",
+            "emulator": "PCSX2",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787570928675_2",
+    "Name": "Ace Combat Zero The Belkan War",
+    "MediaId": "004396",
+    "SortingName": "Ace Combat 05.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004396C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004396B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004396M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004396T.mp4",
+    "videoStart": 4.4,
+    "videoEnd": 158.215932,
+    "PlatformNames": ["Sony PlayStation 2"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "8 GB",
+            "filename": "02865.zip",
+            "romFiles": ["R2.iso", "R1.iso"],
+            "romLabels": ["English VA", "Japanese VA"],
+            "emulator": "PCSX2",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787570980284_0",
+    "Name": "Ace Combat Advance",
+    "MediaId": "004397",
+    "SortingName": "Ace Combat 06",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004397C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004397B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004397M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004397T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Nintendo Game Boy Advance"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Game Boy Advance": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Nintendo Game Boy Advance",
+            "fileSize": "4 MB",
+            "filename": "02866.gba",
+            "romFile": "02866.gba",
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\mgba_libretro.dll"]
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787571229509_0",
+    "Name": "Ace Combat Joint Assault",
+    "MediaId": "004398",
+    "SortingName": "Ace Combat 09.01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004398C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004398B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004398M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004398T.mp4",
+    "videoStart": 4.595838,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation Portable"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation Portable": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation Portable",
+            "fileSize": "1 GB",
+            "filename": "02867.chd",
+            "romFile": "02867.chd",
+            "emulator": "PPSSPP",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787571229510_1",
+    "Name": "Ace Combat X Skies of Deception",
+    "MediaId": "004399",
+    "SortingName": "Ace Combat 08",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004399C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004399B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004399M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004399T.mp4",
+    "videoStart": 6.511649,
+    "videoEnd": 60.3,
+    "PlatformNames": ["Sony PlayStation Portable"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation Portable": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation Portable",
+            "fileSize": "1 GB",
+            "filename": "02868.iso",
+            "romFile": "02868.iso",
+            "emulator": "PPSSPP",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787571246959_0",
+    "Name": "Ace Combat Assault Horizon Legacy",
+    "MediaId": "004400",
+    "SortingName": "Ace Combat 07",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004400C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004400B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004400M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004400T.mp4",
+    "videoStart": 14.3,
+    "videoEnd": 0,
+    "PlatformNames": ["Nintendo 3DS"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo 3DS": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Nintendo 3DS",
+            "fileSize": "2 GB",
+            "filename": "02869.zip",
+            "romFiles": ["R2.3ds", "R1.3ds"],
+            "romLabels": ["Vanilla", "Plus"],
+            "emulator": "Citra",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787574199656_0",
+    "Name": "Ace Combat Infinity",
+    "MediaId": "004401",
+    "SortingName": "Ace Combat 09.03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004401C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004401B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004401M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004401T.mp4",
+    "videoStart": 11.399185,
+    "videoEnd": 163.474464,
+    "PlatformNames": ["Sony PlayStation 3 PSN"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3 PSN": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3 PSN",
+            "fileSize": "8 GB",
+            "filename": "02870 DLC.zip",
+            "romFile": "NPEB01839/USRDIR/EBOOT.BIN",
+            "emulator": "RPCS3",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787574434686_0",
+    "Name": "Ace Combat 6 Fires of Liberation",
+    "MediaId": "004402",
+    "SortingName": "Ace Combat 05.01.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004402C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004402B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004402M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004402T.mp4",
+    "videoStart": 5.3,
+    "videoEnd": 227.271201,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "8 GB",
+            "filename": "02871.zip",
+            "executable": "ac6recomp.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787574434686_1",
+    "Name": "Ace Combat 7 Skies Unknown",
+    "MediaId": "004403",
+    "SortingName": "Ace Combat 05.01.03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004403C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004403B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004403M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004403T.mp4",
+    "videoStart": 16.3,
+    "videoEnd": 191.96598,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "61 GB",
+            "filename": "02872.zip",
+            "executable": "Ace7Game.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787574434686_2",
+    "Name": "Ace Combat Assault Horizon",
+    "MediaId": "004404",
+    "SortingName": "Ace Combat 09.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004404C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004404B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004404M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004404T.mp4",
+    "videoStart": 4.364589,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "12 GB",
+            "filename": "02873.zip",
+            "executable": "Ace Combat_AH.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
