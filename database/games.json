@@ -143065,5 +143065,73 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1787555574950_0",
+    "Name": "Dinoblade",
+    "MediaId": "004392",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004392C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004392B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004392M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004392T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "12 GB",
+            "filename": "02861.zip",
+            "executable": "DinobladeGame.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1787555574950_1",
+    "Name": "Nicktoons and The Dice of Destiny Zims Tower of Doom",
+    "MediaId": "004393",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004393C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004393B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004393M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004393T.mp4",
+    "videoStart": 2,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "7 GB",
+            "filename": "02862.zip",
+            "executable": "Dice.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
