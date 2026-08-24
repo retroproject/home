@@ -142921,5 +142921,149 @@
       }
     },
     "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787534910739_0",
+    "Name": "Bakugan Battle Brawlers",
+    "MediaId": "004388",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004388C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004388B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004388M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004388T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation 3"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "fileSize": "4 GB",
+            "filename": "02857.zip",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "emulator": "RPCS3",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787534910739_1",
+    "Name": "Bakugan Battle Brawlers Defenders of the Core",
+    "MediaId": "004389",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004389C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004389B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004389M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004389T.mp4",
+    "videoStart": 16.542989,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation 3"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "fileSize": "4 GB",
+            "filename": "02858.zip",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "emulator": "RPCS3",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787534910739_2",
+    "Name": "Generator Rex Agent of Providence",
+    "MediaId": "004390",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004390C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004390B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004390M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004390T.mp4",
+    "videoStart": 4.2,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation 3"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "fileSize": "4 GB",
+            "filename": "02859.zip",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "emulator": "RPCS3",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787534910739_3",
+    "Name": "Genji Days of the Blade",
+    "MediaId": "004391",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004391C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004391B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004391M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004391T.mp4",
+    "videoStart": 12.825491,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation 3"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "RPRP066",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "fileSize": "12 GB",
+            "filename": "02860.zip",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "emulator": "RPCS3",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
