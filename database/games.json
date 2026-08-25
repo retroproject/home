@@ -143599,16 +143599,16 @@
     "YouTubeUrl": "https://archive.org/download/RPRM002/004406T.mp4",
     "videoStart": 19.7,
     "videoEnd": 99.649268,
-    "PlatformNames": ["Arcade"],
+    "PlatformNames": ["Final Arcade"],
     "GenreNames": [],
     "DeveloperNames": [],
     "downloadInfo": {
-      "Arcade": {
+      "Final Arcade": {
         "versions": [
           {
             "identifier": "RPRP000",
             "name": "Vanilla",
-            "platform": "Arcade",
+            "platform": "Final Arcade",
             "fileSize": "4 MB",
             "romFile": "xmen.zip",
             "arguments": [" -L", ".\\cores\\fbneo_libretro.dll"],
