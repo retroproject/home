@@ -143942,5 +143942,49 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1787677324007_0",
+    "Name": "Rezel Cross",
+    "MediaId": "004416",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004416C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004416B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004416M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004416T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation Portable"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation Portable": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation Portable",
+            "fileSize": "1 GB",
+            "romFile": "02885.iso",
+            "emulator": "PPSSPP",
+            "arguments": [],
+            "buildID": "4.0",
+            "filename": "02885.iso"
+          },
+          {
+            "identifier": "RPRP067",
+            "name": "HD Textures",
+            "platform": "Sony PlayStation Portable",
+            "emulator": "PPSSPP",
+            "fileSize": "2GB",
+            "filename": "02885 HD Textures.zip"
+          }
+        ]
+      }
+    }
   }
 ]
