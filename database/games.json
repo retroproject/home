@@ -64042,21 +64042,31 @@
     "YouTubeUrl": "",
     "videoStart": null,
     "videoEnd": null,
-    "PlatformNames": ["Nintendo DS"],
+    "PlatformNames": ["Nintendo DS", "Sony PlayStation 2"],
     "GenreNames": ["Visual Novel"],
     "DeveloperNames": ["h.a.n.d. Inc."],
     "downloadInfo": {
-      "Nintendo DS": {
+      "Cross-Platform": {
         "versions": [
           {
             "identifier": "retro-nitro",
-            "filename": "Flower Sun and Rain Murder and Mystery in Paradise.nds",
-            "name": "Vanilla",
+            "name": "NDS",
             "platform": "Nintendo DS",
             "emulator": "DeSmuME",
             "fileSize": "60MB",
             "arguments": [],
-            "romFile": "Flower Sun and Rain Murder and Mystery in Paradise.nds"
+            "romFile": "Flower Sun and Rain Murder and Mystery in Paradise.nds",
+            "filename": "Flower Sun and Rain Murder and Mystery in Paradise.nds"
+          },
+          {
+            "identifier": "RPRP067",
+            "filename": "02874.iso",
+            "platform": "Sony PlayStation 2",
+            "name": "Playstation 2",
+            "emulator": "PCSX2",
+            "fileSize": "4GB",
+            "buildID": "1.0",
+            "romFile": "02874.iso"
           }
         ]
       }
@@ -65606,7 +65616,7 @@
     "_id": "a31b018f-36b9-49a6-9d07-17b231b11655",
     "Name": "Panzer Dragoon",
     "MediaId": "001800",
-    "SortingName": "Panzer Dragoon 01",
+    "SortingName": "Panzer Dragoon 01.01",
     "Description": "In a post-apocalyptic world where <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 6px #8B4513;'>ancient technology</span> dominates the skies, a young hunter named <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>Keil Fluge</span> witnesses a battle between rival <span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>dragons</span>.<br>When fate bonds him with the <span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>blue dragon</span>, he must pursue the <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>dark dragon</span> carrying a mysterious <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 10px #FFD700;'>girl</span> to prevent an ancient evil from awakening.<br>Soar through breathtaking landscapes aboard your <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>armored dragon</span>, engaging in spectacular aerial combat against <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>bio-mechanical enemies</span>.<br>The journey culminates at the <span style='color:#2E8B57; font-weight:bold; text-shadow: 0 0 6px #2E8B57;'>Tower</span> where the fate of this dying world hangs in the balance between <span style='color:#696969; font-weight:bold; text-shadow: 0 0 6px #696969;'>destruction</span> and <span style='color:#556B2F; font-weight:bold; text-shadow: 0 0 6px #556B2F;'>rebirth</span>.<br>",
     "DescriptionArabic": "<div dir='rtl'>في عالم ما بعد الرهيب حيث تهيمن <span style='color:#8B4513; font-weight:bold; text-shadow: 0 0 6px #8B4513;'>التكنولوجيا القديمة</span> على السماوات، يشهد صياد شاب يُدعى <span style='color:#4169E1; font-weight:bold; text-shadow: 0 0 8px #4169E1;'>كيل فلوج</span> معركة بين <span style='color:#9932CC; font-weight:bold; text-shadow: 0 0 8px #9932CC;'>تنانين</span> متنافسة.<br>عندما يربطه القدر بـ<span style='color:#00CED1; font-weight:bold; text-shadow: 0 0 8px #00CED1;'>التنين الأزرق</span>، يجب عليه ملاحقة <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>التنين المظلم</span> الذي يحمل <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 10px #FFD700;'>فتاة</span> غامضة لمنع شر قديم من الاستيقاظ.<br>حلق عبر مناظر طبيعية خلابة على متن <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>تنينك المدرع</span>، منخرطاً في قتال جوي مذهل ضد <span style='color:#B22222; font-weight:bold; text-shadow: 0 0 8px #B22222;'>أعداء بيو-ميكانيكيين</span>.<br>تبلغ الرحلة ذروتها في <span style='color:#2E8B57; font-weight:bold; text-shadow: 0 0 6px #2E8B57;'>البرج</span> حيث يتدلى مصير هذا العالم المحتضر في الميزان بين <span style='color:#696969; font-weight:bold; text-shadow: 0 0 6px #696969;'>الدمار</span> و<span style='color:#556B2F; font-weight:bold; text-shadow: 0 0 6px #556B2F;'>الولادة الجديدة</span>.<br></div>",
     "ReleaseDate": "1995",
@@ -65618,21 +65628,30 @@
     "YouTubeUrl": "",
     "videoStart": null,
     "videoEnd": null,
-    "PlatformNames": ["Sega Saturn"],
+    "PlatformNames": ["Sega Saturn", "PC Game"],
     "GenreNames": ["Shooter"],
     "DeveloperNames": ["Team Andromeda"],
     "downloadInfo": {
-      "Sega Saturn": {
+      "Cross-Platform": {
         "versions": [
           {
             "identifier": "retro-saturn",
-            "filename": "Panzer Dragoon.chd",
-            "name": "Vanilla",
+            "name": "Original Saturn",
             "platform": "Sega Saturn",
             "emulator": "RetroArch",
             "fileSize": "500MB",
             "arguments": ["-L", ".\\cores\\mednafen_saturn_libretro.dll"],
-            "romFile": "Panzer Dragoon.chd"
+            "romFile": "Panzer Dragoon.chd",
+            "filename": "Panzer Dragoon.chd"
+          },
+          {
+            "identifier": "RPRP067",
+            "filename": "02875.zip",
+            "platform": "PC Game",
+            "name": "Remake PC",
+            "fileSize": "5GB",
+            "executableFiles": ["Panzer Dragoon Remake.exe"],
+            "buildID": "23 October 2020"
           }
         ]
       }
@@ -143168,7 +143187,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787570928675_1",
@@ -143204,7 +143223,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787570928675_2",
@@ -143241,7 +143260,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787570980284_0",
@@ -143277,7 +143296,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787571229509_0",
@@ -143313,7 +143332,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787571229510_1",
@@ -143349,7 +143368,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787571246959_0",
@@ -143386,7 +143405,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787574199656_0",
@@ -143422,7 +143441,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787574434686_0",
@@ -143457,7 +143476,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787574434686_1",
@@ -143492,7 +143511,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787574434686_2",
@@ -143527,6 +143546,6 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   }
 ]
