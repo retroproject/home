@@ -143608,7 +143608,7 @@
           {
             "identifier": "RPRP000",
             "name": "Vanilla",
-            "platform": "Final Arcade",
+            "platform": "Arcade",
             "fileSize": "4 MB",
             "romFile": "xmen.zip",
             "arguments": [" -L", ".\\cores\\fbneo_libretro.dll"],
