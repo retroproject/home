@@ -52663,7 +52663,7 @@
     "YouTubeUrl": "https://archive.org/download/RPRM002/001445T.mp4",
     "videoStart": 0,
     "videoEnd": 0,
-    "PlatformNames": ["Final Arcade", "Nintendo Entertainment System"],
+    "PlatformNames": ["Arcade", "Nintendo Entertainment System"],
     "GenreNames": ["Platformer"],
     "DeveloperNames": ["Hect Co. Ltd."],
     "downloadInfo": {
@@ -52671,12 +52671,12 @@
         "versions": [
           {
             "identifier": "A0100",
-            "platform": "Final Arcade",
+            "platform": "Arcade",
             "name": "Arcade",
             "emulator": "RetroArch",
-            "romFile": "citycon.zip",
             "fileSize": "110KB",
             "arguments": ["-L", ".\\cores\\fbneo_libretro.dll"],
+            "romFile": "citycon.zip",
             "filename": "citycon.zip"
           },
           {
@@ -52684,9 +52684,9 @@
             "platform": "Nintendo Entertainment System",
             "name": "Vanilla",
             "emulator": "RetroArch",
-            "romFile": "City Connection.nes",
             "fileSize": "70KB",
             "arguments": ["-L", ".\\cores\\mesen_libretro.dll"],
+            "romFile": "City Connection.nes",
             "filename": "City Connection.nes"
           },
           {
@@ -52694,9 +52694,9 @@
             "platform": "Nintendo Entertainment System",
             "name": "Clarice Version",
             "emulator": "RetroArch",
-            "romFile": "City Connection (Clarice Version).nes",
             "fileSize": "70KB",
             "arguments": ["-L", ".\\cores\\mesen_libretro.dll"],
+            "romFile": "City Connection (Clarice Version).nes",
             "filename": "City Connection (Clarice Version).nes"
           }
         ]
@@ -140814,21 +140814,21 @@
     "YouTubeUrl": "https://archive.org/download/RPRM002/004329T.mp4",
     "videoStart": 0,
     "videoEnd": 0,
-    "PlatformNames": ["Final Arcade"],
+    "PlatformNames": ["Arcade"],
     "GenreNames": [],
     "DeveloperNames": [],
     "downloadInfo": {
-      "Final Arcade": {
+      "Arcade": {
         "versions": [
           {
             "identifier": "RPRP000",
             "name": "Vanilla",
             "platform": "Final Arcade",
             "fileSize": "161 KB",
-            "filename": "punchout.zip",
             "romFile": "punchout.zip",
             "emulator": "RetroArch",
-            "arguments": ["-L", ".\\cores\\fbneo_libretro.dll"]
+            "arguments": ["-L", ".\\cores\\fbneo_libretro.dll"],
+            "filename": "punchout.zip"
           }
         ]
       }
@@ -140849,21 +140849,21 @@
     "YouTubeUrl": "https://archive.org/download/RPRM002/004330T.mp4",
     "videoStart": 0,
     "videoEnd": 0,
-    "PlatformNames": ["Final Arcade"],
+    "PlatformNames": ["Arcade"],
     "GenreNames": [],
     "DeveloperNames": [],
     "downloadInfo": {
-      "Final Arcade": {
+      "Arcade": {
         "versions": [
           {
             "identifier": "RPRP000",
             "name": "Vanilla",
             "platform": "Final Arcade",
             "fileSize": "173 KB",
-            "filename": "spnchout.zip",
             "romFile": "spnchout.zip",
             "emulator": "RetroArch",
-            "arguments": ["-L", ".\\cores\\fbneo_libretro.dll"]
+            "arguments": ["-L", ".\\cores\\fbneo_libretro.dll"],
+            "filename": "spnchout.zip"
           }
         ]
       }
@@ -143572,11 +143572,12 @@
           {
             "identifier": "RPRP000",
             "name": "Vanilla",
-            "platform": "Arcade",
+            "platform": "Final Arcade",
             "fileSize": "19 MB",
-            "filename": "xmcota.zip",
             "romFile": "xmcota.zip",
-            "arguments": []
+            "arguments": ["-L", ".\\cores\\fbneo_libretro.dll"],
+            "emulator": "RetroArch",
+            "filename": "xmcota.zip"
           }
         ]
       }
@@ -143607,11 +143608,12 @@
           {
             "identifier": "RPRP000",
             "name": "Vanilla",
-            "platform": "Arcade",
+            "platform": "Final Arcade",
             "fileSize": "4 MB",
-            "filename": "xmen.zip",
             "romFile": "xmen.zip",
-            "arguments": []
+            "arguments": [" -L", ".\\cores\\fbneo_libretro.dll"],
+            "emulator": "RetroArch",
+            "filename": "xmen.zip"
           }
         ]
       }
