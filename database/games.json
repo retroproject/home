@@ -52663,7 +52663,7 @@
     "YouTubeUrl": "https://archive.org/download/RPRM002/001445T.mp4",
     "videoStart": 0,
     "videoEnd": 0,
-    "PlatformNames": ["Arcade", "Nintendo Entertainment System"],
+    "PlatformNames": ["Nintendo Entertainment System", "Arcade"],
     "GenreNames": ["Platformer"],
     "DeveloperNames": ["Hect Co. Ltd."],
     "downloadInfo": {
@@ -52671,7 +52671,7 @@
         "versions": [
           {
             "identifier": "A0100",
-            "platform": "Arcade",
+            "platform": "Final Arcade",
             "name": "Arcade",
             "emulator": "RetroArch",
             "fileSize": "110KB",
