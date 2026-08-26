@@ -139054,9 +139054,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "32 GB",
-            "filename": "02644.zip",
             "executable": "BeastOfReincarnation.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "24 August 2026",
+            "filename": "02644.zip"
           }
         ]
       }
@@ -140172,9 +140173,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "14 GB",
-            "filename": "02775.zip",
             "executable": "Dungeonhaven.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "25 August 2021",
+            "filename": "02775.zip"
           }
         ]
       }
@@ -141072,9 +141074,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "185 MB",
-            "filename": "02800.zip",
             "executable": "EvoCreo.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "2 April 2026",
+            "filename": "02800.zip"
           }
         ]
       }
@@ -141107,9 +141110,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "1 GB",
-            "filename": "02801.zip",
             "executable": "EvoCreo 2.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "3 August 2026",
+            "filename": "02801.zip"
           }
         ]
       }
@@ -141142,9 +141146,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "1 GB",
-            "filename": "02802.zip",
             "executable": "FEED IT.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "21 August 2026",
+            "filename": "02802.zip"
           }
         ]
       }
@@ -141177,9 +141182,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "3 GB",
-            "filename": "02803.zip",
             "executable": "Quasimorph.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "22 August 2026",
+            "filename": "02803.zip"
           }
         ]
       }
@@ -141212,11 +141218,11 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "12 GB",
-            "filename": "02804.zip",
             "executableFiles": ["DX11\\Spirit X Strike.exe", "DX12\\Spirit X Strike.exe"],
             "executableLabels": ["DX11", "DX12"],
-            "executable": "DX11\\Spirit X Strike.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "1 December 2025",
+            "filename": "02804.zip"
           }
         ]
       }
@@ -141249,9 +141255,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "1 GB",
-            "filename": "02805.zip",
             "executable": "TukoniForestKeepers.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "21 August 2026",
+            "filename": "02805.zip"
           }
         ]
       }
@@ -141284,9 +141291,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "4 GB",
-            "filename": "02806.zip",
             "executable": "Twisted Tower.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "25 August 2026",
+            "filename": "02806.zip"
           }
         ]
       }
@@ -141319,9 +141327,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "853 MB",
-            "filename": "02807.zip",
             "executable": "UnrailedGame.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "11 July 2025",
+            "filename": "02807.zip"
           }
         ]
       }
@@ -141354,9 +141363,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
-            "filename": "02808.zip",
             "executable": "Unrailed2.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "25 July 2026",
+            "filename": "02808.zip"
           }
         ]
       }
@@ -142433,9 +142443,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
-            "filename": "02841.zip",
             "executable": "PokemonEmerald.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "Version 106",
+            "filename": "02841.zip"
           }
         ]
       }
@@ -142468,9 +142479,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "76 GB",
-            "filename": "02842.zip",
             "executable": "Resonance.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "27 August 2026",
+            "filename": "02842.zip"
           }
         ]
       }
@@ -142503,9 +142515,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "11 GB",
-            "filename": "02843.zip",
             "executable": "sgre_steam.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "18 August 2026",
+            "filename": "02843.zip"
           }
         ]
       }
@@ -142538,9 +142551,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "6 GB",
-            "filename": "02844.zip",
             "executable": "Yet Another Zombie Survivors.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "21 August 2026",
+            "filename": "02844.zip"
           }
         ]
       }
@@ -142573,9 +142587,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "718 MB",
-            "filename": "02845.zip",
             "executable": "spindle.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "2 January 2026",
+            "filename": "02845.zip"
           }
         ]
       }
@@ -143111,9 +143126,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "12 GB",
-            "filename": "02861.zip",
             "executable": "DinobladeGame.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "31 July 2026",
+            "filename": "02861.zip"
           }
         ]
       }
@@ -143121,7 +143137,7 @@
   },
   {
     "_id": "game_1787555574950_1",
-    "Name": "Nicktoons and The Dice of Destiny Zims Tower of Doom",
+    "Name": "Nicktoons & The Dice of Destiny",
     "MediaId": "004393",
     "SortingName": "",
     "Description": "",
@@ -143145,9 +143161,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "7 GB",
-            "filename": "02862.zip",
             "executable": "Dice.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "11 August 2026",
+            "filename": "02862.zip"
           }
         ]
       }
@@ -143469,9 +143486,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "8 GB",
-            "filename": "02871.zip",
             "executable": "ac6recomp.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "Final",
+            "filename": "02871.zip"
           }
         ]
       }
@@ -143504,9 +143522,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "61 GB",
-            "filename": "02872.zip",
             "executable": "Ace7Game.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "15 November 2022",
+            "filename": "02872.zip"
           }
         ]
       }
@@ -143539,9 +143558,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "12 GB",
-            "filename": "02873.zip",
             "executable": "Ace Combat_AH.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "1 April 2014",
+            "filename": "02873.zip"
           }
         ]
       }
@@ -143754,9 +143774,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "7 GB",
-            "filename": "02879.zip",
             "executable": "Binaries\\Wolverine.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "Final",
+            "filename": "02879.zip"
           }
         ]
       }
@@ -143986,5 +144007,41 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1787720834747_0",
+    "Name": "1666 Amsterdam",
+    "MediaId": "004417",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004417C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004417B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004417M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004417T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "16 GB",
+            "filename": "02886.zip",
+            "executable": "Amsterdam\\Binaries\\Win64\\1666Amsterdam.exe",
+            "buildID": "PackageReady",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
