@@ -144823,5 +144823,54 @@
       }
     },
     "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787847255127_0",
+    "Name": "Metal Gear Solid Master Collection Volume 2",
+    "MediaId": "004440",
+    "SortingName": "Metal Gear Solid 11",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004440C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004440B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004440M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004440T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "43 GB",
+            "executableFiles": [
+              "Guns of the Patriots\\MGS4\\mgs4.exe",
+              "Peace Walker\\mgspw\\METAL GEAR SOLID PEACE WALKER.exe",
+              "Ghost Babel\\MGS MC2 Bonus Content.exe",
+              "Guns of the Patriots\\Launcher\\launcher.exe",
+              "Peace Walker\\launcher\\launcher.exe"
+            ],
+            "executableLabels": [
+              "Guns of the Patriots",
+              "Peace Walker",
+              "Ghost Babel",
+              "Guns of the Patriots Launcher",
+              "Peace Walker Launcher"
+            ],
+            "arguments": [],
+            "buildID": "26 August 2026",
+            "filename": "02910.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
