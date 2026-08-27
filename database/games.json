@@ -144884,5 +144884,54 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1787856593427_0",
+    "Name": "Metal Gear Solid Master Collection Volume 1",
+    "MediaId": "004441",
+    "SortingName": "Metal Gear Solid 10",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004441C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004441B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004441M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004441T.mp4",
+    "videoStart": 3.139086,
+    "videoEnd": 139.023463,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "110 GB",
+            "filename": "02911.zip",
+            "executableFiles": [
+              "Metal Gear 1 and 2 Classic\\steamclient_loader.exe",
+              "Metal Gear Solid 1\\steamclient_loader.exe",
+              "Metal Gear Solid 2\\steamclient_loader.exe",
+              "Metal Gear Solid 3\\steamclient_loader.exe",
+              "Bonus Content\\steamclient_loader.exe"
+            ],
+            "executableLabels": [
+              "Metal Gear 1 and 2 Classic",
+              "Metal Gear Solid 1",
+              "Metal Gear Solid 2",
+              "Metal Gear Solid 3",
+              "Bonus Content"
+            ],
+            "executable": "Metal Gear 1 and 2 Classic\\steamclient_loader.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
