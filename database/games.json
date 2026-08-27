@@ -143619,7 +143619,7 @@
     "YouTubeUrl": "https://archive.org/download/RPRM002/004406T.mp4",
     "videoStart": 19.7,
     "videoEnd": 99.649268,
-    "PlatformNames": ["Arcade", "Sony PlayStation 3"],
+    "PlatformNames": ["Arcade", "Sony PlayStation 3 PSN"],
     "GenreNames": [],
     "DeveloperNames": [],
     "downloadInfo": {
@@ -143632,17 +143632,17 @@
             "fileSize": "4 MB",
             "arguments": [" -L", ".\\cores\\fbneo_libretro.dll"],
             "emulator": "RetroArch",
-            "romFile": "xmen.zip",
-            "filename": "xmen.zip"
+            "romFile": "xmen2pa.zip",
+            "filename": "xmen2pa.zip"
           },
           {
             "identifier": "RPRP067",
-            "filename": "02887 DLC.zip",
-            "platform": "Sony PlayStation 3",
-            "name": "PlayStation 3",
+            "platform": "Sony PlayStation 3 PSN",
+            "name": "Vanilla",
             "emulator": "RPCS3",
-            "fileSize": "50MB",
-            "romFile": "NPUB30320/USRDIR/EBOOT.BIN"
+            "fileSize": "8GB",
+            "romFile": "NPUB30320/USRDIR/EBOOT.BIN",
+            "filename": "02887 DLC.zip"
           }
         ]
       }
