@@ -144753,5 +144753,75 @@
       }
     },
     "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787844114334_0",
+    "Name": "Way of the Hunter",
+    "MediaId": "004438",
+    "SortingName": "Way of the Hunter 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004438C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004438B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004438M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004438T.mp4",
+    "videoStart": 4.099999,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "23 GB",
+            "filename": "02908.zip",
+            "executable": "WayOfTheHunter.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787844114334_1",
+    "Name": "Way of the Hunter 2",
+    "MediaId": "004439",
+    "SortingName": "Way of the Hunter 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004439C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004439B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004439M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004439T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "16 GB",
+            "filename": "02909.zip",
+            "executable": "WOTH2.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
