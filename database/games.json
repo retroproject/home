@@ -144041,7 +144041,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787817651507_0",
@@ -144069,14 +144069,15 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "738 MB",
-            "filename": "02888.zip",
             "executable": "GoldenEye.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "Final",
+            "filename": "02888.zip"
           }
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787817666126_0",
@@ -144112,7 +144113,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787817666126_1",
@@ -144148,7 +144149,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787817685250_0",
@@ -144184,7 +144185,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787817705749_0",
@@ -144220,7 +144221,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787817705749_1",
@@ -144256,7 +144257,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787817705749_2",
@@ -144292,7 +144293,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787817705749_3",
@@ -144328,7 +144329,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787817705749_4",
@@ -144365,7 +144366,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787817727805_0",
@@ -144401,7 +144402,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787818140372_0",
@@ -144437,7 +144438,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787822687861_0",
@@ -144465,14 +144466,15 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "9 GB",
-            "filename": "02899.zip",
             "executable": "Bond.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "14 June 2016",
+            "filename": "02899.zip"
           }
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787822687861_1",
@@ -144500,14 +144502,15 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "9 GB",
-            "filename": "02900.zip",
             "executable": "Bond2012PC.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "Final",
+            "filename": "02900.zip"
           }
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787822687861_2",
@@ -144535,14 +144538,15 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "8 GB",
-            "filename": "02901.zip",
             "executable": "JB_Launcher_s.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "17 May 2016",
+            "filename": "02901.zip"
           }
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787824103869_0",
@@ -144570,14 +144574,15 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "4 GB",
-            "filename": "02902.zip",
             "executable": "FatalClaw.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "26 August 2026",
+            "filename": "02902.zip"
           }
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787824103869_1",
@@ -144605,14 +144610,15 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
-            "filename": "02903.zip",
             "executable": "Winquake.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "6 August 2026",
+            "filename": "02903.zip"
           }
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787824103869_2",
@@ -144640,14 +144646,15 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "3 GB",
-            "filename": "02904.zip",
             "executable": "Quake4.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "11 October 2016",
+            "filename": "02904.zip"
           }
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787824103869_3",
@@ -144675,14 +144682,15 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "2 GB",
-            "filename": "02905.zip",
             "executable": "q2rtx.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "26 March 2025",
+            "filename": "02905.zip"
           }
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787824103869_4",
@@ -144710,14 +144718,15 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "841 MB",
-            "filename": "02906.zip",
             "executable": "ioquake3.x86_64.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "23 April 2014",
+            "filename": "02906.zip"
           }
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787828785721_0",
@@ -144745,9 +144754,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "18 GB",
-            "filename": "02907.zip",
             "executable": "Guardians.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "14 November 2017",
+            "filename": "02907.zip"
           }
         ]
       }
@@ -144780,9 +144790,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "23 GB",
-            "filename": "02908.zip",
             "executable": "WayOfTheHunter.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "23 April 2026",
+            "filename": "02908.zip"
           }
         ]
       }
@@ -144815,9 +144826,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "16 GB",
-            "filename": "02909.zip",
             "executable": "WOTH2.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "13 August 2026",
+            "filename": "02909.zip"
           }
         ]
       }
@@ -144871,6 +144883,6 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   }
 ]
