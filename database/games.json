@@ -143619,26 +143619,16 @@
     "YouTubeUrl": "https://archive.org/download/RPRM002/004406T.mp4",
     "videoStart": 19.7,
     "videoEnd": 99.649268,
-    "PlatformNames": ["Arcade", "Sony PlayStation 3 PSN"],
+    "PlatformNames": ["Sony PlayStation 3 PSN"],
     "GenreNames": [],
     "DeveloperNames": [],
     "downloadInfo": {
-      "Cross-Platform": {
+      "Sony PlayStation 3 PSN": {
         "versions": [
-          {
-            "identifier": "RPRP000",
-            "name": "Arcade",
-            "platform": "Arcade",
-            "fileSize": "4 MB",
-            "arguments": [" -L", ".\\cores\\fbneo_libretro.dll"],
-            "emulator": "RetroArch",
-            "romFile": "xmen2pa.zip",
-            "filename": "xmen2pa.zip"
-          },
           {
             "identifier": "RPRP067",
             "platform": "Sony PlayStation 3 PSN",
-            "name": "PlayStation 3",
+            "name": "Vanilla",
             "emulator": "RPCS3",
             "fileSize": "8GB",
             "romFile": "NPUB30320/USRDIR/EBOOT.BIN",
