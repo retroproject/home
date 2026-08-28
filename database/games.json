@@ -5409,8 +5409,8 @@
             "executable": "DD2.exe",
             "fileSize": "63GB",
             "buildID": "9 April 2025",
-            "customSavePath": "userdata",
-            "filename": "02387.zip"
+            "filename": "02387.zip",
+            "customSavePaths": ["userdata"]
           }
         ]
       }
@@ -21439,9 +21439,9 @@
             "fileSize": "5GB",
             "executableFiles": ["launch.exe"],
             "buildID": "15 July 2026",
-            "customSavePath": "saves",
             "mods": ["Roses Are Red", "Full Script Revision", "Stardust Indicators"],
-            "filename": "02591.zip"
+            "filename": "02591.zip",
+            "customSavePaths": ["saves"]
           }
         ]
       }
@@ -23286,9 +23286,9 @@
             "executableFiles": ["SilentHillPC.exe", "SilentHillPC_Launcher.exe"],
             "executableLabels": ["Game", "Configure"],
             "buildID": "15 July 2026",
-            "customSavePath": "gamedata\\save",
             "mods": "HD Textures 2.0",
-            "filename": "02592.zip"
+            "filename": "02592.zip",
+            "customSavePaths": ["gamedata\\save"]
           }
         ]
       }
@@ -66638,8 +66638,8 @@
             "fileSize": "10GB",
             "buildID": "1.0.0",
             "executableFiles": ["dusk.exe"],
-            "customSavePath": "portable\\Dusk\\USA",
-            "filename": "01766.zip"
+            "filename": "01766.zip",
+            "customSavePaths": ["portable\\Dusk\\USA"]
           }
         ]
       }
@@ -119905,8 +119905,8 @@
             "arguments": [],
             "executable": "CodeVein2.exe",
             "buildID": "30 April 2026",
-            "customSavePath": "CodeVein2\\Binaries\\Win64\\userdata",
-            "filename": "00618.zip"
+            "filename": "00618.zip",
+            "customSavePaths": ["CodeVein2\\Binaries\\Win64\\userdata"]
           }
         ]
       }
@@ -124294,8 +124294,8 @@
             "executable": "re9.exe",
             "arguments": [],
             "buildID": "25 June 2026",
-            "customSavePath": "userdata",
-            "filename": "00523.zip"
+            "filename": "00523.zip",
+            "customSavePaths": ["userdata"]
           }
         ]
       }
@@ -124741,8 +124741,8 @@
             "executable": "ACShadows.exe",
             "arguments": [],
             "buildID": "16 June 2026",
-            "customSavePath": "userdata",
-            "filename": "00541.zip"
+            "filename": "00541.zip",
+            "customSavePaths": ["userdata"]
           }
         ]
       }
@@ -126775,8 +126775,8 @@
             "arguments": [],
             "buildID": "3 July 2026",
             "executable": "MONSTER_HUNTER_STORIES_3_TWISTED_REFLECTION.exe",
-            "customSavePath": "userdata",
-            "filename": "00603.zip"
+            "filename": "00603.zip",
+            "customSavePaths": ["userdata"]
           }
         ]
       }
@@ -126849,8 +126849,8 @@
             "executable": "bin64\\steamclient_loader_x64.exe",
             "arguments": [],
             "buildID": "4 July 2026",
-            "customSavePath": "bin64\\userdata",
-            "filename": "00605.zip"
+            "filename": "00605.zip",
+            "customSavePaths": ["bin64\\userdata"]
           }
         ]
       }
@@ -136372,9 +136372,9 @@
             "fileSize": "70GB",
             "executable": "ACBlackFlag.exe",
             "arguments": [],
-            "customSavePath": "saves",
             "buildID": "7 July 2026",
-            "filename": "02562.zip"
+            "filename": "02562.zip",
+            "customSavePaths": ["saves"]
           }
         ]
       }
@@ -144878,6 +144878,7 @@
             ],
             "arguments": [],
             "buildID": "26 August 2026",
+            "watchProcesses": ["Guns of the Patriots\\MGS4\\mgs4.exe", "Peace Walker\\mgspw\\METAL GEAR SOLID PEACE WALKER.exe"],
             "filename": "02910.zip"
           }
         ]
