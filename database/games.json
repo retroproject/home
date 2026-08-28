@@ -6579,21 +6579,22 @@
       "Sony PlayStation 2": {
         "versions": [
           {
-            "identifier": "retro-ps2",
-            "filename": "Ar Tonelico 2 Melody of Metafalica.iso",
-            "name": "Vanilla",
+            "identifier": "RPRP067",
+            "name": "Project Metafalica",
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
             "fileSize": "4GB",
-            "romFile": "Ar Tonelico 2 Melody of Metafalica.iso"
+            "romFile": "02914.iso",
+            "buildID": "0.9.2",
+            "filename": "02914.iso"
           },
           {
             "identifier": "retro-ps2",
-            "filename": "Ar Tonelico 2 Melody of Metafalica HD Textures.zip",
             "name": "HD Textures",
             "platform": "Sony PlayStation 2",
             "emulator": "PCSX2",
-            "fileSize": "3GB"
+            "fileSize": "3GB",
+            "filename": "Ar Tonelico 2 Melody of Metafalica HD Textures.zip"
           }
         ]
       }
@@ -27703,20 +27704,24 @@
     "YouTubeUrl": "",
     "videoStart": null,
     "videoEnd": null,
-    "PlatformNames": ["Sony PlayStation 3"],
+    "PlatformNames": ["PC Game"],
     "GenreNames": ["Stealth"],
     "DeveloperNames": ["Kojima Productions"],
     "downloadInfo": {
-      "Sony PlayStation 3": {
+      "PC Game": {
         "versions": [
           {
-            "identifier": "rpcs3-P3",
+            "identifier": "RPRP067",
             "name": "Vanilla",
-            "platform": "Sony PlayStation 3",
-            "emulator": "RPCS3",
-            "fileSize": "22GB",
-            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
-            "filename": "Metal Gear Solid 4 Guns of the Patriots.zip"
+            "platform": "PC Game",
+            "fileSize": "25GB",
+            "arguments": [],
+            "watchProcesses": ["MGS4\\mgs4.exe", "Launcher\\launcher.exe"],
+            "executableFiles": ["MGS4\\mgs4.exe", "Launcher\\launcher.exe"],
+            "executableLabels": ["Game", "Launcher"],
+            "buildID": "26 August 2026",
+            "customSavePaths": ["mgs4_savedata_win"],
+            "filename": "02912.zip"
           }
         ]
       }
@@ -51304,7 +51309,7 @@
             "identifier": "RPRP010",
             "name": "Vanilla",
             "platform": "PC Game",
-            "executable": "Disco Elysium.exe",
+            "executable": "disco.exe",
             "fileSize": "9GB",
             "buildID": "23 January 2026",
             "filename": "00301.zip"
@@ -68047,28 +68052,23 @@
     "YouTubeUrl": "",
     "videoStart": null,
     "videoEnd": null,
-    "PlatformNames": ["Sony PlayStation Portable"],
+    "PlatformNames": ["PC Game"],
     "GenreNames": ["Stealth"],
     "DeveloperNames": ["Kojima Productions"],
     "downloadInfo": {
-      "Sony PlayStation Portable": {
+      "PC Game": {
         "versions": [
           {
-            "identifier": "retro-psp",
-            "name": "Enhanced",
-            "platform": "Sony PlayStation Portable",
-            "emulator": "PPSSPP",
-            "fileSize": "2GB",
-            "romFile": "Metal Gear Solid Peace Walker.iso",
-            "filename": "Metal Gear Solid Peace Walker.iso"
-          },
-          {
-            "identifier": "retro-psp",
-            "name": "HD Textures",
-            "platform": "Sony PlayStation Portable",
-            "emulator": "PPSSPP",
-            "fileSize": "10MB",
-            "filename": "Metal Gear Solid Peace Walker HD Textures.zip"
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "20GB",
+            "arguments": [],
+            "executable": "launcher\\launcher.exe",
+            "watchProcesses": ["launcher\\launcher.exe", "mgspw\\METAL GEAR SOLID PEACE WALKER.exe"],
+            "buildID": "26 August 2026",
+            "customSavePaths": ["mgspw_savedata_win"],
+            "filename": "02913.zip"
           }
         ]
       }
@@ -144878,7 +144878,12 @@
             ],
             "arguments": [],
             "buildID": "26 August 2026",
-            "watchProcesses": ["Guns of the Patriots\\MGS4\\mgs4.exe", "Peace Walker\\mgspw\\METAL GEAR SOLID PEACE WALKER.exe"],
+            "watchProcesses": [
+              "Guns of the Patriots\\MGS4\\mgs4.exe",
+              "Peace Walker\\mgspw\\METAL GEAR SOLID PEACE WALKER.exe",
+              "Guns of the Patriots\\Launcher\\launcher.exe",
+              "Peace Walker\\launcher\\launcher.exe"
+            ],
             "filename": "02910.zip"
           }
         ]
