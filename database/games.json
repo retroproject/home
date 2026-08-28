@@ -144762,7 +144762,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787844114334_0",
@@ -144798,7 +144798,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787844114334_1",
@@ -144834,7 +144834,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787847255127_0",
@@ -144911,7 +144911,6 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "110 GB",
-            "filename": "02911.zip",
             "executableFiles": [
               "Metal Gear 1 and 2 Classic\\steamclient_loader.exe",
               "Metal Gear Solid 1\\steamclient_loader.exe",
@@ -144926,12 +144925,13 @@
               "Metal Gear Solid 3",
               "Bonus Content"
             ],
-            "executable": "Metal Gear 1 and 2 Classic\\steamclient_loader.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "13 February 2026",
+            "filename": "02911.zip"
           }
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   }
 ]
