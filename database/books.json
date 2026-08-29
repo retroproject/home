@@ -10765,5 +10765,26 @@
       "fileSize": "328 KB",
       "hasAudiobook": false
     }
+  },
+  {
+    "_id": "book_1787996874684_0",
+    "Title": "Reverend Insanity",
+    "MediaId": "004452",
+    "Series": "Reverend Insanity",
+    "SortingTitle": "Reverend Insanity 01",
+    "Author": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": "",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004452C.jpg",
+    "Genre": [],
+    "Tags": [],
+    "packageUrl": {
+      "identifier": "RBRB002",
+      "filename": "00482.zip",
+      "fileSize": "25 MB",
+      "hasAudiobook": false
+    }
   }
 ]
