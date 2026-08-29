@@ -145333,5 +145333,40 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1788006110976_0",
+    "Name": "Puppeteer",
+    "MediaId": "004454",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004454C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004454B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004454M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004454T.mp4",
+    "videoStart": 13.985199,
+    "videoEnd": 84.1,
+    "PlatformNames": ["Sony PlayStation 3"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "fileSize": "6 GB",
+            "filename": "02927.zip",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "emulator": "RPCS3",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
