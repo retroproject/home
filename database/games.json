@@ -145368,5 +145368,74 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1788025590265_0",
+    "Name": "Garden of Witches",
+    "MediaId": "004455",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004455C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004455B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004455M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004455T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "Garden of Witches.exe",
+            "arguments": [],
+            "buildID": "28 August 2026",
+            "filename": "02928.zip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1788028252093_0",
+    "Name": "Megaman Again",
+    "MediaId": "004456",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004456C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004456B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004456M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004456T.mp4",
+    "videoStart": 1.957087,
+    "videoEnd": 139.363972,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "62 MB",
+            "filename": "02929.zip",
+            "executable": "Game.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
