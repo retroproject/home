@@ -123667,22 +123667,22 @@
     "YouTubeUrl": "https://archive.org/download/RPRM002/003380T.mp4",
     "videoStart": 0,
     "videoEnd": 141.5,
-    "PlatformNames": ["Microsoft Xbox 360"],
+    "PlatformNames": ["PC Game"],
     "GenreNames": ["Japanese Role-Playing"],
     "DeveloperNames": ["Mistwalker"],
     "downloadInfo": {
-      "Microsoft Xbox 360": {
+      "PC Game": {
         "versions": [
           {
-            "identifier": "X01X01",
+            "identifier": "RPRP067",
             "name": "Vanilla",
-            "platform": "Microsoft Xbox 360",
-            "fileSize": "22 GB",
-            "filename": "Blue Dragon.zip",
-            "romFiles": ["Blue Dragon [Disc 1].iso", "Blue Dragon [Disc 2].iso", "Blue Dragon [Disc 3].iso"],
-            "romLabels": ["Disc 1", "Disc 2", "Disc 3"],
-            "emulator": "Xenia",
-            "arguments": []
+            "platform": "PC Game",
+            "fileSize": "15GB",
+            "arguments": [],
+            "customSavePaths": ["profiles"],
+            "buildID": "1.0.0",
+            "executable": "reblue.exe",
+            "filename": "02915.zip"
           }
         ]
       }
