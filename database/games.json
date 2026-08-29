@@ -144974,7 +144974,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787977083647_1",
@@ -145010,7 +145010,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787977097821_0",
@@ -145046,7 +145046,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787977097821_1",
@@ -145082,7 +145082,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787977120873_0",
@@ -145118,7 +145118,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787977479832_0",
@@ -145154,7 +145154,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787986613504_0",
@@ -145190,7 +145190,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787986735190_0",
@@ -145226,7 +145226,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787986942789_0",
@@ -145262,7 +145262,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1787994982867_0",
@@ -145297,6 +145297,41 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
+  },
+  {
+    "_id": "game_1787998478049_0",
+    "Name": "Fix It Felix Jr",
+    "MediaId": "004453",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004453C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004453B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004453M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004453T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Sega Genesis"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sega Genesis": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "Sega Genesis",
+            "fileSize": "588 KB",
+            "filename": "02926.md",
+            "romFile": "02926.md",
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\genesis_plus_gx_libretro.dll"]
+          }
+        ]
+      }
+    }
   }
 ]
