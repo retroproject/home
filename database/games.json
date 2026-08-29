@@ -144939,5 +144939,329 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1787977083647_0",
+    "Name": "Napple Tale Arsia in Daydream",
+    "MediaId": "004442",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004442C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004442B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004442M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004442T.mp4",
+    "videoStart": 0.896871,
+    "videoEnd": 0,
+    "PlatformNames": ["Sega Dreamcast"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sega Dreamcast": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "Sega Dreamcast",
+            "fileSize": "584 MB",
+            "filename": "02916.chd",
+            "romFile": "02916.chd",
+            "emulator": "Redream",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787977083647_1",
+    "Name": "Ultimate Fighting Championship",
+    "MediaId": "004443",
+    "SortingName": "UFC 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004443C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004443B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004443M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004443T.mp4",
+    "videoStart": 43.841413,
+    "videoEnd": 306.392546,
+    "PlatformNames": ["Sega Dreamcast"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sega Dreamcast": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "Sega Dreamcast",
+            "fileSize": "803 MB",
+            "filename": "02917.chd",
+            "romFile": "02917.chd",
+            "emulator": "Redream",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787977097821_0",
+    "Name": "UFC Tapout 2",
+    "MediaId": "004444",
+    "SortingName": "UFC 05",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004444C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004444B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004444M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004444T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Microsoft Xbox"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Microsoft Xbox": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "Microsoft Xbox",
+            "fileSize": "1 GB",
+            "filename": "02918.iso",
+            "romFile": "02918.iso",
+            "emulator": "Xemu",
+            "arguments": ["-dvd_path"]
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787977097821_1",
+    "Name": "UFC Tapout",
+    "MediaId": "004445",
+    "SortingName": "UFC 04",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004445C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004445B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004445M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004445T.mp4",
+    "videoStart": 9.555496,
+    "videoEnd": 82.292537,
+    "PlatformNames": ["Microsoft Xbox"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Microsoft Xbox": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "Microsoft Xbox",
+            "fileSize": "1 GB",
+            "filename": "02919.iso",
+            "romFile": "02919.iso",
+            "emulator": "Xemu",
+            "arguments": ["-dvd_path"]
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787977120873_0",
+    "Name": "UFC Throwdown",
+    "MediaId": "004446",
+    "SortingName": "UFC 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004446C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004446B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004446M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004446T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Nintendo GameCube"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo GameCube": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "Nintendo GameCube",
+            "fileSize": "880 MB",
+            "filename": "02920.rvz",
+            "romFile": "02920.rvz",
+            "emulator": "Dolphin",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787977479832_0",
+    "Name": "UFC Sudden Impact",
+    "MediaId": "004447",
+    "SortingName": "UFC 03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004447C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004447B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004447M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004447T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation 2"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "1 GB",
+            "romFile": "02921.chd",
+            "emulator": "PCSX2",
+            "arguments": [],
+            "filename": "02921.chd"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787986613504_0",
+    "Name": "UFC Undisputed 2010",
+    "MediaId": "004448",
+    "SortingName": "UFC 07",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004448C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004448B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004448M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004448T.mp4",
+    "videoStart": 4.718411,
+    "videoEnd": 64.014627,
+    "PlatformNames": ["Sony PlayStation 3"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "fileSize": "41 GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "emulator": "RPCS3",
+            "arguments": [],
+            "filenames": ["02922.zip", "02922 Update.zip"]
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787986735190_0",
+    "Name": "UFC Undisputed 3",
+    "MediaId": "004449",
+    "SortingName": "UFC 08",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004449C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004449B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004449M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004449T.mp4",
+    "videoStart": 4.329598,
+    "videoEnd": 68.749167,
+    "PlatformNames": ["Sony PlayStation 3"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "fileSize": "23 GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "emulator": "RPCS3",
+            "arguments": [],
+            "filenames": ["02923.zip", "02923 Update.zip"]
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787986942789_0",
+    "Name": "UFC 2009 Undisputed",
+    "MediaId": "004450",
+    "SortingName": "UFC 06",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004450C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004450B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004450M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004450T.mp4",
+    "videoStart": 22.673594,
+    "videoEnd": 0,
+    "PlatformNames": ["Sony PlayStation 3"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 3": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 3",
+            "fileSize": "7 GB",
+            "romFile": "PS3_GAME/USRDIR/EBOOT.BIN",
+            "emulator": "RPCS3",
+            "arguments": [],
+            "filenames": ["02924.zip", "02924 Update.zip"]
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
