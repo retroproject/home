@@ -145263,5 +145263,40 @@
       }
     },
     "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1787994982867_0",
+    "Name": "Captain Tsubasa 2 World Fighters",
+    "MediaId": "004451",
+    "SortingName": "Captain Tsubasa 03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004451C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004451B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004451M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004451T.mp4",
+    "videoStart": 10.263943,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "20 GB",
+            "filename": "02925.zip",
+            "executable": "CaptainTsubasa2WF\\Binaries\\Win64\\CaptainTsubasa2WF-Win64-Shipping.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
