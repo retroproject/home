@@ -77797,11 +77797,13 @@
         "versions": [
           {
             "identifier": "RPRP024",
-            "name": "Vanilla",
+            "name": "Collection",
             "platform": "PC Game",
-            "fileSize": "250MB",
+            "fileSize": "1GB",
             "arguments": [],
-            "executable": "Mega Man X8 16-bit 1.0.0.7.exe",
+            "executableFiles": ["Mega Man X8 16-bit 1.0.0.7.exe", "Rock Man X8 16-bit Touch Mod After 2.2.exe"],
+            "executableLabels": ["Vanilla", "Enhanced"],
+            "buildID": "Touch Mod After 2.2",
             "filename": "00835.zip"
           }
         ]
@@ -145432,6 +145434,111 @@
             "fileSize": "62 MB",
             "filename": "02929.zip",
             "executable": "Game.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1788070333387_0",
+    "Name": "ActRaiser",
+    "MediaId": "004457",
+    "SortingName": "ActRaiser 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004457C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004457B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004457M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004457T.mp4",
+    "videoStart": 3.1,
+    "videoEnd": 0,
+    "PlatformNames": ["Nintendo Super Entertainment System"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Super Entertainment System": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "Nintendo Super Entertainment System",
+            "fileSize": "2 MB",
+            "filename": "02930.zip",
+            "romFiles": ["R2.sfc", "R1.sfc"],
+            "romLabels": ["Vanilla", "Redone"],
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\snes9x_libretro.dll"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1788070333387_1",
+    "Name": "ActRaiser 2",
+    "MediaId": "004458",
+    "SortingName": "ActRaiser 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004458C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004458B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004458M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004458T.mp4",
+    "videoStart": 3.2,
+    "videoEnd": 0,
+    "PlatformNames": ["Nintendo Super Entertainment System"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Super Entertainment System": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "Nintendo Super Entertainment System",
+            "fileSize": "2 MB",
+            "filename": "02931.sfc",
+            "romFile": "02931.sfc",
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\snes9x_libretro.dll"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1788071464142_0",
+    "Name": "Actraiser Renaissance",
+    "MediaId": "004459",
+    "SortingName": "ActRaiser 03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004459C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004459B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004459M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004459T.mp4",
+    "videoStart": 5.9604,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "filename": "02932.zip",
+            "executable": "Actraiser Renaissance.exe",
             "arguments": []
           }
         ]
