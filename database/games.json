@@ -145544,5 +145544,180 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1788080809843_0",
+    "Name": "Monochrome Mobius Rights and Wrongs Forgotten",
+    "MediaId": "004460",
+    "SortingName": "Utawarerumono 04",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004460C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004460B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004460M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004460T.mp4",
+    "videoStart": 2.8,
+    "videoEnd": 85.036575,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "28 GB",
+            "filename": "02933.zip",
+            "executable": "MonochromeMobius Rights and Wrongs Forgotten.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1788080809844_1",
+    "Name": "Utawarerumono Mask of Deception",
+    "MediaId": "004461",
+    "SortingName": "Utawarerumono 02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004461C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004461B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004461M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004461T.mp4",
+    "videoStart": 8.7,
+    "videoEnd": 67.3114,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "filename": "02934.zip",
+            "executable": "Utawarerumono Mask of Deception.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1788080809844_2",
+    "Name": "Utawarerumono Mask of Truth",
+    "MediaId": "004462",
+    "SortingName": "Utawarerumono 03",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004462C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004462B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004462M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004462T.mp4",
+    "videoStart": 9.72662,
+    "videoEnd": 110.722893,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "6 GB",
+            "filename": "02935.zip",
+            "executable": "Utawarerumono Mask of Truth.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1788080809844_3",
+    "Name": "Utawarerumono Past and Present Rediscovered",
+    "MediaId": "004463",
+    "SortingName": "Utawarerumono 05",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004463C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004463B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004463M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004463T.mp4",
+    "videoStart": 4.186211,
+    "videoEnd": 142.500737,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "55 GB",
+            "filename": "02936.zip",
+            "executable": "Utawarerumono Past and Present Rediscovered.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1788080809844_4",
+    "Name": "Utawarerumono Prelude to the Fallen",
+    "MediaId": "004464",
+    "SortingName": "Utawarerumono 01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004464C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004464B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004464M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004464T.mp4",
+    "videoStart": 2.2,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "filename": "02937.zip",
+            "executable": "Utawarerumono Prelude to the Fallen.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
