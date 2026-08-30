@@ -145292,9 +145292,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "20 GB",
-            "filename": "02925.zip",
             "executable": "CaptainTsubasa2WF\\Binaries\\Win64\\CaptainTsubasa2WF-Win64-Shipping.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "27 August 2026",
+            "filename": "02925.zip"
           }
         ]
       }
@@ -145537,9 +145538,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "4 GB",
-            "filename": "02932.zip",
             "executable": "Actraiser Renaissance.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "9 October 2025",
+            "filename": "02932.zip"
           }
         ]
       }
@@ -145571,9 +145573,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "28 GB",
-            "filename": "02933.zip",
             "executable": "MonochromeMobius Rights and Wrongs Forgotten.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "10 April 2026",
+            "filename": "02933.zip"
           }
         ]
       }
@@ -145606,14 +145609,15 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "4 GB",
-            "filename": "02934.zip",
             "executable": "Utawarerumono Mask of Deception.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "22 January 2021",
+            "filename": "02934.zip"
           }
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1788080809844_2",
@@ -145641,14 +145645,15 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "6 GB",
-            "filename": "02935.zip",
             "executable": "Utawarerumono Mask of Truth.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "22 January 2021",
+            "filename": "02935.zip"
           }
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1788080809844_3",
@@ -145676,9 +145681,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "55 GB",
-            "filename": "02936.zip",
             "executable": "Utawarerumono Past and Present Rediscovered.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "19 June 2026",
+            "filename": "02936.zip"
           }
         ]
       }
@@ -145711,13 +145717,14 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "4 GB",
-            "filename": "02937.zip",
             "executable": "Utawarerumono Prelude to the Fallen.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "28 January 2021",
+            "filename": "02937.zip"
           }
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   }
 ]
