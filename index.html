@@ -772,6 +772,162 @@
             min-height: 220px;
         }
 
+        /* Payment method screen (card click → cards animate out together, this
+           animates in) — ported 1:1 from the Retro Project app. */
+        .subscription-tier-row .tier-card.sub-card-anim {
+            transition: transform 800ms cubic-bezier(0.23, 1, 0.32, 1), opacity 800ms cubic-bezier(0.23, 1, 0.32, 1);
+        }
+        .subscription-tier-row .tier-card.sub-card-out {
+            transform: translateY(40px) !important;
+            opacity: 0 !important;
+            pointer-events: none;
+        }
+        .sub-pay-screen {
+            flex-direction: column;
+            align-items: center;
+            gap: 1.4rem;
+            position: absolute;
+            left: 50px;
+            top: 385px;
+            width: 950px;
+            z-index: 3;
+            transition: transform 800ms cubic-bezier(0.23, 1, 0.32, 1), opacity 800ms cubic-bezier(0.23, 1, 0.32, 1);
+        }
+        body.arabic-mode .sub-pay-screen { left: auto; right: 50px; }
+        .sub-pay-screen.sub-enter { transform: translateY(30px); opacity: 0; pointer-events: none; }
+        .sub-pay-plan {
+            font-family: 'Orbitron', monospace; font-weight: 800; color: #b8860b;
+            letter-spacing: 1.5px; font-size: 1.4rem; text-transform: uppercase; text-align: center;
+            text-shadow: 0 0 10px rgba(184, 134, 11, 0.4);
+        }
+        body.arabic-mode .sub-pay-plan { font-family: 'Cairo', sans-serif; letter-spacing: 0; font-size: 1.5rem; }
+        .sub-pay-methods { display: flex; gap: 0.75rem; justify-content: center; }
+        .sub-pay-method {
+            position: relative;
+            flex: 0 0 96px;
+            height: 56px;
+            border: 2px solid rgba(184, 134, 11, 0.62);
+            border-radius: 8px;
+            background: rgba(0, 0, 0, 0.38);
+            display: inline-flex; align-items: center; justify-content: center;
+            cursor: pointer;
+            box-shadow: 0 0 16px rgba(184, 134, 11, 0.22);
+            overflow: hidden;
+            transition: border-color 0.25s ease, box-shadow 0.25s ease, opacity 0.25s ease;
+        }
+        .sub-pay-method::before {
+            content: '';
+            position: absolute;
+            top: -2px; left: 0; width: 100%; height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2) 20%, rgba(255, 255, 255, 0.5) 50%, rgba(255, 255, 255, 0.2) 80%, transparent);
+            transform: skewX(-25deg) translateX(-100%);
+            transition: none;
+            will-change: transform;
+            backface-visibility: hidden;
+            z-index: 2;
+        }
+        .sub-pay-method:hover { border-color: rgba(245, 214, 122, 0.95); box-shadow: 0 0 24px rgba(184, 134, 11, 0.42); }
+        .sub-pay-method:hover::before { transform: skewX(-25deg) translateX(200%); transition: transform 1s ease-out; }
+        .sub-pay-method.active { border-color: #f5d67a; box-shadow: 0 0 28px rgba(245, 214, 122, 0.55); }
+        .sub-pay-methods.has-selection .sub-pay-method:not(.active) { opacity: 0.5; }
+        .sub-pay-methods.has-selection .sub-pay-method:not(.active):hover { opacity: 1; }
+        .sub-pay-method img {
+            display: block; width: 38px; height: 38px; object-fit: cover;
+            border-radius: 6px; position: relative; z-index: 1;
+        }
+        .sub-pay-icon-fallback {
+            width: 38px; height: 38px; border-radius: 6px;
+            align-items: center; justify-content: center;
+            font-size: 0.6rem; font-weight: 800; display: flex; position: relative; z-index: 1;
+        }
+        .sub-bank-form {
+            display: flex; flex-direction: column; gap: 0.9rem; width: 100%; max-width: 520px;
+            transition: transform 800ms cubic-bezier(0.23, 1, 0.32, 1), opacity 800ms cubic-bezier(0.23, 1, 0.32, 1);
+        }
+        .sub-bank-form.sub-enter { transform: translateY(30px); opacity: 0; pointer-events: none; }
+        .sub-bank-iban {
+            display: flex; align-items: center; justify-content: space-between; gap: 0.8rem;
+            height: 56px; box-sizing: border-box;
+            border: 2px solid rgba(184, 134, 11, 0.42);
+            border-radius: 8px;
+            background: linear-gradient(145deg, rgba(10, 10, 10, 0.72), rgba(28, 28, 28, 0.42));
+            color: #f2f2f2; padding: 0 1.05rem; cursor: pointer;
+            font-family: monospace; font-size: 1.02rem; font-weight: 900; letter-spacing: 1px;
+            direction: ltr;
+            box-shadow: 0 0 22px rgba(184, 134, 11, 0.18);
+            transition: border-color 0.25s ease, box-shadow 0.25s ease;
+        }
+        #subBankIbanText { transition: opacity 200ms ease; }
+        .sub-bank-iban:hover { border-color: rgba(184, 134, 11, 0.95); box-shadow: 0 0 28px rgba(184, 134, 11, 0.38); }
+        .sub-bank-input {
+            height: 56px; box-sizing: border-box; width: 100%;
+            border: 2px solid rgba(184, 134, 11, 0.42);
+            border-radius: 8px;
+            background: linear-gradient(145deg, rgba(10, 10, 10, 0.72), rgba(28, 28, 28, 0.42));
+            color: #f2f2f2; font-size: 1rem; font-weight: 700;
+            padding: 0 1.05rem; outline: none;
+            box-shadow: 0 0 22px rgba(184, 134, 11, 0.18);
+            transition: border-color 0.25s ease, box-shadow 0.25s ease, background 0.25s ease;
+        }
+        body.arabic-mode .sub-bank-input { font-family: 'Cairo', sans-serif; direction: rtl; text-align: right; }
+        .sub-bank-input::placeholder { color: rgba(255, 255, 255, 0.42); font-weight: 400; }
+        .sub-bank-input:focus {
+            border-color: rgba(184, 134, 11, 0.95);
+            background: linear-gradient(145deg, rgba(12, 12, 12, 0.82), rgba(32, 28, 18, 0.52));
+            box-shadow: 0 0 28px rgba(184, 134, 11, 0.38);
+        }
+        .sub-bank-actions { display: flex; gap: 0.75rem; justify-content: center; }
+        .sub-bank-submit, .sub-bank-cancel {
+            position: relative; height: 48px; padding: 0 1.4rem;
+            border: 1px solid rgba(34, 197, 94, 0.62);
+            border-radius: 8px;
+            background: rgba(0, 0, 0, 0.38);
+            color: #5fd08a;
+            font-family: 'Orbitron', monospace; font-size: 0.72rem; font-weight: 800; letter-spacing: 1px;
+            cursor: pointer; overflow: hidden;
+            box-shadow: 0 0 16px rgba(34, 197, 94, 0.22);
+            transition: border-color 0.25s ease, box-shadow 0.25s ease, opacity 0.25s ease;
+        }
+        body.arabic-mode .sub-bank-submit, body.arabic-mode .sub-bank-cancel {
+            font-family: 'Cairo', sans-serif; letter-spacing: 0; font-size: 0.95rem;
+        }
+        .sub-bank-submit::before, .sub-bank-cancel::before {
+            content: '';
+            position: absolute;
+            top: -2px; left: 0; width: 100%; height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2) 20%, rgba(255, 255, 255, 0.5) 50%, rgba(255, 255, 255, 0.2) 80%, transparent);
+            transform: skewX(-25deg) translateX(-100%);
+            transition: none;
+            will-change: transform;
+            backface-visibility: hidden;
+        }
+        .sub-bank-submit:hover:not(:disabled)::before, .sub-bank-cancel:hover::before {
+            transform: skewX(-25deg) translateX(200%);
+            transition: transform 1s ease-out;
+        }
+        .sub-bank-submit:hover:not(:disabled) { border-color: rgba(95, 208, 138, 0.95); box-shadow: 0 0 24px rgba(34, 197, 94, 0.42); }
+        .sub-bank-submit:disabled { opacity: 0.46; cursor: default; box-shadow: none; }
+        .sub-bank-cancel {
+            border-color: rgba(220, 20, 60, 0.62);
+            color: #ff6a6a;
+            box-shadow: 0 0 16px rgba(220, 20, 60, 0.22);
+        }
+        .sub-bank-cancel:hover {
+            border-color: rgba(255, 106, 106, 0.95);
+            box-shadow: 0 0 24px rgba(220, 20, 60, 0.42);
+        }
+
+        @media (max-width: 1024px) {
+            .sub-pay-screen,
+            body.arabic-mode .sub-pay-screen {
+                left: 1rem;
+                right: 1rem;
+                width: calc(100% - 2rem);
+                top: 360px;
+                box-sizing: border-box;
+            }
+        }
+
         .subscription-email-panel {
             width: min(540px, 100%);
             margin-bottom: 0.15rem;
@@ -5686,69 +5842,80 @@
             <p class="subtitle" data-en="Subscription Tiers" data-ar="باقات الاشتراك">Subscription Tiers</p>
         </div>
 
-        <div class="main-content subscription-tier-layout">
-            <div class="subscription-email-panel">
-                <div class="subscription-email-control">
-                    <input type="email"
-                        class="subscription-email-input"
-                        id="subscriptionEmailInput"
-                        placeholder="Enter your email"
-                        data-placeholder-en="Enter your email"
-                        data-placeholder-ar="أدخل بريدك الإلكتروني"
-                        autocomplete="email"
-                        oninput="updatePayPalSubscribeState()"
-                        onkeydown="handleSubscriptionEmailKeydown(event)">
-                    <button type="button"
-                        class="subscription-paypal-btn"
-                        id="subscriptionPayPalButton"
-                        onclick="submitSelectedPayPalSubscription()"
-                        disabled>
-                        <img class="subscription-paypal-icon"
-                            src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg"
-                            alt="PayPal">
-                        <span class="subscription-paypal-spinner" aria-hidden="true"></span>
-                    </button>
+        <div id="subPayScreen" class="sub-pay-screen" style="display: none;">
+            <div class="sub-pay-plan" id="subPayPlanLabel"></div>
+            <div class="sub-pay-methods">
+                <button type="button" class="sub-pay-method" id="subPayMethodStc" title="STC Bank" onclick="subSelectBank('stc')">
+                    <img src="icons/stc-bank.jpg" alt="STC Bank"
+                         onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                    <span class="sub-pay-icon-fallback" style="display: none; background: #4F008C; color: #fff;">stc</span>
+                </button>
+                <button type="button" class="sub-pay-method" id="subPayMethodRajhi" title="Al Rajhi Bank" onclick="subSelectBank('rajhi')">
+                    <img src="icons/alrajhi-bank.jpg" alt="Al Rajhi Bank"
+                         onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                    <span class="sub-pay-icon-fallback" style="display: none; background: #fff; color: #221AFB;">Rajhi</span>
+                </button>
+                <button type="button" class="sub-pay-method" id="subPayMethodPaypal" title="PayPal" onclick="subPayWithPayPal()">
+                    <img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" alt="PayPal"
+                         onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                    <span class="sub-pay-icon-fallback" style="display: none; background: #fff; color: #003087;">PayPal</span>
+                </button>
+            </div>
+            <div id="subBankForm" class="sub-bank-form" style="display: none;">
+                <div class="sub-bank-iban" id="subBankIban" onclick="subCopyIban()" title="Click to copy IBAN">
+                    <span id="subBankIbanText"></span>
+                    <span>📋</span>
+                </div>
+                <input type="email" id="subBankEmail" class="sub-bank-input" placeholder="Account Email"
+                       data-placeholder-en="Account Email" data-placeholder-ar="البريد الإلكتروني"
+                       autocomplete="email" maxlength="120">
+                <input type="text" id="subBankReference" class="sub-bank-input" placeholder="Transfer Reference Number"
+                       data-placeholder-en="Transfer Reference Number" data-placeholder-ar="الرقم المرجعي"
+                       maxlength="64">
+                <div class="sub-bank-actions">
+                    <button class="sub-bank-submit" id="subBankSubmit" onclick="subSubmitBankTransfer()"
+                            data-en="Submit" data-ar="إرسال">Submit</button>
+                    <button class="sub-bank-cancel" onclick="subPayBack()"
+                            data-en="Cancel" data-ar="إلغاء">Cancel</button>
                 </div>
             </div>
+        </div>
 
+        <div class="main-content subscription-tier-layout">
             <div class="monthly-tiers subscription-tier-row">
-                <div class="tier-card dante extended-plan paypal-plan-card" style="cursor: pointer;"
-                    data-paypal-plan="DARK_KNIGHT_MONTHLY"
-                    onclick="selectPayPalPlan('DARK_KNIGHT_MONTHLY')">
+                <div class="tier-card dante extended-plan" style="cursor: pointer;"
+                    onclick="subShowPayScreen('dark_knight')">
                         <h3 class="tier-name" data-en="Dark Knight" data-ar="الفارس المظلم">Dark Knight</h3>
                         <div class="tier-details">
-                            <div class="price" data-en="15 USD" data-ar="15 دولار">15 USD</div>
+                            <div class="price" data-en="55 SAR" data-ar="55 ريال">55 SAR</div>
                             <div class="duration-label" data-en="Month · 2 Devices" data-ar="شهر · جهازين">Month</div>
                         </div>
                     </div>
 
-                <div class="tier-card nero extended-plan paypal-plan-card" style="cursor: pointer;"
-                    data-paypal-plan="DEVIL_HUNTER_QUARTERLY"
-                    onclick="selectPayPalPlan('DEVIL_HUNTER_QUARTERLY')">
+                <div class="tier-card nero extended-plan" style="cursor: pointer;"
+                    onclick="subShowPayScreen('devil_hunter')">
                         <h3 class="tier-name" data-en="Devil Hunter" data-ar="صائد الشياطين">Devil Hunter</h3>
                         <div class="tier-details">
-                            <div class="price" data-en="30 USD" data-ar="30 دولار">30 USD</div>
+                            <div class="price" data-en="110 SAR" data-ar="110 ريال">110 SAR</div>
                             <div class="duration-label" data-en="3 Months · 2 Devices" data-ar="٣ أشهر · جهازين">3 Months</div>
                         </div>
                     </div>
             </div>
 
             <div class="multi-month-tiers subscription-tier-row subscription-tier-yearly">
-                <div class="tier-card premium extended-plan paypal-plan-card" style="cursor: pointer;"
-                    data-paypal-plan="DARK_SLAYER_YEARLY"
-                    onclick="selectPayPalPlan('DARK_SLAYER_YEARLY')">
+                <div class="tier-card premium extended-plan" style="cursor: pointer;"
+                    onclick="subShowPayScreen('dark_slayer')">
                         <h3 class="tier-name" data-en="Dark Slayer" data-ar="قاتل الظلام">Dark Slayer</h3>
                         <div class="tier-details">
-                            <div class="price" data-en="100 USD" data-ar="100 دولار">100 USD</div>
+                            <div class="price" data-en="375 SAR" data-ar="375 ريال">375 SAR</div>
                             <div class="duration-label" data-en="Year · 2 Devices" data-ar="سنه · جهازين">Year</div>
                         </div>
                     </div>
-                <div class="tier-card sparda extended-plan paypal-plan-card" style="cursor: pointer;"
-                    data-paypal-plan="SON_OF_SPARDA_LIFETIME"
-                    onclick="selectPayPalPlan('SON_OF_SPARDA_LIFETIME')">
+                <div class="tier-card sparda extended-plan" style="cursor: pointer;"
+                    onclick="subShowPayScreen('son_of_sparda')">
                         <h3 class="tier-name" data-en="Son of Sparda" data-ar="ابن سباردا">Son of Sparda</h3>
                         <div class="tier-details">
-                            <div class="price" data-en="250 USD" data-ar="250 دولار">250 USD</div>
+                            <div class="price" data-en="900 SAR" data-ar="900 ريال">900 SAR</div>
                             <div class="duration-label" data-en="Lifetime · 2 Devices" data-ar="مدى الحياة · جهازين">Lifetime</div>
                         </div>
                     </div>
@@ -6562,6 +6729,232 @@
                 if (button) {
                     button.classList.remove('paypal-loading');
                     updatePayPalSubscribeState();
+                }
+            }
+        }
+
+        // ── Subscribe payment screen: card click → payment method choice ──
+        // Ported 1:1 from the Retro Project app; PayPal keeps the site's
+        // checkout, STC/Rajhi collect a bank-transfer claim.
+        const SUB_PLANS = {
+            dark_knight:   { labelEn: 'Dark Knight',   labelAr: 'الفارس المظلم', sar: 55,  paypal: 'DARK_KNIGHT_MONTHLY' },
+            devil_hunter:  { labelEn: 'Devil Hunter',  labelAr: 'صائد الشياطين', sar: 110, paypal: 'DEVIL_HUNTER_QUARTERLY' },
+            dark_slayer:   { labelEn: 'Dark Slayer',   labelAr: 'قاتل الظلام',   sar: 375, paypal: 'DARK_SLAYER_YEARLY' },
+            son_of_sparda: { labelEn: 'Son of Sparda', labelAr: 'ابن سباردا',    sar: 900, paypal: 'SON_OF_SPARDA_LIFETIME' }
+        };
+        const SUB_BANK_IBANS = {
+            stc:   { display: 'SA96 7800 0000 0013 2293 2703', copy: 'SA9678000000001322932703' },
+            rajhi: { display: 'SA50 8000 0111 6080 1068 5796', copy: 'SA5080000111608010685796' }
+        };
+        let _subSelectedPlan = null;
+        let _subSelectedBank = null;
+        let _subPayAnimating = false;
+        let _subPaySession = 0;
+        let _subIbanSwapTimer = null;
+
+        function subIsArabic() {
+            return currentLanguage === 'ar' || document.body.classList.contains('arabic-mode');
+        }
+
+        function subTierCards() {
+            return Array.from(document.querySelectorAll('#main-section .subscription-tier-row .tier-card'));
+        }
+
+        function subShowPayScreen(planKey) {
+            if (_subPayAnimating || !SUB_PLANS[planKey]) return;
+            _subPayAnimating = true;
+            _subPaySession++;
+            _subSelectedPlan = planKey;
+            subTierCards().forEach(card => {
+                card.classList.add('sub-card-anim');
+                card.classList.add('sub-card-out');
+            });
+            const plan = SUB_PLANS[planKey];
+            const label = document.getElementById('subPayPlanLabel');
+            if (label) {
+                label.setAttribute('data-en', `${plan.labelEn} — ${plan.sar} SAR`);
+                label.setAttribute('data-ar', `${plan.labelAr} — ${plan.sar} ريال`);
+                label.textContent = subIsArabic()
+                    ? `${plan.labelAr} — ${plan.sar} ريال`
+                    : `${plan.labelEn} — ${plan.sar} SAR`;
+            }
+            setTimeout(() => {
+                document.querySelectorAll('#main-section .subscription-tier-row')
+                    .forEach(row => row.style.display = 'none');
+                const screen = document.getElementById('subPayScreen');
+                if (!screen) { _subPayAnimating = false; return; }
+                // STC Bank is selected and open by default.
+                _subSelectedBank = 'stc';
+                document.getElementById('subPayMethodStc')?.classList.add('active');
+                document.getElementById('subPayMethodRajhi')?.classList.remove('active');
+                document.querySelector('#subPayScreen .sub-pay-methods')?.classList.add('has-selection');
+                const ibanText = document.getElementById('subBankIbanText');
+                if (ibanText) { ibanText.textContent = SUB_BANK_IBANS.stc.display; ibanText.style.opacity = '1'; }
+                const form = document.getElementById('subBankForm');
+                if (form) { form.style.display = 'flex'; form.classList.remove('sub-enter'); }
+                const refInput = document.getElementById('subBankReference');
+                if (refInput) refInput.value = '';
+                screen.classList.add('sub-enter');
+                screen.style.display = 'flex';
+                requestAnimationFrame(() => requestAnimationFrame(() => screen.classList.remove('sub-enter')));
+                setTimeout(() => { _subPayAnimating = false; }, 820);
+            }, 810);
+        }
+
+        function subPayBack() {
+            if (_subPayAnimating) return;
+            const screen = document.getElementById('subPayScreen');
+            if (!screen || screen.style.display === 'none') return;
+            _subPayAnimating = true;
+            _subPaySession++;
+            screen.classList.add('sub-enter');
+            setTimeout(() => {
+                screen.style.display = 'none';
+                screen.classList.remove('sub-enter');
+                document.querySelectorAll('#main-section .subscription-tier-row')
+                    .forEach(row => row.style.display = 'flex');
+                const cards = subTierCards();
+                void document.body.offsetHeight;
+                requestAnimationFrame(() => requestAnimationFrame(() => {
+                    cards.forEach(card => card.classList.remove('sub-card-out'));
+                }));
+                setTimeout(() => {
+                    cards.forEach(card => card.classList.remove('sub-card-anim'));
+                    _subPayAnimating = false;
+                }, 860);
+            }, 810);
+        }
+
+        function subSelectBank(bank) {
+            if (!SUB_BANK_IBANS[bank] || _subPayAnimating) return;
+            document.getElementById('subPayMethodStc')?.classList.toggle('active', bank === 'stc');
+            document.getElementById('subPayMethodRajhi')?.classList.toggle('active', bank === 'rajhi');
+            document.querySelector('#subPayScreen .sub-pay-methods')?.classList.add('has-selection');
+            const ibanText = document.getElementById('subBankIbanText');
+            if (_subIbanSwapTimer) { clearTimeout(_subIbanSwapTimer); _subIbanSwapTimer = null; }
+            if (_subSelectedBank && _subSelectedBank !== bank && ibanText) {
+                ibanText.style.opacity = '0';
+                _subIbanSwapTimer = setTimeout(() => {
+                    _subIbanSwapTimer = null;
+                    ibanText.textContent = SUB_BANK_IBANS[bank].display;
+                    ibanText.style.opacity = '1';
+                }, 200);
+            } else if (ibanText) {
+                ibanText.textContent = SUB_BANK_IBANS[bank].display;
+                ibanText.style.opacity = '1';
+            }
+            _subSelectedBank = bank;
+            const form = document.getElementById('subBankForm');
+            if (form && form.style.display === 'none') {
+                form.classList.add('sub-enter');
+                form.style.display = 'flex';
+                requestAnimationFrame(() => requestAnimationFrame(() => form.classList.remove('sub-enter')));
+            }
+        }
+
+        async function subPayWithPayPal() {
+            const plan = SUB_PLANS[_subSelectedPlan];
+            if (!plan || _subPayAnimating) return;
+            const email = document.getElementById('subBankEmail')?.value.trim() || '';
+            if (!isValidSubscriptionEmail(email)) {
+                showErrorToast(subIsArabic() ? 'أدخل بريد حسابك في ريترو بروجكت.' : 'Please enter your Retro Project account email.');
+                document.getElementById('subBankEmail')?.focus();
+                return;
+            }
+            const button = document.getElementById('subPayMethodPaypal');
+            if (button?.disabled) return;
+            try {
+                if (button) { button.disabled = true; button.style.opacity = '0.5'; }
+                const isLifetime = plan.paypal === PAYPAL_LIFETIME_PLAN_KEY;
+                const endpoint = isLifetime ? 'create-paypal-lifetime-order' : 'create-paypal-subscription';
+                const payload = isLifetime
+                    ? { email }
+                    : { plan_id: PAYPAL_SUBSCRIPTION_PLANS[plan.paypal], email };
+                const resp = await fetch(`${SUPABASE_URL}/functions/v1/${endpoint}`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'apikey': SUPABASE_ANON_KEY,
+                        'Authorization': `Bearer ${SUPABASE_ANON_KEY}`
+                    },
+                    body: JSON.stringify(payload)
+                });
+                if (!resp.ok) throw new Error(`${endpoint} ${resp.status}`);
+                const data = await resp.json();
+                if (!data.approval_url) throw new Error('No approval_url in response');
+                window.location.assign(data.approval_url);
+            } catch (error) {
+                console.error('PayPal checkout failed:', error);
+                showErrorToast(subIsArabic() ? 'تعذر فتح باي بال. حاول مرة أخرى.' : 'Could not start PayPal checkout. Please try again.');
+            } finally {
+                if (button) { button.disabled = false; button.style.opacity = ''; }
+            }
+        }
+
+        function subCopyIban() {
+            if (!_subSelectedBank) return;
+            navigator.clipboard.writeText(SUB_BANK_IBANS[_subSelectedBank].copy)
+                .then(() => showToast(subIsArabic() ? 'تم نسخ الآيبان' : 'IBAN copied', 'success'))
+                .catch(() => showErrorToast(subIsArabic() ? 'تعذر نسخ الآيبان' : 'Could not copy IBAN'));
+        }
+
+        async function subSubmitBankTransfer() {
+            const plan = SUB_PLANS[_subSelectedPlan];
+            const bank = _subSelectedBank;
+            if (!plan || !bank || _subPayAnimating) return;
+            const email = document.getElementById('subBankEmail')?.value.trim() || '';
+            const reference = document.getElementById('subBankReference')?.value.trim() || '';
+            if (!isValidSubscriptionEmail(email)) {
+                showErrorToast(subIsArabic() ? 'أدخل بريد حسابك في ريترو بروجكت.' : 'Please enter your Retro Project account email.');
+                return;
+            }
+            if (reference.length < 4) {
+                showErrorToast(subIsArabic() ? 'أدخل الرقم المرجعي من إيصال التحويل.' : 'Enter the transfer reference number from your receipt.');
+                return;
+            }
+            const submitBtn = document.getElementById('subBankSubmit');
+            if (submitBtn?.disabled) return;
+            const requestSession = _subPaySession;
+            const controller = new AbortController();
+            const timeoutId = setTimeout(() => controller.abort(), 20000);
+            try {
+                if (submitBtn) {
+                    submitBtn.disabled = true;
+                    submitBtn.textContent = subIsArabic() ? 'جارٍ الإرسال…' : 'Submitting…';
+                }
+                const resp = await fetch(`${SUPABASE_URL}/functions/v1/submit-bank-transfer-web`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'apikey': SUPABASE_ANON_KEY,
+                        'Authorization': `Bearer ${SUPABASE_ANON_KEY}`
+                    },
+                    body: JSON.stringify({ bank, plan: _subSelectedPlan, reference, email }),
+                    signal: controller.signal
+                });
+                const data = await resp.json().catch(() => ({}));
+                if (!resp.ok || !data.success) {
+                    const code = data.error || '';
+                    const message = code === 'duplicate'
+                        ? (subIsArabic() ? 'هذا الرقم المرجعي تم إرساله من قبل.' : 'This reference number was already submitted.')
+                        : code === 'rate_limited'
+                            ? (subIsArabic() ? 'محاولات كثيرة — انتظر مراجعة الطلبات السابقة.' : 'Too many pending submissions — wait for review.')
+                            : (subIsArabic() ? 'تعذر الإرسال — حاول مرة أخرى.' : 'Could not submit — try again.');
+                    showErrorToast(message);
+                    return;
+                }
+                showToast(subIsArabic()
+                    ? 'تم الإرسال — سيتم تفعيل اشتراكك بعد التحقق من التحويل'
+                    : 'Transfer submitted — activated after verification', 'success');
+                if (requestSession === _subPaySession) subPayBack();
+            } catch (error) {
+                console.error('Bank transfer submit failed:', error);
+                showErrorToast(subIsArabic() ? 'تعذر الإرسال — حاول مرة أخرى.' : 'Could not submit — try again.');
+            } finally {
+                clearTimeout(timeoutId);
+                if (submitBtn) {
+                    submitBtn.disabled = false;
+                    submitBtn.textContent = subIsArabic() ? 'إرسال' : 'Submit';
                 }
             }
         }
