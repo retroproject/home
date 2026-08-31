@@ -131954,7 +131954,7 @@
             "fileSize": "3 GB",
             "executable": "TheSpellBrigade.exe",
             "arguments": [],
-            "buildID": "6 May 2026",
+            "buildID": "8 July 2026",
             "filename": "01756.zip"
           }
         ]
@@ -145726,5 +145726,74 @@
       }
     },
     "Tags": []
+  },
+  {
+    "_id": "game_1788132911266_0",
+    "Name": "Kill The Shadow",
+    "MediaId": "004465",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004465C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004465B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004465M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004465T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "3 GB",
+            "filename": "02938.zip",
+            "executable": "KillTheShadow.exe",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Need Music"]
+  },
+  {
+    "_id": "game_1788157247093_0",
+    "Name": "Chameleon",
+    "MediaId": "004466",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004466C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004466B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004466M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004466T.mp4",
+    "videoStart": 5,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "1 GB",
+            "filename": "02939.zip",
+            "executable": "Chameleon_Steam.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
