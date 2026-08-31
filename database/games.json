@@ -145797,5 +145797,41 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1788167856394_0",
+    "Name": "Mystic Ark",
+    "MediaId": "004467",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004467C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004467B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004467M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004467T.mp4",
+    "videoStart": 20.332761,
+    "videoEnd": 0,
+    "PlatformNames": ["Nintendo Super Entertainment System"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Super Entertainment System": {
+        "versions": [
+          {
+            "identifier": "RPRP067",
+            "name": "Vanilla",
+            "platform": "Nintendo Super Entertainment System",
+            "fileSize": "8 MB",
+            "filename": "02940.zip",
+            "romFiles": ["R2.sfc", "R1.sfc"],
+            "romLabels": ["Faithful Translation", "Expressive Translation"],
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\snes9x_libretro.dll"]
+          }
+        ]
+      }
+    }
   }
 ]
