@@ -145753,9 +145753,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "3 GB",
-            "filename": "02938.zip",
             "executable": "KillTheShadow.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "25 August 2026",
+            "filename": "02938.zip"
           }
         ]
       }
@@ -145788,9 +145789,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "1 GB",
-            "filename": "02939.zip",
             "executable": "Chameleon_Steam.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "8 July 2021",
+            "filename": "02939.zip"
           }
         ]
       }
