@@ -960,8 +960,6 @@
            Gold = the tier price gold (#b8860b). Cinema = the Dark Slayer blue (#4682b4).
            Text = Retro Manager toggle look (Orbitron, bold, 1rem). */
         .sub-pay-method.sub-method-disabled { opacity: 0.28 !important; cursor: default; filter: grayscale(1); pointer-events: none; }
-        .sub-pay-plan .sub-title-4k { color: #4682b4; text-shadow: 0 0 10px rgba(70, 130, 180, 0.45); }
-        .sub-pay-plan.sub-title-only { color: #4682b4; text-shadow: 0 0 10px rgba(70, 130, 180, 0.45); }
         .sub-addon-card {
             width: 100%; max-width: 520px; box-sizing: border-box;
             border: 2px solid rgba(70, 130, 180, 0.55); border-radius: 8px;
@@ -1005,37 +1003,6 @@
             color: #4682b4; white-space: nowrap; text-shadow: 0 0 8px rgba(70, 130, 180, 0.35);
         }
         body.arabic-mode .sub-addon-label, body.arabic-mode .sub-addon-price { font-family: 'Cairo', sans-serif; }
-        .sub-amount-card {
-            width: 100%; max-width: 520px; box-sizing: border-box;
-            border: 2px solid rgba(184, 134, 11, 0.42); border-radius: 8px;
-            background: linear-gradient(145deg, rgba(10, 10, 10, 0.72), rgba(28, 28, 28, 0.42));
-            box-shadow: 0 0 22px rgba(184, 134, 11, 0.18);
-            padding: 0.8rem 1.05rem 0.85rem; display: flex; flex-direction: column; gap: 0.4rem;
-        }
-        .sub-amount-title {
-            font-family: 'Orbitron', monospace; font-size: 1.1rem; font-weight: 600;
-            color: #b8860b; margin-bottom: 0.25rem; text-shadow: 0 0 10px rgba(184, 134, 11, 0.4);
-        }
-        body.arabic-mode .sub-amount-title { font-family: 'Cairo', sans-serif; }
-        .sub-amount-row {
-            display: flex; justify-content: space-between; align-items: baseline; gap: 1rem;
-            font-family: 'Orbitron', monospace; font-size: 1rem; font-weight: bold;
-            color: rgba(255, 255, 255, 0.8);
-            transition: opacity 300ms ease, color 300ms ease;
-        }
-        .sub-amount-row .sub-amount-value { white-space: nowrap; }
-        .sub-amount-row.sub-amount-struck { opacity: 0.4; }
-        .sub-amount-row.sub-amount-struck > span { text-decoration: line-through; }
-        .sub-amount-addon { overflow: hidden; max-height: 0; opacity: 0; margin-top: -0.4rem; transition: max-height 350ms ease, opacity 350ms ease, margin-top 350ms ease; }
-        .sub-amount-addon.visible { max-height: 36px; opacity: 1; margin-top: 0; }
-        .sub-amount-addon, .sub-amount-addon .sub-amount-value { color: #4682b4; text-shadow: 0 0 8px rgba(70, 130, 180, 0.35); }
-        .sub-amount-divider { height: 1px; background: rgba(184, 134, 11, 0.45); margin: 0.3rem 0; }
-        .sub-amount-total { font-size: 1.1rem; color: #b8860b; }
-        .sub-amount-total .sub-amount-value {
-            font-size: 1.5rem; font-weight: 900; color: #b8860b;
-            text-shadow: 0 0 15px rgba(184, 134, 11, 0.5);
-        }
-        body.arabic-mode .sub-amount-row, body.arabic-mode .sub-amount-total .sub-amount-value { font-family: 'Cairo', sans-serif; }
         .sub-addon-link-row { justify-content: center !important; margin-top: -0.4rem; }
         .sub-addon-link {
             cursor: pointer; font-family: 'Orbitron', monospace; font-size: 1.3rem; font-weight: 900;
@@ -6024,22 +5991,6 @@
                     <span class="sub-addon-price" data-en="100 SAR / year" data-ar="100 ريال / سنة">100 SAR / year</span>
                 </button>
             </div>
-            <div id="subAmountCard" class="sub-amount-card">
-                <div class="sub-amount-title" data-en="Amount to pay" data-ar="المبلغ المطلوب">Amount to pay</div>
-                <div class="sub-amount-row" id="subAmountPlanRow">
-                    <span id="subAmountPlanLabel"></span>
-                    <span class="sub-amount-value" id="subAmountPlanValue"></span>
-                </div>
-                <div class="sub-amount-row sub-amount-addon" id="subAmountAddonRow">
-                    <span data-en="4K Cinema Fast Streaming · Year" data-ar="بث سينما 4K سريع · سنة">4K Cinema Fast Streaming · Year</span>
-                    <span class="sub-amount-value" id="subAmountAddonValue"></span>
-                </div>
-                <div class="sub-amount-divider"></div>
-                <div class="sub-amount-row sub-amount-total">
-                    <span data-en="Total" data-ar="المجموع">Total</span>
-                    <span class="sub-amount-value" id="subAmountTotal"></span>
-                </div>
-            </div>
             <div id="subBankForm" class="sub-bank-form" style="display: none;">
                 <div class="sub-bank-iban" id="subBankIban" onclick="subCopyIban()" title="Click to copy IBAN">
                     <span id="subBankIbanText"></span>
@@ -6989,18 +6940,12 @@
 
             // Title: cinema part is purple; "only" makes the whole title purple.
             const label = document.getElementById('subPayPlanLabel');
-            if (label) {
-                label.classList.toggle('sub-title-only', mode === 'only');
-                if (mode === 'only') {
-                    subSetBilingual(label, `${SUB_ADDON.labelEn} — ${total} SAR`, `${SUB_ADDON.labelAr} — ${total} ريال`);
-                } else if (mode === 'add' && plan) {
-                    subSetBilingual(label, `${plan.labelEn} + ${SUB_ADDON.labelEn} — ${total} SAR`, `${plan.labelAr} + ${SUB_ADDON.labelAr} — ${total} ريال`);
-                    label.innerHTML = subIsArabic()
-                        ? `${plan.labelAr} <span class="sub-title-4k">+ ${SUB_ADDON.labelAr}</span> — ${total} ريال`
-                        : `${plan.labelEn} <span class="sub-title-4k">+ ${SUB_ADDON.labelEn}</span> — ${total} SAR`;
-                } else if (plan) {
-                    subSetBilingual(label, `${plan.labelEn} — ${plan.sar} SAR`, `${plan.labelAr} — ${plan.sar} ريال`);
-                }
+            if (mode === 'only') {
+                subSetBilingual(label, `${SUB_ADDON.labelEn} — ${total} SAR`, `${SUB_ADDON.labelAr} — ${total} ريال`);
+            } else if (mode === 'add' && plan) {
+                subSetBilingual(label, `${plan.labelEn} + ${SUB_ADDON.labelEn} — ${total} SAR`, `${plan.labelAr} + ${SUB_ADDON.labelAr} — ${total} ريال`);
+            } else if (plan) {
+                subSetBilingual(label, `${plan.labelEn} — ${plan.sar} SAR`, `${plan.labelAr} — ${plan.sar} ريال`);
             }
 
             // "Add" needs a base plan to add to; "Only" is always offered.
@@ -7008,24 +6953,6 @@
             const onlyBtn = document.getElementById('subAddonOnly');
             if (addBtn) { addBtn.style.display = plan ? 'flex' : 'none'; addBtn.classList.toggle('active', mode === 'add'); }
             if (onlyBtn) onlyBtn.classList.toggle('active', mode === 'only');
-
-            const planRow = document.getElementById('subAmountPlanRow');
-            if (planRow) {
-                planRow.style.display = plan ? 'flex' : 'none';
-                planRow.classList.toggle('sub-amount-struck', mode === 'only');
-                if (plan) {
-                    subSetBilingual(document.getElementById('subAmountPlanLabel'), plan.labelEn, plan.labelAr);
-                    subSetBilingual(document.getElementById('subAmountPlanValue'), `${plan.sar} SAR`, `${plan.sar} ريال`);
-                }
-            }
-            const addonRow = document.getElementById('subAmountAddonRow');
-            if (addonRow) {
-                addonRow.classList.toggle('visible', !!mode);
-                subSetBilingual(document.getElementById('subAmountAddonValue'),
-                    mode === 'add' ? `+ ${SUB_ADDON.sar} SAR` : `${SUB_ADDON.sar} SAR`,
-                    mode === 'add' ? `+ ${SUB_ADDON.sar} ريال` : `${SUB_ADDON.sar} ريال`);
-            }
-            subSetBilingual(document.getElementById('subAmountTotal'), `${total} SAR`, `${total} ريال`);
 
             const submitBtn = document.getElementById('subBankSubmit');
             if (submitBtn && !submitBtn.disabled) {
