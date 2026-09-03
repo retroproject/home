@@ -876,6 +876,45 @@
             background: linear-gradient(145deg, rgba(12, 12, 12, 0.82), rgba(32, 28, 18, 0.52));
             box-shadow: 0 0 28px rgba(184, 134, 11, 0.38);
         }
+        .sub-bank-field { position: relative; width: 100%; }
+        .sub-bank-field .sub-bank-input { padding-right: 3rem; }
+        body.arabic-mode .sub-bank-field .sub-bank-input { padding-right: 1.05rem; padding-left: 3rem; }
+        .sub-bank-help {
+            position: absolute; top: 50%; right: 0.9rem; transform: translateY(-50%);
+            width: 26px; height: 26px; border-radius: 50%; box-sizing: border-box;
+            border: 2px solid rgba(184, 134, 11, 0.6); color: #b8860b;
+            font-family: 'Orbitron', monospace; font-size: 0.85rem; font-weight: 900; line-height: 22px; text-align: center;
+            cursor: help; user-select: none; outline: none;
+            box-shadow: 0 0 10px rgba(184, 134, 11, 0.25);
+            transition: border-color 0.25s ease, box-shadow 0.25s ease, color 0.25s ease;
+        }
+        body.arabic-mode .sub-bank-help { right: auto; left: 0.9rem; }
+        .sub-bank-help-glyph { display: inline-block; line-height: 22px; }
+        body.arabic-mode .sub-bank-help-glyph { font-family: 'Cairo', sans-serif; font-size: 1.05rem; font-weight: 900; line-height: 22px; }
+        .sub-bank-help:hover, .sub-bank-help:focus {
+            border-color: #b8860b; color: #d4a017;
+            box-shadow: 0 0 16px rgba(184, 134, 11, 0.5);
+        }
+        .sub-bank-help-tip {
+            position: absolute; bottom: calc(100% + 12px); right: -8px;
+            width: 320px; padding: 0.7rem 0.85rem; box-sizing: border-box;
+            border: 2px solid rgba(184, 134, 11, 0.6); border-radius: 8px;
+            background: linear-gradient(145deg, rgba(10, 10, 10, 0.97), rgba(28, 28, 28, 0.97));
+            color: rgba(255, 255, 255, 0.88); font-family: inherit;
+            font-size: 0.82rem; font-weight: 600; line-height: 1.45; text-align: left; cursor: default;
+            box-shadow: 0 8px 26px rgba(0, 0, 0, 0.55), 0 0 18px rgba(184, 134, 11, 0.25);
+            opacity: 0; visibility: hidden; transform: translateY(6px);
+            transition: opacity 200ms ease, transform 200ms ease, visibility 200ms;
+            z-index: 20;
+        }
+        .sub-bank-help-tip::after {
+            content: ''; position: absolute; top: 100%; right: 14px;
+            border: 7px solid transparent; border-top-color: rgba(184, 134, 11, 0.6);
+        }
+        body.arabic-mode .sub-bank-help-tip { text-align: right; direction: rtl; font-family: 'Cairo', sans-serif; font-size: 0.9rem; }
+        .sub-bank-help:hover .sub-bank-help-tip, .sub-bank-help:focus .sub-bank-help-tip {
+            opacity: 1; visibility: visible; transform: translateY(0);
+        }
         .sub-bank-actions { display: flex; gap: 0.75rem; justify-content: center; }
         .sub-bank-submit, .sub-bank-cancel {
             position: relative; height: 48px; padding: 0 1.4rem;
@@ -916,6 +955,117 @@
             border-color: rgba(255, 106, 106, 0.95);
             box-shadow: 0 0 24px rgba(220, 20, 60, 0.42);
         }
+
+        /* ── 4K Cinema Fast Streaming add-on (bank transfer only) ──
+           Gold = the tier price gold (#b8860b). Cinema = the Dark Slayer blue (#4682b4).
+           Text = Retro Manager toggle look (Orbitron, bold, 1rem). */
+        .sub-pay-method.sub-method-disabled { opacity: 0.28 !important; cursor: default; filter: grayscale(1); pointer-events: none; }
+        .sub-pay-plan .sub-title-4k { color: #4682b4; text-shadow: 0 0 10px rgba(70, 130, 180, 0.45); }
+        .sub-pay-plan.sub-title-only { color: #4682b4; text-shadow: 0 0 10px rgba(70, 130, 180, 0.45); }
+        .sub-addon-card {
+            width: 100%; max-width: 520px; box-sizing: border-box;
+            border: 2px solid rgba(70, 130, 180, 0.55); border-radius: 8px;
+            background: linear-gradient(145deg, rgba(10, 10, 10, 0.72), rgba(28, 28, 28, 0.42));
+            box-shadow: 0 0 22px rgba(70, 130, 180, 0.22);
+            padding: 0.8rem 0.9rem 0.7rem; display: flex; flex-direction: column; gap: 0.45rem;
+        }
+        .sub-addon-title {
+            font-family: 'Orbitron', monospace; font-size: 1.1rem; font-weight: 600;
+            color: #4682b4; text-align: center; margin-bottom: 0.3rem;
+            text-shadow: 0 0 10px rgba(70, 130, 180, 0.4);
+        }
+        body.arabic-mode .sub-addon-title { font-family: 'Cairo', sans-serif; }
+        .sub-addon-option {
+            display: flex; align-items: center; gap: 0.85rem; width: 100%;
+            height: 50px; padding: 0 0.9rem; box-sizing: border-box;
+            border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 6px;
+            background: rgba(0, 0, 0, 0.25); cursor: pointer; text-align: left;
+            transition: border-color 0.25s ease, background 0.25s ease, box-shadow 0.25s ease;
+        }
+        body.arabic-mode .sub-addon-option { text-align: right; direction: rtl; }
+        .sub-addon-option:hover { border-color: rgba(70, 130, 180, 0.6); background: rgba(70, 130, 180, 0.08); }
+        .sub-addon-option.active { border-color: #4682b4; background: rgba(70, 130, 180, 0.16); box-shadow: 0 0 18px rgba(70, 130, 180, 0.32); }
+        .sub-addon-radio {
+            flex: 0 0 16px; width: 16px; height: 16px; border-radius: 50%;
+            border: 2px solid rgba(70, 130, 180, 0.75); box-sizing: border-box; position: relative;
+            transition: border-color 0.25s ease;
+        }
+        .sub-addon-option.active .sub-addon-radio { border-color: #4682b4; }
+        .sub-addon-option.active .sub-addon-radio::after {
+            content: ''; position: absolute; inset: 2px; border-radius: 50%; background: #4682b4;
+            box-shadow: 0 0 8px rgba(70, 130, 180, 0.9);
+        }
+        .sub-addon-label {
+            flex: 1; font-family: 'Orbitron', monospace; font-size: 1rem; font-weight: bold;
+            color: rgba(255, 255, 255, 0.8); transition: color 0.3s ease;
+        }
+        .sub-addon-option:hover .sub-addon-label, .sub-addon-option.active .sub-addon-label { color: #ffffff; }
+        .sub-addon-price {
+            font-family: 'Orbitron', monospace; font-size: 0.95rem; font-weight: bold;
+            color: #4682b4; white-space: nowrap; text-shadow: 0 0 8px rgba(70, 130, 180, 0.35);
+        }
+        body.arabic-mode .sub-addon-label, body.arabic-mode .sub-addon-price { font-family: 'Cairo', sans-serif; }
+        .sub-amount-card {
+            width: 100%; max-width: 520px; box-sizing: border-box;
+            border: 2px solid rgba(184, 134, 11, 0.42); border-radius: 8px;
+            background: linear-gradient(145deg, rgba(10, 10, 10, 0.72), rgba(28, 28, 28, 0.42));
+            box-shadow: 0 0 22px rgba(184, 134, 11, 0.18);
+            padding: 0.8rem 1.05rem 0.85rem; display: flex; flex-direction: column; gap: 0.4rem;
+        }
+        .sub-amount-title {
+            font-family: 'Orbitron', monospace; font-size: 1.1rem; font-weight: 600;
+            color: #b8860b; margin-bottom: 0.25rem; text-shadow: 0 0 10px rgba(184, 134, 11, 0.4);
+        }
+        body.arabic-mode .sub-amount-title { font-family: 'Cairo', sans-serif; }
+        .sub-amount-row {
+            display: flex; justify-content: space-between; align-items: baseline; gap: 1rem;
+            font-family: 'Orbitron', monospace; font-size: 1rem; font-weight: bold;
+            color: rgba(255, 255, 255, 0.8);
+            transition: opacity 300ms ease, color 300ms ease;
+        }
+        .sub-amount-row .sub-amount-value { white-space: nowrap; }
+        .sub-amount-row.sub-amount-struck { opacity: 0.4; }
+        .sub-amount-row.sub-amount-struck > span { text-decoration: line-through; }
+        .sub-amount-addon { overflow: hidden; max-height: 0; opacity: 0; margin-top: -0.4rem; transition: max-height 350ms ease, opacity 350ms ease, margin-top 350ms ease; }
+        .sub-amount-addon.visible { max-height: 36px; opacity: 1; margin-top: 0; }
+        .sub-amount-addon, .sub-amount-addon .sub-amount-value { color: #4682b4; text-shadow: 0 0 8px rgba(70, 130, 180, 0.35); }
+        .sub-amount-divider { height: 1px; background: rgba(184, 134, 11, 0.45); margin: 0.3rem 0; }
+        .sub-amount-total { font-size: 1.1rem; color: #b8860b; }
+        .sub-amount-total .sub-amount-value {
+            font-size: 1.5rem; font-weight: 900; color: #b8860b;
+            text-shadow: 0 0 15px rgba(184, 134, 11, 0.5);
+        }
+        body.arabic-mode .sub-amount-row, body.arabic-mode .sub-amount-total .sub-amount-value { font-family: 'Cairo', sans-serif; }
+        .sub-addon-link-row { justify-content: center !important; margin-top: -0.4rem; }
+        .sub-addon-link {
+            cursor: pointer; font-family: 'Orbitron', monospace; font-size: 1.3rem; font-weight: 900;
+            letter-spacing: 0.5px; display: inline-flex; align-items: center;
+            color: #b8860b; padding: 0.5rem 1rem; border-radius: 6px;
+            text-shadow: 0 0 15px rgba(184, 134, 11, 0.5);
+            transition: color 0.25s ease, text-shadow 0.25s ease, background 0.25s ease;
+        }
+        .sub-addon-link .sub-addon-icon { width: 30px; height: 30px; margin-right: 0.6rem; filter: drop-shadow(0 0 6px rgba(184, 134, 11, 0.55)); }
+        body.arabic-mode .sub-addon-link .sub-addon-icon { margin-right: 0; margin-left: 0.6rem; }
+        body.arabic-mode .sub-addon-link { font-size: 1.45rem; letter-spacing: 0; }
+        .sub-addon-link:hover { color: #d4a017; text-shadow: 0 0 18px rgba(184, 134, 11, 0.7); background: rgba(184, 134, 11, 0.08); }
+        body.arabic-mode .sub-addon-link { font-family: 'Cairo', sans-serif; }
+        /* The 4K line leaves/returns with the same slide+fade as the tier cards */
+        .sub-addon-link.sub-card-anim {
+            transition: transform 800ms cubic-bezier(0.23, 1, 0.32, 1), opacity 800ms cubic-bezier(0.23, 1, 0.32, 1),
+                        color 0.25s ease, text-shadow 0.25s ease, background 0.25s ease;
+        }
+        .sub-addon-link.sub-card-out {
+            transform: translateY(40px) !important;
+            opacity: 0 !important;
+            pointer-events: none;
+        }
+
+        .sub-addon-icon {
+            width: 22px; height: 22px; object-fit: contain; vertical-align: middle;
+            margin-right: 0.45rem; filter: drop-shadow(0 0 6px rgba(70, 130, 180, 0.55));
+        }
+        body.arabic-mode .sub-addon-icon { margin-right: 0; margin-left: 0.45rem; }
+        .sub-addon-title .sub-addon-icon { width: 24px; height: 24px; }
 
         @media (max-width: 1024px) {
             .sub-pay-screen,
@@ -5861,17 +6011,60 @@
                     <span class="sub-pay-icon-fallback" style="display: none; background: #fff; color: #003087;">PayPal</span>
                 </button>
             </div>
+            <div id="subAddonCard" class="sub-addon-card">
+                <div class="sub-addon-title"><img class="sub-addon-icon" src="icons/cinema.png" alt=""><span data-en="4K Cinema Fast Streaming" data-ar="بث سينما 4K سريع">4K Cinema Fast Streaming</span></div>
+                <button type="button" class="sub-addon-option" id="subAddonAdd" onclick="subToggleAddon('add')">
+                    <span class="sub-addon-radio"></span>
+                    <span class="sub-addon-label" data-en="Add 4K Cinema Fast Streaming" data-ar="إضافة بث سينما 4K سريع">Add 4K Cinema Fast Streaming</span>
+                    <span class="sub-addon-price" data-en="+100 SAR / year" data-ar="+100 ريال / سنة">+100 SAR / year</span>
+                </button>
+                <button type="button" class="sub-addon-option" id="subAddonOnly" onclick="subToggleAddon('only')">
+                    <span class="sub-addon-radio"></span>
+                    <span class="sub-addon-label" data-en="Only 4K Cinema Fast Streaming" data-ar="بث سينما 4K سريع فقط">Only 4K Cinema Fast Streaming</span>
+                    <span class="sub-addon-price" data-en="100 SAR / year" data-ar="100 ريال / سنة">100 SAR / year</span>
+                </button>
+            </div>
+            <div id="subAmountCard" class="sub-amount-card">
+                <div class="sub-amount-title" data-en="Amount to pay" data-ar="المبلغ المطلوب">Amount to pay</div>
+                <div class="sub-amount-row" id="subAmountPlanRow">
+                    <span id="subAmountPlanLabel"></span>
+                    <span class="sub-amount-value" id="subAmountPlanValue"></span>
+                </div>
+                <div class="sub-amount-row sub-amount-addon" id="subAmountAddonRow">
+                    <span data-en="4K Cinema Fast Streaming · Year" data-ar="بث سينما 4K سريع · سنة">4K Cinema Fast Streaming · Year</span>
+                    <span class="sub-amount-value" id="subAmountAddonValue"></span>
+                </div>
+                <div class="sub-amount-divider"></div>
+                <div class="sub-amount-row sub-amount-total">
+                    <span data-en="Total" data-ar="المجموع">Total</span>
+                    <span class="sub-amount-value" id="subAmountTotal"></span>
+                </div>
+            </div>
             <div id="subBankForm" class="sub-bank-form" style="display: none;">
                 <div class="sub-bank-iban" id="subBankIban" onclick="subCopyIban()" title="Click to copy IBAN">
                     <span id="subBankIbanText"></span>
                     <span>📋</span>
                 </div>
-                <input type="email" id="subBankEmail" class="sub-bank-input" placeholder="Account Email"
-                       data-placeholder-en="Account Email" data-placeholder-ar="البريد الإلكتروني"
-                       autocomplete="email" maxlength="120">
-                <input type="text" id="subBankReference" class="sub-bank-input" placeholder="Transfer Reference Number"
-                       data-placeholder-en="Transfer Reference Number" data-placeholder-ar="الرقم المرجعي للحواله"
-                       maxlength="64">
+                <div class="sub-bank-field">
+                    <input type="email" id="subBankEmail" class="sub-bank-input" placeholder="Account Email"
+                           data-placeholder-en="Account Email" data-placeholder-ar="البريد الإلكتروني"
+                           autocomplete="email" maxlength="120">
+                    <span class="sub-bank-help" tabindex="0" aria-label="What is this?"><span class="sub-bank-help-glyph" data-en="?" data-ar="؟">?</span>
+                        <span class="sub-bank-help-tip"
+                              data-en="Enter the email you registered your Retro Project account with — the subscription is activated on that account."
+                              data-ar="أدخل البريد الإلكتروني الذي سجّلت به حسابك في تطبيق ريترو بروجكت — سيتم تفعيل الاشتراك على هذا الحساب.">Enter the email you registered your Retro Project account with — the subscription is activated on that account.</span>
+                    </span>
+                </div>
+                <div class="sub-bank-field">
+                    <input type="text" id="subBankReference" class="sub-bank-input" placeholder="Reference number from your bank receipt"
+                           data-placeholder-en="Reference number from your bank receipt" data-placeholder-ar="الرقم المرجعي من إيصال التحويل"
+                           maxlength="64">
+                    <span class="sub-bank-help" tabindex="0" aria-label="What is this?"><span class="sub-bank-help-glyph" data-en="?" data-ar="؟">?</span>
+                        <span class="sub-bank-help-tip"
+                              data-en="After you transfer, open the receipt in your bank app — the reference / transaction number is on it. Paste it here so we can find your payment."
+                              data-ar="بعد التحويل، افتح إيصال العملية في تطبيق البنك — ستجد فيه الرقم المرجعي / رقم العملية. الصقه هنا حتى نتمكن من العثور على دفعتك.">After you transfer, open the receipt in your bank app — the reference / transaction number is on it. Paste it here so we can find your payment.</span>
+                    </span>
+                </div>
                 <div class="sub-bank-actions">
                     <button class="sub-bank-submit" id="subBankSubmit" onclick="subSubmitBankTransfer()"
                             data-en="Submit" data-ar="إرسال">Submit</button>
@@ -5919,6 +6112,10 @@
                             <div class="duration-label" data-en="Lifetime · 2 Devices" data-ar="مدى الحياة · جهازين">Lifetime</div>
                         </div>
                     </div>
+            </div>
+
+            <div class="subscription-tier-row sub-addon-link-row">
+                <div class="sub-addon-link" onclick="subShowPayScreen(null, 'only')"><img class="sub-addon-icon" src="icons/cinema.png" alt=""><span data-en="4K Cinema Fast Streaming · 100 SAR / year" data-ar="بث سينما 4K سريع · 100 ريال / سنة">4K Cinema Fast Streaming · 100 SAR / year</span></div>
             </div>
 
         </div>
@@ -6746,6 +6943,9 @@
             stc:   { display: 'SA96 7800 0000 0013 2293 2703', copy: 'SA9678000000001322932703' },
             rajhi: { display: 'SA50 8000 0111 6080 1068 5796', copy: 'SA5080000111608010685796' }
         };
+        // 4K Cinema Fast Streaming add-on — bank transfer only (no PayPal plan).
+        const SUB_ADDON = { key: 'cinema4k', sar: 100, labelEn: '4K Cinema Fast Streaming', labelAr: 'بث سينما 4K سريع' };
+        let _subAddonMode = null; // null | 'add' | 'only'
         let _subSelectedPlan = null;
         let _subSelectedBank = null;
         let _subPayAnimating = false;
@@ -6757,27 +6957,113 @@
         }
 
         function subTierCards() {
-            return Array.from(document.querySelectorAll('#main-section .subscription-tier-row .tier-card'));
+            // Includes the 4K line under the grid so it leaves/returns with the cards.
+            return Array.from(document.querySelectorAll('#main-section .subscription-tier-row .tier-card, #main-section .sub-addon-link'));
         }
 
-        function subShowPayScreen(planKey) {
-            if (_subPayAnimating || !SUB_PLANS[planKey]) return;
+        function subSetBilingual(el, en, ar) {
+            if (!el) return;
+            el.setAttribute('data-en', en);
+            el.setAttribute('data-ar', ar);
+            el.textContent = subIsArabic() ? ar : en;
+        }
+
+        function subTotalSar() {
+            const plan = SUB_PLANS[_subSelectedPlan];
+            if (_subAddonMode === 'only') return SUB_ADDON.sar;
+            if (_subAddonMode === 'add') return (plan ? plan.sar : 0) + SUB_ADDON.sar;
+            return plan ? plan.sar : 0;
+        }
+
+        function subSubmitLabel() {
+            const total = subTotalSar();
+            return subIsArabic() ? `إرسال · ${total} ريال` : `Submit · ${total} SAR`;
+        }
+
+        // Re-paints title, add-on option states, amount card, IBAN transfer
+        // hint, submit label and PayPal availability from the current state.
+        function subRenderSummary() {
+            const plan = SUB_PLANS[_subSelectedPlan] || null;
+            const mode = _subAddonMode;
+            const total = subTotalSar();
+
+            // Title: cinema part is purple; "only" makes the whole title purple.
+            const label = document.getElementById('subPayPlanLabel');
+            if (label) {
+                label.classList.toggle('sub-title-only', mode === 'only');
+                if (mode === 'only') {
+                    subSetBilingual(label, `${SUB_ADDON.labelEn} — ${total} SAR`, `${SUB_ADDON.labelAr} — ${total} ريال`);
+                } else if (mode === 'add' && plan) {
+                    subSetBilingual(label, `${plan.labelEn} + ${SUB_ADDON.labelEn} — ${total} SAR`, `${plan.labelAr} + ${SUB_ADDON.labelAr} — ${total} ريال`);
+                    label.innerHTML = subIsArabic()
+                        ? `${plan.labelAr} <span class="sub-title-4k">+ ${SUB_ADDON.labelAr}</span> — ${total} ريال`
+                        : `${plan.labelEn} <span class="sub-title-4k">+ ${SUB_ADDON.labelEn}</span> — ${total} SAR`;
+                } else if (plan) {
+                    subSetBilingual(label, `${plan.labelEn} — ${plan.sar} SAR`, `${plan.labelAr} — ${plan.sar} ريال`);
+                }
+            }
+
+            // "Add" needs a base plan to add to; "Only" is always offered.
+            const addBtn = document.getElementById('subAddonAdd');
+            const onlyBtn = document.getElementById('subAddonOnly');
+            if (addBtn) { addBtn.style.display = plan ? 'flex' : 'none'; addBtn.classList.toggle('active', mode === 'add'); }
+            if (onlyBtn) onlyBtn.classList.toggle('active', mode === 'only');
+
+            const planRow = document.getElementById('subAmountPlanRow');
+            if (planRow) {
+                planRow.style.display = plan ? 'flex' : 'none';
+                planRow.classList.toggle('sub-amount-struck', mode === 'only');
+                if (plan) {
+                    subSetBilingual(document.getElementById('subAmountPlanLabel'), plan.labelEn, plan.labelAr);
+                    subSetBilingual(document.getElementById('subAmountPlanValue'), `${plan.sar} SAR`, `${plan.sar} ريال`);
+                }
+            }
+            const addonRow = document.getElementById('subAmountAddonRow');
+            if (addonRow) {
+                addonRow.classList.toggle('visible', !!mode);
+                subSetBilingual(document.getElementById('subAmountAddonValue'),
+                    mode === 'add' ? `+ ${SUB_ADDON.sar} SAR` : `${SUB_ADDON.sar} SAR`,
+                    mode === 'add' ? `+ ${SUB_ADDON.sar} ريال` : `${SUB_ADDON.sar} ريال`);
+            }
+            subSetBilingual(document.getElementById('subAmountTotal'), `${total} SAR`, `${total} ريال`);
+
+            const submitBtn = document.getElementById('subBankSubmit');
+            if (submitBtn && !submitBtn.disabled) {
+                subSetBilingual(submitBtn, `Submit · ${total} SAR`, `إرسال · ${total} ريال`);
+            }
+
+            // PayPal is only for the plain tiers — it just dims while a 4K option is on
+            const paypalBtn = document.getElementById('subPayMethodPaypal');
+            if (paypalBtn) paypalBtn.classList.toggle('sub-method-disabled', !!mode);
+        }
+
+        function subToggleAddon(mode) {
+            if (_subPayAnimating) return;
+            const hasPlan = !!SUB_PLANS[_subSelectedPlan];
+            if (mode === 'add' && !hasPlan) return;
+            if (_subAddonMode === mode) {
+                // Clicking the selected option again deselects it — unless there
+                // is no base plan (opened from the 4K link), where "only" must stay.
+                if (!hasPlan) return;
+                _subAddonMode = null;
+            } else {
+                _subAddonMode = mode;
+            }
+            subRenderSummary();
+        }
+
+        function subShowPayScreen(planKey, addonMode = null) {
+            const hasPlan = !!SUB_PLANS[planKey];
+            if (_subPayAnimating || (!hasPlan && addonMode !== 'only')) return;
             _subPayAnimating = true;
             _subPaySession++;
-            _subSelectedPlan = planKey;
+            _subSelectedPlan = hasPlan ? planKey : null;
+            _subAddonMode = addonMode;
             subTierCards().forEach(card => {
                 card.classList.add('sub-card-anim');
                 card.classList.add('sub-card-out');
             });
-            const plan = SUB_PLANS[planKey];
-            const label = document.getElementById('subPayPlanLabel');
-            if (label) {
-                label.setAttribute('data-en', `${plan.labelEn} — ${plan.sar} SAR`);
-                label.setAttribute('data-ar', `${plan.labelAr} — ${plan.sar} ريال`);
-                label.textContent = subIsArabic()
-                    ? `${plan.labelAr} — ${plan.sar} ريال`
-                    : `${plan.labelEn} — ${plan.sar} SAR`;
-            }
+            subRenderSummary();
             setTimeout(() => {
                 document.querySelectorAll('#main-section .subscription-tier-row')
                     .forEach(row => row.style.display = 'none');
@@ -6807,6 +7093,7 @@
             if (!screen || screen.style.display === 'none') return;
             _subPayAnimating = true;
             _subPaySession++;
+            _subAddonMode = null;
             screen.classList.add('sub-enter');
             setTimeout(() => {
                 screen.style.display = 'none';
@@ -6855,6 +7142,10 @@
         async function subPayWithPayPal() {
             const plan = SUB_PLANS[_subSelectedPlan];
             if (!plan || _subPayAnimating) return;
+            if (_subAddonMode) {
+                showErrorToast(subIsArabic() ? 'باي بال غير متاح مع سينما 4K — استخدم التحويل البنكي.' : 'PayPal is not available with 4K Cinema — use bank transfer.');
+                return;
+            }
             const email = document.getElementById('subBankEmail')?.value.trim() || '';
             if (!isValidSubscriptionEmail(email)) {
                 showErrorToast(subIsArabic() ? 'أدخل بريد حسابك في ريترو بروجكت.' : 'Please enter your Retro Project account email.');
@@ -6901,7 +7192,7 @@
         async function subSubmitBankTransfer() {
             const plan = SUB_PLANS[_subSelectedPlan];
             const bank = _subSelectedBank;
-            if (!plan || !bank || _subPayAnimating) return;
+            if ((!plan && _subAddonMode !== 'only') || !bank || _subPayAnimating) return;
             const email = document.getElementById('subBankEmail')?.value.trim() || '';
             const reference = document.getElementById('subBankReference')?.value.trim() || '';
             if (!isValidSubscriptionEmail(email)) {
@@ -6922,6 +7213,9 @@
                     submitBtn.disabled = true;
                     submitBtn.textContent = subIsArabic() ? 'جارٍ الإرسال…' : 'Submitting…';
                 }
+                // "only" = the add-on by itself; "add" = tier + add-on in one transfer.
+                const claimPlan = _subAddonMode === 'only' ? SUB_ADDON.key : _subSelectedPlan;
+                const claimAddon = _subAddonMode === 'add' ? SUB_ADDON.key : null;
                 const resp = await fetch(`${SUPABASE_URL}/functions/v1/submit-bank-transfer-web`, {
                     method: 'POST',
                     headers: {
@@ -6929,7 +7223,7 @@
                         'apikey': SUPABASE_ANON_KEY,
                         'Authorization': `Bearer ${SUPABASE_ANON_KEY}`
                     },
-                    body: JSON.stringify({ bank, plan: _subSelectedPlan, reference, email }),
+                    body: JSON.stringify({ bank, plan: claimPlan, addon: claimAddon, amount_sar: subTotalSar(), reference, email }),
                     signal: controller.signal
                 });
                 const data = await resp.json().catch(() => ({}));
@@ -6954,7 +7248,7 @@
                 clearTimeout(timeoutId);
                 if (submitBtn) {
                     submitBtn.disabled = false;
-                    submitBtn.textContent = subIsArabic() ? 'إرسال' : 'Submit';
+                    submitBtn.textContent = subSubmitLabel();
                 }
             }
         }
@@ -8009,6 +8303,10 @@
                 const key = currentLanguage === 'en' ? 'data-placeholder-en' : 'data-placeholder-ar';
                 element.placeholder = element.getAttribute(key);
             });
+
+            if (typeof subRenderSummary === 'function' && document.getElementById('subPayScreen')?.style.display !== 'none') {
+                subRenderSummary();
+            }
 
             if (typeof updateBookCategoryToggle === 'function') {
                 updateBookCategoryToggle();
