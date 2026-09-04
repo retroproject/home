@@ -146046,7 +146046,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1788080809844_4",
@@ -146772,9 +146772,9 @@
     "CoverUrl": "https://archive.org/download/RPRM002/004484C.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM002/004484B.jpg",
     "MusicUrl": "https://archive.org/download/RPRM002/004484M.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004484T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "PlatformNames": ["PC Game"],
     "GenreNames": [],
     "DeveloperNames": [],
@@ -146793,7 +146793,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1788530549615_1",
@@ -146807,9 +146807,9 @@
     "CoverUrl": "https://archive.org/download/RPRM002/004485C.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM002/004485B.jpg",
     "MusicUrl": "https://archive.org/download/RPRM002/004485M.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004485T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "PlatformNames": ["PC Game"],
     "GenreNames": [],
     "DeveloperNames": [],
@@ -146828,7 +146828,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1788530549615_2",
@@ -146842,9 +146842,9 @@
     "CoverUrl": "https://archive.org/download/RPRM002/004486C.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM002/004486B.jpg",
     "MusicUrl": "https://archive.org/download/RPRM002/004486M.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004486T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "PlatformNames": ["PC Game"],
     "GenreNames": [],
     "DeveloperNames": [],
@@ -146863,7 +146863,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1788530549615_3",
@@ -146877,9 +146877,9 @@
     "CoverUrl": "https://archive.org/download/RPRM002/004487C.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM002/004487B.jpg",
     "MusicUrl": "https://archive.org/download/RPRM002/004487M.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004487T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "PlatformNames": ["PC Game"],
     "GenreNames": [],
     "DeveloperNames": [],
@@ -146898,7 +146898,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1788530559453_0",
@@ -146912,9 +146912,9 @@
     "CoverUrl": "https://archive.org/download/RPRM002/004488C.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM002/004488B.jpg",
     "MusicUrl": "https://archive.org/download/RPRM002/004488M.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004488T.mp4",
+    "videoStart": 3.174397,
+    "videoEnd": 145.832995,
     "PlatformNames": ["PC Game"],
     "GenreNames": [],
     "DeveloperNames": [],
