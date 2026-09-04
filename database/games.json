@@ -145208,19 +145208,11 @@
             "platform": "PC Game",
             "fileSize": "43 GB",
             "executableFiles": [
-              "Guns of the Patriots\\MGS4\\mgs4.exe",
-              "Peace Walker\\mgspw\\METAL GEAR SOLID PEACE WALKER.exe",
-              "Ghost Babel\\MGS MC2 Bonus Content.exe",
               "Guns of the Patriots\\Launcher\\launcher.exe",
-              "Peace Walker\\launcher\\launcher.exe"
+              "Peace Walker\\launcher\\launcher.exe",
+              "Ghost Babel\\MGS MC2 Bonus Content.exe"
             ],
-            "executableLabels": [
-              "Guns of the Patriots",
-              "Peace Walker",
-              "Ghost Babel",
-              "Guns of the Patriots Launcher",
-              "Peace Walker Launcher"
-            ],
+            "executableLabels": ["Guns of the Patriots", "Peace Walker", "Ghost Babel"],
             "arguments": [],
             "buildID": "26 August 2026",
             "watchProcesses": [
