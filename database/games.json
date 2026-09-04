@@ -68086,7 +68086,7 @@
             "arguments": [],
             "executable": "launcher\\launcher.exe",
             "watchProcesses": ["launcher\\launcher.exe", "mgspw\\METAL GEAR SOLID PEACE WALKER.exe"],
-            "buildID": "26 August 2026",
+            "buildID": "2 September 2026",
             "customSavePaths": ["mgspw_savedata_win"],
             "filename": "02913.zip"
           }
@@ -146793,7 +146793,7 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": ["Hide"]
   },
   {
     "_id": "game_1788530549615_1",
@@ -146828,7 +146828,7 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": ["Hide"]
   },
   {
     "_id": "game_1788530549615_2",
@@ -146856,14 +146856,15 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "118 MB",
-            "filename": "02960.zip",
             "executable": "Game.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "The Genesis v2.62",
+            "filename": "02960.zip"
           }
         ]
       }
     },
-    "Tags": []
+    "Tags": ["Hide"]
   },
   {
     "_id": "game_1788530549615_3",
@@ -146898,13 +146899,13 @@
         ]
       }
     },
-    "Tags": []
+    "Tags": ["Hide"]
   },
   {
     "_id": "game_1788530559453_0",
     "Name": "Onimusha Way of the Sword",
     "MediaId": "004488",
-    "SortingName": "",
+    "SortingName": "Onimusha 05",
     "Description": "",
     "DescriptionArabic": "",
     "ReleaseDate": null,
@@ -146926,10 +146927,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "56 GB",
-            "filename": "02962.zip",
             "executable": "OnimushaWotS.exe",
-            "buildID": "reflex_amd",
-            "arguments": []
+            "buildID": "2 September 2026",
+            "arguments": [],
+            "filename": "02962.zip"
           }
         ]
       }
