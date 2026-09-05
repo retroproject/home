@@ -146793,7 +146793,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1788530549615_1",
@@ -146828,7 +146828,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1788530549615_2",
@@ -146864,7 +146864,7 @@
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1788530549615_3",
@@ -146889,17 +146889,17 @@
         "versions": [
           {
             "identifier": "RPRP068",
-            "name": "Vanilla",
+            "name": "Online",
             "platform": "PC Game",
             "fileSize": "3 GB",
-            "filename": "02961.zip",
             "executable": "StreetsOfRogue.exe",
-            "arguments": []
+            "arguments": [],
+            "filename": "02961.zip"
           }
         ]
       }
     },
-    "Tags": ["Hide"]
+    "Tags": []
   },
   {
     "_id": "game_1788530559453_0",
@@ -146935,6 +146935,6 @@
         ]
       }
     },
-    "Tags": ["Hypervisor 2.0", "Hide"]
+    "Tags": ["Hypervisor 2.0"]
   }
 ]
