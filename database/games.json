@@ -146968,9 +146968,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "1 GB",
-            "filename": "02963.zip",
             "executable": "CastlevaniaSOH.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "6 September 2026",
+            "filename": "02963.zip"
           }
         ]
       }
