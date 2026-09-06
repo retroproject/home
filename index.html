@@ -6028,11 +6028,6 @@
                     <span class="sub-addon-label" data-en="Add 4K Cinema Fast Streaming" data-ar="إضافة بث سينما بجودة عالية">Add 4K Cinema Fast Streaming</span>
                     <span class="sub-addon-price" data-en="+100 SAR / year" data-ar="+100 ريال / سنة">+100 SAR / year</span>
                 </button>
-                <button type="button" class="sub-addon-option" id="subAddonOnly" onclick="subToggleAddon('only')">
-                    <span class="sub-addon-radio"></span>
-                    <span class="sub-addon-label" data-en="Only 4K Cinema Fast Streaming" data-ar="بث سينما بجودة عالية فقط">Only 4K Cinema Fast Streaming</span>
-                    <span class="sub-addon-price" data-en="100 SAR / year" data-ar="100 ريال / سنة">100 SAR / year</span>
-                </button>
             </div>
             <div id="subBankForm" class="sub-bank-form" style="display: none;">
                 <div class="sub-bank-iban" id="subBankIban" onclick="subCopyIban()" title="Click to copy IBAN">
@@ -7171,11 +7166,10 @@
                 subSetBilingual(label, `${plan.labelEn} — ${plan.sar} SAR`, `${plan.labelAr} — ${plan.sar} ريال`);
             }
 
-            // "Add" needs a base plan to add to; "Only" is always offered.
+            // The add-on choice is only needed alongside a base plan. The
+            // standalone cinema entry arrives already selected.
             const addBtn = document.getElementById('subAddonAdd');
-            const onlyBtn = document.getElementById('subAddonOnly');
             if (addBtn) { addBtn.style.display = plan ? 'flex' : 'none'; addBtn.classList.toggle('active', mode === 'add'); }
-            if (onlyBtn) onlyBtn.classList.toggle('active', mode === 'only');
 
             const submitBtn = document.getElementById('subBankSubmit');
             if (submitBtn && !submitBtn.disabled) {
