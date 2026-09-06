@@ -38576,6 +38576,7 @@
             "fileSize": "23GB",
             "arguments": [],
             "executable": "mgsvtpp.exe",
+            "buildID": "4 August 2026",
             "filename": "01701.zip"
           }
         ]
@@ -52658,18 +52659,18 @@
         "versions": [
           {
             "identifier": "RPRP019",
-            "name": "AMD & INTEL",
+            "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "30GB",
             "arguments": [],
             "buildID": "10 March 2025",
-            "executable": "hypervisor-launcher.exe",
+            "executable": "TheLostCrown.exe",
             "filename": "00632.zip"
           }
         ]
       }
     },
-    "Tags": ["Hypervisor 2.0", "Working on"]
+    "Tags": []
   },
   {
     "_id": "818fb450-98e0-4d14-bdcc-bca276b74b81",
@@ -124392,7 +124393,7 @@
             "name": "AMD & INTEL",
             "platform": "PC Game",
             "fileSize": "20 GB",
-            "executable": "P3R\\Binaries\\Win64\\launcher.exe",
+            "executable": "P3R\\Binaries\\Win64\\P3R.exe",
             "arguments": [],
             "buildID": "22 October 2025",
             "filename": "00526.zip"
@@ -127323,7 +127324,7 @@
         ]
       }
     },
-    "Tags": ["Working on", "Hypervisor 2.0"]
+    "Tags": []
   },
   {
     "_id": "game_1774575605629_0",
@@ -128618,7 +128619,7 @@
         ]
       }
     },
-    "Tags": ["Hypervisor 2.0"]
+    "Tags": []
   },
   {
     "_id": "game_1775387678535_0",
@@ -145783,9 +145784,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "62 MB",
-            "filename": "02929.zip",
             "executable": "Game.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "Final",
+            "filename": "02929.zip"
           }
         ]
       }
@@ -146295,9 +146297,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "14 GB",
-            "filename": "02943.zip",
             "executable": "AtelierReslerianaRW.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "10 February 2026",
+            "filename": "02943.zip"
           }
         ]
       }
@@ -146330,9 +146333,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "57 GB",
-            "filename": "02944.zip",
             "executable": "!start_sp23.bat",
-            "arguments": []
+            "arguments": [],
+            "buildID": "25 June 2026",
+            "filename": "02944.zip"
           }
         ]
       }
@@ -146365,9 +146369,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "5 GB",
-            "filename": "02945.zip",
             "executable": "NeighborsProject1\\Binaries\\Win64\\NeighborsProject1-Win64-Shipping.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "28 August 2026",
+            "filename": "02945.zip"
           }
         ]
       }
@@ -146401,9 +146406,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "32 GB",
-            "filename": "02946.zip",
             "executable": "CrimsonMoonNG.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "3 September 2026",
+            "filename": "02946.zip"
           }
         ]
       }
@@ -146437,9 +146443,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "5 GB",
-            "filename": "02947.zip",
             "executable": "Moonlighter 2 The Endless Vault.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "2 September 2026",
+            "filename": "02947.zip"
           }
         ]
       }
@@ -146472,9 +146479,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "3 GB",
-            "filename": "02948.zip",
             "executable": "Project Reignition.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "1.0.0",
+            "filename": "02948.zip"
           }
         ]
       }
@@ -146507,9 +146515,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "7 GB",
-            "filename": "02949.zip",
             "executable": "SeriousSamShatterverse.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "27 August 2026",
+            "filename": "02949.zip"
           }
         ]
       }
@@ -146542,9 +146551,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "15 GB",
-            "filename": "02950.zip",
             "executable": "SuperliminalSteam.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "28 February 2023",
+            "filename": "02950.zip"
           }
         ]
       }
@@ -146577,9 +146587,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "120 MB",
-            "filename": "02951.zip",
             "executable": "House.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "5 September 2026",
+            "filename": "02951.zip"
           }
         ]
       }
@@ -146612,9 +146623,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "4 GB",
-            "filename": "02952.zip",
             "executable": "House 2.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "6 September 2026",
+            "filename": "02952.zip"
           }
         ]
       }
@@ -146647,9 +146659,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "41 GB",
-            "filename": "02953.zip",
             "executable": "_LAUNCHER.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "1 September 2026",
+            "filename": "02953.zip"
           }
         ]
       }
@@ -146682,9 +146695,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "7 GB",
-            "filename": "02954.zip",
             "executable": "Marsu2Steam.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "3 September 2026",
+            "filename": "02954.zip"
           }
         ]
       }
@@ -146719,6 +146733,7 @@
             "fileSize": "3 GB",
             "executable": "Marsupilami Hoobadventure.exe",
             "arguments": [],
+            "buildID": "17 November 2022",
             "filename": "02955.zip"
           }
         ]
@@ -146752,9 +146767,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "55 GB",
-            "filename": "02956.zip",
             "executable": "Dawnwalker\\Binaries\\Win64\\Dawnwalker.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "4 September 2026",
+            "filename": "02956.zip"
           }
         ]
       }
@@ -146787,9 +146803,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "17 GB",
-            "filename": "02958.zip",
             "executable": "Maneater.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "8 December 2021",
+            "filename": "02958.zip"
           }
         ]
       }
@@ -146823,9 +146840,10 @@
             "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "14 GB",
-            "filename": "02959.zip",
             "executable": "Mycopunk.exe",
-            "arguments": []
+            "arguments": [],
+            "buildID": "2 September 2026",
+            "filename": "02959.zip"
           }
         ]
       }
@@ -146898,6 +146916,7 @@
             "fileSize": "3 GB",
             "executable": "StreetsOfRogue.exe",
             "arguments": [],
+            "buildID": "27 August 2025",
             "filename": "02961.zip"
           }
         ]
@@ -146976,5 +146995,257 @@
         ]
       }
     }
+  },
+  {
+    "_id": "game_1788736820265_0",
+    "Name": "Halloween The Game",
+    "MediaId": "004490",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004490C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004490B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004490M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004490T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP068",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "29 GB",
+            "executable": "Ravage\\Binaries\\Win64\\Halloween.exe",
+            "arguments": [],
+            "buildID": "5 September 2026",
+            "filename": "02964.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1788736820266_1",
+    "Name": "Lurk in the Dark Prologue",
+    "MediaId": "004491",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004491C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004491B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004491M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004491T.mp4",
+    "videoStart": 1.700217,
+    "videoEnd": 64.957882,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP068",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "executable": "Lurk in the Dark Prologue.exe",
+            "arguments": [],
+            "buildID": "1 March 2020",
+            "filename": "02965.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1788736820266_2",
+    "Name": "Phantom PHANTOM OF INFERNO NITRO ARCHIVE",
+    "MediaId": "004492",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004492C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004492B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004492M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004492T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP068",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "4 GB",
+            "filename": "02966.zip",
+            "executable": "phantom.exe",
+            "buildID": "COPYING",
+            "arguments": []
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1788736820266_3",
+    "Name": "Rogue Blight",
+    "MediaId": "004493",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004493C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004493B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004493M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004493T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP068",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "6 GB",
+            "executable": "RogueBlight.exe",
+            "arguments": [],
+            "buildID": "5 September 2026",
+            "filename": "02967.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Need Music", "Hide"]
+  },
+  {
+    "_id": "game_1788736820266_4",
+    "Name": "SpeedRunners",
+    "MediaId": "004494",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004494C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004494B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004494M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004494T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP068",
+            "name": "Online",
+            "platform": "PC Game",
+            "fileSize": "663 MB",
+            "executable": "SpeedRunners.exe",
+            "arguments": [],
+            "buildID": "18 May 2020",
+            "filename": "02968.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1788736820266_5",
+    "Name": "SpeedRunners 2 King of Speed",
+    "MediaId": "004495",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004495C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004495B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004495M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004495T.mp4",
+    "videoStart": 0,
+    "videoEnd": 68.799599,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP068",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "2 GB",
+            "executable": "SpeedRunners 2.exe",
+            "arguments": [],
+            "buildID": "3 September 2026",
+            "filename": "02969.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
+  },
+  {
+    "_id": "game_1788736820266_6",
+    "Name": "Stranglehold",
+    "MediaId": "004496",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004496C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004496B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004496M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004496T.mp4",
+    "videoStart": 8.565819,
+    "videoEnd": 96.056078,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP068",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "13 GB",
+            "executable": "Binaries\\Retail-Stranglehold.exe",
+            "arguments": [],
+            "buildID": "Final",
+            "filename": "02970.zip"
+          }
+        ]
+      }
+    },
+    "Tags": ["Hide"]
   }
 ]
