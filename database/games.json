@@ -16675,7 +16675,7 @@
     "_id": "2924dd7d-bae7-4771-afe0-13228a935025",
     "Name": "Castlevania II: Simon's Quest",
     "MediaId": "000455",
-    "SortingName": "Castlevania 02",
+    "SortingName": "Castlevania 02.01",
     "Description": "<span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>Simon Belmont</span> carries a curse in his blood that grows stronger with each passing night, a final gift from <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>Count Dracula</span> that will claim his soul unless he can gather the vampire lord's scattered remains and perform a ritual of resurrection.<br>Through the fog-shrouded villages and monster-infested forests of <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 6px #9370DB;'>Transylvania</span>, he must collect <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 6px #FF6347;'>Dracula's heart, rib, and eye</span> while the very townspeople who once cheered his victory now whisper behind locked doors.<br>In this gothic adventure where <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 6px #32CD32;'>day and night</span> bring different terrors and every clue must be earned through blood and perseverance, Simon discovers that sometimes the only way to truly defeat evil is to <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>resurrect it first</span>.",
     "DescriptionArabic": "<div dir='rtl'>يحمل <span style='color:#FFD700; font-weight:bold; text-shadow: 0 0 8px #FFD700;'>سايمون بلمونت</span> لعنة في دمه تزداد قوة مع كل ليلة تمر، هدية أخيرة من <span style='color:#DC143C; font-weight:bold; text-shadow: 0 0 8px #DC143C;'>الكونت دراكولا</span> ستُطالب بروحه إلا إذا استطاع جمع بقايا سيد مصاصي الدماء المُتناثرة وأداء طقوس البعث. عبر القرى المُلفوفة بالضباب والغابات المُعتشة بالوحوش في <span style='color:#9370DB; font-weight:bold; text-shadow: 0 0 8px #9370DB;'>ترانسيلفانيا</span>، يجب أن يجمع <span style='color:#FF6347; font-weight:bold; text-shadow: 0 0 8px #FF6347;'>قلب دراكولا وضلعه وعينه</span> بينما سكان البلدة الذين هتفوا لانتصاره يهمسون الآن خلف الأبواب المُقفلة. في هذه المغامرة القوطية حيث <span style='color:#32CD32; font-weight:bold; text-shadow: 0 0 8px #32CD32;'>النهار والليل</span> يحملان رعباً مختلفاً وكل دليل يجب كسبه بالدم والمُثابرة، يكتشف سايمون أن أحياناً الطريقة الوحيدة لهزيمة الشر حقاً هي <span style='color:#FF69B4; font-weight:bold; text-shadow: 0 0 8px #FF69B4;'>بعثه أولاً</span> في <span style='color:#8B0000; font-weight:bold; text-shadow: 0 0 8px #8B0000;'>رقصة الموت والحياة</span> الأبدية.</div>",
     "ReleaseDate": "1987",
@@ -146941,5 +146941,39 @@
       }
     },
     "Tags": ["Hypervisor 2.0"]
+  },
+  {
+    "_id": "game_1788658297707_0",
+    "Name": "Castlevania Symphony of Horrors",
+    "MediaId": "004489",
+    "SortingName": "Castlevania 02.02",
+    "Description": "Seven years after defeating <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>Count Dracula</b>, <b style='color: #D4AF37; text-shadow: 0 0 8px #D4AF37;'>Simon Belmont</b> discovers that a <b style='color: #A855F7; text-shadow: 0 0 8px #A855F7;'>lingering curse</b> is consuming him and spreading <b style='color: #6B8E23; text-shadow: 0 0 8px #6B8E23;'>decay</b> across <b style='color: #9F7AEA; text-shadow: 0 0 8px #9F7AEA;'>Transylvania</b>.<br>To save himself and the stricken land, he must find the vampire's <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>scattered remains</b> and destroy them.<br>His desperate search leads through <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>fearful villages</b>, <b style='color: #3CB371; text-shadow: 0 0 8px #3CB371;'>haunted forests</b>, and <b style='color: #708090; text-shadow: 0 0 8px #708090;'>ancient crypts</b>, where <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>undead creatures</b> guard the path.<br>As <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>nightfall</b> deepens the danger, the <b style='color: #E57373; text-shadow: 0 0 8px #E57373;'>wounded hunter</b> presses toward <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>Castlevania</b>, racing against a death that victory alone could not prevent.<br>",
+    "DescriptionArabic": "<div dir='rtl'>بعد سبع سنوات من هزيمة <b style='color: #DC143C; text-shadow: 0 0 8px #DC143C;'>الكونت دراكولا</b>، يكتشف <b style='color: #D4AF37; text-shadow: 0 0 8px #D4AF37;'>سايمون بلمونت</b> أن <b style='color: #A855F7; text-shadow: 0 0 8px #A855F7;'>لعنة باقية</b> تنهش جسده وتنشر <b style='color: #6B8E23; text-shadow: 0 0 8px #6B8E23;'>الفساد</b> في <b style='color: #9F7AEA; text-shadow: 0 0 8px #9F7AEA;'>ترانسيلفانيا</b>.<br>ولإنقاذ نفسه والأرض المنكوبة، عليه العثور على <b style='color: #C0C0C0; text-shadow: 0 0 8px #C0C0C0;'>رفات مصاص الدماء المتناثرة</b> وتدميرها.<br>يقوده بحثه اليائس عبر <b style='color: #CD853F; text-shadow: 0 0 8px #CD853F;'>قرى يسكنها الخوف</b> و<b style='color: #3CB371; text-shadow: 0 0 8px #3CB371;'>غابات مسكونة</b> و<b style='color: #708090; text-shadow: 0 0 8px #708090;'>سراديب قديمة</b>، حيث تسد <b style='color: #B22222; text-shadow: 0 0 8px #B22222;'>مخلوقات عائدة من الموت</b> الطريق.<br>ومع <b style='color: #9370DB; text-shadow: 0 0 8px #9370DB;'>حلول الليل</b> واشتداد الخطر، يواصل <b style='color: #E57373; text-shadow: 0 0 8px #E57373;'>الصياد الجريح</b> رحلته نحو <b style='color: #B8860B; text-shadow: 0 0 8px #B8860B;'>قلعة كاسلفانيا</b>، في سباق مع موت لم يستطع انتصاره السابق أن يبعده عنه.<br></div>",
+    "ReleaseDate": "2026",
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004489C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004489B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004489M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004489T.mp4",
+    "videoStart": 12.417109,
+    "videoEnd": 0,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": ["Metroidvania"],
+    "DeveloperNames": ["First Serve Gaming"],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP068",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "1 GB",
+            "filename": "02963.zip",
+            "executable": "CastlevaniaSOH.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
   }
 ]
