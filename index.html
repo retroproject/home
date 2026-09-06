@@ -6022,15 +6022,15 @@
                 </button>
             </div>
             <div id="subAddonCard" class="sub-addon-card">
-                <div class="sub-addon-title"><img class="sub-addon-icon" src="icons/cinema.png" alt=""><span data-en="4K Cinema Fast Streaming" data-ar="بث سينما 4K سريع">4K Cinema Fast Streaming</span></div>
+                <div class="sub-addon-title"><img class="sub-addon-icon" src="icons/cinema.png" alt=""><span data-en="4K Cinema Fast Streaming" data-ar="بث سينما بجودة عالية">4K Cinema Fast Streaming</span></div>
                 <button type="button" class="sub-addon-option" id="subAddonAdd" onclick="subToggleAddon('add')">
                     <span class="sub-addon-radio"></span>
-                    <span class="sub-addon-label" data-en="Add 4K Cinema Fast Streaming" data-ar="إضافة بث سينما 4K سريع">Add 4K Cinema Fast Streaming</span>
+                    <span class="sub-addon-label" data-en="Add 4K Cinema Fast Streaming" data-ar="إضافة بث سينما بجودة عالية">Add 4K Cinema Fast Streaming</span>
                     <span class="sub-addon-price" data-en="+100 SAR / year" data-ar="+100 ريال / سنة">+100 SAR / year</span>
                 </button>
                 <button type="button" class="sub-addon-option" id="subAddonOnly" onclick="subToggleAddon('only')">
                     <span class="sub-addon-radio"></span>
-                    <span class="sub-addon-label" data-en="Only 4K Cinema Fast Streaming" data-ar="بث سينما 4K سريع فقط">Only 4K Cinema Fast Streaming</span>
+                    <span class="sub-addon-label" data-en="Only 4K Cinema Fast Streaming" data-ar="بث سينما بجودة عالية فقط">Only 4K Cinema Fast Streaming</span>
                     <span class="sub-addon-price" data-en="100 SAR / year" data-ar="100 ريال / سنة">100 SAR / year</span>
                 </button>
             </div>
@@ -6122,7 +6122,7 @@
             </div>
 
             <div class="subscription-tier-row sub-addon-link-row">
-                <div class="sub-addon-link" onclick="subShowPayScreen(null, 'only')"><img class="sub-addon-icon" src="icons/cinema.png" alt=""><span data-en="4K Cinema Fast Streaming · 100 SAR / year" data-ar="بث سينما 4K سريع · 100 ريال / سنة">4K Cinema Fast Streaming · 100 SAR / year</span></div>
+                <div class="sub-addon-link" onclick="subShowPayScreen(null, 'only')"><img class="sub-addon-icon" src="icons/cinema.png" alt=""><span data-en="4K Cinema Fast Streaming · 100 SAR / year" data-ar="بث سينما بجودة عالية · 100 ريال / سنة">4K Cinema Fast Streaming · 100 SAR / year</span></div>
             </div>
 
         </div>
@@ -6949,7 +6949,7 @@
             rajhi: { display: 'SA50 8000 0111 6080 1068 5796', copy: 'SA5080000111608010685796' }
         };
         // 4K Cinema Fast Streaming add-on — bank transfer only (no PayPal plan).
-        const SUB_ADDON = { key: 'cinema4k', sar: 100, labelEn: '4K Cinema Fast Streaming', labelAr: 'بث سينما 4K سريع' };
+        const SUB_ADDON = { key: 'cinema4k', sar: 100, labelEn: '4K Cinema Fast Streaming', labelAr: 'بث سينما بجودة عالية' };
         let _subAddonMode = null; // null | 'add' | 'only'
         let _subSelectedPlan = null;
         let _subSelectedBank = null;
@@ -7301,7 +7301,7 @@
             const plan = SUB_PLANS[_subSelectedPlan];
             if (!plan || _subPayAnimating) return;
             if (_subAddonMode) {
-                showErrorToast(subIsArabic() ? 'باي بال غير متاح مع سينما 4K — استخدم التحويل البنكي.' : 'PayPal is not available with 4K Cinema — use bank transfer.');
+                showErrorToast(subIsArabic() ? 'باي بال غير متاح مع السينما عالية الجودة — استخدم التحويل البنكي.' : 'PayPal is not available with 4K Cinema — use bank transfer.');
                 return;
             }
             const email = document.getElementById('subBankEmail')?.value.trim() || '';
