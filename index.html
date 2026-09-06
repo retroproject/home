@@ -6028,6 +6028,10 @@
                     <span class="sub-addon-label" data-en="Add 4K Cinema Fast Streaming" data-ar="إضافة بث سينما بجودة عالية">Add 4K Cinema Fast Streaming</span>
                     <span class="sub-addon-price" data-en="+100 SAR / year" data-ar="+100 ريال / سنة">+100 SAR / year</span>
                 </button>
+                <div class="sub-addon-option active" id="subAddonStandalone" style="display: none; cursor: default;">
+                    <span class="sub-addon-label" data-en="Only 4K Cinema Fast Streaming" data-ar="بث سينما بجودة عالية فقط">Only 4K Cinema Fast Streaming</span>
+                    <span class="sub-addon-price" data-en="100 SAR / year" data-ar="100 ريال / سنة">100 SAR / year</span>
+                </div>
             </div>
             <div id="subBankForm" class="sub-bank-form" style="display: none;">
                 <div class="sub-bank-iban" id="subBankIban" onclick="subCopyIban()" title="Click to copy IBAN">
@@ -7167,9 +7171,11 @@
             }
 
             // The add-on choice is only needed alongside a base plan. The
-            // standalone cinema entry arrives already selected.
+            // standalone cinema entry is shown as a read-only summary.
             const addBtn = document.getElementById('subAddonAdd');
+            const standaloneRow = document.getElementById('subAddonStandalone');
             if (addBtn) { addBtn.style.display = plan ? 'flex' : 'none'; addBtn.classList.toggle('active', mode === 'add'); }
+            if (standaloneRow) standaloneRow.style.display = !plan && mode === 'only' ? 'flex' : 'none';
 
             const submitBtn = document.getElementById('subBankSubmit');
             if (submitBtn && !submitBtn.disabled) {
