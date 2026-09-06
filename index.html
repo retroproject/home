@@ -900,11 +900,6 @@
         .sub-receipt-upload.is-ready .sub-receipt-prompt { opacity: 0; transform: translateY(-18px); pointer-events: none; }
         .sub-receipt-upload.is-ready .sub-receipt-ready { opacity: 1; transform: translateY(0); pointer-events: auto; }
         .sub-receipt-upload.is-uploading { pointer-events: none; }
-        .sub-receipt-symbol {
-            width: 34px; height: 34px; border: 1px solid rgba(184, 134, 11, 0.7); border-radius: 6px;
-            display: inline-flex; align-items: center; justify-content: center;
-            color: #f5d67a; font-size: 1.15rem; font-weight: 900; box-shadow: 0 0 14px rgba(184, 134, 11, 0.25);
-        }
         .sub-receipt-title { color: #f5d67a; font-size: 0.82rem; font-weight: 800; }
         .sub-receipt-hint { color: rgba(255, 255, 255, 0.55); font-size: 0.68rem; font-weight: 600; }
         body.arabic-mode .sub-receipt-title, body.arabic-mode .sub-receipt-hint,
@@ -919,13 +914,6 @@
         .sub-receipt-details { min-width: 0; flex: 1; display: flex; flex-direction: column; gap: 0.3rem; }
         .sub-receipt-name { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 0.78rem; font-weight: 800; }
         .sub-receipt-meta { color: #5fd08a; font-size: 0.67rem; font-weight: 700; }
-        .sub-receipt-remove {
-            width: 34px; height: 34px; flex: 0 0 auto; border-radius: 6px;
-            border: 1px solid rgba(220, 20, 60, 0.6); background: rgba(220, 20, 60, 0.1);
-            color: #ff6a6a; font-size: 1.2rem; cursor: pointer;
-            transition: background 250ms ease, border-color 250ms ease, box-shadow 250ms ease;
-        }
-        .sub-receipt-remove:hover { background: rgba(220, 20, 60, 0.22); border-color: #ff6a6a; box-shadow: 0 0 14px rgba(220, 20, 60, 0.3); }
         .sub-receipt-progress { position: absolute; left: 0; right: 0; bottom: 0; height: 3px; background: rgba(255, 255, 255, 0.08); opacity: 0; transition: opacity 250ms ease; }
         .sub-receipt-upload.is-uploading .sub-receipt-progress { opacity: 1; }
         .sub-receipt-progress-bar { height: 100%; width: 0; background: #5fd08a; box-shadow: 0 0 10px rgba(95, 208, 138, 0.7); transition: width 160ms linear; }
@@ -6063,11 +6051,10 @@
                      onclick="subChooseReceipt()"
                      ondragenter="subReceiptDrag(event, true)" ondragover="subReceiptDrag(event, true)"
                      ondragleave="subReceiptDrag(event, false)" ondrop="subReceiptDrop(event)">
-                    <input type="file" id="subReceiptInput" class="sub-receipt-input"
+                    <input type="file" id="subReceiptInput" class="sub-receipt-input" onclick="event.stopPropagation()"
                            accept=".jpg,.jpeg,.png,.webp,.pdf,image/jpeg,image/png,image/webp,application/pdf"
                            onchange="subSetReceipt(this.files && this.files[0])">
                     <div class="sub-receipt-prompt">
-                        <span class="sub-receipt-symbol">↑</span>
                         <span class="sub-receipt-title" data-en="Upload Transfer Receipt" data-ar="ارفع إيصال التحويل">Upload Transfer Receipt</span>
                         <span class="sub-receipt-hint" data-en="JPG, PNG, WebP or PDF · Maximum 20 MB" data-ar="JPG أو PNG أو WebP أو PDF · بحد أقصى 20 ميجابايت">JPG, PNG, WebP or PDF · Maximum 20 MB</span>
                     </div>
@@ -6080,8 +6067,6 @@
                             <span class="sub-receipt-name" id="subReceiptName"></span>
                             <span class="sub-receipt-meta" id="subReceiptMeta" data-en="Ready" data-ar="جاهز">Ready</span>
                         </div>
-                        <button type="button" class="sub-receipt-remove" title="Remove receipt"
-                                onclick="event.stopPropagation(); subClearReceipt()" aria-label="Remove receipt">×</button>
                     </div>
                     <div class="sub-receipt-progress"><div class="sub-receipt-progress-bar" id="subReceiptProgress"></div></div>
                 </div>
@@ -6995,8 +6980,11 @@
         }
 
         function subChooseReceipt() {
-            if (_subBankRequest || _subReceiptFile) return;
-            document.getElementById('subReceiptInput')?.click();
+            if (_subBankRequest) return;
+            const input = document.getElementById('subReceiptInput');
+            if (!input) return;
+            input.value = '';
+            input.click();
         }
 
         function subReceiptDrag(event, active) {
