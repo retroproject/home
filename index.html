@@ -999,42 +999,50 @@
             box-shadow: 0 0 24px rgba(220, 20, 60, 0.42);
         }
 
-        /* ── 4K Cinema Fast Streaming add-on (bank transfer only) ── */
+        /* ── 4K Cinema Fast Streaming add-on (bank transfer only) ──
+           Gold = the tier price gold (#b8860b). Cinema = the Dark Slayer blue (#4682b4).
+           Text = Retro Manager toggle look (Orbitron, bold, 1rem). */
         .sub-pay-method.sub-method-disabled { opacity: 0.28 !important; cursor: default; filter: grayscale(1); pointer-events: none; }
         .sub-addon-card {
             width: 100%; max-width: 520px; box-sizing: border-box;
             border: 2px solid rgba(70, 130, 180, 0.55); border-radius: 8px;
             background: linear-gradient(145deg, rgba(10, 10, 10, 0.72), rgba(28, 28, 28, 0.42));
             box-shadow: 0 0 22px rgba(70, 130, 180, 0.22);
-            padding: 0.65rem 0.75rem 0.7rem; display: flex; flex-direction: column; gap: 0.5rem;
+            padding: 0.8rem 0.9rem 0.7rem; display: flex; flex-direction: column; gap: 0.45rem;
         }
         .sub-addon-title {
-            font-family: 'Orbitron', monospace; font-size: 0.95rem; font-weight: 700;
-            color: #4682b4; text-align: center;
+            font-family: 'Orbitron', monospace; font-size: 1.1rem; font-weight: 600;
+            color: #4682b4; text-align: center; margin-bottom: 0.3rem;
             text-shadow: 0 0 10px rgba(70, 130, 180, 0.4);
         }
         body.arabic-mode .sub-addon-title { font-family: 'Cairo', sans-serif; }
-        .sub-addon-options {
-            display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.4rem;
-        }
-        .sub-addon-options.single-option { grid-template-columns: minmax(0, 1fr); }
         .sub-addon-option {
-            display: flex; align-items: center; justify-content: center; gap: 0.35rem; min-width: 0;
-            height: 42px; padding: 0 0.55rem; box-sizing: border-box;
+            display: flex; align-items: center; gap: 0.85rem; width: 100%;
+            height: 50px; padding: 0 0.9rem; box-sizing: border-box;
             border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 6px;
-            background: rgba(0, 0, 0, 0.25); cursor: pointer; text-align: center;
-            transition: border-color 800ms cubic-bezier(0.23, 1, 0.32, 1), background 800ms cubic-bezier(0.23, 1, 0.32, 1), box-shadow 800ms cubic-bezier(0.23, 1, 0.32, 1), color 800ms cubic-bezier(0.23, 1, 0.32, 1);
+            background: rgba(0, 0, 0, 0.25); cursor: pointer; text-align: left;
+            transition: border-color 0.25s ease, background 0.25s ease, box-shadow 0.25s ease;
         }
-        body.arabic-mode .sub-addon-option { text-align: center; direction: rtl; }
+        body.arabic-mode .sub-addon-option { text-align: right; direction: rtl; }
         .sub-addon-option:hover { border-color: rgba(70, 130, 180, 0.6); background: rgba(70, 130, 180, 0.08); }
         .sub-addon-option.active { border-color: #4682b4; background: rgba(70, 130, 180, 0.16); box-shadow: 0 0 18px rgba(70, 130, 180, 0.32); }
+        .sub-addon-radio {
+            flex: 0 0 16px; width: 16px; height: 16px; border-radius: 50%;
+            border: 2px solid rgba(70, 130, 180, 0.75); box-sizing: border-box; position: relative;
+            transition: border-color 0.25s ease;
+        }
+        .sub-addon-option.active .sub-addon-radio { border-color: #4682b4; }
+        .sub-addon-option.active .sub-addon-radio::after {
+            content: ''; position: absolute; inset: 2px; border-radius: 50%; background: #4682b4;
+            box-shadow: 0 0 8px rgba(70, 130, 180, 0.9);
+        }
         .sub-addon-label {
-            min-width: 0; font-family: 'Orbitron', monospace; font-size: 0.72rem; font-weight: 800;
-            color: rgba(255, 255, 255, 0.72); white-space: nowrap; transition: color 800ms cubic-bezier(0.23, 1, 0.32, 1);
+            flex: 1; font-family: 'Orbitron', monospace; font-size: 1rem; font-weight: bold;
+            color: rgba(255, 255, 255, 0.8); transition: color 0.3s ease;
         }
         .sub-addon-option:hover .sub-addon-label, .sub-addon-option.active .sub-addon-label { color: #ffffff; }
         .sub-addon-price {
-            font-family: 'Orbitron', monospace; font-size: 0.68rem; font-weight: 800;
+            font-family: 'Orbitron', monospace; font-size: 0.95rem; font-weight: bold;
             color: #4682b4; white-space: nowrap; text-shadow: 0 0 8px rgba(70, 130, 180, 0.35);
         }
         body.arabic-mode .sub-addon-label, body.arabic-mode .sub-addon-price { font-family: 'Cairo', sans-serif; }
@@ -1068,12 +1076,6 @@
         }
         body.arabic-mode .sub-addon-icon { margin-right: 0; margin-left: 0.45rem; }
         .sub-addon-title .sub-addon-icon { width: 24px; height: 24px; }
-
-        @media (max-width: 480px) {
-            .sub-addon-option { height: 48px; flex-direction: column; gap: 0.08rem; }
-            .sub-addon-label { font-size: 0.68rem; }
-            .sub-addon-price { font-size: 0.64rem; }
-        }
 
         @media (max-width: 1024px) {
             .sub-pay-screen,
@@ -6020,17 +6022,17 @@
                 </button>
             </div>
             <div id="subAddonCard" class="sub-addon-card">
-                <div class="sub-addon-title"><img class="sub-addon-icon" src="icons/cinema.png" alt=""><span data-en="4K Cinema" data-ar="سينما 4K">4K Cinema</span></div>
-                <div class="sub-addon-options" id="subAddonOptions">
-                    <button type="button" class="sub-addon-option" id="subAddonAdd" onclick="subToggleAddon('add')">
-                        <span class="sub-addon-label" data-en="With Subscription ·" data-ar="مع الاشتراك ·">With Subscription ·</span>
-                        <span class="sub-addon-price" data-en="+100 SAR/year" data-ar="+100 ر.س/سنة">+100 SAR/year</span>
-                    </button>
-                    <button type="button" class="sub-addon-option" id="subAddonOnly" onclick="subToggleAddon('only')">
-                        <span class="sub-addon-label" data-en="4K Only ·" data-ar="4K فقط ·">4K Only ·</span>
-                        <span class="sub-addon-price" data-en="100 SAR/year" data-ar="100 ر.س/سنة">100 SAR/year</span>
-                    </button>
-                </div>
+                <div class="sub-addon-title"><img class="sub-addon-icon" src="icons/cinema.png" alt=""><span data-en="4K Cinema Fast Streaming" data-ar="بث سينما 4K سريع">4K Cinema Fast Streaming</span></div>
+                <button type="button" class="sub-addon-option" id="subAddonAdd" onclick="subToggleAddon('add')">
+                    <span class="sub-addon-radio"></span>
+                    <span class="sub-addon-label" data-en="Add 4K Cinema Fast Streaming" data-ar="إضافة بث سينما 4K سريع">Add 4K Cinema Fast Streaming</span>
+                    <span class="sub-addon-price" data-en="+100 SAR / year" data-ar="+100 ريال / سنة">+100 SAR / year</span>
+                </button>
+                <button type="button" class="sub-addon-option" id="subAddonOnly" onclick="subToggleAddon('only')">
+                    <span class="sub-addon-radio"></span>
+                    <span class="sub-addon-label" data-en="Only 4K Cinema Fast Streaming" data-ar="بث سينما 4K سريع فقط">Only 4K Cinema Fast Streaming</span>
+                    <span class="sub-addon-price" data-en="100 SAR / year" data-ar="100 ريال / سنة">100 SAR / year</span>
+                </button>
             </div>
             <div id="subBankForm" class="sub-bank-form" style="display: none;">
                 <div class="sub-bank-iban" id="subBankIban" onclick="subCopyIban()" title="Click to copy IBAN">
@@ -7172,10 +7174,8 @@
             // "Add" needs a base plan to add to; "Only" is always offered.
             const addBtn = document.getElementById('subAddonAdd');
             const onlyBtn = document.getElementById('subAddonOnly');
-            const options = document.getElementById('subAddonOptions');
             if (addBtn) { addBtn.style.display = plan ? 'flex' : 'none'; addBtn.classList.toggle('active', mode === 'add'); }
             if (onlyBtn) onlyBtn.classList.toggle('active', mode === 'only');
-            options?.classList.toggle('single-option', !plan);
 
             const submitBtn = document.getElementById('subBankSubmit');
             if (submitBtn && !submitBtn.disabled) {
@@ -7247,14 +7247,15 @@
                 _subBankRequest = null;
                 request.abort();
             }
-            _subPaySession++;
+            const exitSession = ++_subPaySession;
             _subAddonMode = null;
             _subSubmissionToken = null;
-            subClearReceipt();
             screen.classList.add('sub-enter');
             setTimeout(() => {
+                if (exitSession !== _subPaySession) return;
                 screen.style.display = 'none';
                 screen.classList.remove('sub-enter');
+                subClearReceipt();
                 document.querySelectorAll('#main-section .subscription-tier-row')
                     .forEach(row => row.style.display = 'flex');
                 const cards = subTierCards();
