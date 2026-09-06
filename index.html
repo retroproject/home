@@ -899,6 +899,8 @@
         .sub-receipt-ready { position: absolute; inset: 0; gap: 0.85rem; opacity: 0; transform: translateY(18px); pointer-events: none; }
         .sub-receipt-upload.is-ready .sub-receipt-prompt { opacity: 0; transform: translateY(-18px); pointer-events: none; }
         .sub-receipt-upload.is-ready .sub-receipt-ready { opacity: 1; transform: translateY(0); pointer-events: auto; }
+        .sub-receipt-upload.is-swapping .sub-receipt-prompt { opacity: 0; pointer-events: none; }
+        .sub-receipt-upload.is-ready.is-swapping .sub-receipt-ready { opacity: 0; transform: translateY(18px); pointer-events: none; }
         .sub-receipt-upload.is-uploading { pointer-events: none; }
         .sub-receipt-title { color: #f5d67a; font-size: 0.82rem; font-weight: 800; }
         .sub-receipt-hint { color: rgba(255, 255, 255, 0.55); font-size: 0.68rem; font-weight: 600; }
@@ -997,50 +999,42 @@
             box-shadow: 0 0 24px rgba(220, 20, 60, 0.42);
         }
 
-        /* ── 4K Cinema Fast Streaming add-on (bank transfer only) ──
-           Gold = the tier price gold (#b8860b). Cinema = the Dark Slayer blue (#4682b4).
-           Text = Retro Manager toggle look (Orbitron, bold, 1rem). */
+        /* ── 4K Cinema Fast Streaming add-on (bank transfer only) ── */
         .sub-pay-method.sub-method-disabled { opacity: 0.28 !important; cursor: default; filter: grayscale(1); pointer-events: none; }
         .sub-addon-card {
             width: 100%; max-width: 520px; box-sizing: border-box;
             border: 2px solid rgba(70, 130, 180, 0.55); border-radius: 8px;
             background: linear-gradient(145deg, rgba(10, 10, 10, 0.72), rgba(28, 28, 28, 0.42));
             box-shadow: 0 0 22px rgba(70, 130, 180, 0.22);
-            padding: 0.8rem 0.9rem 0.7rem; display: flex; flex-direction: column; gap: 0.45rem;
+            padding: 0.65rem 0.75rem 0.7rem; display: flex; flex-direction: column; gap: 0.5rem;
         }
         .sub-addon-title {
-            font-family: 'Orbitron', monospace; font-size: 1.1rem; font-weight: 600;
-            color: #4682b4; text-align: center; margin-bottom: 0.3rem;
+            font-family: 'Orbitron', monospace; font-size: 0.95rem; font-weight: 700;
+            color: #4682b4; text-align: center;
             text-shadow: 0 0 10px rgba(70, 130, 180, 0.4);
         }
         body.arabic-mode .sub-addon-title { font-family: 'Cairo', sans-serif; }
-        .sub-addon-option {
-            display: flex; align-items: center; gap: 0.85rem; width: 100%;
-            height: 50px; padding: 0 0.9rem; box-sizing: border-box;
-            border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 6px;
-            background: rgba(0, 0, 0, 0.25); cursor: pointer; text-align: left;
-            transition: border-color 0.25s ease, background 0.25s ease, box-shadow 0.25s ease;
+        .sub-addon-options {
+            display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.4rem;
         }
-        body.arabic-mode .sub-addon-option { text-align: right; direction: rtl; }
+        .sub-addon-options.single-option { grid-template-columns: minmax(0, 1fr); }
+        .sub-addon-option {
+            display: flex; align-items: center; justify-content: center; gap: 0.35rem; min-width: 0;
+            height: 42px; padding: 0 0.55rem; box-sizing: border-box;
+            border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 6px;
+            background: rgba(0, 0, 0, 0.25); cursor: pointer; text-align: center;
+            transition: border-color 800ms cubic-bezier(0.23, 1, 0.32, 1), background 800ms cubic-bezier(0.23, 1, 0.32, 1), box-shadow 800ms cubic-bezier(0.23, 1, 0.32, 1), color 800ms cubic-bezier(0.23, 1, 0.32, 1);
+        }
+        body.arabic-mode .sub-addon-option { text-align: center; direction: rtl; }
         .sub-addon-option:hover { border-color: rgba(70, 130, 180, 0.6); background: rgba(70, 130, 180, 0.08); }
         .sub-addon-option.active { border-color: #4682b4; background: rgba(70, 130, 180, 0.16); box-shadow: 0 0 18px rgba(70, 130, 180, 0.32); }
-        .sub-addon-radio {
-            flex: 0 0 16px; width: 16px; height: 16px; border-radius: 50%;
-            border: 2px solid rgba(70, 130, 180, 0.75); box-sizing: border-box; position: relative;
-            transition: border-color 0.25s ease;
-        }
-        .sub-addon-option.active .sub-addon-radio { border-color: #4682b4; }
-        .sub-addon-option.active .sub-addon-radio::after {
-            content: ''; position: absolute; inset: 2px; border-radius: 50%; background: #4682b4;
-            box-shadow: 0 0 8px rgba(70, 130, 180, 0.9);
-        }
         .sub-addon-label {
-            flex: 1; font-family: 'Orbitron', monospace; font-size: 1rem; font-weight: bold;
-            color: rgba(255, 255, 255, 0.8); transition: color 0.3s ease;
+            min-width: 0; font-family: 'Orbitron', monospace; font-size: 0.72rem; font-weight: 800;
+            color: rgba(255, 255, 255, 0.72); white-space: nowrap; transition: color 800ms cubic-bezier(0.23, 1, 0.32, 1);
         }
         .sub-addon-option:hover .sub-addon-label, .sub-addon-option.active .sub-addon-label { color: #ffffff; }
         .sub-addon-price {
-            font-family: 'Orbitron', monospace; font-size: 0.95rem; font-weight: bold;
+            font-family: 'Orbitron', monospace; font-size: 0.68rem; font-weight: 800;
             color: #4682b4; white-space: nowrap; text-shadow: 0 0 8px rgba(70, 130, 180, 0.35);
         }
         body.arabic-mode .sub-addon-label, body.arabic-mode .sub-addon-price { font-family: 'Cairo', sans-serif; }
@@ -1074,6 +1068,12 @@
         }
         body.arabic-mode .sub-addon-icon { margin-right: 0; margin-left: 0.45rem; }
         .sub-addon-title .sub-addon-icon { width: 24px; height: 24px; }
+
+        @media (max-width: 480px) {
+            .sub-addon-option { height: 48px; flex-direction: column; gap: 0.08rem; }
+            .sub-addon-label { font-size: 0.68rem; }
+            .sub-addon-price { font-size: 0.64rem; }
+        }
 
         @media (max-width: 1024px) {
             .sub-pay-screen,
@@ -6020,17 +6020,17 @@
                 </button>
             </div>
             <div id="subAddonCard" class="sub-addon-card">
-                <div class="sub-addon-title"><img class="sub-addon-icon" src="icons/cinema.png" alt=""><span data-en="4K Cinema Fast Streaming" data-ar="بث سينما 4K سريع">4K Cinema Fast Streaming</span></div>
-                <button type="button" class="sub-addon-option" id="subAddonAdd" onclick="subToggleAddon('add')">
-                    <span class="sub-addon-radio"></span>
-                    <span class="sub-addon-label" data-en="Add 4K Cinema Fast Streaming" data-ar="إضافة بث سينما 4K سريع">Add 4K Cinema Fast Streaming</span>
-                    <span class="sub-addon-price" data-en="+100 SAR / year" data-ar="+100 ريال / سنة">+100 SAR / year</span>
-                </button>
-                <button type="button" class="sub-addon-option" id="subAddonOnly" onclick="subToggleAddon('only')">
-                    <span class="sub-addon-radio"></span>
-                    <span class="sub-addon-label" data-en="Only 4K Cinema Fast Streaming" data-ar="بث سينما 4K سريع فقط">Only 4K Cinema Fast Streaming</span>
-                    <span class="sub-addon-price" data-en="100 SAR / year" data-ar="100 ريال / سنة">100 SAR / year</span>
-                </button>
+                <div class="sub-addon-title"><img class="sub-addon-icon" src="icons/cinema.png" alt=""><span data-en="4K Cinema" data-ar="سينما 4K">4K Cinema</span></div>
+                <div class="sub-addon-options" id="subAddonOptions">
+                    <button type="button" class="sub-addon-option" id="subAddonAdd" onclick="subToggleAddon('add')">
+                        <span class="sub-addon-label" data-en="With Subscription ·" data-ar="مع الاشتراك ·">With Subscription ·</span>
+                        <span class="sub-addon-price" data-en="+100 SAR/year" data-ar="+100 ر.س/سنة">+100 SAR/year</span>
+                    </button>
+                    <button type="button" class="sub-addon-option" id="subAddonOnly" onclick="subToggleAddon('only')">
+                        <span class="sub-addon-label" data-en="4K Only ·" data-ar="4K فقط ·">4K Only ·</span>
+                        <span class="sub-addon-price" data-en="100 SAR/year" data-ar="100 ر.س/سنة">100 SAR/year</span>
+                    </button>
+                </div>
             </div>
             <div id="subBankForm" class="sub-bank-form" style="display: none;">
                 <div class="sub-bank-iban" id="subBankIban" onclick="subCopyIban()" title="Click to copy IBAN">
@@ -6956,6 +6956,8 @@
         let _subIbanSwapTimer = null;
         let _subReceiptFile = null;
         let _subReceiptPreviewUrl = null;
+        let _subReceiptSwapToken = 0;
+        let _subReceiptTransitioning = false;
         let _subBankRequest = null;
         let _subSubmissionToken = null;
         const SUB_RECEIPT_MAX_BYTES = 20 * 1024 * 1024;
@@ -7001,45 +7003,79 @@
             subSetReceipt(event.dataTransfer?.files?.[0] || null);
         }
 
-        function subSetReceipt(file) {
+        async function subSetReceipt(file) {
             if (!file) return;
             const extension = String(file.name || '').split('.').pop().toLowerCase();
             const extensionAllowed = ['jpg', 'jpeg', 'png', 'webp', 'pdf'].includes(extension);
             if (!SUB_RECEIPT_TYPES.has(file.type) && !extensionAllowed) {
                 showErrorToast(subIsArabic() ? 'اختر صورة JPG أو PNG أو WebP أو ملف PDF.' : 'Choose a JPG, PNG, WebP, or PDF receipt.');
-                subClearReceipt();
                 return;
             }
             if (file.size < 1 || file.size > SUB_RECEIPT_MAX_BYTES) {
                 showErrorToast(subIsArabic() ? 'يجب ألا يتجاوز حجم الإيصال 20 ميجابايت.' : 'The receipt must be 20 MB or smaller.');
-                subClearReceipt();
                 return;
             }
 
-            subClearReceipt();
-            _subReceiptFile = file;
             const upload = document.getElementById('subReceiptUpload');
+            const replacing = !!_subReceiptFile && !!upload?.classList.contains('is-ready');
+            const swapToken = ++_subReceiptSwapToken;
+            const isPdf = file.type === 'application/pdf' || extension === 'pdf';
+            const nextPreviewUrl = isPdf ? null : URL.createObjectURL(file);
+            _subReceiptTransitioning = true;
+            const submitBtn = document.getElementById('subBankSubmit');
+            if (submitBtn) submitBtn.disabled = true;
+            if (replacing) upload?.classList.add('is-swapping');
+
+            const exitAnimation = replacing
+                ? new Promise(resolve => setTimeout(resolve, 800))
+                : Promise.resolve();
+            const previewReady = nextPreviewUrl
+                ? new Promise(resolve => {
+                    const probe = new Image();
+                    probe.onload = resolve;
+                    probe.onerror = resolve;
+                    probe.src = nextPreviewUrl;
+                })
+                : Promise.resolve();
+            await Promise.all([exitAnimation, previewReady]);
+            if (swapToken !== _subReceiptSwapToken) {
+                if (nextPreviewUrl) URL.revokeObjectURL(nextPreviewUrl);
+                return;
+            }
+
+            if (_subReceiptPreviewUrl) URL.revokeObjectURL(_subReceiptPreviewUrl);
+            _subReceiptPreviewUrl = nextPreviewUrl;
+            _subReceiptFile = file;
             const preview = document.getElementById('subReceiptPreview');
             const pdf = document.getElementById('subReceiptPdf');
             const name = document.getElementById('subReceiptName');
             const meta = document.getElementById('subReceiptMeta');
-            const isPdf = file.type === 'application/pdf' || extension === 'pdf';
 
             if (name) name.textContent = file.name;
             if (meta) meta.textContent = `${subIsArabic() ? 'جاهز' : 'Ready'} · ${subReceiptSize(file.size)}`;
             if (preview) {
+                if (isPdf) preview.removeAttribute('src');
+                else preview.src = nextPreviewUrl;
                 preview.style.display = isPdf ? 'none' : 'block';
-                if (!isPdf) {
-                    _subReceiptPreviewUrl = URL.createObjectURL(file);
-                    preview.src = _subReceiptPreviewUrl;
-                }
             }
             if (pdf) pdf.style.display = isPdf ? 'inline' : 'none';
-            requestAnimationFrame(() => upload?.classList.add('is-ready'));
+            upload?.classList.remove('is-ready');
+            requestAnimationFrame(() => requestAnimationFrame(() => {
+                if (swapToken !== _subReceiptSwapToken) return;
+                upload?.classList.remove('is-swapping');
+                upload?.classList.add('is-ready');
+                _subReceiptTransitioning = false;
+                if (submitBtn) {
+                    submitBtn.disabled = false;
+                    submitBtn.textContent = subSubmitLabel();
+                }
+            }));
         }
 
         function subClearReceipt() {
             if (_subBankRequest) return;
+            _subReceiptSwapToken++;
+            _subReceiptTransitioning = false;
             if (_subReceiptPreviewUrl) URL.revokeObjectURL(_subReceiptPreviewUrl);
             _subReceiptPreviewUrl = null;
             _subReceiptFile = null;
@@ -7047,10 +7083,15 @@
             const preview = document.getElementById('subReceiptPreview');
             const upload = document.getElementById('subReceiptUpload');
             const progress = document.getElementById('subReceiptProgress');
+            const submitBtn = document.getElementById('subBankSubmit');
             if (input) input.value = '';
             if (preview) { preview.removeAttribute('src'); preview.style.display = 'none'; }
             if (progress) progress.style.width = '0%';
-            upload?.classList.remove('is-ready', 'is-uploading', 'drag-active');
+            upload?.classList.remove('is-ready', 'is-swapping', 'is-uploading', 'drag-active');
+            if (submitBtn) {
+                submitBtn.disabled = false;
+                submitBtn.textContent = subSubmitLabel();
+            }
         }
 
         function subSetUploadProgress(percent) {
@@ -7131,8 +7172,10 @@
             // "Add" needs a base plan to add to; "Only" is always offered.
             const addBtn = document.getElementById('subAddonAdd');
             const onlyBtn = document.getElementById('subAddonOnly');
+            const options = document.getElementById('subAddonOptions');
             if (addBtn) { addBtn.style.display = plan ? 'flex' : 'none'; addBtn.classList.toggle('active', mode === 'add'); }
             if (onlyBtn) onlyBtn.classList.toggle('active', mode === 'only');
+            options?.classList.toggle('single-option', !plan);
 
             const submitBtn = document.getElementById('subBankSubmit');
             if (submitBtn && !submitBtn.disabled) {
@@ -7306,7 +7349,7 @@
         async function subSubmitBankTransfer() {
             const plan = SUB_PLANS[_subSelectedPlan];
             const bank = _subSelectedBank;
-            if ((!plan && _subAddonMode !== 'only') || !bank || _subPayAnimating) return;
+            if ((!plan && _subAddonMode !== 'only') || !bank || _subPayAnimating || _subReceiptTransitioning) return;
             const email = document.getElementById('subBankEmail')?.value.trim() || '';
             if (!isValidSubscriptionEmail(email)) {
                 showErrorToast(subIsArabic() ? 'أدخل بريد حسابك في ريترو بروجكت.' : 'Please enter your Retro Project account email.');
