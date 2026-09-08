@@ -127239,18 +127239,18 @@
         "versions": [
           {
             "identifier": "RPRP018",
-            "name": "AMD & INTEL",
+            "name": "Vanilla",
             "platform": "PC Game",
             "fileSize": "9 GB",
-            "executable": "hypervisor-launcher.exe",
+            "executable": "BDFFHD.exe",
             "arguments": [],
-            "buildID": "12 March 2026",
+            "buildID": "8 September 2026",
             "filename": "00622.zip"
           }
         ]
       }
     },
-    "Tags": ["Hypervisor 2.0", "Working on"]
+    "Tags": []
   },
   {
     "_id": "game_1774566663325_0",
@@ -147378,6 +147378,111 @@
             "fileSize": "24 GB",
             "filename": "02974.zip",
             "executable": "Nightfall\\Binaries\\Win64\\NightfallClient-Win64-Shipping.exe",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1788870953694_0",
+    "Name": "Onimusha Blade Warriors",
+    "MediaId": "004501",
+    "SortingName": "Onimusha 00.02",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004501C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004501B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004501M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004501T.mp4",
+    "videoStart": 4.301667,
+    "videoEnd": 126.107673,
+    "PlatformNames": ["Sony PlayStation 2"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Sony PlayStation 2": {
+        "versions": [
+          {
+            "identifier": "RPRP068",
+            "name": "Vanilla",
+            "platform": "Sony PlayStation 2",
+            "fileSize": "5 GB",
+            "filename": "02975.zip",
+            "romFiles": ["R1.iso", "R2.iso"],
+            "romLabels": ["English VA", "Japanese VA"],
+            "emulator": "PCSX2",
+            "arguments": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1788870960219_0",
+    "Name": "Onimusha Tactics",
+    "MediaId": "004502",
+    "SortingName": "Onimusha 00.01",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004502C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004502B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004502M.mp3",
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004502T.mp4",
+    "videoStart": 5.138076,
+    "videoEnd": 60,
+    "PlatformNames": ["Nintendo Game Boy Advance"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "Nintendo Game Boy Advance": {
+        "versions": [
+          {
+            "identifier": "RPRP068",
+            "name": "Vanilla",
+            "platform": "Nintendo Game Boy Advance",
+            "fileSize": "8 MB",
+            "filename": "02976.gba",
+            "romFile": "02976.gba",
+            "emulator": "RetroArch",
+            "arguments": ["-L", ".\\cores\\mgba_libretro.dll"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_id": "game_1788875290445_0",
+    "Name": "Port of Jumanah",
+    "MediaId": "004503",
+    "SortingName": "",
+    "Description": "",
+    "DescriptionArabic": "",
+    "ReleaseDate": null,
+    "CriticScore": null,
+    "CoverUrl": "https://archive.org/download/RPRM002/004503C.jpg",
+    "BackgroundUrl": "https://archive.org/download/RPRM002/004503B.jpg",
+    "MusicUrl": "https://archive.org/download/RPRM002/004503M.mp3",
+    "YouTubeUrl": "",
+    "videoStart": null,
+    "videoEnd": null,
+    "PlatformNames": ["PC Game"],
+    "GenreNames": [],
+    "DeveloperNames": [],
+    "downloadInfo": {
+      "PC Game": {
+        "versions": [
+          {
+            "identifier": "RPRP068",
+            "name": "Vanilla",
+            "platform": "PC Game",
+            "fileSize": "1004 MB",
+            "filename": "02977.zip",
+            "executable": "Port Of Jumanah.exe",
             "arguments": []
           }
         ]
