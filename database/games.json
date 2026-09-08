@@ -147339,12 +147339,12 @@
         "versions": [
           {
             "identifier": "RPRP068",
-            "name": "Vanilla",
+            "name": "Online",
             "platform": "PC Game",
             "fileSize": "95 GB",
-            "filename": "02973.zip",
             "executable": "EOSAuthLauncher.exe",
-            "arguments": []
+            "arguments": [],
+            "filename": "02973.zip"
           }
         ]
       }
@@ -147467,9 +147467,9 @@
     "CoverUrl": "https://archive.org/download/RPRM002/004503C.jpg",
     "BackgroundUrl": "https://archive.org/download/RPRM002/004503B.jpg",
     "MusicUrl": "https://archive.org/download/RPRM002/004503M.mp3",
-    "YouTubeUrl": "",
-    "videoStart": null,
-    "videoEnd": null,
+    "YouTubeUrl": "https://archive.org/download/RPRM002/004503T.mp4",
+    "videoStart": 0,
+    "videoEnd": 0,
     "PlatformNames": ["PC Game"],
     "GenreNames": [],
     "DeveloperNames": [],
@@ -147487,6 +147487,7 @@
           }
         ]
       }
-    }
+    },
+    "Tags": ["Need Music"]
   }
 ]
