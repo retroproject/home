@@ -12988,21 +12988,22 @@
       "Nintendo 3DS": {
         "versions": [
           {
-            "identifier": "retro-3ds",
-            "filename": "Shin Megami Tensei IV (Undub).3ds",
-            "name": "Japanese VA",
+            "identifier": "RPRP068",
+            "name": "Collection",
             "platform": "Nintendo 3DS",
             "emulator": "Citra",
-            "fileSize": "2GB",
-            "romFile": "Shin Megami Tensei IV (Undub).3ds"
+            "fileSize": "4GB",
+            "romFiles": ["R1.3ds", "R2.3ds"],
+            "romLabels": ["English VA", "Japanese VA"],
+            "filename": "02978.zip"
           },
           {
-            "identifier": "retro-3ds",
-            "filename": "Shin Megami Tensei IV HD Textures.zip",
+            "identifier": "RPRP068",
             "name": "HD Textures",
             "platform": "Nintendo 3DS",
             "emulator": "Citra",
-            "fileSize": "2GB"
+            "fileSize": "2GB",
+            "filename": "02978 HD Textures.zip"
           }
         ]
       }
