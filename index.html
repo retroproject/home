@@ -954,7 +954,8 @@
             content: ''; position: absolute; top: 100%; right: 14px;
             border: 7px solid transparent; border-top-color: rgba(184, 134, 11, 0.6);
         }
-        body.arabic-mode .sub-bank-help-tip { text-align: right; direction: rtl; font-family: 'Cairo', sans-serif; font-size: 0.9rem; }
+        body.arabic-mode .sub-bank-help-tip { left: -8px; right: auto; text-align: right; direction: rtl; font-family: 'Cairo', sans-serif; font-size: 0.9rem; }
+        body.arabic-mode .sub-bank-help-tip::after { left: 14px; right: auto; }
         .sub-bank-help:hover .sub-bank-help-tip, .sub-bank-help:focus .sub-bank-help-tip {
             opacity: 1; visibility: visible; transform: translateY(0);
         }
@@ -999,7 +1000,7 @@
             box-shadow: 0 0 24px rgba(220, 20, 60, 0.42);
         }
 
-        /* ── 4K Cinema Fast Streaming add-on (bank transfer only) ──
+        /* ── Cinema + Unlimited Cloud add-on (bank transfer only) ──
            Gold = the tier price gold (#b8860b). Cinema = the Dark Slayer blue (#4682b4).
            Text = Retro Manager toggle look (Orbitron, bold, 1rem). */
         .sub-pay-method.sub-method-disabled { opacity: 0.28 !important; cursor: default; filter: grayscale(1); pointer-events: none; }
@@ -1086,6 +1087,20 @@
                 top: 360px;
                 box-sizing: border-box;
             }
+            #main-section:has(#subPayScreen:not([style*="display: none"])) { padding-bottom: 2rem; }
+            #main-section .sub-pay-screen { position: relative; top: auto; left: auto; right: auto; margin: 0 auto; padding-top: 310px; }
+            #main-section:has(#subPayScreen:not([style*="display: none"])) .subscription-tier-layout { display: none; }
+            .sub-pay-plan, body.arabic-mode .sub-pay-plan { font-size: 1.05rem; letter-spacing: 0; max-width: 100%; overflow-wrap: anywhere; }
+            .sub-addon-title { font-size: 1rem; }
+            .sub-addon-option { height: auto; min-height: 50px; gap: 0.5rem; padding: 0.65rem; }
+            .sub-addon-label { min-width: 0; font-size: 0.82rem; overflow-wrap: anywhere; }
+            .sub-addon-price { font-size: 0.75rem; }
+            .sub-addon-link, body.arabic-mode .sub-addon-link { max-width: 100%; box-sizing: border-box; font-size: 1rem; letter-spacing: 0; text-align: center; }
+            .sub-addon-link span { min-width: 0; overflow-wrap: anywhere; }
+            .sub-addon-icon { flex-shrink: 0; }
+            .sub-bank-help-tip { width: min(320px, calc(100vw - 80px)); }
+            .sub-bank-iban { letter-spacing: 0; font-size: 0.9rem; }
+            #subBankIbanText { min-width: 0; overflow-wrap: anywhere; }
         }
 
         .subscription-email-panel {
@@ -6022,15 +6037,15 @@
                 </button>
             </div>
             <div id="subAddonCard" class="sub-addon-card">
-                <div class="sub-addon-title"><img class="sub-addon-icon" src="icons/cinema.png" alt=""><span data-en="4K Cinema Fast Streaming" data-ar="بث سينما بجودة عالية">4K Cinema Fast Streaming</span></div>
+                <div class="sub-addon-title"><img class="sub-addon-icon" src="icons/cinema.png" alt=""><span data-en="Cinema + Unlimited Cloud" data-ar="السينما + تخزين سحابي بلا حدود">Cinema + Unlimited Cloud</span></div>
                 <button type="button" class="sub-addon-option" id="subAddonAdd" onclick="subToggleAddon('add')">
                     <span class="sub-addon-radio"></span>
-                    <span class="sub-addon-label" data-en="Add 4K Cinema Fast Streaming" data-ar="إضافة بث سينما بجودة عالية">Add 4K Cinema Fast Streaming</span>
-                    <span class="sub-addon-price" data-en="+100 SAR / year" data-ar="+100 ريال / سنة">+100 SAR / year</span>
+                    <span class="sub-addon-label" data-en="Cinema + Unlimited Cloud" data-ar="السينما + تخزين سحابي بلا حدود">Cinema + Unlimited Cloud</span>
+                    <span class="sub-addon-price" data-en="+100 SAR / 6 Months" data-ar="+100 ريال / ٦ أشهر">+100 SAR / 6 Months</span>
                 </button>
                 <div class="sub-addon-option active" id="subAddonStandalone" style="display: none; cursor: default;">
-                    <span class="sub-addon-label" data-en="Only 4K Cinema Fast Streaming" data-ar="بث سينما بجودة عالية فقط">Only 4K Cinema Fast Streaming</span>
-                    <span class="sub-addon-price" data-en="100 SAR / year" data-ar="100 ريال / سنة">100 SAR / year</span>
+                    <span class="sub-addon-label" data-en="Cinema + Unlimited Cloud" data-ar="السينما + تخزين سحابي بلا حدود">Cinema + Unlimited Cloud</span>
+                    <span class="sub-addon-price" data-en="100 SAR / 6 Months" data-ar="100 ريال / ٦ أشهر">100 SAR / 6 Months</span>
                 </div>
             </div>
             <div id="subBankForm" class="sub-bank-form" style="display: none;">
@@ -6121,7 +6136,7 @@
             </div>
 
             <div class="subscription-tier-row sub-addon-link-row">
-                <div class="sub-addon-link" onclick="subShowPayScreen(null, 'only')"><img class="sub-addon-icon" src="icons/cinema.png" alt=""><span data-en="4K Cinema Fast Streaming · 100 SAR / year" data-ar="بث سينما بجودة عالية · 100 ريال / سنة">4K Cinema Fast Streaming · 100 SAR / year</span></div>
+                <div class="sub-addon-link" onclick="subShowPayScreen(null, 'only')"><img class="sub-addon-icon" src="icons/cinema.png" alt=""><span data-en="Cinema + Unlimited Cloud · 100 SAR / 6 Months" data-ar="السينما + تخزين سحابي بلا حدود · 100 ريال / ٦ أشهر">Cinema + Unlimited Cloud · 100 SAR / 6 Months</span></div>
             </div>
 
         </div>
@@ -6857,7 +6872,7 @@
             if (!button) return;
 
             const email = input ? input.value.trim() : '';
-            button.disabled = !selectedPayPalPlanKey || !isValidSubscriptionEmail(email);
+            button.disabled = !selectedPayPalPlanKey || selectedPayPalPlanKey === PAYPAL_LIFETIME_PLAN_KEY || !isValidSubscriptionEmail(email);
         }
 
         function selectPayPalPlan(planKey) {
@@ -6878,6 +6893,10 @@
         }
 
         async function submitSelectedPayPalSubscription() {
+            if (selectedPayPalPlanKey === PAYPAL_LIFETIME_PLAN_KEY) {
+                showErrorToast(currentLanguage === 'ar' ? 'استخدم بنك STC أو الراجحي.' : 'Use STC Bank or Al Rajhi.');
+                return;
+            }
             const input = getSubscriptionEmailInput();
             const button = document.getElementById('subscriptionPayPalButton');
             const email = input ? input.value.trim() : '';
@@ -6947,8 +6966,8 @@
             stc:   { display: 'SA96 7800 0000 0013 2293 2703', copy: 'SA9678000000001322932703' },
             rajhi: { display: 'SA50 8000 0111 6080 1068 5796', copy: 'SA5080000111608010685796' }
         };
-        // 4K Cinema Fast Streaming add-on — bank transfer only (no PayPal plan).
-        const SUB_ADDON = { key: 'cinema4k', sar: 100, labelEn: '4K Cinema Fast Streaming', labelAr: 'بث سينما بجودة عالية' };
+        // Cinema + Unlimited Cloud add-on — bank transfer only (no PayPal plan).
+        const SUB_ADDON = { key: 'cinema_cloud_6m', sar: 100, labelEn: 'Cinema + Unlimited Cloud', labelAr: 'السينما + تخزين سحابي بلا حدود' };
         let _subAddonMode = null; // null | 'add' | 'only'
         let _subSelectedPlan = null;
         let _subSelectedBank = null;
@@ -7184,7 +7203,12 @@
 
             // PayPal is only for the plain tiers — it just dims while a 4K option is on
             const paypalBtn = document.getElementById('subPayMethodPaypal');
-            if (paypalBtn) paypalBtn.classList.toggle('sub-method-disabled', !!mode);
+            if (paypalBtn) {
+                const bankOnly = !!mode || _subSelectedPlan === 'son_of_sparda';
+                paypalBtn.classList.toggle('sub-method-disabled', bankOnly);
+                paypalBtn.disabled = bankOnly;
+                paypalBtn.setAttribute('aria-disabled', String(bankOnly));
+            }
         }
 
         function subToggleAddon(mode) {
@@ -7300,8 +7324,8 @@
         async function subPayWithPayPal() {
             const plan = SUB_PLANS[_subSelectedPlan];
             if (!plan || _subPayAnimating) return;
-            if (_subAddonMode) {
-                showErrorToast(subIsArabic() ? 'باي بال غير متاح مع السينما عالية الجودة — استخدم التحويل البنكي.' : 'PayPal is not available with 4K Cinema — use bank transfer.');
+            if (_subAddonMode || _subSelectedPlan === 'son_of_sparda') {
+                showErrorToast(subIsArabic() ? 'استخدم بنك STC أو الراجحي.' : 'Use STC Bank or Al Rajhi.');
                 return;
             }
             const email = document.getElementById('subBankEmail')?.value.trim() || '';
@@ -8558,7 +8582,7 @@
         const ITEMS_PER_BATCH = 24;
         const SCROLL_THRESHOLD = 300;
 
-        const BOOKS_DATABASE_URL = 'https://raw.githubusercontent.com/retroproject/home/refs/heads/main/database/books.json';
+        const BOOKS_DATABASE_URL = 'https://catalog.retroproject.org/books.json';
         const BOOKS_ITEMS_PER_BATCH = 24;
         const BOOK_CATEGORY_ICONS = {
             all: 'https://db.retroproject.org/icons/Book%20%5B004%5D.png',
@@ -11108,7 +11132,7 @@ let currentVideoEnd = null; // End boundary for current video
 let videoMonitorInterval = null; // Interval to monitor video position
 let directTrailerPlayer = null;
 
-        const GAMES_DATABASE_URL = 'https://raw.githubusercontent.com/retroproject/home/refs/heads/main/database/games.json';
+        const GAMES_DATABASE_URL = 'https://catalog.retroproject.org/games.json';
         const CLOUDFLARE_LOCALDB_BASE_URL = 'https://db.retroproject.org/localdb';
         const cloudflareAssetFallbacks = new Map();
 
