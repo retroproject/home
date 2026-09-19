@@ -37,72 +37,58 @@
         return { outer, content };
     }
     async function session() { return (await (await client()).auth.getSession()).data.session; }
-    function authForm(host, message, done) {
-        const form = node('form', '', 'sharing-auth');
-        const email = field('email', tr('Account Email', 'البريد الإلكتروني'));
-        email.value = document.getElementById('subBankEmail')?.value || '';
-        const password = field('password', tr('Password', 'كلمة المرور'));
-        const signIn = command(tr('Sign In', 'تسجيل الدخول'), () => form.requestSubmit());
-        form.append(email, password, signIn); host.append(form);
-        form.addEventListener('submit', async e => {
-            e.preventDefault(); if (signIn.disabled) return; signIn.disabled = true; message.textContent = '';
-            try {
-                const { error } = await (await client()).auth.signInWithPassword({ email: email.value.trim(), password: password.value });
-                password.value = '';
-                if (error) throw new Error(tr('Sign in failed. Check your email and password.', 'تعذر تسجيل الدخول. تحقق من البريد وكلمة المرور.'));
-                form.remove(); await done();
-            } catch (e) { message.textContent = e.message; }
-            finally { password.value = ''; signIn.disabled = false; }
-        });
-    }
-
-    const checkout = { open: false, email: null, message: null, host: null, busy: false };
+    const checkout = { open: false, email: null };
     const bankEmail = document.getElementById('subBankEmail');
     if (bankEmail) {
-        const host = node('section', '', 'subscription-sharing');
-        const exp = expansion(); const message = node('div', '', 'sharing-message'); message.setAttribute('role', 'status');
+        const host = node('section', '', 'subscription-sharing sharing-checkout');
+        const exp = expansion();
         const email = field('email', tr('Share With', 'المشاركة مع'));
-        const auth = node('div');
-        exp.content.append(email, node('small', tr('1 device each · Requires approval', 'جهاز لكل حساب · يتطلب الموافقة'), 'sharing-note'), auth, message);
-        host.append(exp.outer); bankEmail.closest('.sub-bank-field').after(host);
-        const toggle = icon(tr('Share', 'مشاركة'), 'Users [001].png', async () => {
-            checkout.open = !checkout.open; exp.outer.classList.toggle('is-open', checkout.open);
-            exp.outer.inert = !checkout.open; toggle.setAttribute('aria-expanded', String(checkout.open));
-            if (!checkout.open) { email.value = ''; auth.replaceChildren(); message.textContent = ''; return; }
-            if (!(await session()) && !auth.children.length) authForm(auth, message, async () => { message.textContent = ''; });
-            email.focus();
+        email.className = 'sub-bank-input';
+        email.autocomplete = 'off';
+        exp.content.append(email);
+        host.append(exp.outer);
+        const bankField = bankEmail.closest('.sub-bank-field');
+        const group = node('div', '', 'sharing-email-group');
+        const row = node('div', '', 'sharing-email-row');
+        bankField.before(group);
+        group.append(row, host);
+        row.append(bankField);
+        const toggle = icon(tr('Share', 'مشاركة'), 'add-person.svg', () => {
+            checkout.open = !checkout.open;
+            exp.outer.classList.toggle('is-open', checkout.open);
+            exp.outer.inert = !checkout.open;
+            toggle.setAttribute('aria-expanded', String(checkout.open));
+            if (checkout.open) email.focus(); else email.value = '';
         });
-        bankEmail.closest('.sub-bank-field').append(toggle);
-        bankEmail.closest('.sub-bank-field').classList.add('has-sharing');
+        toggle.classList.add('sub-bank-input', 'sharing-checkout-toggle');
+        toggle.classList.remove('sharing-icon');
+        toggle.setAttribute('aria-expanded', 'false');
+        row.append(toggle);
+        const matchHeight = () => {
+            const height = parseFloat(getComputedStyle(bankEmail).height);
+            if (height > 0) row.style.setProperty('--sharing-input-height', height + 'px');
+        };
+        new ResizeObserver(matchHeight).observe(bankEmail);
+        const translate = () => {
+            email.placeholder = tr('Share With', 'المشاركة مع');
+            email.setAttribute('aria-label', email.placeholder);
+            toggle.title = tr('Share', 'مشاركة');
+            toggle.setAttribute('aria-label', toggle.title);
+        };
+        new MutationObserver(translate).observe(document.body, { attributes: true, attributeFilter: ['class'] });
         exp.outer.inert = true;
-        Object.assign(checkout, { email, message, host });
+        Object.assign(checkout, { email });
     }
     async function validateCheckout() {
         if (!checkout.open) return null;
-        const s = await session();
-        if (!s || !s.user.email_confirmed_at) throw new Error(tr('Sign in with your verified account to share.', 'سجل الدخول بحسابك المؤكد للمشاركة.'));
         const email = checkout.email.value.trim().toLowerCase();
-        if (!email || !checkout.email.checkValidity() || email === s.user.email?.toLowerCase()) throw new Error(tr('Enter a different valid email.', 'أدخل بريداً آخر صالحاً.'));
-        if (bankEmail.value.trim().toLowerCase() !== s.user.email?.toLowerCase()) throw new Error(tr('Use your signed-in account email for sharing.', 'استخدم بريد الحساب الذي سجلت الدخول به للمشاركة.'));
-        return Object.freeze({ email, userId: s.user.id });
+        const ownerEmail = bankEmail.value.trim().toLowerCase();
+        if (!email || !checkout.email.checkValidity() || email === ownerEmail) {
+            throw new Error(tr('Enter a different valid email.', 'أدخل بريداً آخر صالحاً.'));
+        }
+        return Object.freeze({ email });
     }
-    async function submitCheckout(claimId, request) {
-        if (!request || checkout.busy) return;
-        checkout.busy = true;
-        try {
-            const s = await session();
-            if (s?.user.id !== request.userId) throw new Error('Account changed. Submit sharing from Profile.');
-            if (!claimId) throw new Error('Payment saved. Submit sharing from Profile.');
-            await rpc('request_subscription_share', { p_email: request.email, p_claim_id: claimId });
-            checkout.message.textContent = tr('Sharing request sent.', 'تم إرسال طلب المشاركة.');
-        } catch (e) {
-            // A sharing failure must never make a successful payment appear to have failed.
-            const text = tr('Payment saved. Sharing was not submitted: ', 'تم حفظ الدفع. لم يتم إرسال المشاركة: ') + e.message;
-            checkout.message.textContent = text;
-            if (typeof showToast === 'function') showToast(text, 'error');
-        } finally { checkout.busy = false; }
-    }
-    window.RetroSharing = { validateCheckout, submitCheckout };
+    window.RetroSharing = { validateCheckout };
 
     const manager = node('section', '', 'subscription-sharing sharing-manager');
     const summary = node('span', tr('Sharing', 'المشاركة'), 'sharing-summary');
@@ -113,7 +99,7 @@
         const token = ++generation; message.textContent = ''; content.replaceChildren();
         try {
             const s = await session(); if (token !== generation) return;
-            if (!s) { authForm(content, message, refresh); return; }
+            if (!s) return;
             const data = await rpc('get_subscription_sharing'); if (token !== generation) return;
             const active = data.requests.find(r => r.status === 'active');
             summary.textContent = active ? `${active.owner_id === s.user.id ? tr('Sharing', 'المشاركة') : tr('Shared By', 'المشاركة من')}: ${active.owner_id === s.user.id ? active.recipient_email : active.owner_email}` : tr('Sharing', 'المشاركة');
@@ -143,15 +129,14 @@
         catch (e) { await refresh(); message.textContent = e.message; }
         finally { busy = false; content.querySelectorAll('button,input').forEach(e => e.disabled = false); }
     }
-    const toggle = icon(tr('Share', 'مشاركة'), 'Users [001].png', () => {
+    const toggle = icon(tr('Share', 'مشاركة'), 'add-person.svg', () => {
         open = !open; exp.outer.classList.toggle('is-open', open); exp.outer.inert = !open;
         toggle.setAttribute('aria-expanded', String(open)); if (open) refresh(); else ++generation;
     });
     header.append(summary, toggle); exp.content.append(content, message); exp.outer.inert = true;
     manager.append(header, exp.outer);
     const anchor = document.getElementById('subscriptionQuickStat');
-    if (anchor) anchor.parentElement.after(manager);
-    else document.querySelector('.subscription-tier-layout')?.after(manager);
+    if (app && anchor) anchor.parentElement.after(manager);
 
     if (app) {
         let checking = false, resetNotified = false, preparedFor = '';

@@ -7410,6 +7410,7 @@
                 formData.append('plan', claimPlan);
                 if (claimAddon) formData.append('addon', claimAddon);
                 formData.append('email', email);
+                if (sharingRequest) formData.append('sharing_email', sharingRequest.email);
                 formData.append('submission_token', _subSubmissionToken);
                 formData.append('receipt', _subReceiptFile, _subReceiptFile.name);
 
@@ -7429,7 +7430,6 @@
                     showErrorToast(message);
                     return;
                 }
-                await window.RetroSharing?.submitCheckout(data.claim_id, sharingRequest);
                 subSetUploadProgress(100);
                 const claimCode = String(data.claim_code || '');
                 showToast(subIsArabic()

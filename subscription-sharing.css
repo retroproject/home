@@ -4,7 +4,7 @@
 .sharing-icon { display: inline-flex; flex: 0 0 34px; width: 34px; height: 34px; align-items: center; justify-content: center; border: 1px solid #644f80; border-radius: 4px; background: #151219; cursor: pointer; }
 .sharing-icon img { width: 22px; height: 22px; object-fit: contain; }
 .subscription-sharing button:disabled { opacity: .45; cursor: default; }
-.subscription-sharing input { box-sizing: border-box; width: 100%; padding: 10px 12px; border: 1px solid #644f80; border-radius: 4px; background: #121016; color: #eee; font: inherit; font-size: 13px; letter-spacing: 0; }
+.sharing-manager input { box-sizing: border-box; width: 100%; padding: 10px 12px; border: 1px solid #644f80; border-radius: 4px; background: #121016; color: #eee; font: inherit; font-size: 13px; letter-spacing: 0; }
 .sharing-expand { display: grid; grid-template-rows: 0fr; opacity: 0; transform: translateY(-6px); transition: grid-template-rows 280ms ease, opacity 240ms ease, transform 280ms ease; }
 .sharing-expand.is-open { grid-template-rows: 1fr; opacity: 1; transform: translateY(0); }
 .sharing-expand > div { overflow: hidden; min-height: 0; }
@@ -15,10 +15,15 @@
 .sharing-command { color: #eee; border: 1px solid #644f80; background: #201a29; border-radius: 4px; padding: 7px 12px; font: inherit; font-size: 12px; cursor: pointer; }
 .sharing-command:hover { background: #31273f; }
 .sharing-manager { max-width: 720px; margin: 12px auto; text-align: start; }
-.sharing-auth { display: grid; gap: 8px; padding-top: 8px; }
-.sharing-auth[hidden] { display: none; }
 .sharing-summary { font-size: 12px; overflow-wrap: anywhere; }
-.sub-bank-field.has-sharing { display: grid; grid-template-columns: minmax(0, 1fr) 34px; gap: 10px; align-items: center; }
-.sub-bank-field.has-sharing .sub-bank-help { right: 56px; }
-body.arabic-mode .sub-bank-field.has-sharing .sub-bank-help { right: auto; left: 56px; }
 @media (prefers-reduced-motion: reduce) { .sharing-expand { transition: none; transform: none; } }
+.sharing-email-row { display: grid; grid-template-columns: minmax(0, 1fr) var(--sharing-input-height, 56px); gap: 10px; width: 100%; align-items: stretch; }
+.sharing-email-row > .sub-bank-field { min-width: 0; }
+.sharing-checkout-toggle.sub-bank-input { width: var(--sharing-input-height, 56px); height: var(--sharing-input-height, 56px); padding: 0; display: flex; align-items: center; justify-content: center; cursor: pointer; }
+.sharing-checkout-toggle img { width: 26px; height: 26px; object-fit: contain; }
+.sharing-checkout-toggle:hover { border-color: rgba(184, 134, 11, .95); box-shadow: 0 0 28px rgba(184, 134, 11, .38); }
+.sharing-email-group { width: 100%; min-width: 0; }
+.sharing-checkout .sharing-content { padding: 0; transition: padding 280ms ease; }
+.sharing-checkout .is-open .sharing-content { padding-top: .9rem; }
+.sharing-checkout .sub-bank-input { min-width: 0; font-family: inherit; }
+.sharing-checkout:has(.sharing-expand:not(.is-open)) { margin: 0; }
