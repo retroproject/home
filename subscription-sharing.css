@@ -1,0 +1,24 @@
+.subscription-sharing { font: inherit; color: #ddd; min-width: 0; width: 100%; letter-spacing: 0; }
+.sharing-row { display: flex; align-items: center; gap: 10px; min-width: 0; flex-wrap: wrap; }
+.sharing-row > input { flex: 1 1 180px; min-width: 0; }
+.sharing-icon { display: inline-flex; flex: 0 0 34px; width: 34px; height: 34px; align-items: center; justify-content: center; border: 1px solid #644f80; border-radius: 4px; background: #151219; cursor: pointer; }
+.sharing-icon img { width: 22px; height: 22px; object-fit: contain; }
+.subscription-sharing button:disabled { opacity: .45; cursor: default; }
+.subscription-sharing input { box-sizing: border-box; width: 100%; padding: 10px 12px; border: 1px solid #644f80; border-radius: 4px; background: #121016; color: #eee; font: inherit; font-size: 13px; letter-spacing: 0; }
+.sharing-expand { display: grid; grid-template-rows: 0fr; opacity: 0; transform: translateY(-6px); transition: grid-template-rows 280ms ease, opacity 240ms ease, transform 280ms ease; }
+.sharing-expand.is-open { grid-template-rows: 1fr; opacity: 1; transform: translateY(0); }
+.sharing-expand > div { overflow: hidden; min-height: 0; }
+.sharing-content { padding: 12px 0; display: grid; gap: 12px; }
+.sharing-item { padding: 10px 0; border-bottom: 1px solid #ffffff20; overflow-wrap: anywhere; }
+.sharing-item small, .sharing-note { color: #b6b0bd; font-size: 12px; }
+.sharing-message { color: #e8bb65; font-size: 12px; overflow-wrap: anywhere; }
+.sharing-command { color: #eee; border: 1px solid #644f80; background: #201a29; border-radius: 4px; padding: 7px 12px; font: inherit; font-size: 12px; cursor: pointer; }
+.sharing-command:hover { background: #31273f; }
+.sharing-manager { max-width: 720px; margin: 12px auto; text-align: start; }
+.sharing-auth { display: grid; gap: 8px; padding-top: 8px; }
+.sharing-auth[hidden] { display: none; }
+.sharing-summary { font-size: 12px; overflow-wrap: anywhere; }
+.sub-bank-field.has-sharing { display: grid; grid-template-columns: minmax(0, 1fr) 34px; gap: 10px; align-items: center; }
+.sub-bank-field.has-sharing .sub-bank-help { right: 56px; }
+body.arabic-mode .sub-bank-field.has-sharing .sub-bank-help { right: auto; left: 56px; }
+@media (prefers-reduced-motion: reduce) { .sharing-expand { transition: none; transform: none; } }

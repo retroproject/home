@@ -6040,7 +6040,7 @@
                 <div class="sub-addon-title"><img class="sub-addon-icon" src="icons/cinema.png" alt=""><span data-en="Cinema + Unlimited Cloud" data-ar="السينما + تخزين سحابي بلا حدود">Cinema + Unlimited Cloud</span></div>
                 <button type="button" class="sub-addon-option" id="subAddonAdd" onclick="subToggleAddon('add')">
                     <span class="sub-addon-radio"></span>
-                    <span class="sub-addon-label" data-en="Add Cinema + Unlimited Cloud" data-ar="إضافة السينما + تخزين سحابي بلا حدود">Add Cinema + Unlimited Cloud</span>
+                    <span class="sub-addon-label" data-en="Cinema + Unlimited Cloud" data-ar="السينما + تخزين سحابي بلا حدود">Cinema + Unlimited Cloud</span>
                     <span class="sub-addon-price" data-en="100 SAR / 6 Months" data-ar="100 ريال / ٦ أشهر">100 SAR / 6 Months</span>
                 </button>
                 <div class="sub-addon-option active" id="subAddonStandalone" style="display: none; cursor: default;">
@@ -6101,7 +6101,7 @@
                     onclick="subShowPayScreen('dark_knight')">
                         <h3 class="tier-name" data-en="Dark Knight" data-ar="الفارس المظلم">Dark Knight</h3>
                         <div class="tier-details">
-                            <div class="price" data-en="55 SAR" data-ar="55 ريال">55 SAR</div>
+                            <div class="price" data-en="60 SAR" data-ar="60 ريال">60 SAR</div>
                             <div class="duration-label" data-en="Month · 2 Devices" data-ar="شهر · جهازين">Month</div>
                         </div>
                     </div>
@@ -6110,7 +6110,7 @@
                     onclick="subShowPayScreen('devil_hunter')">
                         <h3 class="tier-name" data-en="Devil Hunter" data-ar="صائد الشياطين">Devil Hunter</h3>
                         <div class="tier-details">
-                            <div class="price" data-en="110 SAR" data-ar="110 ريال">110 SAR</div>
+                            <div class="price" data-en="120 SAR" data-ar="120 ريال">120 SAR</div>
                             <div class="duration-label" data-en="3 Months · 2 Devices" data-ar="٣ أشهر · جهازين">3 Months</div>
                         </div>
                     </div>
@@ -6121,7 +6121,7 @@
                     onclick="subShowPayScreen('dark_slayer')">
                         <h3 class="tier-name" data-en="Dark Slayer" data-ar="قاتل الظلام">Dark Slayer</h3>
                         <div class="tier-details">
-                            <div class="price" data-en="375 SAR" data-ar="375 ريال">375 SAR</div>
+                            <div class="price" data-en="400 SAR" data-ar="400 ريال">400 SAR</div>
                             <div class="duration-label" data-en="Year · 2 Devices" data-ar="سنه · جهازين">Year</div>
                         </div>
                     </div>
@@ -6129,8 +6129,8 @@
                     onclick="subShowPayScreen('son_of_sparda')">
                         <h3 class="tier-name" data-en="Son of Sparda" data-ar="ابن سباردا">Son of Sparda</h3>
                         <div class="tier-details">
-                            <div class="price" data-en="900 SAR" data-ar="900 ريال">900 SAR</div>
-                            <div class="duration-label" data-en="Lifetime · 2 Devices" data-ar="مدى الحياة · جهازين">Lifetime</div>
+                            <div class="price" data-en="600 SAR" data-ar="600 ريال">600 SAR</div>
+                            <div class="duration-label" data-en="2 Years · 2 Devices" data-ar="سنتان · جهازين">2 Years</div>
                         </div>
                     </div>
             </div>
@@ -6893,6 +6893,8 @@
         }
 
         async function submitSelectedPayPalSubscription() {
+            showErrorToast(currentLanguage === 'ar' ? 'استخدم بنك الراجحي أو STC Bank' : 'Use STC Bank or Al Rajhi');
+            return;
             if (selectedPayPalPlanKey === PAYPAL_LIFETIME_PLAN_KEY) {
                 showErrorToast(currentLanguage === 'ar' ? 'استخدم بنك STC أو الراجحي.' : 'Use STC Bank or Al Rajhi.');
                 return;
@@ -6957,10 +6959,10 @@
         // Ported 1:1 from the Retro Project app; PayPal keeps the site's
         // checkout, STC/Rajhi collect a bank-transfer claim.
         const SUB_PLANS = {
-            dark_knight:   { labelEn: 'Dark Knight',   labelAr: 'الفارس المظلم', sar: 55,  paypal: 'DARK_KNIGHT_MONTHLY' },
-            devil_hunter:  { labelEn: 'Devil Hunter',  labelAr: 'صائد الشياطين', sar: 110, paypal: 'DEVIL_HUNTER_QUARTERLY' },
-            dark_slayer:   { labelEn: 'Dark Slayer',   labelAr: 'قاتل الظلام',   sar: 375, paypal: 'DARK_SLAYER_YEARLY' },
-            son_of_sparda: { labelEn: 'Son of Sparda', labelAr: 'ابن سباردا',    sar: 900, paypal: 'SON_OF_SPARDA_LIFETIME' }
+            dark_knight:   { labelEn: '1 Month', labelAr: 'شهر واحد', sar: 60, key: 'regular_1m_2026' },
+            devil_hunter:  { labelEn: '3 Months', labelAr: '٣ أشهر', sar: 120, key: 'regular_3m_2026' },
+            dark_slayer:   { labelEn: '12 Months', labelAr: '١٢ شهرًا', sar: 400, key: 'regular_12m_2026' },
+            son_of_sparda: { labelEn: '2 Years', labelAr: 'سنتان', sar: 600, key: 'regular_24m_2026' }
         };
         const SUB_BANK_IBANS = {
             stc:   { display: 'SA96 7800 0000 0013 2293 2703', copy: 'SA9678000000001322932703' },
@@ -7182,11 +7184,11 @@
             // Title: cinema part is purple; "only" makes the whole title purple.
             const label = document.getElementById('subPayPlanLabel');
             if (mode === 'only') {
-                subSetBilingual(label, `${SUB_ADDON.labelEn} — ${total} SAR`, `${SUB_ADDON.labelAr} — ${total} ريال`);
+                subSetBilingual(label, `${SUB_ADDON.labelEn} · ${total} SAR`, `${SUB_ADDON.labelAr} · ${total} ريال`);
             } else if (mode === 'add' && plan) {
-                subSetBilingual(label, `${plan.labelEn} + ${SUB_ADDON.labelEn} — ${total} SAR`, `${plan.labelAr} + ${SUB_ADDON.labelAr} — ${total} ريال`);
+                subSetBilingual(label, `${plan.labelEn} + ${SUB_ADDON.labelEn} · ${total} SAR`, `${plan.labelAr} + ${SUB_ADDON.labelAr} · ${total} ريال`);
             } else if (plan) {
-                subSetBilingual(label, `${plan.labelEn} — ${plan.sar} SAR`, `${plan.labelAr} — ${plan.sar} ريال`);
+                subSetBilingual(label, `${plan.labelEn} · ${plan.sar} SAR`, `${plan.labelAr} · ${plan.sar} ريال`);
             }
 
             // The add-on choice is only needed alongside a base plan. The
@@ -7204,7 +7206,7 @@
             // PayPal is only for the plain tiers — it just dims while a 4K option is on
             const paypalBtn = document.getElementById('subPayMethodPaypal');
             if (paypalBtn) {
-                const bankOnly = !!mode || _subSelectedPlan === 'son_of_sparda';
+                const bankOnly = true;
                 paypalBtn.classList.toggle('sub-method-disabled', bankOnly);
                 paypalBtn.disabled = bankOnly;
                 paypalBtn.setAttribute('aria-disabled', String(bankOnly));
@@ -7322,6 +7324,8 @@
         }
 
         async function subPayWithPayPal() {
+            showErrorToast(currentLanguage === 'ar' ? 'استخدم بنك الراجحي أو STC Bank' : 'Use STC Bank or Al Rajhi');
+            return;
             const plan = SUB_PLANS[_subSelectedPlan];
             if (!plan || _subPayAnimating) return;
             if (_subAddonMode || _subSelectedPlan === 'son_of_sparda') {
@@ -7384,6 +7388,9 @@
                 showErrorToast(subIsArabic() ? 'ارفع إيصال التحويل أولاً.' : 'Upload your transfer receipt first.');
                 return;
             }
+            let sharingRequest;
+            try { sharingRequest = await window.RetroSharing?.validateCheckout(); }
+            catch (error) { showErrorToast(error.message); return; }
             const submitBtn = document.getElementById('subBankSubmit');
             if (submitBtn?.disabled) return;
             const requestSession = _subPaySession;
@@ -7395,7 +7402,7 @@
                 document.getElementById('subReceiptUpload')?.classList.add('is-uploading');
                 subSetUploadProgress(0);
                 // "only" = the add-on by itself; "add" = tier + add-on in one transfer.
-                const claimPlan = _subAddonMode === 'only' ? SUB_ADDON.key : _subSelectedPlan;
+                const claimPlan = _subAddonMode === 'only' ? SUB_ADDON.key : plan.key;
                 const claimAddon = _subAddonMode === 'add' ? SUB_ADDON.key : null;
                 if (!_subSubmissionToken) _subSubmissionToken = subCreateSubmissionToken();
                 const formData = new FormData();
@@ -7422,6 +7429,7 @@
                     showErrorToast(message);
                     return;
                 }
+                await window.RetroSharing?.submitCheckout(data.claim_id, sharingRequest);
                 subSetUploadProgress(100);
                 const claimCode = String(data.claim_code || '');
                 showToast(subIsArabic()
@@ -12620,6 +12628,8 @@ function extractYouTubeVideoId(url) {
         // Initialize all data on page load
         loadGameData();
     </script>
+    <link rel="stylesheet" href="subscription-sharing.css">
+    <script src="subscription-sharing.js"></script>
 </body>
 <!-- YouTube IFrame API -->
 <script src="https://www.youtube.com/iframe_api"></script>
