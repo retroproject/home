@@ -42,7 +42,7 @@
     if (bankEmail) {
         const host = node('section', '', 'subscription-sharing sharing-checkout');
         const exp = expansion();
-        const email = field('email', tr('Share With', 'المشاركة مع'));
+        const email = field('email', tr("Friend's Email", 'البريد الإلكتروني لصديقك'));
         email.className = 'sub-bank-input';
         email.autocomplete = 'off';
         exp.content.append(email);
@@ -62,7 +62,7 @@
         toggle.classList.add('sharing-checkout-toggle');
         toggle.classList.remove('sharing-icon');
         toggle.removeAttribute('title');
-        const tooltip = node('span', tr('Share', 'مشاركة'), 'sub-bank-help-tip');
+        const tooltip = node('span', tr("Enter your friend's Retro Project account email to share your subscription.", 'أدخل البريد الإلكتروني لحساب صديقك في ريترو بروجكت لمشاركة اشتراكك معه.'), 'sub-bank-help-tip');
         tooltip.id = 'sharing-checkout-tooltip';
         tooltip.setAttribute('role', 'tooltip');
         toggle.setAttribute('aria-describedby', tooltip.id);
@@ -71,10 +71,10 @@
         const help = bankField.querySelector('.sub-bank-help');
         if (help) help.before(toggle); else bankField.append(toggle);
         const translate = () => {
-            email.placeholder = tr('Share With', 'المشاركة مع');
+            email.placeholder = tr("Friend's Email", 'البريد الإلكتروني لصديقك');
             email.setAttribute('aria-label', email.placeholder);
-            tooltip.textContent = tr('Share', 'مشاركة');
-            toggle.setAttribute('aria-label', tooltip.textContent);
+            tooltip.textContent = tr("Enter your friend's Retro Project account email to share your subscription.", 'أدخل البريد الإلكتروني لحساب صديقك في ريترو بروجكت لمشاركة اشتراكك معه.');
+            toggle.setAttribute('aria-label', tr('Share', 'مشاركة'));
         };
         new MutationObserver(translate).observe(document.body, { attributes: true, attributeFilter: ['class'] });
         exp.outer.inert = true;
@@ -115,7 +115,7 @@
             }
             // A recipient must not edit their owner's partner; they may still purchase personally.
             if (!active || active.owner_id === s.user.id || data.can_share) {
-                const email = field('email', tr('Share With', 'المشاركة مع')); if (active) email.value = active.recipient_email;
+                const email = field('email', tr("Friend's Email", 'البريد الإلكتروني لصديقك')); if (active) email.value = active.recipient_email;
                 const row = node('div', '', 'sharing-row'); row.append(email, command(tr('Send', 'إرسال'), () => {
                     if (!email.value.trim() || !email.checkValidity()) { email.reportValidity(); return; }
                     mutate(() => rpc('request_subscription_share', { p_email: email.value.trim() }));

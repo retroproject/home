@@ -22,7 +22,7 @@
 .sharing-checkout-toggle img { width: 24px; height: 24px; object-fit: contain; transition: filter 200ms ease; }
 .sharing-checkout-toggle:hover img, .sharing-checkout-toggle[aria-expanded="true"] img { filter: drop-shadow(0 0 5px rgba(184, 134, 11, .6)); }
 .sharing-checkout-toggle:focus-visible { outline: 2px solid #b8860b; outline-offset: 3px; }
-.sharing-checkout-toggle .sub-bank-help-tip { width: max-content; max-width: calc(100vw - 80px); pointer-events: none; }
+.sharing-checkout-toggle .sub-bank-help-tip { width: 320px; max-width: calc(100vw - 114px); pointer-events: none; }
 .sharing-checkout-toggle:hover .sub-bank-help-tip, .sharing-checkout-toggle:focus .sub-bank-help-tip { opacity: 1; visibility: visible; transform: translateY(0); }
 body.arabic-mode .sub-bank-field.has-sharing .sub-bank-input { padding-right: 1.05rem; padding-left: calc(.9rem + 68px); }
 body.arabic-mode .sharing-checkout-toggle { right: auto; left: calc(.9rem + 34px); }
