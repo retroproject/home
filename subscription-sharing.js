@@ -61,14 +61,20 @@
         });
         toggle.classList.add('sharing-checkout-toggle');
         toggle.classList.remove('sharing-icon');
+        toggle.removeAttribute('title');
+        const tooltip = node('span', tr('Share', 'مشاركة'), 'sub-bank-help-tip');
+        tooltip.id = 'sharing-checkout-tooltip';
+        tooltip.setAttribute('role', 'tooltip');
+        toggle.setAttribute('aria-describedby', tooltip.id);
+        toggle.append(tooltip);
         toggle.setAttribute('aria-expanded', 'false');
         const help = bankField.querySelector('.sub-bank-help');
         if (help) help.before(toggle); else bankField.append(toggle);
         const translate = () => {
             email.placeholder = tr('Share With', 'المشاركة مع');
             email.setAttribute('aria-label', email.placeholder);
-            toggle.title = tr('Share', 'مشاركة');
-            toggle.setAttribute('aria-label', toggle.title);
+            tooltip.textContent = tr('Share', 'مشاركة');
+            toggle.setAttribute('aria-label', tooltip.textContent);
         };
         new MutationObserver(translate).observe(document.body, { attributes: true, attributeFilter: ['class'] });
         exp.outer.inert = true;
