@@ -17,11 +17,13 @@
 .sharing-manager { max-width: 720px; margin: 12px auto; text-align: start; }
 .sharing-summary { font-size: 12px; overflow-wrap: anywhere; }
 @media (prefers-reduced-motion: reduce) { .sharing-expand { transition: none; transform: none; } }
-.sharing-email-row { display: grid; grid-template-columns: minmax(0, 1fr) var(--sharing-input-height, 56px); gap: 10px; width: 100%; align-items: stretch; }
-.sharing-email-row > .sub-bank-field { min-width: 0; }
-.sharing-checkout-toggle.sub-bank-input { width: var(--sharing-input-height, 56px); height: var(--sharing-input-height, 56px); padding: 0; display: flex; align-items: center; justify-content: center; cursor: pointer; }
-.sharing-checkout-toggle img { width: 26px; height: 26px; object-fit: contain; }
-.sharing-checkout-toggle:hover { border-color: rgba(184, 134, 11, .95); box-shadow: 0 0 28px rgba(184, 134, 11, .38); }
+.sub-bank-field.has-sharing .sub-bank-input { padding-right: calc(.9rem + 68px); }
+.sharing-checkout-toggle { position: absolute; top: 50%; right: calc(.9rem + 34px); transform: translateY(-50%); width: 26px; height: 26px; padding: 0; border: 0; border-radius: 4px; background: transparent; box-shadow: none; display: inline-flex; align-items: center; justify-content: center; cursor: pointer; }
+.sharing-checkout-toggle img { width: 24px; height: 24px; object-fit: contain; transition: filter 200ms ease; }
+.sharing-checkout-toggle:hover img, .sharing-checkout-toggle[aria-expanded="true"] img { filter: drop-shadow(0 0 5px rgba(184, 134, 11, .6)); }
+.sharing-checkout-toggle:focus-visible { outline: 2px solid #b8860b; outline-offset: 3px; }
+body.arabic-mode .sub-bank-field.has-sharing .sub-bank-input { padding-right: 1.05rem; padding-left: calc(.9rem + 68px); }
+body.arabic-mode .sharing-checkout-toggle { right: auto; left: calc(.9rem + 34px); }
 .sharing-email-group { width: 100%; min-width: 0; }
 .sharing-checkout .sharing-content { padding: 0; transition: padding 280ms ease; }
 .sharing-checkout .is-open .sharing-content { padding-top: .9rem; }

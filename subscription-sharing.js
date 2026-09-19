@@ -49,10 +49,9 @@
         host.append(exp.outer);
         const bankField = bankEmail.closest('.sub-bank-field');
         const group = node('div', '', 'sharing-email-group');
-        const row = node('div', '', 'sharing-email-row');
         bankField.before(group);
-        group.append(row, host);
-        row.append(bankField);
+        group.append(bankField, host);
+        bankField.classList.add('has-sharing');
         const toggle = icon(tr('Share', 'مشاركة'), 'add-person.svg', () => {
             checkout.open = !checkout.open;
             exp.outer.classList.toggle('is-open', checkout.open);
@@ -60,15 +59,11 @@
             toggle.setAttribute('aria-expanded', String(checkout.open));
             if (checkout.open) email.focus(); else email.value = '';
         });
-        toggle.classList.add('sub-bank-input', 'sharing-checkout-toggle');
+        toggle.classList.add('sharing-checkout-toggle');
         toggle.classList.remove('sharing-icon');
         toggle.setAttribute('aria-expanded', 'false');
-        row.append(toggle);
-        const matchHeight = () => {
-            const height = parseFloat(getComputedStyle(bankEmail).height);
-            if (height > 0) row.style.setProperty('--sharing-input-height', height + 'px');
-        };
-        new ResizeObserver(matchHeight).observe(bankEmail);
+        const help = bankField.querySelector('.sub-bank-help');
+        if (help) help.before(toggle); else bankField.append(toggle);
         const translate = () => {
             email.placeholder = tr('Share With', 'المشاركة مع');
             email.setAttribute('aria-label', email.placeholder);
