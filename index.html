@@ -6030,7 +6030,7 @@
                          onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
                     <span class="sub-pay-icon-fallback" style="display: none; background: #fff; color: #221AFB;">Rajhi</span>
                 </button>
-                <button type="button" class="sub-pay-method" id="subPayMethodPaypal" title="PayPal" onclick="subPayWithPayPal()">
+                <button type="button" class="sub-pay-method" id="subPayMethodPaypal" title="PayPal" hidden disabled aria-disabled="true" style="display: none;" onclick="subPayWithPayPal()">
                     <img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" alt="PayPal"
                          onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
                     <span class="sub-pay-icon-fallback" style="display: none; background: #fff; color: #003087;">PayPal</span>
@@ -6867,12 +6867,8 @@
         }
 
         function updatePayPalSubscribeState() {
-            const input = getSubscriptionEmailInput();
             const button = document.getElementById('subscriptionPayPalButton');
-            if (!button) return;
-
-            const email = input ? input.value.trim() : '';
-            button.disabled = !selectedPayPalPlanKey || selectedPayPalPlanKey === PAYPAL_LIFETIME_PLAN_KEY || !isValidSubscriptionEmail(email);
+            if (button) { button.disabled = true; button.hidden = true; button.style.display = 'none'; }
         }
 
         function selectPayPalPlan(planKey) {
@@ -6893,64 +6889,7 @@
         }
 
         async function submitSelectedPayPalSubscription() {
-            if (selectedPayPalPlanKey === PAYPAL_LIFETIME_PLAN_KEY) {
-                showErrorToast(currentLanguage === 'ar' ? 'استخدم بنك STC أو الراجحي.' : 'Use STC Bank or Al Rajhi.');
-                return;
-            }
-            const input = getSubscriptionEmailInput();
-            const button = document.getElementById('subscriptionPayPalButton');
-            const email = input ? input.value.trim() : '';
-
-            if (!selectedPayPalPlanKey || !PAYPAL_PLANS[selectedPayPalPlanKey]) {
-                showErrorToast(currentLanguage === 'ar' ? 'اختر باقة الاشتراك أولاً.' : 'Please choose a subscription plan.');
-                return;
-            }
-
-            if (!isValidSubscriptionEmail(email)) {
-                showErrorToast(currentLanguage === 'ar' ? 'أدخل بريد حسابك في ريترو بروجكت.' : 'Please enter your Retro Project account email.');
-                input?.focus();
-                return;
-            }
-
-            if (button) {
-                button.disabled = true;
-                button.classList.add('paypal-loading');
-            }
-
-            try {
-                const isLifetime = selectedPayPalPlanKey === PAYPAL_LIFETIME_PLAN_KEY;
-                const endpoint = isLifetime ? 'create-paypal-lifetime-order' : 'create-paypal-subscription';
-                const payload = isLifetime
-                    ? { email }
-                    : {
-                        plan_id: PAYPAL_SUBSCRIPTION_PLANS[selectedPayPalPlanKey],
-                        email
-                    };
-
-                const resp = await fetch(`${SUPABASE_URL}/functions/v1/${endpoint}`, {
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json',
-                        'apikey': SUPABASE_ANON_KEY,
-                        'Authorization': `Bearer ${SUPABASE_ANON_KEY}`
-                    },
-                    body: JSON.stringify(payload)
-                });
-
-                if (!resp.ok) throw new Error(`${endpoint} ${resp.status}`);
-                const data = await resp.json();
-                if (!data.approval_url) throw new Error('No approval_url in response');
-
-                window.location.assign(data.approval_url);
-            } catch (error) {
-                console.error('PayPal checkout failed:', error);
-                showErrorToast(currentLanguage === 'ar' ? 'تعذر فتح باي بال. حاول مرة أخرى.' : 'Could not start PayPal checkout. Please try again.');
-            } finally {
-                if (button) {
-                    button.classList.remove('paypal-loading');
-                    updatePayPalSubscribeState();
-                }
-            }
+            showErrorToast(currentLanguage === 'ar' ? 'استخدم بنك الراجحي أو STC Bank' : 'Use STC Bank or Al Rajhi');
         }
 
         // ── Subscribe payment screen: card click → payment method choice ──
@@ -7204,7 +7143,9 @@
             // PayPal is only for the plain tiers — it just dims while a 4K option is on
             const paypalBtn = document.getElementById('subPayMethodPaypal');
             if (paypalBtn) {
-                const bankOnly = !!mode || !plan?.paypal;
+                const bankOnly = true;
+                paypalBtn.hidden = true;
+                paypalBtn.style.display = 'none';
                 paypalBtn.classList.toggle('sub-method-disabled', bankOnly);
                 paypalBtn.disabled = bankOnly;
                 paypalBtn.setAttribute('aria-disabled', String(bankOnly));
@@ -7322,43 +7263,7 @@
         }
 
         async function subPayWithPayPal() {
-            const plan = SUB_PLANS[_subSelectedPlan];
-            if (!plan || _subPayAnimating) return;
-            if (_subAddonMode || !plan.paypal) {
-                showErrorToast(subIsArabic() ? 'استخدم بنك STC أو الراجحي.' : 'Use STC Bank or Al Rajhi.');
-                return;
-            }
-            const email = document.getElementById('subBankEmail')?.value.trim() || '';
-            if (!isValidSubscriptionEmail(email)) {
-                showErrorToast(subIsArabic() ? 'أدخل بريد حسابك في ريترو بروجكت.' : 'Please enter your Retro Project account email.');
-                document.getElementById('subBankEmail')?.focus();
-                return;
-            }
-            const button = document.getElementById('subPayMethodPaypal');
-            if (button?.disabled) return;
-            try {
-                if (button) { button.disabled = true; button.style.opacity = '0.5'; }
-                const endpoint = 'create-paypal-subscription';
-                const payload = { plan_id: PAYPAL_SUBSCRIPTION_PLANS[plan.paypal], email };
-                const resp = await fetch(`${SUPABASE_URL}/functions/v1/${endpoint}`, {
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json',
-                        'apikey': SUPABASE_ANON_KEY,
-                        'Authorization': `Bearer ${SUPABASE_ANON_KEY}`
-                    },
-                    body: JSON.stringify(payload)
-                });
-                if (!resp.ok) throw new Error(`${endpoint} ${resp.status}`);
-                const data = await resp.json();
-                if (!data.approval_url) throw new Error('No approval_url in response');
-                window.location.assign(data.approval_url);
-            } catch (error) {
-                console.error('PayPal checkout failed:', error);
-                showErrorToast(subIsArabic() ? 'تعذر فتح باي بال. حاول مرة أخرى.' : 'Could not start PayPal checkout. Please try again.');
-            } finally {
-                if (button) { button.disabled = false; button.style.opacity = ''; }
-            }
+            showErrorToast(currentLanguage === 'ar' ? 'استخدم بنك الراجحي أو STC Bank' : 'Use STC Bank or Al Rajhi');
         }
 
         function subCopyIban() {
