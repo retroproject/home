@@ -6893,8 +6893,6 @@
         }
 
         async function submitSelectedPayPalSubscription() {
-            showErrorToast(currentLanguage === 'ar' ? 'استخدم بنك الراجحي أو STC Bank' : 'Use STC Bank or Al Rajhi');
-            return;
             if (selectedPayPalPlanKey === PAYPAL_LIFETIME_PLAN_KEY) {
                 showErrorToast(currentLanguage === 'ar' ? 'استخدم بنك STC أو الراجحي.' : 'Use STC Bank or Al Rajhi.');
                 return;
@@ -6959,9 +6957,9 @@
         // Ported 1:1 from the Retro Project app; PayPal keeps the site's
         // checkout, STC/Rajhi collect a bank-transfer claim.
         const SUB_PLANS = {
-            dark_knight:   { labelEn: '1 Month', labelAr: 'شهر واحد', sar: 60, key: 'regular_1m_2026' },
-            devil_hunter:  { labelEn: '3 Months', labelAr: '٣ أشهر', sar: 120, key: 'regular_3m_2026' },
-            dark_slayer:   { labelEn: '12 Months', labelAr: '١٢ شهرًا', sar: 400, key: 'regular_12m_2026' },
+            dark_knight:   { labelEn: '1 Month', labelAr: 'شهر واحد', sar: 60, key: 'regular_1m_2026', paypal: 'DARK_KNIGHT_MONTHLY' },
+            devil_hunter:  { labelEn: '3 Months', labelAr: '٣ أشهر', sar: 120, key: 'regular_3m_2026', paypal: 'DEVIL_HUNTER_QUARTERLY' },
+            dark_slayer:   { labelEn: '12 Months', labelAr: '١٢ شهرًا', sar: 400, key: 'regular_12m_2026', paypal: 'DARK_SLAYER_YEARLY' },
             son_of_sparda: { labelEn: '2 Years', labelAr: 'سنتان', sar: 600, key: 'regular_24m_2026' }
         };
         const SUB_BANK_IBANS = {
@@ -7206,7 +7204,7 @@
             // PayPal is only for the plain tiers — it just dims while a 4K option is on
             const paypalBtn = document.getElementById('subPayMethodPaypal');
             if (paypalBtn) {
-                const bankOnly = true;
+                const bankOnly = !!mode || !plan?.paypal;
                 paypalBtn.classList.toggle('sub-method-disabled', bankOnly);
                 paypalBtn.disabled = bankOnly;
                 paypalBtn.setAttribute('aria-disabled', String(bankOnly));
@@ -7324,11 +7322,9 @@
         }
 
         async function subPayWithPayPal() {
-            showErrorToast(currentLanguage === 'ar' ? 'استخدم بنك الراجحي أو STC Bank' : 'Use STC Bank or Al Rajhi');
-            return;
             const plan = SUB_PLANS[_subSelectedPlan];
             if (!plan || _subPayAnimating) return;
-            if (_subAddonMode || _subSelectedPlan === 'son_of_sparda') {
+            if (_subAddonMode || !plan.paypal) {
                 showErrorToast(subIsArabic() ? 'استخدم بنك STC أو الراجحي.' : 'Use STC Bank or Al Rajhi.');
                 return;
             }
@@ -7342,11 +7338,8 @@
             if (button?.disabled) return;
             try {
                 if (button) { button.disabled = true; button.style.opacity = '0.5'; }
-                const isLifetime = plan.paypal === PAYPAL_LIFETIME_PLAN_KEY;
-                const endpoint = isLifetime ? 'create-paypal-lifetime-order' : 'create-paypal-subscription';
-                const payload = isLifetime
-                    ? { email }
-                    : { plan_id: PAYPAL_SUBSCRIPTION_PLANS[plan.paypal], email };
+                const endpoint = 'create-paypal-subscription';
+                const payload = { plan_id: PAYPAL_SUBSCRIPTION_PLANS[plan.paypal], email };
                 const resp = await fetch(`${SUPABASE_URL}/functions/v1/${endpoint}`, {
                     method: 'POST',
                     headers: {
