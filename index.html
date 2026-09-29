@@ -6020,7 +6020,7 @@
         <div id="subPayScreen" class="sub-pay-screen" style="display: none;">
             <div class="sub-pay-plan" id="subPayPlanLabel"></div>
             <div class="sub-pay-methods">
-                <button type="button" class="sub-pay-method" id="subPayMethodStc" title="STC Bank" onclick="subSelectBank('stc')">
+                <button type="button" class="sub-pay-method" id="subPayMethodStc" title="STC Bank" style="display: none;" hidden disabled>
                     <img src="icons/stc-bank.jpg" alt="STC Bank"
                          onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
                     <span class="sub-pay-icon-fallback" style="display: none; background: #4F008C; color: #fff;">stc</span>
@@ -7184,13 +7184,13 @@
                     .forEach(row => row.style.display = 'none');
                 const screen = document.getElementById('subPayScreen');
                 if (!screen) { _subPayAnimating = false; return; }
-                // STC Bank is selected and open by default.
-                _subSelectedBank = 'stc';
-                document.getElementById('subPayMethodStc')?.classList.add('active');
-                document.getElementById('subPayMethodRajhi')?.classList.remove('active');
+                // Al Rajhi is the currently available bank.
+                _subSelectedBank = 'rajhi';
+                document.getElementById('subPayMethodStc')?.classList.remove('active');
+                document.getElementById('subPayMethodRajhi')?.classList.add('active');
                 document.querySelector('#subPayScreen .sub-pay-methods')?.classList.add('has-selection');
                 const ibanText = document.getElementById('subBankIbanText');
-                if (ibanText) { ibanText.textContent = SUB_BANK_IBANS.stc.display; ibanText.style.opacity = '1'; }
+                if (ibanText) { ibanText.textContent = SUB_BANK_IBANS.rajhi.display; ibanText.style.opacity = '1'; }
                 const form = document.getElementById('subBankForm');
                 if (form) { form.style.display = 'flex'; form.classList.remove('sub-enter'); }
                 subClearReceipt();
@@ -7236,7 +7236,7 @@
         }
 
         function subSelectBank(bank) {
-            if (!SUB_BANK_IBANS[bank] || _subPayAnimating) return;
+            if (bank !== 'rajhi' || _subPayAnimating) return;
             document.getElementById('subPayMethodStc')?.classList.toggle('active', bank === 'stc');
             document.getElementById('subPayMethodRajhi')?.classList.toggle('active', bank === 'rajhi');
             document.querySelector('#subPayScreen .sub-pay-methods')?.classList.add('has-selection');
@@ -7276,7 +7276,7 @@
         async function subSubmitBankTransfer() {
             const plan = SUB_PLANS[_subSelectedPlan];
             const bank = _subSelectedBank;
-            if ((!plan && _subAddonMode !== 'only') || !bank || _subPayAnimating || _subReceiptTransitioning) return;
+            if ((!plan && _subAddonMode !== 'only') || bank !== 'rajhi' || _subPayAnimating || _subReceiptTransitioning) return;
             const email = document.getElementById('subBankEmail')?.value.trim() || '';
             if (!isValidSubscriptionEmail(email)) {
                 showErrorToast(subIsArabic() ? 'أدخل بريد حسابك في ريترو بروجكت.' : 'Please enter your Retro Project account email.');
