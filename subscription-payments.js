@@ -27,10 +27,6 @@
     const schedule = make('div', '', 'payment-schedule'); schedule.setAttribute('role', 'status');
     choice.append(choiceTitle, options, schedule);
     document.getElementById('subAddonCard')?.after(choice);
-    const badge = make('div', '', 'payment-tier-badge');
-    document.querySelector('.tier-card.sparda .tier-details')?.append(badge);
-    const yearlyBadge = make('div', '', 'payment-tier-badge');
-    document.querySelector('.tier-card.premium.extended-plan .tier-details')?.append(yearlyBadge);
 
     async function session() {
         const c = await initializeSupabase();
@@ -65,8 +61,6 @@
         const total = plan ? plan.base + (_subAddonMode === 'add' ? plan.addon : 0) : 0;
         fullPrice.textContent = tr(`${total} SAR`, `${total} ريال`);
         twoPrice.textContent = tr(`${total / 2} + ${total / 2} SAR`, `${total / 2} + ${total / 2} ريال`);
-        badge.textContent = tr('2 Payments · 300 + 300 SAR', 'دفعتان · 300 + 300 ريال');
-        yearlyBadge.textContent = tr('2 Payments · 200 + 200 SAR', 'دفعتان · 200 + 200 ريال');
         choice.hidden = !selected;
         choice.classList.toggle('is-fixed', !!state.payment);
         full.checked = state.mode === 'full'; two.checked = state.mode === 'installments';

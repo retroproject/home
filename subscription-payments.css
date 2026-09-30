@@ -31,7 +31,6 @@
 body.arabic-mode .payment-choice { font-family:Cairo,sans-serif; direction:rtl; }
 #subPayScreen .sub-addon-card,#subPayScreen .sub-addon-option { border-radius:4px; }
 #subPayScreen .sub-addon-title { font-weight:700; }
-.payment-tier-badge { color:#e0b64c; font:700 11px Orbitron,sans-serif; margin-top:8px; }
 #subPayScreen .sub-addon-price { color:#e0b64c; font-weight:700; }
 .notification-card.payment { border-color:var(--payment-color,#e0b64c); }
 .notification-card.payment .notification-icon,.notification-card.payment .notification-title { color:var(--payment-color,#e0b64c); font-weight:700; }
