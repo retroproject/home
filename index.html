@@ -7063,13 +7063,13 @@
             }
         }
 
-        function subSendBankTransfer(formData) {
+        function subSendBankTransfer(formData, paymentToken) {
             return new Promise((resolve, reject) => {
                 const xhr = new XMLHttpRequest();
                 _subBankRequest = xhr;
                 xhr.open('POST', `${SUPABASE_URL}/functions/v1/submit-bank-transfer-web`, true);
                 xhr.setRequestHeader('apikey', SUPABASE_ANON_KEY);
-                xhr.setRequestHeader('Authorization', `Bearer ${SUPABASE_ANON_KEY}`);
+                xhr.setRequestHeader('Authorization', `Bearer ${paymentToken || SUPABASE_ANON_KEY}`);
                 xhr.timeout = 120000;
                 xhr.upload.onprogress = event => {
                     if (event.lengthComputable) subSetUploadProgress((event.loaded / event.total) * 100);
@@ -7101,6 +7101,7 @@
 
         function subTotalSar() {
             const plan = SUB_PLANS[_subSelectedPlan];
+            if (['son_of_sparda', 'dark_slayer'].includes(_subSelectedPlan) && window.RetroPayments) return window.RetroPayments.amount(plan.sar);
             if (_subAddonMode === 'only') return SUB_ADDON.sar;
             if (_subAddonMode === 'add') return (plan ? plan.sar : 0) + SUB_ADDON.sar;
             return plan ? plan.sar : 0;
@@ -7150,6 +7151,7 @@
                 paypalBtn.disabled = bankOnly;
                 paypalBtn.setAttribute('aria-disabled', String(bankOnly));
             }
+            window.RetroPayments?.render();
         }
 
         function subToggleAddon(mode) {
@@ -7170,6 +7172,7 @@
         function subShowPayScreen(planKey, addonMode = null) {
             const hasPlan = !!SUB_PLANS[planKey];
             if (_subPayAnimating || (!hasPlan && addonMode !== 'only')) return;
+            window.RetroPayments?.begin();
             _subPayAnimating = true;
             _subPaySession++;
             _subSelectedPlan = hasPlan ? planKey : null;
@@ -7312,7 +7315,9 @@
                 formData.append('submission_token', _subSubmissionToken);
                 formData.append('receipt', _subReceiptFile, _subReceiptFile.name);
 
-                const response = await subSendBankTransfer(formData);
+                const paymentToken = await window.RetroPayments?.prepare(formData);
+                if (requestSession !== _subPaySession) return;
+                const response = await subSendBankTransfer(formData, paymentToken);
                 const data = response.data || {};
                 if (!response.ok || !data.success) {
                     const code = data.error || '';
@@ -7329,6 +7334,7 @@
                     return;
                 }
                 subSetUploadProgress(100);
+                window.RetroPayments?.refresh();
                 const claimCode = String(data.claim_code || '');
                 showToast(subIsArabic()
                     ? `تم إرسال الإيصال${claimCode ? ` — رقم الطلب ${claimCode}` : ''}`
@@ -12528,6 +12534,8 @@ function extractYouTubeVideoId(url) {
     </script>
     <link rel="stylesheet" href="subscription-sharing.css?v=friend-email-1">
     <script src="subscription-sharing.js?v=friend-email-1"></script>
+    <link rel="stylesheet" href="subscription-payments.css?v=1">
+    <script src="subscription-payments.js?v=1"></script>
 </body>
 <!-- YouTube IFrame API -->
 <script src="https://www.youtube.com/iframe_api"></script>
