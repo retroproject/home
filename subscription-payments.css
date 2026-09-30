@@ -1,12 +1,38 @@
-.payment-choice { border:0; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:14px; align-items:center; }
+.payment-choice {
+    width:100%; max-width:520px; min-width:0; box-sizing:border-box; margin:0; padding:14px;
+    border:2px solid #e0b64c88; border-radius:4px; background:rgba(10,10,10,.55);
+    box-shadow:0 0 22px #e0b64c22; display:flex; flex-direction:column; gap:10px;
+    font:700 14px Orbitron,sans-serif; letter-spacing:0;
+}
 .payment-choice[hidden] { display:none; }
-.payment-choice label { display:flex; gap:8px; align-items:center; cursor:pointer; color:#e0b64c; font:700 12px Orbitron,sans-serif; }
-.payment-choice input { accent-color:#e0b64c; }
-.payment-choice.is-fixed label { display:none; }
-.payment-schedule { width:100%; color:#e0b64c; font:700 12px Orbitron,sans-serif; min-height:16px; transition:opacity 800ms ease; }
+.payment-choice-title { text-align:center; color:#e0b64c; font-weight:700; font-size:16px; text-shadow:0 0 10px #e0b64c44; }
+.payment-choice-options { display:grid; gap:8px; }
+.payment-option {
+    position:relative; display:grid; grid-template-columns:20px minmax(0,1fr) auto;
+    align-items:center; gap:12px; min-height:56px; box-sizing:border-box; padding:10px 14px;
+    border:1px solid #ffffff14; border-radius:4px; background:rgba(0,0,0,.25); cursor:pointer;
+    transition:border-color 800ms ease,background-color 800ms ease,box-shadow 800ms ease;
+}
+.payment-option input { position:absolute; width:1px; height:1px; padding:0; margin:0; opacity:0; }
+.payment-option-label { min-width:0; color:#ddd; font-weight:700; line-height:1.4; overflow-wrap:anywhere; transition:color 800ms ease; }
+.payment-option-price { color:#e0b64c; font-weight:700; line-height:1.4; white-space:nowrap; }
+.payment-option-radio { width:20px; height:20px; border:2px solid #e0b64c99; border-radius:50%; box-sizing:border-box; position:relative; transition:border-color 800ms ease; }
+.payment-option-radio::after { content:''; position:absolute; inset:3px; border-radius:50%; background:#e0b64c; box-shadow:0 0 8px #e0b64c99; opacity:0; transition:opacity 800ms ease; }
+.payment-option:hover:not(.is-disabled) { border-color:#e0b64c99; background-color:#e0b64c14; }
+.payment-option.active { border-color:#e0b64c; background-color:#e0b64c22; box-shadow:0 0 18px #e0b64c44; }
+.payment-option.active .payment-option-label { color:#fff; }
+.payment-option.active .payment-option-radio { border-color:#e0b64c; }
+.payment-option.active .payment-option-radio::after { opacity:1; }
+.payment-option:has(input:focus-visible) { outline:2px solid #fff; outline-offset:3px; }
+.payment-option.is-disabled { cursor:default; }
+.payment-choice.is-fixed .payment-choice-options { display:none; }
+.payment-schedule { color:#e0b64c; text-align:center; font-weight:700; line-height:1.5; }
+.payment-schedule[hidden] { display:none; }
+body.arabic-mode .payment-choice { font-family:Cairo,sans-serif; direction:rtl; }
+#subPayScreen .sub-addon-card,#subPayScreen .sub-addon-option { border-radius:4px; }
+#subPayScreen .sub-addon-title { font-weight:700; }
 .payment-tier-badge { color:#e0b64c; font:700 11px Orbitron,sans-serif; margin-top:8px; }
-.sub-addon-price del { color:#888; margin-inline-end:8px; }
-.sub-addon-price strong { color:#e0b64c; font-weight:700; }
+#subPayScreen .sub-addon-price { color:#e0b64c; font-weight:700; }
 .payment-account { width:100%; max-width:640px; margin:12px auto; font:700 12px Orbitron,sans-serif; }
 .payment-account-toggle { color:#e0b64c; background:transparent; border:0; padding:8px; cursor:pointer; font:inherit; }
 .payment-account-content { display:grid; grid-template-rows:0fr; opacity:0; transition:grid-template-rows 800ms ease,opacity 800ms ease; }
@@ -21,4 +47,7 @@
 .payment-item .sub-bank-submit { border-radius:4px; width:auto; min-height:36px; font-weight:700; }
 .notification-card.payment { border-color:var(--payment-color,#e0b64c); }
 .notification-card.payment .notification-icon,.notification-card.payment .notification-title { color:var(--payment-color,#e0b64c); font-weight:700; }
-@media(prefers-reduced-motion:reduce) { .payment-account-content,.payment-schedule { transition:none; } }
+@media(max-width:480px) { .payment-choice { padding:10px; } .payment-option { padding:10px; gap:8px; } }
+@media(prefers-reduced-motion:reduce) {
+    .payment-account-content,.payment-option,.payment-option-label,.payment-option-radio,.payment-option-radio::after { transition:none; }
+}

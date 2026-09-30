@@ -11,12 +11,21 @@
     const toast = (text, type = 'info') => window.showToast?.(text, type);
     const state = { mode: 'full', payment: null, busy: false, dirty: false, generation: 0, user: '', channel: null };
     const choice = make('fieldset', '', 'payment-choice');
+    const choiceTitle = make('div', '', 'payment-choice-title'); choiceTitle.id = 'paymentChoiceTitle';
+    choice.setAttribute('aria-labelledby', choiceTitle.id);
     const full = make('input'); full.type = 'radio'; full.name = 'subscription-payment'; full.value = 'full'; full.checked = true;
     const two = make('input'); two.type = 'radio'; two.name = full.name; two.value = 'installments';
-    const fullLabel = make('label'); const fullText = make('span'); fullLabel.append(full, fullText);
-    const twoLabel = make('label'); const twoText = make('span'); twoLabel.append(two, twoText);
+    const fullLabel = make('label', '', 'payment-option'); const fullText = make('span', '', 'payment-option-label');
+    const fullPrice = make('span', '', 'payment-option-price'); fullPrice.dir = 'auto';
+    const fullCircle = make('span', '', 'payment-option-radio'); fullCircle.setAttribute('aria-hidden', 'true');
+    fullLabel.append(full, fullCircle, fullText, fullPrice);
+    const twoLabel = make('label', '', 'payment-option'); const twoText = make('span', '', 'payment-option-label');
+    const twoPrice = make('span', '', 'payment-option-price'); twoPrice.dir = 'auto';
+    const twoCircle = make('span', '', 'payment-option-radio'); twoCircle.setAttribute('aria-hidden', 'true');
+    twoLabel.append(two, twoCircle, twoText, twoPrice);
+    const options = make('div', '', 'payment-choice-options'); options.append(fullLabel, twoLabel);
     const schedule = make('div', '', 'payment-schedule'); schedule.setAttribute('role', 'status');
-    choice.append(fullLabel, twoLabel, schedule);
+    choice.append(choiceTitle, options, schedule);
     document.querySelector('#subPayScreen .sub-pay-methods')?.after(choice);
     const badge = make('div', '', 'payment-tier-badge');
     document.querySelector('.tier-card.sparda .tier-details')?.append(badge);
@@ -55,8 +64,8 @@
         } finally { clearTimeout(timer); }
     }
     function planInfo() {
-        if (_subSelectedPlan === 'son_of_sparda') return { base:600, addon:200, oldAddon:400, years:2, key:'regular_24m_2026', addonKey:'cinema_cloud_24m_sparda' };
-        if (_subSelectedPlan === 'dark_slayer') return { base:400, addon:100, oldAddon:200, years:1, key:'regular_12m_2026', addonKey:'cinema_cloud_12m_slayer' };
+        if (_subSelectedPlan === 'son_of_sparda') return { base:600, addon:200, years:2, key:'regular_24m_2026', addonKey:'cinema_cloud_24m_sparda' };
+        if (_subSelectedPlan === 'dark_slayer') return { base:400, addon:100, years:1, key:'regular_12m_2026', addonKey:'cinema_cloud_12m_slayer' };
         return null;
     }
     function amount(total) {
@@ -70,32 +79,34 @@
         if (!document?.body) return;
         const plan = planInfo();
         const selected = !!plan;
-        fullText.textContent = tr('Pay In Full', 'دفعة واحدة'); twoText.textContent = tr('2 Payments', 'دفعتان');
+        choiceTitle.textContent = tr('Payment', 'الدفع');
+        fullText.textContent = tr('One Payment', 'دفعة واحدة'); twoText.textContent = tr('Two Payments', 'دفعتان');
+        const total = plan ? plan.base + (_subAddonMode === 'add' ? plan.addon : 0) : 0;
+        fullPrice.textContent = tr(`${total} SAR`, `${total} ريال`);
+        twoPrice.textContent = tr(`${total / 2} + ${total / 2} SAR`, `${total / 2} + ${total / 2} ريال`);
         badge.textContent = tr('2 Payments · 300 + 300 SAR', 'دفعتان · 300 + 300 ريال');
         yearlyBadge.textContent = tr('2 Payments · 200 + 200 SAR', 'دفعتان · 200 + 200 ريال');
         for (const p of panels) p.title.textContent = tr('Payments', 'الدفعات');
         choice.hidden = !selected;
         choice.classList.toggle('is-fixed', !!state.payment);
         full.checked = state.mode === 'full'; two.checked = state.mode === 'installments';
+        fullLabel.classList.toggle('active', full.checked); twoLabel.classList.toggle('active', two.checked);
         const locked = !!document.getElementById('subBankSubmit')?.disabled || !!state.payment;
         full.disabled = two.disabled = locked;
+        fullLabel.classList.toggle('is-disabled', locked); twoLabel.classList.toggle('is-disabled', locked);
         const addon = document.getElementById('subAddonAdd');
         if (addon) {
             addon.disabled = locked;
             const price = addon.querySelector('.sub-addon-price');
             if (price) {
-                price.replaceChildren();
-                if (selected) {
-                    const old = make('del', `${plan.oldAddon} SAR`);
-                    price.append(old, make('strong', tr(`${plan.addon} SAR / ${plan.years === 1 ? '1 Year' : '2 Years'}`, `${plan.addon} ريال / ${plan.years === 1 ? 'سنة' : 'سنتين'}`)));
-                } else price.textContent = tr('100 SAR / 6 Months', '100 ريال / ٦ أشهر');
+                price.textContent = selected ? tr(`${plan.addon} SAR`, `${plan.addon} ريال`) : tr('100 SAR / 6 Months', '100 ريال / ٦ أشهر');
                 price.removeAttribute('data-en'); price.removeAttribute('data-ar');
             }
         }
         schedule.textContent = state.payment
             ? tr(`Second Payment · ${state.payment.payment_sar} SAR`, `الدفعة الثانية · ${state.payment.payment_sar} ريال`)
-            : state.mode === 'installments'
-                ? tr(`${amount(0)} SAR Now · ${amount(0)} SAR Next Month`, `${amount(0)} ريال الآن · ${amount(0)} ريال الشهر القادم`) : '';
+            : tr('Second Payment Next Month', 'الدفعة الثانية الشهر القادم');
+        schedule.hidden = !state.payment && state.mode !== 'installments';
         const label = document.getElementById('subPayPlanLabel');
         if (selected && label) {
             label.textContent = tr(`${plan.years === 1 ? '1 Year' : '2 Years'} · ${amount(0)} SAR${state.mode === 'installments' ? ' Now' : ''}`, `${plan.years === 1 ? 'سنة' : 'سنتان'} · ${amount(0)} ريال`);
