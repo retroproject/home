@@ -87,6 +87,8 @@
         badge.textContent = tr('2 Payments · 300 + 300 SAR', 'دفعتان · 300 + 300 ريال');
         yearlyBadge.textContent = tr('2 Payments · 200 + 200 SAR', 'دفعتان · 200 + 200 ريال');
         for (const p of panels) p.title.textContent = tr('Payments', 'الدفعات');
+        const checkoutVisible = document.getElementById('subPayScreen')?.style.display === 'flex';
+        for (const p of panels) if (p.host.closest('#main-section')) p.host.hidden = checkoutVisible;
         choice.hidden = !selected;
         choice.classList.toggle('is-fixed', !!state.payment);
         full.checked = state.mode === 'full'; two.checked = state.mode === 'installments';
@@ -199,6 +201,7 @@
     }
     window.RetroPayments = { amount, render, begin, prepare, refresh, openPayment, openPanel };
     new MutationObserver(render).observe(document.getElementById('subBankSubmit'), { attributes:true, attributeFilter:['disabled'] });
+    new MutationObserver(render).observe(document.getElementById('subPayScreen'), { attributes:true, attributeFilter:['style'] });
     new MutationObserver(render).observe(document.body, { attributes:true, attributeFilter:['class'] });
     window.addEventListener('focus', refresh);
     document.addEventListener('visibilitychange', () => { if (!document.hidden) refresh(); });
