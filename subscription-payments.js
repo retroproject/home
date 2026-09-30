@@ -9,7 +9,7 @@
         return el;
     };
     const toast = (text, type = 'info') => window.showToast?.(text, type);
-    const state = { mode: 'full', payment: null, busy: false, dirty: false, generation: 0, user: '', channel: null };
+    const state = { mode: 'full', payment: null, busy: false, dirty: false, opening: false, generation: 0, user: '', channel: null };
     const choice = make('fieldset', '', 'payment-choice');
     const choiceTitle = make('div', '', 'payment-choice-title'); choiceTitle.id = 'paymentChoiceTitle';
     choice.setAttribute('aria-labelledby', choiceTitle.id);
@@ -31,25 +31,6 @@
     document.querySelector('.tier-card.sparda .tier-details')?.append(badge);
     const yearlyBadge = make('div', '', 'payment-tier-badge');
     document.querySelector('.tier-card.premium.extended-plan .tier-details')?.append(yearlyBadge);
-
-    const panels = [];
-    function panelAt(anchor, position) {
-        if (!anchor) return;
-        const host = make('section', '', 'payment-account');
-        const title = make('button', '', 'payment-account-toggle'); title.type = 'button';
-        const content = make('div', '', 'payment-account-content');
-        const inside = make('div'); content.append(inside); content.inert = true;
-        title.addEventListener('click', () => {
-            const open = !host.classList.contains('is-open');
-            host.classList.toggle('is-open', open); content.inert = !open;
-            title.setAttribute('aria-expanded', String(open));
-            if (open) refresh();
-        });
-        title.setAttribute('aria-expanded', 'false'); host.append(title, content);
-        anchor[position](host); panels.push({ host, title, inside });
-    }
-    if (app) panelAt(document.querySelector('#main-section .sub-addon-link-row'), 'after');
-    if (app) panelAt(document.getElementById('subscriptionQuickStat')?.parentElement, 'after');
 
     async function session() {
         const c = await initializeSupabase();
@@ -86,9 +67,6 @@
         twoPrice.textContent = tr(`${total / 2} + ${total / 2} SAR`, `${total / 2} + ${total / 2} ريال`);
         badge.textContent = tr('2 Payments · 300 + 300 SAR', 'دفعتان · 300 + 300 ريال');
         yearlyBadge.textContent = tr('2 Payments · 200 + 200 SAR', 'دفعتان · 200 + 200 ريال');
-        for (const p of panels) p.title.textContent = tr('Payments', 'الدفعات');
-        const checkoutVisible = document.getElementById('subPayScreen')?.style.display === 'flex';
-        for (const p of panels) if (p.host.closest('#main-section')) p.host.hidden = checkoutVisible;
         choice.hidden = !selected;
         choice.classList.toggle('is-fixed', !!state.payment);
         full.checked = state.mode === 'full'; two.checked = state.mode === 'installments';
@@ -136,38 +114,37 @@
         return token;
     }
     async function openPayment(payment) {
-        if (state.busy || _subPayAnimating || _subBankRequest) return;
+        if (_subPayAnimating || _subBankRequest) return;
+        const version = state.generation;
+        const s = await session();
+        if (!s) return;
         await window.showSection?.('main');
+        if (version !== state.generation || (await session())?.user.id !== s.user.id) return;
         subShowPayScreen(payment.plan === 'regular_12m_2026' ? 'dark_slayer' : 'son_of_sparda', payment.addon ? 'add' : null);
         state.payment = payment; state.mode = payment.mode;
         subRenderSummary();
-        const s = await session();
-        if (state.payment?.id !== payment.id || !s) return;
         const bankEmail = document.getElementById('subBankEmail');
         if (bankEmail) bankEmail.value = s.user.email || '';
     }
-    const formatDate = value => value ? new Date(value + 'T12:00:00').toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' }) : '';
-    function showPayments(rows) {
-        for (const { inside } of panels) {
-            inside.replaceChildren();
-            if (!state.user) {
-                continue;
+    async function openNotice(paymentId) {
+        if (!paymentId || state.opening || _subPayAnimating || _subBankRequest) return;
+        state.opening = true;
+        const version = state.generation;
+        try {
+            const c = await initializeSupabase(); const s = await session();
+            if (!c || !s) return;
+            const rows = await request(c.rpc('get_my_subscription_payments'));
+            if (version !== state.generation || (await session())?.user.id !== s.user.id) return;
+            const row = (rows || []).find(payment => payment.id === paymentId);
+            if (!row) { toast(tr('Payment Unavailable', 'الدفعة غير متاحة')); return; }
+            const pendingSecond = row.receipts?.some(receipt => receipt.number === 2 && receipt.status !== 'rejected');
+            if (row.mode === 'installments' && row.activated_at && ['awaiting','review','paused'].includes(row.status) && !pendingSecond) {
+                await openPayment(row);
+            } else {
+                toast(row.status === 'complete' ? tr('Payment Complete', 'اكتمل الدفع') : tr('Receipt Under Review', 'الإيصال قيد المراجعة'));
             }
-            if (!rows.length) inside.append(make('div', tr('No Payments', 'لا توجد دفعات'), 'payment-empty'));
-            for (const row of rows) {
-                const item = make('article', '', `payment-item payment-${row.status}`);
-                const labels = { pending: tr('Receipt Under Review', 'الإيصال قيد المراجعة'), awaiting: tr('Second Payment Due', 'الدفعة الثانية'), review: tr('Receipt Under Review', 'الإيصال قيد المراجعة'), paused: tr('Subscription Paused', 'الاشتراك متوقف'), complete: tr('Payment Complete', 'اكتمل الدفع'), rejected: tr('Receipt Rejected', 'تم رفض الإيصال') };
-                item.append(make('strong', labels[row.status]), make('span', row.mode === 'installments' && row.status !== 'complete'
-                    ? `${row.payment_sar} SAR${row.due_date ? ' · ' + formatDate(row.due_date) : ''}` : `${row.total_sar} SAR`));
-                for (const receipt of row.receipts || []) item.append(make('small', `${receipt.number}/${row.mode === 'installments' ? 2 : 1} · ${receipt.claim_code} · ${receipt.status[0].toUpperCase()+receipt.status.slice(1)}`));
-                const pendingSecond = row.receipts?.some(r => r.number === 2 && r.status !== 'rejected');
-                if (row.mode === 'installments' && row.activated_at && !['complete','rejected'].includes(row.status) && !pendingSecond) {
-                    const pay = make('button', tr('Upload Receipt', 'رفع الإيصال'), 'sub-bank-submit'); pay.type = 'button';
-                    pay.onclick = () => openPayment(row); item.append(pay);
-                }
-                inside.append(item);
-            }
-        }
+        } catch (error) { console.error('[PAYMENT] Open:', error); toast(tr('Payment Unavailable', 'الدفعة غير متاحة'), 'error'); }
+        finally { state.opening = false; }
     }
     async function refresh() {
         if (state.busy) { state.dirty = true; return; }
@@ -176,16 +153,16 @@
         try {
             const c = await initializeSupabase(); const s = await session();
             if (version !== state.generation) return;
-            if (!s) { state.user = ''; showPayments([]); render(); return; }
+            if (!s) { state.user = ''; render(); return; }
             state.user = s.user.id;
             const rows = await request(c.rpc('get_my_subscription_payments'));
             if (version !== state.generation || (await session())?.user.id !== s.user.id) return;
-            showPayments(rows || []); render();
+            render();
             const notices = await request(c.from('user_notifications').select('id,title,data').eq('user_id',s.user.id)
                 .eq('type','subscription_payment').eq('read',false).order('created_at',{ ascending:false }).limit(1));
             if (version !== state.generation) return;
             const notice = notices?.[0];
-            if (notice) {
+            if (notice && (rows || []).some(payment => payment.id === notice.data?.payment_id)) {
                 const key = `payment-notice:${s.user.id}:${notice.id}`;
                 if (!localStorage.getItem(key)) {
                     localStorage.setItem(key,'seen');
@@ -195,11 +172,7 @@
         } catch (error) { console.error('[PAYMENT] Refresh:', error); }
         finally { state.busy = false; if (state.dirty) { state.dirty = false; queueMicrotask(refresh); } }
     }
-    function openPanel() {
-        const panel = panels.find(p => p.host.closest('#main-section'));
-        if (panel && !panel.host.classList.contains('is-open')) panel.title.click();
-    }
-    window.RetroPayments = { amount, render, begin, prepare, refresh, openPayment, openPanel };
+    window.RetroPayments = { amount, render, begin, prepare, refresh, openPayment, openNotice };
     new MutationObserver(render).observe(document.getElementById('subBankSubmit'), { attributes:true, attributeFilter:['disabled'] });
     new MutationObserver(render).observe(document.getElementById('subPayScreen'), { attributes:true, attributeFilter:['style'] });
     new MutationObserver(render).observe(document.body, { attributes:true, attributeFilter:['class'] });
@@ -211,7 +184,7 @@
             const user = s?.user.id || '';
             if (user === state.user && state.channel) return;
             ++state.generation; state.user = user; state.payment = null;
-            showPayments([]); render();
+            render();
             if (state.channel) c.removeChannel(state.channel);
             state.channel = user && c.channel ? c.channel(`subscription-payments:${user}`)
                 .on('postgres_changes',{ event:'INSERT',schema:'public',table:'user_notifications',filter:`user_id=eq.${user}` }, payload => {

@@ -33,21 +33,9 @@ body.arabic-mode .payment-choice { font-family:Cairo,sans-serif; direction:rtl; 
 #subPayScreen .sub-addon-title { font-weight:700; }
 .payment-tier-badge { color:#e0b64c; font:700 11px Orbitron,sans-serif; margin-top:8px; }
 #subPayScreen .sub-addon-price { color:#e0b64c; font-weight:700; }
-.payment-account { width:100%; max-width:640px; margin:12px auto; font:700 12px Orbitron,sans-serif; }
-.payment-account-toggle { color:#e0b64c; background:transparent; border:0; padding:8px; cursor:pointer; font:inherit; }
-.payment-account-content { display:grid; grid-template-rows:0fr; opacity:0; transition:grid-template-rows 800ms ease,opacity 800ms ease; }
-.payment-account-content>div { min-height:0; overflow:hidden; }
-.payment-account.is-open .payment-account-content { grid-template-rows:1fr; opacity:1; }
-.payment-item { display:flex; flex-wrap:wrap; align-items:center; gap:10px; padding:12px 0; border-top:1px solid #e0b64c44; color:#e0b64c; }
-.payment-item strong { flex:1 1 180px; font-weight:700; }
-.payment-item small { width:100%; color:#aaa; font:700 10px Orbitron,sans-serif; overflow-wrap:anywhere; }
-.payment-item.payment-paused,.payment-item.payment-rejected { color:#e04b59; }
-.payment-item.payment-complete { color:#51be84; }
-.payment-item.payment-review,.payment-item.payment-pending { color:#4a9bd4; }
-.payment-item .sub-bank-submit { border-radius:4px; width:auto; min-height:36px; font-weight:700; }
 .notification-card.payment { border-color:var(--payment-color,#e0b64c); }
 .notification-card.payment .notification-icon,.notification-card.payment .notification-title { color:var(--payment-color,#e0b64c); font-weight:700; }
 @media(max-width:480px) { .payment-choice { padding:10px; } .payment-option { padding:10px; gap:8px; } }
 @media(prefers-reduced-motion:reduce) {
-    .payment-account-content,.payment-option,.payment-option-label,.payment-option-radio,.payment-option-radio::after { transition:none; }
+    .payment-option,.payment-option-label,.payment-option-radio,.payment-option-radio::after { transition:none; }
 }
