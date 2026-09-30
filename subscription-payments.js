@@ -26,7 +26,7 @@
     const options = make('div', '', 'payment-choice-options'); options.append(fullLabel, twoLabel);
     const schedule = make('div', '', 'payment-schedule'); schedule.setAttribute('role', 'status');
     choice.append(choiceTitle, options, schedule);
-    document.querySelector('#subPayScreen .sub-pay-methods')?.after(choice);
+    document.getElementById('subAddonCard')?.after(choice);
     const badge = make('div', '', 'payment-tier-badge');
     document.querySelector('.tier-card.sparda .tier-details')?.append(badge);
     const yearlyBadge = make('div', '', 'payment-tier-badge');
@@ -79,8 +79,8 @@
         if (!document?.body) return;
         const plan = planInfo();
         const selected = !!plan;
-        choiceTitle.textContent = tr('Payment', 'الدفع');
-        fullText.textContent = tr('One Payment', 'دفعة واحدة'); twoText.textContent = tr('Two Payments', 'دفعتان');
+        choiceTitle.textContent = tr('Payment & Installments', 'الدفع والتقسيط');
+        fullText.textContent = tr('One Payment', 'دفعة واحدة'); twoText.textContent = tr('Two Monthly Payments', 'دفعتين على شهرين');
         const total = plan ? plan.base + (_subAddonMode === 'add' ? plan.addon : 0) : 0;
         fullPrice.textContent = tr(`${total} SAR`, `${total} ريال`);
         twoPrice.textContent = tr(`${total / 2} + ${total / 2} SAR`, `${total / 2} + ${total / 2} ريال`);
@@ -107,8 +107,8 @@
         }
         schedule.textContent = state.payment
             ? tr(`Second Payment · ${state.payment.payment_sar} SAR`, `الدفعة الثانية · ${state.payment.payment_sar} ريال`)
-            : tr('Second Payment Next Month', 'الدفعة الثانية الشهر القادم');
-        schedule.hidden = !state.payment && state.mode !== 'installments';
+            : '';
+        schedule.hidden = !state.payment;
         const label = document.getElementById('subPayPlanLabel');
         if (selected && label) {
             label.textContent = tr(`${plan.years === 1 ? '1 Year' : '2 Years'} · ${amount(0)} SAR${state.mode === 'installments' ? ' Now' : ''}`, `${plan.years === 1 ? 'سنة' : 'سنتان'} · ${amount(0)} ريال`);
