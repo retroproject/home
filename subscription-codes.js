@@ -8,7 +8,7 @@
         if (text) el.textContent = text;
         return el;
     };
-    const plans = { dark_knight: 1, devil_hunter: 3, dark_slayer: 12, son_of_sparda: 24 };
+    const plans = { dark_knight: 1, dark_slayer: 10, son_of_sparda: 18 };
     let enabled = false, switching = false, generation = 0, account = '', count = 0, busy = false, refreshing = false, dirty = false;
     let field, keyButton, channel, channelUser = '';
     const email = document.getElementById('subBankEmail');
@@ -95,6 +95,7 @@
     function prepare(form) {
         if (switching) throw Error('Please Wait');
         if (!enabled) return;
+        if (!plans[_subSelectedPlan] || !['regular_1m_2026', 'regular_12m_2026', 'regular_24m_2026'].includes(form.get('plan'))) throw Error('Codes Unavailable');
         form.set('purchase_kind', 'codes'); form.set('payment_mode', 'full'); form.set('source', app ? 'app' : 'website');
         form.delete('addon'); form.delete('sharing_email'); form.delete('payment_id');
     }
