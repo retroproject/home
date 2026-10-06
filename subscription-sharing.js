@@ -78,7 +78,7 @@
         };
         new MutationObserver(translate).observe(document.body, { attributes: true, attributeFilter: ['class'] });
         exp.outer.inert = true;
-        Object.assign(checkout, { email });
+        Object.assign(checkout, { email, toggle, outer: exp.outer });
     }
     async function validateCheckout() {
         if (!checkout.open) return null;
@@ -89,7 +89,16 @@
         }
         return Object.freeze({ email });
     }
-    window.RetroSharing = { validateCheckout };
+    window.RetroSharing = { validateCheckout, setCheckoutDisabled(disabled) {
+        if (!checkout.toggle) return;
+        checkout.toggle.disabled = disabled;
+        checkout.email.disabled = disabled;
+        if (disabled) {
+            checkout.open = false; checkout.email.value = '';
+            checkout.outer.classList.remove('is-open'); checkout.outer.inert = true;
+            checkout.toggle.setAttribute('aria-expanded', 'false');
+        }
+    } };
 
     const manager = node('section', '', 'subscription-sharing sharing-manager');
     const summary = node('span', tr('Sharing', 'المشاركة'), 'sharing-summary');

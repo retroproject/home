@@ -7155,7 +7155,7 @@
         }
 
         function subToggleAddon(mode) {
-            if (_subPayAnimating) return;
+            if (_subPayAnimating || window.RetroCodes?.enabled()) return;
             const hasPlan = !!SUB_PLANS[_subSelectedPlan];
             if (mode === 'add' && !hasPlan) return;
             if (_subAddonMode === mode) {
@@ -7277,6 +7277,7 @@
         }
 
         async function subSubmitBankTransfer() {
+            if (window.RetroCodes?.busy()) return;
             const plan = SUB_PLANS[_subSelectedPlan];
             const bank = _subSelectedBank;
             if ((!plan && _subAddonMode !== 'only') || bank !== 'rajhi' || _subPayAnimating || _subReceiptTransitioning) return;
@@ -12533,9 +12534,11 @@ function extractYouTubeVideoId(url) {
         loadGameData();
     </script>
     <link rel="stylesheet" href="subscription-sharing.css?v=friend-email-1">
-    <script src="subscription-sharing.js?v=friend-email-1"></script>
+    <script src="subscription-sharing.js?v=codes-1"></script>
 <link rel="stylesheet" href="subscription-payments.css?v=5">
-<script src="subscription-payments.js?v=5"></script>
+<script src="subscription-payments.js?v=codes-1"></script>
+<link rel="stylesheet" href="subscription-codes.css?v=1">
+<script src="subscription-codes.js?v=1"></script>
 </body>
 <!-- YouTube IFrame API -->
 <script src="https://www.youtube.com/iframe_api"></script>

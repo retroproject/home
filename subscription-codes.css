@@ -1,0 +1,23 @@
+.codes-checkout-toggle {
+    position:absolute; right:calc(.9rem + 68px); top:50%; transform:translateY(-50%);
+    width:26px; height:26px; padding:0; border:0; background:transparent; cursor:pointer;
+    display:flex; align-items:center; justify-content:center; font-size:24px; color:#e8c25a;
+    filter:sepia(1) saturate(5); transition:filter 800ms ease,opacity 800ms ease;
+}
+.codes-checkout-toggle:hover:not(:disabled),.codes-checkout-toggle[aria-pressed=true] { filter:sepia(1) saturate(5) brightness(1.4) drop-shadow(0 0 5px #e8c25a77); }
+.codes-checkout-toggle:disabled { opacity:.5; cursor:default; }
+.codes-checkout-toggle[hidden] { display:none; }
+.codes-checkout-toggle:hover .sub-bank-help-tip,.codes-checkout-toggle:focus-visible .sub-bank-help-tip { opacity:1; visibility:visible; }
+.sub-bank-field.has-codes .sub-bank-input { padding-right:calc(.9rem + 102px); }
+.codes-extras { width:100%; max-width:520px; display:grid; grid-template-rows:1fr; opacity:1; margin-bottom:0;
+    transition:grid-template-rows 800ms ease,opacity 800ms ease,margin-bottom 800ms ease; }
+.codes-extras-inner { min-height:0; overflow:hidden; display:flex; flex-direction:column; gap:1.4rem; }
+.codes-extras.is-collapsed { grid-template-rows:0fr; opacity:0; margin-bottom:-1.4rem; pointer-events:none; }
+.codes-mode .sharing-checkout-toggle { opacity:0; pointer-events:none; }
+.sharing-checkout-toggle { transition:opacity 800ms ease; }
+#settings-subscription-codes .setting-label,#settings-subscription-codes input { font-weight:700; letter-spacing:0; }
+#settings-subscription-codes .profile-sharing-action[data-state=working] { opacity:.5; }
+body.arabic-mode .codes-checkout-toggle { right:auto; left:calc(.9rem + 68px); }
+body.arabic-mode .sub-bank-field.has-codes .sub-bank-input { padding-right:.9rem; padding-left:calc(.9rem + 102px); }
+body.arabic-mode #settings-subscription-codes { font-family:Cairo,sans-serif; }
+@media(prefers-reduced-motion:reduce) { .codes-extras,.codes-checkout-toggle,.sharing-checkout-toggle { transition:none; } }

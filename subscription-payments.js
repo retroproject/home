@@ -65,7 +65,7 @@
         choice.classList.toggle('is-fixed', !!state.payment);
         full.checked = state.mode === 'full'; two.checked = state.mode === 'installments';
         fullLabel.classList.toggle('active', full.checked); twoLabel.classList.toggle('active', two.checked);
-        const locked = !!document.getElementById('subBankSubmit')?.disabled || !!state.payment;
+        const locked = !!document.getElementById('subBankSubmit')?.disabled || !!state.payment || !!window.RetroCodes?.enabled();
         full.disabled = two.disabled = locked;
         fullLabel.classList.toggle('is-disabled', locked); twoLabel.classList.toggle('is-disabled', locked);
         const addon = document.getElementById('subAddonAdd');
@@ -88,13 +88,16 @@
         }
         const submit = document.getElementById('subBankSubmit');
         if (submit && !submit.disabled) submit.textContent = subSubmitLabel();
+        window.RetroCodes?.render();
     }
     for (const input of [full, two]) input.addEventListener('change', () => {
-        if (state.payment || document.getElementById('subBankSubmit')?.disabled) return;
+        if (state.payment || window.RetroCodes?.enabled() || document.getElementById('subBankSubmit')?.disabled) return;
         state.mode = input.value; _subSubmissionToken = null; subRenderSummary();
     });
-    function begin() { state.payment = null; state.mode = 'full'; }
+    function begin() { state.payment = null; state.mode = 'full'; window.RetroCodes?.begin(); }
     async function prepare(form, token) {
+        window.RetroCodes?.prepare(form);
+        if (form.get('purchase_kind') === 'codes') return token;
         const plan = planInfo();
         if (!plan || form.get('plan') !== plan.key) return token;
         const payment = state.payment;
@@ -166,7 +169,8 @@
         } catch (error) { console.error('[PAYMENT] Refresh:', error); }
         finally { state.busy = false; if (state.dirty) { state.dirty = false; queueMicrotask(refresh); } }
     }
-    window.RetroPayments = { amount, render, begin, prepare, refresh, openPayment, openNotice };
+    window.RetroPayments = { amount, render, begin, prepare, refresh, openPayment, openNotice,
+        hasPayment: () => !!state.payment, setFullPayment() { state.mode = 'full'; state.payment = null; } };
     new MutationObserver(render).observe(document.getElementById('subBankSubmit'), { attributes:true, attributeFilter:['disabled'] });
     new MutationObserver(render).observe(document.getElementById('subPayScreen'), { attributes:true, attributeFilter:['style'] });
     new MutationObserver(render).observe(document.body, { attributes:true, attributeFilter:['class'] });
