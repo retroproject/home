@@ -1,13 +1,15 @@
 .codes-checkout-toggle {
     position:absolute; right:calc(.9rem + 68px); top:50%; transform:translateY(-50%);
     width:26px; height:26px; padding:0; border:0; background:transparent; cursor:pointer;
-    display:flex; align-items:center; justify-content:center; font-size:24px; color:#e8c25a;
-    filter:sepia(1) saturate(5); transition:filter 800ms ease,opacity 800ms ease;
+    display:flex; align-items:center; justify-content:center; font-family:Orbitron,monospace; color:#e8c25a;
+    transition:opacity 800ms ease;
 }
-.codes-checkout-toggle:hover:not(:disabled),.codes-checkout-toggle[aria-pressed=true] { filter:sepia(1) saturate(5) brightness(1.4) drop-shadow(0 0 5px #e8c25a77); }
+.codes-checkout-glyph { font-size:24px; filter:sepia(1) saturate(5); transition:filter 800ms ease; }
+.codes-checkout-toggle:hover:not(:disabled) .codes-checkout-glyph,.codes-checkout-toggle[aria-pressed=true] .codes-checkout-glyph { filter:sepia(1) saturate(5) brightness(1.4) drop-shadow(0 0 5px #e8c25a77); }
 .codes-checkout-toggle:disabled { opacity:.5; cursor:default; }
 .codes-checkout-toggle[hidden] { display:none; }
-.codes-checkout-toggle:hover .sub-bank-help-tip,.codes-checkout-toggle:focus-visible .sub-bank-help-tip { opacity:1; visibility:visible; }
+.codes-checkout-toggle .sub-bank-help-tip { width:320px; max-width:calc(100vw - 114px); pointer-events:none; }
+.codes-checkout-toggle:hover .sub-bank-help-tip,.codes-checkout-toggle:focus .sub-bank-help-tip { opacity:1; visibility:visible; transform:translateY(0); }
 .sub-bank-field.has-codes .sub-bank-input { padding-right:calc(.9rem + 102px); }
 .codes-extras { width:100%; max-width:520px; display:grid; grid-template-rows:1fr; opacity:1; margin-bottom:0;
     transition:grid-template-rows 800ms ease,opacity 800ms ease,margin-bottom 800ms ease; }

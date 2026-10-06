@@ -13,7 +13,9 @@
     let field, keyButton, channel, channelUser = '';
     const email = document.getElementById('subBankEmail');
     const bankField = email?.closest('.sub-bank-field');
-    const toggle = node('button', 'codes-checkout-toggle', '\u{1F5DD}\uFE0F');
+    const toggle = node('button', 'codes-checkout-toggle');
+    const glyph = node('span', 'codes-checkout-glyph', '\u{1F5DD}\uFE0F');
+    glyph.setAttribute('aria-hidden', 'true'); toggle.append(glyph);
     toggle.type = 'button'; toggle.setAttribute('aria-pressed', 'false');
     const tip = node('span', 'sub-bank-help-tip'); tip.id = 'codes-checkout-tooltip'; tip.setAttribute('role', 'tooltip');
     toggle.append(tip); toggle.setAttribute('aria-describedby', tip.id);
@@ -51,6 +53,8 @@
         toggle.setAttribute('aria-pressed', String(enabled));
         toggle.setAttribute('aria-label', tr('Subscription Codes', 'أكواد الاشتراك'));
         tip.textContent = enabled ? tr('Subscription', 'اشتراك') : tr('Subscription Codes', 'أكواد الاشتراك');
+        tip.setAttribute('data-en', enabled ? 'Subscription' : 'Subscription Codes');
+        tip.setAttribute('data-ar', enabled ? 'اشتراك' : 'أكواد الاشتراك');
         extras.classList.toggle('is-collapsed', enabled); extras.inert = enabled;
         bankField?.classList.toggle('codes-mode', enabled);
         if (enabled) {
@@ -133,7 +137,7 @@
                 await window.updateProfileSubscriptionStat?.();
                 toast(tr('Code Redeemed', 'تم تفعيل الكود'), 'success');
             } else {
-                if (!data?.codes?.length) { toast(tr('No Codes', 'لا توجد أكواد')); return; }
+                if (!data?.codes?.length) { toast(tr('No Codes', 'لا توجد أكواد'), 'error'); return; }
                 const url = URL.createObjectURL(new Blob([data.codes.join('\n')], { type: 'text/plain;charset=utf-8' }));
                 const link = node('a'); link.href = url; link.download = 'Subscription Codes.txt'; document.body.append(link); link.click(); link.remove();
                 setTimeout(() => URL.revokeObjectURL(url), 1000);
@@ -151,6 +155,7 @@
         const row = node('div', 'profile-sharing-row'); field = node('input', 'setting-input');
         field.id = 'settings-subscription-code'; field.type = 'text'; field.maxLength = 120; field.autocomplete = 'off'; field.spellcheck = false;
         keyButton = node('button', 'profile-sharing-action'); keyButton.type = 'button';
+        keyButton.id = 'settings-codes-key';
         const img = node('img'); img.src = 'C:/Retro Project/Playnite/icons/Key [001].png'; img.alt = ''; keyButton.append(img);
         keyButton.addEventListener('click', useKey); field.addEventListener('input', render);
         row.append(field, keyButton); manager.append(label, row); anchor?.after(manager);
