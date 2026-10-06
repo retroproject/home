@@ -9,7 +9,9 @@
         return el;
     };
     const plans = { dark_knight: 1, dark_slayer: 10, son_of_sparda: 18 };
-    let enabled = false, switching = false, generation = 0, account = '', count = 0, busy = false, refreshing = false, dirty = false;
+    let enabled = false, switching = false, cinemaCheckout = false, checkoutGeneration = 0, generation = 0, account = '', count = 0, busy = false, refreshing = false, dirty = false;
+    let summaryAnimations = [];
+    let switchTarget = null;
     let field, keyButton, channel, channelUser = '';
     const email = document.getElementById('subBankEmail');
     const bankField = email?.closest('.sub-bank-field');
@@ -47,7 +49,7 @@
         } finally { clearTimeout(timer); }
     }
     function render() {
-        const quantity = plans[_subSelectedPlan];
+        const quantity = cinemaCheckout ? 4 : plans[_subSelectedPlan];
         toggle.disabled = switching || !!document.getElementById('subBankSubmit')?.disabled || !quantity || !!window.RetroPayments?.hasPayment();
         toggle.hidden = !quantity;
         toggle.setAttribute('aria-pressed', String(enabled));
@@ -55,13 +57,22 @@
         tip.textContent = enabled ? tr('Subscription', 'اشتراك') : tr('Subscription Codes', 'أكواد الاشتراك');
         tip.setAttribute('data-en', enabled ? 'Subscription' : 'Subscription Codes');
         tip.setAttribute('data-ar', enabled ? 'اشتراك' : 'أكواد الاشتراك');
-        extras.classList.toggle('is-collapsed', enabled); extras.inert = enabled;
-        bankField?.classList.toggle('codes-mode', enabled);
+        extras.classList.toggle('is-collapsed', enabled && !cinemaCheckout); extras.inert = enabled;
+        bankField?.classList.toggle('codes-mode', switching && switchTarget !== null ? switchTarget : enabled);
         if (enabled) {
             const label = document.getElementById('subPayPlanLabel');
             const total = typeof subTotalSar === 'function' ? subTotalSar() : 0;
-            if (label) label.textContent = tr(`${quantity} Subscription Codes · ${total} SAR`, `${quantity} كود اشتراك · ${total} ريال`);
+            if (label) {
+                label.textContent = cinemaCheckout ? tr('Cinema + Cloud Codes · 250 SAR', 'أكواد السينما والسحابة · 250 ريال') : tr(`${quantity} Subscription Codes · ${total} SAR`, `${quantity} كود اشتراك · ${total} ريال`);
+                label.removeAttribute('data-en'); label.removeAttribute('data-ar');
+            }
             addon?.querySelectorAll('button,input').forEach(control => { control.disabled = true; });
+        }
+        if (cinemaCheckout) {
+            const row = document.getElementById('subAddonStandalone');
+            const label = row?.querySelector('.sub-addon-label'), price = row?.querySelector('.sub-addon-price');
+            if (label) { label.textContent = enabled ? tr('4 Codes · 6 Months Each', '4 أكواد · 6 أشهر لكل كود') : tr('Cinema + Unlimited Cloud', 'السينما + تخزين سحابي بلا حدود'); label.removeAttribute('data-en'); label.removeAttribute('data-ar'); }
+            if (price) { price.textContent = enabled ? tr('250 SAR', '250 ريال') : tr('100 SAR / 6 Months', '100 ريال / ٦ أشهر'); price.removeAttribute('data-en'); price.removeAttribute('data-ar'); }
         }
         if (field) {
             field.placeholder = count ? tr(`${count} Unredeemed ${count === 1 ? 'Code' : 'Codes'}`, `${count} كود غير مستخدم`) : tr('Subscription Code', 'كود الاشتراك');
@@ -74,20 +85,34 @@
     }
     async function switchMode() {
         if (toggle.disabled || _subPayAnimating || _subBankRequest) return;
+        const version = checkoutGeneration;
         switching = true;
-        enabled = !enabled;
-        _subAddonMode = null; _subSubmissionToken = null;
-        window.RetroSharing?.setCheckoutDisabled(enabled);
-        window.RetroPayments?.setFullPayment();
-        subRenderSummary(); render();
+        switchTarget = !enabled;
+        window.RetroSharing?.setCheckoutDisabled(true);
         try {
-            const animations = extras.getAnimations({ subtree: true });
-            await Promise.all(animations.map(animation => animation.finished.catch(() => {})));
-        } finally { switching = false; render(); }
+            const summary = cinemaCheckout && !window.matchMedia?.('(prefers-reduced-motion: reduce)').matches
+                ? ['subPayPlanLabel', 'subAddonStandalone', 'subBankSubmit'].map(id => document.getElementById(id)).filter(el => el?.animate) : [];
+            render();
+            summaryAnimations = summary.map(el => el.animate([{ opacity: 1 }, { opacity: 0 }], { duration: 400, fill: 'forwards' }));
+            await Promise.all(summaryAnimations.map(a => a.finished.catch(() => {})));
+            if (version !== checkoutGeneration) return;
+            enabled = !enabled;
+            if (!cinemaCheckout) _subAddonMode = null;
+            _subSubmissionToken = null;
+            window.RetroSharing?.setCheckoutDisabled(true);
+            window.RetroPayments?.setFullPayment();
+            subRenderSummary(); render();
+            summaryAnimations.forEach(a => a.cancel());
+            summaryAnimations = summary.map(el => el.animate([{ opacity: 0 }, { opacity: 1 }], { duration: 400, fill: 'forwards' }));
+            const animations = [...extras.getAnimations({ subtree: true }), ...(bankField?.querySelector('.sharing-checkout-toggle')?.getAnimations() || [])];
+            await Promise.all([...animations, ...summaryAnimations].map(animation => animation.finished.catch(() => {})));
+        } finally { if (version === checkoutGeneration) { summaryAnimations.forEach(a => a.cancel()); summaryAnimations = []; switching = false; switchTarget = null; window.RetroSharing?.setCheckoutDisabled(enabled); render(); } }
     }
     toggle.addEventListener('click', switchMode);
     function begin() {
-        enabled = false; switching = false;
+        ++checkoutGeneration; summaryAnimations.forEach(a => a.cancel()); summaryAnimations = [];
+        enabled = false; switching = false; switchTarget = null;
+        cinemaCheckout = !plans[_subSelectedPlan] && _subAddonMode === 'only';
         window.RetroSharing?.setCheckoutDisabled(false);
         extras.getAnimations({ subtree: true }).forEach(animation => animation.cancel());
         render();
@@ -95,7 +120,10 @@
     function prepare(form) {
         if (switching) throw Error('Please Wait');
         if (!enabled) return;
-        if (!plans[_subSelectedPlan] || !['regular_1m_2026', 'regular_12m_2026', 'regular_24m_2026'].includes(form.get('plan'))) throw Error('Codes Unavailable');
+        if (cinemaCheckout) {
+            if (form.get('plan') !== 'cinema_cloud_6m' || _subAddonMode !== 'only') throw Error('Codes Unavailable');
+            form.set('plan', 'cinema_codes_4x6m');
+        } else if (!plans[_subSelectedPlan] || !['regular_1m_2026', 'regular_12m_2026', 'regular_24m_2026'].includes(form.get('plan'))) throw Error('Codes Unavailable');
         form.set('purchase_kind', 'codes'); form.set('payment_mode', 'full'); form.set('source', app ? 'app' : 'website');
         form.delete('addon'); form.delete('sharing_email'); form.delete('payment_id');
     }
@@ -129,17 +157,19 @@
             if (version !== generation || (await session())?.user.id !== owner) return;
             if (value) {
                 if (!data?.success) {
-                    const errors = { 'Code Unavailable': tr('Code Unavailable', 'الكود غير متاح'), 'Try Again Shortly': tr('Try Again Shortly', 'حاول بعد قليل'), 'Lifetime Already Active': tr('Lifetime Already Active', 'الاشتراك الدائم نشط') };
+                    const errors = { 'Code Unavailable': tr('Code Unavailable', 'الكود غير متاح'), 'Try Again Shortly': tr('Try Again Shortly', 'حاول بعد قليل'), 'Lifetime Already Active': tr('Lifetime Already Active', 'الاشتراك الدائم نشط'), 'Cinema Already Active': tr('Cinema Already Active', 'اشتراك السينما الدائم نشط') };
                     toast(errors[data?.error] || tr('Could Not Redeem', 'تعذر التفعيل'), 'error'); return;
                 }
                 field.value = '';
                 await window.isUserPremium?.();
                 if (version !== generation || (await session())?.user.id !== owner) return;
                 await window.updateProfileSubscriptionStat?.();
-                toast(tr('Code Redeemed', 'تم تفعيل الكود'), 'success');
+                if (data.code_type === 'cinema' && data.state === 'active') await window.refreshAssignedServiceKeys?.(true);
+                toast(data.state === 'awaiting_slots' ? tr('Awaiting Slots', 'بانتظار توفر الحسابات') : data.state === 'blocked' ? tr('Activation Pending', 'التفعيل قيد الانتظار') : tr('Code Redeemed', 'تم تفعيل الكود'), data.state === 'blocked' ? 'error' : data.state === 'awaiting_slots' ? 'info' : 'success');
             } else {
                 if (!data?.codes?.length) { toast(tr('No Codes', 'لا توجد أكواد'), 'error'); return; }
-                const url = URL.createObjectURL(new Blob([data.codes.join('\n')], { type: 'text/plain;charset=utf-8' }));
+                const text = data.groups?.length ? data.groups.map(group => `${group.code_type === 'cinema' ? 'Cinema + Cloud' : 'Retro Project'} · ${group.months} ${group.months === 1 ? 'Month' : 'Months'} Each\n\n${group.codes.join('\n')}`).join('\n\n\n') : data.codes.join('\n');
+                const url = URL.createObjectURL(new Blob([text], { type: 'text/plain;charset=utf-8' }));
                 const link = node('a'); link.href = url; link.download = 'Subscription Codes.txt'; document.body.append(link); link.click(); link.remove();
                 setTimeout(() => URL.revokeObjectURL(url), 1000);
             }
@@ -163,7 +193,7 @@
         const translate = () => { label.textContent = tr('Subscription Codes', 'أكواد الاشتراك'); render(); };
         new MutationObserver(translate).observe(document.body, { attributes: true, attributeFilter: ['class'] });
     }
-    window.RetroCodes = { enabled: () => enabled, busy: () => switching, begin, render, prepare, refresh,
+    window.RetroCodes = { enabled: () => enabled, cinemaEnabled: () => enabled && cinemaCheckout, busy: () => switching, begin, render, prepare, refresh,
         async open() {
             await window.showSection?.('profile');
             const profile = document.getElementById('profile');
@@ -187,6 +217,7 @@
             channel = account && c.channel ? c.channel(`subscription-codes:${account}`)
                 .on('postgres_changes', { event: 'INSERT', schema: 'public', table: 'user_notifications', filter: `user_id=eq.${account}` }, payload => {
                     if (payload.new.type === 'subscription_codes') { refresh(); window.loadNotifications?.(); window.updateNotificationBadgeCount?.(); toast(tr('Subscription Codes Ready', 'أكواد الاشتراك جاهزة'), 'success'); }
+                    if (payload.new.type === 'purchase_activated' && payload.new.data?.kind === 'cinema') { window.refreshAssignedServiceKeys?.(true); window.updateProfileSubscriptionStat?.(); }
                 }).subscribe() : null;
             await refresh();
         }));

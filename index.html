@@ -7100,6 +7100,7 @@
         }
 
         function subTotalSar() {
+            if (window.RetroCodes?.cinemaEnabled()) return 250;
             const plan = SUB_PLANS[_subSelectedPlan];
             if (['son_of_sparda', 'dark_slayer'].includes(_subSelectedPlan) && window.RetroPayments) return window.RetroPayments.amount(plan.sar);
             if (_subAddonMode === 'only') return SUB_ADDON.sar;
@@ -7172,11 +7173,11 @@
         function subShowPayScreen(planKey, addonMode = null) {
             const hasPlan = !!SUB_PLANS[planKey];
             if (_subPayAnimating || (!hasPlan && addonMode !== 'only')) return;
-            window.RetroPayments?.begin();
             _subPayAnimating = true;
             _subPaySession++;
             _subSelectedPlan = hasPlan ? planKey : null;
             _subAddonMode = addonMode;
+            window.RetroPayments?.begin();
             subTierCards().forEach(card => {
                 card.classList.add('sub-card-anim');
                 card.classList.add('sub-card-out');
