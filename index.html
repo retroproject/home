@@ -149,11 +149,6 @@
             overflow: hidden;
         }
 
-        .particles.is-paused .ember,
-        .particles.is-paused .ash {
-            animation-play-state: paused;
-        }
-
         body.arabic-mode .ember.small {
             background: radial-gradient(circle, #ff6b35 0%, #ff4757 50%, transparent 70%);
             box-shadow: 0 0 6px #ff6b35;
@@ -4175,12 +4170,6 @@
         }
 
         @media (max-width: 1024px) {
-            html { background-color: #0d0d0d; }
-
-            .particles { contain: layout style paint; }
-            .particles .ember,
-            .particles .ash { will-change: transform, opacity; backface-visibility: hidden; }
-
             body::before {
                 content: '';
                 position: fixed;
@@ -4191,17 +4180,18 @@
                 background: #0d0d0d url('https://db.retroproject.org/shared/S003.jpg') center/cover no-repeat;
                 background-size: cover;
                 z-index: -1;
-                transform: translateZ(0);
             }
 
             body {
-                background: none !important;
+                background: #0d0d0d url('https://db.retroproject.org/shared/S003.jpg') center/cover no-repeat fixed !important;
+                background-size: cover !important;
                 min-height: calc(100vh + 30px);
                 position: relative;
             }
 
             body.arabic-mode {
-                background: none !important;
+                background: #0d0d0d url('https://db.retroproject.org/shared/S003.jpg') center/cover no-repeat fixed !important;
+                background-size: cover !important;
             }
 
             body.arabic-mode::before {
@@ -10905,32 +10895,8 @@
         // Create fire embers and ash particles with Arabic mode support
         function createFireEffect() {
             const particlesContainer = document.getElementById('particles');
-            if (!particlesContainer || particlesContainer.dataset.initialized) return;
-            particlesContainer.dataset.initialized = 'true';
-            const pause = () => particlesContainer.classList.toggle('is-paused', document.hidden);
-            document.addEventListener('visibilitychange', pause);
-            pause();
-
-            // Reuse a small, staggered pool on phones instead of continually replacing nodes.
-            if (matchMedia('(max-width: 1024px)').matches) {
-                const pool = document.createDocumentFragment();
-                for (let i = 0; i < 20; i++) {
-                    const particle = document.createElement('div');
-                    const ash = i >= 16;
-                    particle.className = ash ? 'ash' : `ember ${['small','medium','small','large'][i % 4]}`;
-                    particle.style.left = Math.random() * 100 + '%';
-                    particle.style.setProperty(ash ? '--ash-drift' : '--drift', (Math.random() - 0.5) * (ash ? 100 : 200) + 'px');
-                    const duration = Math.random() * 4 + (ash ? 8 : 6);
-                    particle.style.animationDuration = duration + 's';
-                    particle.style.animationDelay = -(i / 20) * duration + 's';
-                    pool.appendChild(particle);
-                }
-                particlesContainer.appendChild(pool);
-                return;
-            }
 
             function createEmber() {
-                if (document.hidden) return;
                 const ember = document.createElement('div');
                 const sizes = ['small', 'medium', 'large'];
                 const size = sizes[Math.floor(Math.random() * sizes.length)];
@@ -10951,7 +10917,6 @@
             }
 
             function createAsh() {
-                if (document.hidden) return;
                 const ash = document.createElement('div');
                 ash.className = 'ash';
                 ash.style.left = Math.random() * 100 + '%';
