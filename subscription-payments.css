@@ -49,6 +49,9 @@ body.arabic-mode .sub-cinema-count { font-family:Cairo,sans-serif; }
 .notification-card.payment { border-color:var(--payment-color,#e0b64c); }
 .notification-card.payment .notification-icon,.notification-card.payment .notification-title { color:var(--payment-color,#e0b64c); font-weight:700; }
 @media(max-width:480px) { .payment-choice { padding:10px; } .payment-option { padding:10px; gap:8px; } #subPayScreen .sub-cinema-option { padding:10px; gap:8px; } }
+@media(min-width:1900px) and (max-width:1940px) {
+    body:has(#main-section.active #subPayScreen:not([style*="display: none"])) { overflow:visible; }
+}
 @media(prefers-reduced-motion:reduce) {
     .payment-option,.payment-option-label,.payment-option-radio,.payment-option-radio::after { transition:none; }
     #subPayScreen .sub-addon-option,#subPayScreen .sub-addon-label,#subPayScreen .sub-addon-radio,#subPayScreen .sub-addon-radio::after { transition:none; }
