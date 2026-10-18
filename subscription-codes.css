@@ -14,6 +14,7 @@
 .codes-extras { width:100%; max-width:520px; display:grid; grid-template-rows:1fr; opacity:1; margin-bottom:0;
     transition:grid-template-rows 800ms ease,opacity 800ms ease,margin-bottom 800ms ease; }
 .codes-extras-inner { min-height:0; overflow:hidden; display:flex; flex-direction:column; gap:1.4rem; }
+.codes-extras[hidden] { display:none; }
 .codes-extras.is-collapsed { grid-template-rows:0fr; opacity:0; margin-bottom:-1.4rem; pointer-events:none; }
 .codes-mode .sharing-checkout-toggle { opacity:0; pointer-events:none; }
 .sharing-checkout-toggle { transition:opacity 800ms ease; }
@@ -22,4 +23,6 @@
 body.arabic-mode .codes-checkout-toggle { right:auto; left:calc(.9rem + 68px); }
 body.arabic-mode .sub-bank-field.has-codes .sub-bank-input { padding-right:.9rem; padding-left:calc(.9rem + 102px); }
 body.arabic-mode #settings-subscription-codes { font-family:Cairo,sans-serif; }
+.sub-bank-field.has-codes:has(.codes-checkout-toggle[hidden]) .sub-bank-input { padding-right:calc(.9rem + 68px); }
+body.arabic-mode .sub-bank-field.has-codes:has(.codes-checkout-toggle[hidden]) .sub-bank-input { padding-right:.9rem; padding-left:calc(.9rem + 68px); }
 @media(prefers-reduced-motion:reduce) { .codes-extras,.codes-checkout-toggle,.sharing-checkout-toggle { transition:none; } }

@@ -41,16 +41,32 @@
         } finally { clearTimeout(timer); }
     }
     function planInfo() {
-        if (_subSelectedPlan === 'son_of_sparda') return { base:600, addon:200, years:2, key:'regular_24m_2026', addonKey:'cinema_cloud_24m_sparda' };
-        if (_subSelectedPlan === 'dark_slayer') return { base:400, addon:100, years:1, key:'regular_12m_2026', addonKey:'cinema_cloud_12m_slayer' };
-        return null;
+        const plans = {
+            dark_knight: { base:60, addon:20, months:1, key:'regular_1m_2026', addonKey:'cinema_cloud_1m', installments:false, labelEn:'1 Month', labelAr:'شهر واحد' },
+            devil_hunter: { base:120, addon:50, months:3, key:'regular_3m_2026', addonKey:'cinema_cloud_3m', installments:false, labelEn:'3 Months', labelAr:'3 أشهر' },
+            dark_slayer: { base:400, addon:100, months:12, years:1, key:'regular_12m_2026', addonKey:'cinema_cloud_12m_slayer', installments:true, labelEn:'1 Year', labelAr:'سنة' },
+            son_of_sparda: { base:600, addon:200, months:24, years:2, key:'regular_24m_2026', addonKey:'cinema_cloud_24m_sparda', installments:true, labelEn:'2 Years', labelAr:'سنتان' }
+        };
+        return plans[_subSelectedPlan] || null;
+    }
+    // Enabled only after the canonical backend offers have been deployed and checked.
+    const OFFERS_READY = true;
+    const offersReady = () => OFFERS_READY;
+    function assertOfferReady(form) {
+        const plan = form.get('plan'), addon = form.get('addon');
+        const newOffer = /^(regular_codes_|bundle_codes_|cinema_codes_4x(?:1|3|12|24)m$)/.test(plan || '')
+            || /^cinema_cloud_(?:1|3|12|24)m$/.test(plan || '')
+            || ['cinema_cloud_1m', 'cinema_cloud_3m'].includes(addon);
+        if (newOffer && !offersReady()) throw Error(tr('Offer Unavailable', 'العرض غير متاح'));
     }
     function amount(total) {
         if (state.payment) return state.payment.payment_sar;
+        const codes = window.RetroCodes?.offer();
+        if (codes) return codes.sar;
         const plan = planInfo();
         if (!plan) return total;
         const price = plan.base + (_subAddonMode === 'add' ? plan.addon : 0);
-        return state.mode === 'installments' ? price / 2 : price;
+        return state.mode === 'installments' && plan.installments ? price / 2 : price;
     }
     function render() {
         if (!document?.body) return;
@@ -61,19 +77,21 @@
         const total = plan ? plan.base + (_subAddonMode === 'add' ? plan.addon : 0) : 0;
         fullPrice.textContent = tr(`${total} SAR`, `${total} ريال`);
         twoPrice.textContent = tr(`${total / 2} + ${total / 2} SAR`, `${total / 2} + ${total / 2} ريال`);
-        choice.hidden = !selected;
+        choice.hidden = !plan?.installments;
         choice.classList.toggle('is-fixed', !!state.payment);
         full.checked = state.mode === 'full'; two.checked = state.mode === 'installments';
         fullLabel.classList.toggle('active', full.checked); twoLabel.classList.toggle('active', two.checked);
-        const locked = !!document.getElementById('subBankSubmit')?.disabled || !!state.payment || !!window.RetroCodes?.enabled();
+        const checkoutLocked = !!document.getElementById('subBankSubmit')?.disabled || !!state.payment || !!window.RetroCodes?.busy();
+        const locked = checkoutLocked || !!window.RetroCodes?.enabled();
+        choice.inert = locked;
         full.disabled = two.disabled = locked;
         fullLabel.classList.toggle('is-disabled', locked); twoLabel.classList.toggle('is-disabled', locked);
         const addon = document.getElementById('subAddonAdd');
         if (addon) {
-            addon.disabled = locked;
+            addon.disabled = checkoutLocked;
             const price = addon.querySelector('.sub-addon-price');
             if (price) {
-                price.textContent = selected ? tr(`${plan.addon} SAR`, `${plan.addon} ريال`) : tr('100 SAR / 6 Months', '100 ريال / ٦ أشهر');
+                price.textContent = selected ? tr(`${plan.addon} SAR`, `${plan.addon} ريال`) : '';
                 price.removeAttribute('data-en'); price.removeAttribute('data-ar');
             }
         }
@@ -83,35 +101,39 @@
         schedule.hidden = !state.payment;
         const label = document.getElementById('subPayPlanLabel');
         if (selected && label) {
-            label.textContent = tr(`${plan.years === 1 ? '1 Year' : '2 Years'} · ${amount(0)} SAR${state.mode === 'installments' ? ' Now' : ''}`, `${plan.years === 1 ? 'سنة' : 'سنتان'} · ${amount(0)} ريال`);
+            label.textContent = tr(`${plan.labelEn} · ${amount(0)} SAR${state.mode === 'installments' && plan.installments ? ' Now' : ''}`, `${plan.labelAr} · ${amount(0)} ريال`);
             label.removeAttribute('data-en'); label.removeAttribute('data-ar');
         }
         const submit = document.getElementById('subBankSubmit');
         if (submit && !submit.disabled) submit.textContent = subSubmitLabel();
+        if (typeof subRenderCinemaOffers === 'function') subRenderCinemaOffers();
         window.RetroCodes?.render();
     }
     for (const input of [full, two]) input.addEventListener('change', () => {
-        if (state.payment || window.RetroCodes?.enabled() || document.getElementById('subBankSubmit')?.disabled) return;
+        if (state.payment || !planInfo()?.installments || window.RetroCodes?.enabled() || window.RetroCodes?.busy() || document.getElementById('subBankSubmit')?.disabled) { render(); return; }
         state.mode = input.value; _subSubmissionToken = null; subRenderSummary();
     });
     function begin() { state.payment = null; state.mode = 'full'; window.RetroCodes?.begin(); }
     async function prepare(form, token) {
         window.RetroCodes?.prepare(form);
+        assertOfferReady(form);
         if (form.get('purchase_kind') === 'codes') return token;
         const plan = planInfo();
         if (!plan || form.get('plan') !== plan.key) return token;
         const payment = state.payment;
-        const mode = state.mode;
+        const mode = plan.installments ? state.mode : 'full';
         const addon = !!payment?.addon || form.has('addon');
         if (!payment && mode === 'full' && !addon) return token;
         form.set('payment_mode', mode);
         form.set('source', app ? 'app' : 'website');
         if (addon) form.set('addon', plan.addonKey); else form.delete('addon');
         if (payment) form.set('payment_id', payment.id);
+        assertOfferReady(form);
         return token;
     }
     async function openPayment(payment) {
         if (_subPayAnimating || _subBankRequest) return;
+        if (!['regular_12m_2026', 'regular_24m_2026'].includes(payment.plan)) return;
         const version = state.generation;
         const s = await session();
         if (!s) return;
@@ -169,7 +191,7 @@
         } catch (error) { console.error('[PAYMENT] Refresh:', error); }
         finally { state.busy = false; if (state.dirty) { state.dirty = false; queueMicrotask(refresh); } }
     }
-    window.RetroPayments = { amount, render, begin, prepare, refresh, openPayment, openNotice,
+    window.RetroPayments = { amount, planInfo, offersReady, assertOfferReady, render, begin, prepare, refresh, openPayment, openNotice,
         hasPayment: () => !!state.payment, setFullPayment() { state.mode = 'full'; state.payment = null; } };
     new MutationObserver(render).observe(document.getElementById('subBankSubmit'), { attributes:true, attributeFilter:['disabled'] });
     new MutationObserver(render).observe(document.getElementById('subPayScreen'), { attributes:true, attributeFilter:['style'] });

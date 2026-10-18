@@ -8,7 +8,11 @@
         if (text) el.textContent = text;
         return el;
     };
-    const plans = { dark_knight: 1, dark_slayer: 10, son_of_sparda: 18 };
+    const plans = {
+        dark_knight: { count:1, baseKey:'regular_1m_2026', key:'regular_codes_1x1m', sar:60, bundleKey:'bundle_codes_1x1m', bundleSar:80 },
+        dark_slayer: { count:10, baseKey:'regular_12m_2026', key:'regular_codes_10x1m', sar:400, bundleKey:'bundle_codes_10x1m', bundleSar:500 },
+        son_of_sparda: { count:20, baseKey:'regular_24m_2026', key:'regular_codes_20x1m', sar:600, bundleKey:'bundle_codes_20x1m', bundleSar:800 }
+    };
     let enabled = false, switching = false, cinemaCheckout = false, checkoutGeneration = 0, generation = 0, account = '', count = 0, busy = false, refreshing = false, dirty = false;
     let summaryAnimations = [];
     let switchTarget = null;
@@ -25,12 +29,12 @@
     const friend = bankField?.querySelector('.sharing-checkout-toggle');
     if (friend) friend.before(toggle); else bankField?.append(toggle);
 
-    // Collapse both options as one region, retaining their original controls.
+    // Keep the optional upgrade available; only installments collapse in code mode.
     const extras = node('div', 'codes-extras'); const extrasInner = node('div', 'codes-extras-inner');
     const addon = document.getElementById('subAddonCard');
     const paymentChoice = document.querySelector('.payment-choice');
     if (addon) {
-        addon.before(extras); extras.append(extrasInner); extrasInner.append(addon);
+        addon.after(extras); extras.append(extrasInner);
         if (paymentChoice) extrasInner.append(paymentChoice);
     }
     const toast = (message, type = 'info') => window.showToast?.(message, type);
@@ -48,32 +52,45 @@
             return data;
         } finally { clearTimeout(timer); }
     }
+    function offer() {
+        if (!enabled) return null;
+        if (cinemaCheckout) {
+            const selected = typeof subCinemaOffer === 'function' ? subCinemaOffer() : null;
+            return selected && _subAddonMode === 'only' ? { key:selected.codesKey, sar:selected.codesSar, count:4, months:selected.months, codeType:'cinema' } : null;
+        }
+        const selected = plans[_subSelectedPlan];
+        const bundle = _subAddonMode === 'add';
+        return selected ? { key:bundle ? selected.bundleKey : selected.key, sar:bundle ? selected.bundleSar : selected.sar, count:selected.count, months:1, codeType:bundle ? 'bundle' : 'regular' } : null;
+    }
     function render() {
-        const quantity = cinemaCheckout ? 4 : plans[_subSelectedPlan];
-        toggle.disabled = switching || !!document.getElementById('subBankSubmit')?.disabled || !quantity || !!window.RetroPayments?.hasPayment();
+        const quantity = cinemaCheckout ? 4 : plans[_subSelectedPlan]?.count;
+        const checkoutLocked = switching || _subPayAnimating || !!_subBankRequest || (typeof _subReceiptTransitioning !== 'undefined' && _subReceiptTransitioning) || !!document.getElementById('subBankSubmit')?.disabled || !!window.RetroPayments?.hasPayment();
+        toggle.disabled = checkoutLocked || !quantity;
         toggle.hidden = !quantity;
         toggle.setAttribute('aria-pressed', String(enabled));
         toggle.setAttribute('aria-label', tr('Subscription Codes', 'أكواد الاشتراك'));
         tip.textContent = enabled ? tr('Subscription', 'اشتراك') : tr('Subscription Codes', 'أكواد الاشتراك');
         tip.setAttribute('data-en', enabled ? 'Subscription' : 'Subscription Codes');
         tip.setAttribute('data-ar', enabled ? 'اشتراك' : 'أكواد الاشتراك');
-        extras.classList.toggle('is-collapsed', enabled && !cinemaCheckout); extras.inert = enabled;
+        const target = switching && switchTarget !== null ? switchTarget : enabled;
+        extras.hidden = !paymentChoice || paymentChoice.hidden;
+        extras.classList.toggle('is-collapsed', target); extras.inert = enabled || checkoutLocked;
         bankField?.classList.toggle('codes-mode', switching && switchTarget !== null ? switchTarget : enabled);
+        window.RetroSharing?.setCheckoutDisabled(enabled || checkoutLocked);
+        if (addon) {
+            const upgrade = addon.querySelector('#subAddonAdd');
+            if (upgrade) upgrade.disabled = checkoutLocked;
+        }
         if (enabled) {
             const label = document.getElementById('subPayPlanLabel');
-            const total = typeof subTotalSar === 'function' ? subTotalSar() : 0;
+            const selected = offer();
+            const total = selected?.sar || 0;
             if (label) {
-                label.textContent = cinemaCheckout ? tr('Cinema + Cloud Codes · 250 SAR', 'أكواد السينما والسحابة · 250 ريال') : tr(`${quantity} Subscription Codes · ${total} SAR`, `${quantity} كود اشتراك · ${total} ريال`);
+                label.textContent = cinemaCheckout ? tr(`Cinema + Cloud Codes · ${total} SAR`, `أكواد السينما والسحابة · ${total} ريال`) : tr(`${quantity} ${selected?.codeType === 'bundle' ? 'Retro + Cinema + Cloud' : 'Subscription'} ${quantity === 1 ? 'Code' : 'Codes'} · ${total} SAR`, `${quantity} ${selected?.codeType === 'bundle' ? 'كود ريترو + السينما والسحابة' : 'كود اشتراك'} · ${total} ريال`);
                 label.removeAttribute('data-en'); label.removeAttribute('data-ar');
             }
-            addon?.querySelectorAll('button,input').forEach(control => { control.disabled = true; });
         }
-        if (cinemaCheckout) {
-            const row = document.getElementById('subAddonStandalone');
-            const label = row?.querySelector('.sub-addon-label'), price = row?.querySelector('.sub-addon-price');
-            if (label) { label.textContent = enabled ? tr('4 Codes · 6 Months Each', '4 أكواد · 6 أشهر لكل كود') : tr('Cinema + Unlimited Cloud', 'السينما + تخزين سحابي بلا حدود'); label.removeAttribute('data-en'); label.removeAttribute('data-ar'); }
-            if (price) { price.textContent = enabled ? tr('250 SAR', '250 ريال') : tr('100 SAR / 6 Months', '100 ريال / ٦ أشهر'); price.removeAttribute('data-en'); price.removeAttribute('data-ar'); }
-        }
+        if (typeof subRenderCinemaOffers === 'function') subRenderCinemaOffers();
         if (field) {
             field.placeholder = count ? tr(`${count} Unredeemed ${count === 1 ? 'Code' : 'Codes'}`, `${count} كود غير مستخدم`) : tr('Subscription Code', 'كود الاشتراك');
             field.disabled = !account || busy;
@@ -84,46 +101,51 @@
         }
     }
     async function switchMode() {
-        if (toggle.disabled || _subPayAnimating || _subBankRequest) return;
+        if (toggle.disabled || _subPayAnimating || _subBankRequest || (typeof _subReceiptTransitioning !== 'undefined' && _subReceiptTransitioning)) return;
         const version = checkoutGeneration;
         switching = true;
         switchTarget = !enabled;
         window.RetroSharing?.setCheckoutDisabled(true);
         try {
-            const summary = cinemaCheckout && !window.matchMedia?.('(prefers-reduced-motion: reduce)').matches
+            const summary = !window.matchMedia?.('(prefers-reduced-motion: reduce)').matches
                 ? ['subPayPlanLabel', 'subAddonStandalone', 'subBankSubmit'].map(id => document.getElementById(id)).filter(el => el?.animate) : [];
             render();
+            const collapsing = [...extras.getAnimations({ subtree: true }), ...(bankField?.querySelector('.sharing-checkout-toggle')?.getAnimations() || [])];
             summaryAnimations = summary.map(el => el.animate([{ opacity: 1 }, { opacity: 0 }], { duration: 400, fill: 'forwards' }));
             await Promise.all(summaryAnimations.map(a => a.finished.catch(() => {})));
             if (version !== checkoutGeneration) return;
             enabled = !enabled;
-            if (!cinemaCheckout) _subAddonMode = null;
             _subSubmissionToken = null;
             window.RetroSharing?.setCheckoutDisabled(true);
             window.RetroPayments?.setFullPayment();
             subRenderSummary(); render();
             summaryAnimations.forEach(a => a.cancel());
             summaryAnimations = summary.map(el => el.animate([{ opacity: 0 }, { opacity: 1 }], { duration: 400, fill: 'forwards' }));
-            const animations = [...extras.getAnimations({ subtree: true }), ...(bankField?.querySelector('.sharing-checkout-toggle')?.getAnimations() || [])];
-            await Promise.all([...animations, ...summaryAnimations].map(animation => animation.finished.catch(() => {})));
-        } finally { if (version === checkoutGeneration) { summaryAnimations.forEach(a => a.cancel()); summaryAnimations = []; switching = false; switchTarget = null; window.RetroSharing?.setCheckoutDisabled(enabled); render(); } }
+            await Promise.all([...collapsing, ...summaryAnimations].map(animation => animation.finished.catch(() => {})));
+        } finally { if (version === checkoutGeneration) { summaryAnimations.forEach(a => a.cancel()); summaryAnimations = []; switching = false; switchTarget = null; subRenderSummary(); render(); } }
     }
     toggle.addEventListener('click', switchMode);
     function begin() {
         ++checkoutGeneration; summaryAnimations.forEach(a => a.cancel()); summaryAnimations = [];
         enabled = false; switching = false; switchTarget = null;
-        cinemaCheckout = !plans[_subSelectedPlan] && _subAddonMode === 'only';
+        cinemaCheckout = !_subSelectedPlan && _subAddonMode === 'only';
         window.RetroSharing?.setCheckoutDisabled(false);
         extras.getAnimations({ subtree: true }).forEach(animation => animation.cancel());
         render();
     }
     function prepare(form) {
         if (switching) throw Error('Please Wait');
-        if (!enabled) return;
+        if (!enabled) {
+            if (form.get('purchase_kind') === 'codes') throw Error('Codes Unavailable');
+            return;
+        }
+        const selected = offer();
+        if (!selected) throw Error('Codes Unavailable');
+        if (!window.RetroPayments?.offersReady()) throw Error(tr('Offer Unavailable', 'العرض غير متاح'));
         if (cinemaCheckout) {
-            if (form.get('plan') !== 'cinema_cloud_6m' || _subAddonMode !== 'only') throw Error('Codes Unavailable');
-            form.set('plan', 'cinema_codes_4x6m');
-        } else if (!plans[_subSelectedPlan] || !['regular_1m_2026', 'regular_12m_2026', 'regular_24m_2026'].includes(form.get('plan'))) throw Error('Codes Unavailable');
+            if (form.get('plan') !== subCinemaOffer().key || _subAddonMode !== 'only') throw Error('Codes Unavailable');
+        } else if (form.get('plan') !== plans[_subSelectedPlan].baseKey) throw Error('Codes Unavailable');
+        form.set('plan', selected.key);
         form.set('purchase_kind', 'codes'); form.set('payment_mode', 'full'); form.set('source', app ? 'app' : 'website');
         form.delete('addon'); form.delete('sharing_email'); form.delete('payment_id');
     }
@@ -164,11 +186,11 @@
                 await window.isUserPremium?.();
                 if (version !== generation || (await session())?.user.id !== owner) return;
                 await window.updateProfileSubscriptionStat?.();
-                if (data.code_type === 'cinema' && data.state === 'active') await window.refreshAssignedServiceKeys?.(true);
+                if (['cinema', 'bundle'].includes(data.code_type) && (data.state === 'active' || data.cinema_state === 'active')) await window.refreshAssignedServiceKeys?.(true);
                 toast(data.state === 'awaiting_slots' ? tr('Awaiting Slots', 'بانتظار توفر الحسابات') : data.state === 'blocked' ? tr('Activation Pending', 'التفعيل قيد الانتظار') : tr('Code Redeemed', 'تم تفعيل الكود'), data.state === 'blocked' ? 'error' : data.state === 'awaiting_slots' ? 'info' : 'success');
             } else {
                 if (!data?.codes?.length) { toast(tr('No Codes', 'لا توجد أكواد'), 'error'); return; }
-                const text = data.groups?.length ? data.groups.map(group => `${group.code_type === 'cinema' ? 'Cinema + Cloud' : 'Retro Project'} · ${group.months} ${group.months === 1 ? 'Month' : 'Months'} Each\n\n${group.codes.join('\n')}`).join('\n\n\n') : data.codes.join('\n');
+                const text = data.groups?.length ? data.groups.map(group => `${group.code_type === 'bundle' ? 'Retro Project + Cinema + Cloud' : group.code_type === 'cinema' ? 'Cinema + Cloud' : 'Retro Project'} · ${group.months} ${group.months === 1 ? 'Month' : 'Months'} Each\n\n${group.codes.join('\n')}`).join('\n\n\n') : data.codes.join('\n');
                 const url = URL.createObjectURL(new Blob([text], { type: 'text/plain;charset=utf-8' }));
                 const link = node('a'); link.href = url; link.download = 'Subscription Codes.txt'; document.body.append(link); link.click(); link.remove();
                 setTimeout(() => URL.revokeObjectURL(url), 1000);
@@ -193,7 +215,7 @@
         const translate = () => { label.textContent = tr('Subscription Codes', 'أكواد الاشتراك'); render(); };
         new MutationObserver(translate).observe(document.body, { attributes: true, attributeFilter: ['class'] });
     }
-    window.RetroCodes = { enabled: () => enabled, cinemaEnabled: () => enabled && cinemaCheckout, busy: () => switching, begin, render, prepare, refresh,
+    window.RetroCodes = { enabled: () => enabled, cinemaEnabled: () => enabled && cinemaCheckout, busy: () => switching, offer, begin, render, prepare, refresh,
         async open() {
             await window.showSection?.('profile');
             const profile = document.getElementById('profile');

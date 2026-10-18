@@ -32,9 +32,24 @@ body.arabic-mode .payment-choice { font-family:Cairo,sans-serif; direction:rtl; 
 #subPayScreen .sub-addon-card,#subPayScreen .sub-addon-option { border-radius:4px; }
 #subPayScreen .sub-addon-title { font-weight:700; }
 #subPayScreen .sub-addon-price { color:#e0b64c; font-weight:700; }
+#subPayScreen .sub-addon-option { transition:border-color 800ms ease,background-color 800ms ease,box-shadow 800ms ease; }
+#subPayScreen .sub-addon-label { min-width:0; overflow-wrap:anywhere; line-height:1.4; transition:color 800ms ease; }
+#subPayScreen .sub-addon-radio { transition:border-color 800ms ease; }
+#subPayScreen .sub-addon-radio::after { content:''; position:absolute; inset:2px; border-radius:50%; background:#4682b4; box-shadow:0 0 8px #4682b4; opacity:0; transition:opacity 800ms ease; }
+#subPayScreen .sub-addon-option.active .sub-addon-radio::after { opacity:1; }
+.sub-cinema-options { display:grid; gap:8px; min-width:0; }
+.sub-cinema-count { color:#fff; text-align:center; font:700 16px Orbitron,monospace; line-height:1.5; padding:4px 0; }
+.sub-cinema-count[hidden] { display:none; }
+#subPayScreen .sub-cinema-option { position:relative; display:grid; grid-template-columns:16px minmax(0,1fr) auto; min-height:50px; height:auto; padding:10px 14px; letter-spacing:0; }
+#subPayScreen .sub-cinema-option:not(.active) { border-color:#4682b499; }
+.sub-cinema-option input { position:absolute; width:1px; height:1px; padding:0; margin:0; opacity:0; }
+.sub-cinema-option:has(input:focus-visible) { outline:2px solid #fff; outline-offset:2px; }
+#subPayScreen .sub-cinema-option.is-disabled,#subAddonAdd:disabled { cursor:default; }
+body.arabic-mode .sub-cinema-count { font-family:Cairo,sans-serif; }
 .notification-card.payment { border-color:var(--payment-color,#e0b64c); }
 .notification-card.payment .notification-icon,.notification-card.payment .notification-title { color:var(--payment-color,#e0b64c); font-weight:700; }
-@media(max-width:480px) { .payment-choice { padding:10px; } .payment-option { padding:10px; gap:8px; } }
+@media(max-width:480px) { .payment-choice { padding:10px; } .payment-option { padding:10px; gap:8px; } #subPayScreen .sub-cinema-option { padding:10px; gap:8px; } }
 @media(prefers-reduced-motion:reduce) {
     .payment-option,.payment-option-label,.payment-option-radio,.payment-option-radio::after { transition:none; }
+    #subPayScreen .sub-addon-option,#subPayScreen .sub-addon-label,#subPayScreen .sub-addon-radio,#subPayScreen .sub-addon-radio::after { transition:none; }
 }
