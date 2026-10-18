@@ -7286,6 +7286,7 @@
             }
             const exitSession = ++_subPaySession;
             _subAddonMode = null;
+            window.RetroPayments?.begin();
             _subSubmissionToken = null;
             screen.classList.add('sub-enter');
             setTimeout(() => {
@@ -12610,7 +12611,7 @@ function extractYouTubeVideoId(url) {
 <link rel="stylesheet" href="subscription-payments.css?v=offers-20261018-2">
 <script src="subscription-payments.js?v=cinema-codes-20261018"></script>
 <link rel="stylesheet" href="subscription-codes.css?v=offers-20261018">
-<script src="subscription-codes.js?v=cinema-codes-20261018"></script>
+<script src="subscription-codes.js?v=cinema-codes-resize-20261018"></script>
 </body>
 <!-- YouTube IFrame API -->
 <script src="https://www.youtube.com/iframe_api"></script>

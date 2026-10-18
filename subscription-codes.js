@@ -14,7 +14,7 @@
         son_of_sparda: { count:20, baseKey:'regular_24m_2026', key:'regular_codes_20x1m', sar:600, bundleKey:'bundle_codes_20x1m', bundleSar:800 }
     };
     let enabled = false, switching = false, cinemaCheckout = false, checkoutGeneration = 0, generation = 0, account = '', count = 0, busy = false, refreshing = false, dirty = false;
-    let summaryAnimations = [];
+    let summaryAnimations = [], resizeAnimations = [];
     let switchTarget = null;
     let field, keyButton, channel, channelUser = '';
     const email = document.getElementById('subBankEmail');
@@ -102,7 +102,7 @@
         }
     }
     async function switchMode() {
-        if (toggle.disabled || _subPayAnimating || _subBankRequest || (typeof _subReceiptTransitioning !== 'undefined' && _subReceiptTransitioning)) return;
+        if (switching || toggle.disabled || _subPayAnimating || _subBankRequest || (typeof _subReceiptTransitioning !== 'undefined' && _subReceiptTransitioning)) return;
         const version = checkoutGeneration;
         switching = true;
         switchTarget = !enabled;
@@ -110,6 +110,10 @@
         try {
             const summary = !window.matchMedia?.('(prefers-reduced-motion: reduce)').matches
                 ? ['subPayPlanLabel', 'subAddonStandalone', 'subBankSubmit'].map(id => document.getElementById(id)).filter(el => el?.animate) : [];
+            // Computed heights stay in CSS pixels, including under CSS zoom.
+            const layout = cinemaCheckout && summary.length ? ['subPayPlanLabel', 'subAddonCard']
+                .map(id => document.getElementById(id)).filter(el => el?.animate && el.getClientRects().length)
+                .map(el => ({ el, height: getComputedStyle(el).height })) : [];
             render();
             const collapsing = [...extras.getAnimations({ subtree: true }), ...(bankField?.querySelector('.sharing-checkout-toggle')?.getAnimations() || [])];
             summaryAnimations = summary.map(el => el.animate([{ opacity: 1 }, { opacity: 0 }], { duration: 400, fill: 'forwards' }));
@@ -120,14 +124,31 @@
             window.RetroSharing?.setCheckoutDisabled(true);
             window.RetroPayments?.setFullPayment();
             subRenderSummary(); render();
+            const resized = layout.filter(({ el }) => el.getClientRects().length)
+                .map(({ el, height }) => ({ el, height, target: getComputedStyle(el).height }))
+                .filter(({ height, target }) => {
+                    const from = parseFloat(height), to = parseFloat(target);
+                    return Number.isFinite(from) && Number.isFinite(to) && from > 0 && to > 0 && Math.abs(to - from) > 0.5;
+                });
+            resizeAnimations = resized.map(({ el, height, target }) => el.animate([{ height }, { height: target }], { duration: 800, easing: 'ease', fill: 'both' }));
+            await Promise.all(resizeAnimations.map(a => a.finished.catch(() => {})));
+            if (version !== checkoutGeneration) return;
+            resizeAnimations.forEach(a => a.cancel()); resizeAnimations = [];
             summaryAnimations.forEach(a => a.cancel());
             summaryAnimations = summary.map(el => el.animate([{ opacity: 0 }, { opacity: 1 }], { duration: 400, fill: 'forwards' }));
             await Promise.all([...collapsing, ...summaryAnimations].map(animation => animation.finished.catch(() => {})));
-        } finally { if (version === checkoutGeneration) { summaryAnimations.forEach(a => a.cancel()); summaryAnimations = []; switching = false; switchTarget = null; subRenderSummary(); render(); } }
+        } finally {
+            if (version === checkoutGeneration) {
+                summaryAnimations.forEach(a => a.cancel()); summaryAnimations = [];
+                resizeAnimations.forEach(a => a.cancel()); resizeAnimations = [];
+                switching = false; switchTarget = null; subRenderSummary(); render();
+            }
+        }
     }
     toggle.addEventListener('click', switchMode);
     function begin() {
         ++checkoutGeneration; summaryAnimations.forEach(a => a.cancel()); summaryAnimations = [];
+        resizeAnimations.forEach(a => a.cancel()); resizeAnimations = [];
         enabled = false; switching = false; switchTarget = null;
         _subCinemaQuantity = 1;
         cinemaCheckout = !_subSelectedPlan && _subAddonMode === 'only';
