@@ -6044,20 +6044,20 @@
                     <span class="sub-addon-price">20 SAR</span>
                 </button>
                 <div class="sub-cinema-options" id="subAddonStandalone" role="radiogroup" aria-labelledby="subCinemaTitle" style="display: none;">
-                    <div class="sub-cinema-count" id="subCinemaCodeCount" hidden data-en="4 Codes" data-ar="4 أكواد">4 Codes</div>
-                    <label class="sub-addon-option sub-cinema-option" data-months="1">
+                    <div class="sub-cinema-count" id="subCinemaCodeCount" dir="auto" hidden></div>
+                    <label class="sub-addon-option sub-cinema-option" data-months="1" data-code-count="1">
                         <input type="radio" name="cinema-duration" value="1" onchange="subSelectCinemaTerm(Number(this.value))">
                         <span class="sub-addon-radio" aria-hidden="true"></span><span class="sub-addon-label">1 Month</span><span class="sub-addon-price">20 SAR</span>
                     </label>
-                    <label class="sub-addon-option sub-cinema-option active" data-months="3">
+                    <label class="sub-addon-option sub-cinema-option active" data-months="3" data-code-count="3">
                         <input type="radio" name="cinema-duration" value="3" checked onchange="subSelectCinemaTerm(Number(this.value))">
                         <span class="sub-addon-radio" aria-hidden="true"></span><span class="sub-addon-label">3 Months</span><span class="sub-addon-price">50 SAR</span>
                     </label>
-                    <label class="sub-addon-option sub-cinema-option" data-months="12">
+                    <label class="sub-addon-option sub-cinema-option" data-months="12" data-code-count="10">
                         <input type="radio" name="cinema-duration" value="12" onchange="subSelectCinemaTerm(Number(this.value))">
                         <span class="sub-addon-radio" aria-hidden="true"></span><span class="sub-addon-label">12 Months</span><span class="sub-addon-price">100 SAR</span>
                     </label>
-                    <label class="sub-addon-option sub-cinema-option" data-months="24">
+                    <label class="sub-addon-option sub-cinema-option" data-months="24" data-code-count="20">
                         <input type="radio" name="cinema-duration" value="24" onchange="subSelectCinemaTerm(Number(this.value))">
                         <span class="sub-addon-radio" aria-hidden="true"></span><span class="sub-addon-label">24 Months</span><span class="sub-addon-price">200 SAR</span>
                     </label>
@@ -6923,12 +6923,19 @@
         // Cinema + Unlimited Cloud add-on — bank transfer only (no PayPal plan).
         const SUB_ADDON = { labelEn: 'Cinema + Unlimited Cloud', labelAr: 'السينما + تخزين سحابي بلا حدود' };
         const SUB_CINEMA_OFFERS = {
-            1:  { months: 1, key: 'cinema_cloud_1m', sar: 20, codesKey: 'cinema_codes_4x1m', codesSar: 80, labelEn: '1 Month', labelAr: 'شهر واحد' },
-            3:  { months: 3, key: 'cinema_cloud_3m', sar: 50, codesKey: 'cinema_codes_4x3m', codesSar: 200, labelEn: '3 Months', labelAr: '3 أشهر' },
-            12: { months: 12, key: 'cinema_cloud_12m', sar: 100, codesKey: 'cinema_codes_4x12m', codesSar: 400, labelEn: '12 Months', labelAr: '12 شهر' },
-            24: { months: 24, key: 'cinema_cloud_24m', sar: 200, codesKey: 'cinema_codes_4x24m', codesSar: 800, labelEn: '24 Months', labelAr: '24 شهر' }
+            1:  { months: 1, key: 'cinema_cloud_1m', sar: 20, labelEn: '1 Month', labelAr: 'شهر واحد' },
+            3:  { months: 3, key: 'cinema_cloud_3m', sar: 50, labelEn: '3 Months', labelAr: '3 أشهر' },
+            12: { months: 12, key: 'cinema_cloud_12m', sar: 100, labelEn: '12 Months', labelAr: '12 شهر' },
+            24: { months: 24, key: 'cinema_cloud_24m', sar: 200, labelEn: '24 Months', labelAr: '24 شهر' }
+        };
+        const SUB_CINEMA_CODE_OFFERS = {
+            1:  { count: 1, months: 1, key: 'cinema_codes_1x1m', sar: 20, labelEn: '1 Code', labelAr: '1 كود' },
+            3:  { count: 3, months: 1, key: 'cinema_codes_3x1m', sar: 50, labelEn: '3 Codes', labelAr: '3 أكواد' },
+            10: { count: 10, months: 1, key: 'cinema_codes_10x1m', sar: 100, labelEn: '10 Codes', labelAr: '10 أكواد' },
+            20: { count: 20, months: 1, key: 'cinema_codes_20x1m', sar: 200, labelEn: '20 Codes', labelAr: '20 كود' }
         };
         let _subCinemaMonths = 3;
+        let _subCinemaQuantity = 1;
         let _subAddonMode = null; // null | 'add' | 'only'
         let _subSelectedPlan = null;
         let _subSelectedBank = null;
@@ -7131,13 +7138,15 @@
         }
 
         function subCinemaOffer() { return SUB_CINEMA_OFFERS[_subCinemaMonths]; }
+        function subCinemaCodeOffer() { return SUB_CINEMA_CODE_OFFERS[_subCinemaQuantity]; }
 
-        function subSelectCinemaTerm(months) {
-            if (_subAddonMode !== 'only' || !SUB_CINEMA_OFFERS[months] || _subPayAnimating || _subBankRequest || _subReceiptTransitioning || window.RetroCodes?.busy() || document.getElementById('subBankSubmit')?.disabled) {
+        function subSelectCinemaTerm(value) {
+            const codes = !!window.RetroCodes?.cinemaEnabled();
+            const offers = codes ? SUB_CINEMA_CODE_OFFERS : SUB_CINEMA_OFFERS;
+            if (_subAddonMode !== 'only' || !offers[value] || _subPayAnimating || _subBankRequest || _subReceiptTransitioning || window.RetroCodes?.busy() || document.getElementById('subBankSubmit')?.disabled) {
                 subRenderCinemaOffers(); return;
             }
-            if (_subCinemaMonths === months) return;
-            _subCinemaMonths = months;
+            if (codes) _subCinemaQuantity = value; else _subCinemaMonths = value;
             _subSubmissionToken = null;
             subRenderSummary();
         }
@@ -7146,15 +7155,20 @@
             const codes = !!window.RetroCodes?.cinemaEnabled();
             const locked = _subPayAnimating || !!_subBankRequest || _subReceiptTransitioning || !!window.RetroCodes?.busy() || !!document.getElementById('subBankSubmit')?.disabled;
             const count = document.getElementById('subCinemaCodeCount');
-            if (count) { count.hidden = !codes; subSetBilingual(count, '4 Codes', '4 أكواد'); }
+            if (count) {
+                count.hidden = !codes;
+                const selected = subCinemaCodeOffer();
+                subSetBilingual(count, `${selected.labelEn} · 1 Month Each`, `${selected.labelAr} · شهر لكل كود`);
+            }
             document.querySelectorAll('.sub-cinema-option').forEach(row => {
-                const offer = SUB_CINEMA_OFFERS[row.dataset.months];
+                const offer = codes ? SUB_CINEMA_CODE_OFFERS[row.dataset.codeCount] : SUB_CINEMA_OFFERS[row.dataset.months];
                 const input = row.querySelector('input');
-                input.checked = offer.months === _subCinemaMonths; input.disabled = locked;
+                input.name = codes ? 'cinema-quantity' : 'cinema-duration';
+                input.value = String(codes ? offer.count : offer.months);
+                input.checked = codes ? offer.count === _subCinemaQuantity : offer.months === _subCinemaMonths; input.disabled = locked;
                 row.classList.toggle('active', input.checked); row.classList.toggle('is-disabled', locked);
-                const price = codes ? offer.codesSar : offer.sar;
-                subSetBilingual(row.querySelector('.sub-addon-label'), codes ? `${offer.labelEn} Each` : offer.labelEn, codes ? `${offer.months === 1 ? 'شهر' : offer.labelAr} لكل كود` : offer.labelAr);
-                subSetBilingual(row.querySelector('.sub-addon-price'), `${price} SAR`, `${price} ريال`);
+                subSetBilingual(row.querySelector('.sub-addon-label'), offer.labelEn, offer.labelAr);
+                subSetBilingual(row.querySelector('.sub-addon-price'), `${offer.sar} SAR`, `${offer.sar} ريال`);
             });
         }
 
@@ -12594,9 +12608,9 @@ function extractYouTubeVideoId(url) {
     <link rel="stylesheet" href="subscription-sharing.css?v=friend-email-1">
     <script src="subscription-sharing.js?v=codes-1"></script>
 <link rel="stylesheet" href="subscription-payments.css?v=offers-20261018-2">
-<script src="subscription-payments.js?v=offers-20261018"></script>
+<script src="subscription-payments.js?v=cinema-codes-20261018"></script>
 <link rel="stylesheet" href="subscription-codes.css?v=offers-20261018">
-<script src="subscription-codes.js?v=offers-20261018"></script>
+<script src="subscription-codes.js?v=cinema-codes-20261018"></script>
 </body>
 <!-- YouTube IFrame API -->
 <script src="https://www.youtube.com/iframe_api"></script>

@@ -54,7 +54,7 @@
     const offersReady = () => OFFERS_READY;
     function assertOfferReady(form) {
         const plan = form.get('plan'), addon = form.get('addon');
-        const newOffer = /^(regular_codes_|bundle_codes_|cinema_codes_4x(?:1|3|12|24)m$)/.test(plan || '')
+        const newOffer = /^(regular_codes_|bundle_codes_|cinema_codes_)/.test(plan || '')
             || /^cinema_cloud_(?:1|3|12|24)m$/.test(plan || '')
             || ['cinema_cloud_1m', 'cinema_cloud_3m'].includes(addon);
         if (newOffer && !offersReady()) throw Error(tr('Offer Unavailable', 'العرض غير متاح'));
@@ -119,6 +119,10 @@
         assertOfferReady(form);
         if (form.get('purchase_kind') === 'codes') return token;
         const plan = planInfo();
+        if (!plan && _subAddonMode === 'only' && form.get('plan') === subCinemaOffer().key) {
+            form.set('payment_mode', 'full'); form.set('source', app ? 'app' : 'website');
+            return token;
+        }
         if (!plan || form.get('plan') !== plan.key) return token;
         const payment = state.payment;
         const mode = plan.installments ? state.mode : 'full';

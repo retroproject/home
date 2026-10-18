@@ -55,15 +55,15 @@
     function offer() {
         if (!enabled) return null;
         if (cinemaCheckout) {
-            const selected = typeof subCinemaOffer === 'function' ? subCinemaOffer() : null;
-            return selected && _subAddonMode === 'only' ? { key:selected.codesKey, sar:selected.codesSar, count:4, months:selected.months, codeType:'cinema' } : null;
+            const selected = typeof subCinemaCodeOffer === 'function' ? subCinemaCodeOffer() : null;
+            return selected && _subAddonMode === 'only' ? { key:selected.key, sar:selected.sar, count:selected.count, months:selected.months, codeType:'cinema' } : null;
         }
         const selected = plans[_subSelectedPlan];
         const bundle = _subAddonMode === 'add';
         return selected ? { key:bundle ? selected.bundleKey : selected.key, sar:bundle ? selected.bundleSar : selected.sar, count:selected.count, months:1, codeType:bundle ? 'bundle' : 'regular' } : null;
     }
     function render() {
-        const quantity = cinemaCheckout ? 4 : plans[_subSelectedPlan]?.count;
+        const quantity = cinemaCheckout ? subCinemaCodeOffer()?.count : plans[_subSelectedPlan]?.count;
         const checkoutLocked = switching || _subPayAnimating || !!_subBankRequest || (typeof _subReceiptTransitioning !== 'undefined' && _subReceiptTransitioning) || !!document.getElementById('subBankSubmit')?.disabled || !!window.RetroPayments?.hasPayment();
         toggle.disabled = checkoutLocked || !quantity;
         toggle.hidden = !quantity;
@@ -86,7 +86,8 @@
             const selected = offer();
             const total = selected?.sar || 0;
             if (label) {
-                label.textContent = cinemaCheckout ? tr(`Cinema + Cloud Codes · ${total} SAR`, `أكواد السينما والسحابة · ${total} ريال`) : tr(`${quantity} ${selected?.codeType === 'bundle' ? 'Retro + Cinema + Cloud' : 'Subscription'} ${quantity === 1 ? 'Code' : 'Codes'} · ${total} SAR`, `${quantity} ${selected?.codeType === 'bundle' ? 'كود ريترو + السينما والسحابة' : 'كود اشتراك'} · ${total} ريال`);
+                label.dir = 'auto';
+                label.textContent = cinemaCheckout ? tr(`${quantity} Cinema + Cloud ${quantity === 1 ? 'Code' : 'Codes'} · 1 Month Each · ${total} SAR`, `${quantity} ${quantity === 1 || quantity > 10 ? 'كود' : 'أكواد'} السينما والسحابة · شهر لكل كود · ${total} ريال`) : tr(`${quantity} ${selected?.codeType === 'bundle' ? 'Retro + Cinema + Cloud' : 'Subscription'} ${quantity === 1 ? 'Code' : 'Codes'} · ${total} SAR`, `${quantity} ${selected?.codeType === 'bundle' ? 'كود ريترو + السينما والسحابة' : 'كود اشتراك'} · ${total} ريال`);
                 label.removeAttribute('data-en'); label.removeAttribute('data-ar');
             }
         }
@@ -128,6 +129,7 @@
     function begin() {
         ++checkoutGeneration; summaryAnimations.forEach(a => a.cancel()); summaryAnimations = [];
         enabled = false; switching = false; switchTarget = null;
+        _subCinemaQuantity = 1;
         cinemaCheckout = !_subSelectedPlan && _subAddonMode === 'only';
         window.RetroSharing?.setCheckoutDisabled(false);
         extras.getAnimations({ subtree: true }).forEach(animation => animation.cancel());
