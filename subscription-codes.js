@@ -10,7 +10,7 @@
     };
     const plans = {
         dark_knight: { count:1, baseKey:'regular_1m_2026', key:'regular_codes_1x1m', sar:60, bundleKey:'bundle_codes_1x1m', bundleSar:80 },
-        dark_slayer: { count:10, baseKey:'regular_12m_2026', key:'regular_codes_10x1m', sar:400, bundleKey:'bundle_codes_10x1m', bundleSar:500 },
+        dark_slayer: { count:10, baseKey:'regular_12m_2026', key:'regular_codes_10x1m', sar:400, bundleKey:'bundle_codes_10x1m_20261019', bundleSar:550 },
         son_of_sparda: { count:20, baseKey:'regular_24m_2026', key:'regular_codes_20x1m', sar:600, bundleKey:'bundle_codes_20x1m', bundleSar:800 }
     };
     let enabled = false, switching = false, cinemaCheckout = false, checkoutGeneration = 0, generation = 0, account = '', count = 0, busy = false, refreshing = false, dirty = false;

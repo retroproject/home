@@ -44,19 +44,32 @@
         const plans = {
             dark_knight: { base:60, addon:20, months:1, key:'regular_1m_2026', addonKey:'cinema_cloud_1m', installments:false, labelEn:'1 Month', labelAr:'شهر واحد' },
             devil_hunter: { base:120, addon:50, months:3, key:'regular_3m_2026', addonKey:'cinema_cloud_3m', installments:false, labelEn:'3 Months', labelAr:'3 أشهر' },
-            dark_slayer: { base:400, addon:100, months:12, years:1, key:'regular_12m_2026', addonKey:'cinema_cloud_12m_slayer', installments:true, labelEn:'1 Year', labelAr:'سنة' },
+            dark_slayer: { base:400, addon:150, months:12, years:1, key:'regular_12m_2026', addonKey:'cinema_cloud_12m_slayer_20261019', installments:true, labelEn:'1 Year', labelAr:'سنة' },
             son_of_sparda: { base:600, addon:200, months:24, years:2, key:'regular_24m_2026', addonKey:'cinema_cloud_24m_sparda', installments:true, labelEn:'2 Years', labelAr:'سنتان' }
         };
         return plans[_subSelectedPlan] || null;
+    }
+    function planTotal(plan) {
+        const payment = state.payment;
+        return payment ? payment.total_sar ?? payment.payment_sar * (payment.mode === 'installments' ? 2 : 1)
+            : plan.base + (_subAddonMode === 'add' ? plan.addon : 0);
+    }
+    function addonInfo() {
+        const plan = planInfo(), payment = state.payment;
+        const sar = payment ? (payment.addon ? planTotal(plan) - plan.base : 0) : plan.addon;
+        const key = typeof payment?.addon === 'string' ? payment.addon
+            : payment?.addon && plan.months === 12 && sar === 100 ? 'cinema_cloud_12m_slayer' : plan.addonKey;
+        return { key, sar };
     }
     // Enabled only after the canonical backend offers have been deployed and checked.
     const OFFERS_READY = true;
     const offersReady = () => OFFERS_READY;
     function assertOfferReady(form) {
+        if (state.payment) return;
         const plan = form.get('plan'), addon = form.get('addon');
         const newOffer = /^(regular_codes_|bundle_codes_|cinema_codes_)/.test(plan || '')
-            || /^cinema_cloud_(?:1|3|12|24)m$/.test(plan || '')
-            || ['cinema_cloud_1m', 'cinema_cloud_3m'].includes(addon);
+            || /^cinema_cloud_(?:1|3|12|24)m(?:_20261019)?$/.test(plan || '')
+            || ['cinema_cloud_1m', 'cinema_cloud_3m', 'cinema_cloud_12m_slayer_20261019'].includes(addon);
         if (newOffer && !offersReady()) throw Error(tr('Offer Unavailable', 'العرض غير متاح'));
     }
     function amount(total) {
@@ -74,7 +87,7 @@
         const selected = !!plan;
         choiceTitle.textContent = tr('Payment & Installments', 'الدفع والتقسيط');
         fullText.textContent = tr('One Payment', 'دفعة واحدة'); twoText.textContent = tr('Two Monthly Payments', 'دفعتين على شهرين');
-        const total = plan ? plan.base + (_subAddonMode === 'add' ? plan.addon : 0) : 0;
+        const total = plan ? planTotal(plan) : 0;
         fullPrice.textContent = tr(`${total} SAR`, `${total} ريال`);
         twoPrice.textContent = tr(`${total / 2} + ${total / 2} SAR`, `${total / 2} + ${total / 2} ريال`);
         choice.hidden = !plan?.installments;
@@ -91,7 +104,8 @@
             addon.disabled = checkoutLocked;
             const price = addon.querySelector('.sub-addon-price');
             if (price) {
-                price.textContent = selected ? tr(`${plan.addon} SAR`, `${plan.addon} ريال`) : '';
+                const extra = selected ? addonInfo().sar : 0;
+                price.textContent = selected ? tr(`${extra} SAR`, `${extra} ريال`) : '';
                 price.removeAttribute('data-en'); price.removeAttribute('data-ar');
             }
         }
@@ -130,7 +144,7 @@
         if (!payment && mode === 'full' && !addon) return token;
         form.set('payment_mode', mode);
         form.set('source', app ? 'app' : 'website');
-        if (addon) form.set('addon', plan.addonKey); else form.delete('addon');
+        if (addon) form.set('addon', addonInfo().key); else form.delete('addon');
         if (payment) form.set('payment_id', payment.id);
         assertOfferReady(form);
         return token;
