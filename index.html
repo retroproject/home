@@ -9401,17 +9401,14 @@
             }
         }
 
-        // Infinite retry for game covers. On slow internet archive.org often
-        // drops the connection mid-transfer → browser fires 'error'. Instead
-        // of giving up and showing a placeholder, we retry forever with
-        // exponential backoff (1s, 2s, 4s, 8s, 16s, capped at 30s). A stall
+        // Retry interrupted cover loads from the same source with exponential
+        // backoff (1s, 2s, 4s, 8s, 16s, capped at 30s). A stall
         // timer catches requests that hang without firing load or error.
         // The generation counter prevents stale events from an aborted retry
         // from cascading into additional retries.
         function wireInfiniteCoverRetry(img, card) {
             const STALL_TIMEOUT_MS = 15000;
             const originalSrc = img.src;
-            const getRetryBaseSrc = () => img.dataset?.originalAssetUrl || originalSrc;
             let attempt = 0;
             let generation = 0;
             let settled = false;
@@ -9439,7 +9436,7 @@
                 const delay = Math.min(1000 * Math.pow(2, attempt - 1), 30000);
                 setTimeout(() => {
                     if (settled || myGen !== generation) return;
-                    const retrySrc = getRetryBaseSrc();
+                    const retrySrc = originalSrc;
                     const sep = retrySrc.indexOf('?') === -1 ? '?' : '&';
                     img.src = retrySrc + sep + '_retry=' + attempt;
                     armStall(myGen);
@@ -9481,7 +9478,7 @@
 
         function normalizeBookForSite(book) {
             const title = book.Title || book.title || 'Unknown Book';
-            const coverOriginal = book.CoverUrl || book.coverUrl || '';
+            const coverUrl = resolveSiteAssetUrl(book.CoverUrl || book.coverUrl || '');
             const tags = Array.isArray(book.Tags) ? book.Tags : [];
 
             return {
@@ -9491,8 +9488,7 @@
                 author: book.Author || book.author || '',
                 series: book.Series || book.series || '',
                 tags,
-                cover: coverOriginal ? resolveSiteAssetUrl(coverOriginal) : createBookPlaceholderCover(),
-                originalCover: coverOriginal,
+                cover: coverUrl || createBookPlaceholderCover(),
                 searchText: [
                     title,
                     book.SortingTitle || '',
@@ -9615,7 +9611,6 @@
                 <div class="book-card" style="opacity: 0; visibility: visible;" onclick="showErrorToast('App only feature')">
                     <img class="book-cover"
                          src="${escapeHtml(book.cover)}"
-                         data-original-asset-url="${escapeHtml(book.originalCover || '')}"
                          alt="${escapeHtml(book.title)}"
                          loading="eager">
                 </div>
@@ -9656,7 +9651,6 @@
                     <div class="book-card" style="opacity: 0; visibility: visible;" onclick="showErrorToast('App only feature')">
                         <img class="book-cover"
                              src="${escapeHtml(book.cover)}"
-                             data-original-asset-url="${escapeHtml(book.originalCover || '')}"
                              alt="${escapeHtml(book.title)}"
                              loading="eager">
                     </div>
@@ -10201,7 +10195,6 @@
                     <div class="game-card" style="opacity: 0; visibility: visible;" onclick="showErrorToast('App only feature')">
                         <img class="game-cover"
                              src="${game.cover}"
-                             data-original-asset-url="${escapeHtml(game.originalCover || '')}"
                              alt="${game.name}"
                              loading="eager">
                     </div>
@@ -10245,7 +10238,6 @@
                         <div class="game-card" style="opacity: 0; visibility: visible;" onclick="showErrorToast('App only feature')">
                             <img class="game-cover"
                                  src="${game.cover}"
-                                 data-original-asset-url="${escapeHtml(game.originalCover || '')}"
                                  alt="${game.name}"
                                  loading="eager">
                         </div>
@@ -11119,160 +11111,26 @@ let videoMonitorInterval = null; // Interval to monitor video position
 let directTrailerPlayer = null;
 
         const GAMES_DATABASE_URL = 'https://catalog.retroproject.org/games.json';
-        const CLOUDFLARE_LOCALDB_BASE_URL = 'https://db.retroproject.org/localdb';
-        const cloudflareAssetFallbacks = new Map();
-
-        function normalizeAssetUrlKey(url) {
+        function resolveSiteAssetUrl(value) {
+            if (typeof value !== 'string' || !value.trim()) return '';
             try {
-                const parsed = new URL(String(url || ''), window.location.href);
-                return `${parsed.origin}${parsed.pathname}`;
+                const url = new URL(value);
+                if (url.protocol !== 'https:' || url.username || url.password || url.port) return '';
+                const hosts = ['db.retroproject.org', 'youtube.com', 'www.youtube.com', 'm.youtube.com',
+                    'youtu.be', 'www.youtube-nocookie.com', 'youtube-nocookie.com'];
+                return hosts.includes(url.hostname) ? url.href : '';
             } catch (_error) {
-                return String(url || '').split('?')[0].split('#')[0];
+                return '';
             }
         }
 
-        function isArchiveDownloadAssetUrl(url) {
-            try {
-                const parsed = new URL(String(url || ''));
-                const host = parsed.hostname.toLowerCase();
-                const pathParts = parsed.pathname.split('/').filter(Boolean);
-                return (host === 'archive.org' || host === 'www.archive.org') &&
-                    pathParts.length >= 3 &&
-                    pathParts[0] === 'download';
-            } catch (_error) {
-                return false;
-            }
-        }
-
-        function isCloudflareLocalDbAssetUrl(url) {
-            try {
-                const parsed = new URL(String(url || ''));
-                return parsed.origin === 'https://db.retroproject.org' &&
-                    parsed.pathname.startsWith('/localdb/');
-            } catch (_error) {
-                return false;
-            }
-        }
-
-        function extractAndDecodeFilename(url) {
-            try {
-                const parsed = new URL(String(url || ''));
-                const parts = parsed.pathname.split('/').filter(Boolean);
-                return decodeURIComponent(parts[parts.length - 1] || '');
-            } catch (_error) {
-                const parts = String(url || '').split('?')[0].split('#')[0].split('/');
-                try {
-                    return decodeURIComponent(parts[parts.length - 1] || '');
-                } catch (__error) {
-                    return parts[parts.length - 1] || '';
-                }
-            }
-        }
-
-        function encodeLocalDbFilename(filename) {
-            return encodeURIComponent(filename)
-                .replace(/[!'()*]/g, char => `%${char.charCodeAt(0).toString(16).toUpperCase()}`);
-        }
-
-        function getCloudflareLocalDbUrl(originalUrl) {
-            if (!isArchiveDownloadAssetUrl(originalUrl)) return '';
-            const filename = extractAndDecodeFilename(originalUrl);
-            return filename ? `${CLOUDFLARE_LOCALDB_BASE_URL}/${encodeLocalDbFilename(filename)}` : '';
-        }
-
-        function registerCloudflareAssetFallback(cloudflareUrl, originalUrl) {
-            if (!cloudflareUrl || !originalUrl || cloudflareUrl === originalUrl) return;
-            cloudflareAssetFallbacks.set(normalizeAssetUrlKey(cloudflareUrl), originalUrl);
-        }
-
-        function getCloudflareAssetFallback(url, originalUrl = '') {
-            const mapped = cloudflareAssetFallbacks.get(normalizeAssetUrlKey(url));
-            if (mapped) return mapped;
-            if (originalUrl && isCloudflareLocalDbAssetUrl(url) && url !== originalUrl) return originalUrl;
-            return '';
-        }
-
-        function resolveSiteAssetUrl(originalUrl) {
-            if (!originalUrl || typeof originalUrl !== 'string') return originalUrl;
-            const cloudflareUrl = getCloudflareLocalDbUrl(originalUrl);
-            if (cloudflareUrl) {
-                registerCloudflareAssetFallback(cloudflareUrl, originalUrl);
-                return cloudflareUrl;
-            }
-            return originalUrl;
-        }
-
-        function tryCloudflareAssetFallback(element, originalUrl = '') {
-            if (!element || element.dataset?.cloudflareFallbackTried === '1') return false;
-
-            const currentUrl = element.currentSrc || element.src || '';
-            const fallbackUrl = getCloudflareAssetFallback(currentUrl, originalUrl || element.dataset?.originalAssetUrl || '');
-            if (!fallbackUrl || fallbackUrl === currentUrl) return false;
-
-            if (element.dataset) {
-                element.dataset.cloudflareFallbackTried = '1';
-                element.dataset.originalAssetUrl = fallbackUrl;
-            }
-
-            element.src = fallbackUrl;
-            if (element.tagName === 'SOURCE' && typeof element.parentElement?.load === 'function') {
-                try { element.parentElement.load(); } catch (_error) {}
-            } else if (typeof element.load === 'function') {
-                try { element.load(); } catch (_error) {}
-            }
-            return true;
-        }
-
-        function installCloudflareAssetFallbackHandler() {
-            if (window.__cloudflareAssetFallbackHandlerInstalled) return;
-            window.__cloudflareAssetFallbackHandlerInstalled = true;
-
-            document.addEventListener('error', (event) => {
-                const element = event.target;
-                const tagName = element?.tagName;
-                if (!tagName || !['IMG', 'AUDIO', 'VIDEO', 'SOURCE'].includes(tagName)) return;
-
-                if (tryCloudflareAssetFallback(element)) {
-                    event.preventDefault();
-                    event.stopImmediatePropagation();
-                }
-            }, true);
-        }
-
-        function preloadImageWithCloudflareFallback(resolvedUrl, originalUrl = '') {
+        function preloadSiteImage(url) {
             return new Promise((resolve) => {
                 const img = new Image();
-                let triedFallback = false;
-
                 img.onload = () => resolve(img.src);
-                img.onerror = () => {
-                    const fallbackUrl = getCloudflareAssetFallback(img.src, originalUrl);
-                    if (!triedFallback && fallbackUrl && fallbackUrl !== img.src) {
-                        triedFallback = true;
-                        img.src = fallbackUrl;
-                        return;
-                    }
-                    resolve('');
-                };
-
-                img.src = resolvedUrl;
+                img.onerror = () => resolve('');
+                img.src = url;
             });
-        }
-
-        function createAudioWithCloudflareFallback(resolvedUrl, originalUrl = '') {
-            const audio = new Audio();
-            let triedFallback = false;
-            audio.addEventListener('error', () => {
-                const fallbackUrl = getCloudflareAssetFallback(audio.src, originalUrl);
-                if (!triedFallback && fallbackUrl && fallbackUrl !== audio.src) {
-                    triedFallback = true;
-                    audio.src = fallbackUrl;
-                    audio.load();
-                    audio.play().catch(() => {});
-                }
-            });
-            audio.src = resolvedUrl;
-            return audio;
         }
 
         function isDirectVideoUrl(url) {
@@ -11284,8 +11142,6 @@ let directTrailerPlayer = null;
             }
         }
 
-        installCloudflareAssetFallbackHandler();
-
         // Enhanced game information database
         const gameInfo = {
             'Final Fantasy X': {
@@ -11296,7 +11152,6 @@ let directTrailerPlayer = null;
                 length: '46-60 hours',
                 story: 'Experience the epic journey of Tidus, a star blitzball player, as he finds himself in the mystical world of Spira alongside summoner Yuna on her pilgrimage to defeat the colossal menace known as Sin.',
                 rating: '92/100',
-                musicUrl: 'https://archive.org/download/FinalFantasyXOST/14%20-%20To%20Zanarkand.mp3',
                 backgroundImage: null
             },
             'Chrono Trigger': {
@@ -11307,7 +11162,6 @@ let directTrailerPlayer = null;
                 length: '20-25 hours',
                 story: 'A group of adventurers travel through time to prevent a global catastrophe. Featuring multiple endings and time periods spanning from 65,000,000 BC to 2300 AD.',
                 rating: '95/100',
-                musicUrl: 'https://archive.org/download/ChronoTriggerOST/01%20-%20Chrono%20Trigger.mp3',
                 backgroundImage: null
             },
             'Secret of Mana': {
@@ -11318,7 +11172,6 @@ let directTrailerPlayer = null;
                 length: '15-20 hours',
                 story: 'A young boy pulls a rusty sword from a stone and sets off a chain of events that leads him on an epic quest to save the world from the empire and restore the power of Mana.',
                 rating: '89/100',
-                musicUrl: 'https://archive.org/download/SecretOfManaOST/01%20-%20Fear%20of%20the%20Heavens.mp3',
                 backgroundImage: null
             }
         };
@@ -11346,7 +11199,7 @@ let directTrailerPlayer = null;
             return '';
         }
 
-        // Load game data from GitHub (same source as the app)
+        // Load game data from Retro Database.
         async function loadGameData() {
     try {
         const response = await fetch(`${GAMES_DATABASE_URL}?t=${Date.now()}`);
@@ -11359,21 +11212,13 @@ let directTrailerPlayer = null;
                 
                 // Process the data to match our site's format
 allGameData = retroData.map(game => {
-    const coverOriginal = game.CoverUrl || "";
-    const backgroundOriginal = game.BackgroundUrl || "";
-    const musicOriginal = game.MusicUrl || "";
-    const trailerOriginal = game.YouTubeUrl || "";
-
     return {
         id: game._id || "",
         name: game.Name || "Unknown Game",
         sortingName: game.SortingName || game.Name || "Unknown Game",
-        cover: resolveSiteAssetUrl(coverOriginal),
-        coverOriginal,
-        background: resolveSiteAssetUrl(backgroundOriginal),
-        backgroundOriginal,
-        music: resolveSiteAssetUrl(musicOriginal),
-        musicOriginal,
+        cover: resolveSiteAssetUrl(game.CoverUrl),
+        background: resolveSiteAssetUrl(game.BackgroundUrl),
+        music: resolveSiteAssetUrl(game.MusicUrl),
         story: game.Description || "Story information not available.",
         releaseDate: game.ReleaseDate || "Unknown",
         // Keep single values for display (backward compatibility)
@@ -11386,8 +11231,7 @@ allGameData = retroData.map(game => {
         developers: game.DeveloperNames || [],
         tags: game.Tags || [],
         rating: convertToStars(game.CriticScore),
-        youtubeUrl: resolveSiteAssetUrl(trailerOriginal),
-        youtubeOriginal: trailerOriginal,
+        youtubeUrl: resolveSiteAssetUrl(game.YouTubeUrl),
         videoStart: game.videoStart || null,
         videoEnd: game.videoEnd || null
     };
@@ -11397,7 +11241,6 @@ allGameData = retroData.map(game => {
                 allGames = allGameData.map(game => ({
                     name: game.name,
                     cover: game.cover,
-                    originalCover: game.coverOriginal,
                     sortingName: game.sortingName || game.name,
                     searchName: game.name.toLowerCase()
                 })).sort((a, b) => a.sortingName.localeCompare(b.sortingName));
@@ -11499,22 +11342,16 @@ allGameData = retroData.map(game => {
             // Use background from JSON data only
             if (gameData && gameData.background && !isMobile) {
                 info.backgroundImage = gameData.background;
-                info.backgroundOriginal = gameData.backgroundOriginal || '';
             } else {
                 info.backgroundImage = null;
-                info.backgroundOriginal = '';
             }
             // On mobile, explicitly prevent background images
             if (isMobile) {
                 info.backgroundImage = null;
-                info.backgroundOriginal = '';
             }
             
             // Use music from JSON data
-            if (gameData && gameData.music) {
-                info.musicUrl = gameData.music;
-                info.musicOriginal = gameData.musicOriginal || '';
-            }
+            info.musicUrl = gameData?.music || '';
             
             // Find dynamic music for this game
             if (info.musicUrl) {
@@ -11522,14 +11359,12 @@ allGameData = retroData.map(game => {
 
             // Set basic info immediately
             cover.src = coverUrl;
-            cover.dataset.originalAssetUrl = gameData ? (gameData.coverOriginal || '') : '';
             cover.alt = gameName;
             
             // Add click handler ONLY for gamePageCover trailer animation
 if (cover.id === 'gamePageCover') {
     // Store YouTube URL and video timing as data attributes
     cover.dataset.youtubeUrl = youtubeUrl || (gameData ? gameData.youtubeUrl : '');
-    cover.dataset.originalTrailerUrl = gameData ? (gameData.youtubeOriginal || '') : '';
     cover.dataset.videoStart = gameData ? gameData.videoStart : null;
     cover.dataset.videoEnd = gameData ? gameData.videoEnd : null;
     cover.onclick = () => playGameCoverTrailer(gameName);
@@ -11791,7 +11626,7 @@ if (cover.id === 'gamePageCover') {
 
             // Preload background image if available
             if (info.backgroundImage && !isMobile) {
-                preloadImageWithCloudflareFallback(info.backgroundImage, info.backgroundOriginal).then((loadedSrc) => {
+                preloadSiteImage(info.backgroundImage).then((loadedSrc) => {
                     if (loadedSrc) {
                         info.backgroundImage = loadedSrc;
                     }
@@ -11804,7 +11639,7 @@ if (cover.id === 'gamePageCover') {
 
             // Preload music if available
             if (info.musicUrl) {
-                const audio = createAudioWithCloudflareFallback(info.musicUrl, info.musicOriginal);
+                const audio = new Audio(info.musicUrl);
                 audio.preload = 'auto';
                 audio.addEventListener('canplaythrough', () => {
                     info.musicUrl = audio.src || info.musicUrl;
@@ -11821,7 +11656,7 @@ if (cover.id === 'gamePageCover') {
             }
 
             // Preload cover image
-            preloadImageWithCloudflareFallback(coverUrl, gameData ? gameData.coverOriginal : '').then((loadedSrc) => {
+            preloadSiteImage(coverUrl).then((loadedSrc) => {
                 if (loadedSrc && cover.src !== loadedSrc) {
                     cover.src = loadedSrc;
                 }
@@ -11848,7 +11683,7 @@ if (cover.id === 'gamePageCover') {
                             clearInterval(fadeOutInterval);
                             
                             // Start new music
-                            gamePageAudio = createAudioWithCloudflareFallback(info.musicUrl, info.musicOriginal);
+                            gamePageAudio = new Audio(info.musicUrl);
                             gamePageAudio.loop = true;
                             gamePageAudio.volume = 0;
                             gamePageAudio.play().then(() => {
@@ -11873,7 +11708,7 @@ if (cover.id === 'gamePageCover') {
                     }, 80);
                 } else {
                     // No original music, just start new music with smooth fade in
-                    gamePageAudio = createAudioWithCloudflareFallback(info.musicUrl, info.musicOriginal);
+                    gamePageAudio = new Audio(info.musicUrl);
                     gamePageAudio.loop = true;
                     gamePageAudio.volume = 0;
                     gamePageAudio.play().then(() => {
@@ -12133,7 +11968,6 @@ async function playGameCoverTrailer(gameName) {
 
     // Get YouTube URL and timing from data attributes
     const youtubeUrl = cover.dataset.youtubeUrl;
-    const originalTrailerUrl = cover.dataset.originalTrailerUrl || youtubeUrl;
     const videoStart = cover.dataset.videoStart !== 'null' ? parseFloat(cover.dataset.videoStart) : null;
     const videoEnd = cover.dataset.videoEnd !== 'null' ? parseFloat(cover.dataset.videoEnd) : null;
     
@@ -12147,7 +11981,7 @@ async function playGameCoverTrailer(gameName) {
     }
 
     if (isDirectVideoUrl(youtubeUrl)) {
-        playDirectVideoTrailer(cover, youtubeUrl, originalTrailerUrl);
+        playDirectVideoTrailer(cover, youtubeUrl);
         return;
     }
 
@@ -12223,7 +12057,7 @@ async function playGameCoverTrailer(gameName) {
     }, 800); // Wait for fade animation
 }
 
-function playDirectVideoTrailer(cover, trailerUrl, originalTrailerUrl = '') {
+function playDirectVideoTrailer(cover, trailerUrl) {
     cover.classList.add('fade-black');
     fadeBackgroundMusicDown();
 
@@ -12240,19 +12074,6 @@ function playDirectVideoTrailer(cover, trailerUrl, originalTrailerUrl = '') {
             videoOverlay.classList.add('show');
 
             directTrailerPlayer = videoOverlay.querySelector('video');
-            directTrailerPlayer.dataset.originalAssetUrl = originalTrailerUrl || '';
-
-            let triedFallback = false;
-            directTrailerPlayer.addEventListener('error', () => {
-                const fallbackUrl = getCloudflareAssetFallback(directTrailerPlayer.src, originalTrailerUrl);
-                if (!triedFallback && fallbackUrl && fallbackUrl !== directTrailerPlayer.src) {
-                    triedFallback = true;
-                    directTrailerPlayer.src = fallbackUrl;
-                    directTrailerPlayer.load();
-                    directTrailerPlayer.play().catch(() => {});
-                }
-            });
-
             directTrailerPlayer.src = trailerUrl;
             directTrailerPlayer.volume = 1;
 
