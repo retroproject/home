@@ -6036,33 +6036,6 @@
                     <span class="sub-pay-icon-fallback" style="display: none; background: #fff; color: #003087;">PayPal</span>
                 </button>
             </div>
-            <div id="subAddonCard" class="sub-addon-card">
-                <div class="sub-addon-title" id="subCinemaTitle"><img class="sub-addon-icon" src="icons/cinema.png" alt=""><span data-en="Cinema + Unlimited Cloud" data-ar="السينما + تخزين سحابي بلا حدود">Cinema + Unlimited Cloud</span></div>
-                <button type="button" class="sub-addon-option" id="subAddonAdd" onclick="subToggleAddon('add')">
-                    <span class="sub-addon-radio"></span>
-                    <span class="sub-addon-label" data-en="Cinema + Unlimited Cloud" data-ar="السينما + تخزين سحابي بلا حدود">Cinema + Unlimited Cloud</span>
-                    <span class="sub-addon-price">20 SAR</span>
-                </button>
-                <div class="sub-cinema-options" id="subAddonStandalone" role="radiogroup" aria-labelledby="subCinemaTitle" style="display: none;">
-                    <div class="sub-cinema-count" id="subCinemaCodeCount" dir="auto" hidden></div>
-                    <label class="sub-addon-option sub-cinema-option" data-months="1" data-code-count="1">
-                        <input type="radio" name="cinema-duration" value="1" onchange="subSelectCinemaTerm(Number(this.value))">
-                        <span class="sub-addon-radio" aria-hidden="true"></span><span class="sub-addon-label">1 Month</span><span class="sub-addon-price">20 SAR</span>
-                    </label>
-                    <label class="sub-addon-option sub-cinema-option active" data-months="3" data-code-count="3">
-                        <input type="radio" name="cinema-duration" value="3" checked onchange="subSelectCinemaTerm(Number(this.value))">
-                        <span class="sub-addon-radio" aria-hidden="true"></span><span class="sub-addon-label">3 Months</span><span class="sub-addon-price">50 SAR</span>
-                    </label>
-                    <label class="sub-addon-option sub-cinema-option" data-months="12" data-code-count="10">
-                        <input type="radio" name="cinema-duration" value="12" onchange="subSelectCinemaTerm(Number(this.value))">
-                        <span class="sub-addon-radio" aria-hidden="true"></span><span class="sub-addon-label">12 Months</span><span class="sub-addon-price">150 SAR</span>
-                    </label>
-                    <label class="sub-addon-option sub-cinema-option" data-months="24" data-code-count="20">
-                        <input type="radio" name="cinema-duration" value="24" onchange="subSelectCinemaTerm(Number(this.value))">
-                        <span class="sub-addon-radio" aria-hidden="true"></span><span class="sub-addon-label">24 Months</span><span class="sub-addon-price">200 SAR</span>
-                    </label>
-                </div>
-            </div>
             <div id="subBankForm" class="sub-bank-form" style="display: none;">
                 <div class="sub-bank-iban" id="subBankIban" onclick="subCopyIban()" title="Click to copy IBAN">
                     <span id="subBankIbanText"></span>
@@ -6150,9 +6123,6 @@
                     </div>
             </div>
 
-            <div class="subscription-tier-row sub-addon-link-row">
-                <div class="sub-addon-link" onclick="subShowPayScreen(null, 'only')"><img class="sub-addon-icon" src="icons/cinema.png" alt=""><span data-en="Cinema + Unlimited Cloud" data-ar="السينما + تخزين سحابي بلا حدود">Cinema + Unlimited Cloud</span></div>
-            </div>
 
         </div>
     </div>
@@ -7239,7 +7209,7 @@
 
         function subShowPayScreen(planKey, addonMode = null) {
             const hasPlan = !!SUB_PLANS[planKey];
-            if (_subPayAnimating || (!hasPlan && addonMode !== 'only')) return;
+            if (_subPayAnimating || !hasPlan) return;
             _subPayAnimating = true;
             _subPaySession++;
             _subSelectedPlan = hasPlan ? planKey : null;
@@ -12428,11 +12398,11 @@ function extractYouTubeVideoId(url) {
         loadGameData();
     </script>
     <link rel="stylesheet" href="subscription-sharing.css?v=friend-email-1">
-    <script src="subscription-sharing.js?v=codes-1"></script>
+    <script src="subscription-sharing.js?v=20261125"></script>
 <link rel="stylesheet" href="subscription-payments.css?v=offers-20261018-2">
-<script src="subscription-payments.js?v=20261019"></script>
+<script src="subscription-payments.js?v=20261125"></script>
 <link rel="stylesheet" href="subscription-codes.css?v=offers-20261018">
-<script src="subscription-codes.js?v=20261019"></script>
+<script src="subscription-codes.js?v=20261125"></script>
 </body>
 <!-- YouTube IFrame API -->
 <script src="https://www.youtube.com/iframe_api"></script>

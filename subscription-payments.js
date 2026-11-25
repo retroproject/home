@@ -26,7 +26,7 @@
     const options = make('div', '', 'payment-choice-options'); options.append(fullLabel, twoLabel);
     const schedule = make('div', '', 'payment-schedule'); schedule.setAttribute('role', 'status');
     choice.append(choiceTitle, options, schedule);
-    document.getElementById('subAddonCard')?.after(choice);
+    document.getElementById('subBankForm')?.before(choice);
 
     async function session() {
         const c = await initializeSupabase();
@@ -66,11 +66,10 @@
     const offersReady = () => OFFERS_READY;
     function assertOfferReady(form) {
         if (state.payment) return;
-        const plan = form.get('plan'), addon = form.get('addon');
-        const newOffer = /^(regular_codes_|bundle_codes_|cinema_codes_)/.test(plan || '')
-            || /^cinema_cloud_(?:1|3|12|24)m(?:_20261019)?$/.test(plan || '')
-            || ['cinema_cloud_1m', 'cinema_cloud_3m', 'cinema_cloud_12m_slayer_20261019'].includes(addon);
-        if (newOffer && !offersReady()) throw Error(tr('Offer Unavailable', 'العرض غير متاح'));
+        const plan = form.get('plan') || '';
+        if (/^(cinema|bundle_codes_)/.test(plan) || form.has('addon') || (plan.startsWith('regular_codes_') && !offersReady())) {
+            throw Error(tr('Offer Unavailable', 'العرض غير متاح'));
+        }
     }
     function amount(total) {
         if (state.payment) return state.payment.payment_sar;
@@ -133,14 +132,10 @@
         assertOfferReady(form);
         if (form.get('purchase_kind') === 'codes') return token;
         const plan = planInfo();
-        if (!plan && _subAddonMode === 'only' && form.get('plan') === subCinemaOffer().key) {
-            form.set('payment_mode', 'full'); form.set('source', app ? 'app' : 'website');
-            return token;
-        }
         if (!plan || form.get('plan') !== plan.key) return token;
         const payment = state.payment;
         const mode = plan.installments ? state.mode : 'full';
-        const addon = !!payment?.addon || form.has('addon');
+        const addon = !!payment?.addon;
         if (!payment && mode === 'full' && !addon) return token;
         form.set('payment_mode', mode);
         form.set('source', app ? 'app' : 'website');

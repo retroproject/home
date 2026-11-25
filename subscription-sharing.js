@@ -149,7 +149,7 @@
     if (app && anchor) anchor.parentElement.after(manager);
 
     if (app) {
-        let checking = false, resetNotified = false, preparedFor = '';
+        let checking = false, resetNotified = false;
         const checkSession = async () => {
             if (checking || document.hidden) return; checking = true;
             try {
@@ -162,9 +162,6 @@
                     return;
                 }
                 if (access.device_valid) resetNotified = false;
-                if (access.cinema && preparedFor !== s.access_token) {
-                    await rpc('prepare_my_shared_services'); preparedFor = s.access_token;
-                }
             } catch (_) { /* Temporary network errors do not log out a valid user. */ }
             finally { checking = false; }
         };

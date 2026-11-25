@@ -29,13 +29,11 @@
     const friend = bankField?.querySelector('.sharing-checkout-toggle');
     if (friend) friend.before(toggle); else bankField?.append(toggle);
 
-    // Keep the optional upgrade available; only installments collapse in code mode.
+    // Only installment choices collapse in code mode.
     const extras = node('div', 'codes-extras'); const extrasInner = node('div', 'codes-extras-inner');
-    const addon = document.getElementById('subAddonCard');
     const paymentChoice = document.querySelector('.payment-choice');
-    if (addon) {
-        addon.after(extras); extras.append(extrasInner);
-        if (paymentChoice) extrasInner.append(paymentChoice);
+    if (paymentChoice) {
+        paymentChoice.before(extras); extras.append(extrasInner); extrasInner.append(paymentChoice);
     }
     const toast = (message, type = 'info') => window.showToast?.(message, type);
     async function session() {
@@ -77,10 +75,6 @@
         extras.classList.toggle('is-collapsed', target); extras.inert = enabled || checkoutLocked;
         bankField?.classList.toggle('codes-mode', switching && switchTarget !== null ? switchTarget : enabled);
         window.RetroSharing?.setCheckoutDisabled(enabled || checkoutLocked);
-        if (addon) {
-            const upgrade = addon.querySelector('#subAddonAdd');
-            if (upgrade) upgrade.disabled = checkoutLocked;
-        }
         if (enabled) {
             const label = document.getElementById('subPayPlanLabel');
             const selected = offer();
